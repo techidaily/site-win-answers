@@ -1,7 +1,7 @@
 ---
 title: "Disco Elysium PC Game Errors Resolved: Smooth Sailing Now"
-date: 2024-12-02T18:16:19.163Z
-updated: 2024-12-06T17:23:42.871Z
+date: 2024-12-10T17:55:08.058Z
+updated: 2024-12-12T18:59:46.220Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ When you double-click Discord but the program won’t open, it could be very fru
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  In this guide, you’ll learn 3 easy methods to fix Discord won’t open issue. Work your way down the list until you find the one that works.
@@ -39,10 +35,6 @@ When you double-click Discord but the program won’t open, it could be very fru
 7. [Reinstall the Discord](https://tools.techidaily.com/drivereasy/download/)  
 [Bonus: Update your driver](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Kill Discord task
 
  You can probably fix this glitch by a simple restart. Kill the Discord task completely and relaunch it.
@@ -50,6 +42,10 @@ When you double-click Discord but the program won’t open, it could be very fru
  1) Press**the Windows logo key + R** together and type**cmd** on your keyboard. Then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/command-prompt-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Type**taskkill /F /IM discord.exe** and press the**Enter** key.
 
@@ -66,10 +62,6 @@ When you double-click Discord but the program won’t open, it could be very fru
  2) Then click**Time & Language** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/time.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) In the right pane, turn on the button under**Set time automatically** .
 
@@ -93,7 +85,7 @@ If it doesn’t work, move to the next fix.
  4) Discord should open.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Use Task Manager
@@ -109,7 +101,7 @@ If it doesn’t work, move to the next fix.
 3) Restart Discord. It should open.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Disable your proxies
@@ -120,10 +112,6 @@ If it doesn’t work, move to the next fix.
  1) Press the**Windows logo key + Pause** and click**Control Panel Home** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/p4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Set Control Panel**View by Category** and click**Network and Internet** .
 
@@ -138,14 +126,22 @@ If it doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/p2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Uncheck**Use a proxy server for your LAN** . Then click OK to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/p3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6) Relaunch the Discord and it should open.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Flushing your DNS
 
@@ -176,6 +172,10 @@ If it doesn’t work, move to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-426.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Right-click Discord in the list and select **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/uninstall-discord.jpg)
@@ -183,7 +183,7 @@ If it doesn’t work, move to the next fix.
  4) Download and install[Discord](https://discordapp.com/) from the official website. Then run Discord again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Bonus: Update your driver
@@ -217,12 +217,12 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -249,24 +249,14 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-concepts-behind-striking-fb-video-promos/"><u>[New] In 2024, Concepts Behind Striking FB Video Promos</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-masterclass-on-premiere-pro-fullscreen-mode-finesse/"><u>[Updated] Masterclass on Premiere Pro Fullscreen Mode Finesse</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-mastering-the-art-of-visual-flow-with-kinemaster/"><u>[Updated] Mastering the Art of Visual Flow with Kinemaster</u></a></li>
-<li><a href="https://win-answers.techidaily.com/windows101112/"><u>「Windows」で始める！10・11対応のベストフリー音声編集ソフトウェア12選をご紹介 - 検索最適化されたタイトル</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-android-audio-alchemy-selecting-the-top-free-downloader-apps-from-youtube/"><u>2024 Approved Android Audio Alchemy Selecting the Top Free Downloader Apps From YouTube</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-unveiling-youtube-live-an-overview-of-thumbnails/"><u>2024 Approved Unveiling YouTube Live An Overview of Thumbnails</u></a></li>
-<li><a href="https://win-answers.techidaily.com/veoh/"><u>容赦なく楽しめるVeohの映画、アニメ動画ダウンロードガイド</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-xiaomi-mix-fold-3-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Xiaomi Mix Fold 3 without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Google Pixel 8? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-nokia-c02-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Nokia C02 Phone FRP Lock</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-professionals-guide-to-outstanding-4k-filmmaking-gear/"><u>In 2024, Professionals' Guide to Outstanding 4K Filmmaking Gear</u></a></li>
-<li><a href="https://techidaily.com/remove-hot-40i-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Hot 40i unlock screen</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-replacement-options-when-the-official-kodil-repository-is-unavailable-download-alternate-addon-packages/"><u>Top Replacement Options When the Official Kodil Repository Is Unavailable - Download Alternate Addon Packages</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-dvd-ripper-accelerate-your-video-and-dvd-conversions-with-wonderfox/"><u>Ultimate DVD Ripper: Accelerate Your Video & DVD Conversions with WonderFox</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-to-tweaking-dat-video-playback-for-enhanced-quality/"><u>Ultimate Guide to Tweaking DAT Video Playback for Enhanced Quality</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-safe-methods-to-rip-burn-and-duplicate-your-dvdcd-content/"><u>Ultimate Guide: Safe Methods to Rip, Burn & Duplicate Your DVD/CD Content</u></a></li>
-<li><a href="https://win-answers.techidaily.com/webm-to-avi-conversion-effective-techniques-both-on-and-off-the-internet/"><u>WebM to AVI Conversion: Effective Techniques Both On and Off the Internet</u></a></li>
-<li><a href="https://win-answers.techidaily.com/windowsmac-pcmov/"><u>WindowsとMac両方用: PC上のMOVファイルを簡単にカットするコツ</u></a></li>
-<li><a href="https://win-answers.techidaily.com/wmawavwmawav/"><u>WMAとWAVでは異なる点と、WMAをWAVにどう変換するか</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-expertly-edit-your-imagery-with-top-androidios-montage-apps-for-2024/"><u>[New] Expertly Edit Your Imagery with Top Android/iOS Montage Apps for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-envelop-your-senses-in-virtual-realms-the-best-vr-playback-systems-for-pc/"><u>[Updated] Envelop Your Senses in Virtual Realms The Best VR Playback Systems for PC</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-intro-to-using-snap-camera-effectively-in-meetings/"><u>2024 Approved Intro to Using Snap Camera Effectively in Meetings</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-get-valheim-running-smoothly-at-boot-time-issues-solved/"><u>How to Get Valheim Running Smoothly at Boot Time | Issues Solved</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-nubia-z50s-pro-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Nubia Z50S Pro</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-loongson-powered-dtx-boards-and-pcs-in-the-us-market-for-only-373-begin-your-high-performance-journey-today/"><u>Introducing Loongson Powered DTX Boards and PCs in the US Market for Only $373, Begin Your High-Performance Journey Today!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-activating-and-setting-up-hyper-v-on-windows-11/"><u>Step-by-Step Guide: Activating and Setting Up Hyper-V on Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/understanding-and-fixing-persistent-pc-issues-in-the-ascent-video-game/"><u>Understanding and Fixing Persistent PC Issues in 'The Ascent' Video Game</u></a></li>
+<li><a href="https://win-answers.techidaily.com/windows-11-hyper-v-setup-walkthrough-activate-and-install-easy-steps/"><u>Windows 11 Hyper-V Setup Walkthrough – Activate and Install Easy Steps</u></a></li>
 </ul></div>
 

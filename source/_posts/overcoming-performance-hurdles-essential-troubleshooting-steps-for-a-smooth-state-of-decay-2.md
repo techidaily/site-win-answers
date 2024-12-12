@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Performance Hurdles: Essential Troubleshooting Steps for a Smooth State of Decay 2"
-date: 2024-11-14T04:44:01.019Z
-updated: 2024-11-17T02:12:55.115Z
+date: 2024-12-08T18:45:43.176Z
+updated: 2024-12-12T16:53:01.081Z
 tags:
   - win11
   - win10
@@ -37,6 +37,10 @@ Finally, Cyberpunk 2077 is released! But it could be very frustrating to encount
 5. **[Reinstall your game](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your graphics driver
 
  Your graphics card (GPU) is one of the most important components in gaming performance, especially for AAA games like Cyberpunk 2077\. If you’re using an outdated graphics driver, or the driver is corrupted, you’re likely to encounter game issues. So, make sure your graphics driver is updated.
@@ -50,9 +54,17 @@ Finally, Cyberpunk 2077 is released! But it could be very frustrating to encount
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-57-32.jpg)
 3. Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[](https://tools.techidaily.com/drivereasy/download/) [Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-58-08.jpg)
 4. Relaunch Cyberpunk 2077 to check.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -68,17 +80,22 @@ If your issue continues to occur, you can move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-03-45.jpg)
 2. Right-click the programs you want to close and select **End Task** . Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-07-59.jpg)
 3. Restart Cyberpunk 2077 to see if this fixed your issue.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If this fix doesn’t help your case, simply take a look at the next one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Verify your game files
 
@@ -95,6 +112,10 @@ If your issue continues to occur, you can move to the next fix.
 
  If your game still won’t run correctly, then go ahead with the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Adjust your virtual memory
 
 **Virtual memory**  is basically an extension of your computer’s physical memory. It is a combination of RAM and a portion of your hard drive. If your computer runs out of RAM when running Cyberpunk 2077, Windows will dip into virtual memory for temporary file storage.
@@ -107,28 +128,18 @@ If your issue continues to occur, you can move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-41.jpg)
 2. Click **Settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-35.jpg)
 3. Click the **Advanced**  tab, and then click **Change** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-31.jpg)
 4. Uncheck the box next to **Automatically manage paging file size for all drives** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-27-1.jpg)
 5. Click your **C drive** .  
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-22.jpg)
 6. Click the option button next to **Custom size** , and then type **4096** in the text box next to **Initial size (MB)**  and **Maximum size (MB)** .Microsoft recommends that you set your virtual memory three times the size of your physical memory (RAM) or 4 GB (4096M), whichever is larger.  
@@ -139,26 +150,10 @@ If your issue continues to occur, you can move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-13.jpg)
 8. Restart your computer and test your game.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If your issue still exists, move to the next fix.
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Reinstall your game
@@ -174,13 +169,6 @@ If your issue still exists, move to the next fix.
 
 If the issue continues to occur, go to the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 6: Perform a clean boot
 
  A clean boot is basically starting your system with the most basic services and programs. In some cases, this can minimize the chances of software conflicts and reserve the most resources for your game.
@@ -194,25 +182,11 @@ You can follow these simple steps to do a clean boot:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your video card or sound card manufacturer, such as **Realtek** , **AMD** , **NVIDIA**  and **Intel** . Then click **OK**  to save the changes.  
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/msconfig-uncheck-services-clean-boot.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC and check if Cyberpunk 2077 freezing again.
@@ -238,20 +212,24 @@ You can follow these simple steps to do a clean boot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-best-10-ways-to-convert-youtube-to-mpeg/"><u>[New] 2024 Approved Best 10 Ways to Convert YouTube to MPEG</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-dynamic-and-simple-building-a-subscriber-button-for-youtube-using-filmora-for-2024/"><u>[Updated] Dynamic and Simple Building a Subscriber Button for YouTube Using Filmora for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-distance-doesnt-matter-advanced-podcast-capturing/"><u>2024 Approved Distance Doesn't Matter Advanced Podcast Capturing</u></a></li>
-<li><a href="https://win-answers.techidaily.com/bypassing-dota-2s-recent-anti-cheat-penalt-error-code-vac/"><u>Bypassing Dota 2'S Recent Anti-Cheat Penalt# Error Code: [VAC]</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-advice-to-overcome-guilty-gear-strike-eternal-crashing-problems-on-your-laptop/"><u>Expert Advice to Overcome Guilty Gear Strike Eternal Crashing Problems on Your Laptop</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixes-and-solutions-how-to-prevent-spellbreak-from-crashing-on-windows/"><u>Fixes & Solutions: How to Prevent Spellbreak From Crashing on Windows</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-oppo-find-n3-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Oppo Find N3 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-realme-11-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Realme 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/instantaneous-imagery-a-step-by-step-for-quick-google-collage-photos/"><u>Instantaneous Imagery A Step-by-Step for Quick Google Collage Photos</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcome-common-street-fighter-6-crashes-on-pc-with-these-effective-fixes/"><u>Overcome Common Street Fighter 6 Crashes on PC with These Effective Fixes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcome-gameplay-interruptions-eliminating-stutters-and-glitches-in-pcs-fall-guys/"><u>Overcome Gameplay Interruptions: Eliminating Stutters and Glitches in PC's Fall Guys</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcome-steams-remote-play-hurdles-expert-guides-for-smooth-streaming-across-devices/"><u>Overcome Steam's Remote Play Hurdles: Expert Guides for Smooth Streaming Across Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/powerful-scripts-to-detect-pcs-ip-and-mac/"><u>Powerful Scripts to Detect PC's IP and MAC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-dota-2-stability-issues-step-by-step-solutions/"><u>Resolving Dota 2 Stability Issues - Step-by-Step Solutions!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/secure-your-exclusive-deal-purchase-an-rtx-3070-now-for-a-whopping-220-off-at-zdnets-recommended-retailer/"><u>Secure Your Exclusive Deal: Purchase an RTX 3070 Now for a Whopping $220 Off at ZDNet's Recommended Retailer!</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-iphones-made-simple-how-to-save-and-savor-animated-images-for-2024/"><u>[New] IPhones Made Simple How to Save and Savor Animated Images for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-unseen-wonders-in-vlcs-arsenal-of-features-for-2024/"><u>[New] Unseen Wonders in VLC's Arsenal of Features for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-convenient-approaches-to-archive-vimeo-video/"><u>[Updated] Convenient Approaches to Archive Vimeo Video</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-enhance-viewership-with-advanced-youtube-video-tracker-tools-for-2024/"><u>[Updated] Enhance Viewership with Advanced YouTube Video Tracker Tools for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-cutting-edge-memes-top-ten-template-showcase/"><u>[Updated] In 2024, Cutting Edge Memes Top Ten Template Showcase</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-prowl-without-interrups-find-the-best-7-android-adblock-tools/"><u>[Updated] Prowl Without Interrups Find the Best 7 Android AdBlock Tools</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-game-disruptions-top-fixes-for-phasmophobias-crash-problems/"><u>Beat Game Disruptions: Top Fixes for Phasmophobia's Crash Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/black-desert-pc-issues-understanding-and-fixing-sudden-crashes-during-play/"><u>Black Desert PC Issues: Understanding and Fixing Sudden Crashes During Play</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722988531557-ghost-recon-breakpoint-enhancements-easy-fixes-for-seamless-gaming-sessions/"><u>Ghost Recon Breakpoint Enhancements: Easy Fixes for Seamless Gaming Sessions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-ensure-smooth-performance-dealing-with-deathloops-freezing-problems-on-pc-and-ps5/"><u>How To Ensure Smooth Performance: Dealing With Deathloop's Freezing Problems On PC & PS5</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-watchful-eye-app-critique-and-rating/"><u>In 2024, The Watchful Eye App Critique and Rating</u></a></li>
+<li><a href="https://article-helps.techidaily.com/oceans-secrets-revealed-the-finest-aquatic-videography-gear-for-2024/"><u>Ocean's Secrets Revealed The Finest Aquatic Videography Gear for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-compatibility-hurdles-ensuring-smooth-operation-of-battlenet-on-pcs/"><u>Overcoming Compatibility Hurdles: Ensuring Smooth Operation of Battle.net on PCs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-launch-hurdles-7-key-fixes-for-playing-overwatch-2-successfully/"><u>Overcoming Launch Hurdles: 7 Key Fixes for Playing Overwatch 2 Successfully</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-issue-troubleshooting-steps-for-playing-monster-hunter-stories-2-wings-of-ruin/"><u>Resolved Issue: Troubleshooting Steps for Playing Monster Hunter Stories 2: Wings of Ruin</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/svenska-grev-valkommen-till-sverige/"><u>Svenska Grev: Välkommen Till Sverige</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshoot-and-enhance-your-star-wars-gameplay-on-pc-with-these-fixes/"><u>Troubleshoot & Enhance Your Star Wars Gameplay on PC with These Fixes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-the-ark-application-handling-sudden-breakdowns-efficiently/"><u>Troubleshooting the ARK Application - Handling Sudden Breakdowns Efficiently</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/what-do-top-10-tech-gurus-think-about-the-progress-and-impact-of-artificial-intelligence/"><u>What Do Top 10 Tech Gurus Think About The Progress and Impact of Artificial Intelligence?</u></a></li>
 </ul></div>
 

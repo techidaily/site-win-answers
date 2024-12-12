@@ -1,7 +1,7 @@
 ---
 title: "DIY Fixes: Eradicate Your FIFA 19'S DirectX Problems Without a Hitch"
-date: 2024-10-01T16:22:12.153Z
-updated: 2024-10-03T18:20:41.191Z
+date: 2024-12-09T16:21:34.064Z
+updated: 2024-12-12T17:11:01.826Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ Some players are reporting that they can’t get past the Mojang screen. It look
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all; just walk your way down until you find the one that works.
@@ -33,19 +37,6 @@ Some players are reporting that they can’t get past the Mojang screen. It look
 5. **[End the runtime broker](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Run Minecraft Launcher in compatibility mode](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Perform a clean reinstall](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Uninstall your antivirus software
 
@@ -64,6 +55,10 @@ The known problematic software are:
 * etc.
 
  You can view[the full list](https://minecrafthopper.net/help/known-incompatible-software/) of known incompatible software here.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Don’t use free VPNs
 
@@ -86,15 +81,12 @@ There are mainly two ways to update your device drivers:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/scan.png)
 3. Click **Update** next to your graphics card to download the latest driver, and then install it manually (you can do this in the Free version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[](https://tools.techidaily.com/drivereasy/download/) [Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you get 30-day money back guarantee and full technical support.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -111,13 +103,6 @@ There are mainly two ways to update your device drivers:
 4. Restart the computer and see if Minecraft launches then.
 
  Note: If you’re looking for advanced malware protection and don’t want it to mess with your Minecraft, you can check **[Malwarebyte](https://tools.techidaily.com/drivereasy/download/)** [**s**](https://tools.techidaily.com/drivereasy/download/) . (It offers the Free and Premium version, and the free version includes a 14-day trial of the premium.)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: End the runtime broker
 
@@ -138,13 +123,6 @@ There are mainly two ways to update your device drivers:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/win11-Terminal-Admin.jpg)
 2. Type or paste**Get-AppxPackage \*photos\* | Remove-AppxPackage** and press**Enter** . This will uninstall the Windows Photo app from your machine.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Restart your PC to see if Minecraft can load normally.
 
 If this method doesn’t work for you, then try the next fix, below.
@@ -161,6 +139,10 @@ If this method doesn’t work for you, then try the next fix, below.
 
  Now you can launch your Minecraft again to see if this issue has been resolved by now.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 7: Perform a clean reinstall
 
  Minecraft stuck on the loading screen might be triggered by some important files in your Minecraft folder. Performing a clean uninstall might fix that. To do that, you’ll need to delete all the Minecraft data.
@@ -170,10 +152,7 @@ If this method doesn’t work for you, then try the next fix, below.
 2. Right-click Minecraft, and select**Uninstall** .
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Once complete, type**%appdata%** in the Windows Search bar, and select the**%appdata%** folder.  
@@ -205,22 +184,24 @@ If this method doesn’t work for you, then try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-defining-your-uniqueness-amongst-viral-tiktok-stars/"><u>[Updated] 2024 Approved Defining Your Uniqueness Amongst Viral TikTok Stars</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/action-seekers-dream-the-ultimate-review-of-sj-cam-s6-for-2024/"><u>Action Seeker's Dream The Ultimate Review of SJ-CAM S6 for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-on-your-apple-iphone-15-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code On your Apple iPhone 15</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/choose-your-winner-dji-gopro-max-instax-x3/"><u>Choose Your Winner DJi, GoPro Max, Instax X3</u></a></li>
-<li><a href="https://win-answers.techidaily.com/complete-guide-to-resolving-game-crash-issues-in-samurai-warriors-5-for-pc-users/"><u>Complete Guide to Resolving Game-Crash Issues in Samurai Warriors 5 for PC Users</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-review-of-the-high-end-philips-somneo-alarm-system/"><u>Comprehensive Review of the High-End Philips Somneo Alarm System</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/facebooks-top-visual-discoveries-a-guide/"><u>Facebook's Top Visual Discoveries A Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/firefox-freezing-no-more-the-comprehensive-2024-guide-to-smooth-browsing/"><u>Firefox Freezing No More: The Comprehensive 2024 Guide to Smooth Browsing</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-endless-loop-how-to-overcome-anthems-persistent-load-screen-issue/"><u>Fixing the Endless Loop: How to Overcome Anthem's Persistent Load Screen Issue</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-apple-iphone-15-pro-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock Apple iPhone 15 Pro After Forgetting the Passcode?</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-unleash-power-in-social-media-10-advanced-tactics-for-fb-optimization/"><u>In 2024, Unleash Power in Social Media 10 Advanced Tactics for FB Optimization</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/lg-k51-phone-analysis-stunning-design-vs-sluggish-performance/"><u>LG K51 Phone Analysis: Stunning Design Vs. Sluggish Performance</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcome-your-obs-lag-issues-solutions-for-live-stream-and-record-functionality/"><u>Overcome Your OBS Lag Issues - Solutions for Live Stream & Record Functionality</u></a></li>
-<li><a href="https://win-answers.techidaily.com/pc-gaming-tips-eliminating-crashing-concerns-with-madden-nfl-19/"><u>PC Gaming Tips: Eliminating Crashing Concerns with Madden NFL 19</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723012841855-perform-the-multiplication-on-both-sides/"><u>Perform the Multiplication on Both Sides</u></a></li>
-<li><a href="https://win-answers.techidaily.com/tips-and-hacks-how-to-prevent-continuous-crashes-of-hell-let-loose-on-your-computer/"><u>Tips & Hacks: How to Prevent Continuous Crashes of Hell Let Loose on Your Computer</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-how-to-resolve-modern-warfare-3-mw3-startup-issues/"><u>Troubleshooting Steps: How to Resolve Modern Warfare 3 (MW3) Startup Issues</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-charting-the-course-to-youtube-livestream-mastery/"><u>[New] In 2024, Charting the Course to YouTube Livestream Mastery</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-harmony-and-hype-perfecting-film-teaser-tunes/"><u>[Updated] Harmony and Hype Perfecting Film Teaser Tunes</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-samsung-galaxy-s23plus-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/boosting-your-fallout-76-gaming-experience-by-solving-persistent-stutter-problems/"><u>Boosting Your Fallout 76 Gaming Experience by Solving Persistent Stutter Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/combat-constant-software-failures-on-your-pc-top-6-fix-methods-to-try/"><u>Combat Constant Software Failures on Your PC - Top 6 Fix Methods to Try</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-oneplus-nord-3-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-blizzards-battlenet-launcher-effective-solutions-for-windows-users/"><u>Fixing Blizzard's Battle.net Launcher: Effective Solutions for Windows Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-stability-issues-a-user-manual-to-prevent-cult-of-the-lamb-from-crashing-on-pc/"><u>Fixing Stability Issues - A User Manual to Prevent 'Cult of the Lamb' From Crashing on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-combat-fall-guys-gameplay-interruptions-on-windows-devices/"><u>How To Combat Fall Guys Gameplay Interruptions on Windows Devices</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-overwatchs-notorious-crash-on-graphics-drivers-a-comprehensive-guide/"><u>How to Fix Overwatch's Notorious Crash on Graphics Drivers - A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-enhancing-visibility-key-steps-in-social-media-video-marketing/"><u>In 2024, Enhancing Visibility Key Steps in Social Media Video Marketing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/joint-venture-update-united-force-still-in-development/"><u>Joint Venture Update: 'United Force' Still in Development</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolve-titanfall-2-dropping-frames-easy-steps-to-enhance-performance/"><u>Resolve Titanfall 2 Dropping Frames | Easy Steps to Enhance Performance</u></a></li>
+<li><a href="https://win-answers.techidaily.com/say-goodbye-to-frustrations-effective-solutions-for-constant-blender-crashes-on-desktop-computers/"><u>Say Goodbye to Frustrations: Effective Solutions for Constant Blender Crashes on Desktop Computers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-rapid-graphics-driver-failures-in-valorant-easy-guide/"><u>Solving Rapid Graphics Driver Failures in Valorant – Easy Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transform-your-job-search-craft-a-winning-resume-using-chatgpt/"><u>Transform Your Job Search: Craft a Winning Resume Using ChatGPT</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-to-the-highest-quality-karaoke-devices/"><u>Ultimate Guide to the Highest Quality Karaoke Devices</u></a></li>
+<li><a href="https://discover-best.techidaily.com/unlimited-guide-to-adding-captions-to-your-videos/"><u>Unlimited Guide to Adding Captions to Your Videos</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Samsung Galaxy A25 5G? | Dr.fone</u></a></li>
 </ul></div>
 

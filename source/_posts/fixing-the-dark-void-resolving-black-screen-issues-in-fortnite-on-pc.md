@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Dark Void: Resolving Black Screen Issues in Fortnite on PC"
-date: 2024-11-29T17:23:03.651Z
-updated: 2024-12-06T18:59:12.353Z
+date: 2024-12-05T19:07:48.275Z
+updated: 2024-12-12T18:46:10.280Z
 tags:
   - win11
   - win10
@@ -39,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/79f38eb573cc99e5f54bf7180a8b2f400aa646add
 5. [**Check for account issues**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: If you use a Nvidia graphics card, close all Nvidia programs in Task Manager
@@ -50,10 +50,6 @@ thumbnail: https://thmb.techidaily.com/79f38eb573cc99e5f54bf7180a8b2f400aa646add
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bea7fe50b1fe.jpg)
 2. Scroll through and end each**NVIDIA** task.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Note: 1-3 may relaunch themselves, which is perfectly normal and fine. You’re basically restarting those programs.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bea4de7be1a0.jpg)
 3. Relaunch Fortnite and see if your Fortnite not loading problem is resolved. If not, try Fix 2, below.
@@ -61,7 +57,7 @@ thumbnail: https://thmb.techidaily.com/79f38eb573cc99e5f54bf7180a8b2f400aa646add
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: If you use Geforce Experience, turn off the share in-game overlay
@@ -73,7 +69,7 @@ thumbnail: https://thmb.techidaily.com/79f38eb573cc99e5f54bf7180a8b2f400aa646add
 2. From the**GENERAL** panel,**toggle off** the**SHARE** feature.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bea6c4a17b8a.jpg)
@@ -105,6 +101,10 @@ OR
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Run Fortnite as administrator
 
  Running an application as administrator can give you administrative rights to use the app. And this will hopefully fix the Fortnite stuck on loading screen problem.
@@ -115,7 +115,7 @@ OR
 3. Click**Yes** if prompted by User Account Control for confirmation.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Test if the problem is resolved. If not, try the next fix.
@@ -155,16 +155,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-capture-clarity-at-no-cost-top-screen-recorder-for-windows-and-macos/"><u>[New] 2024 Approved Capture Clarity at No Cost - Top Screen Recorder for Windows & MacOS</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-essential-info-on-instagrams-video-time-frame-rules/"><u>[New] 2024 Approved Essential Info on Instagram's Video Time Frame Rules</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-elevate-your-time-lapse-game-with-essential-gopro-studio-skills/"><u>[New] In 2024, Elevate Your Time-Lapse Game with Essential GoPro Studio Skills</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solved-path-of-exile-keeps-crashing/"><u>[SOLVED] Path of Exile Keeps Crashing</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-the-benefits-of-tubebuddy-manage-your-youtube-channel-more-easily/"><u>[Updated] The Benefits of TubeBuddy | Manage Your YouTube Channel More Easily</u></a></li>
-<li><a href="https://win-answers.techidaily.com/football-manager-2022-no-longer-crashing-on-windows-success-stories-and-fixes/"><u>Football Manager 2022 No Longer Crashing on Windows: Success Stories & Fixes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-prevent-fifa-22-from-crashing-on-pc-solutions-proven-effective/"><u>How to Prevent FIFA 22 From Crashing on PC – Solutions Proven Effective</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-art-of-vintage-video-games-adding-trophies-via-retroarch/"><u>The Art of Vintage Video Games - Adding Trophies via Retroarch</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-hitman-3-solutions-for-pc-installation-issues/"><u>Troubleshooting Hitman 3: Solutions for PC Installation Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/turbo-charging-steam-downloads-for-windows-users/"><u>Turbo-Charging Steam Downloads for Windows Users</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/why-does-itools-virtual-location-not-work-for-apple-iphone-12-miniipad-solved-drfone-by-drfone-virtual-ios/"><u>Why Does iTools Virtual Location Not Work For Apple iPhone 12 mini/iPad? Solved | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-eye-openers-yearly-infographics-on-yts-surprising-stats-17-for-2024/"><u>[New] Eye-Openers! Yearly Infographics on YT's Surprising Stats ('17) for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-how-to-verify-your-youtube-account/"><u>2024 Approved How to Verify Your YouTube Account?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-newest-qanda-arsenal-for-captivating-listeners/"><u>2024 Approved Newest Q&A Arsenal for Captivating Listeners</u></a></li>
+<li><a href="https://win-answers.techidaily.com/2024s-guide-to-lowering-starfield-high-system-resource-utilization-pro-tips-and-tricks/"><u>2024'S Guide to Lowering Starfield High System Resource Utilization: Pro Tips & Tricks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/challenges-facing-the-widespread-adoption-of-nanofiber-filters-in-industry-such-as-production-scalability-cost-considerations-and-ensuring-long-term-operati483/"><u>Challenges Facing the Widespread Adoption of Nanofiber Filters in Industry, Such as Production Scalability, Cost Considerations, and Ensuring Long-Term Operational Durability</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/get-high-quality-sapo-videos-for-nothing-discover-these-4-downloading-techniques/"><u>Get High-Quality SAPO Videos for Nothing! Discover These 4 Downloading Techniques</u></a></li>
+<li><a href="https://win-answers.techidaily.com/improve-gameplay-smoothness-fixing-low-fps-in-fallout-76/"><u>Improve Gameplay Smoothness: Fixing Low FPS in Fallout 76</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-review-the-dreame-bot-l10-pro-next-gen-mopping-and-vacuuming-with-lidar-technology/"><u>In-Depth Review: The Dreame Bot L10 Pro – Next-Gen Mopping and Vacuuming with LiDAR Technology</u></a></li>
+<li><a href="https://fox-that.techidaily.com/preventing-spotify-app-from-malfunctioning-after-iphones-are-locked/"><u>Preventing Spotify App From Malfunctioning After iPhones Are Locked</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-how-to-fix-vanguard-uninitialized-errors-in-valorant/"><u>Resolved: How to Fix Vanguard Uninitialized Errors in VALORANT</u></a></li>
+<li><a href="https://win-answers.techidaily.com/runescape-players-rejoice-overcoming-game-crashes-permanently/"><u>RuneScape Players Rejoice: Overcoming Game Crashes Permanently</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solve-your-problems-with-doom-eternal-fixing-game-crashes-effectively/"><u>Solve Your Problems with DOOM Eternal: Fixing Game Crashes Effectively</u></a></li>
+<li><a href="https://games-able.techidaily.com/take-control-with-an-optimized-ps5-assist-controller-setup/"><u>Take Control with an Optimized PS5 Assist Controller Setup</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-vivo-y100a-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Vivo Y100A Reset Code | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-fixing-issues-with-amazon-prime-video-streaming/"><u>Troubleshooting Guide: Fixing Issues with Amazon Prime Video Streaming</u></a></li>
 </ul></div>
 

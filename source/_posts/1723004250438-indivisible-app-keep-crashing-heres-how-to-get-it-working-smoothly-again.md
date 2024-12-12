@@ -1,7 +1,7 @@
 ---
 title: Indivisible App Keep Crashing? Here's How to Get It Working Smoothly Again!
-date: 2024-08-23T13:17:28.321Z
-updated: 2024-08-24T13:17:28.321Z
+date: 2024-12-09T16:59:55.423Z
+updated: 2024-12-12T16:04:08.947Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/cb833d2c06ebc2c32cdbed9ef9e234accd8f52067
 ## Beat Saber Not Working? Here's How You Can Stop It From Freezing and Crashing
 
 Beat Saber is a great VR title, but many players are reporting game crashing issues. If you’re also experiencing Beat Saber crashes, we’ve put together every possible solution that proved helpful to other players.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -43,20 +47,12 @@ Beat Saber is a great VR title, but many players are reporting game crashing iss
 2. Right-click Beat Saber and select**Properties** .  
 ![Properties-BeatSaber](https://images.drivereasy.com/wp-content/uploads/2020/12/Properties-BeatSaber.jpg)
 3. Select the **Local files** tab and click the **Verify integrity of game files…** button.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ![ Verify integrity of game files...](https://images.drivereasy.com/wp-content/uploads/2020/12/localfiles.jpg)
 4. Steam will verify the game files. It may take about 3-5 minutes.
 5. Once complete, launch the game again to test the issue.
 
  If Beat Saber keeps crashing rather randomly, don’t be upset, for we have a few more fixes to try.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ## Fix 3: Remove all the mods
 
  If you’re running mods and having this crashing issue, we strongly recommend you to try the game without any modes. Since all the current Beat Saber mods are not official so they can bump into problems.
@@ -66,17 +62,11 @@ The powerful video editing program for your Windows PC</a>
 1. Go to the**Local Files** tab of Beat Saber, and click**Browse Local Files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/local-files.jpg)
 2. Locate the**Plugins** folder, and delete the .dll files inside.  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Beat-Saber-Plugin.jpg)
 3. Relaunch your game and see if it keeps crashing.
 
 If Beat Saber still crashes without any mods, you can try the fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ## Fix 4: Update your graphics drivers
 
  Another cause of Beat Saber crashing (or any game crashing) is your graphics driver. A Graphics card (GPU) is the most important component to determine your gaming performance. Therefore, if the graphics driver is outdated or corrupted, it’s very likely that you will get enormous game crashes. To fix it, you should update your graphics driver.
@@ -102,27 +92,27 @@ If Beat Saber still crashes without any mods, you can try the fix, below.
 2. Run Driver Easy and click the **Scan Now**  button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update**  button next to your graphics card to download the latest and correct driver for it, then you can manually install it.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-driver-now.jpg)  
  Or click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  , which comes with **Full Support** and a **30-day Money Back Guarantee** . You will be prompted to upgrade when you click **Update All** ).
+
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take full effect.
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 5: Run as administrator
 
  Some gamers mentioned that they manage to solve the crash as well as the black screen error by running the game as administrator. You can try this workaround to see if it helps:
@@ -137,6 +127,10 @@ No advertising on the website.
 
  To run your game as an administrator ensure you have full access to all the game files. This should fix some game crashes, but if unfortunately not, don’t worry. Try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 6: Perform a clean reinstall
 
  If all of your drivers are already up to date and have uninstalled mods, but the game just keeps crashing, you can try reinstalling your game and deleting all the related game folders (uninstalling it from Steam is not enough).
@@ -146,6 +140,10 @@ No advertising on the website.
 3. Press the**Windows** key +**R** at the same time, and type**%appdata%** in the Run box, and press**Enter** .  
 ![AppData](https://images.drivereasy.com/wp-content/uploads/2020/12/appdata.jpg)
 4. Delete all the game-related AppData.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Download Beat Saber again and see if a clean reinstall solves this issue.
 
@@ -174,8 +172,6 @@ Download Beat Saber again and see if a clean reinstall solves this issue.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -183,4 +179,24 @@ Download Beat Saber again and see if a clean reinstall solves this issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/updated-advanced-color-grading-with-luts-in-premiere-pro/"><u>[Updated] Advanced Color Grading with LUTs in Premiere Pro</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-freshly-taken-images-dissection-and-secondary-ideas/"><u>[Updated] Freshly Taken Images Dissection & Secondary Ideas</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-behind-virtual-walls-a-deep-dive-into-6-metaverse-cases/"><u>[Updated] In 2024, Behind Virtual Walls A Deep Dive Into 6 Metaverse Cases</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cure-your-counter-strike-error-mastering-the-5-key-steps-for-a-successful-login/"><u>Cure Your Counter-Strike Error: Mastering the 5 Key Steps for a Successful Login</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/essential-steps-from-production-to-apple-store-placement/"><u>Essential Steps From Production to Apple Store Placement</u></a></li>
+<li><a href="https://win-answers.techidaily.com/farewell-to-frozen-frames-cyberpunk-2077-now-running-smoothly/"><u>Farewell to Frozen Frames: Cyberpunk 2077 Now Running Smoothly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-black-ops-cold-war-error-0xc0000005-complete-guide/"><u>Fixing Black Ops: Cold War Error 0xC0000005 - Complete Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-recurring-overwatch-2-collapses-on-personal-computers/"><u>Fixing Recurring 'Overwatch 2' Collapses on Personal Computers</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-on-iphone-7-plus-by-drfone-ios/"><u>How to Fix Locked Apple ID on iPhone 7 Plus</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-15-plus-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 15 Plus To Other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-professional-screen-capture-techniques-orderly-tutorials/"><u>In 2024, Professional Screen Capture Techniques - Orderly Tutorials</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/labor-landscapes-altered-by-ais-advances/"><u>Labor Landscapes Altered by AI's Advances</u></a></li>
+<li><a href="https://win-answers.techidaily.com/revving-up-gameplay-tips-to-accelerate-ubisofts-downloading-pace/"><u>Revving Up Gameplay: Tips to Accelerate Ubisoft's Downloading Pace</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stable-playthrough-tips-resolving-pc-performance-problems-with-ghostwire-tokyo/"><u>Stable Playthrough Tips: Resolving PC Performance Problems with Ghostwire: Tokyo</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unlocking-the-echoes-of-tamriel-fix-your-skyrim-sound-glitch-today/"><u>Unlocking the Echoes of Tamriel: Fix Your Skyrim Sound Glitch Today</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-10-best-intro-video-makers-for-pc-a-comprehensive-review-for-2024/"><u>Updated 10 Best Intro Video Makers for PC A Comprehensive Review for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/zoom-blackout-blues-eliminate-pc-screen-troubles-in-your-meetings-the-definitive-guide-to-fixing-issues/"><u>Zoom Blackout Blues? Eliminate PC Screen Troubles in Your Meetings – The Definitive Guide to Fixing Issues</u></a></li>
+</ul></div>
 

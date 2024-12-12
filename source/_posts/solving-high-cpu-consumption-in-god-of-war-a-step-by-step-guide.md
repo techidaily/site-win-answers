@@ -1,7 +1,7 @@
 ---
 title: "Solving High CPU Consumption in God of War: A Step-by-Step Guide"
-date: 2024-11-29T19:15:37.237Z
-updated: 2024-12-06T18:34:32.433Z
+date: 2024-12-08T17:50:43.042Z
+updated: 2024-12-12T18:56:45.154Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/b0c789775642f2ac1a082c3710ec3e71a5c2db920
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3 simple fixes to try
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -35,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/b0c789775642f2ac1a082c3710ec3e71a5c2db920
 1. **[Adjust your proxy settings](https://tools.techidaily.com/drivereasy/download/)**
 2. **[Update your network adapter driver](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Reinstall Steam](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Adjust your proxy settings
 
@@ -60,12 +52,16 @@ thumbnail: https://thmb.techidaily.com/b0c789775642f2ac1a082c3710ec3e71a5c2db920
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-363.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Restart your computer and Steam to test your issue.
 
  If none of the boxes is checked, or if you still get the error code 130, then go ahead with the fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your network adapter driver
@@ -101,7 +97,7 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-113.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)**  Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[](https://tools.techidaily.com/drivereasy/download/) [Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
@@ -113,7 +109,7 @@ OR
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Reinstall Steam
@@ -136,6 +132,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-888.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Select **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-889.png)
@@ -144,13 +144,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-890.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **7)**  Follow the on-screen instructions to uninstall Steam and wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-891.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  **8)[Download](https://store.steampowered.com/about/)**  Steam.
 
@@ -165,7 +165,7 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-893.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **12)**  Relaunch your Steam to test your issue.
@@ -194,24 +194,18 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-circulating-camera-mounts-for-vr/"><u>[New] 2024 Approved Circulating Camera Mounts for VR</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-unleashing-musical-talent-with-magix-studio/"><u>[New] 2024 Approved Unleashing Musical Talent with Magix Studio</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-top-tips-mastering-music-on-instagram/"><u>[New] In 2024, Top Tips Mastering Music on Instagram</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-innovating-film-viewing-with-iphone-tricks/"><u>[Updated] 2024 Approved Innovating Film Viewing with iPhone Tricks</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-perfecting-projects-through-music-addition-in-premiere-pro/"><u>[Updated] Perfecting Projects Through Music Addition in Premiere Pro</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723007238226-cant-reach-oculus-runtime-service-how-to-fix-your-oculus-rift/"><u>Can’t Reach Oculus Runtime Service? How to Fix Your Oculus Rift</u></a></li>
-<li><a href="https://win-answers.techidaily.com/emergency-troubleshooting-a-step-by-step-fix-for-devastating-ark-glitches/"><u>Emergency Troubleshooting: A Step-by-Step Fix for Devastating ARK Glitches</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/finding-your-mantra-path-gpts-role-in-meditative-habits/"><u>Finding Your Mantra Path: GPT's Role in Meditative Habits</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723009221237-fixing-valheim-performance-problems-no-more-frame-drops-or-freezes/"><u>Fixing Valheim Performance Problems - No More Frame Drops or Freezes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/football-manager-2019-stability-hacks-fixing-persistent-freezing-and-closing-problems/"><u>Football Manager 2019 Stability Hacks: Fixing Persistent Freezing & Closing Problems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-a-smart-laptop-stand-converts-your-mobile-device-into-a-seamless-additional-display-featured-on-zdnet/"><u>How a Smart Laptop Stand Converts Your Mobile Device Into a Seamless Additional Display - Featured on ZDNET</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-baldurs-gate-3-pc-instability-issues-successfully/"><u>How to Fix Baldur's Gate 3 PC Instability Issues Successfully</u></a></li>
-<li><a href="https://win-answers.techidaily.com/optimize-your-rainbow-six-extraction-play-with-these-techniques-for-a-smoother-fps/"><u>Optimize Your Rainbow Six Extraction Play with These Techniques for a Smoother FPS</u></a></li>
-<li><a href="https://win-answers.techidaily.com/successfully-boot-up-your-quest-fixes-to-get-baldurs-gate-3-running-smoothly/"><u>Successfully Boot Up Your Quest: Fixes to Get Baldur's Gate 3 Running Smoothly</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshoot-your-steam-account-correcting-cloud-sync-errors-effectively/"><u>Troubleshoot Your Steam Account: Correcting Cloud Sync Errors Effectively</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723012607006-ultimate-guide-resolving-directx-issues-in-call-of-duty-modern-warfare-2/"><u>Ultimate Guide: Resolving DirectX Issues in Call of Duty Modern Warfare 2</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723862831578-unbeatable-deal-portable-15n-inch-1080p-ips-monitor-now-just-6599-best-quality-for-the-lowest-price/"><u>Unbeatable Deal: Portable 15.n Inch, 1080P IPS Monitor Now Just $65.99 - Best Quality for the Lowest Price</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/understanding-and-fixing-atomic-core-issues-when-powering-on-your-system/"><u>Understanding and Fixing Atomic Core Issues When Powering On Your System</u></a></li>
-<li><a href="https://techidaily.com/unlock-locked-iphone-11-pro-without-face-id-by-drfone-ios-unlock-ios-unlock/"><u>Unlock locked iPhone 11 Pro without Face ID</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-beginners-guide-to-crafting-trendy-mac-video-content/"><u>[New] 2024 Approved Beginner's Guide to Crafting Trendy Mac Video Content</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/nhance-audio-visual-fidelity-use-av1-on-youtube/"><u>[New] Enhance Audio-Visual Fidelity Use AV1 on YouTube</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-effortlessly-enhance-your-images-on-w11/"><u>[New] In 2024, Effortlessly Enhance Your Images on W11</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-the-art-of-real-time-video-collaboration-on-fb-for-2024/"><u>[Updated] The Art of Real-Time Video Collaboration on FB for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/critical-solutions-to-continuous-crashes-in-final-fantasy-xiv-while-playing-on-computer/"><u>Critical Solutions to Continuous Crashes in Final Fantasy XIV While Playing on Computer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-logitech-g-hub-compatibility-issues-with-microsofts-operating-system/"><u>Fixing Logitech G Hub Compatibility Issues with Microsoft's Operating System</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-utorrent-non-installation-on-pcs-running-windows-os/"><u>Fixing uTorrent Non-Installation on PCs Running Windows OS</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/how-to-watch-facebook-videos-on-my-apple-tv-in-2024/"><u>How to Watch Facebook Videos on My Apple TV, In 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-honor-magic-5-lite-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Honor Magic 5 Lite Data? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/no-more-crashes-effortless-fixes-for-outriders-issues/"><u>No More Crashes: Effortless Fixes for Outriders Issues</u></a></li>
+<li><a href="https://fox-that.techidaily.com/restore-your-imessage-connection-on-iphone-easy-steps-to-address-the-signed-out-error/"><u>Restore Your iMessage Connection on iPhone: Easy Steps to Address the Signed Out Error</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-troubleshooting-for-bfv-warzone-disc-read-issues-fixes-for-versions-50-and-31-on-pc/"><u>Step-by-Step Troubleshooting for BFV Warzone Disc Read Issues: Fixes for Versions [5.0] & [3.1] on PC</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/be-profitability-initial-steps-to-earnings/"><u>YouTube Profitability Initial Steps to Earnings</u></a></li>
 </ul></div>
 

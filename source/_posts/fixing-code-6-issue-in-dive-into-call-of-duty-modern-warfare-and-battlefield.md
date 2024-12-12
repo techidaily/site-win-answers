@@ -1,7 +1,7 @@
 ---
 title: "Fixing Code 6 Issue in Dive Into Call of Duty: Modern Warfare & Battlefield"
-date: 2024-08-23T13:16:46.364Z
-updated: 2024-08-24T13:16:46.364Z
+date: 2024-12-06T17:35:00.939Z
+updated: 2024-12-12T17:15:02.063Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/228e79977939cec81e9b9a3337281ae057b8c1535
 ## Ultimate Troubleshooting Tips for Fixing Call of Duty: Modern Warfare (Dev Error 6034) - Play Without Glitches
 
 A recent update of Warzone triggered a surge in reports of the**Dev Error 6034** issue, which keeps crashing the game, especially in battle royale. If you happen to be seeing the same error, worry not. According to our users, there’re already some fixes that can help you get rid of the error right away.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixes to try
 
@@ -61,8 +65,9 @@ To do so, first visit the website of your GPU manufacturer:
  If the latest drivers didn’t give you luck, you can try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Remove broken game files (PC)
 
  There’s information saying that the 6034 error is related to game files, which means you might fix it by a**scan and repair** . But before that, you need to delete some game files manually to ensure Blizzard downloads the latest version:
@@ -77,15 +82,13 @@ To do so, first visit the website of your GPU manufacturer:
 3. In the left pane, select **Call of Duty: MW** . Then click **Options**  and select **Scan and Repair** from the drop-down menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/warzone-verify-1.jpg)
 4. Wait for the process to complete. Then launch Warzone and check if it’s working now.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  If this method doesn’t do the trick, you can take a look at the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Remove Multiplayer game packs
 
  Soon after the Dev Error happens, console gamers discovered that they can fix the issue by**removing specific game packs** . This would be less painful than a complete reinstallation, so you can give it a shot. If you don’t know how, here’s a quick example on Xbox:
@@ -93,18 +96,18 @@ To do so, first visit the website of your GPU manufacturer:
 1. On your Xbox, select Call of Duty: Modern Warfare. Press the menu button and select**Manage game & add-ons** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-1.jpg)
 2. Select**Call of Duty: Modern Warfare** . (You might also need to select**Manage installation on External drive** .)  
+
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-2.jpg)
 3. Scroll down and unselect**MP2 Pack** and**Multiplayer Pack 3.** Then select**Save changes** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-3.jpg)
 4. Now restart your Xbox and check if Warzone is working now.
+
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If this trick doesn’t help you, simply check out the next one.
@@ -125,8 +128,6 @@ If this trick doesn’t help you, simply check out the next one.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -134,4 +135,21 @@ If this trick doesn’t help you, simply check out the next one.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-step-by-step-blueprint-accessing-facebook-status-videos/"><u>[New] 2024 Approved Step-by-Step Blueprint Accessing Facebook Status Videos</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-windows-core-dll-is-undetected/"><u>[Solved]: Windows Core DLL Is Undetected</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-earn-through-engagement-securing-youtube-partnership-membership/"><u>[Updated] In 2024, Earn Through Engagement Securing YouTube Partnership Membership</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-exploring-digital-film-coloring-methods/"><u>[Updated] In 2024, Exploring Digital Film Coloring Methods</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/avchd-vs-mts-mp4-understanding-the-differences-in-quality-and-recording-size/"><u>AVCHD vs MTS MP4 - Understanding the Differences in Quality and Recording Size</u></a></li>
+<li><a href="https://win-answers.techidaily.com/elevate-your-experience-solving-frame-rate-issues-while-playing-resident-evil-village-on-pc/"><u>Elevate Your Experience: Solving Frame Rate Issues While Playing Resident Evil Village on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-your-game-solving-batman-arkham-knight-crashes-and-errors-swiftly/"><u>Fix Your Game: Solving Batman: Arkham Knight Crashes & Errors Swiftly</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/guerir-letat-preparer-une-mise-a-jour-solutions-pour-sortir-des-blocages-sous-windows-11/"><u>Guérir L'état 'Préparer Une Mise À Jour' : Solutions Pour Sortir Des Blocages Sous Windows 11.</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-oppo-reno-10-pro-5g-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Oppo Reno 10 Pro 5G Phone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-the-digital-world-through-toms-hardware-insights/"><u>Mastering the Digital World Through Tom's Hardware Insights</u></a></li>
+<li><a href="https://win-answers.techidaily.com/silence-no-more-essential-tips-for-addressing-audio-problems-in-minecraft-on-desktop-systems/"><u>Silence No More! Essential Tips for Addressing Audio Problems in Minecraft on Desktop Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stuck-on-ffxiv-a-step-by-step-guide-to-successfully-complete-the-version-check/"><u>Stuck on FFXIV? A Step-by-Step Guide to Successfully Complete the Version Check</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-5-troubleshooting-steps-for-microsoft-word-executable-issues/"><u>Top 5 Troubleshooting Steps for Microsoft Word Executable Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-eliminating-stutters-and-lags-during-fortnite-gameplay-on-windows/"><u>Ultimate Guide: Eliminating Stutters and Lags During Fortnite Gameplay on Windows</u></a></li>
+</ul></div>
 

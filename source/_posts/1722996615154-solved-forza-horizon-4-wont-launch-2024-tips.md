@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Forza Horizon 4 Won’t Launch | 2024 Tips"
-date: 2024-12-02T18:37:22.386Z
-updated: 2024-12-06T19:15:26.682Z
+date: 2024-12-08T17:57:14.056Z
+updated: 2024-12-12T16:38:33.490Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ Having trouble launching_Forza Horizon 4_ on your PC? You’re not alone! Many p
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixes to try
@@ -36,10 +36,6 @@ Having trouble launching_Forza Horizon 4_ on your PC? You’re not alone! Many p
 4. **[Turn off unnecessary programs](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Check for Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reinstall your game](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Check your system specs
 
@@ -68,6 +64,10 @@ Having trouble launching_Forza Horizon 4_ on your PC? You’re not alone! Many p
 | **Storage:**       | 70GB available space           |
 
  Make sure your PC is above the minimum system requirements to run the game, then move on and try the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -108,12 +108,16 @@ If your issue persists, then move on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_15-58-21-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Right-click your**USB’s name** and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_16-00-27.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Click the**ReadyBoost tab** , then select**Do not use this device** .
@@ -121,7 +125,7 @@ If your issue persists, then move on and try the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_16-19-03.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Click**Apply > OK** .
@@ -133,10 +137,6 @@ If your issue persists, then move on and try the fix below.
 **6)** Relaunch your game to test your issue.
 
 If your issue still exists, try the fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Turn off unnecessary programs
 
@@ -154,9 +154,17 @@ Here is how to check and close programs you’re running:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_16-52-29.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Check your current **CPU and memory usage** to see what processes are consuming your resources most.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_16-52-34.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)**  Right-click the process you want to end and select **End task** .
 
@@ -184,10 +192,6 @@ If your issue continues to occur, move on and try the fix below.
 
 If your issue persists, move on to the fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 6: Reinstalling your game
 
 _Forza Horizon 4_ launching issues could happen when the game is not properly installed on your PC, or certain game files are corrupted or missing. In this case, reinstalling your game is very likely the solution to your issue:
@@ -199,10 +203,6 @@ _Forza Horizon 4_ launching issues could happen when the game is not properly in
 **2)** Click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_16-54-23.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Download and install_Forza Horizon 4_ from Microsoft Store.
 
@@ -229,18 +229,22 @@ _Forza Horizon 4_ launching issues could happen when the game is not properly in
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-secure-fb-pages-with-ease-8-best-tools-no-cost-online/"><u>[New] In 2024, Secure FB Pages with Ease 8 Best Tools, No Cost Online</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-transforming-instagram-footage-into-square-stories-using-imovie-tips/"><u>[Updated] 2024 Approved Transforming Instagram Footage Into Square Stories Using iMovie Tips</u></a></li>
-<li><a href="https://win-answers.techidaily.com/diagnosing-and-repairing-the-persistent-chill-of-deathloops-performance-glitches-on-ps5-and-pc/"><u>Diagnosing & Repairing the Persistent Chill of Deathloop's Performance Glitches on PS5 and PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-solutions-for-addressing-and-preventing-phoenix-point-software-issues/"><u>Effective Solutions for Addressing and Preventing Phoenix Point Software Issues</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/guide-to-silencing-alerts-and-alarms-on-smartphones/"><u>Guide to Silencing Alerts and Alarms on Smartphones</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-honor-v-purse-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Honor V Purse to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-infinix-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Infinix</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/inside-toms-pc-world-in-depth-computer-analysis/"><u>Inside Tom's PC World: In-Depth Computer Analysis</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-stability-six-essential-fixes-to-prevent-modern-warfare-2-crashes-on-pc/"><u>Mastering Stability: Six Essential Fixes to Prevent Modern Warfare 2 Crashes on PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcome-game-boot-issues-nier-re-repainted-edition-successfully-running/"><u>Overcome Game Boot Issues: NieR Re-Repainted Edition Successfully Running</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-persistent-errors-and-game-crashes-on-pc-during-age-of-wonders-planetfall-adventure/"><u>Resolving Persistent Errors & Game Crashes on PC During Age of Wonders: Planetfall Adventure</u></a></li>
-<li><a href="https://win-answers.techidaily.com/smooth-driving-ahead-in-euro-truck-simulator-2-fixed-pc-edition-to-prevent-any-crashes/"><u>Smooth Driving Ahead in Euro Truck Simulator 2: Fixed PC Edition to Prevent Any Crashes</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-realme-c67-5g-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Realme C67 5G Device</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-boosting-views-mastering-hashtags-in-freefire-vids/"><u>[New] 2024 Approved Boosting Views Mastering Hashtags in FreeFire Vids</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-epic-youtube-playback-stories/"><u>[Updated] 2024 Approved Epic YouTube Playback Stories</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-enhance-video-pace-youtube-via-desktops-and-phones-for-2024/"><u>[Updated] Enhance Video Pace - YouTube via Desktops & Phones for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-rhythm-reviews-sound-innovations/"><u>[Updated] In 2024, Rhythm Reviews Sound Innovations</u></a></li>
+<li><a href="https://win-answers.techidaily.com/dealing-with-cod-modern-warfares-persistent-system-errors-and-crashes/"><u>Dealing with COD: Modern Warfare's Persistent System Errors and Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/discord-overlay-troubles-resolve-the-problem-now-in-minutes/"><u>Discord Overlay Troubles? Resolve the Problem Now in Minutes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-guide-to-fixing-warzones-persistent-memory-issue-on-console-and-desktop-error-code-0-1766/"><u>Expert Guide to Fixing Warzone's Persistent Memory Issue on Console and Desktop (Error Code: 0-1766)</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/expertise-in-editing-how-to-add-descriptive-texts-to-videos/"><u>Expertise in Editing How to Add Descriptive Texts to Videos</u></a></li>
+<li><a href="https://win-answers.techidaily.com/garrys-mod-stability-issues-master-the-fix-for-non-stop-crashes/"><u>Garry's Mod Stability Issues? Master The Fix For Non-Stop Crashes !</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-master-the-art-of-social-media-stardom-with-these-9-strategies/"><u>In 2024, Master the Art of Social Media Stardom with These 9 Strategies</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/microsoft-surface-pro-4-driver-setup-and-installation-guide-for-windows-pcs/"><u>Microsoft Surface Pro 4 Driver Setup and Installation Guide for Windows PCs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimizing-for-victory-overcoming-common-performance-drops-and-stuttering-in-gtfo-games/"><u>Optimizing for Victory: Overcoming Common Performance Drops and Stuttering in GTFO Games</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-halo-infinite-pc-crash-issues-discover-7-simple-solutions/"><u>Solving Halo Infinite PC Crash Issues: Discover 7 Simple Solutions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-revolutionary-innovation-of-the-google-pixel-9-first-android-phone-to-offer-sos-via-satellites-according-to-zdnet-reports/"><u>The Revolutionary Innovation of the Google Pixel 9: First Android Phone to Offer SOS via Satellites, According to ZDNet Reports</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-cyberpunk-2077s-gpu-problems-on-new-windows-11-devices/"><u>Troubleshooting Cyberpunk 2077'S GPU Problems on New Windows 11 Devices</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-the-detected-security-violation-in-gaming-applications/"><u>Troubleshooting the Detected Security Violation in Gaming Applications</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
 </ul></div>
 

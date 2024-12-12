@@ -1,7 +1,7 @@
 ---
 title: How To Restore Spatial Sound On Your PC Running Windows 11 or 10
-date: 2024-11-13T17:28:02.835Z
-updated: 2024-11-17T05:14:50.624Z
+date: 2024-12-10T17:14:37.106Z
+updated: 2024-12-12T16:57:04.697Z
 tags:
   - win11
   - win10
@@ -43,13 +43,6 @@ thumbnail: https://thmb.techidaily.com/b7fdec82e5e2a50f89b07a18bb64e205705f93d78
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 2. Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it. Simply wait for it to complete and you should be asked to restart your computer.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/click-on-the-Check-for-updates-tab.png)
 
 ### On Windows 11
@@ -59,36 +52,32 @@ thumbnail: https://thmb.techidaily.com/b7fdec82e5e2a50f89b07a18bb64e205705f93d78
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
 
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Upon reboot, play supported content to check if it works. If your THX Spatial Audio is still not working, move on to the next fix.
 
 ## 2\. Run the audio troubleshooter
 
  Whenever you’re faced with no sound or other audio-related issues, you can use a Windows troubleshooter. It helps you detect problems and attempts to resolve minor issues on Windows computers. To run the audio troubleshooter, follow the instructions below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### On Windows 10
 
@@ -100,29 +89,9 @@ thumbnail: https://thmb.techidaily.com/b7fdec82e5e2a50f89b07a18bb64e205705f93d78
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/audio-run-the-troubleshooter.png)  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If there are no troubleshooters showing up here, click**Additional troubleshooters** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/troubleshoot-additional-troubleshooters.png)
-
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### On Windows 11
 
@@ -137,13 +106,6 @@ thumbnail: https://thmb.techidaily.com/b7fdec82e5e2a50f89b07a18bb64e205705f93d78
 
 If Windows fails to troubleshoot your issues, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Make sure you set THX Spatial Audio as your device
 
  If you can’t hear any difference after installing the THX Spatial Audio app, it may be possible that you haven’t set it as your playback device. In this case, follow the steps below for configurations. If you prefer to watch the tutorial video, check it out below.
@@ -155,7 +117,15 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/set-thx-spatial-audio-as-default-playback-device.png)
 3. Then in the APPLICATION MIXER section, select**Spatial Audio** as the output.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/application-mixer.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After you’ve done these, you should be able to enjoy the THX Spatial feature on your audio device.
 
@@ -178,6 +148,10 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/Realtek-High-Definition-Audio.jpg)
 4. After updating, restart your computer to take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  When the update completes, restart your computer. Then play supported content to check for changes.
@@ -199,25 +173,19 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/turn-on-system-protection.png)
 4. Now select your System drive and click**Create…** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/create-a-system-point-now.png)
 5. Type a description for your restore point that you can recognize. Then click**Create** .  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/type-a-descriptin.png)
 6. When it successfully created the restore point, click**Close** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/close-the-window.png)
 
@@ -230,6 +198,10 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 3. Once the scan is finished, you’ll see a complete overview of your system and issues. Click**Start Repair** to start the repair process and wait for Fortect to fix the problem.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with full technical support. If you encounter any issues while using Fortect, feel free to contact their support team.
 
@@ -252,19 +224,22 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-step-by-step-converting-pinterest-vids-to-mp3-audio/"><u>[New] In 2024, Step-by-Step Converting Pinterest Vids to MP3 Audio</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-communicating-with-authority-power-words-in-marketing/"><u>[Updated] Communicating with Authority Power Words in Marketing</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-essential-guide-for-diy-gif-makers-youtube-to-visual-storytelling/"><u>[Updated] The Essential Guide for DIY GIF Makers YouTube to Visual Storytelling</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/discovering-delight-unveiling-the-joy-of-pokemon-shining-pearl/"><u>Discovering Delight: Unveiling the Joy of Pokémon Shining Pearl</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ending-the-frustration-troubleshooting-pc-shutdowns-during-star-wars-battlefront-ii-gameplay/"><u>Ending the Frustration: Troubleshooting PC Shutdowns During Star Wars Battlefront II Gameplay</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fix-implemented-accessing-origin-service-restored/"><u>Fix Implemented: Accessing Origin Service Restored</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-does-enabling-overwatch-improve-live-stream-quality-by-minimizing-pauses/"><u>How Does Enabling Overwatch Improve Live Stream Quality by Minimizing Pauses?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-honor-magic-vs-2-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Honor Magic Vs 2</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Lava Blaze 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-infinix-note-30-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Infinix Note 30? Fixed | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-fifa-21-proven-methods-to-keep-it-running-smoothly-on-windows-and-mac/"><u>Mastering FIFA 21: Proven Methods to Keep It Running Smoothly on Windows and Mac</u></a></li>
-<li><a href="https://common-error.techidaily.com/simplified-repair-methods-for-fixing-boot-selection-issues-in-windows-systems/"><u>Simplified Repair Methods for Fixing Boot Selection Issues in Windows Systems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-resolving-issues-with-corsair-icue-on-windows-11/"><u>Troubleshooting Tips: Resolving Issues with Corsair iCUE on Windows 11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-why-is-my-sifu-fps-experiencing-lag-issues-and-freezing-on-pc/"><u>Troubleshooting: Why Is My Sifu FPS Experiencing Lag Issues and Freezing on PC?</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Motorola Edge 40 Neo | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-maximizing-visual-potential-with-hdr-technology/"><u>2024 Approved Maximizing Visual Potential with HDR Technology</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-x-recorder-for-pc-free-recording-software/"><u>2024 Approved X-Recorder for PC Free Recording Software</u></a></li>
+<li><a href="https://win-answers.techidaily.com/csgo-troubleshooting-guide-fixing-user-login-problems/"><u>CS:GO Troubleshooting Guide - Fixing User Login Problems</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/essential-framework-for-techno-story-making/"><u>Essential Framework for Techno Story Making</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-for-preventing-red-dead-online-pc-crashes-and-ensuring-smooth-gameplay/"><u>Expert Tips for Preventing Red Dead Online PC Crashes & Ensuring Smooth Gameplay</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-best-practices-for-4k-screen-recording/"><u>In 2024, Best Practices for 4K Screen Recording</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-collaborative-work-in-apple-pages-documents-through-icloud-with-expert-advice-from-zdnet/"><u>Mastering Collaborative Work in Apple Pages Documents Through iCloud with Expert Advice From ZDNet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-startup-hurdles-for-battlefield-4-enthusiasts-using-pc-platforms/"><u>Overcoming Startup Hurdles for Battlefield 4 Enthusiasts Using PC Platforms</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-the-challenge-of-black-ops-cold-wars-error-883a-0005-a-step-by-step-solution/"><u>Overcoming the Challenge of Black Ops Cold War's Error 88^3A-0005 - A Step by Step Solution</u></a></li>
+<li><a href="https://techtrends.techidaily.com/playing-ps4-titles-on-your-new-ps5-console-compatibility-and-features/"><u>Playing PS4 Titles on Your New PS5 Console: Compatibility and Features</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pro-tips-for-smooth-playthroughs-overcoming-age-of-empires-4s-stuttering-challenge/"><u>Pro Tips for Smooth Playthroughs - Overcoming Age of Empires 4'S Stuttering Challenge</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/shield-site-from-web-scouring-ais/"><u>Shield Site From Web-Scouring AIs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-tutorial-resolving-freezes-in-path-of-exile-for-free-players/"><u>Step-by-Step Tutorial: Resolving Freezes in Path of Exile for Free Players</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-launch-issues-how-to-get-civilization-vi-running-on-windows-10/"><u>Troubleshooting Launch Issues: How to Get Civilization VI Running on Windows 10</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-why-cant-i-open-crusader-kings-ii/"><u>Troubleshooting: Why Can't I Open Crusader Kings II?</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-motorola-moto-g34-5g-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Motorola Moto G34 5G.</u></a></li>
 </ul></div>
 

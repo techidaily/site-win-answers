@@ -1,7 +1,7 @@
 ---
 title: "Football Manager 2021 PC Instability Issues: Comprehensive Troubleshooting Guide"
-date: 2024-12-02T17:51:52.477Z
-updated: 2024-12-06T16:27:05.194Z
+date: 2024-12-06T18:57:10.778Z
+updated: 2024-12-12T17:01:19.684Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You may not try them all. Simply work your way down the list until you find the one that works for you.
@@ -33,6 +37,10 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 5. **[Set launch options](https://tools.techidaily.com/drivereasy/download/)**
 
  Before you continue to the following fixes, please make sure your PC specs meet the **[minimum requirements](https://www.footballmanager.com/games/football-manager-2021)**  to play Football Manager 2021.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1 – Update your graphics driver
 
@@ -55,10 +63,6 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 
  The driver update should resolve the crashing issue and also boost the game’s performance. If not, try the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2 – Verify the integrity of game files
 
  If something goes wrong with your PC games, it’s likely the game files are missing or damaged. You can perform an integrity check to get it fixed.
@@ -70,20 +74,12 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Select**Local Files** and then click**Verify Integrity of Game Files** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-3-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Wait until the process finishes and relaunch FM 21 to test. If your issue persists, take a look at more fixes below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3 – Temporarily disable your antivirus
@@ -98,10 +94,6 @@ Football Manager 2021 is by far one of the most popular management simulator gam
  Once you confirmed the antivirus is the culprit of Football Manager 2021 crashing, you need to add both the game launcher and FM 21 to its exceptions, or completely uninstall the program.
 
 If this method doesn’t help, go ahead with the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4 – Delete the Preferences and Caches folder
 
@@ -125,15 +117,23 @@ So does the crash go away now? If not, there is the last fix to try.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-1-5.jpg)
 2. Right-click**Football Manager 2021** and click**Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Click**Set Launch Options** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-3.jpg)
 4. Type**–config very\_low** in the text field and click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2-4.jpg)
 
@@ -164,22 +164,21 @@ So does the crash go away now? If not, there is the last fix to try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-virtual-reality-showdown-ranking-the-top-10-pc-streamers-for-360-videos/"><u>[New] 2024 Approved Virtual Reality Showdown Ranking the Top 10 PC Streamers for 360 Videos</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-balance-quality-and-quickness-with-netflix-speed-modification-tips/"><u>[New] Balance Quality & Quickness with Netflix Speed Modification Tips</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-integrating-ai-assistants-into-slides-with-s2t/"><u>[New] Integrating AI Assistants Into Slides with S2T</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-essential-tactics-for-dramatizing-success-stories-through-testimonials/"><u>[Updated] Essential Tactics for Dramatizing Success Stories Through Testimonials</u></a></li>
-<li><a href="https://win-answers.techidaily.com/usb/"><u>「車内でUSBから音楽が流せませんか？」 - 車用音楽プレイヤーのセットアップガイド</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726027775220-mp4/"><u>【ダウンロードせずに使える】オンラインMP4動画編集ツール一覧</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1-speeding-up-video-conversion-harnessing-the-power-of-gpus/"><u>1. Speeding Up Video Conversion: Harnessing the Power of GPUs</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1-step-by-step-guide-transforming-audio-and-video-interchange-file-format-avi/"><u>1. Step-by-Step Guide: Transforming Audio and Video Interchange File Format (AVI)</u></a></li>
-<li><a href="https://win-answers.techidaily.com/wavmp3mp4/"><u>音楽を分離してWAVやMP3に変換する：MP4から始める手順</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726028036275-web/"><u>専用ソフトで簡単にWeb動画をダウンロード・保存 - 最高の無料サイト一覧表示</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Realme C33 2023 | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/mac-gaming-enhanced-counter-strike-2-basics/"><u>Mac Gaming Enhanced: Counter-Strike 2 Basics</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211424318-9781964744254-the-covenant-between-the-king-of-devils-and-death-and-victory-over-death/"><u>The Covenant Between the King of Devils and Death and Victory Over Death | Free Book</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Infinix Smart 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-a-symphony-in-one-merging-audio-files-for-a-unified-videography-narrative/"><u>Updated In 2024, A Symphony in One Merging Audio Files for a Unified Videography Narrative</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726028074709-wav/"><u>WAV形式音声ファイルを簡単に作成する方法：ウィンドウズマニュアル</u></a></li>
-<li><a href="https://win-answers.techidaily.com/windows-1111/"><u>スチームゲームをWindows 11/11で記録・動画撮影する詳細ガイド</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-picsart-revamp-explained-in-depth-review-and-step-by-step-tutorial-update/"><u>[New] PicsArt Revamp Explained In-Depth Review & Step-by-Step Tutorial Update</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-unlocking-igtvs-potential-a-video-resizing-primer-for-2024/"><u>[New] Unlocking IGTV's Potential A Video Resizing Primer for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-youtube-enhancement-the-art-of-background-blur/"><u>[Updated] YouTube Enhancement The Art of Background Blur</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/assemble-unique-meme-creations-with-ease-for-2024/"><u>Assemble Unique Meme Creations with Ease for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/common-solutions-for-when-your-windows-10-start-menu-wont-open/"><u>Common Solutions for When Your Windows 10 Start Menu Won't Open</u></a></li>
+<li><a href="https://win-answers.techidaily.com/defeat-the-black-void-essential-fixes-for-hitman-3-playability-on-desktops/"><u>Defeat the Black Void: Essential Fixes for Hitman 3 Playability on Desktops</u></a></li>
+<li><a href="https://win-answers.techidaily.com/diy-solutions-getting-your-humankind-game-to-launch-successfully/"><u>DIY Solutions: Getting Your Humankind Game to Launch Successfully</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/download-dex-3205-enhanced-beat-matching-and-improved-sync-capabilities-now-available/"><u>Download DEX 3.20.5: Enhanced Beat Matching & Improved Sync Capabilities Now Available!</u></a></li>
+<li><a href="https://win-great.techidaily.com/guide-complet-comment-effectuer-une-sauvegarde-de-son-nas-vers-un-hdd-extern/"><u>Guide Complet - Comment Effectuer Une Sauvegarde De Son NAS Vers Un HDD Extern</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-overcome-launch-hurdles-in-biowares-newest-title-pathfinder-wrath-of-the-righteous/"><u>How To Overcome Launch Hurdles in BioWare's Newest Title: Pathfinder: Wrath of the Righteous</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-assessing-video-broadcast-tools-wirecasts-place/"><u>In 2024, Assessing Video Broadcast Tools WireCast's Place</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-realme-c51-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Realme C51? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-drops-and-hiccups-during-counter-strike-abetes-fbs-)160-mgdl-and-ldl-)130-mgdl-were-found-to-be-abnormal-in-about-28-of-the-participants-and-ast-l569/"><u>Resolving Drops & Hiccups During Counter-Strike Abetes (FBS) >160 Mg/Dl and LDL >130 Mg/Dl Were Found to Be Abnormal in About 28% of the Participants, and AST Level >47 U/L Was Observed in Approximately 22%.</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722995191415-team-fortress-2-stability-enhancements-stop-the-unwanted-interruptions/"><u>Team Fortress 2 Stability Enhancements - Stop the Unwanted Interruptions!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722999742301-troubleshooting-your-total-war-saga-troy-pc-game-crash-solutions-inside/"><u>Troubleshooting Your 'Total War Saga: Troy' PC Game Crash - Solutions Inside!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/understanding-key-differences-in-panoramic-and-vr-cinematography-for-2024/"><u>Understanding Key Differences in Panoramic and VR Cinematography for 2024</u></a></li>
 </ul></div>
 

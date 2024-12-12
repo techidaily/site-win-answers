@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Solution for Horizon Zero Dawn Continuous PC Malfunctions
-date: 2024-11-29T19:10:40.905Z
-updated: 2024-12-06T17:17:40.550Z
+date: 2024-12-09T17:14:44.899Z
+updated: 2024-12-12T17:03:54.747Z
 tags:
   - win11
   - win10
@@ -39,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/9e992eeefd8e84a59a07a57a0f98ead45d9f4acef
 9. **[Install a Media Feature Pack](https://tools.techidaily.com/drivereasy/download/)**
 10. **[Reinstall GeForce Experience](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Make sure GeForce in-game overlay is enabled
 
  Before beginning to troubleshoot the GeForce overlay not working issue, you need to make sure the in-game overlay is turned on inside GeForce Experience. Here’s how:
@@ -55,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/9e992eeefd8e84a59a07a57a0f98ead45d9f4acef
 
  Run a game to see if your GeForce overlay shows up. If not, try the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 2: Restart your computer
 
  The GeForce overlay not working issue can sometimes be resolved by a simple reboot since this action will refresh your operating system and remove any corrupt temporary data that may cause the problem. So you should give it a shot first.
@@ -62,10 +62,6 @@ thumbnail: https://thmb.techidaily.com/9e992eeefd8e84a59a07a57a0f98ead45d9f4acef
 After restarting your computer, check if your GeForce overlay is working.
 
 If the issue remains, continue to the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 3: Update your graphics driver
 
@@ -86,19 +82,11 @@ If the issue remains, continue to the next fix below.
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti.jpg)
 4. After updating, restart your computer to take effect.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  After updating your drivers, restart your computer and check if the GeForce overlay not working issue still occurs.
 
 If the issue remains, try the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Install all Windows updates
 
@@ -108,6 +96,10 @@ If the issue remains, try the next fix below.
 2. Click**Windows Updates** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/win11-windows-update.png)
 3. Under Windows Update, click**check for updates** . It’ll take some time for Windows to search and install system updates.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/win11-check-for-updates.png)
 4. Restart your computer.
@@ -129,10 +121,6 @@ If the overlay is still no function, check out the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/ok-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Check if the GeForce overlay not functioning issue still occurs.
 
 If the issue persists, go ahead with the next fix below.
@@ -145,15 +133,19 @@ If the issue persists, go ahead with the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/geforce-setting.jpg)
 2. In the left panel, select**GENERAL** . Under the ABOUT section, tick the box next to “**Enable experimental features** . A GeForce Experience update may be required.”.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/enable-experimental-feature.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Once done, check if your GeForce overlay is working.
 
 If not, move on to the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 7: Disable third-party services
 
@@ -163,6 +155,10 @@ If not, move on to the next fix below.
 2. Type**msconfig** and click**OK** to open System Configuration.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/msconfig.jpg)
 3. In System Configuration, navigate to the**Services** tab, check the box of**Hide all Microsoft services** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/hide-all-microsoft-services.jpg)
 4. **Uncheck** all the services EXCEPT NVIDIA services, then click**OK** to save changes.  
@@ -187,21 +183,25 @@ If this method doesn’t do the trick, move on to the next fix.
 4. In the pop-up window, click**Repair** . Then wait a few minutes for the repairing process to finish.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/repair-microsoft-visual.jpg)
 5. After finishing the process, click**Close** .  
 
-![](https://images.drivereasy.com/wp-content/uploads/2021/07/close.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/07/close.jpg)
 
 Check to see if GeForce overlay now works on your computer.
 
  If repairing Microsoft Visual C++ Redistributable package doesn’t solve your problem, try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 9: Install a Media Feature Pack
 
@@ -217,13 +217,13 @@ Check to see if GeForce overlay now works on your computer.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/64-bit-download.jpg)
 4. After downloading the pack, follow the on-screen instructions to install it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Make sure to restart your computer after installing the media feature Pack, then check if your GeForce overlay is working properly.
 
  If this solution doesn’t work for you, check out the last fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 10: Reinstall GeForce Experience
 
@@ -234,15 +234,15 @@ Check to see if GeForce overlay now works on your computer.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/appwiz.cpl_-1.jpg)
 3. Right-click**GeForce Experience** and select**Uninstall/Change** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/uninstall-change-geforce-experience.jpg)
 4. In the pop-up window, click**UNINSTALL** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/uninstall-geforce-experience.jpg)
 5. Go to the[GeForce Experience official website](https://www.nvidia.com/en-us/geforce/geforce-experience/) to download the latest version of the program.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/download-geforce-experience.jpg)
 6. After downloading, follow the on-screen instructions to install GeForce Experience.
@@ -270,22 +270,21 @@ Now you can check to see if your GeForce overlay is working.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-top-10plus-instagram-content-downloaders-reviewed-for-2024/"><u>[New] Top 10+ Instagram Content Downloaders Reviewed for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-sdr-vs-hdr-why-hdr-be-a-better-part-of-your-video-workflow/"><u>[Updated] 2024 Approved SDR vs HDR Why HDR Be a Better Part of Your Video Workflow</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-giggle-generation-top-ten-templates-for-viral-effect-for-2024/"><u>[Updated] Giggle Generation Top Ten Templates for Viral Effect for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-7-key-elements-for-perfect-instagram-unpackings/"><u>2024 Approved 7 Key Elements for Perfect Instagram Unpackings</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-sticky-visuals-at-a-glance-iphoneandroids-best-sticker-add-on-apps/"><u>2024 Approved Sticky Visuals at a Glance – iPhone/Android's Best Sticker Add-On Apps</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/avoiding-common-pitfalls-when-posting-on-instagram-for-2024/"><u>Avoiding Common Pitfalls When Posting on Instagram for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/beat-the-out-of-video-memory-error-in-fortnite-effective-solutions-explored/"><u>Beat the 'Out of Video Memory' Error in Fortnite: Effective Solutions Explored</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-amd-vega-64-drivers-for-windows-free-tutorial/"><u>Get the Latest AMD Vega 64 Drivers for Windows: Free Tutorial</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-6-plus-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On Apple iPhone 6 Plus</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-apples-advanced-ai-transforms-your-iphones-dashboard-and-empowers-siri-for-enhanced-personalization/"><u>How Apple's Advanced AI Transforms Your iPhone's Dashboard and Empowers Siri for Enhanced Personalization</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722994220210-how-to-fix-stuck-update-for-microsoft-flight-simulator-2020-now-resolved/"><u>How to Fix Stuck Update for Microsoft Flight Simulator 2020 – Now Resolved</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcome-minecraft-crashes-effortlessly-in-just-6-steps/"><u>Overcome Minecraft Crashes Effortlessly in Just 6 Steps</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solutions-for-starting-struggles-in-constructive-city-design-civilization-vi/"><u>Solutions for Starting Struggles in Constructive City Design - Civilization VI</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723000487764-terraria-crashes-fix-it-with-these-top-5-solutions/"><u>Terraria Crashes? Fix It with These Top 5 Solutions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-how-to-speed-up-a-slow-loading-origin/"><u>Troubleshooting Tips: How to Speed Up a Slow-Loading Origin</u></a></li>
-<li><a href="https://win-answers.techidaily.com/unlocking-victory-solutions-to-stop-madden-22-from-being-stuck-on-loading-screen/"><u>Unlocking Victory: Solutions to Stop Madden 22 From Being Stuck on Loading Screen</u></a></li>
-<li><a href="https://win-answers.techidaily.com/valheim-starts-up-woes-heres-how-you-resolved-them-in-2nnd-year-of-the-game/"><u>Valheim Starts-Up Woes? Here's How You Resolved Them in 2Nnd Year of the Game!</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-laugh-out-loud-essential-comedy-channels-for-endless-fun/"><u>[New] In 2024, Laugh Out Loud Essential Comedy Channels for Endless Fun</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-behind-the-lens-detailed-evaluation-of-sj-cam-s6/"><u>2024 Approved Behind the Lens Detailed Evaluation of SJ-CAM S6</u></a></li>
+<li><a href="https://win-answers.techidaily.com/alan-wake-2-launch-delays-decoded-what-you-need-to-know-and-fixes/"><u>Alan Wake 2 Launch Delays Decoded: What You Need to Know & Fixes</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-infinix-smart-8-plus-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Infinix Smart 8 Plus? | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/birthstones-and-emojis-tailoring-your-whatsapp-profile-by-sign/"><u>Birthstones and Emojis Tailoring Your WhatsApp Profile by Sign</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721466085305-discover-8-ways-your-iphone-saves-pictures-to-icloud-despite-deletions-unraveling-the-mystery/"><u>Discover 8 Ways Your iPhone Saves Pictures to iCloud Despite Deletions: Unraveling the Mystery</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-solutions-for-preventing-doom-eternal-from-crashing/"><u>Effective Solutions for Preventing DOOM Eternal From Crashing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-chrome-browser-freezing-issues-a-comprehensive-guide/"><u>Fixing Chrome Browser Freezing Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-recurring-crashes-in-minecraft-dungeons-on-windows-step-by-step-guide/"><u>Fixing Recurring Crashes in Minecraft Dungeons on Windows - Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/from-zero-to-hero-mastering-memes-in-kinemaster/"><u>From Zero to Hero Mastering Memes in KineMaster</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-starfield-wont-launch-on-steamxbox/"><u>How to Fix Starfield Won’t Launch on Steam/Xbox</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-optimize-performance-and-prevent-crashes-in-microsoft-flight-simulator-2020-on-pc/"><u>How to Optimize Performance and Prevent Crashes in Microsoft Flight Simulator 2020 on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-troubleshooting-for-when-counter-strike-go-wont-start-properly/"><u>Step-by-Step Troubleshooting for When Counter-Strike Go Won't Start Properly</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-honor-x8b-by-fonelab-android-recover-music/"><u>The way to get back lost music from Honor X8b</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-leading-antivirus-programs-for-202n4-ranked-experts/"><u>Ultimate Guide: Leading Antivirus Programs for 202N4 Ranked Experts</u></a></li>
 </ul></div>
 

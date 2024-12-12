@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Tips to Stop Assassin's Creed Odyssey From Crashing on PC Easily
-date: 2024-12-02T17:30:29.031Z
-updated: 2024-12-06T17:10:21.576Z
+date: 2024-12-07T18:15:05.987Z
+updated: 2024-12-12T16:22:50.071Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ Although[Assassin’s Creed Valhalla](https://www.epicgames.com/store/en-US/p/as
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fixes to try
 
  You may not try them all; simply work your way down the list until you find the one that solves your problem.
@@ -35,6 +31,10 @@ Although[Assassin’s Creed Valhalla](https://www.epicgames.com/store/en-US/p/as
 3. [**Run the game as an administrator**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Verify the integrity of your game files**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Reinstall Assassin’s Creed Valhalla](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1 – Check the minimum specs of Assassin’s Creed Valhalla
 
@@ -68,10 +68,6 @@ There are mainly two ways to update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-1-3.jpg)
 3. Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-2-4.jpg)
 
@@ -89,24 +85,32 @@ There are mainly two ways to update the graphics driver:
 2. Move your mouse cursor to Assassin’s Creed Valhalla and click the**downward triangle icon** . Then, select**View game details** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-2-3.jpg)
 3. Select**Properties** on the left pane, and click**Open folder** under Local files.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-4-2.jpg)
 4. Right-click the**ACValhalla.exe file** and click**Properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-5.jpg)
 5. Navigate to the**Compatibility** tab. Then, tick**Run this program as an administrator** and click**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-6-1.jpg)
 6. Launch the ACValhalla.exe file directly from the installation folder and see how it works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If the issue persists, head to the fixes below.
 
@@ -122,7 +126,7 @@ If the issue persists, head to the fixes below.
 3. Click**Verify files** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/3-2-2.jpg)
@@ -139,10 +143,6 @@ If the issue persists, head to the fixes below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/6-1-2.jpg)
 3. Reinstall the game to the same location where your OS and Ubisoft Connect app are installed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The Assassin’s Creed Valhalla not launching issue should be resolved after the fresh reinstallation.
 
@@ -169,24 +169,20 @@ If the issue persists, head to the fixes below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-interrupting-real-time-recording-on-quicktime/"><u>[New] 2024 Approved Interrupting Real-Time Recording on QuickTime</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-seeing-beyond-our-elite-rankings-of-camera-lenses-1-10/"><u>[New] Seeing Beyond Our Elite Rankings of Camera Lenses #1-10</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-a-close-look-at-t-series-revenue-from-online-channels/"><u>[Updated] 2024 Approved A Close Look at T-Series Revenue From Online Channels</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-free-camera-screen-recorders-deep-dive-review-and-top-alternatives-for-2024/"><u>[Updated] Free Camera Screen Recorders Deep Dive Review and Top Alternatives for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-tapered-music-transitions-an-intuitive-premiere-pro-tutorial/"><u>[Updated] In 2024, Tapered Music Transitions An Intuitive Premiere Pro Tutorial</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726030454879-youtube/"><u>「無料でYouTube音楽コンテンツをダウンロードする専門プラン」</u></a></li>
-<li><a href="https://win-answers.techidaily.com/44cm44k544og44od44ox44oq44kk44k544og44od44ox44ks44kk44oj77ya5a625bqt55so44ki44ox44oq44kx44o844k344on44oz44ks5l244gj44gf44ow44or44o844os44kk5yuv55s744gu57ch510/"><u>「ステップバイステップガイド：家庭用アプリケーションを使ったブルーレイ動画の簡単な録画方法」</u></a></li>
-<li><a href="https://blog-min.techidaily.com/4-proven-methods-to-eliminate-jpeg-distortions-at-no-cost/"><u>4 Proven Methods to Eliminate JPEG Distortions at No Cost</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726028109648-google/"><u>解決策: Googleドライブ上で非対応フォーマットを持つファイルに遭遇した場合</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726029478590-youtube/"><u>素早く YouTube チャンネルから複数動画ダウンロードガイド</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/avoiding-imposter-chatbots-a-guide-to-authenticating-gpt-apps-for-apple-devices/"><u>Avoiding Imposter Chatbots: A Guide to Authenticating GPT Apps for Apple Devices</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-iphone-xr-by-drfone-ios/"><u>Everything You Need To Know About Unlocked iPhone XR</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726029607691-mp4/"><u>MP4動画再生に失敗する主な理由と解決策</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/soundscape-symphony-crafting-concert-videos-with-these-15-tutorials/"><u>Soundscape Symphony Crafting Concert Videos with These 15 Tutorials</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-guide-fixes-for-rediscovered-files-in-windows/"><u>The Ultimate Guide: Fixes for Rediscovered Files in Windows</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726030503214-vobmp4/"><u>VOBからMP4への変換: 最適な方法とそのアレンジバージョン</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726029264023-windowswebm/"><u>Windows上でのWebMビデオファイル統合手順</u></a></li>
-<li><a href="https://win-answers.techidaily.com/44gk6kal56mn44kk5pmc44gr5l2t6ait54mi44gm5yip55so44gn44gn44kl6ko95zob44gv44gc44kk44gplus44gz44gl77yf/"><u>お見積り時に体験版が利用できる製品はありますか？</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726027375030-pc/"><u>ダイナブックノートPCによる高画質映像記録テクニック</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-avoid-common-pitfalls-in-ppt-recording/"><u>[New] 2024 Approved Avoid Common Pitfalls in PPT Recording</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-capture-every-moment-on-mac-free-in-2024/"><u>[Updated] Capture Every Moment on Mac, FREE, In 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-realme-narzo-60-5g-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-youtube-alternatives-3-best-video-sharing-sites/"><u>2024 Approved YouTube Alternatives 3 Best Video Sharing Sites</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bypassing-the-troublesome-anticheat-connection-failed-bug-in-escape-from-tarkov-expert-solutions/"><u>Bypassing the Troublesome 'Anticheat Connection Failed' Bug in Escape From Tarkov: Expert Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fast-track-your-phasmophobia-game-past-the-stubborn-90-load-screen-expert-hacks/"><u>Fast-Track Your Phasmophobia Game Past the Stubborn 90% Load Screen: Expert Hacks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-and-prevent-mir4-from-freezing-or-crashing-an-essential-guide-for-windows-enthusiasts/"><u>Fix and Prevent MIR4 From Freezing or Crashing: An Essential Guide for Windows Enthusiasts</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-vivo-v30-lite-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Vivo V30 Lite 5G in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-motorola-moto-g34-5g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Motorola Moto G34 5G Location | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-solutions-resolving-issues-when-starting-genshin-impact/"><u>Quick Solutions: Resolving Issues When Starting Genshin Impact</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-steps-to-fix-davinci-resolve-launch-failures-on-windows-pcs/"><u>Resolved: Steps to Fix DaVinci Resolve Launch Failures on Windows PCs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-internet-explorer-has-stopped-working-errors-a-step-by-step-guide/"><u>Resolving 'Internet Explorer Has Stopped Working' Errors: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-infallible-technique-for-embedding-profile-urls-in-tiktok-for-2024/"><u>The Infallible Technique for Embedding Profile URLs in TikTok for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-and-fixing-game-crashes-ultimate-tips-for-jurassic-world-evolution/"><u>Troubleshooting and Fixing Game Crashes: Ultimate Tips for Jurassic World Evolution</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-the-ultimate-guide-10-best-video-players-with-slow-motion/"><u>Updated 2024 Approved The Ultimate Guide 10 Best Video Players with Slow Motion</u></a></li>
 </ul></div>
 

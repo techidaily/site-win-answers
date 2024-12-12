@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Gaming Performance: Techniques for Eliminating Frame Rate Hiccups"
-date: 2024-11-10T10:38:17.941Z
-updated: 2024-11-17T10:51:18.902Z
+date: 2024-12-06T17:01:21.243Z
+updated: 2024-12-12T16:01:17.632Z
 tags:
   - win11
   - win10
@@ -45,13 +45,6 @@ GTFO
 
  Run GTFO and see if the FPS is back to normal. If the in-game FPS still drops, or there are no new game patch available, move on to next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Update your graphics driver
 
  If you haven’t updated your graphics driver for a long time, you should update or reinstall the driver, because the outdated or faulty graphics driver may trigger GTFO FPS dropping issue.
@@ -72,8 +65,17 @@ There are mainly two methods for you to update the graphics driver:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
 4. Once the driver is updated, reboot your PC for the changes to take effect.
@@ -92,29 +94,13 @@ There are mainly two methods for you to update the graphics driver:
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Run GTFO and check if you get a better PFS. If the GTFO FPS drops again, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Modify graphics card settings
 
@@ -141,7 +127,15 @@ There are mainly two methods for you to update the graphics driver:
 2. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Launch GTFO and see if the in-game FPS improves. If not, move on to the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Disable overlays
 
@@ -154,10 +148,7 @@ There are mainly two methods for you to update the graphics driver:
 2. In the **GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
@@ -165,13 +156,6 @@ There are mainly two methods for you to update the graphics driver:
  If you’re using other apps with overlay features like Discord, Nvidia GeForce Experience, Twitch, etc., ensure you’ve disabled the in-game overlay in those apps feature before you restart the game.
 
  Run GTFO again after you disabled all the in-game overlays and see if the in-game FPS increases. If this issue persists, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Disable background recording and Xbox Game Bar
 
@@ -182,13 +166,6 @@ There are mainly two methods for you to update the graphics driver:
 1. On your keyboard, press **the Windows logo key** and **I** at the same time to open **Windows Settings** . Click **Gaming** to open Windows 10 gaming settings.  
 ![Windows 10 settings gaming](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-10-settings-gaming.jpg)
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
@@ -220,24 +197,19 @@ Launch GTFO to see you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-capture-lol-fun-top-3-gameplay-recording-tips/"><u>[New] 2024 Approved Capture LOL Fun Top 3 Gameplay Recording Tips</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-complete-screen-recorder-in-depth-az-reviewing/"><u>[New] Complete Screen Recorder - In-Depth AZ Reviewing</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-mastering-facebook-page-visibility-key-techniques/"><u>[Updated] 2024 Approved Mastering Facebook Page Visibility Key Techniques</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/experience-effortless-living-with-chatgpts-9-key-uses/"><u>Experience Effortless Living with ChatGPT's 9 Key Uses</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-compiling-shaders-issue-in-call-of-duty-black-ops-cold-war/"><u>Fixing 'Compiling Shaders' Issue in Call of Duty: Black Ops Cold War</u></a></li>
-<li><a href="https://win-premium.techidaily.com/how-to-enable-offline-files-feature-on-windows-11-three-effective-ways/"><u>How to Enable Offline Files Feature on Windows 11 – Three Effective Ways</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-latest-razer-software-updates-on-your-pc-windows-10-8-7-xp-or-vista/"><u>How to Get the Latest Razer Software Updates on Your PC: Windows 10, 8, 7, XP, or Vista</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-nokia-c32-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Nokia C32 FRP</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-snapchat-location-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/in-depth-guide-on-reconstruction-techniques-following-a-crash-or-collapse-during-property-removal/"><u>In-Depth Guide on Reconstruction Techniques Following a Crash or Collapse During Property Removal</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/inside-look-at-the-apple-vision-pro-cost-analysis-features-breakdown-and-personal-trials-insights/"><u>Inside Look at the Apple Vision Pro: Cost Analysis, Features Breakdown & Personal Trials | Insights</u></a></li>
-<li><a href="https://win-answers.techidaily.com/navigating-through-the-true-colours-game-bug-for-a-smoother-experience/"><u>Navigating Through the 'True Colours' Game Bug for a Smoother Experience</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722994646884-phasmophobia-crash-troubles-heres-how-to-resolve-the-latest-issues/"><u>Phasmophobia Crash Troubles? Here's How to Resolve the Latest Issues</u></a></li>
-<li><a href="https://win-answers.techidaily.com/putting-the-rumor-to-rest-the-official-word-on-assassins-creed-valhalla-release-schedule/"><u>Putting the Rumor to Rest: The Official Word on Assassin's Creed Valhalla Release Schedule</u></a></li>
-<li><a href="https://win-answers.techidaily.com/the-king-of-fighters-xv-fixing-the-pc-crash-glitches/"><u>The King of Fighters XV: Fixing the PC Crash Glitches</u></a></li>
-<li><a href="https://article-helps.techidaily.com/the-quiet-quality-of-comfort-asmr-expert-choices/"><u>The Quiet Quality of Comfort ASMR Expert Choices</u></a></li>
-<li><a href="https://win-answers.techidaily.com/the-ultimate-troubleshooter-for-overcoming-launch-issues-in-persona-3-farewell-ruins/"><u>The Ultimate Troubleshooter for Overcoming Launch Issues in Persona 3 Farewell Ruins!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-how-to-resolve-battlefield-5-pc-crashes/"><u>Troubleshooting Guide: How to Resolve Battlefield 5 PC Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-resolving-hp-client-security-uninstallation-issue-error-1325-on-windows-7/"><u>Troubleshooting Guide: Resolving HP Client Security Uninstallation Issue (Error 1325) on Windows 7</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/deal-voice-transformation-tools-for-digital-talent-for-2024/"><u>[New] Ideal Voice Transformation Tools for Digital Talent for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-prime-selection-your-guide-to-best-tv-streaming-choices/"><u>[New] Prime Selection Your Guide to Best TV Streaming Choices</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-hp-laptop-screen-recording-the-best-approaches-explained/"><u>[Updated] 2024 Approved HP Laptop Screen Recording The Best Approaches Explained</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-stills-extraction-procedure-windows-11-photos-guide/"><u>[Updated] Stills Extraction Procedure Windows 11 Photos Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/getting-the-mass-effect-legendary-edition-running-smoothly-after-startup-failures/"><u>Getting The Mass Effect Legendary Edition Running Smoothly After Startup Failures</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-forza-horizon-4-from-crashing-on-your-computer-solutions-proven-effective/"><u>How to Stop Forza Horizon 4 From Crashing on Your Computer - Solutions Proven Effective</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-15-pro-max-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 15 Pro Max Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/keep-your-brother-mfc-380dw-running-smoothly-on-windows-update-to-the-newest-drivers/"><u>Keep Your Brother MFC-#380DW Running Smoothly on Windows - Update to the Newest Drivers</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/navigating-the-world-of-vr-playback-technology-for-2024/"><u>Navigating the World of VR Playback Technology for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolving-printer-halt-after-update-successfully/"><u>Resolving Printer Halt After Update Successfully</u></a></li>
+<li><a href="https://win-answers.techidaily.com/skyrim-volume-glitches-how-to-restore-game-sounds-completebly/"><u>Skyrim Volume Glitches – How to Restore Game Sounds Completebly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-success-fix-your-baldurs-gate-3-launch-woes/"><u>Troubleshooting Success: Fix Your Baldur's Gate 3 Launch Woes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unable-to-play-video-game-verify-integrity-of-game-files-heres-how/"><u>Unable to Play Video Game? Verify Integrity of Game Files Here's How</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Overcome the Star Wars Battlefront II's Persistent Black Screen Issue"
-date: 2024-12-02T17:49:53.424Z
-updated: 2024-12-06T19:11:30.021Z
+date: 2024-12-07T19:06:11.102Z
+updated: 2024-12-12T18:38:54.024Z
 tags:
   - win11
   - win10
@@ -66,7 +66,7 @@ Follow the instructions below to view your computer hardware information:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_10-46-07.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)**  Check your **operating system, processor, memory and DirectX Version** .
@@ -119,9 +119,17 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-04-47.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Verify the integrity of your game files
 
@@ -133,24 +141,16 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-05-42.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**  Right-click **Garry’s Mod**  and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-06-02.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-06-07.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **5)**  Relaunch GMod.
@@ -167,25 +167,25 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-319.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Right-click **Garry’s Mod**  and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-06-02-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)**  Click **SET LAUNCH OPTIONS.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-06-07-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **5)**  Remove any launch options currently shown.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-16-08.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **6)** Type **\-dxlevel 85 -console -windowed -noborder** , then click **OK** .
 
@@ -209,11 +209,11 @@ Follow the instructions below to stop the automatic downloads:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-16-54.jpg)
 
- Relaunch your game to check if this has resolved your issue. If not, try the fix, below.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Relaunch your game to check if this has resolved your issue. If not, try the fix, below.
 
 ### Fix 7: Reinstall Steam
 
@@ -228,24 +228,16 @@ Follow the instructions below to stop the automatic downloads:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-17-53.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click**Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-17-57.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)** Under **View by** , select **Category** , then select **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-18-03.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **5)**  Right-click **Steam** , and then click **Uninstall** .
 
@@ -259,11 +251,19 @@ Follow the instructions below to stop the automatic downloads:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-18-33.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **9)**  Move the backup **steamapps folder**  you create before to your current directory location.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-18-37.jpg)
 
 **10)**  Relaunch Steam and your game.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 8:**Reseat PC components**
 
@@ -332,20 +332,22 @@ Follow the instructions below to stop the automatic downloads:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-completing-the-process-of-disabling-your-linkedin-profile/"><u>[New] Completing the Process of Disabling Your LinkedIn Profile</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/asus-implements-new-bios-upgrade-with-microsofts-dynamic-led-management-streamlining-performance/"><u>Asus Implements New BIOS Upgrade with Microsoft's Dynamic LED Management, Streamlining Performance</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Samsung Galaxy M14 4G | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/comprehensive-strategies-for-correcting-startup-malfunctions-in-helldivers-2/"><u>Comprehensive Strategies for Correcting Startup Malfunctions in Helldivers 2</u></a></li>
-<li><a href="https://win11.techidaily.com/creative-steps-to-obliviate-win-11s-taskbar-button/"><u>Creative Steps to Obliviate Win 11'S Taskbar Button</u></a></li>
-<li><a href="https://win-answers.techidaily.com/cyberpunk-2077-startup-issues-solutions-for-successful-boot-up/"><u>Cyberpunk 2077 Startup Issues – Solutions for Successful Boot-Up</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722990942875-deathloop-on-pc-say-goodbye-to-crashing-with-these-simple-fixes/"><u>Deathloop on PC - Say Goodbye to Crashing with These Simple Fixes</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-the-audio-device-not-installed-error-effectively-for-windows-users/"><u>Fix the 'Audio Device Not Installed' Error Effectively for Windows Users</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-battlenet-startup-errors-a-step-by-step-guide-to-get-you-gaming-again/"><u>Fixing Battle.net Startup Errors: A Step-by-Step Guide to Get You Gaming Again!</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-vivo-t2-pro-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Vivo T2 Pro 5G Lock Screen Password?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-itel-a60-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Itel A60 to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://discover-best.techidaily.com/macxdvd-digiarty/"><u>MacXDVD ショッピングガイド：オフィシャルな商品一覧での入手方法 - Digiartyチェーン</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-the-problems-with-non-functioning-clownfish-audio-adjusters/"><u>Solving the Problems with Non-Functioning Clownfish Audio Adjusters</u></a></li>
-<li><a href="https://win-answers.techidaily.com/successful-fix-for-fortnites-critical-error-code-ls-0013-a-comprehensive-guide/"><u>Successful Fix for Fortnite's Critical Error Code LS-0013: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/the-mystery-solved-inside-information-on-when-you-can-expect-assassins-creed-valhalla/"><u>The Mystery Solved: Inside Information on When You Can Expect Assassin's Creed Valhalla</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-evil-genius-2-no-sound/"><u>[Solved] Evil Genius 2 No Sound</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-amp-up-your-sessions-with-essential-tips-from-zooms-changer-suite/"><u>[Updated] Amp Up Your Sessions with Essential Tips From Zoom's Changer Suite</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722987743481-dealing-with-immortals-of-fenyx-rising-crashes-solutions-inside/"><u>Dealing with Immortals of Fenyx Rising Crashes – Solutions Inside!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-latest-innovations-7-amazing-features-added-to-bard-this-years-google-io/"><u>Discover the Latest Innovations: 7 Amazing Features Added to BARD This Year's Google I/O</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Itel P55+? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-on-restarting-and-fixing-internet-explorer-failures/"><u>Expert Advice on Restarting and Fixing Internet Explorer Failures</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-critical-error-causing-bsod-on-helldivers-vein-thrombosis/"><u>Fixing the Critical Error Causing BSOD on Helldivers Vein Thrombosis?</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-itel-s23-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Itel S23 | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-quickly-fix-launch-issues-in-hogwarts-legacy-essential-steps-and-tips/"><u>How To Quickly Fix Launch Issues in 'Hogwarts Legacy': Essential Steps & Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-everscape-ii-pc-performance-tips-and-fixes-for-continuous-play/"><u>Mastering Everscape II PC Performance: Tips and Fixes for Continuous Play</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-steam-library-management-in-windows-11/"><u>Mastering Steam Library Management in Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722998464691-no-more-glitches-in-football-manager-2022-for-your-desktop-effective-solutions-available/"><u>No More Glitches in Football Manager 2022 for Your Desktop – Effective Solutions Available</u></a></li>
+<li><a href="https://extra-information.techidaily.com/premium-photographic-archives/"><u>Premium Photographic Archives</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-solutions-ensuring-your-controller-works-with-steam-on-windows-computers/"><u>Step-by-Step Solutions: Ensuring Your Controller Works with Steam on Windows Computers</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/streamlining-your-youtube-presence-with-best-video-formats/"><u>Streamlining Your YouTube Presence with Best Video Formats</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-auto-brightness-issues-on-your-iphone-discover-7-effective-solutions/"><u>Struggling with Auto-Brightness Issues on Your iPhone? Discover 7 Effective Solutions</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/understanding-the-technicalities-of-fb-360-streaming/"><u>Understanding the Technicalities of FB 360 Streaming</u></a></li>
 </ul></div>
 

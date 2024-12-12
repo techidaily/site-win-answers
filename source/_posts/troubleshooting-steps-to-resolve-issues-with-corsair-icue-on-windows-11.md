@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps to Resolve Issues with Corsair iCUE on Windows 11
-date: 2024-11-12T22:02:04.936Z
-updated: 2024-11-17T09:37:02.253Z
+date: 2024-12-06T16:55:42.441Z
+updated: 2024-12-12T16:25:16.299Z
 tags:
   - win11
   - win10
@@ -28,10 +28,7 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 * Install the latest updates
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these methods
@@ -55,27 +52,17 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/troubleshoot.jpg)
 3. Click**Troubleshoot** on the left pane, scroll down and click**Windows Store Apps** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Click**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/windows-store-app.jpg)
 5. Follow the on-screen instructions to finish the process.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Run Microsoft Edge to check the problem is resolved or not.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Repair & reset Microsoft Edge
 
@@ -90,6 +77,10 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app.jpg)
 4. Click**Repair** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Run Microsoft Edge to check the problem is resolved or not. If**Repair** doesn’t help, repeat the steps above and click**Reset** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app1.jpg)
@@ -111,10 +102,7 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 4. Select all boxes and click**Clear** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history2.jpg)
@@ -123,10 +111,7 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 4: Uninstall Trusteer Rapport or Endpoint
@@ -157,15 +142,12 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**Start Repair** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
@@ -179,16 +161,13 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/command-prompt-1.jpg)  
 **Note** : Do **NOT** click OK or just press the Enter key as that won’t allow you to open Command Prompt in the administrator mode.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Type “sfc /scannow” in the window and press **Enter** . Then wait for the verification is 100% complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap4.jpg)
 4. Reboot your computer to check the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the result indicates that there are broken files exist but SFC can’t fix them, you can turn to Deployment Image Servicing and Management (DISM) Tool for deeper examination and repair.  
  Click [here](https://tools.techidaily.com/drivereasy/download/) for a tutorial on how to use the DISM Tool.
@@ -214,20 +193,18 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-harmonious-hush-managing-music-on-pc-mac/"><u>[New] In 2024, Harmonious Hush Managing Music on PC, Mac</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-the-ultimate-guide-to-saving-instagrams-trending-videos/"><u>[New] The Ultimate Guide to Saving Instagram's Trending Videos</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-pro-level-screen-recording-on-pc-and-mac-uncovered/"><u>2024 Approved Pro-Level Screen Recording on PC & Mac Uncovered</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Apple iPhone 12 mini | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/baldurs-gate-3-6-effective-ways-to-optimize-cpu-use-in-the-latest-game-version/"><u>Baldur's Gate 3 - 6 Effective Ways to Optimize CPU Use in the Latest Game Version</u></a></li>
-<li><a href="https://win-answers.techidaily.com/discord-overlay-troubles-resolve-the-problem-now-in-minutes/"><u>Discord Overlay Troubles? Resolve the Problem Now in Minutes</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211359630-9798869397485-embracing-the-elements/"><u>Embracing the Elements | Free Book</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-crash-issue-how-to-play-fallout-3-smoothly-on-windows-11/"><u>Fixing the 'Crash' Issue: How to Play Fallout 3 Smoothly on Windows 11</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-lava-yuva-2-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Lava Yuva 2 to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/optimizing-for-victory-overcoming-common-performance-drops-and-stuttering-in-gtfo-games/"><u>Optimizing for Victory: Overcoming Common Performance Drops and Stuttering in GTFO Games</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-to-fixing-unwanted-shutdowns-in-your-halo-3-gaming-experience-on-computer/"><u>Step-by-Step Guide to Fixing Unwanted Shutdowns in Your Halo 3 Gaming Experience on Computer</u></a></li>
-<li><a href="https://fox-that.techidaily.com/the-ultimate-solution-how-to-spot-and-retrieve-vanished-apps-from-your-iphone-system/"><u>The Ultimate Solution: How to Spot and Retrieve Vanished Apps From Your iPhone System</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/troubleshooting-elite-dangerous-pc-instability-and-preventing-crashes/"><u>Troubleshooting Elite Dangerous PC Instability and Preventing Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-the-detected-security-violation-in-gaming-applications/"><u>Troubleshooting the Detected Security Violation in Gaming Applications</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/upcoming-google-pixel-buds-pro-2-what-to-expect-in-specs-release-date-and-cost-estimates/"><u>Upcoming Google Pixel Buds Pro 2: What to Expect in Specs, Release Date, and Cost Estimates</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-top-50-digital-rich-list/"><u>[New] Top 50 Digital Rich List</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-customize-your-scroll-delete-instagram-suggestions/"><u>[Updated] In 2024, Customize Your Scroll Delete Instagram Suggestions</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-no-more-costs-discover-best-free-camera-screen-recorder-apps-for-2024/"><u>[Updated] No More Costs? Discover Best FREE Camera Screen Recorder Apps for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bring-back-life-to-your-unused-laptop-keyboard-article-name-358-characters/"><u>Bring Back Life to Your 'Unused' Laptop Keyboard - Article Name — 358 Characters</u></a></li>
+<li><a href="https://win-answers.techidaily.com/causes-and-solutions-for-repeated-failures-in-cod-modern-warfare/"><u>Causes and Solutions for Repeated Failures in COD: Modern Warfare</u></a></li>
+<li><a href="https://win-answers.techidaily.com/dealing-with-freezes-and-crashes-in-mount-and-blade-2-bannerlord-solutions-unveiled/"><u>Dealing with Freezes and Crashes in Mount & Blade 2: Bannerlord - Solutions Unveiled</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-computer-screens-that-no-longer-show/"><u>Fixing Computer Screens that No Longer Show</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-steams-remote-play-problems-a-comprehensive-guide/"><u>Fixing Steam's Remote Play Problems - A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-groupgaze-video-extractor/"><u>In 2024, GroupGaze Video Extractor</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-os-bridging-virtualmix-pro/"><u>In 2024, OS-Bridging VirtualMix Pro</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-overcoming-vanguard-startup-problems-in-valorant-gameplay/"><u>Troubleshooting: Overcoming Vanguard Startup Problems in Valorant Gameplay</u></a></li>
+<li><a href="https://win-answers.techidaily.com/twitch-streamers-guide-eliminating-the-no-sound-problem-when-going-live-online/"><u>Twitch Streamers Guide: Eliminating the No-Sound Problem When Going Live Online</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unlock-the-secrets-to-launching-cssource-2-without-a-glitch/"><u>Unlock the Secrets to Launching CS:Source 2 Without a Glitch!</u></a></li>
 </ul></div>
 

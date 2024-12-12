@@ -1,7 +1,7 @@
 ---
 title: "Overcoming FPS Drops in Counter-Strike 2: Essential Tweaks for a Smooth PC Gaming Experience"
-date: 2024-11-29T18:56:00.166Z
-updated: 2024-12-06T16:50:54.460Z
+date: 2024-12-05T19:02:28.832Z
+updated: 2024-12-12T16:06:58.011Z
 tags:
   - win11
   - win10
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/e9e9b7ca60047014bff6bb18f8c482a86a228fe45
 5. **[Delete the game cache files](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Adjust the in-game graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1 – Reboot your network
 
  Many players reported the Warzone dev error 6328 can be caused by network glitches. To see if that’s the case, try troubleshooting your router and modem.
@@ -46,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/e9e9b7ca60047014bff6bb18f8c482a86a228fe45
 modem
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/router.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 wireless router
 
@@ -64,10 +72,6 @@ wireless router
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
@@ -75,6 +79,10 @@ wireless router
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Check how Warzone works. If the driver update doesn’t give you luck, move on to the third solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3 – Run Warzone on DirectX 11
 
@@ -89,13 +97,13 @@ wireless router
 4. Click**Done** to confirm.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Restart Warzone for the changes to take effect. See if you could get rid of the 6328 error now. If the problem persists, there are a few more fixes to try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4 – Increase virtual memory
@@ -106,15 +114,15 @@ wireless router
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-1.jpg)
 2. Click**Settings** under the Performance section.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-2.jpg)
 3. Select the**Advanced** tab and click**Change** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-3-1.jpg)
 4. Untick**Automatically manage paging file size for all drives** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-4-1.jpg)
 5. Select**C drive** and check **Custom size** .  
@@ -122,15 +130,11 @@ wireless router
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-5-1.jpg)
 6. Enter the **initial size** and **maximum size** depending on the amount of RAM your PC has, and click **OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Microsoft recommends you set the virtual memory no less than **1.5 times** and no more than **3 times** the amount of RAM on your computer. Here is a guide on [how to check RAM on your computer](https://tools.techidaily.com/drivereasy/download/) .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-6-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5 – Delete the game cache files
@@ -150,10 +154,6 @@ wireless router
 2. Navigate to the**Graphics** tab. Then set the_Display Mode_ to**Fullscreen Borderless** , and turn_Sync Every Frame (V-Sync)_ to**On (Enabled)** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings1.jpg)
 3. Scroll down to the Details & Textures section and set_Texture Resolution_ and_Texture Filter Anisotropic_ to**Normal** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings2.jpg)
 
@@ -181,22 +181,24 @@ wireless router
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-the-essence-of-crossfading-soundtracks/"><u>[New] 2024 Approved The Essence of Crossfading Soundtracks</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-discover-best-watermarking-apps-for-images-for-2024/"><u>[New] Discover Best WaterMarking Apps for Images for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-unlocking-the-secrets-to-free-youtube-intros/"><u>[New] Unlocking the Secrets to FREE YouTube Intros</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-rapid-strategies-for-securing-identity-in-image-editing/"><u>[Updated] In 2024, Rapid Strategies for Securing Identity in Image Editing</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-navigating-the-nuances-of-premieres-fullscreen-mode/"><u>[Updated] Navigating the Nuances of Premiere's Fullscreen Mode</u></a></li>
-<li><a href="https://win-answers.techidaily.com/elevate-gameplay-with-these-secrets-to-maximizing-fps-in-tainted-grail-conquest/"><u>Elevate Gameplay with These Secrets to Maximizing FPS in Tainted Grail: Conquest</u></a></li>
-<li><a href="https://win-answers.techidaily.com/far-cry-6-launch-hurdles-cleared-solutions-for-pc-users-who-experienced-initial-setbacks/"><u>Far Cry 6 Launch Hurdles Cleared - Solutions for PC Users Who Experienced Initial Setbacks</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/gpts-potential-in-revolutionizing-medical-services/"><u>GPT's Potential in Revolutionizing Medical Services</u></a></li>
-<li><a href="https://win-answers.techidaily.com/guide-to-repairing-logitech-options-malfunctions-in-the-windows-operating-system/"><u>Guide to Repairing Logitech Options Malfunctions in the Windows Operating System</u></a></li>
-<li><a href="https://win-able.techidaily.com/master-the-art-of-smooth-gaming-with-these-strategies-on-addressing-borderlands-3s-freezing-glitches/"><u>Master the Art of Smooth Gaming with These Strategies on Addressing Borderlands 3'S Freezing Glitches</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solve-persistent-palworld-errors-and-enjoy-uninterrupted-gaming-on-your-desktop/"><u>Solve Persistent Palworld Errors and Enjoy Uninterrupted Gaming on Your Desktop</u></a></li>
-<li><a href="https://win-answers.techidaily.com/speeding-up-steam-expert-advice-on-accelerating-download-speeds/"><u>Speeding Up Steam: Expert Advice on Accelerating Download Speeds</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-solution-for-fixing-wrath-of-the-righteous-game-crashes-on-pc/"><u>Step-by-Step Solution for Fixing 'Wrath of the Righteous' Game Crashes on PC</u></a></li>
-<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-realme-11-proplus-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Realme 11 Pro+ Unresponsive Screen | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-easy-way-to-spot-and-view-trending-youtube-feedback-for-2024/"><u>The Easy Way to Spot and View Trending YouTube Feedback for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshoot-and-tackle-epic-games-launcher-not-starting-fast-solutions/"><u>Troubleshoot and Tackle Epic Games Launcher Not Starting Fast Solutions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-roblox-pc-mishaps-overcoming-error-code-277/"><u>Troubleshooting Roblox PC Mishaps: Overcoming Error Code 277</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-optimal-earnings-scaling-your-youtube-channels-revenue-on-mobile-devices/"><u>[New] Optimal Earnings Scaling Your YouTube Channel's Revenue on Mobile Devices</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/rivia-trek-exploring-yts-fascinating-figures-and-infographics-for-2024/"><u>[New] Trivia Trek Exploring YT's Fascinating Figures and Infographics for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-transition-videos-to-tweets-effortlessly/"><u>[Updated] 2024 Approved Transition Videos to Tweets Effortlessly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/access-granted-online-login-now-fully-operational-issue-resolved/"><u>Access Granted: Online Login Now Fully Operational - Issue Resolved</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/zing-whether-youtube-premium-is-right-for-you-for-2024/"><u>Analyzing Whether YouTube Premium Is Right for You for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/busting-the-six-most-effective-solutions-to-recover-from-terrarias-loss-of-connectivity/"><u>Busting the Six Most Effective Solutions to Recover From Terraria's Loss of Connectivity</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bypassing-the-error-code-0xc0000005-in-call-of-duty-black-ops-cold-war-gameplay/"><u>Bypassing the Error Code 0xC0000005 in Call of Duty Black Ops Cold War Gameplay</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-steps-to-install-and-operate-whatsapp-on-mac-devices/"><u>Easy Steps to Install and Operate WhatsApp on Mac Devices</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/expand-your-ai-skills-with-these-5-often-ignored-features-of-chatgpt/"><u>Expand Your AI Skills with These 5 Often Ignored Features of ChatGPT</u></a></li>
+<li><a href="https://win-answers.techidaily.com/gtfo-fps-issues-gone-strategies-to-fix-gameplay-stutter-and-boost-quality/"><u>GTFO FPS Issues Gone: Strategies to Fix Gameplay Stutter and Boost Quality</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-step-by-step-guide-transforming-viewers-into-profit/"><u>In 2024, Step-By-Step Guide Transforming Viewers Into Profit</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-samsung-galaxy-f14-5g-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Samsung Galaxy F14 5G</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/less-than-a-hundred-more-security-in-depth-analysis-of-remobells-top-rated-video-doorbells/"><u>Less Than a Hundred, More Security: In-Depth Analysis of RemoBell's Top-Rated Video Doorbells</u></a></li>
+<li><a href="https://win-answers.techidaily.com/outriders-optimization-guide-overcoming-low-fps-challenges/"><u>Outriders Optimization Guide: Overcoming Low FPS Challenges</u></a></li>
+<li><a href="https://win-answers.techidaily.com/rogue-company-end-the-frustration-of-frequent-pc-game-disruptions-with-these-fixes/"><u>Rogue Company: End the Frustration of Frequent PC Game Disruptions with These Fixes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722878269803-the-best-6-food-monitoring-applications-for-a-healthier-you/"><u>The Best 6 Food Monitoring Applications for a Healthier You</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-definitive-fix-to-stop-overwatch-from-crashing-due-to-graphics-drivers/"><u>The Definitive Fix to Stop Overwatch From Crashing Due to Graphics Drivers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723010610989-update-your-logitech-g403-controller-firmware-on-pc-free-driver-downloads-available/"><u>Update Your Logitech G403 Controller Firmware on PC - Free Driver Downloads Available</u></a></li>
+<li><a href="https://win-answers.techidaily.com/world-of-tanks-blitz-stability-improvements-overcoming-frequent-app-failures/"><u>World of Tanks Blitz Stability Improvements: Overcoming Frequent App Failures</u></a></li>
 </ul></div>
 

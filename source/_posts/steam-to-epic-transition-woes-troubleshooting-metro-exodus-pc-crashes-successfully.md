@@ -1,7 +1,7 @@
 ---
 title: Steam-to-Epic Transition Woes? Troubleshooting Metro Exodus PC Crashes Successfully
-date: 2024-12-02T18:18:19.045Z
-updated: 2024-12-06T16:14:18.091Z
+date: 2024-12-11T17:27:59.367Z
+updated: 2024-12-12T18:12:32.849Z
 tags:
   - win11
   - win10
@@ -58,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
 
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note** : You can do it for free if you like, but it’s partly manual.
 4. Restart your computer for the changes to take effect.
 
@@ -66,6 +70,10 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
  Restart Metro Exodus PC Enhanced Edition to see if you fixed the crashing issue. If yes, congratulations!
 
 If the issue persists, try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Verify the integrity of game files
 
@@ -82,7 +90,7 @@ If the issue persists, try the next fix below.
  Restart Metro Exodus PC Enhanced Edition to check if this fix stops the crashes. If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 4: Install the latest game patch
@@ -92,6 +100,10 @@ If the issue persists, try the next fix below.
  If a patch is available, it will be detected by Steam, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Run Metro Exodus PC Enhanced Edition again to see if the game crashes. If it didn’t work, or there was no new game patch available, move on to the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Disable in-game overlays
 
@@ -105,23 +117,11 @@ If the issue persists, try the next fix below.
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. In the **GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you’re using other apps with overlay features, such as Discord, Nvidia GeForce Experience, Twitch, etc., make sure you’ve disabled the in-game overlay in those apps feature before you restart the game.
 
  See if Metro Exodus PC Enhanced Edition crashes after you disabled all the in-game overlays. If this issue persists, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 6: Perform a clean boot
 
@@ -138,7 +138,7 @@ To perform a clean boot, just follow the steps below:
 2. Navigate to the **Services** tab, check **Hide all Microsoft services,** and then click **Disable all** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
@@ -147,10 +147,6 @@ To perform a clean boot, just follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
 
@@ -158,10 +154,14 @@ To perform a clean boot, just follow the steps below:
 6. Click **Restart** to restart your PC.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Restart** your PC and run Metro Exodus PC Enhanced Edition to check if the game crashes. If not, you need to open the **System Configuration** window again and enable services and applications **one by one** until you find the problematic software. After enabling each startup service, you need to restart Windows OS to apply the changes.
 
@@ -189,22 +189,24 @@ To perform a clean boot, just follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/updated-mastering-your-syma-x8c-flight-patterns/"><u>[Updated] Mastering Your Syma X8C Flight Patterns</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-picture-in-progressive-screen-mastery-for-chrome-users-across-platforms-for-2024/"><u>[Updated] Picture in Progressive Screen Mastery for Chrome Users Across Platforms for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/44cm5yq55p6c55qe44gq5yuv55s744ot44od44oi44os44o844oi5pya6ygp5yyw5oml5rov44gu6kej5pio44cn/"><u>「効果的な動画ビットレート最適化手法の解明」</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726029674012-5/"><u>5推しのオンラインスピーカークリアアップツール - すべて無料で利用可能</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726027743374-youtubeand/"><u>表示されないYouTubeオフラインダウンロード方法・問題解析&改善策</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726027673820-twitter/"><u>使い慣れたTwitter動画ダウンローダーの活用：迷わずエフェクティブなビデオリッピング手順</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726029954243-ffmpeg/"><u>一連ノート: アドバイスフレンドなら FFmpegで動画の選択とセーブ方法</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726026518597-gif/"><u>GIFへのカメラ画像変換手順ガイド</u></a></li>
-<li><a href="https://win11.techidaily.com/harness-the-power-of-new-amd-drivers-for-enhanced-window-11-performance/"><u>Harness the Power of New AMD Drivers for Enhanced Window 11 Performance</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/harness-your-footage-potential-with-vimeo-record-for-2024/"><u>Harness Your Footage Potential with Vimeo Record for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Huawei Nova Y71? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726029796518-mp3-dvd/"><u>MP3への変換方法: DVDオーディオトラックを取り込む手順</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726027991417-pc/"><u>PCやスマホで確実に画面を密かに記録:最強のソフトウェア選びガイド</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/quintessential-20-anime-openers-sounds/"><u>Quintessential 20 Anime Openers' Sounds</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/secure-your-privacy-with-easy-to-follow-picscanner-methods-for-2024/"><u>Secure Your Privacy with Easy-to-Follow PicScanner Methods for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210425975-9781098097578-the-second-promise/"><u>The Second Promise | Free Book</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/upgrade-to-premium-visuals-using-winxvideo-ai-elevate-your-videos-today/"><u>Upgrade to Premium Visuals Using Winxvideo AI - Elevate Your Videos Today!</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-experts-picks-top-5-free-screen-recorders-for-pc-users/"><u>[New] 2024 Approved Expert's Picks Top 5 Free Screen Recorders For PC Users</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-affordable-wonders-in-virtual-reality-headsets-from-china/"><u>[New] Affordable Wonders in Virtual Reality Headsets From China</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-cost-effective-cloudscape-ideal-mass-archive/"><u>[New] Cost-Effective Cloudscape Ideal Mass Archive</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-prime-top-10-tools-convert-srt-files-for-no-charge/"><u>[New] Prime Top 10 Tools Convert Srt Files for No Charge</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-top-7-best-4k-action-cameras/"><u>[Updated] Top 7 Best 4K Action Cameras</u></a></li>
+<li><a href="https://win-answers.techidaily.com/achieve-seamless-gameplay-tricks-to-eliminate-stuttering-and-maximize-frames-per-second-fps-in-cod-warzone/"><u>Achieve Seamless Gameplay: Tricks to Eliminate Stuttering and Maximize Frames Per Second (FPS) in COD Warzone</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/connect-and-print-effortlessly-a-comprehensive-guide-by-yl-software-for-seamless-printer-integration/"><u>Connect and Print Effortlessly: A Comprehensive Guide by YL Software for Seamless Printer Integration</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/efficiently-establish-your-zoom-space/"><u>Efficiently Establish Your Zoom Space</u></a></li>
+<li><a href="https://win-answers.techidaily.com/end-ring-of-elysium-errors-effective-methods-to-ensure-smooth-gameplay/"><u>End Ring of Elysium Errors: Effective Methods to Ensure Smooth Gameplay</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722996303606-expert-fix-msi-afterburner-doesnt-detect-graphics-card-on-windows-now-it-will/"><u>Expert Fix: MSI Afterburner Doesn't Detect Graphics Card on Windows - Now It Will!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-graphics-cards-and-network-adapter-drivers-for-your-msi-b350-tomahawk-on-windows/"><u>Get the Latest Graphics Cards & Network Adapter Drivers for Your MSI B350 Tomahawk on Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/hassle-free-methods-to-resolve-outriders-persistent-crashing-issues/"><u>Hassle-Free Methods to Resolve Outriders' Persistent Crashing Issues</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-iphone-11-pro-from-backup-when-itunes-backup-is-corrupt-or-not-compatible-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore iPhone 11 Pro from Backup when iTunes Backup is Corrupt or not compatible | Stellar</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimizing-performance-tips-to-reduce-phasmophobias-cpu-usage/"><u>Optimizing Performance: Tips to Reduce Phasmophobia's CPU Usage</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723002963261-the-definitive-bioshock-2-experience-freshly-patched-and-ready-for-action/"><u>The Definitive BioShock 2 Experience - Freshly Patched and Ready for Action</u></a></li>
+<li><a href="https://win-answers.techidaily.com/trouble-with-palworld-here-are-swift-fixes/"><u>Trouble with Palworld? Here Are Swift Fixes!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-resolving-frequent-freezes-in-overwatch-gameplay/"><u>Troubleshooting: Resolving Frequent Freezes in Overwatch Gameplay</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722993015588-why-does-my-pc-keeps-causing-blender-to-fail-find-out-and-fix-the-issue-now/"><u>Why Does My PC Keeps Causing Blender to Fail? Find Out and Fix the Issue Now!</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/youtubes-economic-model-month-to-month-income-for-2024/"><u>YouTube's Economic Model Month-to-Month Income for 2024</u></a></li>
 </ul></div>
 

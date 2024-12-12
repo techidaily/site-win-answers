@@ -1,7 +1,7 @@
 ---
 title: "Fixed PC Release: No More Crashes in Five Nights At Freddy's Game"
-date: 2024-08-23T13:18:22.373Z
-updated: 2024-08-24T13:18:22.373Z
+date: 2024-12-05T16:47:22.557Z
+updated: 2024-12-12T16:23:50.050Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/c8dbce1c74281f36fde9f94890a2f512f0b16b026
 5. **[Run the game in DirectX 11 mode](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Check your PC specs
 
  To troubleshoot the game crashing issue, the very first step is to check your PC specs. If your PC doesn’t meet the game’s minimum system requirements, you may need to upgrade your PC first.
@@ -54,7 +58,15 @@ thumbnail: https://thmb.techidaily.com/c8dbce1c74281f36fde9f94890a2f512f0b16b026
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/directx-display.jpg)
 4. Click**Exit** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After confirming that your device is powerful enough to run the game, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Repair your system files
 
@@ -71,13 +83,15 @@ thumbnail: https://thmb.techidaily.com/c8dbce1c74281f36fde9f94890a2f512f0b16b026
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Launch the game again and check if your problem has been resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Verify the integrity of game files
 
  If your game files are missing or corrupted, you’re more likely to encounter crashing issues in FNAF Security Breach. To rule out this issue, you can verify the integrity of game files via Steam. Here’s how:
@@ -88,17 +102,11 @@ Launch the game again and check if your problem has been resolved.
 3. Click**LOCAL FILES** and select**Verify integrity of game files…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/steam-verify-game-files.jpg)
 4. Wait a few minutes for Steam to scan and repair game files.
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once the process is complete, relaunch the game and check if the crashing issue persists.
 
 If this method gives you no luck, go for the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Update your graphics driver
 
  Graphics cards are essential to video games. To get the best performance out of your hardware, you should keep your graphics driver up to date. If you’re using a faulty or outdated graphics driver, FNAF Security Breach crashing is more likely to occur.
@@ -109,12 +117,25 @@ If this method gives you no luck, go for the next fix.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-scan-now-20-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
 4. Restart your PC for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  If the crashing issue persists after you install the latest graphics driver, check out the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Run the game in DirectX 11 mode
 
@@ -124,9 +145,6 @@ If this method gives you no luck, go for the next fix.
 2. Right-click**Five Nights at Freddy’s: Security Breach** and select**Properties…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/steam-properties.jpg)
 3. Under the**General** tab, add**\-dx11** to the**LAUNCH OPTIONS** . This will force the game to run in DirectX 11 mode.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/steam-launch-options-dx11.jpg)
 4. Close the window.
 
@@ -139,26 +157,14 @@ If the crashing issue persists, continue with the next fix.
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run dialog box. Type**msconfig** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/msconfig.jpg)
 2. In System Configuration, navigate to the**Services** tab and check the box next to**Hide all Microsoft services** .  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/hide-all-microsoft-services.jpg)
 3. **Uncheck** all the services EXCEPT those belong to your video card or sound card manufacturer, such as**Realtek** ,**AMD** ,**NVIDIA** and**Intel** . Then click**OK** to save the changes.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/hide2.jpg)
 4. On your keyboard, press**Ctrl** ,**Shift** and**Esc** at the same time to open**Task Manager** , then navigate to the**Startup** tab.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-startup.jpg)
 5. One at a time,**select** any programs you suspect might be interfering and click**Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-disable-programs.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
  Restart your PC and launch Five Nights at Freddy’s: Security Breach to check if the game crashes again. If not, open the**System Configuration** window again to enable services and applications one by one until you find the conflicting software. Be sure to restart your PC after enabling each service.
 
  Once you find out the problematic software that causes FNAF Security Breach to crash, you may need to uninstall it to avoid crashing issues in the future.
@@ -175,8 +181,6 @@ If the crashing issue persists, continue with the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -184,4 +188,24 @@ If the crashing issue persists, continue with the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-crafting-conversational-mastery-step-by-step-guide-to-free-voice-modification-tools-for-2024/"><u>[New] Crafting Conversational Mastery Step-by-Step Guide to Free Voice Modification Tools for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-instagram-searching-skills-unlock-additional-free-filters/"><u>[New] In 2024, Instagram Searching Skills – Unlock Additional Free Filters</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/he-ultimate-guide-to-free-youtube-intros-and-templates-for-2024/"><u>[New] The Ultimate Guide to Free YouTube Intros & Templates for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-charting-the-future-the-next-gen-youtube-festivals/"><u>[Updated] Charting the Future The Next Gen Youtube Festivals</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-maximizing-viewership-igtv-video-scaling-hacks-for-2024/"><u>[Updated] Maximizing Viewership IGTV Video Scaling Hacks for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/addressed-how-to-fix-no-sound-on-twitch-a-comprehensive-guide/"><u>Addressed: How To Fix No Sound on Twitch - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/eliminating-slowdowns-enhanced-performance-in-esos-blackwood-expansion/"><u>Eliminating Slowdowns: Enhanced Performance in ESO's Blackwood Expansion</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-hacks-to-successfully-start-warzone-2e-on-pc-avoiding-common-pitfalls-of-2024/"><u>Expert Hacks to Successfully Start Warzone 2.e on PC - Avoiding Common Pitfalls of 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-tower-of-fantasy-game-crashes-solutions-and-tips-for-pc-players/"><u>Fixing the 'Tower of Fantasy' Game Crashes: Solutions & Tips for PC Players</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-epson-ds-530-printer-driver-software-for-windows-11-x64-systems/"><u>Free Epson DS-530 Printer Driver Software for Windows 11 X64 Systems</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-converting-sdr-video-to-hdr-a-comprehensive-tutorial/"><u>In 2024, Converting SDR Video to HDR - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-play-40c-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Honor Play 40C Phone without Any Data Loss</u></a></li>
+<li><a href="https://win-answers.techidaily.com/magic-the-gathering-arena-resolving-the-persistent-black-display-issue/"><u>Magic: The Gathering Arena - Resolving the Persistent Black Display Issue</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-troubles-discover-why-watch-dogs-legion-continues-to-experience-system-failures/"><u>PC Troubles? Discover Why Watch Dogs: Legion Continues to Experience System Failures</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-found-how-to-restore-sounds-in-minecraft-for-windows-and-other-pcs/"><u>Solution Found: How to Restore Sounds in Minecraft for Windows and Other PCs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-strategies-to-overcome-high-ping-and-enhance-your-cs2-pc-performance/"><u>Step-by-Step Strategies to Overcome High Ping & Enhance Your CS2 PC Performance</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/video-integration-made-easy-building-dynamic-youtube-compilations/"><u>Video Integration Made Easy Building Dynamic YouTube Compilations</u></a></li>
+</ul></div>
 

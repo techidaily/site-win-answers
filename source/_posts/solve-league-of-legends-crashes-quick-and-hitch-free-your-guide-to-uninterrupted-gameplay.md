@@ -1,7 +1,7 @@
 ---
 title: Solve League of Legends Crashes Quick and Hitch-Free - Your Guide to Uninterrupted Gameplay
-date: 2024-12-05T17:24:43.964Z
-updated: 2024-12-06T19:07:53.257Z
+date: 2024-12-10T16:16:09.689Z
+updated: 2024-12-12T17:40:44.560Z
 tags:
   - win11
   - win10
@@ -34,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/0e72ae7670739d2aa724a5c1676e3ea5eb7af36bc
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Make sure your PC meets meets the system requirements for League of Legends
 
  The game may crash if your PC fails to meet its system requirement.  
@@ -69,6 +65,10 @@ thumbnail: https://thmb.techidaily.com/0e72ae7670739d2aa724a5c1676e3ea5eb7af36bc
 
  If your PC meets the system requirement for League of Legends but the game crashing issue persists, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your drivers
 
  A missing or outdated driver may also trigger the game crashing issue. If it’s the case, this issue can be easily resolved after you update your drivers.
@@ -91,15 +91,27 @@ thumbnail: https://thmb.techidaily.com/0e72ae7670739d2aa724a5c1676e3ea5eb7af36bc
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-84.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Install the latest Windows Updates
 
@@ -108,10 +120,6 @@ thumbnail: https://thmb.techidaily.com/0e72ae7670739d2aa724a5c1676e3ea5eb7af36bc
  1) On your keyboard, press**the Windows logo key** and**I** at the same time to open**Windows Settings** . Then click**Update & Security** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-62-1024x796.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
 
@@ -123,10 +131,6 @@ thumbnail: https://thmb.techidaily.com/0e72ae7670739d2aa724a5c1676e3ea5eb7af36bc
 
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4: Repair corrupted game files
 
  Corrupted game files are another important factor that may cause the game crashing issues. Try initiating full repair to see if you can fix this issue. Here is how to do it:
@@ -137,13 +141,13 @@ thumbnail: https://thmb.techidaily.com/0e72ae7670739d2aa724a5c1676e3ea5eb7af36bc
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Initiate Full Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Click**Yes** to continue. This may take a while.
 
@@ -162,10 +166,6 @@ thumbnail: https://thmb.techidaily.com/0e72ae7670739d2aa724a5c1676e3ea5eb7af36bc
 2) In the upper-right corner, click**the gear button**  to open the game settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
@@ -193,18 +193,14 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-how-to-use-virtual-reality-tours-for-2024/"><u>[New] How to Use Virtual Reality Tours for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-get-more-video-views-on-youtube-for-2024/"><u>[Updated] How To Get More Video Views on YouTube for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-the-art-of-podcast-imagery-creating-memorable-graphics/"><u>[Updated] In 2024, The Art of Podcast Imagery Creating Memorable Graphics</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-social-screen-grabber-kit-for-2024/"><u>[Updated] Social Screen Grabber Kit for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-top-10-mac-exclusive-free-drawing-platforms/"><u>2024 Approved Top 10 Mac-Exclusive Free Drawing Platforms</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/anticipating-the-arrival-of-apples-next-gen-macbook-air-and-ipads-by-march-what-you-need-to-know-exclusive-report-on-zdnet/"><u>Anticipating the Arrival of Apple's Next-Gen MacBook Air and iPads by March - What You Need to Know | Exclusive Report on ZDNET</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/broadcasting-wisdom-share-screen-seamlessly-on-fb-live/"><u>Broadcasting Wisdom Share Screen Seamlessly on FB Live</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-tecno-pop-7-pro-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Tecno Pop 7 Pro Device</u></a></li>
-<li><a href="https://win-answers.techidaily.com/prevent-paladins-crashes-essential-tips-and-hacks-players/"><u>Prevent Paladins Crashes: Essential Tips and Hacks Players</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-outriders-launching-issues-for-pc-users/"><u>Resolved! Outriders Launching Issues for PC Users</u></a></li>
-<li><a href="https://win-answers.techidaily.com/stop-bluestacks-from-crashing-a-step-by-step-troubleshooting-guide/"><u>Stop BlueStacks From Crashing: A Step-by-Step Troubleshooting Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-installation-issues-age-of-empires-iv-wont-download-from-ms-store/"><u>Troubleshooting Installation Issues: Age of Empires IV Won't Download From MS Store</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlock-full-gpt-capabilities-top-9-upgrades-await-you-here/"><u>Unlock Full GPT Capabilities – Top 9 Upgrades Await You Here</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/avigating-the-necessary-youtube-viewer-threshold/"><u>[New] Navigating the Necessary Youtube Viewer Threshold</u></a></li>
+<li><a href="https://win-answers.techidaily.com/battlefield-2042-on-pc-solutions-to-combat-fps-fluctuations-and-stutter-for-a-seamless-play/"><u>Battlefield 2042 on PC: Solutions to Combat FPS Fluctuations & Stutter for a Seamless Play</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effortless-solutions-to-stop-your-gamepad-from-failing/"><u>Effortless Solutions to Stop Your Gamepad From Failing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/error-alert-for-cyberpunk-2077-decoding-what-message-error-22024-is-sending/"><u>Error Alert for Cyberpunk 2077: Decoding What Message Error 2#2024 Is Sending</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-guide-how-to-fix-continuous-crashes-in-xcom-2-on-your-windows-machine/"><u>Expert Guide: How to Fix Continuous Crashes in XCOM 2 on Your Windows Machine</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/innovative-health-techniques-using-chatgpts-power/"><u>Innovative Health Techniques Using ChatGPT's Power</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-starting-a-hosted-wi-fi-connection-issues-on-windows-10/"><u>Resolved: Starting a Hosted Wi-Fi Connection Issues on Windows 10</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/understanding-the-basics-of-fiat-money-an-in-depth-exploration/"><u>Understanding the Basics of Fiat Money: An In-Depth Exploration</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-converting-audio-to-text/"><u>Updated In 2024, Converting Audio to Text</u></a></li>
 </ul></div>
 

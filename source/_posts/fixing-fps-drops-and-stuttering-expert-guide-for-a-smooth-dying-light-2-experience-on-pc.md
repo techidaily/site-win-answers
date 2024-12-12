@@ -1,7 +1,7 @@
 ---
 title: Fixing FPS Drops and Stuttering - Expert Guide for a Smooth Dying Light 2 Experience on PC
-date: 2024-12-05T18:30:44.323Z
-updated: 2024-12-06T16:26:08.096Z
+date: 2024-12-09T16:11:18.143Z
+updated: 2024-12-12T19:13:33.227Z
 tags:
   - win11
   - win10
@@ -36,11 +36,7 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/how-to-fix-Pathfinder-Wrath-of-the-Righteous-freezing-on-PC.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Add your game as an exception to your antivirus
@@ -65,6 +61,10 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 
  Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Option 2 – Automatically update your graphics driver (recommended)
 
  Updating drivers manually does require a certain level of computer knowledge and can be error-prone. If you don’t feel like doing it on your own, we recommend you use **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  , an automatic driver updater. With Driver Easy, you don’t need to waste your time hunting for driver updates as it will take care of the busy work for you.
@@ -80,16 +80,12 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating drivers, restart your PC and test the gameplay. If this doesn’t do the trick, proceed to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Verify integrity of game files
 
@@ -102,17 +98,21 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-properties.jpg)
 2. Select the**LOCAL FILES** tab and click on the**VERIFY INTEGRITY OF GAME FILES…** button. Then Steam will verify the game files. Simply wait for the process to complete.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-integrity-of-game-files-1.png)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-integrity-of-game-files-1.png)
 
 ### Verify on GOG Galaxy
 
 1. Launch GOG Galaxy.
 2. Click the game in your Library.
 3. Click on the**Customize button** ![](https://images.drivereasy.com/wp-content/uploads/2021/09/customization-button-GOG-Galaxy.png) (on the right side of the Play button), select**Manage installation > Verify / Repair** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![how to verify integrity of game files on GOG Galaxy](https://images.drivereasy.com/wp-content/uploads/2020/12/GOG-GALAXY.png)
 
@@ -130,23 +130,23 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 ![disable Steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-Steam-overlay-1.jpg)
 3. Click **In-Game** . Uncheck the box **Enable the Steam Overlay while in-game** . Then click **OK** to save the changes.  
 
-![disable Steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-Steam-overlay-2.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
+![disable Steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-Steam-overlay-2.jpg)
+
  After applying the changes, play Pathfinder: Wrath of the Righteous and your problem should be alleviated. However, if the freezing issue still occurs, don’t worry. Below are other fixes for you to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Launch your game from .exe file
 
  Most of the time, we just launch a program by simply clicking on the shortcut or launch a game from the gaming platform. But there is one other way you can launch your game. That is through the .exe file. Simply go to your game’s installation directory and**double-click on the executable** . Sometimes running your game directly from the executable (suggested by some players) can work like magic. So if the above methods didn’t work for you, definitely give it a shot. Players who **can’t launch the Pathfinder along with the disk write error** can also benefit from this trick.
 
 However, if it doesn’t give you any luck, try the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Delete the registry key
 
@@ -161,7 +161,7 @@ However, if it doesn’t give you any luck, try the next fix below.
 ![delete registry key](https://images.drivereasy.com/wp-content/uploads/2021/09/registry.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Once done, restart your game and test the gameplay.
@@ -195,22 +195,19 @@ Once done, restart your game and test the gameplay.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-vimeo-insight-where-streaming-meets-originality/"><u>[Updated] 2024 Approved Vimeo Insight Where Streaming Meets Originality</u></a></li>
-<li><a href="https://os-tips.techidaily.com/delete-your-kik-conversations-forever-4-stealthy-techniques/"><u>Delete Your Kik Conversations Forever: 4 Stealthy Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevating-ai-conversations-with-3-key-approaches-to-chatgpt-wolframlink/"><u>Elevating AI Conversations with 3 Key Approaches to ChatGPT-WolframLink</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-your-msi-bluetooth-driver-update-here-perfect-for-windows-11-and-windows-10-devices/"><u>Get Your MSI Bluetooth Driver Update Here, Perfect for Windows 11 & Windows 10 Devices</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-id-from-your-iphone-6-without-security-questions-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID From your iPhone 6 without Security Questions?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-immediate-picture-and-film-correction-via-3dlut-apps/"><u>In 2024, Immediate Picture & Film Correction via 3DLUT Apps</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-oppo-reno-9a-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Oppo Reno 9A ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/sonic-layering-a-guide-to-music-vids-on-instagram-for-2024/"><u>Sonic Layering A Guide to Music Vids on Instagram for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/successfully-importing-mov-files-into-vegas-pro-a-troubleshooting-guide/"><u>Successfully Importing MOV Files Into Vegas Pro: A Troubleshooting Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/swfmp3/"><u>SWFオーディオ抽出手順：免費スワッファイルからMP3への変換ガイド</u></a></li>
-<li><a href="https://win-answers.techidaily.com/the-ultimate-guide-to-top-rated-free-video-subtitling-tools-for-seamless-captioning/"><u>The Ultimate Guide to Top-Rated, Free Video Subtitling Tools for Seamless Captioning</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-strategies-for-high-quality-low-size-video-compression-optimized-for-youtube/"><u>Top Strategies for High-Quality, Low-Size Video Compression Optimized for YouTube</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-techniques-to-transform-arf-files-using-leading-arf-conversion-tools/"><u>Top Techniques to Transform ARF Files Using Leading ARF Conversion Tools</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-fixing-the-vdvu-disk-to-digital-conversion-issue/"><u>Troubleshooting Tips: Fixing the vDVU Disk-to-Digital Conversion Issue</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-vlc-for-mov-files-ultimate-guide-and-free-conversion-tools/"><u>Troubleshooting VLC for MOV Files: Ultimate Guide & Free Conversion Tools</u></a></li>
-<li><a href="https://win-answers.techidaily.com/video-downloadhelper/"><u>Video DownloadHelperで落ちるビデオのダウンロード対策: 頼りがいる方法</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/wisdom-words-language-learning-for-seniors/"><u>Wisdom Words: Language Learning for Seniors</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-premium-mp4-channel-updater/"><u>[New] Premium MP4 Channel Updater</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-professional-filmmaking-secrets-the-ultimate-guide-to-11-color-edits/"><u>[New] Professional Filmmaking Secrets The Ultimate Guide to 11 Color Edits</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-navigating-google-voice-call-logging-with-ease-for-2024/"><u>[Updated] Navigating Google Voice Call Logging with Ease for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-no-downloads-needed-discover-our-list-of-5-best-online-gif-to-video-services/"><u>[Updated] No Downloads Needed? Discover Our List of 5 Best Online GIF-to-Video Services</u></a></li>
+<li><a href="https://video-capture.techidaily.com/10-best-moba-games-for-android/"><u>10 Best MOBA Games For Android</u></a></li>
+<li><a href="https://win-answers.techidaily.com/essential-tips-stop-vrchat-crashes-on-pc-with-these-proven-strategies-part-8/"><u>Essential Tips: Stop VRChat Crashes on PC with These Proven Strategies (Part 8)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-fixes-to-stop-freezing-glitches-in-call-of-duty-black-ops-cold-war-a-users-handbook/"><u>Expert Fixes to Stop Freezing Glitches in Call of Duty: Black Ops Cold War - A User's Handbook</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-role-of-telecommunication-service-providers-in-your-life/"><u>Exploring the Role of Telecommunication Service Providers in Your Life</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723003652980-fully-optimized-enjoy-the-chaos-of-tiny-tinas-wonderlands-a-complete-fix-for-pc-users/"><u>Fully Optimized: Enjoy the Chaos of Tiny Tina's Wonderlands - A Complete Fix for PC Users!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-resolve-horizon-zero-dawns-stability-issues-on-windows-a-comprehensive-guide/"><u>How to Resolve Horizon Zero Dawn's Stability Issues on Windows: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/reviving-gaming-fun-ultimate-guide-to-repairing-corrupt-game-installations/"><u>Reviving Gaming Fun: Ultimate Guide to Repairing Corrupt Game Installations</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/revolutionize-your-tech-experience-the-game-changing-intel-ai-processor-for-future-laptops-with-unbelievable-advantages-zdnet-insights/"><u>Revolutionize Your Tech Experience: The Game-Changing Intel AI Processor for Future Laptops with Unbelievable Advantages | ZDNet Insights</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/top-2-expert-recommended-samsung-ssd-migration-tools-you-need-to-test-out/"><u>Top 2 Expert-Recommended Samsung SSD Migration Tools You Need to Test Out</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-solving-the-lost-ark-wont-start-issue/"><u>Ultimate Guide: Solving the 'Lost Ark Won't Start' Issue</u></a></li>
 </ul></div>
 

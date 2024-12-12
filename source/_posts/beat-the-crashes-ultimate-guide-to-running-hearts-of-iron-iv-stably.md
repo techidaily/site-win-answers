@@ -1,7 +1,7 @@
 ---
 title: "Beat the Crashes: Ultimate Guide to Running Hearts of Iron IV Stably"
-date: 2024-12-03T16:00:38.074Z
-updated: 2024-12-06T18:26:56.389Z
+date: 2024-12-07T19:10:59.820Z
+updated: 2024-12-12T17:22:01.557Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/f5c71e67a7e48026b76caae61fa224d5139bed717
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6 fixes to try
 
  You may not try them all. Just work from the top down until you find the one that does the trick.
@@ -43,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/f5c71e67a7e48026b76caae61fa224d5139bed717
 
  If you have a gamepad or controller connected to the computer, it’s likely they’ve interfered with Diablo Immortal and triggered the crash. You could simply **unplug those peripherals like the wheel, controller or other USB devices** to see if the problem gets fixed. If not, check out the next solution.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2 – Launch the game in windowed mode
 
  There are increasing reports about Diablo Immortal crashing in fullscreen. To avoid it crashing on startup, you can force the game to launch in windowed mode. Here’s how:
@@ -52,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/f5c71e67a7e48026b76caae61fa224d5139bed717
 2. Click the**gear icon** next to the Play button and click**Game Settings** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/force-windowed-mode-2.jpg)
@@ -60,14 +60,10 @@ thumbnail: https://thmb.techidaily.com/f5c71e67a7e48026b76caae61fa224d5139bed717
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/force-windowed-mode-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now that you’ve applied the changes, relaunch the game to test the issue. If the crashes persist, move on to the third fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3 – Rename the game folder
@@ -79,10 +75,6 @@ thumbnail: https://thmb.techidaily.com/f5c71e67a7e48026b76caae61fa224d5139bed717
 3. Open the**Diablo Immortal Launcher** directly from the folder.
 
  Check if the game works normally now. If not, revert the folder’s name and try the next method.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4 – Update your graphics driver
 
@@ -101,6 +93,10 @@ thumbnail: https://thmb.techidaily.com/f5c71e67a7e48026b76caae61fa224d5139bed717
 
  When the update finishes, reboot your computer for the changes to take effect. The game should be running more smoothly with better performance. If not, take a look at the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5 – Scan and repair game files
 
  Verifying the game files is a common workaround for you to resolve random crashes or failed installations. If there’s something wrong with the game files, you can have them repaired following the instruction below.
@@ -112,7 +108,15 @@ thumbnail: https://thmb.techidaily.com/f5c71e67a7e48026b76caae61fa224d5139bed717
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/scan-game-files-2-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The scanning will start immediately, followed by a repair update if missing or corrupt files are found. Once done, restart the game and see how it works. Still no luck? There is one more fix to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6 – Disable Discord overlay
 
@@ -122,10 +126,6 @@ thumbnail: https://thmb.techidaily.com/f5c71e67a7e48026b76caae61fa224d5139bed717
 2. Click the**gear icon** in the lower-left corner.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/7-2-1-1.jpg)
 3. Select**Game Overlay** from the left pane and**toggle off** the button for**Enable in-game overlay** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/7-2-2.jpg)
 
@@ -153,20 +153,19 @@ thumbnail: https://thmb.techidaily.com/f5c71e67a7e48026b76caae61fa224d5139bed717
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-innovative-insights-for-aspiring-mac-users-a-guide-to-screen-recording/"><u>[New] 2024 Approved Innovative Insights for Aspiring Mac Users A Guide to Screen Recording</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-dell-p2715q-review-a-glimpse-into-ultra-hd-technology/"><u>[Updated] 2024 Approved Dell P2715Q Review A Glimpse Into Ultra HD Technology</u></a></li>
-<li><a href="https://windows11.techidaily.com/activate-graphics-card-fast-tracking-on-windows-1011-step-by-step-guide/"><u>Activate Graphics Card Fast Tracking on Windows 10/11: Step-by-Step Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/assassins-creed-valhalla-overcoming-frames-per-second-fps-fluctuations-on-your-computer-setup/"><u>Assassin's Creed Valhalla: Overcoming Frames Per Second (FPS) Fluctuations on Your Computer Setup</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/best-kid-friendly-kindle-books-exclusive-holiday-discounts-and-deals-a-festive-guide-to-the-hottest-kids-gifts-in-2015/"><u>Best Kid-Friendly Kindle Books: Exclusive Holiday Discounts & Deals - A Festive Guide to the Hottest Kids' Gifts in 2015!</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-infinix-zero-30-5g-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Infinix Zero 30 5G</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Honor Magic 5 Lite | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-12-prominent-oppo-reno-10-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Oppo Reno 10 5G Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcome-your-msi-mystic-light-malfunction-a-complete-guide-to-fixes-in-windows/"><u>Overcome Your MSI Mystic Light Malfunction - A Complete Guide to Fixes in Windows</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-launch-errors-a-guide-to-successfully-starting-tf2/"><u>Overcoming Launch Errors: A Guide to Successfully Starting TF2</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-obstacles-la-noire-launch-now-confirmed-for-your-personal-computer/"><u>Overcoming Obstacles - L.A. Noire Launch Now Confirmed for Your Personal Computer</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-why-cant-i-access-my-steam-friend-list/"><u>Resolved: Why Can't I Access My Steam Friend List?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-metro-exodus-pc-stability-issues-top-troubleshooting-steps/"><u>Resolving Metro Exodus PC Stability Issues – Top Troubleshooting Steps</u></a></li>
-<li><a href="https://win-answers.techidaily.com/star-wars-battlefront-ii-troubleshooting-guide-solving-the-mysterious-midnight-void-screen-problem/"><u>Star Wars Battlefront II Troubleshooting Guide: Solving The Mysterious Midnight Void Screen Problem</u></a></li>
-<li><a href="https://win-blog.techidaily.com/ultimate-troubleshooting-cheatsheet-keeping-robocop-rise-of-the-machines-stable-on-windows-systems/"><u>Ultimate Troubleshooting Cheatsheet - Keeping Robocop: Rise of the Machines Stable on Windows Systems</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-seek-all-sharing-in-a-group-chat-via-messenger/"><u>[New] 2024 Approved Seek All Sharing in a Group Chat via Messenger</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-unlock-likes-by-perfecting-your-square-video-presentation/"><u>[New] In 2024, Unlock Likes by Perfecting Your Square Video Presentation</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-why-are-my-insta-vids-upside-down/"><u>[New] In 2024, Why Are My Insta Vids Upside Down?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-transforming-tweets-into-animated-gifs-a-step-by-step-guide/"><u>[Updated] 2024 Approved Transforming Tweets Into Animated GIFs A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-outstanding-unlimited-space-service-index-for-2024/"><u>[Updated] Outstanding Unlimited Space Service Index for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beating-wrath-of-the-righteous-controller-glitches-expert-tips-and-tricks-to-get-back-in-action-on-pathfinder/"><u>Beating Wrath of the Righteous Controller Glitches: Expert Tips and Tricks to Get Back in Action on Pathfinder</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723012874555-cant-use-steam-remote-play-discover-effective-methods-to-get-it-running-smoothly/"><u>Can't Use Steam Remote Play? Discover Effective Methods to Get It Running Smoothly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/comprehensive-guide-solving-connection-lost-on-escape-from-tarkov-servers/"><u>Comprehensive Guide: Solving 'Connection Lost' On Escape From Tarkov Servers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-solutions-for-dota-2-stability-issues-and-crashing-problems/"><u>Effective Solutions for Dota 2 Stability Issues and Crashing Problems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/find-your-muse-with-these-5-advanced-ai-writing-assistants/"><u>Find Your Muse with These 5 Advanced AI Writing Assistants</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-iphone-se-2020-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>How to Unlock iPhone SE (2020) When We Dont Have Apple ID or Password?</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-most-popular-5-ios-photoshooting-apps-x-7-8/"><u>In 2024, Most Popular 5 iOS Photoshooting Apps (X, 7, 8)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-fixes-to-restore-your-discord-overlay-no-tech-expertise-required/"><u>Quick Fixes to Restore Your Discord Overlay - No Tech Expertise Required!</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/step-by-step-guide-securely-removing-your-force-protected-partition/"><u>Step-by-Step Guide: Securely Removing Your Force Protected Partition</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Steps: Resolving 'Internet Explorer Has Crashed' Error"
-date: 2024-08-23T13:19:36.745Z
-updated: 2024-08-24T13:19:36.745Z
+date: 2024-12-11T16:21:20.151Z
+updated: 2024-12-12T18:41:35.947Z
 tags:
   - win11
   - win10
@@ -52,9 +52,6 @@ Necromunda: Hired Gun
 5. **[Add the game as an exception to your 3rd party antivirus software](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Stop overclocking / turbo boosting](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ## Fix 1: Verify the game files
 
  If some important game files are broken or missing, Necromunda: Hired Gun may crash. If it’s the case, you need to verify and repair the game files. Here’s how to do it:
@@ -64,14 +61,8 @@ Necromunda: Hired Gun
 1. Launch Steam and navigate to**LIBRARY** , then**right-click** on**Necromunda: Hired Gun** and select**Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . If Steam finds anything wrong with the game files, it will re-download them from official server.  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 It may take some time to complete the verifying process.
 
 **For Epic Games Launcher users:**
@@ -101,6 +92,10 @@ It may take some time to complete the verifying process.
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You need to restart your PC after you finished updating your graphics driver.
 
  Launch the game to see if it crashes or not. Normally, after you updated the graphics driver, the game crashing issue will disappear.
@@ -110,6 +105,10 @@ It may take some time to complete the verifying process.
 
  If the latest graphics driver fails to stop the crash, just read on to try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 3: Install the latest game patch
 
  Streum On Studio (the developers of Necromunda: Hired Gun) releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -117,6 +116,10 @@ It may take some time to complete the verifying process.
  If a patch is available, it will be detected by Steam or Epic Games Launcher, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Launch Necromunda: Hired Gun to check whether the game crash issue has been resolved. If it hasn’t, or there was no new game patch available, move on to next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Disable overlays
 
@@ -129,16 +132,14 @@ It may take some time to complete the verifying process.
 2. Uncheck **Enable Steam Overlay while in-game** .  
 ![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you’re using other apps with overlay features like Discord, Nvidia GeForce Experience, Twitch, etc., ensure that you’ve disabled the in-game overlay in those apps feature before you restart the game.
 
  Launch_Necromunda: Hired Gun_ and see if the game crashes. If the issue persists, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 5: Add the game as an exception to your 3rd party antivirus software
 
  Some third-party antivirus software hooks very deep into your system, and it may interfere with the game. If some important game files are blocked by the third-party antivirus software, the game will crash.
@@ -148,8 +149,9 @@ It may take some time to complete the verifying process.
  See if the game crashes after you add it as an exception to your antivirus software. If it persists, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 6: Stop overclocking / turbo boosting
 
  Many players may try overclocking the CPU or turbo boost the graphics card to gain a better FPS. However, overclocking often crashes the game.
@@ -169,8 +171,6 @@ It may take some time to complete the verifying process.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -178,4 +178,24 @@ It may take some time to complete the verifying process.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-obs-and-instagram-integration-the-essential-how-to-manual/"><u>[New] 2024 Approved OBS and Instagram Integration The Essential How To Manual</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-how-to-make-a-video-best-fits-snapchat-size-on-mac-in-2024/"><u>[New] How to Make a Video Best Fits Snapchat Size on Mac, In 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-ultimate-mac-screen-capturing-tips-unveiling-5-efficient-techniques/"><u>[New] In 2024, Ultimate Mac Screen Capturing Tips Unveiling 5 Efficient Techniques</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-is-monetization-a-feature-in-review-blogs-for-2024/"><u>[New] Is Monetization a Feature in Review Blogs for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-how-to-add-the-date-to-photo/"><u>[Updated] How to Add the Date to Photo</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-breaking-boundaries-coordinated-video-watch-across-channels/"><u>2024 Approved Breaking Boundaries Coordinated Video Watch Across Channels</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-elevate-your-drone-experience-with-these-essentials/"><u>2024 Approved Elevate Your Drone Experience with These Essentials</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-samsung-galaxy-a23-5g-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Samsung Galaxy A23 5G to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cortana-malfunction-heres-how-you-can-restore-functionality/"><u>Cortana Malfunction? Here’s How You Can Restore Functionality</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-guide-solve-crash-issues-for-guilty-gear-strive-on-windowspc/"><u>Expert Guide: Solve Crash Issues for Guilty Gear Strive on Windows/PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-anno-1800-directx-compatibility-issues-for-smooth-gameplay/"><u>How to Fix 'Anno 1800' DirectX Compatibility Issues for Smooth Gameplay</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-overcome-launch-problems-with-sea-of-thieves-game/"><u>How to Overcome Launch Problems with Sea of Thieves Game</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-gaming-woes-overcoming-frequent-disruptions-and-crashing-in-darkest-dungeon-2/"><u>PC Gaming Woes: Overcoming Frequent Disruptions and Crashing in Darkest Dungeon 2</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/samsung-galaxy-z-fold-6-what-to-expect-pricing-strategy-launch-dates-and-feature-breakdown/"><u>Samsung Galaxy Z Fold 6 - What to Expect: Pricing Strategy, Launch Dates, and Feature Breakdown</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stop-rogue-company-from-freezing-troubleshooting-steps-for-stable-gameplay/"><u>Stop Rogue Company From Freezing: Troubleshooting Steps for Stable Gameplay</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-black-ops-cold-war-error-easy-fixes-for-code-0xc0000005/"><u>Troubleshooting Steps for Black Ops Cold War Error: Easy Fixes for Code 0xC0000005</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-how-to-repair-non-functional-gta-5-online/"><u>Troubleshooting Steps: How to Repair Non-Functional GTA 5 Online</u></a></li>
+</ul></div>
 

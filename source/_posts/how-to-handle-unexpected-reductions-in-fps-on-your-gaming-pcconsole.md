@@ -1,7 +1,7 @@
 ---
 title: How to Handle Unexpected Reductions in FPS on Your Gaming PC/Console
-date: 2024-11-29T18:23:19.917Z
-updated: 2024-12-06T17:28:19.270Z
+date: 2024-12-10T19:06:34.119Z
+updated: 2024-12-12T16:37:25.546Z
 tags:
   - win11
   - win10
@@ -26,10 +26,6 @@ But don’t worry, it’s usually not that hard to fix.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down until you find the one that does the trick.
@@ -43,7 +39,7 @@ But don’t worry, it’s usually not that hard to fix.
 7. **[Try another version of Afterburner](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Check your cable connection
@@ -51,6 +47,10 @@ But don’t worry, it’s usually not that hard to fix.
  First you need to**be sure that you have the right display port** . If you’re using the wrong port, say you have your monitor hooked up with the integrated graphics, your GPU might not show up in Afterburner since you’re not using it for display.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/dedicated-gpu-integrated-graphics-hdmi-1200x1200.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You should also rule out the possibility of faulty cables.
 
@@ -64,14 +64,18 @@ You should also rule out the possibility of faulty cables.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/msi-afterburner-settings-1.jpg)
 2. In the**Compatibility settings** section, uncheck the box next to**Enable low-level IO driver** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/msi-afterburner-settings-2.jpg)
 3. Restart your PC and check the results in MSI Afterburner.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If this trick doesn’t help you. take a look at the next one below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Check if you have Vanguard
 
@@ -80,10 +84,6 @@ If this trick doesn’t help you. take a look at the next one below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/vanguard-task-manager.jpg)
 
 If you don’t have Vanguard, simply move on to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Update all your drivers
 
@@ -113,21 +113,17 @@ If you don’t have Vanguard, simply move on to the next fix.
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
 
-![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
  Once done, restart your computer and check if MSI Afterburner is running correctly.
 
 If the issue lingers on, you can continue to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Perform a clean boot
 
@@ -137,18 +133,22 @@ If the issue lingers on, you can continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig-clean-boot-1.jpg)
 2. In the pop-up window, navigate to the **Services**  tab and check the box next to **Hide all Microsoft services** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
@@ -182,22 +182,18 @@ If the issue persists, you can try the next solution below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-syncing-zoom-to-your-calendar-on-iphoneandroiddesktop/"><u>[New] Syncing Zoom to Your Calendar on iPhone/Android/Desktop</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solved-warzone-not-launching/"><u>[SOLVED] Warzone Not Launching</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-transform-your-media-quickly-macs-simple-guide-to-resized-insta-content/"><u>[Updated] 2024 Approved Transform Your Media Quickly Mac's Simple Guide to Resized Insta Content</u></a></li>
-<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-realme-12plus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Realme 12+ 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/alert-beware-of-fake-chatgpt-windows-app/"><u>Alert: Beware Of Fake 'ChatGPT Windows App'</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-realme-gt-5-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Realme GT 5?</u></a></li>
-<li><a href="https://win11.techidaily.com/cure-for-local-security-guard-off-error-message/"><u>Cure for 'Local Security Guard Off' Error Message</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-prevent-and-fix-wwe-2k20-crashing-problems-on-pc-with-ease/"><u>How To Prevent & Fix WWE 2K20 Crashing Problems On PC with Ease</u></a></li>
-<li><a href="https://review-topics.techidaily.com/identify-missing-your-drivers-with-windows-device-manager-on-windows-11-by-drivereasy-guide/"><u>Identify missing your drivers with Windows Device Manager on Windows 11</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Realme C67 4G | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/latest-guide-on-ipad-23-and-iphone-xs-max-icloud-activation-lock-bypass-by-drfone-ios/"><u>Latest Guide on iPad 2/3 and iPhone XS Max iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-roblox-starts-up-essential-fixes-to-get-you-playing-again/"><u>Mastering Roblox Starts Up – Essential Fixes to Get You Playing Again!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723003552087-maximize-your-horizon-zero-dawn-adventure-with-optimal-fps-enhancement-techniques/"><u>Maximize Your Horizon Zero Dawn Adventure with Optimal FPS Enhancement Techniques!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-fix-for-missing-gpeditmsc-feature-in-windows-home-setup/"><u>Quick Fix for Missing gpedit.msc Feature in Windows Home Setup</u></a></li>
-<li><a href="https://win-answers.techidaily.com/simple-solutions-repairing-a-corrupted-disk-on-steam-without-hitches/"><u>Simple Solutions: Repairing a Corrupted Disk on Steam Without Hitches</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723013097674-stop-dota-2-from-freezing-expert-tips-and-fixes/"><u>Stop Dota 2 From Freezing: Expert Tips and Fixes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-cannot-access-graphics-driver-expert-solutions-for-d3derror/"><u>Troubleshooting 'Cannot Access Graphics Driver': Expert Solutions for D3Derror</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-next-level-gameplay-capturing-applications/"><u>[New] In 2024, Next-Level Gameplay Capturing Applications</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-boost-video-quality-on-youtube-the-essential-webcams-guide-for-2024/"><u>[Updated] Boost Video Quality on YouTube - The Essential Webcams Guide for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-stock-strategies-unveiled-essential-youtube-video-resources/"><u>2024 Approved Stock Strategies Unveiled Essential YouTube Video Resources</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/complete-guide-mastering-file-history-backups-on-windows-server-201n/"><u>Complete Guide: Mastering File History Backups on Windows Server 201N</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-prevent-and-fix-battlefield-5-from-crashing-on-windows-computers/"><u>How to Prevent and Fix Battlefield 5 From Crashing on Windows Computers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-prevent-and-solve-frequent-ark-system-malfunctions/"><u>How to Prevent and Solve Frequent ARK System Malfunctions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/no-more-firefox-freezes-discover-why-the-browser-keeps-closing-and-solutions/"><u>No More Firefox Freezes: Discover Why the Browser Keeps Closing & Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/steam-fatal-error-solution-manual-installation-of-missing-dll-files/"><u>Steam Fatal Error Solution: Manual Installation of Missing DLL Files</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-correcting-session-search-errors-in-palworld/"><u>Step-by-Step Guide: Correcting Session Search Errors in PalWorld</u></a></li>
+<li><a href="https://win-answers.techidaily.com/tackling-ping-spikes-in-bless-unleashed-a-comprehensive-guide-to-enhancing-pc-performance/"><u>Tackling Ping Spikes in Bless Unleashed: A Comprehensive Guide to Enhancing PC Performance</u></a></li>
+<li><a href="https://discover-data.techidaily.com/top-rated-miracast-apps-for-your-android-device-a-comprehensive-guide/"><u>Top Rated Miracast Apps for Your Android Device: A Comprehensive Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-asus-rog-phone-7-ultimate-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Asus ROG Phone 7 Ultimate Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How To Fix FIFA 19 DirectX Error Easily
-date: 2024-11-13T05:57:13.747Z
-updated: 2024-11-16T23:52:31.462Z
+date: 2024-12-08T17:22:13.774Z
+updated: 2024-12-12T18:30:16.269Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/f55494b1c8843bed72fd409a0474603bdb628f918
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes For FIFA 19 DirectX Error
 
  Here are 3 fixes that have helped other users resolve the DirectX error on FIFA 19 issue. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -33,10 +37,7 @@ thumbnail: https://thmb.techidaily.com/f55494b1c8843bed72fd409a0474603bdb628f918
 3. [**Check if your PC meets the system requirements for FIFA 19**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver
@@ -53,13 +54,6 @@ thumbnail: https://thmb.techidaily.com/f55494b1c8843bed72fd409a0474603bdb628f918
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
@@ -72,6 +66,10 @@ thumbnail: https://thmb.techidaily.com/f55494b1c8843bed72fd409a0474603bdb628f918
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Update DirectX
 
  DirectX is a suite of components in Windows that allows heavy multimedia apps such as games to interact with your video and audio cards. If you’re running an old version of DirectX, it’s possible that it won’t be able to handle the graphics rendering and processing task, which might cause the DirectX error. So you should update DirectX to the latest version to see if it fixes the issue.
@@ -81,6 +79,10 @@ thumbnail: https://thmb.techidaily.com/f55494b1c8843bed72fd409a0474603bdb628f918
  Once you’ve updated DirectX, check to see if the FIFA game DirectX error issue is fixed. If yes, then great! If it’s still no joy, please move on to **Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Check if your PC meets the system requirements for FIFA 19
 
@@ -114,22 +116,12 @@ thumbnail: https://thmb.techidaily.com/f55494b1c8843bed72fd409a0474603bdb628f918
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-13.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-526.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Display** tab and you can check what **graphics card** your PC is using.
@@ -160,17 +152,17 @@ thumbnail: https://thmb.techidaily.com/f55494b1c8843bed72fd409a0474603bdb628f918
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-brilliant.techidaily.com/no-desesperes-como-restaurar-los-ficheros-eliminados-de-tu-acer-laptop-6-metodos-clave/"><u>¡No Desesperes! Cómo Restaurar Los Ficheros Eliminados De Tu Acer Laptop (6 Métodos Clave)</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-low-cost-high-impact-spherical-videography-devices-for-2024/"><u>[New] Low Cost, High Impact Spherical Videography Devices for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-step-into-the-spotlight-learning-youtube-vlogger-etiquette/"><u>[Updated] Step Into the Spotlight Learning YouTube Vlogger Etiquette</u></a></li>
-<li><a href="https://fox-http.techidaily.com/deciphering-gopros-top-cameras-max-vs-hero-11-showdown-for-2024/"><u>Deciphering GoPro's Top Cameras Max Vs. Hero 11 Showdown for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722992917876-eliminate-the-directx-error-on-warzone-learn-how-with-our-step-by-step-fixes/"><u>Eliminate the DirectX Error on Warzone – Learn How with Our Step-by-Step Fixes!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-persistent-crashes-how-to-stop-nox-player-from-shutting-down-your-pc/"><u>Fixing Persistent Crashes: How to Stop Nox Player From Shutting Down Your PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/guide-to-fixing-the-error-code-easy-achievement-unlocker-cannot-start-without-installed-eac/"><u>Guide to Fixing the Error Code: Easy Achievement Unlocker Cannot Start without Installed EAC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/master-the-art-of-insta-engagement-with-these-507-winning-captions-in-2e-24/"><u>Master the Art of Insta Engagement with These 507 Winning Captions in 2E-24</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-the-pre-launch-checklist-expert-strategies-for-getting-call-of-dutys-newest-title-running-in-2hren-2024/"><u>Mastering the Pre-Launch Checklist: Expert Strategies for Getting Call of Duty's Newest Title Running in 2Hren 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/streamlining-internet-engagement-a-guide-to-lessen-facebook-activity/"><u>Streamlining Internet Engagement: A Guide to Lessen Facebook Activity</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/troubleshooting-why-isnt-my-mic-working-solutions-inside/"><u>Troubleshooting: Why Isn't My Mic Working? Solutions Inside!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/warzone-optimization-101-enhancing-stutter-free-play-and-faster-frame-rates-for-gamers/"><u>Warzone Optimization 101: Enhancing Stutter-Free Play & Faster Frame Rates for Gamers</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-samsung-galaxy-f04-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Samsung Galaxy F04 Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211265774-9781956216158-beads-of-light/"><u>Beads of Light | Free Book</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/digiarty-software-inc-winxdvd-and-corporate-profile-company-information/"><u>Digiarty Software, Inc.: WinXDVD and Corporate Profile | Company Information</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhancing-game-performance-resolve-naraka-bladepoints-lag-and-stutter/"><u>Enhancing Game Performance: Resolve Naraka: Bladepoint's Lag and Stutter</u></a></li>
+<li><a href="https://fox-where.techidaily.com/foto-wiedergewinnung-von-sd-karten-effiziente-losungen-fur-unbeabsichtigtes-loschen/"><u>Foto Wiedergewinnung Von SD Karten - Effiziente Lösungen Für Unbeabsichtigtes Löschen</u></a></li>
+<li><a href="https://win-hot.techidaily.com/guida-passo-passo-per-la-ricostruzione-del-tuo-pc-windows-7-senza-utilizzare-i-punti-di-ripristino/"><u>Guida Passo-Passo per La Ricostruzione Del Tuo PC Windows 7 Senza Utilizzare I Punti Di Ripristino</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-samsung-galaxy-s24plus-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Samsung Galaxy S24+ Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723000579075-how-to-fix-resident-evil-village-pc-game-crashes-complete-guide/"><u>How to Fix Resident Evil Village PC Game Crashes: Complete Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-itel-p55t-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Itel P55T Fingerprint Lock</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-iphone-8-prevention-and-solution-drfone-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of iPhone 8 Prevention & Solution | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/instantly-improve-your-slow-chrome-browser-with-simple-tweaks/"><u>Instantly Improve Your Slow Chrome Browser with Simple Tweaks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-fixes-for-preventing-nba-2k21-from-freezing-and-crashing-on-pc-systems/"><u>Ultimate Fixes for Preventing NBA 2K21 From Freezing and Crashing on PC Systems</u></a></li>
 </ul></div>
 

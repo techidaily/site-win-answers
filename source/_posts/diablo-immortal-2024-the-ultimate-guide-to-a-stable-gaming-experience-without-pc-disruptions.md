@@ -1,7 +1,7 @@
 ---
 title: Diablo Immortal 2024 - The Ultimate Guide to a Stable Gaming Experience Without PC Disruptions
-date: 2024-11-13T17:01:27.686Z
-updated: 2024-11-17T01:55:12.245Z
+date: 2024-12-08T16:56:42.010Z
+updated: 2024-12-12T19:23:15.461Z
 tags:
   - win11
   - win10
@@ -35,16 +35,13 @@ thumbnail: https://thmb.techidaily.com/42e80c71c3e676d07f669fb711246bda708f83a95
 5. [**Scan and repair game files**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Disable Discord overlay](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1 – Unplug peripherals
 
  If you have a gamepad or controller connected to the computer, it’s likely they’ve interfered with Diablo Immortal and triggered the crash. You could simply **unplug those peripherals like the wheel, controller or other USB devices** to see if the problem gets fixed. If not, check out the next solution.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2 – Launch the game in windowed mode
 
@@ -54,17 +51,18 @@ thumbnail: https://thmb.techidaily.com/42e80c71c3e676d07f669fb711246bda708f83a95
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/force-windowed-mode-1.jpg)
 2. Click the**gear icon** next to the Play button and click**Game Settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/force-windowed-mode-2.jpg)
 3. Tick**Additional command line arguments** . Then type**\-w** in the field and click**Done** at the bottom right corner.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2022/06/force-windowed-mode-3.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/06/force-windowed-mode-3.jpg)
 
  Now that you’ve applied the changes, relaunch the game to test the issue. If the crashes persist, move on to the third fix below.
 
@@ -77,6 +75,10 @@ thumbnail: https://thmb.techidaily.com/42e80c71c3e676d07f669fb711246bda708f83a95
 3. Open the**Diablo Immortal Launcher** directly from the folder.
 
  Check if the game works normally now. If not, revert the folder’s name and try the next method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4 – Update your graphics driver
 
@@ -94,21 +96,7 @@ thumbnail: https://thmb.techidaily.com/42e80c71c3e676d07f669fb711246bda708f83a95
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/amd-6800xt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  When the update finishes, reboot your computer for the changes to take effect. The game should be running more smoothly with better performance. If not, take a look at the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5 – Scan and repair game files
 
@@ -123,10 +111,7 @@ thumbnail: https://thmb.techidaily.com/42e80c71c3e676d07f669fb711246bda708f83a95
  The scanning will start immediately, followed by a repair update if missing or corrupt files are found. Once done, restart the game and see how it works. Still no luck? There is one more fix to try.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6 – Disable Discord overlay
@@ -137,6 +122,10 @@ thumbnail: https://thmb.techidaily.com/42e80c71c3e676d07f669fb711246bda708f83a95
 2. Click the**gear icon** in the lower-left corner.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/7-2-1-1.jpg)
 3. Select**Game Overlay** from the left pane and**toggle off** the button for**Enable in-game overlay** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/7-2-2.jpg)
 
@@ -164,22 +153,20 @@ thumbnail: https://thmb.techidaily.com/42e80c71c3e676d07f669fb711246bda708f83a95
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-your-visual-impact-journey-begins-with-our-50-free-banners/"><u>[New] 2024 Approved Your Visual Impact Journey Begins with Our 50 FREE Banners!</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-9-strategies-for-stunning-insta-unboxing-vids/"><u>[New] 9 Strategies for Stunning Insta Unboxing Vids</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-inexpensive-pc-monitoring-software-for-2024/"><u>[New] Inexpensive PC Monitoring Software for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-silent-recorders-revealed-6-undiscovered-android-and-ios-apps/"><u>[Updated] In 2024, Silent Recorders Revealed 6 Undiscovered Android & iOS Apps</u></a></li>
-<li><a href="https://win-answers.techidaily.com/clean-up/"><u>Clean-Up</u></a></li>
-<li><a href="https://win-blog.techidaily.com/effortlessly-record-your-macs-display-and-audio-a-guide-with-5-techniques-by-movavi/"><u>Effortlessly Record Your Mac's Display and Audio: A Guide with 5 Techniques by Movavi</u></a></li>
-<li><a href="https://win-answers.techidaily.com/enabling-windows-10-for-hyper-v-a-detailed-installation-and-setup-manual/"><u>Enabling Windows 10 for Hyper-V: A Detailed Installation and Setup Manual</u></a></li>
-<li><a href="https://win-answers.techidaily.com/experience-the-thrilling-world-of-yakuza-like-a-dragon-finally-perfected-for-pc-users/"><u>Experience the Thrilling World of Yakuza: Like a Dragon, Finally Perfected for PC Users</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixes-and-solutions-how-to-stop-everscape-ii-from-crashing-on-your-windows-computer/"><u>Fixes & Solutions: How to Stop Everscape II From Crashing on Your Windows Computer</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/framefixer-editor/"><u>FrameFixer Editor</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Realme 11X 5G | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Huawei Nova Y91 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/rectifying-common-software-stalls-in-windows-and-ps/"><u>Rectifying Common Software Stalls in Windows & PS</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-the-graphics-error-d3d-initialization-flaw-in-grand-theft-auto-v/"><u>Solving the Graphics Error D3D Initialization Flaw in Grand Theft Auto V</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-the-nwstoreexe-runtime-problem-a-comprehensive-guide/"><u>Solving the NW_Store.exe Runtime Problem: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/streaming-successfully-fixes-for-continuous-buffering-in-discord-channels/"><u>Streaming Successfully: Fixes for Continuous Buffering in Discord Channels</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-solving-rainbow-six-extraction-hardware-incompatibility-issues/"><u>Troubleshooting Guide: Solving Rainbow Six Extraction Hardware Incompatibility Issues</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-stillness-to-stirring-tips-for-bouncing-text-for-2024/"><u>[New] From Stillness to Stirring Tips for Bouncing Text for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/astering-video-introduction-on-ios-and-android-devices-for-2024/"><u>[New] Mastering Video Introduction on iOS & Android Devices for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-navigating-the-path-to-apple-podcast-acceptance-for-2024/"><u>[New] Navigating the Path to Apple Podcast Acceptance for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/our-first-step-to-successful-streaming/"><u>[New] Your First Step to Successful Streaming</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-tapping-into-no-cost-melodies-for-video-projects/"><u>2024 Approved Tapping Into No-Cost Melodies for Video Projects</u></a></li>
+<li><a href="https://win-answers.techidaily.com/acrocefexe-application-malfunction-heres-how-to-repair-it-now/"><u>AcroCEF.exe Application Malfunction? Here's How to Repair It Now</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-prevent-constant-crashes-in-the-lunar-client-for-desktop-users/"><u>How to Prevent Constant Crashes in the Lunar Client for Desktop Users</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-nokia-xr21-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Nokia XR21 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/immediate-remedies-for-when-your-discord-overlay-wont-work-a-comprehensive-fix-guide/"><u>Immediate Remedies for When Your Discord Overlay Won't Work - A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/master-fast-play-on-minecraft-top-speeding-techniques-revealed/"><u>Master Fast Play on Minecraft - Top Speeding Techniques Revealed</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-step-by-step-fixes-for-a-non-functional-google-meet-camera/"><u>Resolved: Step-by-Step Fixes for a Non-Functional Google Meet Camera</u></a></li>
+<li><a href="https://extra-support.techidaily.com/secrets-to-viral-meme-innovation-for-2024/"><u>Secrets to Viral Meme Innovation for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722997677952-sekiro-stability-issues-resolve-them-easily-and-swiftly-here/"><u>Sekiro Stability Issues? Resolve Them Easily & Swiftly Here!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solve-your-windows-11-taskbar-problem-today-expert-tips-and-tricks/"><u>Solve Your Windows 11 Taskbar Problem Today - Expert Tips & Tricks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/streamlined-fixes-for-common-winwordexe-application-problems/"><u>Streamlined Fixes for Common WINWORD.EXE Application Problems</u></a></li>
 </ul></div>
 

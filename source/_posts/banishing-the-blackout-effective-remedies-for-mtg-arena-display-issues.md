@@ -1,7 +1,7 @@
 ---
 title: "Banishing the Blackout: Effective Remedies for MTG Arena Display Issues"
-date: 2024-08-23T13:20:38.994Z
-updated: 2024-08-24T13:20:38.994Z
+date: 2024-12-10T16:06:18.858Z
+updated: 2024-12-12T17:29:03.984Z
 tags:
   - win11
   - win10
@@ -17,12 +17,20 @@ thumbnail: https://thmb.techidaily.com/566a3e2bc8245fad4b04c4a436c7a48f60131ea01
 
 Star Wars Battlefront 2 is an old game, so is the issue. The old game issue discussions still got new replies. If you have the same problem, don’t worry, this post can help.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. [Check your system requirement](https://tools.techidaily.com/drivereasy/download/)
 2. [Turn off Discord overlay](https://tools.techidaily.com/drivereasy/download/)
 3. [Launch through the NVIDIA GeForce app](https://tools.techidaily.com/drivereasy/download/)
 4. [Update your driver](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1\. Check your system requirement
 
@@ -38,9 +46,9 @@ Star Wars Battlefront 2 is an old game, so is the issue. The old game issue disc
 | Sound Card: | DirectX 9.0c compatible Sound Card                                           |
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2\. Turn off Discord overlay
 
  The Discord is the culprit for the problem, reported by many gamers. Follow the steps to fix the issue.
@@ -49,15 +57,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 2. Click the**gear button** on the bottom to open User settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/2021-03-11_9-41-03.jpg)
 3. Click**Overlay** .
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 4. Check**Enable in-game overlay** . Disable it if it’s toggled.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/2021-03-11_9-42-39.jpg)
 5. Relaunch your game and check.
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 
 ### Fix 3\. Launch through the NVIDIA GeForce app
 
@@ -66,8 +68,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  In the game settings, change the video options from Fullscreen to Borderless and the game should running properly every time.
 
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4\. Update your driver
 
  Driver plays an important part in the Windows system. With outdated or wrong drivers, you may encounter Star Wars Battlefront 2 black screen issue. By updating drivers to the latest version can fully use your graphic card and get a better gaming experience.
@@ -96,15 +99,13 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The Pro version of Driver Easy comes with full technical support. If you need assistance, please contact Driver Easy’s support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
 
 ---
@@ -118,8 +119,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -127,4 +126,17 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-highlights-of-snowboard-cross-olympics-2022/"><u>[New] Highlights of Snowboard Cross Olympics 2022</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/androids-lightroom-app-decoded-a-complete-analysis-for-2024/"><u>Android's Lightroom App Decoded A Complete Analysis for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/arise-ue4-glitch-resolution-guide-overcoming-fatal-errors/"><u>Arise UE4 Glitch Resolution Guide: Overcoming Fatal Errors</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/aspire-with-asus-rog-zephyrus-g14-rtx-4060-exclusive-999-laptop-deal-at-best-buy/"><u>Aspire with Asus ROG Zephyrus G14 RTX 4060 - Exclusive $999 Laptop Deal at Best Buy</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-drivers-for-intel-raid-and-matrix-storage-acceleration-on-windows-compatible-with-xp-through-to-windows-11/"><u>Get the Newest Drivers for Intel RAID & Matrix Storage Acceleration on Windows - Compatible with XP Through to Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-fifa-19-directx-error-easily/"><u>How To Fix FIFA 19 DirectX Error Easily</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-from-your-apple-iphone-15-plus-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled From your Apple iPhone 15 Plus? How to Fix</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-overcoming-palworld-search-glitches/"><u>Troubleshooting Steps for Overcoming Palworld Search Glitches</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-when-rainbow-six-siege-doesnt-open-up/"><u>Troubleshooting Steps When Rainbow Six Siege Doesn't Open Up</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-the-isdonedll-isarcextract-fault-on-pcs/"><u>Troubleshooting the ISDone.dll (ISArcExtract) Fault on PCs</u></a></li>
+</ul></div>
 

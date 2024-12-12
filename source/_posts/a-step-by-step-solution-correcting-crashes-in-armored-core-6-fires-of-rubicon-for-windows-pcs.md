@@ -1,7 +1,7 @@
 ---
 title: "A Step-by-Step Solution: Correcting Crashes in Armored Core 6: Fires of Rubicon for Windows PCs"
-date: 2024-08-23T13:18:01.352Z
-updated: 2024-08-24T13:18:01.352Z
+date: 2024-12-05T17:14:46.147Z
+updated: 2024-12-12T18:47:47.512Z
 tags:
   - win11
   - win10
@@ -59,9 +59,6 @@ thumbnail: https://thmb.techidaily.com/c62b5284641027dfddd7dff7e86c9bcc06523e51b
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b351ec11a.jpg)
 4. Restart your computer to take effect.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 
 Open Word of Warcraft and see if the crashing issue has been resolved.
 
@@ -75,16 +72,10 @@ Open Word of Warcraft and see if the crashing issue has been resolved.
 2. Click the icon of**World of Warcraft** from the game list on the left.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fa6c02c345.jpg)
 3. Click the**Options** button and select**Scan and Repair** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fa6fe36d60.jpg)
 4. Click**Begin Scan** , and follow the on-screen instructions to finish. It may take a while.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fa7275b199.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Once finish, restart your game and see if it works properly.
 
 ### Fix 4: Disable DVR app in Xbox
@@ -98,17 +89,25 @@ Here’s what you can do:
 1. Search**Xbox** from the search box on your desktop, and click**Xbox** to open it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b3940d874.jpg)
 2. You’ll need to log into your Microsoft account if it’s the first time you open it. If that’s the case, enter your Microsoft account to log in.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3. Click the**Gear** button on the left to open**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b3bdbf4aa.jpg)
 4. Click the**Game DVR** tab, and turn it**off** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b3e5954b9.png)
 5. Restart your computer and open World of Warcraft to see if it stops crashing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  INFORMATION: If you don’t use Xbox in your computer, try uninstalling Xbox application to run your game properly.
 
@@ -118,10 +117,16 @@ Here’s what you can do:
 2. Click the**Gaming** section.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fab18ae4d5.jpg)
 3. Click**Game DVR** on the left, and make sure to turn off**Record** **in the background while I’m playing a game** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b4223cc30.jpg)
 4. Restart your computer and launch World of Warcraft and see if it works.
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  INFORMATION: If you don’t use Xbox in your computer, try uninstalling Xbox application to run your game properly.
@@ -137,8 +142,6 @@ Here’s what you can do:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -146,4 +149,26 @@ Here’s what you can do:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-free-and-legal-youtube-downloader-tools-recommendations/"><u>[New] In 2024, Free & Legal YouTube Downloader Tools - Recommendations</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-streamlinedwebcamtechniqueinstruction-for-2024/"><u>[New] StreamlinedWebCamTechniqueInstruction for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-affordable-easy-to-use-video-capture-tools-for-windows/"><u>[Updated] Affordable, Easy-to-Use Video Capture Tools for Windows</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-full-features-explored-logitechs-professional-4k-cam/"><u>2024 Approved Full Features Explored Logitech’s Professional 4K Cam</u></a></li>
+<li><a href="https://win-answers.techidaily.com/decode-the-mystery-behind-persistent-crashes-of-fireteam-elite-on-personal-computers/"><u>Decode the Mystery Behind Persistent Crashes of 'Fireteam Elite' On Personal Computers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guide-eliminate-football-manager-2020-system-errors-and-enhance-performance/"><u>Guide: Eliminate Football Manager 2020 System Errors & Enhance Performance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-facilitate-copy-and-paste-features-with-microsoft-edges-security-functionality-win11/"><u>How to Facilitate Copy & Paste Features with Microsoft Edge's Security Functionality (Win11)</u></a></li>
+<li><a href="https://fox-within.techidaily.com/how-to-share-your-custom-made-flipbooks-on-facebook-using-flipbuilder/"><u>How to Share Your Custom-Made Flipbooks on Facebook Using FlipBuilder</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Vivo Y55s 5G (2023)? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unlocking-youtube-studios-power-for-professional-edits/"><u>In 2024, Unlocking YouTube Studio's Power for Professional Edits</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138595319-9781452544397-listen-im-still-here/"><u>Listen, I'm Still Here | Free Book</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-the-art-of-smooth-gameplay-strategies-for-tackling-fps-drops-on-a-computer-system/"><u>Master the Art of Smooth Gameplay: Strategies for Tackling FPS Drops on a Computer System</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-free-avi-video-rotation-16-top-picks-for-windows-mac-android-iphone-and-online-platforms-for-2024/"><u>New Free AVI Video Rotation 16 Top Picks for Windows, MAC, Android, iPhone, and Online Platforms for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimizing-your-xbox-experience-overcoming-netflix-playback-interruptions/"><u>Optimizing Your Xbox Experience: Overcoming Netflix Playback Interruptions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-found-restoring-your-connectivity-with-destiny-2/"><u>Solution Found: Restoring Your Connectivity with Destiny 2</u></a></li>
+<li><a href="https://win-answers.techidaily.com/steps-to-fix-constant-failures-of-manor-lords-gameplay-in-windows-environment/"><u>Steps to Fix Constant Failures of Manor Lords Gameplay in Windows Environment</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-end-of-the-line-for-diablo-immortal-launch-on-windows-and-mac-computers/"><u>The End of the Line for Diablo Immortal Launch on Windows and Mac Computers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723011181922-warzone-dev-error-6634-heres-how-to-solve-it-expert-advice-from-2022/"><u>Warzone Dev Error 6634? Here's How to Solve It: Expert Advice From 2022</u></a></li>
+<li><a href="https://win-answers.techidaily.com/warzone-guide-resolving-dev-error-6634-quickly-2022-strategies/"><u>Warzone Guide: Resolving Dev Error 6634 Quickly (2022 Strategies)</u></a></li>
+</ul></div>
 

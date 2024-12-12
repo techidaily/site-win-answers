@@ -1,7 +1,7 @@
 ---
 title: "Cod: Modern Warfare Stability Improvements - No More Game Crashes!"
-date: 2024-12-01T17:32:22.255Z
-updated: 2024-12-06T18:15:49.019Z
+date: 2024-12-08T18:40:10.602Z
+updated: 2024-12-12T18:29:01.624Z
 tags:
   - win11
   - win10
@@ -57,6 +57,10 @@ Left 4 Dead 2 is an old game but there’re still gamers who love playing it. Th
 | Storage:    | 13 GB available space                                          |
 | Sound Card: | DirectX 9.0c compatible sound card                             |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2\. Update your driver
 
  Driver plays an important part in the Windows system. With outdated or wrong drivers, you may encounter Left 4 Dead 2 crash issue. By updating drivers to the latest version can fully use your graphic card and get a better gaming experience.
@@ -87,11 +91,15 @@ OR
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -107,10 +115,6 @@ If it doesn’t work for you, move to the next fix.
 
  Also, low-end computers crash without mods. It’s recommended to have more than 4 GB of ram for gaming on any game.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4\. Verify game files
 
  It may sound like an old cliché, but most problems can be solved by verifying Steam files.
@@ -120,16 +124,8 @@ If it doesn’t work for you, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/image-2.png)
 3. Click the**LOCAL FILES**  tab, then click **Verify integrity of game files…**  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/image-1.png)
 4. Wait for the process to complete.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/image-2-1.png)
 5. Restart your computer and open the game to check.
@@ -143,6 +139,10 @@ You can also disable Steam overlay in Left 4 Dead 2.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/2021-02-05_14-09-03.jpg)
 
 If it doesn’t work for you, move to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5\. Disable add-ons
 
@@ -160,10 +160,6 @@ To check if your add-ons are the fault, here the following things to do:
 8. Add an add-on from the new folder to your original one by one.
 9. Find the exact add-on that causes the issue.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 6\. Change compatibility mode
 
  If the above fixes don’t help, you can consider rolling back drivers to your previous version to see if the problem is solved. If so, it might be a recent patch for L4D2 that made it incompatible with something in your system. If possible, you could check the Event Viewer to find out what happens.
@@ -175,6 +171,10 @@ To check if your add-ons are the fault, here the following things to do:
 3. In the Compatibility tab, click **Run this program in compatibility mode for** . Then choose the system in the drop-down menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/com.jpg)
 4. Click **OK** then run it to check.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -195,16 +195,20 @@ To check if your add-ons are the fault, here the following things to do:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-the-ultimate-guide-to-youtube-video-distribution-on-fb/"><u>[New] 2024 Approved The Ultimate Guide to YouTube Video Distribution on FB</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-from-playtime-to-production-sims-4-video-capturing/"><u>[New] In 2024, From Playtime to Production Sims 4 Video Capturing</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-initiate-your-virtual-presence-with-ease-live-streaming-101-for-2024/"><u>[Updated] Initiate Your Virtual Presence with Ease Live Streaming 101 for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-capturing-live-gaming-decide-on-obsshadowplay/"><u>2024 Approved Capturing Live Gaming - Decide on OBS/ShadowPlay</u></a></li>
-<li><a href="https://win-answers.techidaily.com/everspace-2-how-to-stop-your-game-from-crashing-on-windows/"><u>Everspace 2 - How to Stop Your Game From Crashing on Windows</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-advice-how-to-get-past-the-hurdle-when-red-dead-redemption-2-wont-boot-up-correctly/"><u>Expert Advice: How to Get Past the Hurdle When Red Dead Redemption 2 Won't Boot Up Correctly</u></a></li>
-<li><a href="https://win-answers.techidaily.com/far-cry-6-troubleshooting-fixing-the-games-persistent-black-screen-problem/"><u>Far Cry 6 Troubleshooting: Fixing the Game's Persistent Black Screen Problem</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723007136932-tackling-steams-server-connection-troubles-heres-the-solution/"><u>Tackling Steam’s Server Connection Troubles? Here's the Solution!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-origin-not-starting-in-windows-10-and-11/"><u>Troubleshooting Steps for Origin Not Starting in Windows 10 and 11</u></a></li>
-<li><a href="https://video-capture.techidaily.com/zoom-mastering-screen-sharing-basics-for-2024/"><u>Zoom Mastering Screen-Sharing Basics for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-from-copycat-to-originalist-crafting-funny-relatable-memes/"><u>[Updated] 2024 Approved From Copycat to Originalist Crafting Funny, Relatable Memes</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-expert-techniques-for-professionalizing-mobile-based-youtube-thumbnails/"><u>[Updated] In 2024, Expert Techniques for Professionalizing Mobile-Based YouTube Thumbnails</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-fostering-a-community-best-practices-for-youtubers/"><u>2024 Approved Fostering a Community Best Practices for YouTubers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/black-screen-woes-solved-effective-troubleshooting-guide/"><u>Black Screen Woes Solved: Effective Troubleshooting Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easy-guide-to-rectifying-far-cry-6s-pc-launch-error-a-comprehensive-fix/"><u>Easy Guide to Rectifying Far Cry 6'S PC Launch Error: A Comprehensive Fix</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/effizientes-binnen-auf-neu-clonieren-fur-windows-11-10-8-and-7-tufteln-mit-bootfunktion/"><u>Effizientes Binnen-Auf-Neu-Clonieren Für Windows 11, 10, 8 & 7: Tüfteln Mit Bootfunktion</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-resolve-phasmophobia-software-issues-updates-and-patch-notes-year-2024/"><u>How to Resolve Phasmophobia Software Issues: Updates and Patch Notes (Year 2024)</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-oppo-find-x6-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Oppo Find X6 phone? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Huawei Nova Y91? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-tecno-spark-10-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Tecno Spark 10 5G to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://discover-community.techidaily.com/kostengunstig-abspielen-von-dvds-keine-downloads-lizenzierter-freier-codec-nutzen/"><u>Kostengünstig Abspielen Von DVDs - Keine Downloads, Lizenzierter Freier Codec Nutzen</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723005740495-mastering-dayz-speed-instantly-eliminate-those-frustrating-fps-drops/"><u>Mastering DayZ Speed - Instantly Eliminate Those Frustrating FPS Drops!</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-google-pixel-8-pro-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Google Pixel 8 Pro Phones</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722995115910-valorant-playback-woes-heres-how-to-solve-them/"><u>Valorant Playback Woes? Here's How to Solve Them</u></a></li>
+<li><a href="https://win-answers.techidaily.com/why-does-after-effects-keep-freezing-or-crashing-solutions-for-windows-10-and-11-users/"><u>Why Does After Effects Keep Freezing or Crashing? Solutions for Windows 10 and 11 Users</u></a></li>
 </ul></div>
 

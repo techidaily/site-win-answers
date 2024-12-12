@@ -1,7 +1,7 @@
 ---
 title: How to Stop Your Computer From Freezing in Counter-Strike 2 (CS2) - Latest Troubleshooting Tips
-date: 2024-12-05T18:05:45.597Z
-updated: 2024-12-06T16:13:53.107Z
+date: 2024-12-08T16:22:20.088Z
+updated: 2024-12-12T18:54:37.424Z
 tags:
   - win11
   - win10
@@ -77,10 +77,14 @@ Here are the minimum and recommended system requirements for the game:
 
  In the bottom-left corner of your Windows desktop screen, click Start![](https://images.drivereasy.com/wp-content/uploads/2020/09/Start-icon.jpg) \> Settings![](https://images.drivereasy.com/wp-content/uploads/2020/09/settings-icon.png) . Then in the Windows Updates section, if you see there are**Updates available** , click**Download** and you should restart your computer to make it take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![check for Windows Update](https://images.drivereasy.com/wp-content/uploads/2020/09/windows-updates-available-1200x718.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you’ve checked that your system perfectly meets these requirements but just can’t really run the game smoothly, don’t worry. You can try the fixes listed below.
@@ -109,6 +113,10 @@ Here’s how to update drivers with Driver Easy:
 
 ![update drivers automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/scan-now-9-available.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
@@ -135,7 +143,7 @@ Here’s how to update drivers with Driver Easy:
 ![run Steam as an administrator to fix Serious Sam 4 crashing and suttering issue](https://images.drivereasy.com/wp-content/uploads/2020/11/run-Steam-as-an-administrator-right-click-from-the-desktop-and-select-open-file-location.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Scroll down and find the**Steam application** . (It should be highlighted.) Right-click on it and select**Properties** .
@@ -161,7 +169,7 @@ To do so, you can:
 ![allow  an app through controlled folder access Serious Sam 4 ](https://images.drivereasy.com/wp-content/uploads/2020/09/windows-security-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Select**Virus & threat protection** from the left pane. Scroll down and under the**Ransomware protection** section, click**Manage ransomware protection** .
@@ -173,13 +181,13 @@ To do so, you can:
 
 ![allow  an app through controlled folder access Serious Sam 4 ](https://images.drivereasy.com/wp-content/uploads/2020/09/allow-an-app-through-controlled-folder-access-1200x684.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Click**Add an allowed app** **\> Browse all apps** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/allow-an-app-through-controlled-folder-access-2-1-1200x684.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Then navigate to the game’s installation folder and select**Sam4.exe** .
 
@@ -213,21 +221,17 @@ To do so, you can:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/steam-select-propertite.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Select the**GENERAL** tab and uncheck the box next to**Enable the Steam Overlay while in-game** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/disable-Steam-overlay-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After applying the changes, exit Steam and run your game to see if this fixed the issues.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 8: Set launch options on Steam
 
@@ -261,12 +265,16 @@ After you’ve done these, relaunch your game.
 
 ![adjust graphics options serious sam 4 crash stutter](https://images.drivereasy.com/wp-content/uploads/2020/09/adjust-graphics-options-1-1200x516.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Then select**GRAPHICS OPTIONS** .
 
 ![adjust graphics options serious sam 4 crash stutter](https://images.drivereasy.com/wp-content/uploads/2020/09/adjust-graphics-options-2-1200x540.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) In the**GRAPHICS API:** section, choose**VULKAN** or**DIRECT3D 12** .  
@@ -282,10 +290,6 @@ After you’ve done these, relaunch your game.
  After applying the changes, close your game and launch it again to check if it fixes the issue.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 10: Set priority to realtime
 
@@ -304,10 +308,6 @@ After you’ve done these, relaunch your game.
  If setting priority to realtime didn’t work for you, don’t worry. You got a few other fixes.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 11: Perform a clean boot
 
@@ -328,7 +328,7 @@ Here’s how you can do this:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/perform-a-clean-boot-3-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After restarting your computer, launch your game to see if it fixes the issue. If not, move on to the next method.
@@ -362,22 +362,19 @@ Here’s how you can do this:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-effortless-capture-procedure-guiding-you-through-macos-screen-record/"><u>[Updated] 2024 Approved Effortless Capture Procedure Guiding You Through macOS Screen Record</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-the-ultimate-guide-to-recording-your-lol-adventures-for-2024/"><u>[Updated] The Ultimate Guide to Recording Your LOL Adventures for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-5-best-no-cost-video-enhancement-platforms/"><u>2024 Approved 5 Best No-Cost Video Enhancement Platforms</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-samsung-galaxy-z-flip-5-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Samsung Galaxy Z Flip 5 to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/6-tecnicas-validadas-para-recuperar-midias-protegidas-em-sistemas-windows-e-mac-comprensivo/"><u>6 Técnicas Validadas Para Recuperar Mídias Protegidas Em Sistemas Windows E Mac – Comprensivo</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723000678915-effective-fixes-to-get-your-epic-games-launcher-running-smoothly-again/"><u>Effective Fixes to Get Your Epic Games Launcher Running Smoothly Again</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-issue-troubleshooting-a-non-functional-discord-webcam/"><u>Fixing the Issue: Troubleshooting a Non-Functional Discord Webcam</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guide-to-fixing-wireless-network-connectivity-on-the-microsoft-surface-series/"><u>Guide to Fixing Wireless Network Connectivity on the Microsoft Surface Series</u></a></li>
-<li><a href="https://win-answers.techidaily.com/rage-against-the-machine-crash-effective-solutions-for-seamless-play/"><u>Rage Against the Machine (Crash): Effective Solutions for Seamless Play</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-graphic-glitches-a-comprehensive-guide-for-the-latest-forza-horizon-driver-upgrade/"><u>Resolving Graphic Glitches: A Comprehensive Guide for the Latest Forza Horizon ⁵ Driver Upgrade</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723004022241-smooth-entry-into-fortnite-expert-tips-for-swift-login-solutions/"><u>Smooth Entry Into Fortnite: Expert Tips for Swift Login Solutions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-to-overcoming-the-anticheat-module-disconnect-on-escape-from-tarkov/"><u>Step-by-Step Guide to Overcoming the ‘AntiCheat Module Disconnect’ on Escape From Tarkov</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/tackling-stop-code-0x0000005c-a-detailed-guide-to-system-recovery/"><u>Tackling STOP Code 0X0000005C: A Detailed Guide to System Recovery</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-the-troubles-of-disabled-secure-boot-in-windows-bios-settings/"><u>Tackling the Troubles of Disabled Secure Boot in Windows BIOS Settings</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-made-simple-defeat-fifa-19s-directx-hurdles-with-these-tips/"><u>Troubleshooting Made Simple: Defeat FIFA 19'S DirectX Hurdles with These Tips</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-smoothing-out-stutters-and-improving-fps-on-the-division-2/"><u>Troubleshooting Tips for Smoothing Out Stutters and Improving FPS on The Division 2</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-repairing-damaged-video-game-data-in-windows/"><u>Ultimate Guide: Repairing Damaged Video Game Data in Windows</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-art-of-influencing-amplifying-instagram-post-reach/"><u>[New] The Art of Influencing Amplifying Instagram Post Reach</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-7-fixes-for-warzone-20-not-launching-on-pc-2024/"><u>[Solved] 7 Fixes for Warzone 2.0 Not Launching on PC 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-seamless-date-insertion-into-photo-editing/"><u>[Updated] In 2024, Seamless Date Insertion Into Photo Editing</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-snapchat-voice-overhaul-two-efficient-ways-revealed/"><u>2024 Approved Snapchat Voice Overhaul Two Efficient Ways Revealed</u></a></li>
+<li><a href="https://article-helps.techidaily.com/discover-poi-delights-in-instant-from-coffee-shops-to-concert-venues-for-2024/"><u>Discover POI Delights in Instant, From Coffee Shops to Concert Venues for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/epic-games-launcher-black-screen-trouble-heres-how-you-can-get-it-working-again/"><u>Epic Games Launcher Black Screen Trouble? Here’s How You Can Get It Working Again!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-for-starcraft-ii-game-crashing-issues-on-windows/"><u>Fixes for StarCraft II Game Crashing Issues on Windows</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-apple-iphone-6s-for-mobile-legends-drfone-by-drfone-virtual-ios/"><u>How To Fake GPS On Apple iPhone 6s For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Samsung Galaxy A14 4G | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/iphone-exposed-the-art-of-prolonged-photography/"><u>IPhone Exposed The Art of Prolonged Photography</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-the-fix-how-to-overcome-game-crashes-in-the-cycle-for-pc-users/"><u>Master the Fix! How to Overcome Game Crashes in The Cycle for PC Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/re7-village-follow-up-solutions-to-overcome-black-screen-hiccups-on-pc/"><u>RE7 Village Follow-Up: Solutions to Overcome Black Screen Hiccups on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-persistent-crashes-in-necromunda-hired-gun-for-windows-users/"><u>Solving Persistent Crashes in 'Necromunda: Hired Gun' For Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-fixes-for-microsoft-store-crash-code-error-0x80072efd/"><u>Swift Fixes for Microsoft Store Crash Code Error 0X80072EFD</u></a></li>
 </ul></div>
 

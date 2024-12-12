@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Tips - Successfully Running a Thaumaturge Application in PC
-date: 2024-12-04T17:55:40.197Z
-updated: 2024-12-06T18:09:42.092Z
+date: 2024-12-09T19:07:59.562Z
+updated: 2024-12-12T16:19:33.776Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/48bbf816680af2439ef36580a7c2fe3c4155339da
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -50,29 +46,33 @@ thumbnail: https://thmb.techidaily.com/48bbf816680af2439ef36580a7c2fe3c4155339da
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-166-1024x728.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) On your keyboard, press**the Windows logo key** and **R** at the same time to open the Run dialog. Then type **%ProgramData%**  and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/005.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) In the pop-up window, double-click the**Origin**  folder to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap4-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Delete all the files and folders in this folder **except for the LocalContent folder** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) On your keyboard, press**the Windows logo key** and **R** at the same time to open the Run dialog. Then type **%AppData%**  and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap6-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6) In the pop-up window, delete the**Origin**  folder.
 
@@ -129,19 +129,19 @@ Or
 ![Driver Easy Scan Screen](https://images.drivereasy.com/wp-content/uploads/2019/12/Driver-Easy-Scan-screen.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Update** next to your graphics card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Update-graphics-driver.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact Driver Easy’s support team at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 3: Run the Program Compatibility Troubleshooter**
 
@@ -154,10 +154,6 @@ Or
  2) Click the**Compatibility** tab and click **Run compatibility troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap11-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click**Try recommended settings** to test-run program using recommended compatibility settings. Follow the on-screen instructions to see whether this troubleshooting option works or not.
 
@@ -199,29 +195,21 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap266-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Select the**Services** tab, check **Hide all Microsoft services** and then click **Disable all** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap17-2-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Select the**Startup** tab and click **Open Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap261-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) On the**Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-12.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Go back to the**System Configuration** window and click **OK** .
 
@@ -245,6 +233,10 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap1-1-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click **Check for updates** to update your Windows system.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap267.png)
@@ -254,6 +246,10 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
  If this fix works, Origin will open when you double-click its shortcut on the desktop. If not, try the next fix to reinstall Origin.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 7: Reinstall Origin**
 
@@ -267,17 +263,21 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap7-1-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  ii. View Control Panel by **Category** , and then click **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap8-3-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  iii. Double-click**Origin** to uninstall it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap268.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 iv. Restart your Windows system when it is completed.
 
@@ -305,24 +305,19 @@ iv. Restart your Windows system when it is completed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-a-step-by-step-guide-for-effective-use-of-luts-in-adobe-suite/"><u>[New] In 2024, A Step-by-Step Guide for Effective Use of LUTs in Adobe Suite</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-essential-tiktok-edits-guide-for-beginners-for-2024/"><u>[Updated] Essential TikTok Edits Guide for Beginners for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-the-ultimate-pathway-to-tiktok-excellence-for-2024/"><u>[Updated] The Ultimate Pathway to TikTok Excellence for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-crafting-cinematic-content-with-video-enhance-v22/"><u>2024 Approved Crafting Cinematic Content with Video Enhance V2.2</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Poco M6 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ending-discord-delays-with-this-expert-guide-to-uninterrupted-gaming/"><u>Ending Discord Delays with This Expert Guide to Uninterrupted Gaming</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ending-the-mystery-of-the-minecraft-blackout-solutions-you-need-to-know/"><u>Ending the Mystery of The Minecraft Blackout: Solutions You Need to Know</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-the-artisans-code-a-complete-blueprint-for-flawless-windows-tv-recording/"><u>In 2024, The Artisan's Code A Complete Blueprint for Flawless Windows TV Recording</u></a></li>
-<li><a href="https://win-answers.techidaily.com/kodi-cannot-establish-a-connection-heres-the-solution-for-directory-retrieval-errors/"><u>Kodi Cannot Establish a Connection? Here’s the Solution for Directory Retrieval Errors</u></a></li>
-<li><a href="https://win-answers.techidaily.com/master-the-art-of-stabilizing-helldivers-ii-on-your-computer-proven-strategies-for-seamless-gaming/"><u>Master the Art of Stabilizing Helldivers II on Your Computer - Proven Strategies for Seamless Gaming.</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcome-game-startup-errors-for-battlefield-4-on-personal-computers-now-fixed/"><u>Overcome Game Startup Errors for Battlefield 4 on Personal Computers - Now Fixed!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/say-goodbye-to-cortana-glitches-with-these-effective-troubleshooting-techniques/"><u>Say Goodbye to Cortana Glitches with These Effective Troubleshooting Techniques</u></a></li>
-<li><a href="https://win-bits.techidaily.com/solve-safari-glitches-effective-strategies-for-ios-devices-ios-18-16/"><u>Solve Safari Glitches: Effective Strategies for iOS Devices (iOS 18-16)</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-the-issue-why-doesnt-warno-work-properly-on-my-desktop/"><u>Solving the Issue: Why Doesn't Warno Work Properly on My Desktop?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-solution-recovering-access-to-your-forgotten-ipad-lock-screen/"><u>Step-by-Step Solution: Recovering Access to Your Forgotten iPad Lock Screen</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/tailor-made-tunes-for-chrome-companions-for-2024/"><u>Tailor-Made Tunes for Chrome Companions for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/top-6-trusted-techniques-to-resolve-terraria-disconnection-issues/"><u>Top 6 Trusted Techniques to Resolve Terraria Disconnection Issues</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-resolving-directx-issues-in-call-of-duty-modern-warfare-ii/"><u>Ultimate Guide: Resolving DirectX Issues in Call of Duty: Modern Warfare II</u></a></li>
-<li><a href="https://win-answers.techidaily.com/understanding-and-resolving-performance-issues-in-cyberpunk-2077-fixing-freeze-ups/"><u>Understanding & Resolving Performance Issues in Cyberpunk 2077: Fixing Freeze-Ups</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-blade-chroma-revolutionized-by-quad-hd-technology/"><u>[New] In 2024, Blade Chroma Revolutionized by Quad-HD Technology</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-easy-ways-to-transfer-photos-and-videos-from-an-iphone-to-a-pc/"><u>[Updated] Easy Ways to Transfer Photos and Videos From an iPhone to a PC</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-easy-mp3-snippet-from-fb-chats/"><u>2024 Approved Easy MP3 Snippet From FB Chats</u></a></li>
+<li><a href="https://win-answers.techidaily.com/conquer-video-lag-on-youtube-with-these-proven-fixes/"><u>Conquer Video Lag on YouTube with These Proven Fixes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effortless-fixes-for-chrome-crashes-on-windows-10-systems/"><u>Effortless Fixes for Chrome Crashes on Windows 10 Systems</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-can-you-unlock-apple-iphone-12-mini-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>In 2024, Can You Unlock Apple iPhone 12 mini After Forgetting the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-insider-advice-efficiently-amassing-stock-visuals-for-use/"><u>In 2024, Insider Advice Efficiently Amassing Stock Visuals for Use</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-windows-inaccessible-application-removal/"><u>Tackling Windows' Inaccessible Application Removal</u></a></li>
+<li><a href="https://fox-search.techidaily.com/the-ultimate-selection-of-addition-utility-apps-for-smartphones-ios-and-android-edition-2022/"><u>The Ultimate Selection of Addition Utility Apps for Smartphones - iOS and Android Edition, 2022</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-fortnites-endless-startup-screen-problem-solved/"><u>Troubleshooting Fortnite's Endless Startup Screen Problem (Solved!)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-for-recurring-warzone-20-computer-failures-on-pc/"><u>Troubleshooting Guide for Recurring Warzone 2.0 Computer Failures on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-resolving-persistent-freezing-in-blender-for-pc-users/"><u>Troubleshooting Guide: Resolving Persistent Freezing in Blender for PC Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-resolving-when-your-qbittorent-gets-stuck/"><u>Troubleshooting Steps: Resolving When Your qBittorent Gets Stuck</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ultimate-guide-installing-updated-creative-audigy-card-drivers-in-windows-ebox/"><u>Ultimate Guide: Installing Updated Creative Audigy Card Drivers in Windows Ebox</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Resolved: How to Fix Persistent Issues with Discord Live Broadcasts"
-date: 2024-12-01T18:46:07.074Z
-updated: 2024-12-06T16:29:17.488Z
+date: 2024-12-08T16:35:55.079Z
+updated: 2024-12-12T16:27:31.619Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
 * [Fix 1: Restart your computer](https://tools.techidaily.com/drivereasy/download/)
@@ -37,6 +33,10 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 * [Fix 7: Stop overlocking your GPU/CPU](https://tools.techidaily.com/drivereasy/download/)
 * [Fix 8: Disable fullscreen optimizations](https://tools.techidaily.com/drivereasy/download/)
 * [Fix 9: Try Phasmophobia beta version](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Restart your computer
 
@@ -57,10 +57,6 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
  3) Under the**Installed Files** tab, click**Verify integrity of game files** .
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Restart the game after the process is complete.
 
@@ -83,7 +79,7 @@ Game crashing issues might happen when your game files are corrupted.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-02_18-44-34.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5) Relaunch the game to test the issue.
@@ -114,7 +110,7 @@ If the game still crashes, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-58-08.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
@@ -125,6 +121,10 @@ If the game still crashes, try the next fix below.
 4) Relaunch the game to test your issue.
 
 If the crash still occurs, go ahead with the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Lower your graphics settings
 
@@ -139,7 +139,7 @@ If the crash still occurs, go ahead with the next fix.
  If you still experience crashing issues, then the issue is not with your game settings. You can change the settings back and try the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Launch the game with DirectX 10
@@ -154,13 +154,13 @@ If the crash still occurs, go ahead with the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-22_16-23-03.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Launch the game to see if your problem has been resolved.
 
 If Phasmophobia crashing issues persist, try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Stop overlocking your GPU/CPU
 
@@ -177,7 +177,7 @@ If Phasmophobia crashing issues persist, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-23_14-53-17.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Apply > OK** .
@@ -217,22 +217,24 @@ If the problem still exists, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-visioncutting-software/"><u>[New] 2024 Approved VisionCutting Software</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-affordable-high-frame-rate-recordings/"><u>[New] Affordable High Frame Rate Recordings</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-combining-chords-and-pictures-in-the-cloud-for-2024/"><u>[Updated] Combining Chords & Pictures in the Cloud for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/xbox-and-pc-fix-warzone-memory-error-0-1766/"><u>[Xbox & PC Fix] Warzone Memory Error 0-1766</u></a></li>
-<li><a href="https://techtrends.techidaily.com/a-complete-guide-to-next-gen-wi-fi-protocols-exploring-the-advantages-of-80211-be-ax-ac/"><u>A Complete Guide to Next-Gen Wi-Fi Protocols: Exploring the Advantages of 802.11 Be, AX, AC</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-the-latest-epson-wf-2760-printer-drivers-compatible-with-windows-11-10-and-8/"><u>Download the Latest Epson WF-2760 Printer Drivers Compatible with Windows 11, 10 & 8</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effortless-solutions-to-eliminate-stuttering-problems-in-csglobal-offensive/"><u>Effortless Solutions to Eliminate Stuttering Problems in CS:Global Offensive</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exceptional-value-in-a-gamers-rig-an-in-depth-review-of-the-dell-g5-5090-with-plenty-of-options-to-suit-any-player/"><u>Exceptional Value in a Gamer's Rig: An In-Depth Review of the Dell G5 5090 with Plenty of Options to Suit Any Player</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-advice-on-handling-new-world-connection-error/"><u>Expert Advice on Handling 'New World Connection Error'</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebooks-new-home-and-feeds-tabs-what-you-need-to-know/"><u>Facebook's New Home and Feeds Tabs: What You Need to Know</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, 6 Methods to Protect Yourself from Location Tracking on Apple iPhone 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/no-audio-how-to-reactivate-sounds-in-lost-ark/"><u>No Audio? How to Reactivate Sounds in Lost Ark</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-fixes-successfully-overcoming-discord-installation-failed-errors/"><u>Quick Fixes: Successfully Overcoming 'Discord Installation Failed' Errors</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723011159745-sea-of-thieves-wont-open-here-are-five-proven-fixes/"><u>Sea of Thieves Won't Open? Here Are Five Proven Fixes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/startup-failures-explained-tackling-the-atomic-heart-crash/"><u>Startup Failures Explained - Tackling the 'Atomic Heart Crash'</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-resolving-issues-with-corsair-icue-on-windows-1011/"><u>Troubleshooting Steps: Resolving Issues with Corsair iCUE on Windows 10/11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-pro-tips-boosting-your-fps-in-escape-from-tarkov/"><u>Ultimate Pro Tips: Boosting Your FPS in Escape From Tarkov</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-maximizing-view-count-secrets-to-staff-picks-on-vimeo/"><u>[New] 2024 Approved Maximizing View Count Secrets to Staff Picks on Vimeo</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-mystery-of-free-graphic-imagery/"><u>[Updated] Unveiling the Mystery of Free Graphic Imagery</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/20-mindfulness-tracks-legal-and-copyright-free-downloads/"><u>20 Mindfulness Tracks Legal and Copyright-Free Downloads</u></a></li>
+<li><a href="https://win-answers.techidaily.com/arise-gamers-unite-proven-techniques-for-a-smooth-crisis-free-experience/"><u>Arise Gamers Unite! Proven Techniques for a Smooth, Crisis-Free Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/best-solutions-for-overcoming-valheims-lag-problems-on-windows-now-fixed/"><u>Best Solutions for Overcoming Valheim's Lag Problems on Windows - Now Fixed</u></a></li>
+<li><a href="https://win-answers.techidaily.com/boosting-call-of-duty-warzone-gameplay-enabling-graphics-card-functionality-in-windows-11-systems/"><u>Boosting Call of Duty Warzone Gameplay: Enabling Graphics Card Functionality in Windows 11 Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bring-your-astro-a50-detectable-again-by-the-command-centre-a-comprehensive-guide/"><u>Bring Your Astro A50 Detectable Again by the Command Centre: A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/chart-toppers-on-screen-uploading-songs-methodically-for-2024/"><u>Chart-Toppers on Screen Uploading Songs Methodically for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/checking-the-online-health-of-xbox-live-is-microsofts-gaming-network-active/"><u>Checking the Online Health of Xbox Live: Is Microsoft's Gaming Network Active?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-nokia-c12-pro-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Nokia C12 Pro Phone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-in-depth-analysis-the-best-livestreaming-video-tech/"><u>In 2024, In-Depth Analysis The Best Livestreaming Video Tech</u></a></li>
+<li><a href="https://win-answers.techidaily.com/marvel-gamers-guide-8-must-know-solutions-for-guardians-of-the-galaxy-pc-stability-problems/"><u>Marvel Gamers Guide: 8 Must-Know Solutions for Guardians of the Galaxy PC Stability Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-lag-free-gaming-essential-guide-to-fixing-dota-2s-connectivity-problems/"><u>Mastering Lag-Free Gaming: Essential Guide to Fixing Dota 2'S Connectivity Problems</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-extracting-book-summary-data-from-excel-spreadsheets/"><u>Step-by-Step Guide: Extracting Book Summary Data From Excel Spreadsheets</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-resolving-a-critical-system-error-in-ark/"><u>Step-by-Step Guide: Resolving a Critical System Error in Ark</u></a></li>
+<li><a href="https://win11.techidaily.com/the-offline-path-to-windows-11-success/"><u>The Offline Path to Windows 11 Success</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-fixing-the-problem-when-discord-wont-start/"><u>Troubleshooting Guide: Fixing the Problem When Discord Won't Start</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ultimate-samsung-galaxy-note-9-evaluation-top-contender-in-large-display-smartphones/"><u>Ultimate Samsung Galaxy Note 9 Evaluation: Top Contender in Large-Display Smartphones</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/untangle-the-issues-resolving-red-dead-redemption-pertinent-pc-crashes/"><u>Untangle the Issues: Resolving Red Dead Redemption Pertinent PC Crashes</u></a></li>
 </ul></div>
 

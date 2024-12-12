@@ -1,7 +1,7 @@
 ---
 title: No More Freezes! Solve Praey for the Gods PC Stability Issues
-date: 2024-08-23T13:21:00.899Z
-updated: 2024-08-24T13:21:00.899Z
+date: 2024-12-08T19:08:02.351Z
+updated: 2024-12-12T18:09:41.421Z
 tags:
   - win11
   - win10
@@ -47,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/b478b0983a67f36010d885714312f70db32d5d3a2
 4. [**Close in-game overlay**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Turn off VSync](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Verify the integrity of game files
 
  At some point, 2K21 will crash if you have important game files missing or corrupted. To verify the integrity of your game files, simply follow these steps:
@@ -57,7 +61,15 @@ thumbnail: https://thmb.techidaily.com/b478b0983a67f36010d885714312f70db32d5d3a2
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/nba-2k21-verify-gamefiles-02.jpg)
 3. Launch NBA 2K21 and check if it crashes again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If this method doesn’t give you any luck, take a look at the next one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Install all Windows updates
 
@@ -68,23 +80,18 @@ You can follow these steps to install all Windows updates:
 1. On your keyboard, press the**Windows logo key** and**I** at the same time. This will open the Windows Settings app. Select**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. Click**Check for updates** . It’s going to take a while for Windows to search and install available updates. Once completed, restart your computer.  
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To make sure you’ve installed _all_  system updates, repeat these steps until it prompts “You’re up to date” when you click **Check for updates** .
 
 After updating your system, you can open NBA 2K21 and test your gameplay.
 
 If 2K21 crashes again, simply move on to the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ### Fix 3: Update your graphics driver
 
  One of the most common causes of crashing is**a corrupted or outdated graphics driver** . So you should definitely try updating your graphics drivers before testing anything more complicated.
@@ -115,13 +122,14 @@ For example, you can use these steps to disable Steam overlay:
 1. Open your Steam client. On the top left corner, click**Steam** and select**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/steam-settings.jpg)
 2. Select**In-Game** from the left menu. Under the**Steam Overlay** section,**uncheck** these three boxes and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/disabel-steam-overlay.jpg)
 3. Launch NBA 2K21 and see if the issue persists.
 
  If turning off in-game overlay doesn’t do the trick for you, simply move on to the next method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Turn off VSync
 
@@ -130,14 +138,13 @@ For example, you can use these steps to disable Steam overlay:
 1. First you need to turn off VSync in your **graphics control panel** . To do so, right-click a blank area on desktop, then select**NVIDIA Control Panel** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/nvidia-control-panel-vsync.jpg)
 2. From the menu on the left, select **Manage 3D settings** . Make sure you’re at the **Global Settings** tab, then click the text to the right of **Vertical sync** and select **off** .  
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/turn-off-vsync-nvidia-control-panel.jpg)
 3. Second, you need to disable VSync in NBA 2K21\. Launch 2K21 and go to FEATURES > VIDEO SETTINGS. Then set**Vertical Sync** to**off** .  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/nba-2k21-vsync-off.jpg)
 4. Restart NBA 2K21 and check if your problem has gone.
 
@@ -151,8 +158,6 @@ For example, you can use these steps to disable Steam overlay:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -160,4 +165,22 @@ For example, you can use these steps to disable Steam overlay:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://common-error.techidaily.com/alert-paste-problematic-windows-11-feature/"><u>[ALERT] Paste Problematic Windows 11 Feature</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-elevating-speech-understanding-via-google-translate/"><u>[New] Elevating Speech Understanding via Google Translate</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-ethical-considerations-for-saving-whatsapp-conversations/"><u>[New] In 2024, Ethical Considerations for Saving WhatsApp Conversations</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-pushing-imagery-boundaries-mastering-ps-distortion-methods/"><u>[New] Pushing Imagery Boundaries Mastering PS Distortion Methods</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-boost-interaction-with-crafted-ig-story-queries/"><u>[Updated] In 2024, Boost Interaction with Crafted IG Story Queries</u></a></li>
+<li><a href="https://win-answers.techidaily.com/definitive-edition-of-mafia-game-to-hit-stores-problem-solved-and-ready-for-release/"><u>Definitive Edition of Mafia Game to Hit Stores - Problem Solved & Ready for Release</u></a></li>
+<li><a href="https://win-answers.techidaily.com/discord-performance-optimization-a-step-by-step-guide-to-say-goodbye-to-lag/"><u>Discord Performance Optimization: A Step-by-Step Guide to Say Goodbye to Lag</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-converting-tiktok-videos-to-gifs-top-5-software-options/"><u>In 2024, Converting TikTok Videos to GIFs Top 5 Software Options</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-superior-workplace-data-cloud-hubs/"><u>In 2024, Superior Workplace Data Cloud Hubs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-issues-with-pacific-drive-freezing-up-on-your-computer/"><u>Resolving Issues with Pacific Drive Freezing Up on Your Computer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-the-eternal-launch-loop-of-anthem-game-expert-advice-and-solutions/"><u>Resolving the Eternal Launch Loop of Anthem Game – Expert Advice & Solutions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-streaming-disneyplus-on-your-smart-tv-with-chromecast/"><u>Step-by-Step Guide: Streaming Disney+ on Your Smart TV with Chromecast</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-frame-rate-issues-in-call-of-duty-modern-warfare-2-for-pc/"><u>Troubleshooting Frame Rate Issues in Call of Duty: Modern Warfare 2 for PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-when-you-cant-open-origin-on-windows-11/"><u>Troubleshooting Steps When You Can't Open Origin on Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-solving-hogwarts-legacy-failed-startup-issues/"><u>Ultimate Guide: Solving 'Hogwarts Legacy' Failed Startup Issues</u></a></li>
+</ul></div>
 

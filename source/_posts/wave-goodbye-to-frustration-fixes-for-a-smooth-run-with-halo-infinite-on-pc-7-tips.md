@@ -1,7 +1,7 @@
 ---
 title: "Wave Goodbye to Frustration: Fixes for a Smooth Run with Halo Infinite on PC (7 Tips)"
-date: 2024-11-29T16:33:48.881Z
-updated: 2024-12-06T16:02:56.237Z
+date: 2024-12-06T16:45:50.919Z
+updated: 2024-12-12T17:15:47.222Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ _Diablo 3_ constantly crashes on your computer? You’re not alone! Many players
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix_Diablo 3_ crashing issues?
 
 1. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
@@ -37,6 +41,10 @@ _Diablo 3_ constantly crashes on your computer? You’re not alone! Many players
 7. [**Delete the game cache files**](https://tools.techidaily.com/drivereasy/download/)
 8. **[Run your game in compatibility mode](https://tools.techidaily.com/drivereasy/download/)**
 9. **[Reinstall your game and/or the Blizzard Battle.net app](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: **Update your graphics driver**
 
@@ -70,19 +78,11 @@ There are two ways you can get the latest correct graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-201.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Restart your computer
 
@@ -91,6 +91,10 @@ There are two ways you can get the latest correct graphics driver:
  If your game still crashes after the reboot, read on and try fix 3, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: **Run your game as an administrator**
 
@@ -102,12 +106,16 @@ There are two ways you can get the latest correct graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-499.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click**Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-500.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Relaunch_Diablo 3_ from the Blizzard Battle.net app.
@@ -126,10 +134,6 @@ If your game crashes again, go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-501.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**  Click **Begin Scan** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-502.png)
@@ -137,6 +141,10 @@ If your game crashes again, go ahead with the fix below.
  Wait for the scans to be complete, then relaunch _Diablo 3_ to test your issue. If your game crashes again, read on and try the fix below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Install the latest patch
 
@@ -147,10 +155,6 @@ If your game crashes again, go ahead with the fix below.
 **2)** Click **Diablo 3 > Options > Patch Notes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-507.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If a patch is available, install it, then run your game again to check whether the crashing issue has been resolved. If it hasn’t, or there was no new game patch available, move on to the next fix.
 
@@ -165,10 +169,6 @@ If your game crashes again, go ahead with the fix below.
 **2)** Click **BLIZZARD** , then **Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-683.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)**  Click the **Game Settings tab** \>**Reset in-Game Options** .
 
@@ -186,10 +186,6 @@ If your game crashes again, go ahead with the fix below.
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 7: **Delete the game cache files**
 
  Another possible cause of the Diablo 3 crashing issue is the corrupted cache folder. In this case, clearing the cache folder can fix the issue. Follow the instructions below to see how to do it:
@@ -204,6 +200,10 @@ If your game crashes again, go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-705.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)**  Type **%ProgramData%** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-706.png)
@@ -213,7 +213,7 @@ If your game crashes again, go ahead with the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-505.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Relaunch_Diablo 3_ to check if this worked for you. If the game is still unplayable, try the fix below.
@@ -221,7 +221,7 @@ If your game crashes again, go ahead with the fix below.
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 8: Run your game in compatibility mode
@@ -248,6 +248,10 @@ If your game crashes again, go ahead with the fix below.
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 9: Reinstall your game and/or the Blizzard Battle.net app
 
  If none of the fixes above helped,_Diablo 3_ crashing is probably triggered by corrupted game files. In this case, reinstalling your game and/or the Blizzard Battle net app is very likely the solution to your problem. Follow the instructions below:
@@ -266,10 +270,6 @@ If your game crashes again, go ahead with the fix below.
 **3)** Click **Yes, Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-513.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Restart the Blizzard Battle.net app to download and install _Diablo 3_ .
 
@@ -321,19 +321,21 @@ If your game crashes again, go ahead with the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-foster-conversations-via-thoughtful-instagram-quiz-style-lives/"><u>[New] Foster Conversations via Thoughtful Instagram Quiz-Style Lives</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-urban-unleashed-best-matches-to-grand-theft-auto-v/"><u>[Updated] In 2024, Urban Unleashed Best Matches to Grand Theft Auto V</u></a></li>
-<li><a href="https://win-answers.techidaily.com/addressing-and-repairing-security-compromise-warning-during-gaming-sessions/"><u>Addressing and Repairing 'Security Compromise Warning' During Gaming Sessions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/decoding-and-rectifying-visually-distorted-issues-in-hitman-2-cold-as-a-grave-case-study-on-rust-game-fixes/"><u>Decoding and Rectifying Visually Distorted Issues in Hitman 2: Cold As A Grave - Case Study on RUST Game Fixes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-advice-on-eliminating-crashing-issues-when-playing-battlefield-2042-on-your-computer/"><u>Expert Advice on Eliminating Crashing Issues When Playing Battlefield 2042 on Your Computer</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-facetime-call-history-on-iphone-14-plus-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover FaceTime Call History on iPhone 14 Plus | Stellar</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-resolve-discord-performance-problems-a-step-by-step-guide/"><u>How to Resolve Discord Performance Problems - A Step-by-Step Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-experts-choice-best-hdmi-21-display-models-evaluated/"><u>In 2024, Expert's Choice Best HDMI 2.1 Display Models Evaluated</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/lost-your-windows-11-recycle-bin-discover-these-7-effective-fixes-now/"><u>Lost Your Windows 11 Recycle Bin? Discover These 7 Effective Fixes Now!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/master-quick-reactions-with-zero-lag-optimizing-street-fighter-6-performance-on-your-gaming-rig/"><u>Master Quick Reactions with Zero Lag: Optimizing Street Fighter 6 Performance on Your Gaming Rig</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/navigating-retro-facebook-stories-pcmobile-guide/"><u>Navigating Retro Facebook Stories PC/Mobile Guide</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-mystery-of-youtubes-viewer-count-puzzle-for-2024/"><u>The Mystery of YouTube's Viewer Count Puzzle for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/transformative-tales-a-compendium-of-the-best-inspirational-movies/"><u>Transformative Tales A Compendium of the Best Inspirational Movies</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-solving-your-qbittorent-download-issues-when-its-unresponsive/"><u>Ultimate Guide: Solving Your qBittorent Download Issues When It's Unresponsive</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-tactical-transformations-in-small-business-videography/"><u>[New] 2024 Approved Tactical Transformations in Small Business Videography</u></a></li>
+<li><a href="https://discover-able.techidaily.com/easy-guide-eliminating-drm-protection-on-nook-epub-books/"><u>Easy Guide: Eliminating DRM Protection on NOOK ePub Books</u></a></li>
+<li><a href="https://win-answers.techidaily.com/eliminate-lag-expert-advice-on-optimizing-fps-and-reducing-stutter-in-new-world/"><u>Eliminate Lag: Expert Advice on Optimizing FPS and Reducing Stutter in New World</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-correcting-the-problem-of-msi-afterburner-ignoring-your-pcs-graphics-processor-on-windows-1011/"><u>Expert Advice: Correcting the Problem of MSI Afterburner Ignoring Your PC's Graphics Processor on Windows 10/11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/free-winx-dvd-creator-software-top-rated-disk-burning-tool-for-windows-11-users/"><u>Free WinX DVD Creator Software: Top Rated Disk Burning Tool for Windows 11 Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-crashing-problems-in-the-oxygen-not-included-game/"><u>How to Fix 'Crashing Problems' In the Oxygen Not Included Game</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-first-footsteps-in-youtube-landscape-setting-up-shop-and-earning-profitably/"><u>In 2024, First Footsteps in YouTube Landscape Setting Up Shop and Earning Profitably</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723001818270-is-there-any-disruption-with-xbox-live-servers-latest-status-report/"><u>Is There Any Disruption with Xbox Live Servers? Latest Status Report</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-common-issues-fixing-the-endless-loop-of-blender-crashes-on-computers/"><u>Overcoming Common Issues: Fixing the Endless Loop of Blender Crashes on Computers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-players-rejoice-baldurs-gate-iii-crashes-demystified-and-resolved/"><u>PC Players Rejoice: Baldur's Gate III Crashes Demystified and Resolved</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-infinite-load-screen-problems-in-valorant-a-complete-guide/"><u>Resolving the Infinite Load Screen Problems in VALORANT - A Complete Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-titans-unleashed-navigating-facebook-twitter-instagram-and-youtube/"><u>Social Media Titans Unleashed: Navigating Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-fix-for-msi-afterburner-not-identifying-graphic-processing-unit-in-windows-1011-environments/"><u>Step-by-Step Fix for MSI Afterburner Not Identifying Graphic Processing Unit in Windows 10/11 Environments</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-face-off-how-does-the-newly-released-asus-rog-keris-ii-ace-stack-up-against-my-favorite-the-ragedeathadder-v3-pro/"><u>The Ultimate Face-Off: How Does the Newly Released Asus ROG Keris II Ace Stack Up Against My Favorite, the RageDeathAdder V3 Pro?</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/ultimate-crew-for-imaginative-audio-visual-art/"><u>Ultimate Crew for Imaginative Audio-Visual Art</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-6-must-have-apps-for-effortless-meal-planning-and-tracking/"><u>Unveiling 6 Must-Have Apps for Effortless Meal Planning and Tracking</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "EverQuest II Stalling on Windows: Troubleshooting Techniques for Smooth Play"
-date: 2024-11-16T12:26:00.434Z
-updated: 2024-11-17T03:39:36.330Z
+date: 2024-12-07T17:08:00.163Z
+updated: 2024-12-12T16:35:35.083Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ Halo Infinite is available now and some gamers have noticed that the game has be
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. [Check the minimum system requirement](https://tools.techidaily.com/drivereasy/download/)
@@ -29,13 +33,6 @@ Halo Infinite is available now and some gamers have noticed that the game has be
 3. [Change in-game settings](https://tools.techidaily.com/drivereasy/download/)
 4. [Turn off background apps](https://tools.techidaily.com/drivereasy/download/)
 5. [Change NVIDIA resolution](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 1: Check the minimum system requirement
 
@@ -53,6 +50,10 @@ Halo Infinite is available now and some gamers have noticed that the game has be
 
 You can fix it by uninstalling the multiplayer HD texture packs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 2: Update your graphic driver
 
  Halo Infinite stuttering or lagging problem is usually related to the graphic driver. Make sure your GPU is fully up to date, the older GPU drivers can lead to poor performance and micro stutter.
@@ -68,13 +69,6 @@ There are mainly two ways you can update the graphics driver:
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 4. Relaunch Halo Infinite and check if it fixes the stuttering issue.
@@ -83,13 +77,6 @@ There are mainly two ways you can update the graphics driver:
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  If updating the graphics driver doesn’t work, you can move to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 3: Change in-game settings
 
@@ -107,15 +94,16 @@ There are mainly two ways you can update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-31-1200x580.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Set**TEXTURE FILTERING** to**Ultra** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-32.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  6) Many people suggest turning off**ASYNC COMPUTE** but if you’re running an AMD graphics card, you’d better turn it on. Because you can get at least 10FPS extra on average with it.
@@ -137,6 +125,10 @@ If it’s not working, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-29.png)
 
  3) Turn off all the background apps then run Halo Infinite to check if the issue persists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Change NVIDIA resolution
 
@@ -163,22 +155,24 @@ If it’s not working, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-tiktok-rave-review-2024/"><u>[New] TikTok Rave Review 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-render-and-upload-youtube-videos-faster/"><u>[Updated] 2024 Approved How to Render and Upload YouTube Videos Faster?</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-optimal-conclusion-to-vr-journeys/"><u>2024 Approved Optimal Conclusion to VR Journeys</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-the-ultimate-guide-to-starting-a-sports-channel-on-mac/"><u>2024 Approved The Ultimate Guide to Starting a Sports Channel on Mac</u></a></li>
-<li><a href="https://fox-http.techidaily.com/creating-soft-music-endings-in-adobe-premiere-video-editing/"><u>Creating Soft Music Endings in Adobe Premiere Video Editing</u></a></li>
-<li><a href="https://win-answers.techidaily.com/demonstrate-deep-knowledge-of-product-features-and-benefits-while-offering-clear-explanations-guidance-on-how-to-access-those-features-and-helping-customers450/"><u>Demonstrate Deep Knowledge of Product Features and Benefits While Offering Clear Explanations, Guidance on How to Access Those Features, and Helping Customers Leverage Them for Their Specific Needs</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722998377854-destiny-navigating-the-challenges-of-beyond-light-launch-crash-fixes-on-pc-here-are-solutions/"><u>Destiny Navigating the Challenges of Beyond Light Launch Crash Fixes on PC? Here Are Solutions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-advice-to-resolve-freezing-glitches-in-the-latest-assassins-creed-odyssey-pc-game-insights-from-2024/"><u>Expert Advice to Resolve Freezing Glitches in the Latest Assassin's Creed Odyssey PC Game - Insights From 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-address-and-repair-phasmophobia-game-freezes-for-a-smooth-experience-2024-version/"><u>How to Address and Repair Phasmophobia Game Freezes for a Smooth Experience (2024 Version)</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Lava Blaze Curve 5G | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-xiaomi-14-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Xiaomi 14 with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/latest-update-on-guilty-gear-strive-launch-what-fans-need-to-know-now/"><u>Latest Update on Guilty Gear Strive Launch: What Fans Need to Know Now</u></a></li>
-<li><a href="https://win-answers.techidaily.com/master-gaming-performance-optimize-your-setup-for-fluid-motion-and-high-framessecs/"><u>Master Gaming Performance: Optimize Your Setup for Fluid Motion and High Frames/Secs</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolve-your-steam-vr-headsets-invisibility-with-these-6-tips/"><u>Resolve Your Steam VR Headset's Invisibility with These 6 Tips</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/solving-windows-11-boot-issues-effective-solutions-and-quick-fixes/"><u>Solving Windows 11 Boot Issues: Effective Solutions and Quick Fixes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-among-us-persistent-loading-issues-a-step-by-step-guide/"><u>Troubleshooting Among Us Persistent Loading Issues – A Step-by-Step Guide</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-honor-100-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-channel-upgrade-how-reaching-500-viewers-propelts-monetization/"><u>[Updated] In 2024, Channel Upgrade How Reaching 500 Viewers Propelts Monetization</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-prime-selections-convert-youtube-videos-quickly/"><u>2024 Approved Prime Selections Convert YouTube Videos Quickly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/efficient-tactics-to-solve-your-acrocefexe-malfunction-issues/"><u>Efficient Tactics to Solve Your AcroCEF.exe Malfunction Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effortless-solutions-for-players-facing-game-crashes-in-ghost-recon-breakpoint/"><u>Effortless Solutions for Players Facing Game Crashes in Ghost Recon Breakpoint</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-dragon-age-origins-troubleshooting-crashes-on-windows-11-solutions/"><u>Fixing Dragon Age: Origins - Troubleshooting Crashes on Windows 11 | Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-launch-problems-solutions-for-playing-outriders-on-pc/"><u>Fixing Launch Problems - Solutions for Playing Outriders on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-hurdle-of-stuck-boot-in-dota-2-a-step-by-step-guide/"><u>Fixing the Hurdle of Stuck Boot in Dota 2 – A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/how-to-amplify-facebook-stories-with-music-elements-for-2024/"><u>How to Amplify Facebook Stories with Music Elements for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/improve-your-call-of-duty-black-ops-4-play-fixing-frame-drops-and-reducing-lags-for-a-smoother-experience/"><u>Improve Your Call of Duty: Black Ops 4 Play - Fixing Frame Drops & Reducing Lags for a Smoother Experience</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-8-cutting-edge-skins-perfect-for-your-laptop/"><u>In 2024, 8 Cutting-Edge Skins Perfect for Your Laptop</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-samsung-galaxy-m14-4g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Samsung Galaxy M14 4G Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-gadgets-in-depth-analysis-by-toms-hardware-specialist/"><u>Mastering Gadgets: In-Depth Analysis by Tom's Hardware Specialist</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-functional-adjustments-windows-1011-edition/"><u>Navigating Functional Adjustments: Windows 10/11 Edition</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-the-unlimited-soundscape-best-budget-friendly-audio-mixer-software-ranked/"><u>New The Unlimited Soundscape Best Budget-Friendly Audio Mixer Software Ranked</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723003421091-optimizing-your-experience-with-total-war-warhammer-ii-eliminating-crashing-troubles-once-and-for-all/"><u>Optimizing Your Experience with Total War: WARHAMMER II - Eliminating Crashing Troubles Once & for All!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-oppo-reno-10-pro-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Oppo Reno 10 Pro 5G Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/softening-effects-in-ableton-live/"><u>Softening Effects in Ableton Live</u></a></li>
+<li><a href="https://win-answers.techidaily.com/total-war-warhammer-ii-troubleshooting-guide-to-overcome-frequent-crashes/"><u>Total War: Warhammer II Troubleshooting Guide to Overcome Frequent Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-r-type-final-2-crash-problems-in-pc-version-solutions-inside/"><u>Troubleshooting R-Type Final 2 Crash Problems in PC Version - Solutions Inside</u></a></li>
 </ul></div>
 

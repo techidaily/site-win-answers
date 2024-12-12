@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Tackling Excessive CPU Use in Discord"
-date: 2024-11-12T01:00:34.564Z
-updated: 2024-11-17T00:04:04.731Z
+date: 2024-12-06T19:09:09.966Z
+updated: 2024-12-12T16:31:25.575Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/d5809cec83da0092a50835917e7ac3c3a1061e52f
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Install the latest Adobe Flash Player
 
  Most video stream portals use**Adobe Flash Player** to stream videos. If Adobe Flash is old, or somehow corrupt, missing, you might encounter a YouTube video stuttering problem. If this is the case, you can install the latest Adobe Flash on your computer to solve this issue.
@@ -43,10 +47,7 @@ Here’s how you can do it:
  2) Click**Install now**  . The .exe installation file would then be downloaded automatically. ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b962aea31d8c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Double-click the downloaded file. Then follow the on-screen instructions to complete the installation.
@@ -65,30 +66,13 @@ Here’s how you can do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b962b812b921.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click**Advanced** at the very bottom. ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b962bcf12143.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Disabled **Use hardware acceleration when available** by switching the icon to grey. ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b962c009cac7.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Relaunch Chrome and then re-play the YouTube video to see if it plays smoothly.
 
@@ -112,6 +96,10 @@ You can update your video driver either manually or automatically.
 
  2) Run Driver Easy and click the**Scan Now**  button. Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b95d9711631c.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3)Click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support** and a **30-day money back**  guarantee. You’ll be prompted to upgrade when you click Update All.)
 Note: You can do it   **for free**  if you like, but it’s partly manual.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b95da089dde0.jpg)
@@ -133,15 +121,12 @@ Here we take Chrome as an example to giving a step-by-step guide:
 3) Click**Clear data** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b962f3a665d9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Click the**More options**  icon on the top right of Chrome. Select **Help** , then click **About Chrome** .
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b962f8c7e584.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5) Chrome will check for updates automatically.
 
@@ -182,16 +167,20 @@ Here are some tips you can try for this case:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-first-steps-to-fame-8-free-courses-for-youtube-novices-for-2024/"><u>[Updated] First Steps to Fame 8 Free Courses for YouTube Novices for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/directx-a-comprehensive-update-and-download-handbook-for-pcs/"><u>DirectX: A Comprehensive Update and Download Handbook for PCs</u></a></li>
-<li><a href="https://win-answers.techidaily.com/essential-solutions-for-fixing-internet-explorer-malfunctions/"><u>Essential Solutions for Fixing Internet Explorer Malfunctions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/increase-your-fps-on-rainbow-six-extraction-a-comprehensive-guide/"><u>Increase Your FPS on Rainbow Six Extraction - A Comprehensive Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/masterful-mixers-free-lut-compendium-for-2024/"><u>Masterful Mixers' Free LUT Compendium for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722999905493-no-more-black-screens-in-fallout-4-easy-troubleshooting-steps-inside/"><u>No More Black Screens in Fallout 4: Easy Troubleshooting Steps Inside!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-issues-when-internet-explorer-stops-responding/"><u>Resolving Issues: When Internet Explorer Stops Responding</u></a></li>
-<li><a href="https://win-answers.techidaily.com/reviving-corsairs-icue-software-a-guide-for-windows-11-users-facing-compatibility-problems/"><u>Reviving Corsair's iCUE Software: A Guide for Windows 11 Users Facing Compatibility Problems</u></a></li>
-<li><a href="https://win-tips.techidaily.com/step-by-step-guide-transferring-your-messages-from-icloud-to-iphonepc/"><u>Step-by-Step Guide: Transferring Your Messages From iCloud to iPhone/PC</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unpacking-the-advantages-for-android-devotees-and-makers-from-googles-historic-legal-settlement/"><u>Unpacking the Advantages for Android Devotees & Makers From Google's Historic Legal Settlement</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-how-to-access-and-watch-nonstop-nba-live-stream-free-online/"><u>Updated How To Access and Watch Nonstop NBA Live Stream Free Online</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-hdr-tech-showdown-sns-vs-alternatives/"><u>[New] HDR Tech Showdown SNS vs Alternatives</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-top-tier-iphone-camera-apps-for-amateurs-and-experts-alike/"><u>[Updated] 2024 Approved Top-Tier iPhone Camera Apps for Amateurs & Experts Alike</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/apple-watch-ultra-discounted-like-never-before-unmissable-holiday-deals-revealed-by-zdnet/"><u>Apple Watch Ultra Discounted Like Never Before – Unmissable Holiday Deals Revealed by ZDNet</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/bup/"><u>BUPファイルが動かない時の解決手段と最適な再生プロセス：同等の意味を持つアクション指南</u></a></li>
+<li><a href="https://win-answers.techidaily.com/doom-eternal-expert-tips-on-fixing-persistent-crash-problems/"><u>DOOM Eternal: Expert Tips on Fixing Persistent Crash Problems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/e-ink-revolution-turning-a-simple-kindle-device-into-a-portable-screen-with-devs-guidance/"><u>E Ink Revolution: Turning a Simple Kindle Device Into a Portable Screen with Dev's Guidance</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhance-your-fifa-22-gameplay-tips-to-prevent-crashing-on-desktop-systems/"><u>Enhance Your FIFA 22 Gameplay: Tips to Prevent Crashing on Desktop Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723008641116-football-manager-2022-release-delayed-heres-how-to-access-it-now/"><u>Football Manager 2022 Release Delayed? Here's How To Access It Now!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-we-fixed-the-sea-of-thieves-game-launch-glitch-successfully/"><u>How We Fixed the Sea of Thieves Game Launch Glitch Successfully</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-immersive-escapes-how-to-choose-between-rift-vive-ps-vr/"><u>In 2024, Immersive Escapes How to Choose Between Rift, Vive, PS VR?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-roblox-error-code-277-essential-fixes-and-tricks-for-your-pc/"><u>Overcoming Roblox Error Code 277: Essential Fixes & Tricks for Your PC</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/topgratis-schijfforming-toetsprogramma-voor-windows-11-de-beste-oplossingen/"><u>Topgratis Schijfforming Toetsprogramma Voor Windows 11: De Beste Oplossingen</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-stuck-menus-on-pcconsole-during-cold-war-campaigns/"><u>Troubleshooting Stuck Menus on PC/Console During Cold War Campaigns</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-how-to-fix-recurring-overwatch-ncrashes-in-pc-gaming-sessions/"><u>Troubleshooting Tips: How to Fix Recurring Overwatch nCrashes in PC Gaming Sessions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unlock-the-wasteland-latest-strategies-to-overcome-fallout-3-starting-difficulties/"><u>Unlock the Wasteland: Latest Strategies to Overcome Fallout 3 Starting Difficulties</u></a></li>
 </ul></div>
 

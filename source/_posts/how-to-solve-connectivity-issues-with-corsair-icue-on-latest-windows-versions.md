@@ -1,7 +1,7 @@
 ---
 title: How to Solve Connectivity Issues with Corsair iCUE on Latest Windows Versions
-date: 2024-12-02T16:29:35.562Z
-updated: 2024-12-06T16:51:00.184Z
+date: 2024-12-11T17:24:52.090Z
+updated: 2024-12-12T16:54:38.390Z
 tags:
   - win11
   - win10
@@ -57,7 +57,7 @@ USB ports
 If this trick doesn’t help, simply move on to the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Disable**Personal Hotspot** on your iPhone
@@ -73,10 +73,14 @@ If you don’t know how, use these steps to check:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/disable-personal-hotspot-tethering-2.jpg)
 3. Now try to reconnect your iPhone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If it’s not tethering in your case, simply check out the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Make sure your drivers are up to date
@@ -102,6 +106,10 @@ If it’s not tethering in your case, simply check out the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/update-all.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you’ve updated all your drivers, restart your PC and check if iTunes is working now.
 
  If the latest drivers don’t do the charm for you, take a look at the next fix below.
@@ -126,10 +134,6 @@ You can use the following steps to remove iTunes completely.
 **Apple Application Support 64-bit**  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/uninstall-itunes-0.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After you uninstall a component, you might be prompted to restart your computer. Don’t reboot until you’ve finished removing all of the components.
 
 Then you need to remove the remaining files:
@@ -144,10 +148,6 @@ Then you need to remove the remaining files:
 3. Open the**Common Files** folder, then the**Apple** folder.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/uninstall-itunes-1.jpg)
 4. Delete the following folders if exist:  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  **Mobile Device Support**  
  **Apple Application Support**  
@@ -166,7 +166,7 @@ Then remove the following folders according to your operating system.
  If reinstalling iTunes doesn’t give you luck, you can continue to the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Install all Windows updates
@@ -177,10 +177,14 @@ Then remove the following folders according to your operating system.
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
@@ -190,7 +194,7 @@ Then remove the following folders according to your operating system.
 If the issue lingers on, try the next solution below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Try your iPhone on another PC
@@ -209,10 +213,6 @@ If the issue lingers on, try the next solution below.
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
@@ -240,24 +240,18 @@ If the issue lingers on, try the next solution below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-achieving-professionalism-with-zoom-filter-applications/"><u>[New] 2024 Approved Achieving Professionalism with Zoom Filter Applications</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-how-to-effectively-share-youtube-links-on-instagrams-story-feature/"><u>[New] How to Effectively Share YouTube Links on Instagram's Story Feature</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-meme-tastic-creativity-tips-on-standing-out-in-virtual-worlds/"><u>[New] Meme-Tastic Creativity Tips on Standing Out in Virtual Worlds</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-quick-fixes-to-keep-your-photos-app-fixed-on-win-11-for-2024/"><u>[New] Quick Fixes to Keep Your Photos App Fixed on Win 11 for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-in-video-earnings-techno-gamers-guide/"><u>[Updated] In 2024, In-Video Earnings Techno Gamers' Guide</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-proven-methods-to-record-flawlessly-using-nvidia-for-2024/"><u>[Updated] Proven Methods to Record Flawlessly Using NVIDIA for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/efficient-gaming-footage-with-camcapture/"><u>Efficient Gaming Footage with CamCapture</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-latest-nvidia-geforce-rtx-2-groper-drivers-for-windows-11-free-downloads/"><u>Get the Latest NVIDIA GeForce RTX 2 Groper Drivers for Windows 11 - Free Downloads</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-play-8t-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Honor Play 8T Phone without Any Data Loss</u></a></li>
-<li><a href="https://win-answers.techidaily.com/naraka-online-experience-optimization-overcoming-game-lags-and-delays/"><u>Naraka Online Experience Optimization: Overcoming Game Lags and Delays</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-fixes-for-smooth-play-improve-your-frames-per-second-fps-on-elden-ring/"><u>Quick Fixes for Smooth Play: Improve Your Frames Per Second (FPS) on Elden Ring</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-fixes-restoring-voice-chat-functionality-in-your-amidst-of-adventure-game-on-pc/"><u>Quick Fixes: Restoring Voice Chat Functionality in Your Amidst of Adventure Game on PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolve-pc-issues-fix-steams-inability-to-recognize-gamepadcontroller/"><u>Resolve PC Issues: Fix Steam's Inability to Recognize Gamepad/Controller</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solve-persistent-lag-in-serious-sam-4-debugging-and-optimizing-gameplay-on-pc-systems/"><u>Solve Persistent Lag in Serious Sam 4: Debugging & Optimizing Gameplay on PC Systems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-solution-for-steam-content-encryption-barrier-fixes/"><u>Step-by-Step Solution for Steam Content Encryption Barrier Fixes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-tutorial-to-eliminate-lag-in-street-fighter-6-for-enhanced-pc-play-experience/"><u>Step-by-Step Tutorial to Eliminate Lag in Street Fighter 6 for Enhanced PC Play Experience</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-skyline-city-building-issues-pc-edition/"><u>Troubleshooting Skyline City Building Issues - PC Edition</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-success-escaping-the-loop-of-fortnites-load-screen-glitches/"><u>Troubleshooting Success: Escaping the Loop of Fortnite's Load Screen Glitches</u></a></li>
-<li><a href="https://win-dash.techidaily.com/ultimate-guide-accessing-and-updating-microsoft-drivers-for-windows-1187-users/"><u>Ultimate Guide: Accessing and Updating Microsoft Drivers for Windows 11/8/7 Users</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-the-ultimate-zoom-setup-playbook/"><u>[New] 2024 Approved The Ultimate Zoom Setup Playbook</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-flawless-foundations-top-youtube-skincare-routines/"><u>[Updated] Flawless Foundations Top YouTube Skincare Routines</u></a></li>
+<li><a href="https://win-answers.techidaily.com/get-your-assassins-creed-revelations-up-and-running-fixes-and-tips-to-resolve-startup-problems/"><u>Get Your Assassin's Creed Revelations Up and Running: Fixes & Tips to Resolve Startup Problems</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-installupdate-intel-iris-plus-graphics-amoled-655-driver-on-windows-10-or-11/"><u>How to Install/Update Intel Iris Plus Graphics Amoled 655 Driver on Windows 10 or 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-prevent-hitman-3-from-freezing-on-your-desktop-proven-methods-and-advice-for-gamers-updated-2n14/"><u>How to Prevent HITMAN 3 From Freezing on Your Desktop: Proven Methods & Advice for Gamers, Updated 2N14</u></a></li>
+<li><a href="https://win-answers.techidaily.com/immortals-adventure-game-unleashed-the-road-from-pending-to-now-available-immortals-fenyx-rising/"><u>Immortals' Adventure Game Unleashed: The Road From Pending to Now-Available Immortal's Fenyx Rising</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-enhancing-text-clarity-in-high-quality-obs-output/"><u>In 2024, Enhancing Text Clarity in High Quality OBS Output</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-how-to-earn-facebooks-trusted-prestigious-symbol/"><u>In 2024, How to Earn Facebook's Trusted, Prestigious Symbol</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723007059561-lost-ark-quiet-dilemma-heres-how-you-can-restore-your-game-sounds/"><u>Lost Ark Quiet Dilemma? Here's How You Can Restore Your Game Sounds!</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/one-minute-mastery-of-fades-for-2024/"><u>One-Minute Mastery of Fades for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/overcome-netflix-watch-time-restrictions-with-this-easy-hack/"><u>Overcome Netflix Watch Time Restrictions with This Easy Hack</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-stalls-in-pathfinder-wrath-of-the-righteous-for-windows-gaming-experience/"><u>Resolving Stalls in Pathfinder: Wrath of the Righteous for Windows Gaming Experience</u></a></li>
+<li><a href="https://driver-download.techidaily.com/speedy-driver-download-tips-connecting-the-ideal-keyboard-to-your-windows-7-device/"><u>Speedy Driver Download Tips: Connecting the Ideal Keyboard to Your Windows 7 Device</u></a></li>
 </ul></div>
 

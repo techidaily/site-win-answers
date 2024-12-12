@@ -1,7 +1,7 @@
 ---
 title: "Resolved: FPS Fluctuations in Resident Evil Village on PC - A Detailed Analysis"
-date: 2024-11-15T22:36:00.044Z
-updated: 2024-11-16T20:53:25.810Z
+date: 2024-12-08T16:04:18.260Z
+updated: 2024-12-12T17:53:22.778Z
 tags:
   - win11
   - win10
@@ -51,14 +51,11 @@ Immortals Fenyx Rising, the latest action-adventure game released by Ubisoft, is
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-14.jpg)
 3. Click the**Compatibility** tab. Then, check the box next to**Run this program as an administrator** and click**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/im-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Run the game again to check if your problem gets fixed. If not, continue to the third method.
 
@@ -80,10 +77,7 @@ There are mainly two ways you can do this:
 ![amd 6800 xt driver download](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-6800xt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You should expect a smooth gameplay after all the device drivers are updated. But if the game still won’t launch, check out the fixes below.
@@ -97,16 +91,13 @@ There are mainly two ways you can do this:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/im-1.jpg)
 3. Click**Verify files** .  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-2.jpg)
 
  Wait until the scan and repair process completes, and restart your game to test. If the not launching problem persists, keep reading the last fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5 – Use dedicated graphics card
 
@@ -122,21 +113,11 @@ There are mainly two ways you can do this:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-3-1.jpg)
 4. Select**High-performance NVIDIA processor** from the drop-down menu. Then, click**Apply** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-4-1.jpg)  
  Note: If you have an AMD graphics card, you could refer to this guide: **[How to Configure Switchable Graphics using Radeon Settings](https://www.amd.com/en/support/kb/faq/dh-017)**  .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Type**graphics** in the Windows search bar, and click**Graphics settings** .  
@@ -144,23 +125,22 @@ There are mainly two ways you can do this:
 6. Click**Browse** and add Immortals Fenyx Rising.  
 
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-7.jpg)
 7. After the game is added, select it and click**Options** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-8.jpg)
 8. On the pop-up menu, click**High performance** and click**Save** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now check if Immortals Fenyx Rising is able to launch. If all the methods above fail to get your game working, try contacting **[Ubisoft support](https://support.ubisoft.com/en-US)**  for further assistance.
 
@@ -185,17 +165,22 @@ There are mainly two ways you can do this:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-best-storytelling-youtube-channels-to-follow-this-year-for-2024/"><u>[New] Best Storytelling YouTube Channels to Follow This Year for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-enhancing-visuals-a-compreenas-guide-to-zoomed-snapshots-for-2024/"><u>[New] Enhancing Visuals A Compreenas Guide to Zoomed Snapshots for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-thriving-on-instagram-strategies-for-powerful-video-marketing/"><u>[New] Thriving on Instagram Strategies for Powerful Video Marketing</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-hacks-for-a-better-life-9-innovative-tips-to-simplify-tasks/"><u>ChatGPT Hacks for a Better Life: 9 Innovative Tips to Simplify Tasks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-an-impressive-tech-career-tips-for-writing-a-winning-software-engineers-cv-techrepublic/"><u>Crafting an Impressive Tech Career: Tips for Writing a Winning Software Engineer's CV | TechRepublic</u></a></li>
-<li><a href="https://fox-links.techidaily.com/discover-the-7-premier-tools-to-convert-digital-work-as-nfts-for-2024/"><u>Discover the 7 Premier Tools to Convert Digital Work as NFTs for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-critical-bug-causing-crashes-in-back-4-blood-ue4-the-ultimate-solution/"><u>Fixing the Critical Bug Causing Crashes in Back 4 Blood UE4: The Ultimate Solution</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-dreaded-steamvr-error-code-308-a-comprehensive-guide/"><u>Fixing the Dreaded SteamVR Error Code 308: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-to-stabilize-the-unreliable-fuser-program-on-your-desktop-computer/"><u>Step-by-Step Guide to Stabilize the Unreliable Fuser Program on Your Desktop Computer</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-resolving-stability-problems-in-horizon-zero-dawn-for-pc-gamers/"><u>Troubleshooting Guide: Resolving Stability Problems in Horizon Zero Dawn for PC Gamers</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unblocked-scanner-operation-in-windows-11-os/"><u>Unblocked Scanner Operation in Windows 11 OS</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/7kcc7jw9ioyxhuuklcdtmztrqbqg7iqk7ygs66awioumroy9psdshoztlittirjsm6jslrqglsdrrltro4wg6riw64qlioq4soumgce/"><u>제약 없는 화면 스크린 리콥 소프트웨어 - 무료 기능 기대!</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-warriors-path-a-list-of-intense-fighting-games/"><u>[New] Warrior's Path A List of Intense Fighting Games</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-comprehensive-overview-of-google-docs-voice-input-functionality/"><u>2024 Approved Comprehensive Overview of Google Docs Voice Input Functionality</u></a></li>
+<li><a href="https://win-answers.techidaily.com/avoid-game-disruptions-resolving-mount-and-blade-ii-bannerlords-crash-troubles/"><u>Avoid Game Disruptions - Resolving Mount & Blade II: Bannerlord's Crash Troubles</u></a></li>
+<li><a href="https://win-answers.techidaily.com/complete-guide-solving-nioh-2-game-crashes-on-any-platform/"><u>Complete Guide: Solving 'Nioh 2' Game Crashes on Any Platform</u></a></li>
+<li><a href="https://win-answers.techidaily.com/discord-connectivity-woes-a-comprehensive-2024-troubleshooting-manual/"><u>Discord Connectivity Woes? A Comprehensive 2024 Troubleshooting Manual!</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/essential-guidelines-masterfully-managing-photos-between-ios-devices-and-computers/"><u>Essential Guidelines: Masterfully Managing Photos Between iOS Devices and Computers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/football-manager-2021-how-to-fix-persistent-launch-issues/"><u>Football Manager 2021: How to Fix Persistent Launch Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/helldivers-ii-not-loading-on-steam-discover-quick-solutions/"><u>Helldivers II Not Loading on Steam - Discover Quick Solutions!</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>How to Change Location on TikTok to See More Content On your Apple iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-enable-detection-of-your-gpu-by-msi-afterburner-on-new-windows-11-systems/"><u>How to Enable Detection of Your GPU by MSI Afterburner on New Windows 11 Systems</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-6-plus-without-swiping-up-6-ways-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 6 Plus Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-virtual-experiences-galore-the-best-vr-playback-devices-for-pcs-revealed/"><u>In 2024, Virtual Experiences Galore The Best VR Playback Devices for PCs Revealed</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723013926175-maplestory-startup-troubles-heres-how-you-can-fix-it/"><u>MapleStory Startup Troubles? Here’s How You Can Fix It</u></a></li>
+<li><a href="https://extra-information.techidaily.com/novices-pathway-top-essential-gopro-supplementary-gear/"><u>Novice's Pathway Top Essential GoPro Supplementary Gear</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/perfecting-your-presence-skills-to-master-with-logitech-cam-for-2024/"><u>Perfecting Your Presence Skills to Master with Logitech Cam for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stop-cyberpunk-2027-disconnecting-on-pc-top-troubleshooting-steps-revealed/"><u>Stop Cyberpunk 2027 Disconnecting on PC - Top Troubleshooting Steps Revealed</u></a></li>
+<li><a href="https://win11.techidaily.com/unblock-your-pcs-usb-troubleshooting-guide-for-windows-users/"><u>Unblock Your PC's USB: Troubleshooting Guide for Windows Users</u></a></li>
 </ul></div>
 

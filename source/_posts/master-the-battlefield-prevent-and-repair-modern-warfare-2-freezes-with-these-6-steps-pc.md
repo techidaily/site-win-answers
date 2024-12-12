@@ -1,7 +1,7 @@
 ---
 title: "Master the Battlefield: Prevent and Repair 'Modern Warfare 2' Freezes with These 6 Steps (PC)"
-date: 2024-11-13T17:08:22.871Z
-updated: 2024-11-16T18:02:58.738Z
+date: 2024-12-07T17:45:49.213Z
+updated: 2024-12-12T16:32:58.129Z
 tags:
   - win11
   - win10
@@ -63,6 +63,10 @@ thumbnail: https://thmb.techidaily.com/cf39f69dc8e53bbf12e067db4360c2c57f8f63b26
 
  If the game crashes on your powerful gaming rig, you can check out the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Verify your game files
 
  The constant crash may indicate an**integrity issue with your game files** . If that’s the case, your game might keep crashing at a certain scene or chapter. You should make sure there’s nothing wrong with your game files.
@@ -77,21 +81,26 @@ Here’s an example of how to check the game integrity on Steam:
 3. Wait until the checking to finish.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You can then launch Detroit: Become Human and see if it crashes again.
 
  If this solution doesn’t work for you, please continue to the next one.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3:**Close all** background**applications**
 
  Detroit: Become Human is a demanding game, and the crash can occur when you have some other large programs eating up your CPU resources and RAM. So if you’re running big programs like**Chrome** ,**Discord** or**Windows Update** , be sure to close them before launching your game.
 
 If this fix failed to solve your issue, please move on to the next one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -117,13 +126,6 @@ If this fix failed to solve your issue, please move on to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-all-rtx-3090.jpg)
 
@@ -132,13 +134,6 @@ If this fix failed to solve your issue, please move on to the next one.
  Once you’ve updated your graphics driver, restart your PC and see if Detroit: Become Human crashes again.
 
  If this fix doesn’t give you any luck, take a look at the next one.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Install all Windows updates
 
@@ -152,25 +147,11 @@ Here’s how:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click Check for updates.
 
  After installing all system updates, restart your computer and check if Detroit: Become Human crashes again.
 
  If this solution doesn’t work for you, simply try the next one below.
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Disable in-game overlays
 
@@ -182,6 +163,10 @@ For example, you can follow these steps to disable Steam overlay:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/steam-disable-overlay.jpg)
 2. From the left menu, select**In-Game** . Under**The Steam Overlay** section, uncheck these boxes. Then click**OK** to save the changes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/disabel-steam-overlay.jpg)
 3. Launch Detroit: Become Human and test your gameplay.
 
@@ -192,10 +177,7 @@ If the crashing reappears, please check out the next fix.
  Some gamers reported that they managed to stop the crash in Detroit: Become Human by**unplugging their controllers** . It’s true that a controller give you a better experience, but they would sometimes run into compatibility issues with new games. Given that, if you’re using controllers or joysticks, you can try to unplug them before starting the game.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 8: Roll back your graphics driver
@@ -223,22 +205,20 @@ If the crashing reappears, please check out the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-answers.techidaily.com/2024-fix-nba-2k21-stuck-on-black-loading-screen/"><u>[2024 Fix] NBA 2K21 Stuck on Black Loading Screen</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-creating-a-personal-brand-on-facebook/"><u>[New] Creating a Personal Brand on Facebook</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/astering-the-art-of-design-selecting-ideal-dimensions-for-yt-branding/"><u>[New] Mastering the Art of Design Selecting Ideal Dimensions for YT Branding</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-enter-the-world-of-online-promotion-exclusive-free-youtube-banner-access/"><u>[Updated] Enter the World of Online Promotion Exclusive Free YouTube Banner Access!</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-go-beyond-screens-how-to-watch-360-videos-and-vr-via-android/"><u>[Updated] Go Beyond Screens How to Watch 360 Videos & VR via Android</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-celebrating-the-greats-anime-opens-of-all-time/"><u>[Updated] In 2024, Celebrating the Greats Anime Opens of All Time</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1726028639456-4k/"><u>「4Kビデオの軽量化：クリッピング技術で最適化！」</u></a></li>
-<li><a href="https://win-answers.techidaily.com/dying-light-2-optimization-tips-how-to-fix-frame-rate-issues-and-stuttering-in-pc-version/"><u>Dying Light 2 Optimization Tips: How to Fix Frame Rate Issues & Stuttering in PC Version</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixes-for-persistent-outlook-app-crashes-expert-solutions/"><u>Fixes for Persistent Outlook App Crashes - Expert Solutions</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/from-chaos-to-clarity-combining-obs-with-zoom/"><u>From Chaos to Clarity Combining OBS with Zoom</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-play-avchd-mts-files-on-samsung-galaxy-a14-4g-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to play AVCHD MTS files on Samsung Galaxy A14 4G?</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-demystifying-how-luts-enhance-your-creative-vision/"><u>In 2024, Demystifying How LUTs Enhance Your Creative Vision</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723009566005-mastering-subnautica-below-zero-on-your-pc-no-more-frustrating-freezes/"><u>Mastering Subnautica Below Zero on Your PC - No More Frustrating Freezes!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/stabilize-your-pc-experience-with-these-tips-to-prevent-halo-infinite-crashes/"><u>Stabilize Your PC Experience with These Tips to Prevent Halo Infinite Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-solutions-to-overcome-the-0xc19-001e1-issue-in-windows-11/"><u>Step-by-Step Solutions to Overcome the 0Xc19 001E1 Issue in Windows 11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-how-to-stop-diablo-iv-from-crashing-on-playstation-and-xbox/"><u>Troubleshooting Guide: How to Stop Diablo IV From Crashing on PlayStation and Xbox</u></a></li>
-<li><a href="https://win-answers.techidaily.com/yakuza-amoored-pc-version-stability-improvements-and-patch-notes/"><u>Yakuza Amoored: PC Version Stability Improvements and Patch Notes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-analysis-of-sonys-high-definition-video-gear/"><u>[Updated] Expert Analysis of Sony's High-Definition Video Gear</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-quick-turn-artistry-professionally-crafted-valorant-game-imagery/"><u>[Updated] In 2024, Quick-Turn Artistry Professionally Crafted Valorant Game Imagery</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/capture-and-share-the-top-10-free-screenshot-apps-on-macos/"><u>Capture & Share The Top 10 FREE Screenshot Apps on MacOS</u></a></li>
+<li><a href="https://win-answers.techidaily.com/escape-from-tarkov-hack-troubleshooting-the-anticheat-connection-error/"><u>Escape From Tarkov Hack: Troubleshooting the Anticheat Connection Error</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-overcoming-stability-problems-with-escape-from-tarkov-on-your-personal-computer/"><u>Expert Advice: Overcoming Stability Problems with 'Escape From Tarkov' On Your Personal Computer</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-lava-yuva-3-pro-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Lava Yuva 3 Pro to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-the-art-of-seamless-gaming-in-v-rising-solving-stutter-issues-on-your-pc/"><u>Mastering the Art of Seamless Gaming in V Rising: Solving Stutter Issues on Your PC</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/know-youtube-directives-for-successful-channels/"><u>Must-Know YouTube Directives for Successful Channels</u></a></li>
+<li><a href="https://win-answers.techidaily.com/oculus-link-screen-issues-6-fast-fixes-to-bring-back-your-vr-experience/"><u>Oculus Link Screen Issues? 6 Fast Fixes to Bring Back Your VR Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-fixing-steam-login-issues-a-step-by-step-guide/"><u>Resolved: Fixing Steam Login Issues - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solve-your-ark-survival-adventure-pc-game-crashes-using-these-9-effective-fixes/"><u>Solve Your ARK: Survival Adventure PC Game Crashes Using These 9 Effective Fixes!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/step-by-step-guide-adding-the-perfect-spanish-film-and-tv-series-add-ons-in-kodi/"><u>Step-by-Step Guide: Adding the Perfect Spanish Film and TV Series Add-Ons in Kodi</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-starts-problems-with-fall-guys-tips-and-solutions/"><u>Troubleshooting Starts Problems with Fall Guys – Tips & Solutions</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/uninterrupted-snapstreaks-techniques-for-success/"><u>Uninterrupted Snapstreaks Techniques for Success</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/unlock-the-full-potential-of-your-gadgets-to-record-youtube-live/"><u>Unlock the Full Potential of Your Gadgets to Record YouTube Live</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Improving Reaction Times with FPS Optimization Tips for Naraka: Bladepoint"
-date: 2024-12-05T16:26:16.949Z
-updated: 2024-12-06T16:55:07.558Z
+date: 2024-12-07T18:25:50.280Z
+updated: 2024-12-12T17:15:38.008Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/1cd4d8b30d4bc3438d0d666b54184cb335ed999f5
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes…
 
 [1: Close background programs](https://tools.techidaily.com/drivereasy/download/)
@@ -47,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/1cd4d8b30d4bc3438d0d666b54184cb335ed999f5
 [*Known issues on Sonic studio virtual mixer driver](https://tools.techidaily.com/drivereasy/download/)
 
  Before we dive into anything advanced, make sure you’ve tried to restart the game and your PC to see if it’s just a one-time random error.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## System requirements
 
@@ -69,10 +69,6 @@ thumbnail: https://thmb.techidaily.com/1cd4d8b30d4bc3438d0d666b54184cb335ed999f5
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-29-08.jpg)
 2. Under the**Processes** tab, look for the processes that are CPU, memory, and network-hogging. Take Chrome here, for example, right-click it then click**End task** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-04-25_17-41-30.jpg)
 
 If this doesn’t solve your problem, try the next fix.
@@ -92,14 +88,14 @@ If this doesn’t solve your problem, try the next fix.
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your PC for the new driver to take effect. If your game still crashes after you updated the graphics driver, try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 3: Verify your game files
 
@@ -151,12 +147,12 @@ If this doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/advanced-performance-settings.jpg)
 4. Again switch to the**Advanced** tab, under the Virtual memory section, click**Change** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/virtual-memory-change.jpg)
 5. Now you’ll see the paging file size on your PC.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-10_11-54-07.jpg)
 
@@ -167,10 +163,6 @@ If this doesn’t solve your problem, try the next fix.
 1. UNCHECK the box of**Automatically manage paging file size for all drives** , then select**Custom size** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-10_11-54-55.jpg)
 2. Use the below formulas to calculate the values you should set:  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 _**1GB = 1024 MB**_  
  _**Initial size (MB) = 1.5 \* the amount of RAM (GB) on your PC**_  
@@ -193,20 +185,24 @@ If your game still crashes, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/check-for-updates.png)
 2. Windows will scan for any available updates. If there are_no_ available updates, you’ll get a**You’re up to date** sign. You could also click**View all optional updates** and install them if needed.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/up-to-date.png)
 3. If there are available updates, Windows will automatically download them for you. Follow instructions to complete the installation if needed.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/windows-update.jpg)
 4. Restart your PC to let it take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If this doesn’t solve your problem, try the last fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 7: Perform a clean boot
@@ -221,12 +217,12 @@ If this doesn’t solve your problem, try the last fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-38-17.jpg)
 2. Under the**Services** tab, check**Hide all Microsoft services** , then click**Disable all** and**OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-40-15.jpg)
 3. Switch to the**Startup** tab, click**Open Task Manager** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  (Windows 7 users: right-click anywhere empty on your taskbar to find the option of task manager.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-45-12.jpg)
@@ -243,7 +239,7 @@ If this doesn’t solve your problem, try the last fix.
 2. Under the**Services** tab, tick the**Hide all Microsoft services** checkbox**,** then tick the checkboxes in front of**the first five items** in the list.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then click**Apply** and**OK** .  
@@ -261,7 +257,7 @@ If this doesn’t solve your problem, try the last fix.
 2. Switch to the**Startup** tab, and**enable the first five startup items** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-59-36.jpg)
@@ -274,6 +270,10 @@ If this doesn’t solve your problem, try the last fix.
 
  Known compatibility issues from Sonic studio virtual mixer driver have been found, per the developer, and the current workaround is to disable this device. If you want to check if you have this device or want to disable it, go to**Sound Settings >> Manage sound devices** . If you have Sonic studio virtual mixer, you’ll be able to see it there and disable it if needed.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-09-03_11-07-51.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -298,24 +298,20 @@ If this doesn’t solve your problem, try the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-is-it-legal-to-record-youtube/"><u>[Updated] In 2024, Is It Legal to Record YouTube?</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-solving-the-yous-problem-seeing-myself-on-social-media/"><u>2024 Approved Solving the 'You's Problem Seeing Myself on Social Media</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/becoming-a-star-spectator-on-the-social-stage/"><u>Becoming a Star Spectator on the Social Stage</u></a></li>
-<li><a href="https://techtrends.techidaily.com/convert-wmv-files-to-mp4-for-free-web-based-tools-with-movavicom/"><u>Convert WMV Files to MP4 For Free Web-Based Tools with Movavi.com</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-methods-to-resolve-elevated-cpu-utilization-in-god-of-war-game/"><u>Effective Methods to Resolve Elevated CPU Utilization in God of War Game</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-fixes-for-persistent-crashing-issues-in-the-nioh-amoji-108e9f75b4d0-complete-edition/"><u>Expert Fixes for Persistent Crashing Issues in the Nioh Amoji-108e9f75b4d0 Complete Edition</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/find-your-digital-companion-the-top-6-youtube-personality-puzzles/"><u>Find Your Digital Companion The Top 6 YouTube Personality Puzzles</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-issues-for-successful-play-of-modern-warfare-2-a-comprehensive-guide/"><u>Fixing Issues for Successful Play of Modern Warfare 2: A Comprehensive Guide</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/gadget-geeks-roundup-of-exceptional-wireless-mice-choices-for-the-year-234/"><u>Gadget Geek's Roundup of Exceptional Wireless Mice Choices for the Year 2^34</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-a-non-responsive-logitech-g-hub-on-your-pc/"><u>How to Fix a Non-Responsive Logitech G Hub on Your PC</u></a></li>
-<li><a href="https://android-frp.techidaily.com/huawei-nova-y91-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Huawei Nova Y91 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/increase-frame-rates-reduce-stutters-a-guide-to-enhance-playing-splitgate/"><u>Increase Frame Rates, Reduce Stutters – A Guide to Enhance Playing Splitgate</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723007434577-life-is-strange-true-colors-bug-fixed-discover-the-quick-fixes-and-tips/"><u>Life Is Strange True Colors Bug Fixed? Discover the Quick Fixes and Tips</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-ark-survival-evolved-ultimate-guide-to-achieving-the-fastest-fps-on-pc/"><u>Mastering ARK: Survival Evolved - Ultimate Guide to Achieving the Fastest FPS on PC</u></a></li>
-<li><a href="https://extra-support.techidaily.com/premier-20-unrestricted-pubg-montage-samples-for-2024/"><u>Premier 20 Unrestricted PUBG Montage Samples for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/restoring-sound-in-lost-ark-game-troubleshooting-guide/"><u>Restoring Sound in Lost Ark Game: Troubleshooting Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/revolutionary-tips-for-smoothing-out-gaming-experience-at-high-fps-your-ultimate-solution-to-stuttering-games-in-202imagesiconsexternal-linksvg/"><u>Revolutionary Tips for Smoothing Out Gaming Experience at High FPS - Your Ultimate Solution to Stuttering Games in 202([![](/images/icons/external-link.svg))</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-ranking-gaming-seating-solutions-a-comprehensive-guide/"><u>Top-Ranking Gaming Seating Solutions : A Comprehensive Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-windows-ignoring-local-lsa-warning/"><u>Troubleshooting Windows: Ignoring Local LSA Warning</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-30fps-versus-60fps-best-choice-for-clear-video-capture/"><u>[New] 30Fps versus 60Fps - Best Choice for Clear Video Capture</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/nleash-your-contents-potential-organic-growth-tactics-for-2024/"><u>[New] Unleash Your Content's Potential Organic Growth Tactics for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-windows-10-syncing-guide-effortless-mov-file-management/"><u>2024 Approved Windows 10 Syncing Guide Effortless .mov File Management</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beating-the-failed-anticheat-linkage-error-expert-fix-for-players-of-eft/"><u>Beating the 'Failed Anticheat Linkage Error': Expert Fix for Players of EFT</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/education-focused-windows-11-se-launched-by-pc-manufacturers-exploring-new-possibilities-zdnet/"><u>Education-Focused Windows 11 SE Launched by PC Manufacturers: Exploring New Possibilities - ZDNet</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-newest-hid-keyboard-driver-updates-instantly/"><u>Get the Newest HID Keyboard Driver Updates Instantly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ghostwire-tokyo-on-pc-say-goodbye-to-crashes-and-enjoy-seamless-gaming/"><u>Ghostwire: Tokyo on PC – Say Goodbye to Crashes and Enjoy Seamless Gaming!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-naraka-bladepoints-sudden-disruptions-during-gaming-sessions/"><u>How to Fix Naraka: Bladepoint's Sudden Disruptions During Gaming Sessions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-stability-solutions-for-persistent-crashes-in-total-war-warhammer-iii/"><u>Mastering Stability: Solutions for Persistent Crashes in Total War: Warhammer III</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-guide-eradicating-the-warzone-directx-error-with-these-4-solutions/"><u>Quick Guide: Eradicating the 'Warzone DirectX Error' With These 4 Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-game-bugs-solutions-for-tales-of-arise-crashing-issues/"><u>Resolving Game Bugs: Solutions for 'Tales of Arise' Crashing Issues</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/screen-spectacular-sj6-vs-yi-4k-edition/"><u>Screen Spectacular SJ6 Vs. Yi 4K Edition</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-crashes-in-mass-effect-legendary-edition-solutions-for-pc-and-xbox/"><u>Troubleshooting Crashes in Mass Effect Legendary Edition: Solutions for PC and Xbox</u></a></li>
+<li><a href="https://win-answers.techidaily.com/understanding-the-latest-dota-2-valve-anti-cheat-vac-errors-solutions-gaming-community/"><u>Understanding the Latest Dota 2 Valve Anti-Cheat (VAC) Errors: Solutions Gaming Community</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/wireless-bliss-select-top-buds/"><u>Wireless Bliss: Select Top Buds</u></a></li>
 </ul></div>
 

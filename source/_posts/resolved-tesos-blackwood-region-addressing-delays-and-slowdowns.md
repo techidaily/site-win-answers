@@ -1,7 +1,7 @@
 ---
 title: "Resolved: TESO's Blackwood Region - Addressing Delays and Slowdowns"
-date: 2024-12-04T16:44:25.821Z
-updated: 2024-12-06T19:06:26.463Z
+date: 2024-12-06T19:09:12.695Z
+updated: 2024-12-12T16:18:06.629Z
 tags:
   - win11
   - win10
@@ -26,10 +26,6 @@ Sifu
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Here’s a list of fixes that have resolved the Sifu FPS drops for other PC players. You don’t have to try them all. Just work your way down the list until you find the one that does the trick.
@@ -42,6 +38,10 @@ Sifu
 6. **[Disable overlays](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Disable background recording and Xbox Game Bar](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Install the latest game patch
 
  The French studio Sloclap releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -49,10 +49,6 @@ Sifu
  If a patch is available, it will be detected by the Epic Games Launcher, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Launch Sifu and check if the in-game FPS is back to normal. If the FPS still drops, or if there are no new game patch available, move on to next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Update your graphics driver
 
@@ -74,13 +70,17 @@ There are mainly two methods for you to update the graphics driver:
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
 4. Once the driver is updated, reboot your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Optimize in-game graphics settings
@@ -111,6 +111,10 @@ There are mainly two methods for you to update the graphics driver:
 
  Launch Sifu after you modified the in-game graphics settings and see if its FPS still drops, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Modify graphics card settings
 
  According to many PC gamers, tweaking the graphics card settings in Nvidia or AMD control panel may also gain some in-game FPS boosts.
@@ -134,15 +138,7 @@ There are mainly two methods for you to update the graphics driver:
 2. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Launch Sifu and see if the in-game FPS increases. If not, move on to the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Change Windows power plan
 
@@ -151,6 +147,10 @@ There are mainly two methods for you to update the graphics driver:
 1. On your keyboard, press **the Windows logo key**  and **R** at the same time, then type **powercfg.cpl** and press **Enter** .  
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
@@ -180,14 +180,14 @@ There are mainly two methods for you to update the graphics driver:
 ![Windows 10 settings gaming](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-10-settings-gaming.jpg)
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
 
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Launch Sifu to see you can play it smoothly.
 
@@ -214,20 +214,24 @@ Launch Sifu to see you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-mics-and-more-discovering-the-audio-essential-that-matches-your-yt-vision/"><u>[New] 2024 Approved Mics & More Discovering the Audio Essential That Matches Your YT Vision</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-dimming-dynamics-understated-audio-alteration-in-garageband/"><u>[New] In 2024, Dimming Dynamics Understated Audio Alteration in Garageband</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-metaverse-gateway-top-8-vr-headsets-unveiled/"><u>[Updated] In 2024, Metaverse Gateway Top 8 VR Headsets Unveiled</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-monetary-milestones-steps-to-unlock-your-true-youtube-income-value/"><u>2024 Approved Monetary Milestones Steps to Unlock Your True YouTube Income Value</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-quick-engagement-techniques-for-zooms-camera-shots/"><u>2024 Approved Quick Engagement Techniques for Zoom’s Camera Shots</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-unveiling-sony-action-camera-x1000-performance/"><u>2024 Approved Unveiling Sony Action Camera X1000 Performance</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/dive-into-the-world-of-youtuber-shorts-for-2024/"><u>Dive Into the World of Youtuber Shorts for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/elevating-security-standards-extended-pins-on-modern-windows/"><u>Elevating Security Standards: Extended Pins on Modern Windows</u></a></li>
-<li><a href="https://win-answers.techidaily.com/error-code-0x00001338-in-call-of-duty-vanguard-pc-troubleshooting-and-solutions-unveiled/"><u>Error Code 0X00001338 in Call of Duty: Vanguard - PC Troubleshooting and Solutions Unveiled</u></a></li>
-<li><a href="https://win-answers.techidaily.com/from-pitch-to-play-diagnosing-and-correcting-blank-screens-in-overwatch/"><u>From Pitch to Play: Diagnosing and Correcting Blank Screens in Overwatch</u></a></li>
-<li><a href="https://win-answers.techidaily.com/optimizing-fallout-3-performance-for-a-smooth-experience-on-windows-11-devices/"><u>Optimizing Fallout 3 Performance for a Smooth Experience on Windows 11 Devices</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-fixes-for-the-error-message-internet-explorer-not-responding/"><u>Quick Fixes for the 'Error Message - Internet Explorer Not Responding'</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshoot-and-overcome-world-of-warcrafts-frequent-crashes-with-these-tips/"><u>Troubleshoot & Overcome World of Warcraft's Frequent Crashes with These Tips</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshoot-the-latest-war-thunder-game-crashing-issues-essential-guide-for-players/"><u>Troubleshoot the Latest War Thunder Game Crashing Issues: Essential Guide for Players</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-overcoming-modern-warfares-mw-deverror-6034-playstation-and-pc-strategies/"><u>Troubleshooting Tips for Overcoming Modern Warfare's MW DEV_ERROR 6034 - PlayStation & PC Strategies</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-depth-analysis-logitechs-4k-professional-cam-for-2024/"><u>[New] In-Depth Analysis Logitech's 4K Professional Cam for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unleash-potential-with-hero5-black-perfecting-cinematography-skills/"><u>[New] Unleash Potential with Hero5 Black Perfecting Cinematography Skills</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-iphone-filmmaking-achieving-complete-circles/"><u>[Updated] IPhone Filmmaking Achieving Complete Circles</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bypassing-the-stubborn-loading-screen-in-far-cry-5-solutions-inside/"><u>Bypassing the Stubborn Loading Screen in Far Cry 5 – Solutions Inside</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/enjoy-seamless-playback-with-the-updated-64-bit-handbrake-version-and-compatible-vlc-error-free/"><u>Enjoy Seamless Playback with the Updated 64-Bit HandBrake Version & Compatible VLC, Error-Free!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/error-resolution-for-code-12707-in-call-of-dutys-modern-warfare-3-a-comprehensive-solution/"><u>Error Resolution for Code 12707 in Call of Duty's Modern Warfare 3: A Comprehensive Solution</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-for-resolving-persistent-valorant-pc-game-crashes/"><u>Expert Tips for Resolving Persistent Valorant PC Game Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-guide-how-to-resolve-msi-afterburner-failure-in-detecting-gpus-on-windows-10-and-11/"><u>Fix Guide: How to Resolve MSI Afterburner Failure in Detecting GPUs on Windows 10 & 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-world-of-warcraft-wow-lags-effective-strategies-and-techniques/"><u>Fixing World of Warcraft (WoW) Lags: Effective Strategies and Techniques</u></a></li>
+<li><a href="https://win-answers.techidaily.com/halo-infinite-troubleshooting-how-to-overcome-the-notorious-black-screen-glitch/"><u>Halo Infinite Troubleshooting: How to Overcome the Notorious Black Screen Glitch</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-nubia-red-magic-9-proplus-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Nubia Red Magic 9 Pro+?</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-video-editing-on-a-budget-best-free-online-editors-for-chromebook/"><u>New 2024 Approved Video Editing on a Budget Best Free Online Editors for Chromebook</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-windows-11-connectivity-challenges-microsoft-wireless-display-adapter-solutions-revealed/"><u>Overcoming Windows 11 Connectivity Challenges: Microsoft Wireless Display Adapter Solutions Revealed</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-instruamo-for-downloading-and-setting-up-canon-dr-c225-drivers-on-windows-11108/"><u>Step-by-Step Instruamo for Downloading and Setting Up Canon DR-C225 Drivers on Windows 11/10/8</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-awaited-launch-of-immortals-fenyx-rising-problem-solved-and-game-is-live/"><u>The Awaited Launch of Immortals: Fenyx Rising – Problem Solved and Game Is Live!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-successfully-dealing-with-genshin-impact-error-4201/"><u>Troubleshooting Guide: Successfully Dealing With Genshin Impact Error 4201</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-resolving-street-fighter-6-lag-and-improving-pc-ping/"><u>Troubleshooting Steps: Resolving Street Fighter 6 Lag & Improving PC Ping</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unfreeze-chrome-easily-master-these-fixes-for-a-smooth-browsing-experience/"><u>Unfreeze Chrome Easily! Master These Fixes for a Smooth Browsing Experience</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210328456-9781937856700-warrior-pose/"><u>Warrior Pose | Free Book</u></a></li>
 </ul></div>
 

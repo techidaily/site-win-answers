@@ -1,7 +1,7 @@
 ---
 title: Essential Tips for Resolving Armored Core 6 (Fires of Rubicon) PC Game Crashes & Freezes
-date: 2024-11-13T19:39:21.221Z
-updated: 2024-11-16T21:21:40.087Z
+date: 2024-12-07T18:40:53.296Z
+updated: 2024-12-12T16:04:58.293Z
 tags:
   - win11
   - win10
@@ -57,13 +57,6 @@ ELEX II system requirements
 6. [**Repair corrupted system files**](https://tools.techidaily.com/drivereasy/download/)
 7. **[P](https://tools.techidaily.com/drivereasy/download/) [erform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Verify and repair game files
 
  Game crashing issues are often triggered by corrupted game files. You can verify and repair game files using Steam. Here’s how to do it:
@@ -73,25 +66,19 @@ ELEX II system requirements
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . If Steam finds anything wrong with the game files, it will re-download them from its official server.  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Depending on the size of the game files, it may take some time to verify all your game files.
 
  Launch ELEX II after the verifying process is complete. See if it crashes again. If this issue persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Update your graphics driver
 
@@ -107,6 +94,11 @@ ELEX II system requirements
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
@@ -123,10 +115,7 @@ ELEX II system requirements
  Run**ELEX II** again and check if the game crashes get fixed. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Disable overlays
@@ -143,10 +132,7 @@ ELEX II system requirements
  Run ELEX II and check if the it crashes again. If the game still crashes, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Temporarily disable anti-virus software
@@ -158,6 +144,10 @@ ELEX II system requirements
  Launch ELEX II and see if the game crashes after you disabled the anti-virus software on your PC.
 
 If this fix didn’t work, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Repair corrupted system files
 
@@ -176,14 +166,11 @@ If this fix didn’t work, try the next fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
-![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -199,25 +186,15 @@ If this fix didn’t work, try the next fix, below.
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
@@ -261,16 +238,24 @@ If this fix didn’t work, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-aesthetic-enhancement-font-integration-for-ae-for-2024/"><u>[New] Aesthetic Enhancement Font Integration for AE for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-balancing-focus-zooming-tips-for-clear-instagram-stories-for-2024/"><u>[Updated] Balancing Focus Zooming Tips for Clear Instagram Stories for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-mastering-photo-color-alteration-a-professionals-guide/"><u>[Updated] In 2024, Mastering Photo Color Alteration A Professional's Guide</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/comprehensive-tutorial-on-how-to-save-youtubed-opus-audio-files-successfully/"><u>Comprehensive Tutorial on How to Save YouTubed OPUS Audio Files Successfully</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-fixes-for-resolving-pc-gameplay-disruptions-in-wolcen-lords-of-mayhem/"><u>Effective Fixes for Resolving PC Gameplay Disruptions in Wolcen: Lords of Mayhem</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-fix-apple-iphone-13-mini-passcode-not-working-by-drfone-ios/"><u>How to Fix Apple iPhone 13 mini Passcode not Working?</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-make-music-accessible-with-a-well-designed-youtube-playlist/"><u>In 2024, Make Music Accessible with a Well-Designed YouTube Playlist</u></a></li>
-<li><a href="https://win-answers.techidaily.com/modern-warfare-2-stability-fixes-resolve-pc-performance-hiccups/"><u>Modern Warfare 2 Stability Fixes - Resolve PC Performance Hiccups</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-troubleshooting-guide-for-dead-by-daylight-fixing-error-code-8014/"><u>Resolved: Troubleshooting Guide for 'Dead By Daylight' - Fixing Error Code 8014</u></a></li>
-<li><a href="https://win-answers.techidaily.com/smooth-gaming-experience-effective-methods-to-enhance-elden-rings-fps/"><u>Smooth Gaming Experience: Effective Methods to Enhance Elden Ring's FPS</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-evolution-of-gaming-artistry-how-new-visuals-enhance-the-unforgettable-demons-souls-experience/"><u>The Evolution of Gaming Artistry: How New Visuals Enhance the Unforgettable Demon's Souls Experience</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-probing-instagrams-max-video-length-rule/"><u>[New] In 2024, Probing Instagram's Max Video Length Rule</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1-ideas-innovadoras-y-respuestas-eficaces-en-el-ambito-de-la-comunicacion-audiovisual/"><u>1. Ideas Innovadoras Y Respuestas Eficaces en El Ámbito De La Comunicación Audiovisual</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-boosting-engagement-the-art-of-sharing-videos-on-instagram/"><u>2024 Approved Boosting Engagement The Art of Sharing Videos on Instagram</u></a></li>
+<li><a href="https://win-answers.techidaily.com/addressing-fifa-21-startup-difficulties-a-comprehensive-solution-guide/"><u>Addressing FIFA 21 Startup Difficulties: A Comprehensive Solution Guide</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-oppo-find-n3-flip-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/awakening-obscured-windows-11-query-engine/"><u>Awakening Obscured Windows 11 Query Engine</u></a></li>
+<li><a href="https://win-answers.techidaily.com/boosting-your-gaming-ultimate-guide-to-solving-low-fps-issues-in-valorant/"><u>Boosting Your Gaming: Ultimate Guide to Solving Low FPS Issues in Valorant</u></a></li>
+<li><a href="https://win-answers.techidaily.com/essential-solutions-for-fixing-pacific-drive-not-starting-problem/"><u>Essential Solutions for Fixing Pacific Drive Not Starting Problem</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-your-issues-prevent-back-4-blood-from-continuously-crashing-on-pc/"><u>Fix Your Issues: Prevent 'Back 4 Blood' From Continuously Crashing on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-i-overcame-the-eternal-launch-loop-in-anthem-a-step-by-step-guide/"><u>How I Overcame The Eternal Launch Loop in Anthem - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-correctly-update-outdated-minecraft-video-card-drivers/"><u>How to Correctly Update Outdated Minecraft Video Card Drivers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/metavision-quest-selecting-the-most-advanced-vr-headset/"><u>Metavision Quest Selecting the Most Advanced VR Headset</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-gaming-woes-how-to-fix-ready-or-not-constant-crashes/"><u>PC Gaming Woes: How to Fix 'Ready Or Not' Constant Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-performance-issues-why-is-the-frame-rate-lower-in-farming-simulator-22/"><u>PC Performance Issues: Why Is the Frame Rate Lower in Farming Simulator 22?</u></a></li>
+<li><a href="https://fox-making.techidaily.com/share-functionality-explained-navigating-through-flipbuilders-sharing-tools/"><u>Share Functionality Explained: Navigating Through FlipBuilder's Sharing Tools</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-fixing-game-crashes-in-chinese-rpg-epic-of-the-bride-book-seven-for-windows/"><u>Troubleshooting: Fixing 'Game Crashes' In Chinese RPG Epic of the Bride - Book Seven for Windows</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/unlocking-ebooks-techniques-for-transforming-drm-encrypted-epub-into-compatible-kindle-editions/"><u>Unlocking eBooks: Techniques for Transforming DRM Encrypted EPUB Into Compatible Kindle Editions</u></a></li>
+<li><a href="https://fox-links.techidaily.com/unveiling-windows-11-a-compreayer-to-master-video-editing-techniques/"><u>Unveiling Windows 11 A Compreayer to Master Video Editing Techniques</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Oppo Find X6 Pro | Dr.fone</u></a></li>
 </ul></div>
 

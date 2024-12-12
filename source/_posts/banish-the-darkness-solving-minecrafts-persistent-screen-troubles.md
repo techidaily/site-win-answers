@@ -1,7 +1,7 @@
 ---
 title: "Banish the Darkness: Solving Minecraft's Persistent Screen Troubles"
-date: 2024-08-23T13:18:11.858Z
-updated: 2024-08-24T13:18:11.858Z
+date: 2024-12-11T18:37:27.656Z
+updated: 2024-12-12T16:28:32.566Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/798da70479f84a42f596309bd983075c08c6ee00e
 
 Spend a weekend playing World of Warcraft on your computer but there’s brightness flickering on the loading screen and while in the world, it could be frustrating. Don’t worry, you’re not the only one. This post is here to help.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. [Check the cable](https://tools.techidaily.com/drivereasy/download/)
@@ -24,6 +28,10 @@ Spend a weekend playing World of Warcraft on your computer but there’s brightn
 3. [Rolling back your driver](https://tools.techidaily.com/drivereasy/download/)
 4. [Change the screen refresh rate](https://tools.techidaily.com/drivereasy/download/)
 5. [Use windowed mode](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1: Check the cable
 
@@ -47,9 +55,6 @@ Spend a weekend playing World of Warcraft on your computer but there’s brightn
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 Restart your computer for the changes to take effect.
@@ -66,14 +71,12 @@ Restart your computer for the changes to take effect.
 5. Choose**Properties** . Head to the**Driver** tab and click**Roll Back Driver** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/roll-back-driver-1.jpg)
 6. Install the driver and reboot your PC.
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 7. Check the issue is persist or not.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 4: Change the screen refresh rate
 
  Change the screen refresh rate may fix the WOW screen flickering issue. Some users find lower your refresh rate from 144 to 120 or 100 can fix the issue, others think a low refresh rate is the culprit of the issue. You can change the rate as you like and see if the issue is resolved.
@@ -81,19 +84,20 @@ Restart your computer for the changes to take effect.
 1. Right-click on desktop and select **Display settings** .  
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/display-settings-1.png)
 2. Scroll down to find**Advanced display settings** .  
+
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-43-07.jpg)
 3. Click **Display adapter properties** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-44-09.jpg)
 4. Head to the **Monitor** tab, change the Screen refresh rate as you like.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-44-14.jpg)
 5. Click **Apply** \> **OK** to save the changes.
 6. Restart your computer and check to see if the problem resolves.
@@ -118,8 +122,6 @@ Restart your computer for the changes to take effect.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -127,4 +129,22 @@ Restart your computer for the changes to take effect.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-nine-techniques-for-reversing-livestream-engagement/"><u>[New] In 2024, Nine Techniques for Reversing Livestream Engagement</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gimbal-mastery-7-drone-pros-recommended/"><u>[Updated] Gimbal Mastery 7 Drone Pros Recommended</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-leading-edge-group-chat-apps-on-android-5plus-users-for-2024/"><u>[Updated] Leading Edge Group Chat Apps on Android (5+ Users) for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/assassins-creed-valhalla-pc-game-stability-how-to-resolve-persistent-crashes/"><u>Assassin's Creed: Valhalla PC Game Stability - How to Resolve Persistent Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cut-down-loading-time-for-star-wars-battlefront-ii-on-pc-a-comprehensive-guide/"><u>Cut Down Loading Time for Star Wars: Battlefront II on PC - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fast-fixes-how-to-rapidly-resolve-chrome-performance-issues/"><u>Fast Fixes: How to Rapidly Resolve Chrome Performance Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-steam-remote-play-issues-expert-tips-and-tricks-that-work/"><u>Fixing Steam Remote Play Issues – Expert Tips and Tricks That Work</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-vivo-g2-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Vivo G2 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-vivo-y56-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Vivo Y56 5G? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolve-pc-bugs-ultimate-guide-to-fixing-halo-infinites-crashes/"><u>Resolve PC Bugs - Ultimate Guide to Fixing Halo Infinite's Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-guide-fixing-out-of-video-memory-error-in-fortnite/"><u>Solution Guide: Fixing 'Out of Video Memory' Error in Fortnite</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-fixes-for-reducing-cpu-usage-in-god-of-war/"><u>Step-by-Step Fixes for Reducing CPU Usage in God of War</u></a></li>
+<li><a href="https://win11.techidaily.com/transformative-features-for-creatives-the-latest-in-paint-upgrades/"><u>Transformative Features for Creatives: The Latest in Paint Upgrades</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unveiling-the-mystery-scriptwriting-for-documentaries/"><u>Unveiling the Mystery Scriptwriting for Documentaries</u></a></li>
+</ul></div>
 

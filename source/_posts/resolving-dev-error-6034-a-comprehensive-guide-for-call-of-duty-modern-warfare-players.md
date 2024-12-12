@@ -1,7 +1,7 @@
 ---
 title: "Resolving Dev Error 6034: A Comprehensive Guide for Call of Duty Modern Warfare Players"
-date: 2024-11-12T05:31:49.444Z
-updated: 2024-11-17T08:43:56.008Z
+date: 2024-12-10T16:07:07.343Z
+updated: 2024-12-12T18:22:27.834Z
 tags:
   - win11
   - win10
@@ -58,14 +58,11 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -90,6 +87,10 @@ To do so, first visit the website of your GPU manufacturer:
 
  If this method doesn’t do the trick, you can take a look at the next one.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Remove Multiplayer game packs
 
  Soon after the Dev Error happens, console gamers discovered that they can fix the issue by**removing specific game packs** . This would be less painful than a complete reinstallation, so you can give it a shot. If you don’t know how, here’s a quick example on Xbox:
@@ -98,34 +99,25 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-1.jpg)
 2. Select**Call of Duty: Modern Warfare** . (You might also need to select**Manage installation on External drive** .)  
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-2.jpg)
 3. Scroll down and unselect**MP2 Pack** and**Multiplayer Pack 3.** Then select**Save changes** .  
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-3.jpg)
 4. Now restart your Xbox and check if Warzone is working now.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If this trick doesn’t help you, simply check out the next one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Reinstall Warzone
 
@@ -152,19 +144,20 @@ If this trick doesn’t help you, simply check out the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/nap-in-hours-stars-quick-hit-video-winners/"><u>[New] Snap-in-Hours Stars Quick Hit Video Winners</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-discovering-your-youtube-unique-slot/"><u>[Updated] In 2024, Discovering Your YouTube Unique Slot</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-syncing-soundtracks-with-vimeo-video-content/"><u>[Updated] In 2024, Syncing Soundtracks with Vimeo Video Content</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-vagrant-boot-failures-on-win11plusvmware/"><u>Addressing Vagrant Boot Failures on Win11+VMware</u></a></li>
-<li><a href="https://win-answers.techidaily.com/battlefield-n5-launch-failure-fixes-comprehensive-guide-for-players/"><u>Battlefield N5 Launch Failure Fixes - Comprehensive Guide for Players</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-apple-tv-4k-2021-model-assessment/"><u>Comprehensive Apple TV 4K 2021 Model Assessment</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Lava Storm 5G | Dr.fone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-iosandroid-leading-photo-writing-app-list/"><u>In 2024, IOS/Android Leading Photo-Writing App List</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-steams-deadly-setback-how-to-correct-the-steamuidll-loading-failure/"><u>Overcoming Steam's Deadly Setback: How to Correct the SteamUI.dll Loading Failure</u></a></li>
-<li><a href="https://win-answers.techidaily.com/perfect-the-experience-proven-techniques-to-resolve-v-rising-frame-rate-fluctuations-on-pc/"><u>Perfect the Experience: Proven Techniques to Resolve V-Rising Frame Rate Fluctuations on PC</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-honor-magic-6-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after Honor Magic 6 has been deleted.</u></a></li>
-<li><a href="https://win-answers.techidaily.com/stop-the-stalls-proven-solutions-to-keep-ghostwire-tokyo-running-flawlessly-on-pc-systems/"><u>Stop the Stalls! Proven Solutions to Keep Ghostwire: Tokyo Running Flawlessly on PC Systems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/struggling-with-oculus-rift-connection-errors-solutions-inside/"><u>Struggling with Oculus Rift Connection Errors? Solutions Inside</u></a></li>
-<li><a href="https://win-answers.techidaily.com/swift-and-effective-fixes-for-when-fortnite-wont-open/"><u>Swift and Effective Fixes for When Fortnite Won't Open</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-aurora-hdr-vs-standard-imagery-quality-analysis/"><u>[New] Aurora HDR vs Standard Imagery Quality Analysis</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-perfect-every-post-automated-mac-methods-for-instagram-video-sizing/"><u>[New] Perfect Every Post Automated Mac Methods for Instagram Video Sizing</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-dance-the-viral-dance-mix-in-some-tiktok-flavor-for-insta-success/"><u>[Updated] Dance the Viral Dance Mix in Some TikTok Flavor for Insta Success</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/directx-errors-no-more-mastering-stability-in-anno-1800/"><u>DirectX Errors No More: Mastering Stability in Anno 1800</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-technology-with-toms-hardware-guide/"><u>Exploring Technology with Tom's Hardware Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-motorola-g24-power-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Motorola G24 Power Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-motorola-moto-g24-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Motorola Moto G24 to iPod | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-the-galaxy-without-glitches-eliminating-stellaris-crashes-effectively/"><u>Master the Galaxy Without Glitches: Eliminating Stellaris Crashes Effectively</u></a></li>
+<li><a href="https://win-answers.techidaily.com/no-audio-during-your-twitch-stream-heres-how-you-can-fix-the-problem/"><u>No Audio During Your Twitch Stream? Here’s How You Can Fix the Problem!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723013203873-online-user-authentication-service-is-active-again-all-systems-go/"><u>Online User Authentication Service Is Active Again – All Systems Go!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-guide-getting-the-origin-game-launcher-running-in-windows-1011/"><u>Solution Guide: Getting the Origin Game Launcher Running in Windows 10/11</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-ranking-karaoke-systems-a-comprehensive-guide/"><u>Top-Ranking Karaoke Systems : A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unlocking-victory-solving-continuous-loading-issues-during-cold-war-gameplay-on-gaming-systems/"><u>Unlocking Victory: Solving Continuous Loading Issues During 'Cold War' Gameplay on Gaming Systems</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/visionary-blu-ray-systems-for-unparalleled-3d-immersion/"><u>Visionary Blu-Ray Systems for Unparalleled 3D Immersion</u></a></li>
 </ul></div>
 

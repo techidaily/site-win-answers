@@ -1,7 +1,7 @@
 ---
 title: PC Release of 'Days Gone' Action-Packed Adventure Now Available
-date: 2024-11-12T18:38:37.002Z
-updated: 2024-11-17T01:31:11.191Z
+date: 2024-12-07T16:22:36.282Z
+updated: 2024-12-12T19:13:03.993Z
 tags:
   - win11
   - win10
@@ -45,6 +45,10 @@ The PC version of Days Gone is a solid port of a great game. But performance iss
   
 ![Days Gone disable overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-overlay.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If this didn’t work, move on to the next fix.
 
 ## 2\. Verify integrity of game files
@@ -56,10 +60,7 @@ If this didn’t work, move on to the next fix.
 ![verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/05/properties-disable-overlay.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Select**LOCAL FILES** . Then click**Verify integrity of game files…** . This will take several minutes to complete.  
@@ -67,6 +68,10 @@ If this didn’t work, move on to the next fix.
 ![verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-integrity-of-game-files.jpg)
 
 However, if this didn’t help, proceed to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Adjust in-game settings
 
@@ -87,9 +92,17 @@ However, if this didn’t help, proceed to the next fix.
 
 ![Days Gone adjust in-game settings](https://images.drivereasy.com/wp-content/uploads/2021/05/disaply-tab.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**CONFIRM** .  
   
 ![Days Gone adjust in-game settings](https://images.drivereasy.com/wp-content/uploads/2021/05/confirm-changes.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Select the**GRAPHICS** tab. Then adjust the following settings:
 
@@ -113,13 +126,6 @@ However, if this didn’t help, proceed to the next fix.
 
  There are mainly two ways you can update your graphics driver: [manually](https://tools.techidaily.com/drivereasy/download/) and **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Option 1: Manually update your graphics driver
 
  If you’re familiar with computer hardware, you can update your graphics driver manually by heading to the manufacturer’s driver download page:
@@ -128,19 +134,6 @@ However, if this didn’t help, proceed to the next fix.
 [AMD](https://www.amd.com/en/support)
 
  Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install it.
-
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Option 2: Automatically update your graphics driver (recommended)
 
@@ -154,13 +147,6 @@ Here’s how to update drivers with Driver Easy:
 
 ![update network adapter driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them. )
 
@@ -171,10 +157,7 @@ Here’s how to update drivers with Driver Easy:
  After updating your drivers, restart your PC and test the gameplay. If you can’t get a performance boost, don’t worry. Below are some other methods.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Disable fullscreen optimizations
@@ -197,19 +180,6 @@ Here’s how to update drivers with Driver Easy:
   
 ![Days Gone disable fullscreen optimization](https://images.drivereasy.com/wp-content/uploads/2021/05/click-apply-and-ok.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If this didn’t make a difference, move on to the next fix.
 
 ## 6\. Customize graphics performance preference
@@ -219,6 +189,10 @@ If this didn’t make a difference, move on to the next fix.
  1) Right-click on the empty space from your desktop and select**Display settings** .  
   
 ![customize graphics performance preference ](https://images.drivereasy.com/wp-content/uploads/2021/05/display-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Scroll down and find**Graphics settings** and click on it.  
   
@@ -252,24 +226,18 @@ After saving the changes, launch Days Gone and check if it helped.
   
 ![turn off background apps](https://images.drivereasy.com/wp-content/uploads/2021/05/privacy.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Background apps** . Under the section**Let apps run in the background** , toggle the button to turn it**Off** .  
   
 ![turn off background apps](https://images.drivereasy.com/wp-content/uploads/2021/05/turn-off-background-apps.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Now launch Days Gone and check it can help fix the low frame rate.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Disable Windows 10 Game Mode
@@ -285,6 +253,10 @@ Now launch Days Gone and check it can help fix the low frame rate.
  3) Select**Game Mode** . Then click the toggle to turn Game Mode**Off** .  
   
 ![disable Windows 10 game mode](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-game-mode.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After you’ve done this, you should be able to get a noticeable improvement.
 
@@ -307,22 +279,22 @@ Now launch Days Gone and check it can help fix the low frame rate.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-nes-switch-brawlers-the-ultimate-10-game-guide/"><u>[New] In 2024, NES Switch Brawlers The Ultimate 10-Game Guide</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-notable-20-free-non-exclusive-pubg-screenshots/"><u>[New] Notable 20 Free, Non-Exclusive PUBG Screenshots</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-academic-avenue-leading-educators-on-youtube/"><u>[Updated] 2024 Approved Academic Avenue Leading Educators on YouTube</u></a></li>
-<li><a href="https://win-answers.techidaily.com/are-services-disrupted-on-xbox-live-discover-the-current-status-of-xbox-live-servers/"><u>Are Services Disrupted on Xbox Live? Discover the Current Status of Xbox Live Servers</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/blending-techniques-for-seamless-picture-merging/"><u>Blending Techniques for Seamless Picture Merging</u></a></li>
-<li><a href="https://win-answers.techidaily.com/conquer-discord-connection-lag-a-step-by-step-guide-to-fixing-packet-loss/"><u>Conquer Discord Connection Lag: A Step-by-Step Guide to Fixing Packet Loss</u></a></li>
-<li><a href="https://win11.techidaily.com/direct-download-tactics-for-new-windows-users/"><u>Direct Download Tactics for New Windows Users</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-fixes-for-excessive-cpu-drain-in-god-of-war-gaming-sessions/"><u>Effective Fixes for Excessive CPU Drain in God of War Gaming Sessions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/epic-games-age-of-empires-iv-installation-woes-solutions-and-tips-for-ms-users/"><u>Epic Games' Age of Empires IV Installation Woes: Solutions and Tips for MS Users</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-apple-engineers-security-focused-os-to-power-its-advanced-ai-infrastructure-latest-discoveries-revealed-wiredtechnews/"><u>How Apple Engineers Security-Focused OS to Power Its Advanced AI Infrastructure - Latest Discoveries Revealed | WiredTechNews</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-boosting-zoom-screen-sharpness-essential-tips/"><u>In 2024, Boosting Zoom Screen Sharpness Essential Tips</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723005151497-master-the-art-of-fixing-super-person-errors-and-stabilize-your-pc-performance/"><u>Master the Art of Fixing ‘Super Person’ Errors & Stabilize Your PC Performance!</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/overcoming-chatgpts-one-hour-throttle-tips-for-uninterrupted-access-beyond-rate-limits/"><u>Overcoming ChatGPT’s One-Hour Throttle: Tips for Uninterrupted Access Beyond Rate Limits</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-problems-experienced-when-attempting-to-start-star-wars-jedi-fallen-order/"><u>Resolved: Problems Experienced When Attempting to Start Star Wars Jedi: Fallen Order</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/revisit-retro-cinema-the-top-10-must-watch-80s-movie-classics-today/"><u>Revisit Retro Cinema: The Top 10 Must-Watch '80S Movie Classics Today</u></a></li>
-<li><a href="https://win-answers.techidaily.com/roller-champs-multiplayer-mastery-2024-pc-adventure-top-tactics-and-insider-secrets-revealed/"><u>Roller Champs Multiplayer Mastery: 2024 PC Adventure - Top Tactics and Insider Secrets Revealed</u></a></li>
-<li><a href="https://win-answers.techidaily.com/stop-king-of-fighters-xv-from-crashing-effective-fixes-to-enjoy-the-fighting-game-on-your-pc/"><u>Stop 'King of Fighters XV' From Crashing: Effective Fixes to Enjoy the Fighting Game on Your PC</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-breaking-the-internet-with-these-hysterical-stickers/"><u>[New] Breaking the Internet with These Hysterical Stickers</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-the-ultimate-immersion-guide-to-lgs-360-vr-headset/"><u>[New] In 2024, The Ultimate Immersion Guide to LG's 360 VR Headset</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/1715939134573-updated-2024-approved-how-to-record-audio-with-audacity-on-mac/"><u>[Updated] 2024 Approved How to Record Audio with Audacity on Mac</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-create-standout-videos-with-these-top-7-free-thumbnail-builders-for-2024/"><u>[Updated] Create Standout Videos with These Top 7 Free Thumbnail Builders for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-and-play-how-to-solve-world-of-warcraft-not-opening-on-windows-or-mac/"><u>Fix and Play: How to Solve World of Warcraft Not Opening on Windows or Mac</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-error-gfx-state-in-red-dead-redemption-nobody-can-solve/"><u>How to Fix ERROR GFX STATE in Red Dead Redemption Nobody Can Solve?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-move-audiobooks-onto-your-iphone-without-using-itunes-a-guide-for-incremental-reading/"><u>How to Move Audiobooks Onto Your iPhone Without Using iTunes: A Guide for Incremental Reading</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-leveraging-social-media-insights-in-market-research/"><u>In 2024, Leveraging Social Media Insights in Market Research</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-the-use-of-gptzero-for-ai-text-detection-and-analysis/"><u>Mastering the Use of GPTZero for AI Text Detection and Analysis</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/propel-content-to-prominence-leverage-tubebuddys-power-for-2024/"><u>Propel Content to Prominence Leverage TubeBuddy's Power for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-fix-resolve-your-league-of-legends-crashes-instantly/"><u>Quick Fix: Resolve Your League of Legends Crashes Instantly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/smooth-playthroughs-only-fixed-stuttering-in-grand-theft/"><u>Smooth Playthroughs Only: Fixed Stuttering in Grand Theft</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723006857084-the-long-awaited-fix-for-wolcen-lords-of-mayhem-is-here/"><u>The Long-Awaited Fix for Wolcen - Lords of Mayhem Is Here!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-strategies-to-overcome-the-battle-royales-blackout-problem-on-warzone/"><u>Top Strategies to Overcome the Battle Royale's Blackout Problem on Warzone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/trouble-starting-valorant-on-your-desktop-computer-uncover-the-latest-solutions/"><u>Trouble Starting Valorant on Your Desktop Computer? Uncover the Latest Solutions!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-to-launch-the-latest-game-finals-of-2n24/"><u>Troubleshooting Tips to Launch the Latest Game Finals of 2N24</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unstick-your-frozen-steam-software-enhancement-with-these-simple-tips/"><u>Unstick Your Frozen Steam Software Enhancement with These Simple Tips</u></a></li>
 </ul></div>
 

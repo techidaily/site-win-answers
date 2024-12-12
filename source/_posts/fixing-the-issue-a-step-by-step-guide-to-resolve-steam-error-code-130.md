@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: A Step-by-Step Guide to Resolve Steam Error Code 130"
-date: 2024-11-11T18:25:13.229Z
-updated: 2024-11-17T02:48:46.453Z
+date: 2024-12-10T18:53:39.233Z
+updated: 2024-12-12T19:08:54.052Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/31fd63ab910fdd0bfef9c588934b4c990590f2025
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here’s a list of fixes that have resolved this problem for other DayZ players. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -36,13 +40,6 @@ thumbnail: https://thmb.techidaily.com/31fd63ab910fdd0bfef9c588934b4c990590f2025
 8. **[Adjust your Windows system for the best performance](https://tools.techidaily.com/drivereasy/download/)**
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your PC meets the system requirements for DayZ
 
@@ -78,19 +75,6 @@ thumbnail: https://thmb.techidaily.com/31fd63ab910fdd0bfef9c588934b4c990590f2025
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Update your graphics driver
 
  If your graphics driver is outdated or corrupted, it may cause the game FPS drops issue. Updating the graphics driver can not only enhance the performance of your graphics card, but also avoid many unexpected computer issues in the future.
@@ -113,6 +97,10 @@ thumbnail: https://thmb.techidaily.com/31fd63ab910fdd0bfef9c588934b4c990590f2025
 3. Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
 ![Driver Easy update graphics driver](https://images.drivereasy.com/wp-content/uploads/2019/07/Driver-Easy-update-graphics-driver-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.
 
  Alternatively if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
@@ -130,10 +118,7 @@ thumbnail: https://thmb.techidaily.com/31fd63ab910fdd0bfef9c588934b4c990590f2025
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Modify the graphics settings
@@ -148,24 +133,19 @@ thumbnail: https://thmb.techidaily.com/31fd63ab910fdd0bfef9c588934b4c990590f2025
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Click **NVIDIA Control Panel**  to open it.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/Nvidia-control-panel.jpg)
 4. Click **3D Settings** and select **Adjust image settings with preview** . Then select **Use my preference emphasizing** and **drag the slider to the left** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/Nvida-control-panel-3D-settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Lower the in-game graphics settings
 
@@ -187,6 +167,10 @@ See if you can play the game smoothly. If not, try the next fix, below.
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Restrict applications and downloads in the background
 
  The DayZ FPS drops issue may occur if you’re running some other applications or programs at the same time. So **try restricting applications and downloads in the background** before playing the game to see if this issue reappears. Here is how to do it:
@@ -195,22 +179,13 @@ See if you can play the game smoothly. If not, try the next fix, below.
 2. Select any other applications and programs that take up a large amount of **CPU** , **memory** and **network**  and then click **End task**  to close it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/Task-Manager.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Run DayZ again to see if you can play the game smoothly. If the FPS in DayZ still drops, try the next fix, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Temporarily disable the third-party antivirus application
 
@@ -234,13 +209,6 @@ Try the next fix below if this fix didn’t work for you.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Launch DayZ to see if you resolve the FPS drops issue. If not, try the next fix below to adjust your Windows system for the best performance.
 
@@ -283,20 +251,22 @@ Try the next fix below if this fix didn’t work for you.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-leading-mac-snipper-programs-analyzed/"><u>[New] 2024 Approved Leading Mac Snipper Programs Analyzed</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-camera-buying-made-easy-for-film-novices/"><u>[New] Camera Buying Made Easy for Film Novices</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-avoiding-strikes-youtube-edition/"><u>[Updated] 2024 Approved Avoiding Strikes YouTube Edition</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-mac-tips-capturing-class-notes-efficiently/"><u>[Updated] In 2024, Mac Tips Capturing Class Notes Efficiently</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/embrace-a-healthier-lifestyle-with-the-compact-samsung-galaxy-fit2-tracker-at-your-side/"><u>Embrace a Healthier Lifestyle with the Compact Samsung Galaxy Fit2 Tracker at Your Side</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-advice-on-fixing-gaming-hiccups-in-gears-5-for-a-smooth-experience/"><u>Expert Advice on Fixing Gaming Hiccups in Gears 5 for a Smooth Experience</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-advice-on-repairing-cod-warzones-dev-error-6634-tips-and-techniques-for-a-smooth-gaming-experience/"><u>Expert Advice on Repairing COD: Warzone's Dev Error 6634 – Tips & Techniques for a Smooth Gaming Experience</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-tips-for-overcoming-static-display-images-on-your-devices-screens/"><u>Expert Tips for Overcoming Static Display Images on Your Devices' Screens</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-resolve-elden-rings-multiplayer-feature-malfunction-issues/"><u>How to Resolve Elden Ring's Multiplayer Feature Malfunction Issues</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-honor-90-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Honor 90 | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/instagram-video-editor-how-to-edit-instagram-videos-for-2024/"><u>Instagram Video Editor How to Edit Instagram Videos for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/master-the-prehistoric-game-without-crashes-jurassic-world-evolution-troubleshooting-steps/"><u>Master the Prehistoric Game Without Crashes: Jurassic World Evolution Troubleshooting Steps</u></a></li>
-<li><a href="https://win-answers.techidaily.com/no-more-crashes-masterful-solutions-to-fix-issues-in-mordhau/"><u>No More Crashes - Masterful Solutions to Fix Issues in Mordhau</u></a></li>
-<li><a href="https://win-answers.techidaily.com/tackling-stuttering-drops-and-enhancing-pc-performance-in-games/"><u>Tackling Stuttering, Drops & Enhancing PC Performance in Games</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/transfert-gratuit-dimage-orf-vers-png-en-ligne-avec-convertisseurs-mouvavi/"><u>Transfert Gratuit D'image ORF Vers PNG en Ligne Avec Convertisseurs - Mouvavi</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-maximize-engagement-insider-secrets-to-youtube-seo/"><u>[Updated] In 2024, Maximize Engagement Insider Secrets to YouTube SEO</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enjoy-uninterrupted-mlb-the-show-21-with-server-issues-sorted-out/"><u>Enjoy Uninterrupted MLB The Show 21 with Server Issues Sorted Out</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-days-gone-pc-version-startup-issues-a-comprehensive-guide/"><u>Fixing 'Days Gone' PC Version Startup Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-can-we-bypass-poco-x5-pro-frp-by-drfone-android/"><u>How Can We Bypass Poco X5 Pro FRP?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-might-chatgpt-contribute-to-the-creation-of-cyber-threats-or-malware/"><u>How Might ChatGPT Contribute to the Creation of Cyber Threats or Malware?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-ensure-smooth-play-in-multiversus-discover-the-best-8-fixes/"><u>How to Ensure Smooth Play in MultiVersus - Discover the Best 8 Fixes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-the-persistent-memory-error-12707-in-modern-warfare-3/"><u>How to Fix the Persistent Memory Error 12707 in Modern Warfare 3</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-notes-from-iphone-11-pro-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Notes from iPhone 11 Pro? | Stellar</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-nokia-130-music-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Nokia 130 Music Location | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/jurassic-world-evolution-stability-fix-how-to-prevent-game-crashes-effectively/"><u>Jurassic World Evolution Stability Fix: How to Prevent Game Crashes Effectively</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/meeting-mastery-streaming-google-meet-directly-to-youtube-for-2024/"><u>Meeting Mastery Streaming Google Meet Directly to YouTube for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/razer-synapse-not-responding-easy-fixes-for-smooth-operation/"><u>Razer Synapse Not Responding? Easy Fixes for Smooth Operation</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/revolutionizing-personal-cinema-with-xiaomis-mi-11-lite-features-for-2024/"><u>Revolutionizing Personal Cinema with Xiaomi's Mi 11 Lite Features for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/spanish-numbers-how-to-count-numbers-in-spanish/"><u>Spanish Numbers: How to Count Numbers in Spanish</u></a></li>
+<li><a href="https://win-answers.techidaily.com/total-war-warhammer-3-update-eliminating-pc-game-interrupts-and-ensuring-stability/"><u>Total War: WARHAMMER 3 Update: Eliminating PC Game Interrupts & Ensuring Stability</u></a></li>
+<li><a href="https://win-answers.techidaily.com/windows-11-and-steam-games-overcoming-launch-problems-with-simple-solutions/"><u>Windows 11 and Steam Games: Overcoming Launch Problems with Simple Solutions</u></a></li>
 </ul></div>
 

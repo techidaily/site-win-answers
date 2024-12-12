@@ -1,7 +1,7 @@
 ---
 title: "Resolving the 4201 Glitch in Genshin Impact: A Comprehensive Guide"
-date: 2024-08-23T13:19:52.295Z
-updated: 2024-08-24T13:19:52.295Z
+date: 2024-12-10T16:15:18.811Z
+updated: 2024-12-12T17:36:10.814Z
 tags:
   - win11
   - win10
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/a0f93c1d40da6af2b9bde3e74ba5294285ae77077
 [5: Update your network adapter driver](https://tools.techidaily.com/drivereasy/download/)
 
  As mentioned in the introduction, Error 4201 on Genshin impact sometimes can be a server issue. When the server is down, there’s nothing much to do on the player-side. This article will only focus on the possible fixes that players can do.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 1: Check your Internet connection
 
@@ -70,6 +74,10 @@ thumbnail: https://thmb.techidaily.com/a0f93c1d40da6af2b9bde3e74ba5294285ae77077
 
  If disabling or using a VPN doesn’t solve your problem, try the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 4: Configure DNS settings
 
  Your ISP’s (Internet Service Provider) default DNS server is not always the best. There are many public DNS servers that are safe and good for gaming. Using the Quad9 DNS may help solve Error 4201 on Genshin Impact, and it already helped many players with this issue, so it’s worth trying. Here’s how:
@@ -77,20 +85,20 @@ thumbnail: https://thmb.techidaily.com/a0f93c1d40da6af2b9bde3e74ba5294285ae77077
 1. On your taskbar, right-click the**network icon** , then click**Open Network & Internet settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/open-network-settings.png)
 2. Click**Change adapter options** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Quad9 DNS server addresses as below, then click**OK** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Preferred DNS server:** **9.9.9.9**  
@@ -98,9 +106,6 @@ thumbnail: https://thmb.techidaily.com/a0f93c1d40da6af2b9bde3e74ba5294285ae77077
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-20_17-31-37.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
  If configuring DNS settings doesn’t solve your problem, try the last fix.
 
 ## Fix 5: Update your network adapter driver
@@ -118,16 +123,14 @@ thumbnail: https://thmb.techidaily.com/a0f93c1d40da6af2b9bde3e74ba5294285ae77077
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the network adapter driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. For example, you can update your graphics driver as well (see as below.)  
  (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -147,8 +150,6 @@ Remember to restart your PC for the new drivers to take effect.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -156,4 +157,22 @@ Remember to restart your PC for the new drivers to take effect.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-answers.techidaily.com/1722996615154-solved-forza-horizon-4-wont-launch-2024-tips/"><u>[SOLVED] Forza Horizon 4 Won’t Launch | 2024 Tips</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-jumpstart-connections-winning-tinder-bios-at-a-glance/"><u>[Updated] Jumpstart Connections Winning Tinder Bios at a Glance</u></a></li>
+<li><a href="https://fox-that.techidaily.com/8-effective-ways-to-overcome-charging-hold-glitch-on-iphones/"><u>8 Effective Ways to Overcome 'Charging Hold' Glitch on iPhones</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fall-guys-pc-performance-tips-overcoming-freezing-problems-during-gameplay/"><u>Fall Guys PC Performance Tips: Overcoming Freezing Problems During Gameplay</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-and-solutions-how-to-stop-fifa-19-from-crashing-on-windows-pcs/"><u>Fixes and Solutions: How to Stop FIFA 19 From Crashing on Windows PCs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/high-end-tech-on-a-shoestring-affordable-opulence-in-the-digital-realm/"><u>High-End Tech on a Shoestring: Affordable Opulence in the Digital Realm</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-a-non-responsive-steam-remote-play-feature/"><u>How to Fix a Non-Responsive Steam Remote Play Feature</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-keep-stardees-quest-going-smoothly-eliminating-crashes-on-desktop/"><u>How to Keep Stardee's Quest Going Smoothly - Eliminating Crashes on Desktop</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-do-i-sim-unlock-my-apple-iphone-se-2022-by-drfone-ios/"><u>In 2024, How Do I SIM Unlock My Apple iPhone SE (2022)?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-modos-papers-groundbreaking-133-inch-e-ink-display-new-open-source-technology-with-a-1200p-resolution-and-low-latency/"><u>Introducing Modos Paper's Groundbreaking 13.3-Inch E-Ink Display: New Open Source Technology with a 1200P Resolution and Low Latency</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-fixing-fallout-3-game-crashes-on-windows-11/"><u>Resolved: Fixing Fallout 3 Game Crashes on Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/sharing-your-favorite-tunes-a-guide-to-jointly-streaming-on-spotify/"><u>Sharing Your Favorite Tunes: A Guide to Jointly Streaming on Spotify</u></a></li>
+<li><a href="https://win-answers.techidaily.com/silent-streambar-expert-fixes-to-revive-audio-on-your-twitch-broadcasts/"><u>Silent Streambar: Expert Fixes to Revive Audio on Your Twitch Broadcasts</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/step-by-step-reversing-video-order-on-vlc-platform/"><u>Step-by-Step Reversing Video Order on VLC Platform</u></a></li>
+<li><a href="https://techtrends.techidaily.com/superior-h265-codec-converter-for-windows-11-and-macos-the-ultimate-guide/"><u>Superior H.265 Codec Converter for Windows 11 & macOS: The Ultimate Guide</u></a></li>
+</ul></div>
 

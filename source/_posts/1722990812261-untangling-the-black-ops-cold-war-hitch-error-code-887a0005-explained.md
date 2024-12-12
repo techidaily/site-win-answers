@@ -1,7 +1,7 @@
 ---
 title: Untangling the Black Ops Cold War Hitch - Error Code 887a0005 Explained!
-date: 2024-11-30T18:50:46.519Z
-updated: 2024-12-06T16:33:41.549Z
+date: 2024-12-10T18:36:10.665Z
+updated: 2024-12-12T16:47:25.416Z
 tags:
   - win11
   - win10
@@ -48,6 +48,10 @@ Here’s a quick guide for that:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You can now launch Black Ops Cold War and see if it crashes again.
 
 If this trick doesn’t help you, simply continue to the next one.
@@ -68,7 +72,7 @@ If this trick doesn’t help you, simply continue to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -78,7 +82,7 @@ If this trick doesn’t help you, simply continue to the next one.
  If updating the GPU driver doesn’t solve your problem, simply move on to the next solution.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Install all Windows updates
@@ -92,7 +96,7 @@ And it’s fairly easy to update:
 2. Click **Check for updates** . Then wait for Windows to download and install all available updates.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
@@ -102,10 +106,6 @@ And it’s fairly easy to update:
  Once you’ve installed all the system updates, restart your PC and test the gameplay in Black Ops Cold War.
 
  If the updates don’t stop the crash, you can take a look at the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Disable HAGs (GeForce 10 series or later/Radeon 5600 or 5700 series)
 
@@ -126,12 +126,16 @@ Here’s how:
 4. Turn off**Hardware-accelerated GPU scheduling** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/hags-off.jpg)
 
  If this method doesn’t fix your issue, simply check out the next one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Disable in-game Ray Tracing
 
@@ -143,10 +147,6 @@ Here’s how:
 2. Navigate to the**GRAPHICS** tab. Under the**RAY TRACING** section, disable all three options.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-disable-ray-tracing.jpg)
 3. Restart the game and test the gameplay.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  None of these fixes can help you? Check out[this post](https://tools.techidaily.com/drivereasy/download/) for more advanced troubleshooting.
 
@@ -169,19 +169,24 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-optimize-your-videos-discoverability-with-key-youtube-seo-strategies/"><u>[New] 2024 Approved Optimize Your Videos' Discoverability with Key YouTube SEO Strategies</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-high-end-fb-visual-creator-free/"><u>[Updated] In 2024, High-End FB Visual Creator (FREE)</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/choose-from-power-ranger-colors-for-the-sibolan-szbox-s69-ryzen-mini-pc-vintage-specs-meet-modest-pricing/"><u>Choose From 'Power-Ranger' Colors for the Sibolan SZBox S69 Ryzen Mini PC – Vintage Specs Meet Modest Pricing</u></a></li>
-<li><a href="https://win-answers.techidaily.com/diagnosing-and-fixing-logitech-options-software-problems-in-the-windows-environment/"><u>Diagnosing and Fixing Logitech Options Software Problems in the Windows Environment</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-applen-roll-out-enhanced-macbook-air-models-with-latest-m3-chip-a-comprehensive-review/"><u>Discover Apple'n Roll Out Enhanced MacBook Air Models with Latest M3 Chip: A Comprehensive Review</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/movavi-mp3-m2p/"><u>Movavi MP3 대상화: 원탁과 일정 없이 바이너리 아이마지네이트를 무료로 M2P 변환</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-comprehensive-review-of-wave-editor-capabilities-for-new-users/"><u>New In 2024, Comprehensive Review of Wave Editor Capabilities for New Users</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-to-fixing-gears-5-performance-problems/"><u>Step-by-Step Guide to Fixing Gears 5 Performance Problems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-to-resolve-helldivers-2-non-launch-issues-on-steam/"><u>Step-by-Step Guide to Resolve Helldivers 2 Non-Launch Issues on Steam</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-global-linguists-guide-to-top-28-applications-for-seamless-translation-for-2024/"><u>The Global Linguist's Guide to Top 28 Applications for Seamless Translation for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-failed-texture-loads-in-activisions-battle-royale-game/"><u>Troubleshooting Failed Texture Loads in Activision's Battle Royale Game</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-to-stop-valheim-freezing-and-stuttering-on-windowslinux/"><u>Troubleshooting Steps to Stop Valheim Freezing and Stuttering on Windows/Linux</u></a></li>
-<li><a href="https://win-answers.techidaily.com/unfreeze-your-fun-effective-solutions-for-eliminating-lag-in-rocket-league/"><u>Unfreeze Your Fun: Effective Solutions for Eliminating Lag in Rocket League</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/unveil-top-10plus-platforms-for-virtual-worship-spaces-for-2024/"><u>Unveil Top 10+ Platforms for Virtual Worship Spaces for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-youtube-to-igtv-migration-step-by-step-guide/"><u>[New] In 2024, YouTube-to-IGTV Migration Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-effortless-video-streaming-on-your-facebook-page-for-2024/"><u>[Updated] Effortless Video Streaming on Your Facebook Page for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-fundamentals-of-animated-branding/"><u>[Updated] Fundamentals of Animated Branding</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-creating-flavorful-culinary-videos-top-7-techniques/"><u>[Updated] In 2024, Creating Flavorful Culinary Videos - Top 7 Techniques</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-enhance-visual-harmony-editing-for-instagram-standards/"><u>[Updated] In 2024, Enhance Visual Harmony Editing for Instagram Standards</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-eye-on-the-screen-youtube-journey-comparison-from-creator-to-competitor/"><u>2024 Approved Eye on the Screen YouTube Journey Comparison From Creator to Competitor</u></a></li>
+<li><a href="https://win-answers.techidaily.com/common-issues-and-fixes-for-playing-robocop-rogue-city-on-a-windows-or-mac-pc/"><u>Common Issues & Fixes for Playing 'RoboCop: Rogue City' On a Windows or Mac PC</u></a></li>
+<li><a href="https://driver-error.techidaily.com/driver-not-found-bcm20702a0/"><u>Driver Not Found: BCM20702A0</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-solutions-for-continuous-arcadegeddon-crashes-on-your-desktop-computer/"><u>Expert Solutions for Continuous Arcadegeddon Crashes on Your Desktop Computer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-the-paladins-game-crashes-proven-strategies-and-updates/"><u>Fix the Paladins Game Crashes: Proven Strategies and Updates</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722992929290-football-manager-2019-stability-tips-no-more-sudden-shutdowns/"><u>Football Manager 2019 Stability Tips: No More Sudden Shutdowns</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-wirelessly-linking-your-laptop-and-tv-using-an-hdmi-cable/"><u>Guide: Wirelessly Linking Your Laptop and TV Using an HDMI Cable</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-samsung-galaxy-xcover-6-pro-tactical-edition-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Samsung Galaxy XCover 6 Pro Tactical Edition Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-successfully-install-minecraft-on-your-windows-11-system-troubleshooting-guide/"><u>How to Successfully Install Minecraft on Your Windows 11 System – Troubleshooting Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solve-your-apex-legends-network-troubles-a-comprehensive-walkthrough/"><u>Solve Your Apex Legends Network Troubles: A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-fixes-for-non-responsive-steam-titles-in-windows-11/"><u>Troubleshooting Guide: Fixes for Non-Responsive Steam Titles in Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-resolving-modern-warfare-2-failed-startup-issues/"><u>Troubleshooting Guide: Resolving 'Modern Warfare 2' Failed Startup Issues</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/upload-and-share-videos-on-twitter-made-easy-for-2024/"><u>Upload & Share Videos on Twitter Made Easy for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/yakuza-6-pc-version-errors-heres-your-ultimate-fixing-guide/"><u>Yakuza 6 (PC Version) Errors? Here's Your Ultimate Fixing Guide!</u></a></li>
 </ul></div>
 

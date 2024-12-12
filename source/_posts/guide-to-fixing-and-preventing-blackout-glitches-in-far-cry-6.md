@@ -1,7 +1,7 @@
 ---
 title: Guide to Fixing and Preventing Blackout Glitches in Far Cry 6
-date: 2024-08-23T13:18:06.040Z
-updated: 2024-08-24T13:18:06.040Z
+date: 2024-12-10T19:09:35.592Z
+updated: 2024-12-12T17:29:29.080Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/c23fd39a2d5eab7804c8c0b256c287da5a7d97c2d
 
 It’s annoying that the game doesn’t start up with sound, or can’t get any sound. If you have the same issue, this post may help.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -25,6 +29,10 @@ It’s annoying that the game doesn’t start up with sound, or can’t get any 
 2. [Update audio driver](https://tools.techidaily.com/drivereasy/download/)
 3. [Install Windows updates](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Use wire headsets
 
  Some players have found out the game need to use a 3.5mm jack to bypass the headsets audio. Therefore, use a wired input instead of USB headphones. USB headphones are not working well with Evil Genius 2.
@@ -32,8 +40,9 @@ It’s annoying that the game doesn’t start up with sound, or can’t get any 
 Hope it works for you, if not, try updating your audio driver.
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Update the audio driver
 
  Update your audio driver might fix. Driver is closely related to the audio issue, an outdated or corrupted audio driver would cause sound issue.
@@ -46,20 +55,15 @@ Hope it works for you, if not, try updating your audio driver.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-audio-bluetooth-usb-unifying.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Install Windows updates
 
  Microsoft constantly releases Windows updates to fix issues and add new features. Some issues will be solved after updating Windows updates. And it’s safer to keep your PC using the latest operating system.
@@ -67,13 +71,11 @@ Hope it works for you, if not, try updating your audio driver.
 1. In the Search box, type in **check for updates** . Click **Check for updates**  from results.  
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 2. Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it. Simply wait for it to complete and you should be asked to restart your computer.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-the-Check-for-updates-tab.png)
 3. Launch Evil Genius 2 and check.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -88,8 +90,6 @@ Enjoy the game and have a nice day!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -97,4 +97,24 @@ Enjoy the game and have a nice day!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-the-essential-guide-to-podcast-title-selection-strategies-and-examples/"><u>[Updated] In 2024, The Essential Guide to Podcast Title Selection Strategies & Examples</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-the-future-of-tv-watching-a-closer-look-at-youtube-tv/"><u>[Updated] In 2024, The Future of TV Watching A Closer Look at YouTube TV</u></a></li>
+<li><a href="https://win-answers.techidaily.com/anno-1800-troubleshooting-guide-eliminating-directx-errors-for-good/"><u>Anno 1800 Troubleshooting Guide: Eliminating DirectX Errors for Good</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-for-apple-iphone-14-lock-screen-drfone-by-drfone-ios/"><u>Complete Guide For Apple iPhone 14 Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/crafting-conversational-mastery-step-by-step-guide-to-free-voice-modification-tools/"><u>Crafting Conversational Mastery Step-by-Step Guide to Free Voice Modification Tools</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-compatibility-issues-between-corsair-icue-and-windows-1011-platforms-expert-tips/"><u>Fixing Compatibility Issues Between Corsair iCUE and Windows 10/11 Platforms: Expert Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-increase-fps-troubleshooting-performance-drops-in-farming-simulator-22-on-pc/"><u>How to Increase FPS: Troubleshooting Performance Drops in Farming Simulator 22 on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-successfully-fix-error-code-6034-in-call-of-duty-modern-warfare-for-playstation-pc-and-xbox/"><u>How To Successfully Fix Error Code 6034 in Call of Duty: Modern Warfare for PlayStation, PC and Xbox</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-infinix-smart-8-hd-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Infinix Smart 8 HD Phone Pattern Lock</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/navigating-the-world-of-instagram-reel-downloads/"><u>Navigating the World of Instagram Reel Downloads</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-free-glitch-effect-tools-the-ultimate-online-collection/"><u>New Free Glitch Effect Tools The Ultimate Online Collection</u></a></li>
+<li><a href="https://win-answers.techidaily.com/outriders-graphics-enhanced-fix-clearer-images-and-textures/"><u>Outriders Graphics Enhanced Fix: Clearer Images and Textures</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-common-among-us-voice-call-problems-for-pc-users-a-step-by-step-guide/"><u>Overcoming Common Among Us Voice Call Problems for PC Users: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-steps-when-your-alienware-command-center-fails-to-start/"><u>Solution Steps When Your Alienware Command Center Fails to Start</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-troubleshooting-and-fixing-directx-draw-issues/"><u>Solved: Troubleshooting and Fixing DirectX Draw Issues</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/troubleshooting-plays-failures-on-instagram-video-content-effective-strategies-explored/"><u>Troubleshooting Plays Failures on Instagram Video Content: Effective Strategies Explored</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlocking-student-potential-with-instructional-videos/"><u>Unlocking Student Potential with Instructional Videos</u></a></li>
+</ul></div>
 

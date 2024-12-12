@@ -1,7 +1,7 @@
 ---
 title: "Quick Resolve: Why Is My Google Chrome Freezing and How to Stop It?"
-date: 2024-11-29T16:40:26.111Z
-updated: 2024-12-06T18:39:43.630Z
+date: 2024-12-11T17:06:57.832Z
+updated: 2024-12-12T18:44:24.745Z
 tags:
   - win11
   - win10
@@ -38,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/de3aeccba8a1988fe712bc85cebc3af3bc3a21faa
 8. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 9. **[Reinstall State of Decay 2](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Check your Apps
 
  In order to function properly on a Windows 10 PC, State of Decay 2 requires three supporting apps:**Xbox** ,**Xbox Game Bar** ,**Xbox Live** .
@@ -49,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/de3aeccba8a1988fe712bc85cebc3af3bc3a21faa
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/xbox-supporting-apps.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you have the**Xbox Console Companion** installed, please uninstall it. To do so:
@@ -58,10 +54,22 @@ thumbnail: https://thmb.techidaily.com/de3aeccba8a1988fe712bc85cebc3af3bc3a21faa
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/apps-features.jpg)
 2. Under Apps & features, click**Xbox Console Companion** and select**Uninstall** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/uninstall-xbox-console-companion.jpg)
 3. Click**Uninstall** again.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/uninstall.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 After that, restart your computer and see if that helps.
 
@@ -86,12 +94,12 @@ If State of Decay 2 still crashes, go ahead with the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/de-scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/nvidia-geforce-gtx960m-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -131,6 +139,10 @@ If this method doesn’t help, check out the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/reset.jpg)
 5. Once the process is complete, restart your computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Launch State of Decay 2 to see if the problem is resolved.
 
 If the crashing issue occurs again, continue to the next fix.
@@ -146,15 +158,7 @@ If the crashing issue occurs again, continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/move-app.jpg)
 3. In the pop-up window,**select a new drive** from the drop-down menu, then click**Move** again.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/move2-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After doing that, launch State of Decay 2 and check if the problem has gone away.
 
@@ -169,7 +173,7 @@ If this method doesn’t do the trick, try the next fix.
 2. In the left panel, select**Language** . Under the Preferred languages section, click**Add a language** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/add-a-language.jpg)
@@ -177,6 +181,10 @@ If this method doesn’t do the trick, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/next.jpg)
 4. Click**Install** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/install-language.jpg)
 5. After the language is fully installed, drag it to the first position in the list.  
@@ -198,19 +206,15 @@ If this solution doesn’t work for you, continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/hide-all-microsoft-services.jpg)
 3. **Uncheck** all the services EXCEPT those belong to your video card or sound card manufacturer, such as**Realtek** ,**AMD** ,**NVIDIA** and**Intel** . Then click**OK** to save the changes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/hide2.jpg)
 4. On your keyboard, press**Ctrl** ,**Shift** and**Esc** at the same time to open**Task Manager** , then navigate to the**Startup** tab.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/startup.jpg)
 5. One at a time, select any programs you suspect might be interfering and click**Disable** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/disable-service.jpg)
 6. Restart your computer.
@@ -221,10 +225,6 @@ If this solution doesn’t work for you, continue to the next fix.
 
  If the game still crashes after you disabled all the programs and services, try the last fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 9: Reinstall State of Decay 2
 
  If none of the fixes above solve your problem, try reinstalling State of Decay 2 as a last resort. This might help you get rid of the crashing issue. To do so:
@@ -233,12 +233,12 @@ If this solution doesn’t work for you, continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/apps-features.jpg)
 2. Under Apps & features, click**State of Decay 2** , then select**Uninstall** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/uninstall-app.jpg)
 3. Click**Uninstall** again.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/uninstall.jpg)
 4. Restart your computer and reinstall the game.
@@ -264,19 +264,22 @@ If this solution doesn’t work for you, continue to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-exclusive-look-top-5-value-for-money-gaming-mice-and-keyboards-for-2024/"><u>[New] Exclusive Look Top 5 Value-for-Money Gaming Mice & Keyboards for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-microsoft-hololens-demo-tomorrows-tech-today/"><u>[New] In 2024, Microsoft HoloLens Demo – Tomorrow’s Tech Today</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-capture-times-essence-a-comprehensive-guide-to-making-slow-motion-video-from-still-images-online-for-2024/"><u>[Updated] Capture Time's Essence A Comprehensive Guide to Making Slow-Motion Video From Still Images Online for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-effortless-techniques-for-saving-youtube-videos-for-2024/"><u>[Updated] Effortless Techniques for Saving YouTube Videos for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-laugh-loops-unlocked-zero-cost-humor-hub/"><u>[Updated] Laugh Loops Unlocked Zero-Cost Humor Hub</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/decline-the-update-and-you-keep-full-access-to-your-whatsapp/"><u>Decline the Update, and You Keep Full Access to Your WhatsApp</u></a></li>
-<li><a href="https://games-able.techidaily.com/discord-installation-on-mac-your-ultimate-tutorial/"><u>Discord Installation on Mac: Your Ultimate Tutorial</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-remedies-for-discords-packet-transmission-problems/"><u>Effective Remedies for Discord's Packet Transmission Problems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723006482521-football-manager-2020-stability-enhanced-no-more-crashing-issues/"><u>Football Manager 2020 Stability Enhanced - No More Crashing Issues</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-samsung-galaxy-a14-5g-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Samsung Galaxy A14 5G Phone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-fixes-to-stop-ashen-crash-glitches-once-and-for-all/"><u>Quick Fixes to Stop Ashen Crash Glitches Once and For All!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-starting-up-monster-hunter-rise-without-glitches-or-errors/"><u>Troubleshooting Guide: Starting Up Monster Hunter Rise Without Glitches or Errors</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-personal-5-strikers-failed-launches-on-desktop-systems/"><u>Troubleshooting Steps for Personal 5 Strikers Failed Launches on Desktop Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-elex-ii-keeps-crashing-on-pc/"><u>[SOLVED] ELEX II Keeps Crashing on PC</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-key-steps-in-archiving-lol-gaming-history/"><u>[Updated] 2024 Approved Key Steps in Archiving LOL Gaming History</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-mastering-conversations-and-sharing-in-facebook-world-for-2024/"><u>[Updated] Mastering Conversations and Sharing in Facebook World for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-professional-recording-essentials-evaluating-apeaksofts-capabilities-for-2024/"><u>[Updated] Professional Recording Essentials – Evaluating Apeaksoft's Capabilities for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-zoom-recording-101-a-practical-approach-for-2024/"><u>[Updated] Zoom Recording 101 A Practical Approach for 2024</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/easy-methods-for-transferring-files-between-computers-using-windows-1187-operating-systems/"><u>Easy Methods for Transferring Files Between Computers Using Windows 11/8/7 Operating Systems</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/excel-data-recovery-guide-fur-nicht-gespeicherte-dateien-auf-windows-11/"><u>Excel Data Recovery Guide Für Nicht Gespeicherte Dateien Auf Windows 11</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-snapshot-hits-must-have-filters-to-enhance-your-snap/"><u>In 2024, Snapshot Hits Must-Have Filters to Enhance Your Snap</u></a></li>
+<li><a href="https://win-answers.techidaily.com/lag-no-more-effective-solutions-to-tackle-excess-ping-time-in-back-4-blood/"><u>Lag No More: Effective Solutions to Tackle Excess Ping Time in Back 4 Blood</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-launch-failures-in-palworld-expert-advice-needed/"><u>Overcoming Launch Failures in Palworld – Expert Advice Needed</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722995464771-skype-texting-troubles-heres-how-to-restore-your-sending-functionality/"><u>Skype Texting Troubles? Here's How to Restore Your Sending Functionality!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/smooth-gaming-experience-with-arcadegeddon-on-your-computer-issues-fixed/"><u>Smooth Gaming Experience with Arcadegeddon on Your Computer [Issues Fixed]</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-preventing-access-to-youtube-on-your-ipad/"><u>Step-by-Step Guide: Preventing Access to YouTube on Your iPad</u></a></li>
+<li><a href="https://win-answers.techidaily.com/trouble-free-gaming-resolving-complete-horizon-forbidden-west-gameplay-disruptions-on-desktop-computers/"><u>Trouble-Free Gaming: Resolving Complete Horizon Forbidden West Gameplay Disruptions on Desktop Computers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-pc-performance-fixing-valheims-freezing-and-stuttering-issues/"><u>Troubleshooting PC Performance: Fixing Valheim's Freezing & Stuttering Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-solution-for-boosting-your-dying-light-gameplay-with-higher-fps/"><u>Ultimate Solution for Boosting Your Dying Light Gameplay with Higher FPS ⚡️</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Troubleshooting Guide for Resolving Call of Duty MW3 FPS Drops - 2024 Edition
-date: 2024-11-13T04:31:27.379Z
-updated: 2024-11-17T07:11:02.729Z
+date: 2024-12-11T18:40:00.280Z
+updated: 2024-12-12T18:57:07.574Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ A recent update of Warzone triggered a surge in reports of the**Dev Error 6034**
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixes to try
 
@@ -58,6 +62,10 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -65,13 +73,6 @@ To do so, first visit the website of your GPU manufacturer:
  After updating all your drivers, restart your PC and check if the issue persists.
 
  If the latest drivers didn’t give you luck, you can try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Remove broken game files (PC)
 
@@ -91,10 +92,7 @@ To do so, first visit the website of your GPU manufacturer:
  If this method doesn’t do the trick, you can take a look at the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Remove Multiplayer game packs
@@ -106,32 +104,20 @@ To do so, first visit the website of your GPU manufacturer:
 2. Select**Call of Duty: Modern Warfare** . (You might also need to select**Manage installation on External drive** .)  
 
 <!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-2.jpg)
 3. Scroll down and unselect**MP2 Pack** and**Multiplayer Pack 3.** Then select**Save changes** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-3.jpg)
 4. Now restart your Xbox and check if Warzone is working now.
 
 If this trick doesn’t help you, simply check out the next one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Reinstall Warzone
 
@@ -158,18 +144,18 @@ If this trick doesn’t help you, simply check out the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-reversing-live-action-on-twitch-a-comprehensive-guide/"><u>[New] In 2024, Reversing Live Action on Twitch A Comprehensive Guide</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-top-voice-modification-tools-for-youtube-creators/"><u>[Updated] 2024 Approved Top Voice Modification Tools for YouTube Creators</u></a></li>
-<li><a href="https://fox-that.techidaily.com/achieve-peak-performance-for-your-iphone-battery-in-just-six-steps/"><u>Achieve Peak Performance for Your iPhone Battery in Just Six Steps</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/hering-the-coded-language-of-concealed-youtube-movies/"><u>Deciphering the Coded Language of Concealed YouTube Movies</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fix-guide-how-to-resolve-msi-afterburner-failure-in-detecting-gpus-on-windows-10-and-11/"><u>Fix Guide: How to Resolve MSI Afterburner Failure in Detecting GPUs on Windows 10 & 11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-chrome-browser-freezing-issues-a-comprehensive-guide/"><u>Fixing Chrome Browser Freezing Issues: A Comprehensive Guide</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Vivo S18 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-optimize-performance-and-prevent-crashes-in-microsoft-flight-simulator-2020-on-pc/"><u>How to Optimize Performance and Prevent Crashes in Microsoft Flight Simulator 2020 on PC</u></a></li>
-<li><a href="https://win-dash.techidaily.com/latest-graphics-card-drivers-how-to-install-nvidias-rtx-2070-super-on-windows-1110/"><u>Latest Graphics Card Drivers: How to Install NVIDIA's RTX 2070 Super on Windows 11/10</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/leveraging-twitters-visual-content-on-snapchat-for-2024/"><u>Leveraging Twitter's Visual Content on Snapchat for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/resetting-admin-controlled-features-in-windows-11-systems/"><u>Resetting Admin-Controlled Features in Windows 11 Systems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-successfully-dealing-with-genshin-impact-error-4201/"><u>Troubleshooting Guide: Successfully Dealing With Genshin Impact Error 4201</u></a></li>
-<li><a href="https://win-answers.techidaily.com/unfreeze-chrome-easily-master-these-fixes-for-a-smooth-browsing-experience/"><u>Unfreeze Chrome Easily! Master These Fixes for a Smooth Browsing Experience</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-how-to-save-tiktok-video-in-gallery-3-proven-ways-androidandiphone/"><u>[Updated] 2024 Approved How to Save TikTok Video in Gallery-3 Proven Ways [Android&iPhone]</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-prime-fee-free-timing-devices/"><u>[Updated] In 2024, Prime Fee-Free Timing Devices</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-soundquality-synopsis/"><u>[Updated] In 2024, SoundQuality Synopsis</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-maximizing-tiktok-engagement-in-unboxing-videos/"><u>[Updated] Maximizing TikTok Engagement in Unboxing Videos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-crafting-compelling-movies-implementing-fade-techniques/"><u>2024 Approved Crafting Compelling Movies Implementing Fade Techniques</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-enhancing-youtube-presence-creating-professional-thumbnails-from-smartphones/"><u>2024 Approved Enhancing YouTube Presence Creating Professional Thumbnails From Smartphones</u></a></li>
+<li><a href="https://win-answers.techidaily.com/april-2sory-no-more-errors-the-2024-league-of-legends-update-resolves-reconnection-bugs/"><u>April 2Sory, No More Errors: The 2024 League of Legends Update Resolves Reconnection Bugs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-fixes-for-starfield-failure-to-start-up-on-your-gaming-platforms-steamxbox/"><u>Expert Fixes for Starfield Failure to Start Up on Your Gaming Platforms (Steam/Xbox)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-frame-rate-problems-solutions-for-optimizing-performance-in-outriders/"><u>Fixing Frame Rate Problems: Solutions for Optimizing Performance in Outriders</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-steps-for-internet-explorer-cant-render-web-pages/"><u>Solution Steps for 'Internet Explorer Can't Render Web Pages'</u></a></li>
+<li><a href="https://win-answers.techidaily.com/speedy-optimizations-to-address-lag-challenges-in-assassins-creed-valhalla-gameplay/"><u>Speedy Optimizations to Address Lag Challenges in Assassins Creed: Valhalla Gameplay</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unveiling-the-solution-cod-modern-warfares-first-person-shooter-update-released/"><u>Unveiling the Solution: Cod: Modern Warfare's First-Person Shooter Update Released</u></a></li>
+<li><a href="https://apple-account.techidaily.com/why-apple-account-disabled-on-your-iphone-7-how-to-fix-by-drfone-ios/"><u>Why Apple Account Disabled On your iPhone 7? How to Fix</u></a></li>
 </ul></div>
 

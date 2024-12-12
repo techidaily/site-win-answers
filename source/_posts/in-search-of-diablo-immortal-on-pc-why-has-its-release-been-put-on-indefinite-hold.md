@@ -1,7 +1,7 @@
 ---
 title: "In Search of Diablo Immortal on PC: Why Has Its Release Been Put on Indefinite Hold?"
-date: 2024-11-11T08:05:28.653Z
-updated: 2024-11-16T18:47:32.100Z
+date: 2024-12-06T19:19:07.626Z
+updated: 2024-12-12T16:52:44.518Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ Many players are reporting that Hitman 3 is having server issues, and they const
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -51,6 +55,10 @@ Many players are reporting that Hitman 3 is having server issues, and they const
 6. Turn on your computer and connect to the Internet.
 7. Launch your game again and see if Hitman 3 works properly now.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 2: Allow Hitman 3 to run through Windows Firewall
 
  The**Connection Failed** error can happen if Windows Firewall is blocking your game. So be sure to check the Windows Firewall settings and let your Hitman 3 run through Windows Firewall. Here is how:
@@ -59,21 +67,22 @@ Many players are reporting that Hitman 3 is having server issues, and they const
 ![Windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2021/01/Windows-firewall.jpg)
 2. On the left pane, click **Allow an app or feature through Windows Defender Firewall** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/allow-app.jpg)
 3. Make sure your Hitman 3 is on the list, and also make sure it’s ticked for**Private** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. If you don’t find Hitman 3, click**Change settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/change-settings.jpg)
 5. Click**Allow another app…**  
 ![change settings](https://images.drivereasy.com/wp-content/uploads/2021/01/allow-another-app.jpg)
 6. Add your Hitman 3 executable file. If you’re not sure where the game is installed, please follow these steps:  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
    * Click on the game title in your library.  
    * Select _**Properties**_ from the menu on the left.  
@@ -82,10 +91,7 @@ Many players are reporting that Hitman 3 is having server issues, and they const
 7. Now launch your game again and test if the**Hitman 3 connection failed error** has been solved.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 3: Update your network driver
@@ -104,13 +110,6 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to a flagged network adapter driver to automatically download and install the correct version of this driver (you can do this with the FREE version).  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/update-network-adapter-driver.jpg)  
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
@@ -137,13 +136,6 @@ OR
 
 **Note:** Be extra careful about what sites you visit, what emails you open, and what files you download when your antivirus is disabled.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 6:**Flush your DNS and Renew your IP**
 
  If you keep getting this “connection failed” error, you can try flushing your DNS and renewing your IP:
@@ -153,13 +145,6 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/Snap8-5.jpg)
 3. You will be prompted for permission. Click **Yes** to run the **Command Prompt** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Type the command line **ipconfig /flushdns**  and press **Enter**  on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/Snap9-5.jpg)
 5. Then type the command line **ipconfig /release**  and press **Enter**  on your keyboard.  
@@ -167,20 +152,15 @@ OR
 6. Type the command line **ipconfig /renew**  and press **Enter**  on your keyboard.  
 
 <!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/Snap12-5.jpg)
 7. Play Hitman 3 again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -207,20 +187,24 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-twitter-jokes-made-accessible-with-3-simple-steps-pc/"><u>[New] Twitter Jokes Made Accessible with 3 Simple Steps (PC)</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-decoding-photopeas-art-of-backdrop-elimination/"><u>[Updated] In 2024, Decoding Photopea's Art of Backdrop Elimination</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-direct-youtube-share-on-snapchat-tips/"><u>[Updated] In 2024, Direct YouTube, Share on Snapchat Tips</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-360-video-stitching-tips-how-to-stitch-gopro-clips-into-360-videos/"><u>2024 Approved 360 Video Stitching Tips How to Stitch GoPro Clips Into 360 Videos</u></a></li>
-<li><a href="https://win-answers.techidaily.com/common-issues-and-fixes-for-playing-robocop-rogue-city-on-a-windows-or-mac-pc/"><u>Common Issues & Fixes for Playing 'RoboCop: Rogue City' On a Windows or Mac PC</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-oppo-a38-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Oppo A38 Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-solutions-for-continuous-arcadegeddon-crashes-on-your-desktop-computer/"><u>Expert Solutions for Continuous Arcadegeddon Crashes on Your Desktop Computer</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722992929290-football-manager-2019-stability-tips-no-more-sudden-shutdowns/"><u>Football Manager 2019 Stability Tips: No More Sudden Shutdowns</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-successfully-install-minecraft-on-your-windows-11-system-troubleshooting-guide/"><u>How to Successfully Install Minecraft on Your Windows 11 System – Troubleshooting Guide</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Samsung Galaxy F04 | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-the-artisans-choice-a-curated-list-of-the-8-premier-drawing-apps-for-iphones/"><u>In 2024, The Artisan’s Choice A Curated List of the 8 Premier Drawing Apps for iPhones</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/leveraging-communication-to-enhance-interview-success/"><u>Leveraging Communication to Enhance Interview Success</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solve-your-apex-legends-network-troubles-a-comprehensive-walkthrough/"><u>Solve Your Apex Legends Network Troubles: A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-fixes-for-non-responsive-steam-titles-in-windows-11/"><u>Troubleshooting Guide: Fixes for Non-Responsive Steam Titles in Windows 11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/yakuza-6-pc-version-errors-heres-your-ultimate-fixing-guide/"><u>Yakuza 6 (PC Version) Errors? Here's Your Ultimate Fixing Guide!</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-pinpointing-your-custom-designed-music-haven-on-youtube/"><u>[Updated] Pinpointing Your Custom-Designed Music Haven on Youtube</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-future-of-makeup-predicted-titans-on-youtube-for-2024/"><u>[Updated] The Future of Makeup Predicted Titans on YouTube for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/acoustic-imprinting-pc-noises-logged/"><u>Acoustic Imprinting PC Noises Logged</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bypass-the-hassle-effective-strategies-for-repairing-the-winwordexe-application-glitches/"><u>Bypass the Hassle: Effective Strategies for Repairing the WINWORD.EXE Application Glitches</u></a></li>
+<li><a href="https://win-answers.techidaily.com/crusader-kings-iii-stability-issues-resolved-for-optimal-gaming-experience-on-desktop/"><u>Crusader Kings III Stability Issues - Resolved for Optimal Gaming Experience on Desktop</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/decoding-the-german-language-alphabet-and-articulation/"><u>Decoding the German Language: Alphabet & Articulation</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/free-online-conversion-change-images-from-jpeg-to-png-with-movavi/"><u>Free Online Conversion: Change Images From JPEG to PNG with Movavi</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-adjust-windows-11-taskbar-dimensions/"><u>How to Adjust Windows 11 Taskbar Dimensions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-on-apple-iphone-7-plus-with-or-without-password-by-drfone-ios/"><u>How To Change Your Apple ID on Apple iPhone 7 Plus With or Without Password</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-asus-rog-phone-8-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Asus ROG Phone 8 Phone with Broken Screen</u></a></li>
+<li><a href="https://win-answers.techidaily.com/join-forces-in-elden-ring-against-enemies-fix-guide-for-multiplayer-issues/"><u>Join Forces in Elden Ring Against Enemies - Fix Guide for Multiplayer Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/lost-ark-optimization-fixing-the-sudden-dip-in-frames-per-second-fps/"><u>Lost Ark Optimization: Fixing the Sudden Dip in Frames Per Second (FPS)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/no-more-waiting-fixing-player-connection-troubles-for-faster-game-searches-in-cod-warzone/"><u>No More Waiting: Fixing Player Connection Troubles for Faster Game Searches in COD Warzone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pinpointing-problems-and-finding-fixes-why-does-overwatch-2-keep-failing-on-your-computer/"><u>Pinpointing Problems & Finding Fixes: Why Does Overwatch 2 Keep Failing On Your Computer?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/restore-game-sounds-overcoming-no-audio-challenge-in-evil-genius-2/"><u>Restore Game Sounds: Overcoming 'No Audio' Challenge in Evil Genius 2</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/the-efficient-hosts-guide-to-online-meeting-planning/"><u>The Efficient Host's Guide to Online Meeting Planning</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-critical-errors-the-ultimate-fix-for-gobi-fatal-error-in-back-4-blood/"><u>Troubleshooting Critical Errors: The Ultimate Fix for 'Gobi Fatal Error in Back 4 Blood'</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-solving-the-issue-of-starfield-not-launching-on-steam-or-xbox/"><u>Troubleshooting Guide: Solving the Issue of Starfield Not Launching on Steam or Xbox</u></a></li>
+<li><a href="https://win-answers.techidaily.com/why-does-my-pc-keeps-causing-blender-to-fail-find-out-and-fix-the-issue-now/"><u>Why Does My PC Keeps Causing Blender to Fail? Find Out and Fix the Issue Now</u></a></li>
 </ul></div>
 

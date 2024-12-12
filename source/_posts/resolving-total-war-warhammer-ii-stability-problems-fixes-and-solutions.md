@@ -1,7 +1,7 @@
 ---
 title: "Resolving TOTAL WAR: WARHAMMER II Stability Problems - Fixes & Solutions"
-date: 2024-12-04T16:11:21.449Z
-updated: 2024-12-06T19:03:52.967Z
+date: 2024-12-06T16:14:43.062Z
+updated: 2024-12-12T19:03:49.648Z
 tags:
   - win11
   - win10
@@ -39,7 +39,7 @@ _Total War: WARHAMMER II_ constantly crashes your PC?
 9. **[Reinstall Steam](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Check your PC specs
@@ -71,11 +71,11 @@ _Total War: WARHAMMER II_ constantly crashes your PC?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-00-51.jpg)
 
- Make sure your PC meets the minimum specs, then go ahead with the fix below. (If your computer doesn’t meet the minimum specs, the only solution would be upgrading your PC.)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Make sure your PC meets the minimum specs, then go ahead with the fix below. (If your computer doesn’t meet the minimum specs, the only solution would be upgrading your PC.)
 
 ### Fix 2: Restart your computer
 
@@ -125,13 +125,13 @@ If your game crashes again, then try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-29_11-49-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Click**Roll Back Driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-29_11-53-47.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you can’t click the button, or if rolling back to the previous version didn’t fix your issue, then move on and try updating your graphics driver.
 
@@ -179,7 +179,7 @@ If your issue persists, then move on to the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-04-38.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)**  Click the **LOCAL FILES**  tab, and then click **VERIFY INTEGRITY OF GAME FILES** .
@@ -191,6 +191,10 @@ If your issue persists, then move on to the next fix below.
 **5)** Relaunch your game after the process is complete.
 
 If the game is still unplayable, check the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Run your game with DirectX 11
 
@@ -210,12 +214,16 @@ If the game is still unplayable, check the next fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-53-08.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **6)** Type**\-dx11** on the box and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-55-10.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If your game still won’t launch properly, move on to the next fix.
@@ -232,10 +240,6 @@ If your game still won’t launch properly, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-12-04-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Under**View by** , select**Small icons** , then click**Windows Defender Firewall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-20-25.jpg)
@@ -247,10 +251,6 @@ If your game still won’t launch properly, move on to the next fix.
 **5)** Click**Change settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-06-26.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **6)** Click each Steam entities, then click**Remove** .
 
@@ -276,17 +276,21 @@ If this method doesn’t work for you, move on to try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-05-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)**  Click the **Compatibility**  tab. Then check the box next to **Run this program in compatibility mode for** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-05-16.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**  Click the list box below to select **Windows 7** , then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-05-21-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)**  Relaunch your game to check if your issue had been resolved.
 
@@ -300,21 +304,17 @@ If this method doesn’t work for you, move on to try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-31-22.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back up it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-31-33.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-31-39.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Under **View by** , select **Category** , then click**Uninstall a program** .
 
@@ -357,19 +357,24 @@ If this method doesn’t work for you, move on to try the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-go-incognito-with-instagram-live-streaming-tips/"><u>[Updated] In 2024, Go Incognito with Instagram Live Streaming Tips</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-indie-filmmakers-online-youtube-tutorials-for-growth/"><u>[Updated] Indie Filmmakers Online YouTube Tutorials for Growth</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-unpacking-the-best-youtube-music-reactions-2023/"><u>[Updated] Unpacking the Best YouTube Music Reactions, 2023</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-vivo-y36i-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Vivo Y36i by Name | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/complete-guide-updating-and-downloading-insignia-bluetooth-adapter-drivers-on-windows-systems/"><u>Complete Guide: Updating and Downloading Insignia Bluetooth Adapter Drivers on Windows Systems</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xs-max-by-drfone-ios/"><u>In 2024, How to Unlock iPhone XS Max?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-motorola-moto-e13-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Motorola Moto E13 Phone FRP Lock</u></a></li>
-<li><a href="https://media-tips.techidaily.com/protect-your-data-privacy-step-by-step-instructions-to-deactivate-youtubes-auto-downloads/"><u>Protect Your Data Privacy: Step-by-Step Instructions to Deactivate YouTube's Auto-Downloads</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-9-unpaid-flac-format-transformers-the-ultimate-guide/"><u>Top 9 Unpaid FLAC Format Transformers: The Ultimate Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-sites-to-legally-stream-uncut-anime-episodes-online/"><u>Top Sites to Legally Stream Uncut Anime Episodes Online</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-ranking-substitutes-for-leawo-dvd-ripper-unleash-superior-quality/"><u>Top-Ranking Substitutes for Leawo DVD Ripper: Unleash Superior Quality</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-to-editing-and-cutting-videos-in-windows-with-the-power-of-ffmpeg/"><u>Ultimate Guide to Editing and Cutting Videos in Windows with the Power of FFmpeg</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-mastering-vob-to-mp4-with-handbrake/"><u>Ultimate Guide: Mastering VOB to MP4 with HandBrake</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-transforming-ogv-files-into-gifs-using-top-ranked-gif-creation-tools/"><u>Ultimate Guide: Transforming OGV Files Into GIFs Using Top-Ranked GIF Creation Tools</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/anking-8-real-time-strategies-to-grow-youtube-success/"><u>[New] Ranking 8 Real-Time Strategies to Grow YouTube Success</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-androidandios-the-best-free-overlay-imaging-tools-top-10/"><u>[Updated] In 2024, Android&iOS The Best FREE Overlay Imaging Tools (Top 10)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-the-delay-cutting-edge-solutions-to-optimize-your-dota-2-play/"><u>Beat the Delay: Cutting-Edge Solutions to Optimize Your Dota 2 Play</u></a></li>
+<li><a href="https://win11.techidaily.com/combating-insufficient-usb-controller-support/"><u>Combating Insufficient USB Controller Support</u></a></li>
+<li><a href="https://win-answers.techidaily.com/defeating-fortnite-crash-errors-expert-tips-for-stable-gaming/"><u>Defeating Fortnite Crash Errors: Expert Tips for Stable Gaming</u></a></li>
+<li><a href="https://win-forum.techidaily.com/essential-security-steps-how-to-safeguard-your-windows-machine/"><u>Essential Security Steps: How to Safeguard Your Windows Machine</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-boost-your-gaming-experience-by-optimizing-shaders-in-battlefront-ii/"><u>Expert Tips: Boost Your Gaming Experience by Optimizing Shaders in Battlefront II</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-belly-laughs-exclusive-access-to-freebies/"><u>In 2024, Belly Laughs Exclusive Access to Freebies</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-ultimate-guide-inverse-video-tricks-on-youtube-plustutorials/"><u>In 2024, Ultimate Guide Inverse Video Tricks on YouTube (+Tutorials)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-wow-repairs-essential-fixes-for-a-smooth-gaming-experience-on-desktops/"><u>Mastering WoW Repairs: Essential Fixes for a Smooth Gaming Experience on Desktops</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimizing-computer-resources-when-playing-new-world-strategies-for-lowered-cpu-usage/"><u>Optimizing Computer Resources When Playing New World – Strategies for Lowered CPU Usage</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-game-wont-launch-issues-by-validating-your-game-installation/"><u>Solving 'Game Won't Launch' Issues by Validating Your Game Installation</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-to-fixing-connection-and-download-glitches-in-utorrent/"><u>Step-by-Step Guide to Fixing Connection & Download Glitches in uTorrent</u></a></li>
+<li><a href="https://win-answers.techidaily.com/team-fortress-2-stability-enhancements-stop-the-unwanted-interruptions/"><u>Team Fortress 2 Stability Enhancements - Stop the Unwanted Interruptions</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-oppo-find-n3-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Oppo Find N3 Location | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshoot-and-repair-hp-display-malfunctions-successfully-solved/"><u>Troubleshoot and Repair HP Display Malfunctions Successfully [SOLVED]</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unstick-your-progress-how-to-fix-phasmophobias-persistent-90-load-in-new-patches/"><u>Unstick Your Progress: How to Fix Phasmophobia's Persistent 90% Load in New Patches</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unveiling-the-truth-assassins-creed-valhalla-release-no-longer-delayed/"><u>Unveiling the Truth: Assassin's Creed Valhalla Release No Longer Delayed</u></a></li>
 </ul></div>
 

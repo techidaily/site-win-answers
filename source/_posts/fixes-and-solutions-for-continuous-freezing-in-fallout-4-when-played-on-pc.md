@@ -1,7 +1,7 @@
 ---
 title: Fixes & Solutions for Continuous Freezing in Fallout 4 When Played on PC
-date: 2024-11-16T06:36:48.318Z
-updated: 2024-11-16T17:51:03.462Z
+date: 2024-12-11T18:49:14.757Z
+updated: 2024-12-12T18:06:13.159Z
 tags:
   - win11
   - win10
@@ -49,13 +49,6 @@ Just follow the steps below to verify integrity of game files:
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . If Steam finds anything wrong with the game files, it will re-download them from its official server.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
  Depending on the size of the game files, it may take some time to verify all your game files.
@@ -63,10 +56,7 @@ Just follow the steps below to verify integrity of game files:
  After the the verifying process is complete, launch WWE 2K22 to see if it crashes again. If this issue persists, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 2: Update graphics driver
@@ -78,13 +68,6 @@ Just follow the steps below to verify integrity of game files:
  If you don’t remember when was the last time you updated your drivers, definitely do it now.
 
 There’re mainly two ways you can update your graphics drivers:
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Option 1: Manually
 
@@ -102,6 +85,10 @@ There’re mainly two ways you can update your graphics drivers:
 
 Or
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Option 2: Automatically (Recommended)
 
  This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
@@ -118,15 +105,13 @@ Or
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
-![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
- (This requires **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
+ (This requires **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -137,10 +122,7 @@ Or
  If the latest graphics driver fails to stop the crash, just read on to try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 3: Install the latest game patch
@@ -152,10 +134,7 @@ Or
  Launch WWE 2K22 and see if the game crashing issue has been resolved. If it hasn’t, or there was no new game patch available, move on to next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 4: Install the latest DirectX files
@@ -193,6 +172,10 @@ Or
 
 ![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you’re using other apps with overlay features (e.g. Discord, Nvidia GeForce Experience, Twitch, etc.), ensure you’ve disabled the in-game overlay in those apps feature.
 
  Launch WWE 2K22 and see if the it crashes again. If this fix doesn’t work, try the next fix, below.
@@ -228,20 +211,20 @@ Or
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-mac-users-seamlessly-setting-up-streamlabs-in-obs/"><u>[New] Mac Users Seamlessly Setting Up Streamlabs in OBS</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-mirthful-montage-mastering-7-comical-video-vignettes/"><u>[New] Mirthful Montage Mastering 7 Comical Video Vignettes</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-dissecting-ajey-nagars-2023-youtube-economic-landscape/"><u>[Updated] 2024 Approved Dissecting Ajey Nagar's 2023 YouTube Economic Landscape</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-innovating-with-no-cost-text-animation-methods/"><u>[Updated] Innovating with No-Cost Text Animation Methods</u></a></li>
-<li><a href="https://win-answers.techidaily.com/accelerate-origin-downloads-top-strategies-for-improved-performance/"><u>Accelerate Origin Downloads: Top Strategies for Improved Performance</u></a></li>
-<li><a href="https://win-answers.techidaily.com/diving-into-the-factors-contributing-to-slower-frame-rates-in-fortnites-latest-update/"><u>Diving Into the Factors Contributing to Slower Frame Rates in Fortnite's Latest Update</u></a></li>
-<li><a href="https://win-answers.techidaily.com/frame-rate-and-stutter-fixes-the-division-2-enhanced-performance-guide-2024/"><u>Frame Rate and Stutter Fixes (The Division 2 - Enhanced Performance Guide 2024)</u></a></li>
-<li><a href="https://win-answers.techidaily.com/grand-theft-auto-v-comprehensive-guide-to-fixing-errgfxd3dinit-display-problems/"><u>GRAND THEFT AUTO V: Comprehensive Guide to Fixing ERR_GFX_D3D_INIT Display Problems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-quickly-resolve-the-graphics-driver-crashes-in-valorant-issue/"><u>How to Quickly Resolve the 'Graphics Driver Crashes in Valorant' Issue</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolve-your-call-of-duty-black-ops-cold-war-issue-with-error-code-0xc0000005/"><u>Resolve Your Call of Duty: Black Ops Cold War Issue with Error Code 0xC0000005</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-the-problem-resetting-your-lost-ipad-passwordpasscode/"><u>Solving the Problem: Resetting Your Lost iPad Password/Passcode</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-resolving-windows-update-issue-error-0x80240017/"><u>Step-by-Step Solution for Resolving Windows Update Issue (Error 0X80240017)</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-honor-x50-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Honor X50 Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-your-vizio-television-solutions-for-wi-fi-connection-issues/"><u>Troubleshooting Your Vizio Television: Solutions for Wi-Fi Connection Issues</u></a></li>
-<li><a href="https://win-answers.techidaily.com/unveiling-the-truth-behind-mafia-definitive-editions-release-challenges/"><u>Unveiling the Truth Behind Mafia: Definitive Edition's Release Challenges</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/astering-youtube-engagement-optimal-video-formats-guide-for-2024/"><u>[New] Mastering YouTube Engagement Optimal Video Formats Guide for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-optimize-youtube-visibility-by-sustaining-creativity-commons-license/"><u>[Updated] Optimize YouTube Visibility by Sustaining Creativity Commons License</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/10-premier-alternative-activities-to-watching-sports/"><u>10 Premier Alternative Activities to Watching Sports</u></a></li>
+<li><a href="https://win-answers.techidaily.com/achieve-smoother-gameplay-strategies-to-address-satisfactory-fps-declines/"><u>Achieve Smoother Gameplay: Strategies to Address Satisfactory FPS Declines</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-oneplus-ace-2-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from OnePlus Ace 2 Phones with/without a PC</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-crafting-cinematic-tales-in-documentary-scripts/"><u>In 2024, Crafting Cinematic Tales in Documentary Scripts</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-to-vivo-y17s-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Vivo Y17s Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://win-answers.techidaily.com/league-of-legends-errors-fast-fixes-for-rapid-restart/"><u>League of Legends Errors: Fast Fixes for Rapid Restart</u></a></li>
+<li><a href="https://win-answers.techidaily.com/no-more-freezes-solutions-for-stable-genshin-impact-on-pc/"><u>No More Freezes – Solutions for Stable Genshin Impact on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/persona-3-hd-troubleshooting-how-to-overcome-launch-errors/"><u>Persona 3 HD Troubleshooting - How to Overcome Launch Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-content-disconnected-error-on-windows-using-steam/"><u>Solving Content Disconnected Error on Windows Using Steam</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-sophisticated-office-upgrade-exploring-the-features-and-design-of-flexispots-theodore-standing-desk/"><u>The Sophisticated Office Upgrade: Exploring the Features and Design of Flexispot's Theodore Standing Desk</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-persistent-crashes-in-watch-dogs-legion-on-windows-platforms/"><u>Troubleshooting Tips for Persistent Crashes in Watch Dogs: Legion on Windows Platforms</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-latest-upgrade-samsung-enhances-its-copilotplus-pc-featuring-advanced-ai-capabilities-insights-from-zdnet/"><u>Unveiling the Latest Upgrade: Samsung Enhances Its Copilot+ PC Featuring Advanced AI Capabilities - Insights From ZDNet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/warzone-winning-tactics-solving-the-perplexing-dev-error-e5573-on-your-gaming-console-and-pc/"><u>Warzone Winning Tactics: Solving the Perplexing Dev Error E5573 on Your Gaming Console and PC</u></a></li>
 </ul></div>
 

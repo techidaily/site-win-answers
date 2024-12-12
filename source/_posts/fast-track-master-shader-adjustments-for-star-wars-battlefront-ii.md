@@ -1,7 +1,7 @@
 ---
 title: "Fast Track: Master Shader Adjustments for Star Wars Battlefront II"
-date: 2024-08-23T13:18:07.241Z
-updated: 2024-08-24T13:18:07.241Z
+date: 2024-12-09T17:49:03.320Z
+updated: 2024-12-12T18:55:37.702Z
 tags:
   - win11
   - win10
@@ -48,6 +48,10 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 
  If you haven’t been updated your game for a while, you can update your game. The official keeps releasing new patches, the latest version may solve the crashing issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Manage Virtual Memory
 
  If the game crashes happened in the loading screen, you can try this fix. By changing the setting of Virtual Memory, the crash should be gone.
@@ -56,26 +60,29 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 2. Click**Advanced system settings.**  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/1-4.jpg)
 3. Under the**Advanced** tab, click**Settings** .  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2-4.jpg)
 4. Under**Virtual memory** , click**Change** .  
-![](https://images.drivereasy.com/wp-content/uploads/2019/08/3-2.jpg)
-5. Uncheck**Automatically manage paging file size for all drives** and make sure you’ve check**System managed size** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2019/08/4-2.jpg)
-6. Click**Set > OK** .
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
-7. Reboot your computer can check whether the crash will appear or not.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/3-2.jpg)
+5. Uncheck**Automatically manage paging file size for all drives** and make sure you’ve check**System managed size** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/4-2.jpg)
+6. Click**Set > OK** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+7. Reboot your computer can check whether the crash will appear or not.
+
 ### Fix 3: Delete specific files from the save folder
 
  It’s possible some of the files in your game folder is corrupted, you can delete the specific files to get rid of crashes.  
@@ -86,11 +93,13 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 3. Choose**LOCAL FILES** and click**BROWSE LOCAL FILES** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/browse-2.jpg)
 4. Navigate to the save folder, delete Data(999).sav & Data(999).bak.
-5. Reboot your computer and check the issue is solved or not.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+5. Reboot your computer and check the issue is solved or not.
+
 ### Fix 4: Underclock your clock speed
 
  The game is built with an old Unreal Engine version. This may be the reason for the random crashes. You can underclock your CPU speed by 100 MHz or 150 MHz to see whether it helps or not.
@@ -121,9 +130,6 @@ OR
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
  Thanks for reading. Hope this article meets your need. And you are welcome to leave comments below.
@@ -136,8 +142,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -145,4 +149,18 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-cutting-edge-techniques-for-spotify-ad-success/"><u>[New] Cutting-Edge Techniques for Spotify Ad Success</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-reinstate-your-airdrop-linkages-simple-fixes-for-iosmacos-issues/"><u>[New] Reinstate Your AirDrop Linkages Simple Fixes for iOS/macOS Issues</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-a-step-by-step-guide-for-meet-custom-filters-and-effects/"><u>[Updated] 2024 Approved A Step-by-Step Guide for Meet Custom Filters & Effects</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhancing-microsoft-sharepoint-through-advanced-ocr-discover-the-power-of-abbyys-innovative-tools/"><u>Enhancing Microsoft SharePoint Through Advanced OCR: Discover the Power of ABBYY's Innovative Tools</u></a></li>
+<li><a href="https://win-answers.techidaily.com/f1-2021-game-stability-issues-how-to-fix-the-recurring-pc-crashes/"><u>F1 2021 Game Stability Issues: How to Fix the Recurring PC Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fast-and-simple-fixes-to-restore-your-steamvr-experience-today/"><u>Fast & Simple Fixes to Restore Your SteamVR Experience Today</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-your-mass-effect-legendary-launch-problems-with-these-simple-steps/"><u>Fix Your Mass Effect Legendary Launch Problems with These Simple Steps</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-the-most-crucial-info-for-new-youtube-tv-users/"><u>In 2024, The Most Crucial Info for New YouTube TV Users</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-top-5-motorola-moto-g23-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Motorola Moto G23 Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://win-answers.techidaily.com/revamp-your-gaming-experience-solve-apex-legends-startup-problems-fast/"><u>Revamp Your Gaming Experience - Solve Apex Legends Startup Problems Fast</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-getting-call-of-duty-black-ops-4-loaded-and-running-smoothly/"><u>Troubleshooting Guide: Getting Call of Duty Black Ops 4 Loaded & Running Smoothly</u></a></li>
+</ul></div>
 

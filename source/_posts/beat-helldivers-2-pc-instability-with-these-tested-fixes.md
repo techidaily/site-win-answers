@@ -1,7 +1,7 @@
 ---
 title: Beat Helldivers 2 PC Instability with These Tested Fixes
-date: 2024-11-15T17:33:06.187Z
-updated: 2024-11-17T04:10:54.972Z
+date: 2024-12-10T17:37:06.566Z
+updated: 2024-12-12T18:14:05.569Z
 tags:
   - win11
   - win10
@@ -53,6 +53,10 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 
  If you haven’t been updated your game for a while, you can update your game. The official keeps releasing new patches, the latest version may solve the crashing issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Manage Virtual Memory
 
  If the game crashes happened in the loading screen, you can try this fix. By changing the setting of Virtual Memory, the crash should be gone.
@@ -62,20 +66,21 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/1-4.jpg)
 3. Under the**Advanced** tab, click**Settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2-4.jpg)
 4. Under**Virtual memory** , click**Change** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/3-2.jpg)
 5. Uncheck**Automatically manage paging file size for all drives** and make sure you’ve check**System managed size** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/4-2.jpg)
 6. Click**Set > OK** .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7. Reboot your computer can check whether the crash will appear or not.
 
@@ -90,25 +95,15 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/browse-2.jpg)
 4. Navigate to the save folder, delete Data(999).sav & Data(999).bak.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Reboot your computer and check the issue is solved or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Underclock your clock speed
 
  The game is built with an old Unreal Engine version. This may be the reason for the random crashes. You can underclock your CPU speed by 100 MHz or 150 MHz to see whether it helps or not.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Bonus: Update your drivers
 
@@ -140,10 +135,7 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Thanks for reading. Hope this article meets your need. And you are welcome to leave comments below.
@@ -165,21 +157,14 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-leading-8-spots-for-accessing-free-high-quality-3d-text-files/"><u>[Updated] Leading 8 Spots for Accessing FREE High-Quality 3D Text Files</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-essentials-for-becoming-a-top-notch-interviewer/"><u>2024 Approved The Essentials for Becoming a Top-Notch Interviewer</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722999047011-gastric-decontamination-methods-like-activated-charcoal-may-reduce-absorption-of-ingested-poisons-but-are-not-always-appropriate-or-effective/"><u>Gastric Decontamination Methods Like Activated Charcoal May Reduce Absorption of Ingested Poisons but Are Not Always Appropriate or Effective.</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/harnessing-the-power-of-film-in-educational-practice-for-2024/"><u>Harnessing the Power of Film in Educational Practice for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-successfully-tackle-crashes-in-helldivers-2-on-pc-proven-fixes-inside/"><u>How to Successfully Tackle Crashes in Helldivers 2 on PC - Proven Fixes Inside!</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-exploring-imovies-default-cropping-behavior/"><u>In 2024, Exploring iMovie's Default Cropping Behavior</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-lava-yuva-3-profrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Lava Yuva 3 ProFRP Lock</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Realme C67 4G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/investing-in-education-shunning-quick-chatgpt-fixes/"><u>Investing in Education: Shunning Quick ChatGPT Fixes</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/losung-fur-nicht-formatierte-sd-karten-wiederherstellungsmoglichkeiten-erklart/"><u>Lösung Für Nicht Formatierte SD-Karten: Wiederherstellungsmöglichkeiten Erklärt</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-game-lag-in-nier-replicant-tips-and-fixes-for-smooth-play/"><u>Overcoming Game Lag in NieR: Replicant - Tips & Fixes for Smooth Play</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overwatch-fixed-graphics-driver-issues-no-more-crashes/"><u>Overwatch: Fixed Graphics Driver Issues - No More Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solve-your-problems-with-the-best-fixes-for-stray-not-working/"><u>Solve Your Problems with the Best Fixes for Stray Not Working</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-reducing-chromes-heavy-load-on-your-cpu/"><u>Step-by-Step Guide: Reducing Chrome's Heavy Load on Your CPU</u></a></li>
-<li><a href="https://win-answers.techidaily.com/valorant-graphics-error-resolved-rapid-remedies-for-your-graphic-driver-crashes/"><u>Valorant Graphics Error Resolved: Rapid Remedies for Your Graphic Driver Crashes</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/3gp/"><u>오픈 소스에서 공급성 없이 3GP 파일을 원형으로 바꾸기: 모바니아</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/everaging-edit-tools-for-youtube-videos-post-publishment-for-2024/"><u>[New] Leveraging Edit Tools for YouTube Videos Post-Publishment for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-unlock-the-power-to-create-personalized-whatsapp-alerts/"><u>[Updated] In 2024, Unlock the Power to Create Personalized WhatsApp Alerts</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-roblox-pc-issues-fast-top-6-solutions-for-uninterrupted-gaming/"><u>Fix Roblox PC Issues Fast: Top 6 Solutions for Uninterrupted Gaming</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-vivo-x90s-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Vivo X90S Devices</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-the-iphone-11-pro-max-sim-lock-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock The iPhone 11 Pro Max SIM Lock 4 Easy Methods</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimizing-system-settings-to-stop-crashes-in-total-war-raven-gear-pc-gameplay/"><u>Optimizing System Settings to Stop Crashes in Total War: RAVEN GEAR - PC Gameplay</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-stop-dota-2-from-keeping-you-down/"><u>Troubleshooting Guide: Stop Dota 2 From Keeping You Down!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-why-your-ds4-isnt-working-with-windows-and-what-to-do-next/"><u>Troubleshooting: Why Your DS4 Isn't Working With Windows and What To Do Next</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/yl-computing-jamie-millers-stunning-backgrounds-and-digital-wallpaper-collection-by-yl-software/"><u>YL Computing: Jamie Miller's Stunning Backgrounds & Digital Wallpaper Collection by YL Software</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "PC Gamers Rejoice: Fix the [SOLVED] Ascent Game From Constantly Crashing"
-date: 2024-11-30T16:37:01.279Z
-updated: 2024-12-06T18:13:48.707Z
+date: 2024-12-08T18:27:47.240Z
+updated: 2024-12-12T16:58:26.246Z
 tags:
   - win11
   - win10
@@ -46,10 +46,6 @@ Century: Age of Ashes system requirements
 
  If you’re using a powerful PC but still suffer from game crashes, don’t worry. Just read on and try the fixes below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Whether the game crashes on startup or crashes in the middle of the game, you’ll find a fix to try in this article. You don’t need to try them all. Just work your way down the list until you find the one that works for you.
@@ -71,15 +67,19 @@ Century: Age of Ashes system requirements
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . If Steam finds anything wrong with the game files, it will re-download them from its official server.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Depending on the size of the game files, it may take some time to verify all your game files.
 
  Launch Century: Age of Ashes after the verifying process is complete. See if the game crashes again. If this issue persists, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Update your graphics driver
 
@@ -103,6 +103,10 @@ Century: Age of Ashes system requirements
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Install the latest game patch
 
  The developer of Century: Age of Ashes releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -110,6 +114,10 @@ Century: Age of Ashes system requirements
  If a patch is available, it will be detected by Steam, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Launch Century: Age of Ashes again and check if the this fix works. If it didn’t work, or there was no new game patch available, move on to next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Disable overlays
 
@@ -120,10 +128,6 @@ Century: Age of Ashes system requirements
 1. Launch Steam and navigate to **the LIBRARY tab** . **right-click** on _Century: Age of Ashes_ . Then select **Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Uncheck **Enable Steam Overlay while in-game** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
 
@@ -142,6 +146,10 @@ Century: Age of Ashes system requirements
 
  Launch the game and see if the it crashes again. If this fix doesn’t work, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Temporarily disable anti-virus software
 
  Many 3rd party antivirus software may also interfere with game files. Once some important game files are blocked by those 3rd party antivirus software, the game would crash.
@@ -153,7 +161,7 @@ Century: Age of Ashes system requirements
 If this fix didn’t work, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Repair corrupted system files
@@ -179,11 +187,11 @@ If this fix didn’t work, try the next fix, below.
  Note: This is a paid service with a 60-day money-back guarantee, which means that you’ll need to buy the full version to start repairing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Perform a clean boot
@@ -200,10 +208,6 @@ If this fix didn’t work, try the next fix, below.
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
 
@@ -211,10 +215,6 @@ If this fix didn’t work, try the next fix, below.
 6. Click **Restart** to restart your PC.  
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Restart** Windows OS and launch Century: Age of Ashes to check if the game crashes again. If not, open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software.
 
@@ -249,24 +249,21 @@ If this fix didn’t work, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-comprehensive-walkthrough-of-wmps-cd-handling/"><u>[New] 2024 Approved Comprehensive Walkthrough of WMP's CD Handling</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-streamlining-screen-capture-minecraft-edition-tips-and-tricks-for-macs/"><u>[New] 2024 Approved Streamlining Screen Capture Minecraft Edition - Tips & Tricks for Macs</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-elite-5-step-time-lapse-recordings-guide/"><u>[Updated] In 2024, Elite 5-Step Time-Lapse Recordings Guide</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-the-ultimate-guide-to-selecting-a-top-screen-recorder-obsfraps/"><u>[Updated] The Ultimate Guide to Selecting a Top Screen Recorder (OBS/Fraps)</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-secrets-of-watching-public-instagram-profiles-as-a-guest-user/"><u>Discover the Secrets of Watching Public Instagram Profiles as a Guest User</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/easeus-screen-recorder-featuresreview/"><u>EaseUS Screen Recorder Features|Review</u></a></li>
-<li><a href="https://win-answers.techidaily.com/master-class-eliminate-stuttering-for-smoother-age-of-empires-4-gaming-experience/"><u>Master Class: Eliminate Stuttering for Smoother Age of Empires 4 Gaming Experience</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revamping-your-health-ambitions-a-step-by-step-guide-to-adjusting-fitness-targets-on-iphoneapple-watch-tips-from-tech-experts/"><u>Revamping Your Health Ambitions: A Step-by-Step Guide to Adjusting Fitness Targets on iPhone/Apple Watch - Tips From Tech Experts</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/the-ultimate-guide-to-adjusting-mouse-settings-with-yl-software-yl-computing-solutions/"><u>The Ultimate Guide to Adjusting Mouse Settings with YL Software - YL Computing Solutions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-15-free-tools-for-converting-mp4-audio-files-into-mp3-format/"><u>Top 15 Free Tools for Converting MP4 Audio Files Into MP3 Format</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-18-must-have-plugins-for-boxing-and-wrestling-streams-on-kodi-watch-wwe-ufc-and-mma-events-free/"><u>Top 18 Must-Have Plugins for Boxing & Wrestling Streams on Kodi: Watch WWE, UFC, and MMA Events FREE</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-4-methods-for-converting-your-dvd-collection-into-high-quality-mp3-files/"><u>Top 4 Methods for Converting Your DVD Collection Into High-Quality MP3 Files</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-strategies-for-converting-mov-videos-to-mp4-with-windows-10-a-comprehensive-how-to/"><u>Top Strategies for Converting MOV Videos to MP4 with Windows 10 - A Comprehensive How-To</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/top-techniques-live-streaming-games-via-obs/"><u>Top Techniques Live-Streaming Games via OBS</u></a></li>
-<li><a href="https://extra-information.techidaily.com/transforming-images-with-ar-a-guide-to-free-lut-downloads/"><u>Transforming Images with AR A Guide to Free LUT Downloads</u></a></li>
-<li><a href="https://win-answers.techidaily.com/tubitv-ultimate-guide-easy-installation-and-hdr-streaming-with-the-kodi-add-on/"><u>TubiTV Ultimate Guide: Easy Installation & HDR Streaming with the Kodi Add-On</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-list-of-the-top-11-best-pc-sound-capture-tools-for-home-studios/"><u>Ultimate List of the Top 11 Best PC Sound Capture Tools for Home Studios</u></a></li>
-<li><a href="https://win-answers.techidaily.com/unlock-the-full-potential-essential-guidance-for-using-winx-dvd-ripper-platinum-freely/"><u>Unlock the Full Potential: Essential Guidance for Using WinX DVD Ripper Platinum Freely</u></a></li>
-<li><a href="https://win-answers.techidaily.com/wonderfox-dvd/"><u>WonderFox DVDコンバータ完全な移行成功 - ありがとうございまして</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-the-final-word-on-powerdirector-a-complete-review/"><u>[New] 2024 Approved The Final Word on PowerDirector A Complete Review</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-finding-the-right-angle-for-your-fb-videos-for-2024/"><u>[Updated] Finding the Right Angle for Your FB Videos for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-maximizing-youtube-engagement-with-strategic-hashes/"><u>[Updated] Maximizing YouTube Engagement with Strategic Hashes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-6-video-editing-apps-for-macos-big-sur-11/"><u>2024 Approved Top 6 Video Editing Apps for macOS Big Sur 11</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-vanguard-wearables-for-sporting-captures/"><u>2024 Approved Vanguard Wearables for Sporting Captures</u></a></li>
+<li><a href="https://win-answers.techidaily.com/best-solutions-for-fixing-chivalry-2s-persistent-crash-issues/"><u>Best Solutions for Fixing Chivalry 2'S Persistent Crash Issues</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-samsung-galaxy-a05-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Samsung Galaxy A05 Phone? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-vivo-v29-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Vivo V29 to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-resolve-increased-resource-consumption-in-wsappx-a-comprehensive-guide/"><u>How To Resolve Increased Resource Consumption in Wsappx – A Comprehensive Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-the-ultimate-path-to-perfecting-adobe-capture-screen-recordings/"><u>In 2024, The Ultimate Path to Perfecting Adobe Capture Screen Recordings</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-performance-hiccups-optimizing-your-fallout-e76-experience/"><u>Overcoming Performance Hiccups: Optimizing Your Fallout E76 Experience</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/paso-a-paso-como-reemplazar-tu-disco-duro-por-un-ssd-en-una-computadora-portatil-con-windows-10-o-nuevas-versiones/"><u>Paso a Paso: Cómo Reemplazar Tu Disco Duro Por Un SSD en Una Computadora Portátil Con Windows 10 O Nuevas Versiones</u></a></li>
+<li><a href="https://win-answers.techidaily.com/restoring-your-link-to-battlenet-overcoming-issues-with-losing-connection-to-blizzard-games/"><u>Restoring Your Link to Battle.net: Overcoming Issues with Losing Connection to Blizzard Games</u></a></li>
+<li><a href="https://win-answers.techidaily.com/roblox-wont-start-top-fixes-and-quick-hacks-for-a-smooth-gaming-experience/"><u>Roblox Won't Start? Top Fixes & Quick Hacks for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-fixing-errors-in-nwstoreexe-application/"><u>Troubleshooting Tips for Fixing Errors in NW_Store.exe Application</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-why-cant-i-start-modern-warfare-2/"><u>Troubleshooting: Why Can't I Start Modern Warfare 2?</u></a></li>
 </ul></div>
 

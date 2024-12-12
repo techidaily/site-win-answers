@@ -1,7 +1,7 @@
 ---
 title: Is Xbox Live Functional? A Quick Guide to Assess Server Uptime.
-date: 2024-12-04T18:43:56.632Z
-updated: 2024-12-06T17:39:11.933Z
+date: 2024-12-06T16:35:04.799Z
+updated: 2024-12-12T16:23:12.740Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/4e1e135a4b0338f686903eb0c608ba2a349e6fad2
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try one at a time
@@ -40,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/4e1e135a4b0338f686903eb0c608ba2a349e6fad2
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c9b7a85ed26.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c9bc0594322.jpg)
 
 2) Press the**menu button**on your Xbox One controller.
@@ -51,12 +47,16 @@ thumbnail: https://thmb.techidaily.com/4e1e135a4b0338f686903eb0c608ba2a349e6fad2
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c9b7d5cf405.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) If you see **Quit**, select it. If not, skip this step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c9bc63f0698.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Re-launch Netflix on Xbox One to see if it works.
 
@@ -70,6 +70,10 @@ thumbnail: https://thmb.techidaily.com/4e1e135a4b0338f686903eb0c608ba2a349e6fad2
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c9d2f1b0153.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2) Select **Apps**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c9d39a96109.png)
@@ -78,13 +82,13 @@ thumbnail: https://thmb.techidaily.com/4e1e135a4b0338f686903eb0c608ba2a349e6fad2
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c9d4de65636.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5) Select **Uninstall all**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c9d5c6d7c9b.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6) Back to Home of your Xbox One and select**Store**. Then select **Netflix** in **Apps**.
 
@@ -93,10 +97,6 @@ thumbnail: https://thmb.techidaily.com/4e1e135a4b0338f686903eb0c608ba2a349e6fad2
 7) Select **Install**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c9d6d32cef6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 8) Run Netflix to see if it works.
 
@@ -118,22 +118,17 @@ thumbnail: https://thmb.techidaily.com/4e1e135a4b0338f686903eb0c608ba2a349e6fad2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ptimize-youtube-visibility-harness-the-potential-of-tags/"><u>[New] Optimize YouTube Visibility Harness the Potential of Tags</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-ultimate-tutorial-from-webp-to-jpeg/"><u>[Updated] 2024 Approved Ultimate Tutorial From WebP to JPEG</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-humorous-file-downloader-examination/"><u>[Updated] Humorous File Downloader Examination</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/can-you-use-a-nintendo-switch-to-watch-dvd-movies-find-out-now/"><u>Can You Use a Nintendo Switch to Watch DVD Movies? Find Out Now!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/complete-fix-for-frequent-pc-freezes-during-final-fantasy-xv-expert-advice-and-tips/"><u>Complete Fix for Frequent Pc Freezes During Final Fantasy XV - Expert Advice and Tips</u></a></li>
-<li><a href="https://win-answers.techidaily.com/dead-space-remastered-troubleshooting-guide-for-launch-problems/"><u>Dead Space Remastered Troubleshooting Guide for Launch Problems</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/discover-the-best-mac-gif-recorders-now/"><u>Discover the Best Mac GIF Recorders Now</u></a></li>
-<li><a href="https://win-answers.techidaily.com/efsa-2015-conclusion-on-the-peer-review-by-the-gmo-panel-of-a-pest-risk-assessment-for-glyphosate-as-active-substance-in-plant-protection-products-retrieved397/"><u>EFSA (2015). Conclusion on the Peer Review by the GMO Panel of a Pest Risk Assessment for Glyphosate as Active Substance in Plant Protection Products. Retrieved From https://www.efsa.europa.eu/en/topics/pesticides/glyphosate-reassessment</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-the-new-2024-update-solves-league-of-legends-notorious-loop-bug/"><u>How the New 2024 Update Solves League of Legends' Notorious Loop Bug</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-lenovo-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Lenovo Lock Screen Password?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-hurdles-in-updating-the-minecraft-core-program-a-step-by-nstep-tutorial/"><u>Overcoming Hurdles in Updating the Minecraft Core Program – A Step-by-nStep Tutorial</u></a></li>
-<li><a href="https://win-answers.techidaily.com/smooth-sailing-the-end-of-stuttering-woes-in-deathloop-on-pc-devices/"><u>Smooth Sailing: The End of Stuttering Woes in Deathloop on PC Devices</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solutions-for-overcoming-black-display-glitches-with-epic-games-platform/"><u>Solutions for Overcoming Black Display Glitches with Epic Games Platform</u></a></li>
-<li><a href="https://win-answers.techidaily.com/understanding-and-fixing-valorants-pc-input-latency-in-the-latest-update-march-2024/"><u>Understanding and Fixing Valorant's PC Input Latency in the Latest Update (March 2024)</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-the-hidden-accessing-youtube-video-comments-for-2024/"><u>Unveiling the Hidden Accessing YouTube Video Comments for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-best-10-free-and-best-text-to-speech-generators/"><u>Updated Best 10 Free and Best Text-to-Speech Generators</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/zdnet-exclusive-the-iphone-16-could-adopt-the-iphone-15-pros-most-popular-functionality/"><u>ZDNet Exclusive: The iPhone 16 Could Adopt the iPhone 15 Pro's Most Popular Functionality</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-top-6-networks-fueling-business-innovation-and-growth-for-2024/"><u>[Updated] Top 6 Networks Fueling Business Innovation and Growth for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-unseen-wealth-the-underground-auction-of-elusive-artifacts-2023-edition-for-2024/"><u>[Updated] Unseen Wealth The Underground Auction of Elusive Artifacts, 2023 Edition for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-registration-and-login/"><u>2024 Approved Registration and Login</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-various-methods-to-transfer-pictures-from-apple-iphone-13-mini-to-pc-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Various Methods to Transfer Pictures from Apple iPhone 13 mini to PC | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723013470411-overcoming-dota-2-vac-ban-issues-tips-and-tricks-for-the-new-year/"><u>Overcoming Dota 2 VAC Ban Issues - Tips and Tricks for the New Year!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-nokia-g310-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Nokia G310? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-issues-disco-elysium-no-longer-crashing-on-windowsmaclinux-platforms/"><u>Solved Issues: Disco Elysium No Longer Crashing on Windows/Mac/Linux Platforms</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-best-iphone-accessories-you-should-buy/"><u>The Best iPhone Accessories You Should Buy</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-ultimate-fix-list-for-when-steam-ignores-your-virtual-reality-gear/"><u>The Ultimate Fix List for When Steam Ignores Your Virtual Reality Gear</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-reducing-cyberpunk-2077s-excessive-cpu-consumption/"><u>Troubleshooting Guide: Reducing Cyberpunk 2077'S Excessive CPU Consumption</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>Ultimate guide to get the meltan box pokemon go For Apple iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unbreakable-legacy-thriving-through-generational-resilience-of-black-survivors/"><u>Unbreakable Legacy: Thriving Through Generational Resilience of Black Survivors</u></a></li>
 </ul></div>
 

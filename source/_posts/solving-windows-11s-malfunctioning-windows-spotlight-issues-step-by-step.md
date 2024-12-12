@@ -1,7 +1,7 @@
 ---
 title: Solving Windows 11'S Malfunctioning Windows Spotlight Issues Step by Step
-date: 2024-11-30T17:46:54.490Z
-updated: 2024-12-06T16:08:45.774Z
+date: 2024-12-05T16:37:24.629Z
+updated: 2024-12-12T18:45:07.092Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ After a long wait, the[new Hitman installment](https://www.epicgames.com/store/e
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -52,6 +48,10 @@ Now you can try to launch Hitman 3 using the Epic Games launcher.
 
  If verifying game files doesn’t help, you can take a look at the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Run Epic Games as administrator
 
  If there’s nothing wrong with your game files, the next thing you should do is check for permission issues. Granting the Epic Games launcher the administrator access could be a potential fix in this regard.
@@ -63,17 +63,21 @@ Here’s how:
 2. Now try to launch Hitman 3\. If this trick works for you, continue to the next step to**always run Epic Games launcher as administrator** . Otherwise you can jump to the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. On your desktop, right-click**Epic Game launcher** and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-games-launcher-run-as-admin-2.jpg)
 4. Navigate to the**Compatibility** tab. Under the**Settings** section, check the box next to**Run this program as an administrator** . Click**OK** to save the changes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-games-launcher-run-as-admin-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Launch Hitman 3 from game folder
@@ -109,14 +113,10 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -138,12 +138,12 @@ Here’s how you can check for updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
@@ -174,20 +174,19 @@ Here’s how you can check for updates manually:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-the-ultimate-link-from-instas-photos-to-tiks-videos-for-2024/"><u>[New] The Ultimate Link From Insta's Photos to Tik's Videos for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-unleash-clarity-in-depth-tutorial-on-video-enhancer-22/"><u>2024 Approved Unleash Clarity In-Depth Tutorial on Video Enhancer 2.2</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-fixes-for-when-stardew-valley-wont-boot-properly-on-your-pcmac/"><u>Effective Fixes for When Stardew Valley Won't Boot Properly on Your PC/Mac</u></a></li>
-<li><a href="https://win-bits.techidaily.com/elevate-your-gaming-setup-with-secretlabs-chic-and-comfy-seat-covers-a-zdnet-review/"><u>Elevate Your Gaming Setup with Secretlab's Chic and Comfy Seat Covers - A ZDNet Review</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-guide-to-resolving-apex-legends-game-engine-problems-fixed/"><u>Expert Guide to Resolving Apex Legends Game Engine Problems [FIXED]</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixes-and-solutions-for-issues-with-starting-steam-games-on-windows-11/"><u>Fixes and Solutions for Issues with Starting Steam Games on Windows 11</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/highest-quality-gag-editor-for-2024/"><u>Highest Quality Gag Editor for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-on-the-iphone-8-plus-without-previous-owner-by-drfone-ios/"><u>In 2024, How to Remove Activation Lock On the iPhone 8 Plus Without Previous Owner?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-90-gt-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Honor 90 GT Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-prime-screen-capturing-software-for-mac-users/"><u>In 2024, Prime Screen Capturing Software for Mac Users</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-lag-and-lockups-a-guide-to-fixing-call-of-duty-vanguard-freezing-problems/"><u>Overcoming Lag and Lockups - A Guide to Fixing Call of Duty: Vanguard Freezing Problems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-5-solutions-for-resolving-zoom-cant-start-video-issue/"><u>Top 5 Solutions for Resolving 'Zoom Can't Start Video' Issue</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-stabilizing-your-dragons-dogma-2-pc-gameplay-experience/"><u>Troubleshooting Tips for Stabilizing Your Dragon's Dogma 2 PC Gameplay Experience</u></a></li>
-<li><a href="https://extra-information.techidaily.com/ultimate-2023-guide-to-your-updated-lg-bp550/"><u>Ultimate 2023 Guide to Your Updated LG BP550</u></a></li>
-<li><a href="https://win-answers.techidaily.com/whats-new-in-rainbow-six-siege-explore-the-2024-update-features/"><u>What’s New in Rainbow Six Siege? Explore the 2024 Update Features!</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-the-connoisseurs-guide-to-youtube-music-orchestration/"><u>[New] 2024 Approved The Connoisseur's Guide to YouTube Music Orchestration</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-overcoming-obstacles-to-display-videos-prominently/"><u>[Updated] Overcoming Obstacles to Display Videos Prominently</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-how-to-create-a-puzzle-feed-on-instagram-to-catch-attention/"><u>2024 Approved How to Create a Puzzle Feed on Instagram to Catch Attention</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bypass-error-messages-easy-winwordexe-corrections-for-a-smooth-microsoft-word-experience/"><u>Bypass Error Messages: Easy WINWORD.EXE Corrections for a Smooth Microsoft Word Experience</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-configure-linksys-e2000-router-firmware-with-ease-expert-tips-for-quick-setup/"><u>Download & Configure Linksys E2000 Router Firmware with Ease – Expert Tips for Quick Setup</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-connection-errors-in-gta-5-online-for-a-smooth-gaming-experience/"><u>Fixing Connection Errors in GTA 5 Online for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/from-hashtags-to-challenges-insta-meets-tiktok/"><u>From Hashtags to Challenges Insta Meets TikTok</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/full-guide-to-apple-iphone-14-pro-icloud-bypass-by-drfone-ios/"><u>Full guide to Apple iPhone 14 Pro iCloud Bypass</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723013539324-halo-infinite-blackout-blues-heres-how-you-can-fix-it/"><u>Halo Infinite Blackout Blues? Here's How You Can Fix It</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-technical-glitches-in-pathfinder-wrath-of-the-righteous-keyboard-solutions/"><u>Overcoming Technical Glitches in Pathfinder Wrath of the Righteous - Keyboard Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-steps-overcoming-high-processor-load-on-chrome-browser/"><u>Solution Steps: Overcoming High Processor Load on Chrome Browser</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-tutorial-for-restoring-broken-gaming-file-integrity-on-pc/"><u>Step-by-Step Tutorial for Restoring Broken Gaming File Integrity on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stop-your-pc-games-from-crashing-proven-methods/"><u>Stop Your PC Games From Crashing - Proven Methods</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-step-by-step-guide-resolving-teardown-app-crashes/"><u>Ultimate Step-by-Step Guide: Resolving Teardown App Crashes</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Silent Streambar: Expert Fixes to Revive Audio on Your Twitch Broadcasts"
-date: 2024-12-01T17:07:20.747Z
-updated: 2024-12-06T17:19:53.577Z
+date: 2024-12-05T19:09:12.378Z
+updated: 2024-12-12T17:31:05.734Z
 tags:
   - win11
   - win10
@@ -27,7 +27,7 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/featured_-1200x653.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This error occurs when you have an issue with your connection to the Call of Duty servers. Either the server is down or there’s something wrong with your Internet connection or network settings.
@@ -43,7 +43,7 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 * etc.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to fix ‘ **_Connection to the Battle.net game server has been lost_**  ‘?
@@ -60,10 +60,6 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 
  Note: The screenshots below have been mostly taken from a Windows 10 operating system. If you are using Windows 11, please be aware that the visual appearance of your screen may vary slightly, but the steps to perform the task remain consistent.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1\. Allow your game to run through Windows Firewall
 
  Check for any firewall and antivirus restrictions that may hinder your connection. As reported by some gamers, turning off firewall restrictions and uninstalling antivirus software worked for them immediately.
@@ -77,8 +73,16 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/firewall.jpg)
 3. From the left panel, click **Allow an app or feature through Windows Defender Firewall** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![allow app run through firewall](https://images.drivereasy.com/wp-content/uploads/2021/07/allow.jpg)
 4. Look for your game e.g. **Call of Duty: Black Ops Cold War** , and make sure the box to its left is checked, as well as the two boxes to the right i.e.**Private** &**Public** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  As you know Public network is an unsafe territory, do not allow any third-party application of unknown origin on any public network in your computer settings.
 
@@ -87,6 +91,10 @@ If your game isn’t on the list, follow these steps:
 1. Click on **Change settings > Allow another app…**  
 ![change settings](https://images.drivereasy.com/wp-content/uploads/2021/07/add-program.gif)
 2. Click**Browse** to locate your game (**BlackOpsColdWar.exe** ) and click**Add** once selected.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3. Once added, tick both the**Private** and**Public** boxes for the application.
 4. Restart your Battle.net and play the game again the test the issue.
@@ -98,6 +106,10 @@ If your game isn’t on the list, follow these steps:
 1. In the Windows search box, type **cmd** . Under **Command Prompt** , select **Run as administrator** .  
 _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.jpg)_
 2. Click **OK** to confirm your action.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3. Once the Command Prompt window is open, type the following 5 command lines (press **Enter**  after entering each command line):  
 
@@ -111,11 +123,7 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 4. Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3\. Change your DNS server
@@ -131,19 +139,11 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 ![ipv4](https://images.drivereasy.com/wp-content/uploads/2021/07/IPV4-2.jpg)
 5. Select **Use the following DNS server addresses** and fill in the Google DNS servers:  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Preferred DNS server: 8.8.8.8**  
 **Alternate DNS server: 8.8.4.4**  
 
 ![change DNS server](https://images.drivereasy.com/wp-content/uploads/2021/07/following-DNS.jpg)
 6. Click **OK** to apply.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4\. Update your device drivers
 
@@ -204,17 +204,19 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-dream-weavers-the-marvel-interactive-sculptors/"><u>[New] 2024 Approved Dream Weavers The Marvel Interactive Sculptors</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/device-unlock-infinix-smart-8-hd-by-drfone-android-unlock-android-unlock/"><u>Device unlock Infinix Smart 8 HD</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/essential-tactics-for-effective-fb-giveaway-campaigns/"><u>Essential Tactics for Effective FB Giveaway Campaigns</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-startup-glitch-in-pandora-avatar-game-series/"><u>Fixing the Startup Glitch in 'Pandora - Avatar Game Series'</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723011703577-get-the-edge-in-gaming-tackle-and-fix-frame-rate-dips-stop-stuttering-for-maximum-playtime-efficiency/"><u>Get the Edge in Gaming: Tackle and Fix Frame Rate Dips, Stop Stuttering for Maximum Playtime Efficiency</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-itel-p55-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Itel P55 Location Settings | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-narzo-60-pro-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Realme Narzo 60 Pro 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/making-facebook-pause-less-set-up-youtube-autoplay-for-2024/"><u>Making Facebook Pause-Less Set Up YouTube Autoplay for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/no-more-crashes-the-ultimate-solution-for-baldurs-gate-iii-on-your-pc/"><u>No More Crashes: The Ultimate Solution for Baldur's Gate III on Your PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-tips-and-tricks-for-preventing-alan-wake-2-crashes-this-year/"><u>Top Tips & Tricks for Preventing Alan Wake ^[2] Crashes This Year</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-fixing-the-issue-of-steamvr-error-308/"><u>Troubleshooting Guide: Fixing the Issue of SteamVR Error 308</u></a></li>
-<li><a href="https://fox-making.techidaily.com/understanding-ilibrary-files-essential-insights-and-uses/"><u>Understanding ILibrary Files: Essential Insights and Uses</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-installation-walkthrough-for-moviemaker-6-users-for-2024/"><u>[New] Installation Walkthrough for Moviemaker 6 Users for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-high-resolution-revelations-comparing-ultrawide-and-uhd-4k-screens/"><u>[Updated] 2024 Approved High-Resolution Revelations Comparing UltraWide and UHD 4K Screens</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-the-essential-blueprint-to-compiling-youtube-soundscape/"><u>2024 Approved The Essential Blueprint to Compiling YouTube Soundscape</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhance-gameplay-boosting-fps-levels-for-a-smoother-run-of-forza-horizon-5-on-windows/"><u>Enhance Gameplay: Boosting FPS Levels for a Smoother Run of Forza Horizon 5 on Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/formula-one-2021-permanent-solutions-to-prevent-the-game-from-crashing-on-pc/"><u>Formula One 2021: Permanent Solutions to Prevent the Game From Crashing on PC</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Apple iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://discover-great.techidaily.com/how-to-expand-your-raspberry-pis-storage-copying-from-a-small-sd-card-to-a-bigger-one-on-windows-1/"><u>How to Expand Your Raspberry Pi's Storage: Copying From a Small SD Card to a Bigger One on Windows 1</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-xiaomi-13t-pro-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Xiaomi 13T Pro Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-troubleshooting-how-to-solve-the-last-line-not-working-error-easily/"><u>Iphone Troubleshooting: How to Solve the Last Line Not Working Error Easily</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/proven-techniques-to-stand-out-in-podcast-imagery-for-2024/"><u>Proven Techniques to Stand Out in Podcast Imagery for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-constant-crashes-in-insurgency-sandstorm-troubleshooting-tips/"><u>Resolved: Constant Crashes in Insurgency: Sandstorm - Troubleshooting Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-how-to-fix-low-fps-drops-and-boost-lost-ark-gameplay/"><u>Resolved: How to Fix Low FPS Drops and Boost Lost Ark Gameplay</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-call-of-duty-black-ops-cold-war-error-code-0xc00e0005-easily/"><u>Solving 'Call of Duty Black Ops Cold War' Error Code 0Xc00e0005 Easily</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-pc-instability-with-spellbreak-fixes-for-unwanted-game-shutdowns/"><u>Solving PC Instability with Spellbreak – Fixes for Unwanted Game Shutdowns</u></a></li>
 </ul></div>
 

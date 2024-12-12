@@ -1,7 +1,7 @@
 ---
 title: "Resolve Fortnite's Video Memory Issues: A Step-by-Step Guide"
-date: 2024-11-30T17:19:23.114Z
-updated: 2024-12-06T16:04:22.160Z
+date: 2024-12-09T16:58:42.446Z
+updated: 2024-12-12T18:15:18.671Z
 tags:
   - win11
   - win10
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Make sure your PC meets meets the system requirements for League of Legends
 
  The game may crash if your PC fails to meet its system requirement.  
@@ -65,10 +69,6 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
 
  If your PC meets the system requirement for League of Legends but the game crashing issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Update your drivers
 
  A missing or outdated driver may also trigger the game crashing issue. If it’s the case, this issue can be easily resolved after you update your drivers.
@@ -91,23 +91,19 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-84.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Install the latest Windows Updates
 
@@ -117,13 +113,13 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-62-1024x796.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Wait until Windows downloaded and installed all the updates.
 
@@ -140,6 +136,10 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
 2) In the upper-right corner, click**the gear button**  to open the game settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**Initiate Full Repair** .
 
@@ -163,13 +163,13 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Run League of Legends to see if you resolved this issue.
 
@@ -193,20 +193,22 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-revolutionize-your-editing-with-fcps-premier-tools/"><u>[New] In 2024, Revolutionize Your Editing with FCP's Premier Tools</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-laughburst-app-for-all-humor-needs/"><u>[Updated] 2024 Approved LaughBurst App for All Humor Needs</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-bandicam-in-depth-review-for-the-modern-user-for-2024/"><u>[Updated] Bandicam In Depth Review for the Modern User for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-ultimate-compilation-ringtone-renaissance-sites/"><u>[Updated] Ultimate Compilation Ringtone Renaissance Sites</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-scrutinizing-the-core-functions-of-recordcast/"><u>2024 Approved Scrutinizing the Core Functions of RecordCast</u></a></li>
-<li><a href="https://win-answers.techidaily.com/boost-gaming-smoothness-on-avatar-overcoming-low-frames-per-second-hurdles/"><u>Boost Gaming Smoothness on Avatar: Overcoming Low Frames Per Second Hurdles</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-methods-for-troubleshooting-acrocefexe-application-malfunctions/"><u>Effective Methods for Troubleshooting acroCEF.exe Application Malfunctions</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-your-file-handling-in-win-11-by-adding-movecopy-menus/"><u>Elevate Your File Handling in Win 11 by Adding Move/Copy Menus</u></a></li>
-<li><a href="https://win-answers.techidaily.com/error-resolved-what-to-do-when-the-mass-effect-legendary-edition-wont-start/"><u>Error Resolved? What To Do When The Mass Effect Legendary Edition Won't Start</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-prevent-biomutant-pc-crashing-ultimate-guide-with-solutions/"><u>How to Prevent Biomutant PC Crashing - Ultimate Guide with Solutions</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-oppo-a1x-5g-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Oppo A1x 5G</u></a></li>
-<li><a href="https://win-answers.techidaily.com/masterful-solutions-to-address-adobes-start-up-issue-handling-error-code-0xc0000022-effectively/"><u>Masterful Solutions to Address Adobe's Start Up Issue: Handling Error Code 0xC0000022 Effectively</u></a></li>
-<li><a href="https://win-answers.techidaily.com/minecraft-load-issues-discover-proven-fixes-for-an-instant-startup-rescue/"><u>Minecraft Load Issues? Discover Proven Fixes for an Instant Startup Rescue</u></a></li>
-<li><a href="https://win-answers.techidaily.com/minecraft-stutter-and-freeze-no-more-pc-optimization-tips-and-fixes-for-2amoonfall/"><u>Minecraft Stutter & Freeze No More! PC Optimization Tips and Fixes for 2Amoonfall</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-the-best-boxing-streaming-websites-for-the-latest-match-coverage/"><u>Updated The Best Boxing Streaming Websites for the Latest Match Coverage</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-elevate-earnings-through-effective-facebook-page-practices-for-2024/"><u>[New] Elevate Earnings Through Effective Facebook Page Practices for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-optimizing-close-up-views-on-google-meet/"><u>[New] Optimizing Close-Up Views on Google Meet</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/alidating-monetization-on-content-platforms/"><u>[New] Validating Monetization on Content Platforms</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-how-to-fix-games-crashing-on-pc-2024/"><u>[Solved] How to Fix Games Crashing on PC 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-laughlens-quickly-create-social-memes-and-gifs/"><u>2024 Approved LaughLens Quickly Create Social Memes & Gifs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-the-patching-blues-a-detailed-walkthrough-to-correct-steam-error-130/"><u>Beat the Patching Blues: A Detailed Walkthrough to Correct Steam Error 130</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-your-deal-stranded-pc-errors-solutions-for-a-seamless-gaming-experience/"><u>Fix Your Deal Stranded PC Errors – Solutions for a Seamless Gaming Experience</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/hands-of-honour-versus-followers-faith/"><u>Hands of Honour Versus Followers’ Faith</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-overcome-shadowplays-video-capture-problem-in-windows-a-step-by-step-guide/"><u>How to Overcome Shadowplay's Video Capture Problem in Windows - A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/modernize-your-computer-fast-update-drivers-smoothly-with-windows/"><u>Modernize Your Computer Fast - Update Drivers Smoothly with Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-common-issues-preventing-crashes-in-nioh-2-total-experience/"><u>Overcoming Common Issues: Preventing Crashes in Nioh 2 (Total Experience)</u></a></li>
+<li><a href="https://article-posts.techidaily.com/reimagined-ultrahd-2023s-samsung-bdplus-k850/"><u>Reimagined UltraHD 2023'S Samsung BD+ K850</u></a></li>
+<li><a href="https://win-answers.techidaily.com/simple-solutions-stop-windows-10-and-chrome-from-hanging/"><u>Simple Solutions: Stop Windows 10 & Chrome From Hanging</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-troubleshooting-tips-to-prevent-rainbow-six-siege-from-stopping-mid-game-pc/"><u>Ultimate Troubleshooting Tips to Prevent Rainbow Six Siege From Stopping Mid-Game (PC)</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/upgrading-your-system-from-windows-10-to-windows-11/"><u>Upgrading Your System: From Windows 10 To Windows 11</u></a></li>
+<li><a href="https://facebook.techidaily.com/why-being-wired-matters-uncovering-9-positive-traits-of-social-media/"><u>Why Being Wired Matters: Uncovering 9 Positive Traits of Social Media</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723009424928-windows-11-taskbar-trouble-heres-how-to-make-it-work-again/"><u>Windows 11 Taskbar Trouble? Here's How to Make It Work Again</u></a></li>
 </ul></div>
 

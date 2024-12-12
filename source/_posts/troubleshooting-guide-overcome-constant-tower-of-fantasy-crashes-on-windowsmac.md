@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Overcome Constant Tower of Fantasy Crashes on Windows/Mac"
-date: 2024-11-15T04:28:27.873Z
-updated: 2024-11-17T04:33:07.162Z
+date: 2024-12-10T19:17:12.414Z
+updated: 2024-12-12T18:52:52.562Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/756e6cbc4b4a2e3ac30671657870528bb336d9b2f
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -54,19 +58,6 @@ Now you can restart Tower of Fantasy and check the results.
 
 If the game still crashes, take a look at the next fix.
 
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2:**Update your graphics driver**
 
  Some wanders reported a Vega Integrate Graphics crashing issue, which means the**game crashes could be driver-related** . If you are using a buggy or outdated graphics driver, you may run into performance issues with new titles. Always make sure you’re using the latest correct graphics driver.
@@ -77,6 +68,10 @@ If the game still crashes, take a look at the next fix.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-2060-super-update.jpg)
@@ -97,9 +92,17 @@ If the game still crashes, take a look at the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
 If Tower of Fantasy still crashes, you can try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Run in compatibility mode
 
@@ -110,22 +113,8 @@ If Tower of Fantasy still crashes, you can try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/tower-of-fantasy-compatibility-0.jpg)
 2. In the pop-up window, navigate to the**Compatibility** tab, set to**run this program in compatibility mode for Windows 8** . Then check the box next to**Disable fullscreen optimizations** and**Run this program as an administrator** . In the end, click**OK** to save the changes.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/tower-of-fantasy-compatibility-1.jpg)
 3. Now you can test the gameplay in Tower of Fantasy.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If this fix doesn’t work for you, undo the settings and continue to the next one below.
 
@@ -139,46 +128,30 @@ If Tower of Fantasy still crashes, you can try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/windows-r-regedit.jpg)
 2. In the address bar, type or paste **Computer\\HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\GraphicsDrivers** and press**Enter** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/regedit-tdrlevel-1.jpg)
 3. Right click the empty space and create a**DWORD (32-bit) Value** . Then name it**TdrLevel** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/regedit-tdrlevel-2.jpg)
 4. Double-click**TdrLevel** to edit the value. Select**Hexadecimal** and set**Value data** to**0** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/regedit-tdrlevel-3.jpg)
 5. Now reboot your PC and launch Tower of Fantasy.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If TdrLevel didn’t fix the issue, rename TdrLevel to**TdrDelay** , select the**Decimal** option and set Value data to**10** and try again after reboot.
 
 If this fix doesn’t give you luck, take a look at the next one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Check for corrupted system files
 
@@ -214,22 +187,22 @@ If this fix doesn’t give you luck, take a look at the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-top-8-youtube-ranks-expertly-navigating-with-key-tools/"><u>[New] 2024 Approved Top 8 YouTube Ranks Expertly Navigating with Key Tools</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-must-have-3d-model-systems-in-animation/"><u>[Updated] In 2024, Must-Have 3D Model Systems in Animation</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-spark-interest-engage-followers-maximizing-tiktok-unboxer-appeal/"><u>2024 Approved Spark Interest, Engage Followers Maximizing TikTok Unboxer Appeal</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722174831676-beware-no-official-chatgpt-app-for-windows-avoid-the-fake-versions/"><u>Beware: No Official ChatGPT App for Windows – Avoid the Fake Versions</u></a></li>
-<li><a href="https://network-issues.techidaily.com/drive-disaster-to-delight-windows-minecraft-no-more-crashes/"><u>Drive Disaster to Delight: Windows Minecraft No More Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/enhance-gameplay-smoothness-overcoming-frequent-frame-drops-and-delays-in-gaming/"><u>Enhance Gameplay Smoothness: Overcoming Frequent Frame Drops & Delays in Gaming</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/explore-innovative-ways-for-sound-capture-in-modern-windows-11-pcs/"><u>Explore Innovative Ways for Sound Capture in Modern Windows 11 PCs</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixes-and-solutions-how-to-overcome-gta-5-wont-start-issue/"><u>Fixes and Solutions: How To Overcome 'GTA 5 Won't Start' Issue</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722994337277-fixing-dayzs-performance-issues-fast-and-user-friendly-methods/"><u>Fixing DayZ's Performance Issues: Fast and User-Friendly Methods!</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-leveraging-title-creation-on-youtube-for-engagement/"><u>In 2024, Leveraging Title Creation on YouTube for Engagement</u></a></li>
-<li><a href="https://win-answers.techidaily.com/master-guide-how-to-overcome-and-repair-a-stubborn-non-opening-discord-application/"><u>Master Guide: How to Overcome and Repair a Stubborn, Non-Opening Discord Application</u></a></li>
-<li><a href="https://win-answers.techidaily.com/say-goodbye-to-interruptions-detroit-become-human-running-flawlessly-on-windows-machines/"><u>Say Goodbye to Interruptions: Detroit: Become Human Running Flawlessly on Windows Machines</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solution-found-how-to-restore-netflix-functionality-on-your-xbox-one-device/"><u>Solution Found: How to Restore Netflix Functionality on Your Xbox One Device</u></a></li>
-<li><a href="https://win-answers.techidaily.com/the-repetitive-nature-of-its-resource-management-and-building-systems-limited-long-term-engagement-without-significant-content-updates-or-game-mechanic-chan491/"><u>The Repetitive Nature of Its Resource Management and Building Systems Limited Long-Term Engagement without Significant Content Updates or Game Mechanic Changes</u></a></li>
-<li><a href="https://blog-min.techidaily.com/top-ranking-dvd-to-avc-transformation-tools-for-windows-10-and-11/"><u>Top-Ranking DVD to AVC Transformation Tools for Windows 10 & 11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-step-by-step-guide-resolving-teardown-app-crashes/"><u>Ultimate Step-by-Step Guide: Resolving Teardown App Crashes</u></a></li>
-<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Vivo Y28 5G? | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/1715860676509-new-discover-the-best-mac-gif-recorders-now/"><u>[New] Discover the Best Mac GIF Recorders Now!</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-expert-advice-on-enhancing-vhs-images-using-technology/"><u>[New] In 2024, Expert Advice on Enhancing VHS Images Using Technology</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-all-about-youtubes-elite-access-a-complete-breakdown-for-2024/"><u>[Updated] All About YouTube's Elite Access - A Complete Breakdown for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-gastronomic-globe-trotters-worlds-best-recipes-on-tiktok/"><u>[Updated] In 2024, Gastronomic Globe-Trotters World's Best Recipes on TikTok</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-transforming-imagery-the-power-of-ps-curves/"><u>[Updated] In 2024, Transforming Imagery The Power of PS Curves</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/adjusting-and-tweaking-your-pcs-control-panel-for-optimal-customization-expert-guidance-from-yl-software/"><u>Adjusting and Tweaking Your PC's Control Panel for Optimal Customization - Expert Guidance From YL Software</u></a></li>
+<li><a href="https://win-answers.techidaily.com/banish-mortal-kombat-11-crash-problems-with-these-easy-steps/"><u>Banish Mortal Kombat 11 Crash Problems with These Easy Steps</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-the-buffer-ultimate-guide-to-optimize-and-overcome-lag-in-dota-2-for-224-players/"><u>Beat the Buffer: Ultimate Guide to Optimize and Overcome Lag in Dota 2 for 2^24 Players</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/crash-no-more-destiny-2s-beyond-light-on-pc-now-running-smoothly/"><u>Crash No More: Destiny 2'S Beyond Light on PC Now Running Smoothly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/diy-guide-to-improve-blurry-graphics-for-call-of-duty-warzone-players-pc/"><u>DIY Guide to Improve Blurry Graphics for Call of Duty: Warzone Players (PC)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-to-resolve-your-computers-screen-turning-black-on-zoom-webinars-and-meetings-updated-2e-guide-2024/"><u>Expert Tips to Resolve Your Computer's Screen Turning Black on Zoom Webinars and Meetings (Updated 2E Guide, 2024)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/hoherwertige-videobearbeitung-mit-kunstlicher-intelligenz-von-winxvideo-erreichen/"><u>Höherwertige Videobearbeitung Mit Künstlicher Intelligenz Von Winxvideo Erreichen!</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-windows-10-advanced-screen-recorder-software/"><u>In 2024, Windows 10 Advanced Screen Recorder Software</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-troubleshooting-guide-for-fixing-left-4-dead-2-game-crashes/"><u>Resolved: Troubleshooting Guide for Fixing Left 4 Dead 2 Game Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-solution-for-windows-11-error-code-0xc19001e1-bugs-fixes/"><u>Step-by-Step Solution for Windows 11 Error Code 0Xc19001e1 Bugs Fixes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/surviving-the-continuum-strategies-for-overcoming-the-black-lives-matter-challenges/"><u>Surviving the Continuum: Strategies for Overcoming the 'Black Lives Matter' Challenges</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Steps: When Rainbow Six Siege Refuses to Start"
-date: 2024-12-05T19:07:16.220Z
-updated: 2024-12-06T17:49:17.403Z
+date: 2024-12-06T16:43:47.362Z
+updated: 2024-12-12T17:41:55.851Z
 tags:
   - win11
   - win10
@@ -47,7 +47,7 @@ Century: Age of Ashes system requirements
  If you’re using a powerful PC but still suffer from game crashes, don’t worry. Just read on and try the fixes below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -71,11 +71,11 @@ Century: Age of Ashes system requirements
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . If Steam finds anything wrong with the game files, it will re-download them from its official server.  
 
-![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
  Depending on the size of the game files, it may take some time to verify all your game files.
 
@@ -103,10 +103,6 @@ Century: Age of Ashes system requirements
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Install the latest game patch
 
  The developer of Century: Age of Ashes releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -114,10 +110,6 @@ Century: Age of Ashes system requirements
  If a patch is available, it will be detected by Steam, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Launch Century: Age of Ashes again and check if the this fix works. If it didn’t work, or there was no new game patch available, move on to next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Disable overlays
 
@@ -128,6 +120,10 @@ Century: Age of Ashes system requirements
 1. Launch Steam and navigate to **the LIBRARY tab** . **right-click** on _Century: Age of Ashes_ . Then select **Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Uncheck **Enable Steam Overlay while in-game** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
 
@@ -147,7 +143,7 @@ Century: Age of Ashes system requirements
  Launch the game and see if the it crashes again. If this fix doesn’t work, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Temporarily disable anti-virus software
@@ -159,6 +155,10 @@ Century: Age of Ashes system requirements
  Launch Century: Age of Ashes to see if it crashes after you disabled the anti-virus software on your PC.
 
 If this fix didn’t work, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Repair corrupted system files
 
@@ -182,6 +182,10 @@ If this fix didn’t work, try the next fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/Fortect-Start-Repair-1.png)  
  Note: This is a paid service with a 60-day money-back guarantee, which means that you’ll need to buy the full version to start repairing.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Perform a clean boot
 
  Century: Age of Ashes will crash when there’s a certain app conflicting with it. If you don’t know exactly which app is conflicting with the game, just follow the steps below to perform a clean boot:
@@ -190,28 +194,24 @@ If this fix didn’t work, try the next fix, below.
 ![msconfig-win-10](https://images.drivereasy.com/wp-content/uploads/2016/11/msconfig-win-10.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
@@ -249,22 +249,18 @@ If this fix didn’t work, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-battlefield-bliss-exploring-the-7-best-massive-wars/"><u>[New] In 2024, Battlefield Bliss Exploring the 7 Best Massive Wars</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-detailed-dissection-straightforward-hdr-methods/"><u>[Updated] 2024 Approved Detailed Dissection Straightforward HDR Methods</u></a></li>
-<li><a href="https://win-answers.techidaily.com/cyberpunk-eboom-fix-unlocking-and-utilizing-your-graphics-card-on-windows-10-players/"><u>Cyberpunk Eboom-Fix: Unlocking and Utilizing Your Graphics Card on Windows 10 Players</u></a></li>
-<li><a href="https://win-answers.techidaily.com/decode-and-resolve-paladins-game-crashes-advanced-tips-and-tricks-for-a-smooth-gaming-experience-202e/"><u>Decode and Resolve Paladins Game Crashes: Advanced Tips & Tricks for a Smooth Gaming Experience (202E)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723207747644-fix-your-stuck-arrow-keys-on-the-keyboard-with-easy-tips/"><u>Fix Your Stuck Arrow Keys on the Keyboard with Easy Tips</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-online-converter-convert-flv-to-m4a-format-using-movavi/"><u>Free Online Converter: Convert FLV to M4A Format Using Movavi</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/guia-facil-para-conversion-de-archivos-swf-en-formatos-multimedia-mp4-gif-y-avi-sin-coste/"><u>Guía Fácil Para Conversión De Archivos SWF en Formatos Multimedia: MP4, GIF Y AVI Sin Coste</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-stop-valorant-from-continuously-crashing-on-your-pc-guide/"><u>How to Stop Valorant From Continuously Crashing on Your PC - Guide</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-elevate-your-edit-skills-with-these-pro-tiktok-tricks/"><u>In 2024, Elevate Your Edit Skills with These Pro TikTok Tricks</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Sony Xperia 5 V | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-the-2023-apeaksoft-screen-recorder-review/"><u>In 2024, The 2023 Apeaksoft Screen Recorder Review</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/mastering-goal-achievement-on-january-1st/"><u>Mastering Goal Achievement on January 1St</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722993947101-monster-hunter-rise-not-initializing-here-are-the-solutions/"><u>Monster Hunter Rise Not Initializing? Here Are the Solutions!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/say-goodbye-to-garrys-mod-disruptions-proven-methods-to-prevent-crashes/"><u>Say Goodbye to Garry's Mod Disruptions: Proven Methods to Prevent Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-fix-stop-warcraft-3-reforged-from-crashing-your-pc/"><u>Step-by-Step Fix: Stop Warcraft 3 Reforged From Crashing Your PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshoot-and-fix-the-graphic-driver-crash-in-valorant-easily-guide/"><u>Troubleshoot and Fix the Graphic Driver Crash in Valorant Easily [Guide]</u></a></li>
-<li><a href="https://win-answers.techidaily.com/unraveling-the-mystery-behind-avatars-pandora-adventure-and-pc-system-crashes/"><u>Unraveling the Mystery Behind Avatar's Pandora Adventure and PC System Crashes</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-spotlight-on-zdsoft-screen-capture-for-pros/"><u>[New] 2024 Approved Spotlight on ZDSoft Screen Capture for Pros</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-sierras-best-the-top-5-choices-for-mac-video-editing/"><u>[New] In 2024, Sierra's Best The Top 5 Choices for Mac Video Editing</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-rectify-facebook-video-playback-issues-chrome/"><u>[New] Rectify Facebook Video Playback Issues (Chrome)</u></a></li>
+<li><a href="https://win-web3.techidaily.com/1728464286351-aomei/"><u>AOMEIソフトウェアの利点を理解する - 優れたデータ管理ツール</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/conquering-image-search-a-pathway-to-stunning-pexels-visuals/"><u>Conquering Image Search A Pathway to Stunning Pexels Visuals</u></a></li>
+<li><a href="https://win-answers.techidaily.com/decoding-the-reason-behind-the-mafia-definitive-edition-launch-delay/"><u>Decoding the Reason Behind the Mafia: Definitive Edition Launch Delay</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/enlightening-your-iphone-images-through-effective-hdr-methods/"><u>Enlightening Your iPhone Images Through Effective HDR Methods</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-disneys-revolutionary-multiplayer-virtual-reality-treadmill-a-step-by-step-guide/"><u>Exploring Disney's Revolutionary Multiplayer Virtual Reality Treadmill – A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722994851223-resident-evil-village-and-pc-lag-here-are-the-ultimate-fixes-you-need-to-try/"><u>Resident Evil Village and PC Lag? Here Are the Ultimate Fixes You Need to Try</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-startup-errors-in-hitman-3-on-your-windows-machine/"><u>Resolving Startup Errors in Hitman 3 on Your Windows Machine</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/streamline-your-podcasts-effective-editing-tips-for-garageband-users-for-2024/"><u>Streamline Your Podcasts Effective Editing Tips for GarageBand Users for 2024</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-call-logs-from-oppo-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Oppo</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unstick-your-red-dead-redemption-2-game-tips-to-resolve-persistent-loading-issues/"><u>Unstick Your Red Dead Redemption 2 Game: Tips to Resolve Persistent Loading Issues</u></a></li>
 </ul></div>
 

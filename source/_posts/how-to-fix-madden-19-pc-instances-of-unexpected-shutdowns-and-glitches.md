@@ -1,7 +1,7 @@
 ---
 title: How to Fix Madden 19 PC Instances of Unexpected Shutdowns and Glitches
-date: 2024-12-04T16:39:35.609Z
-updated: 2024-12-06T17:26:59.672Z
+date: 2024-12-11T16:02:13.033Z
+updated: 2024-12-12T17:46:20.405Z
 tags:
   - win11
   - win10
@@ -40,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 
 **Try disabling overlays for Dark Souls 3** and see if your game stops crashing.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Run in Windowed mode
 
  If you play Dark Souls 3 in Fullscreen mode, it may crash to your desktop. In this case, you can fix your game crashing problem by switching to**Windowed mode** .
@@ -56,6 +60,10 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-710.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Open**DarkSouls3** folder.
 
  4) Open**GraphicsConfig.xml** with notepad. Then change  
@@ -66,10 +74,6 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
  5) Save your change and restart your game.
 
  Your problem still persists, don’t worry. There are other solutions.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your video driver
 
@@ -96,7 +100,7 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-707.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Once your driver has been updated, restart your computer.
@@ -120,7 +124,7 @@ If you can’t access the in-game settings, try this:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-710.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Open**DarkSouls3** folder.
@@ -132,7 +136,7 @@ If you can’t access the in-game settings, try this:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-711.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6) Save your file changes and restart your game.
@@ -151,21 +155,17 @@ Then play your game to see if it works properly.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-702.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Right click on**Dark Souls 3** , and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-703.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Click the**Local files** tab, and click**Verify Integrity Of Game Files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-705.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Steam will check your game files and fix any detected problems. Follow the on-screen instructions to finish the process.
 
@@ -192,17 +192,22 @@ Then play your game to see if it works properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-reigning-in-your-digital-domain-with-a-precision-plan-for-smm-excellence/"><u>[New] Reigning in Your Digital Domain with a Precision Plan for SMM Excellence</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-next-gen-cinema-at-home-best-3d-blu-ray-devices/"><u>[Updated] 2024 Approved Next-Gen Cinema at Home Best 3D Blu-Ray Devices</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-luts-guide-to-professional-movie-coloring/"><u>[Updated] Luts Guide to Professional Movie Coloring</u></a></li>
-<li><a href="https://games-able.techidaily.com/6-subtle-steps-to-cut-costs-using-xbox/"><u>6 Subtle Steps to Cut Costs Using Xbox</u></a></li>
-<li><a href="https://win-answers.techidaily.com/enhanced-gameplay-for-call-of-duty-warzone-master-techniques-to-fix-stutter-and-raise-fps/"><u>Enhanced Gameplay for Call of Duty: Warzone – Master Techniques To Fix Stutter & Raise FPS</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-tips-to-correct-directx-errors-in-the-latest-battlefield-2042-game-version/"><u>Expert Tips to Correct DirectX Errors in the Latest Battlefield 2042 Game Version</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-ring-of-elysium-stability-issues-a-comprehensive-guide/"><u>Fixing Ring of Elysium Stability Issues: A Comprehensive Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/grounding-is-especially-critical-for-transmitting-antennas-due-to-the-high-power-involved-which-increases-the-risk-of-lightning-strikes-and-electrical-hazar80/"><u>Grounding Is Especially Critical for Transmitting Antennas Due to the High Power Involved, Which Increases the Risk of Lightning Strikes and Electrical Hazards.</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-successfully-download-and-install-age-of-empires-iv-from-the-microsoft-store/"><u>How to Successfully Download and Install Age of Empires IV From the Microsoft Store</u></a></li>
-<li><a href="https://win-latest.techidaily.com/le-choix-des-experts-top-4-solutions-logicielles-de-sauvegarde-ssd/"><u>Le Choix Des Experts : Top 4 Solutions Logicielles De Sauvegarde SSD</u></a></li>
-<li><a href="https://win-answers.techidaily.com/optimizing-your-gameplay-fixing-the-farming-simulator-22-fps-decrease-on-pc/"><u>Optimizing Your Gameplay: Fixing the Farming Simulator 22 FPS Decrease on PC</u></a></li>
-<li><a href="https://techtrends.techidaily.com/speedy-repair-techniques-for-when-the-camera-option-vanishes-from-pcs-device-manager/"><u>Speedy Repair Techniques for When the Camera Option Vanishes From PC's Device Manager</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ailoring-audio-rate-on-mobile-and-desktops-for-youtube/"><u>[New] Tailoring Audio Rate on Mobile and Desktops for YouTube</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-ubisoft-connect-not-working-2024/"><u>[SOLVED] Ubisoft Connect Not Working - 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1-seamless-integration-streaming-your-favorite-tunes-on-foobar2000-via-youtube/"><u>1. Seamless Integration: Streaming Your Favorite Tunes on Foobar2000 via YouTube</u></a></li>
+<li><a href="https://win-answers.techidaily.com/banish-launch-errors-in-battle-royale-7-proven-solutions-to-get-warzone-20-running-on-pc/"><u>Banish Launch Errors in Battle Royale: 7 Proven Solutions to Get Warzone 2.0 Running on PC</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/essential-logitech-speakers-driver-pack-for-optimal-performance-on-win-1078/"><u>Essential Logitech Speakers Driver Pack for Optimal Performance on Win 10/7/8</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-launch-errors-for-the-star-wars-jedi-fallen-order-video-game/"><u>How to Fix Launch Errors for the Star Wars Jedi: Fallen Order Video Game</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-samsung-galaxy-s23plus-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Samsung Galaxy S23+</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-samsung-galaxy-s24-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Samsung Galaxy S24 Device</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-vivo-v27-pro-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Vivo V27 Pro to Gmail | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/jurassic-world-evolution-fixing-game-crashes-solutions-inside/"><u>Jurassic World Evolution: Fixing Game Crashes - Solutions Inside</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/macos-2023-update-from-youtube-to-high-quality-mp3s-for-2024/"><u>MacOS 2023 Update From YouTube to High-Quality MP3s for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723011597214-nier-shadow-complexes-stuttering-problems-now-fixed/"><u>NieR: Shadow Complexes Stuttering Problems - Now Fixed!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pacific-drive-not-launching-how-to-fix/"><u>Pacific Drive Not Launching: How to Fix?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-justifications-for-restricting-gpt-in-workplaces/"><u>Top 5 Justifications for Restricting GPT in Workplaces</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-free-video-editing-software-for-mp4-files-best-picks/"><u>Top Free Video Editing Software for MP4 Files - Best Picks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-starcraft-ii-fixes-for-pc-game-crashes/"><u>Troubleshooting StarCraft II: Fixes for PC Game Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-resolving-the-endless-load-on-apex-legends/"><u>Ultimate Guide: Resolving the Endless Load on Apex Legends</u></a></li>
 </ul></div>
 

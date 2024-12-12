@@ -1,7 +1,7 @@
 ---
 title: "Master the Storm: Expert Advice to Prevent Frequent Crashes in Risk of Rain 2"
-date: 2024-11-10T13:08:07.196Z
-updated: 2024-11-17T07:07:46.278Z
+date: 2024-12-07T18:35:45.180Z
+updated: 2024-12-12T19:15:21.462Z
 tags:
   - win11
   - win10
@@ -42,6 +42,10 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. [Download the latest patch](https://tools.techidaily.com/drivereasy/download/)
@@ -52,13 +56,6 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 ### Fix 1: Download the latest patch
 
  If you haven’t been updated your game for a while, you can update your game. The official keeps releasing new patches, the latest version may solve the crashing issue.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Manage Virtual Memory
 
@@ -71,20 +68,26 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2-4.jpg)
 4. Under**Virtual memory** , click**Change** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/3-2.jpg)
 5. Uncheck**Automatically manage paging file size for all drives** and make sure you’ve check**System managed size** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/4-2.jpg)
 6. Click**Set > OK** .
 
 7. Reboot your computer can check whether the crash will appear or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Delete specific files from the save folder
 
@@ -104,10 +107,7 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
  The game is built with an old Unreal Engine version. This may be the reason for the random crashes. You can underclock your CPU speed by 100 MHz or 150 MHz to see whether it helps or not.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bonus: Update your drivers
@@ -137,13 +137,6 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
  Thanks for reading. Hope this article meets your need. And you are welcome to leave comments below.
@@ -165,21 +158,16 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-evolving-narratives-in-virtual-cinema-landscapes/"><u>[New] In 2024, Evolving Narratives in Virtual Cinema Landscapes</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-a-comprehensive-guide-to-locating-and-creating-superb-instagram-alarms/"><u>[Updated] In 2024, A Comprehensive Guide to Locating and Creating Superb Instagram Alarms</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723009086108-banish-wow-lag-and-crash-glitches-with-these-painless-remedies/"><u>Banish WOW Lag and Crash Glitches with These Painless Remedies</u></a></li>
-<li><a href="https://win-answers.techidaily.com/battlefield-2042-and-pc-compatibility-overcoming-game-freezes-and-crashes-successfully/"><u>Battlefield 2042 and PC Compatibility: Overcoming Game Freezes & Crashes Successfully</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/elite-selection-of-mobile-defense-apps-top-6-picks-for-iphones-safety/"><u>Elite Selection of Mobile Defense Apps: Top 6 Picks for iPhones' Safety</u></a></li>
-<li><a href="https://win-answers.techidaily.com/end-your-troubles-solving-steams-persistent-crash-problem-quickly/"><u>End Your Troubles: Solving Steam's Persistent Crash Problem Quickly</u></a></li>
-<li><a href="https://facebook.techidaily.com/evolving-interactive-experience-with-facebooks-audio-hub/"><u>Evolving Interactive Experience with Facebook’s Audio Hub</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-latest-canon-pixma-ts3322-printer-drivers-free-download/"><u>Get Your Latest Canon PIXMA TS3322 Printer Drivers - Free Download</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-get-rainbow-six-siege-running-flawlessly-issues-resolved/"><u>How to Get Rainbow Six Siege Running Flawlessly – Issues Resolved</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96201136-9781507161692-la-energia-sanadora-del-reiki-un-libro-para-principiantes-para-una-mejor-comprension/"><u>La energía sanadora del Reiki: Un libro para principiantes para una mejor comprensión | Free Book</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-addressing-common-crashes-in-the-tales-of-arise-gaming-experience/"><u>Resolved: Addressing Common Crashes in the 'Tales of Arise' Gaming Experience</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solved-why-steam-wont-identify-my-gamepad-and-how-to-get-it-working-on-pc/"><u>Solved! Why Steam Won't Identify My Gamepad & How to Get It Working on PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshoot-your-shooter-game-fixes-for-cod-black-ops-cold-wars-freezing-dilemma/"><u>Troubleshoot Your Shooter Game: Fixes for CoD: Black Ops Cold War's Freezing Dilemma</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-realme-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Realme IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1725285775635-winx-dvd-ripper-for-mac/"><u>WinX DVD Ripper for Mac: 完全ガイド - 使用方法、編集手順、セットアッププロセスを徹底解説</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/zenith-of-zoom-audio-fine-tuning-for-peak-performance-for-2024/"><u>Zenith of Zoom Audio Fine-Tuning for Peak Performance for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-best-of-the-best-10-recorders-for-your-device/"><u>[New] In 2024, Best of the Best #10 Recorders for Your Device</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-edge-of-creativity-best-4k-displays-for-editing-excellence/"><u>[Updated] In 2024, Edge of Creativity Best 4K Displays for Editing Excellence</u></a></li>
+<li><a href="https://win-answers.techidaily.com/5-proven-tactics-to-troubleshoot-cant-start-video-error-on-zoom/"><u>5 Proven Tactics to Troubleshoot Can't Start Video Error on Zoom</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-the-warzone-directx-error-in-just-four-steps/"><u>Beat The 'Warzone DirectX Error' In Just Four Steps</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/cutting-edge-image-vault-sites/"><u>Cutting-Edge Image Vault Sites</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tricks-for-a-smooth-launch-of-overwatch-2-addressing-common-problems/"><u>Expert Tricks for a Smooth Launch of Overwatch 2: Addressing Common Problems</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-effortlessly-journey-to-your-custom-designed-music-library-on-youtube/"><u>In 2024, Effortlessly Journey to Your Custom-Designed Music Library on Youtube</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-mastering-frame-rates-for-best-slow-motion-effects/"><u>In 2024, Mastering Frame Rates for Best Slow Motion Effects</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tips-and-tricks-to-tell-if-your-iphone-11-pro-is-unlocked-by-drfone-ios/"><u>In 2024, Tips And Tricks To Tell if Your iPhone 11 Pro Is Unlocked</u></a></li>
+<li><a href="https://win-answers.techidaily.com/outriders-and-the-triumph-over-low-frames-per-second-dilemma/"><u>Outriders and the Triumph Over Low Frames Per Second Dilemma</u></a></li>
+<li><a href="https://win-answers.techidaily.com/winning-against-pc-lag-and-crashes-in-spellbreak-gameplay/"><u>Winning Against PC Lag and Crashes in Spellbreak Gameplay</u></a></li>
 </ul></div>
 

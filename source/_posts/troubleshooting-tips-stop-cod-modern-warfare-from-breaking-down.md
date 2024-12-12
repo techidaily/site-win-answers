@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Stop Cod: Modern Warfare From Breaking Down"
-date: 2024-12-05T17:25:01.627Z
-updated: 2024-12-06T19:20:06.114Z
+date: 2024-12-09T16:54:24.286Z
+updated: 2024-12-12T18:42:01.454Z
 tags:
   - win11
   - win10
@@ -32,7 +32,7 @@ A recent update of Warzone triggered a surge in reports of the**Dev Error 6034**
 4. **[Reinstall Warzone](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver (PC)
@@ -63,14 +63,10 @@ To do so, first visit the website of your GPU manufacturer:
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -104,11 +100,15 @@ To do so, first visit the website of your GPU manufacturer:
 2. Select**Call of Duty: Modern Warfare** . (You might also need to select**Manage installation on External drive** .)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-2.jpg)
 3. Scroll down and unselect**MP2 Pack** and**Multiplayer Pack 3.** Then select**Save changes** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-3.jpg)
 4. Now restart your Xbox and check if Warzone is working now.
@@ -116,7 +116,7 @@ To do so, first visit the website of your GPU manufacturer:
 If this trick doesn’t help you, simply check out the next one.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Reinstall Warzone
@@ -144,16 +144,24 @@ If this trick doesn’t help you, simply check out the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/updated-keeping-your-tiktok-age-up-to-date-a-quick-guide/"><u>[Updated] Keeping Your TikTok Age Up-to-Date A Quick Guide</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-premier-20-unrestricted-pubg-montage-samples-for-2024/"><u>[Updated] Premier 20 Unrestricted PUBG Montage Samples for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-pinnacle-screenshot-programs/"><u>2024 Approved Pinnacle Screenshot Programs</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-vivo-y02t-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Vivo Y02T | Dr.fone</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-snapchat-emojis-explained-more-than-meets-the-eye/"><u>In 2024, Snapchat Emojis Explained More Than Meets the Eye</u></a></li>
-<li><a href="https://techidaily.com/solved-excel-2021-spreadsheet-disappears-after-opening-by-stellar-guide/"><u>Solved Excel 2021 Spreadsheet Disappears after Opening</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-rated-free-dvd-ripper-tools-for-windows-11-users-ultimate-guide-and-downloads/"><u>Top Rated Free DVD Ripper Tools for Windows 11 Users: Ultimate Guide & Downloads</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-transforming-your-vhs-collection-into-dvd-format-using-top-rated-software/"><u>Ultimate Guide: Transforming Your VHS Collection Into DVD Format Using Top Rated Software</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-list-of-the-9-greatest-software-screen-capture-solutions-on-windows-vehicle-7/"><u>Ultimate List of the 9 Greatest Software Screen Capture Solutions on Windows Vehicle 7</u></a></li>
-<li><a href="https://win-answers.techidaily.com/unlocking-dvd-protection-a-step-by-step-approach-to-mastering-css-cracking-tools/"><u>Unlocking DVD Protection: A Step-by-Step Approach to Mastering CSS Cracking Tools</u></a></li>
-<li><a href="https://win-answers.techidaily.com/tv-stick/"><u>どうやってファイア TV Stickで視聴中のテレビ番組を記録するか？</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-essential-guide-mac-screen-recording-techniques-for-2024/"><u>[New] Essential Guide Mac Screen Recording Techniques for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-explore-and-download-50-free-youtube-banners/"><u>[New] Explore & Download 50 FREE YouTube Banners!</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-parodic-play-writing-and-producing-humor-videos/"><u>[Updated] In 2024, Parodic Play Writing and Producing Humor Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/140-discounted-xr-headsets-solved-my-app-vision-shortcomings-during-prime-day-a-review-by-tech-expert/"><u>$140 Discounted XR Headsets Solved My App Vision Shortcomings During Prime Day: A Review by Tech Expert</u></a></li>
+<li><a href="https://win-answers.techidaily.com/addressing-civilization-xvi-launch-issues-under-windows-11-steps-for-a-smooth-start/"><u>Addressing Civilization XVI Launch Issues Under Windows 11 - Steps for a Smooth Start</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/challenger-emerges-googles-gemini-rises-against-openais-chatgpt/"><u>Challenger Emerges: Google's Gemini Rises Against OpenAI’s ChatGPT</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-installation-of-epson-wf-3540-driver-for-windows-operating-system/"><u>Easy Installation of Epson WF-3540 Driver for Windows Operating System</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-on-correcting-problems-with-your-msi-dragon-center-performance/"><u>Expert Advice on Correcting Problems with Your MSI Dragon Center Performance</u></a></li>
+<li><a href="https://techtrends.techidaily.com/hassle-free-methods-for-saving-your-iphone-images-beyond-itunes-and-icloud-options/"><u>Hassle-Free Methods for Saving Your iPhone Images - Beyond iTunes & iCloud Options</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-unable-to-access-live-config-servers-error-message/"><u>How to Fix Unable to Access Live Config Servers Error Message</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unravel-the-revenue-riddle-googles-guided-triple-steps-to-youtube-income-analysis/"><u>In 2024, Unravel the Revenue Riddle Google's Guided Triple Steps to YouTube Income Analysis</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723000116954-pc-gaming-trouble-heres-the-ultimate-fix-for-elex-ii-crashes/"><u>PC Gaming Trouble? Here's the Ultimate Fix for Elex II Crashes!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-steam-vr-recognition-top-6-effective-methods-explored/"><u>Resolving Steam VR Recognition: Top 6 Effective Methods Explored</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-to-prevent-recurring-discord-crashes/"><u>Troubleshooting Steps to Prevent Recurring Discord Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-solving-game-stuttering-issues-on-your-computer/"><u>Ultimate Guide: Solving Game Stuttering Issues on Your Computer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-solving-the-game-crashing-problem-for-final-fantasy-xv-players/"><u>Ultimate Guide: Solving the Game-Crashing Problem for Final Fantasy XV Players</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/king-the-secrets-of-effective-youtube-thumbnails/"><u>Unlocking the Secrets of Effective YouTube Thumbnails</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-video-platform-suits-you-better-tiktok-or-youtube-shorts/"><u>Which Video Platform Suits You Better TikTok or YouTube Shorts?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/windows-gaming-woes-making-steam-acknowledge-your-gamepad/"><u>Windows Gaming Woes: Making Steam Acknowledge Your Gamepad</u></a></li>
 </ul></div>
 

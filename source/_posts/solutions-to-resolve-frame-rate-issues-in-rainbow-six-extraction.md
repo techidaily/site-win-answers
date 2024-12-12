@@ -1,7 +1,7 @@
 ---
 title: Solutions to Resolve Frame Rate Issues in Rainbow Six Extraction
-date: 2024-11-30T16:26:25.473Z
-updated: 2024-12-06T18:00:33.725Z
+date: 2024-12-07T16:36:49.963Z
+updated: 2024-12-12T16:36:49.408Z
 tags:
   - win11
   - win10
@@ -35,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/4dbf33f37ff64fa1cd0b3b86eb483d2b61e4dcfaa
 7. **[Lower in-game graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Check if your system meets the specifications required for The Division 2
 
@@ -87,7 +83,7 @@ thumbnail: https://thmb.techidaily.com/4dbf33f37ff64fa1cd0b3b86eb483d2b61e4dcfaa
  If your PC fails to meet the minimum system requirements for The Division 2, you may need to upgrade your PC hardware.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Install the latest game patch
@@ -138,6 +134,10 @@ thumbnail: https://thmb.techidaily.com/4dbf33f37ff64fa1cd0b3b86eb483d2b61e4dcfaa
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click**the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-120.png)
@@ -150,15 +150,19 @@ thumbnail: https://thmb.techidaily.com/4dbf33f37ff64fa1cd0b3b86eb483d2b61e4dcfaa
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-119.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Verify** to start verifying the game files.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-123.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Launch the game after verifying the game file to see if this fix works. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Run Windows Compatibility Troubleshooter
 
@@ -174,21 +178,21 @@ thumbnail: https://thmb.techidaily.com/4dbf33f37ff64fa1cd0b3b86eb483d2b61e4dcfaa
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-124.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Go to**the Compatibility tab** and click**Change high DPI settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-126.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3)**Check the box** next to**Override high DPI scaling behavior** and select**Scaling performed by: Application** . Then click**OK** to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-127.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4)**Tick the box** next to**Disable fullscreen optimizations** and click**OK** .
 
@@ -215,7 +219,7 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-150.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Settings** … in the**Performance** section.
@@ -229,6 +233,10 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
  5)**Check the box** next to**Automatically manage paging file size for all drives** . Then click OK to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-153.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  **Do not disable the paging file or modify it to 0 MB or a static value** even if your PC has sufficient RAM, since if you doing that, it usually causes crashes in the game.
 
@@ -247,7 +255,7 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-155-1024x744.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3)**Turn off Contact Shadows** .
@@ -257,10 +265,6 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
  4) Set**Particle Detail** to**High** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-157-1024x756.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Set**Reflection Quality** to**Low** .
 
@@ -278,21 +282,17 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-161-1024x777.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  9) Set the value of**Object Detail** to**50** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-162-1024x759.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  10) Set**Terrain Quality** to**Medium** . Then save all the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-163-1024x772.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Launch the game to see if the crash issue reappears. If not, congratulations! You’ve resolved this issue.
 
@@ -317,21 +317,22 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-becoming-a-pro-streaming-on-youtube-and-twitch-via-obs-for-2024/"><u>[New] Becoming a Pro Streaming on YouTube & Twitch via OBS for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-zoominnovatex7-advanced-imagery-enlargement/"><u>[New] In 2024, ZoomInnovateX7 Advanced Imagery Enlargement</u></a></li>
-<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Samsung Galaxy A25 5G | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Vivo Y78 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-hp-printer-drivers-compatible-with-windows-10-and-11-easy-download-and-installation-guide/"><u>Free HP Printer Drivers Compatible with Windows 10 and 11: Easy Download & Installation Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-successfully-resolve-the-unfixable-l-ec-mistake-on-dvd-with-imgburn-software/"><u>How to Successfully Resolve the Unfixable L-EC Mistake on DVD with ImgBurn Software</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-full-rotational-scope-vr-device-insight/"><u>In 2024, Full Rotational Scope VR Device Insight</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Nokia 130 Music? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ipadmpg/"><u>IPad上のMPGビデオファイルをスムーズに再生するコツ</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mpegmov3/"><u>MPEGファイルをMOV形式へ転換するための3つの最適な手法</u></a></li>
-<li><a href="https://win-answers.techidaily.com/pccd/"><u>PCでCDから音楽を直接ダビングする手順</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/pros-and-cons-of-roku-vs-amazon-fire-tv-stick-find-out-which-one-suits-you-best/"><u>Pros & Cons of Roku vs Amazon Fire TV Stick: Find Out Which One Suits You Best</u></a></li>
-<li><a href="https://win-answers.techidaily.com/simple-steps-to-transform-dvd-video-into-avi-format-seamlessly/"><u>Simple Steps to Transform DVD Video Into AVI Format Seamlessly</u></a></li>
-<li><a href="https://win-answers.techidaily.com/smooth-streaming-of-mp4-videos-on-kindle-essential-troubleshooting-tips/"><u>Smooth Streaming of MP4 Videos on Kindle: Essential Troubleshooting Tips!</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/top-facebook-video-mp4-downloaders/"><u>Top Facebook Video MP4 Downloaders</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mxf-to-mp4/"><u>スムーズなMXF to MP4変換手順：高解像度・迅速化戦略</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/treaming-wars-recap-fb-live-yt-live-and-twitter-spaces/"><u>[New] Streaming Wars Recap FB LIVE, YT Live & Twitter Spaces</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-maximize-your-gains-highest-earning-instagram-tactics/"><u>[Updated] 2024 Approved Maximize Your Gains Highest Earning Instagram Tactics</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-secrets-to-procuring-gratis-picture-frame-media-for-2024/"><u>[Updated] Secrets to Procuring Gratis Picture Frame Media for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/amazon-prime-video-connectivity-troubles-heres-how-to-restore-it/"><u>Amazon Prime Video Connectivity Troubles? Here's How to Restore It!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-cyberpunk-2077-overcoming-the-notorious-black-screen-hurdle/"><u>Fixing Cyberpunk 2077 - Overcoming the Notorious Black Screen Hurdle</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-lag-problems-in-guilty-gear-strive-a-comprehensive-guide/"><u>Fixing Lag Problems in Guilty Gear Strive: A Comprehensive Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-honor-play-40c-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Honor Play 40C | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-realme-c67-4g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Realme C67 4G</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-s17-pro-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo S17 Pro Phone FRP Lock</u></a></li>
+<li><a href="https://win-answers.techidaily.com/nba-2k21-no-longer-freezing-up-fixes-and-solutions/"><u>NBA 2K21 No Longer Freezing Up: Fixes and Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-sea-of-thieves-startup-hurdles-with-these-simple-steps/"><u>Overcome Sea of Thieves Startup Hurdles with These Simple Steps</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-fixes-eliminating-latency-issues-in-street-fighter-6-for-a-smoother-pc-gaming-experience/"><u>Step-by-Step Fixes: Eliminating Latency Issues in Street Fighter 6 for a Smoother PC Gaming Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/trouble-with-your-networks-dns-server-here-are-4-efficient-remedies/"><u>Trouble With Your Network's DNS Server? Here Are 4 Efficient Remedies!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshoot-your-assassins-creed-mirage-launch-issues-with-these-expert-tips/"><u>Troubleshoot Your Assassin's Creed Mirage Launch Issues with These Expert Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-resolve-steam-ui-dll-loading-issue/"><u>Troubleshooting Guide: Resolve Steam UI DLL Loading Issue</u></a></li>
+<li><a href="https://media-tips.techidaily.com/tune-into-unlimited-radio-stations-enjoy-free-access-and-real-time-airplay-via-internet-radio-player/"><u>Tune Into Unlimited Radio Stations - Enjoy Free Access and Real-Time Airplay via Internet Radio Player</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/ultimate-guide-to-the-best-microsoft-surface-pcs-of-2023-detailed-reviews-and-rankings-gadgetguru/"><u>Ultimate Guide to the Best Microsoft Surface PCs of 2023 - Detailed Reviews and Rankings | GadgetGuru</u></a></li>
 </ul></div>
 

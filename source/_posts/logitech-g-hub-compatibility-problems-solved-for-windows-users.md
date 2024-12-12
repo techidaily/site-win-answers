@@ -1,7 +1,7 @@
 ---
 title: Logitech G Hub Compatibility Problems Solved for Windows Users
-date: 2024-12-03T18:35:35.518Z
-updated: 2024-12-06T16:52:11.395Z
+date: 2024-12-07T16:12:52.999Z
+updated: 2024-12-12T18:35:25.000Z
 tags:
   - win11
   - win10
@@ -32,10 +32,6 @@ It’s frustrating when you experience the launching problem when playing Age of
 4. **[Reinstall the game](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Check for Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Run the game as an administrator
 
  In some cases, Windows may not give your game the necessary permissions to work as it should. This might result in the game not starting or running properly. Enabling the option to run AoE 2 as an administrator may help:
@@ -45,16 +41,24 @@ It’s frustrating when you experience the launching problem when playing Age of
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_10-21-50.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Click the**Compatibility tab** , then check the box next to**Run this program as an administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_10-25-23-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_10-25-23-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  \*If you’re playing the game on Steam, also run Steam as an administrator.
 
@@ -73,10 +77,6 @@ It’s frustrating when you experience the launching problem when playing Age of
 **7)** Restart your game to test your issue.
 
 If AoE still won’t launch, move on and try the fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -115,16 +115,12 @@ If AoE still won’t launch, move on and try the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_10-42-26.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Right-click **Age of Empires II** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_10-46-15.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
@@ -135,10 +131,6 @@ If AoE still won’t launch, move on and try the fix below.
 **5)** Relaunch _AoE2_ to test your issue.
 
  If your game still won’t run correctly, then go ahead with the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Reinstall your game
 
@@ -171,13 +163,25 @@ If the issue continues to occur, go to the next solution.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_10-51-27.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Click**Age of Empires** , then**Advanced options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/01-18_10-54-08-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click**Reset** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_11-05-16-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Go back to**App& features** , select**Age of Empires** and click**Uninstall** .
 
@@ -190,7 +194,7 @@ If the issue continues to occur, go to the next solution.
 If your game still won’t load, then move on to the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Check for Windows updates
@@ -201,16 +205,12 @@ If your game still won’t load, then move on to the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_11-12-20.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_11-12-44.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)**  Restart your computer and your game.
@@ -238,16 +238,20 @@ If your game still won’t load, then move on to the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/asy-start-the-definitive-guide-to-free-channel-openers-for-2024/"><u>[New] Easy Start The Definitive Guide to Free Channel Openers for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-elite-writes-on-10-free-video-transcript-extractors/"><u>[Updated] 2024 Approved Elite' Writes on 10 Free Video Transcript Extractors</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-enhancing-engagement-the-ultimate-guide-for-tiktok-unboxings/"><u>[Updated] In 2024, Enhancing Engagement The Ultimate Guide for TikTok Unboxings</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-maximize-social-status-top-8-apps-for-gaining-more-fb-fans/"><u>2024 Approved Maximize Social Status Top 8 Apps for Gaining More FB Fans</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effortless-conversion-guide-switching-from-h265-to-avi-video-files-fast/"><u>Effortless Conversion Guide: Switching From H.265 To AVI Video Files Fast</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fast-conversion-techniques-transforming-flac-files-into-ac3-format/"><u>Fast Conversion Techniques: Transforming FLAC Files Into AC3 Format</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-easily-set-up-and-run-kodi-on-android-a-comprehensive-picture-guided-guide/"><u>How to Easily Set Up and Run Kodi on Android: A Comprehensive Picture-Guided Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-record-your-favorite-tiktoks-a-cross-platform-method-for-ios-android-and-pc/"><u>How to Record Your Favorite TikToks: A Cross-Platform Method for iOS, Android & PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/is-it-possible-to-transcode-prores-videos-using-handbrake-software/"><u>Is It Possible to Transcode ProRes Videos Using HandBrake Software?</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95688931-9781440534669-love-spells/"><u>Love Spells | Free Book</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-gratuit-et-paid-software-de-creation-de-cartes-anniversaire-comparatif/"><u>Top Gratuit Et Paid Software De Création De Cartes Anniversaire: Comparatif</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-nextv-networks-worldwide-streaming-with-your-locals/"><u>[New] NexTV Networks Worldwide Streaming With Your Locals</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-from-dull-to-dynamic-an-in-depth-guide-to-hue-mastery/"><u>[Updated] 2024 Approved From Dull to Dynamic An In-Depth Guide to Hue Mastery</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-no-cost-screen-record-the-ultimate-win11-tools-1-5-listing/"><u>[Updated] 2024 Approved No-Cost Screen Record The Ultimate Win11 Tools #1-5 Listing</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-exclusive-reveal-top-downloading-tools-for-fans-of-apples-ios-and-facebook/"><u>[Updated] Exclusive Reveal Top Downloading Tools for Fans of Apple's iOS and Facebook</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-maximizing-youtube-income-lessons-from-sourav-joshi/"><u>[Updated] Maximizing YouTube Income Lessons From Sourav Joshi</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-best-action-recorders-with-front-view-panels/"><u>2024 Approved Best Action Recorders with Front View Panels</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-the-phasmophobia-hurdle-get-past-that-frustrating-90-loader-screen/"><u>Beat the Phasmophobia Hurdle: Get Past That Frustrating 90% Loader Screen!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bioshock-2-remastered-updated-fixes-and-enhanced-gameplay-performance/"><u>BioShock 2 Remastered: Updated Fixes and Enhanced Gameplay Performance</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-common-issues-why-minecraft-fails-to-install-on-windows-11/"><u>Fix Common Issues: Why Minecraft Fails to Install on Windows 11</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-lava-yuva-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Lava Yuva 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-resolve-problems-when-your-logitech-c920-camera-fails-to-function/"><u>How to Resolve Problems When Your Logitech C920 Camera Fails to Function</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/polite-practices-for-chatbot-engagements-examples-with-siri-and-others/"><u>Polite Practices for Chatbot Engagements: Examples with Siri & Others</u></a></li>
+<li><a href="https://win-answers.techidaily.com/strategies-for-addressing-consistent-dips-in-fps-performance/"><u>Strategies for Addressing Consistent Dips in FPS Performance</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unsilencing-the-wasteland-fixing-sound-problems-for-fallout-4-on-pc/"><u>Unsilencing the Wasteland: Fixing Sound Problems for Fallout 4 on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/why-is-my-game-of-crusader-kings-ii-not-loading-and-how-to-fix-it/"><u>Why Is My Game of Crusader Kings II Not Loading and How to Fix It?</u></a></li>
 </ul></div>
 

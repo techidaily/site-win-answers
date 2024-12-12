@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps for Resolving Issues with a Malfunctioning Paradox Launcher
-date: 2024-11-14T20:25:16.621Z
-updated: 2024-11-17T12:34:52.190Z
+date: 2024-12-08T16:01:43.682Z
+updated: 2024-12-12T18:53:34.718Z
 tags:
   - win11
   - win10
@@ -37,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/44cba3f77a25fb10a15058a95ecd605b31dd154fe
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: End the Epic Games Launcher process in Task Manager
 
  Make sure the Epic Games launcher is not running in the background. If it is, when you double-click its shortcut on your desktop, it won’t launch. So you need to end the processes related to Epic Games Launcher in Task Manager first. Here’s how to do it:
@@ -45,22 +49,12 @@ thumbnail: https://thmb.techidaily.com/44cba3f77a25fb10a15058a95ecd605b31dd154fe
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/keyboard.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) In Task Manager, select**EpicGamesLauncher** and click**End task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1047-1024x543.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Run Epic Games Launcher to see if you’ve resolved this issue.
@@ -70,10 +64,7 @@ thumbnail: https://thmb.techidaily.com/44cba3f77a25fb10a15058a95ecd605b31dd154fe
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Launch Epic Games Launcher from Start Menu
@@ -88,6 +79,10 @@ thumbnail: https://thmb.techidaily.com/44cba3f77a25fb10a15058a95ecd605b31dd154fe
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Adjust your display settings
 
  Check your display settings if this issue persists. If you adjusted the size of text, apps, and other items, try changing it back. Here is how to check:
@@ -97,10 +92,7 @@ thumbnail: https://thmb.techidaily.com/44cba3f77a25fb10a15058a95ecd605b31dd154fe
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1053.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) In the**Scale and layout** section, make sure it is set to**100%** .
@@ -145,6 +137,10 @@ _You can do it for free if you like, but it’s partly manual._
  1) On your desktop,**right-click** on**the shortcut of Epic Games Launcher** and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-496.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Under the**Shortcut** tab, locate the**Target:** field. Add_\-OpenGL_ to the end of the path filed. The contents of the Target field should look like the following:
 
@@ -191,10 +187,7 @@ _You can do it for free if you like, but it’s partly manual._
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 8: Reinstall Epic Games Launcher
@@ -205,22 +198,12 @@ _You can do it for free if you like, but it’s partly manual._
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1068.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2)**Right-click** on**Epic Games Launcher** and select**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1070.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Restart your computer.
@@ -251,22 +234,20 @@ Normally, after you reinstall Epic Games Launcher, it should open.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/updated-technology-showcase-highlights-of-the-5-best-slow-cams/"><u>[Updated] Technology Showcase Highlights of the 5 Best Slow Cams</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-ultimate-list-of-unmissable-virtual-playgrounds-for-2024/"><u>[Updated] Ultimate List of Unmissable Virtual Playgrounds for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/astro-a50-troubleshooting-ensuring-connection-with-the-command-center/"><u>Astro A50 Troubleshooting: Ensuring Connection with the Command Center</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-insights-four-pathways-to-better-time-management/"><u>ChatGPT Insights: Four Pathways to Better Time Management</u></a></li>
-<li><a href="https://win-answers.techidaily.com/cyberpunk-2077-performance-improved-how-the-latest-patch-boosted-fps-for-smoother-gameplay/"><u>Cyberpunk 2077 Performance Improved: How the Latest Patch Boosted FPS for Smoother Gameplay</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixing-playback-issues-how-to-stop-adobe-after-effects-from-crashing-on-windows-1011/"><u>Fixing Playback Issues: How to Stop Adobe After Effects From Crashing on Windows 10/11</u></a></li>
-<li><a href="https://games-able.techidaily.com/gamers-guide-to-cost-free-engaging-game-worlds/"><u>Gamers' Guide to Cost-Free, Engaging Game Worlds</u></a></li>
-<li><a href="https://win-answers.techidaily.com/guide-for-resolving-the-gpu-not-detected-problem-with-msi-afterburner-on-windows-1011/"><u>Guide for Resolving the 'GPU Not Detected' Problem with MSI Afterburner on Windows 10/11</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-realme-narzo-n53-by-fonelab-android-recover-music/"><u>How To Restore Missing Music Files from Realme Narzo N53</u></a></li>
-<li><a href="https://win-answers.techidaily.com/maximizing-valorants-potential-techniques-to-boost-fps-and-eliminate-stutters/"><u>Maximizing Valorant's Potential: Techniques to Boost FPS and Eliminate Stutters</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-solution-guides-stop-origin-from-crashing-now/"><u>Quick Solution Guides - Stop ‘Origin’ From Crashing Now!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/seamless-drivers-download-and-installation-guide-for-asus-vg2email-protected-on-windows-pcs/"><u>Seamless Drivers Download & Installation Guide for Asus VG2([email Protected]) on Windows PCs</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/selecting-the-perfect-fps-a-deep-dive-into-30fps-vs-60fps-for-2024/"><u>Selecting the Perfect FPS A Deep Dive Into 30Fps Vs. 60Fps for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-civilization-vi-solutions-for-launch-issues-on-windows-10/"><u>Troubleshooting Civilization VI: Solutions for Launch Issues on Windows 10</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-kodis-unable-to-connect-error-and-restoring-directory-access/"><u>Troubleshooting Kodi's Unable to Connect Error & Restoring Directory Access</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-the-persistent-error-0xc19001e1-in-windows-navigating-through-fixes/"><u>Troubleshooting Tips for the Persistent 'Error 0xC19001E1' In Windows Navigating Through Fixes</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211256126-9798869228000-vedic-hymns/"><u>Vedic Hymns | Free Book</u></a></li>
+<li><a href="https://win-answers.techidaily.com/managed-persistent-warno-game-crashing-on-your-computer-a-complete-solution-breakdown/"><u>[MANAGED] Persistent Warno Game Crashing on Your Computer: A Complete Solution Breakdown</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-best-fb-video-extractors-for-ios-devices-ranked-1-for-2024/"><u>[Updated] Best FB Video Extractors for iOS Devices Ranked #1 for 2024</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/1-simple-strategies-for-adding-written-content-to-your-pdf-documents-updated-guide/"><u>1. Simple Strategies for Adding Written Content to Your PDF Documents - Updated Guide</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/artistic-performance-testing-the-gaomon-pd1560-drawing-tablet-analyzed/"><u>Artistic Performance Testing: The Gaomon PD1560 Drawing Tablet Analyzed</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-the-battle-fixing-call-of-duty-warzone-503n-disc-read-error-on-your-pc/"><u>Beat the Battle: Fixing Call of Duty Warzone [5.0/3.n] Disc Read Error on Your PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/end-your-ghost-recon-breakpoint-errors-swift-solutions-inside/"><u>End Your Ghost Recon Breakpoint Errors: Swift Solutions Inside</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-to-overcome-streaming-hurdles-with-netflix-on-your-xbox-one-console/"><u>Expert Tips to Overcome Streaming Hurdles with Netflix on Your Xbox One Console</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gratuiti-convertitori-mp4-a-jpg-guida-passionevole-di-conversione-3gpp-in-mpeg-con-movavi/"><u>Gratuiti Convertitori MP4 a JPG: Guida Passionevole Di Conversione 3GPP in MPEG Con Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/microsoft-365-packaged-in-apples-new-vision-pro-get-access-to-word-excel-on-day-one-exclusive-by-zdnet/"><u>Microsoft 365 Packaged in Apple's New Vision Pro: Get Access to Word, Excel on Day One | Exclusive by ZDNET</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-destiny-2s-vegetable-vexation-the-complete-guide-to-the-2024-patch-and-beyond/"><u>Overcoming Destiny 2'S Vegetable Vexation - The Complete Guide To The 2024 Patch & Beyond</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-issue-fixed-prevent-total-war-warhammer-iii-from-crashing-on-windows-computers/"><u>Resolved Issue: [FIXED] Prevent TOTAL WAR: WARHAMMER III From Crashing on Windows Computers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/smooth-sailing-for-death-stranding-on-pc-end-of-the-crash-epidemic/"><u>Smooth Sailing for Death Stranding on PC – End of the Crash Epidemic</u></a></li>
+<li><a href="https://media-tips.techidaily.com/stream-your-pc-on-any-screen-with-beamer-compatible-with-windows-11-8-and-7/"><u>Stream Your PC on Any Screen with Beamer: Compatible with Windows 11, 8 & 7</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-to-the-orbi-tri-band-mesh-wireless-router-review-for-optimal-housewide-internet-speed/"><u>Ultimate Guide to the Orbi Tri-Band Mesh Wireless Router Review for Optimal Housewide Internet Speed</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-virtualbox-v70-potential-the-upgrade-on-windows-11/"><u>Unlock VirtualBox v7.0 Potential: The Upgrade on Windows 11</u></a></li>
 </ul></div>
 

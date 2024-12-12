@@ -1,7 +1,7 @@
 ---
 title: "Resolving Freezing Problems in Total War: WARHAMMER II – A Comprehensive Guide"
-date: 2024-11-14T21:29:04.196Z
-updated: 2024-11-16T20:32:17.413Z
+date: 2024-12-11T16:44:09.042Z
+updated: 2024-12-12T18:50:09.077Z
 tags:
   - win11
   - win10
@@ -40,23 +40,9 @@ thumbnail: https://thmb.techidaily.com/2bedac5967dc2670719be619f6173feb9adb05006
 
  Before we dive into anything advanced, make sure you’ve installed all the game updates. The devs will be releasing patches to fix any known issues.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Check the server status
 
  Crowded servers are common on launch days. If the game is too laggy to play, you can check the server status first to see if the problem is with the server-end. You can also visit[Back 4 Blood official site](https://www.back4blood.com/en-us/news) ,[Twitter](https://twitter.com/back4blood) ,[Discord](https://discord.com/invite/turtlerockstudios) or the[Steam forum](https://steamcommunity.com/app/924970/discussions/) to see if there’s any announcement.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 2: Test internet connection
 
@@ -79,6 +65,10 @@ thumbnail: https://thmb.techidaily.com/2bedac5967dc2670719be619f6173feb9adb05006
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-29-08.jpg)
 2. Under the**Processes** tab, look for the processes that are network-hogging. Select it then click**End task** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/close-bandwidth-hogging-program.jpg)
 
  If you’re still getting a high ping and game seems laggy, try the next fix.
@@ -97,35 +87,14 @@ thumbnail: https://thmb.techidaily.com/2bedac5967dc2670719be619f6173feb9adb05006
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to the flagged network driver to automatically download the correct version of the drivers, then you can manually install them (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. For example, you can update both your graphics driver and network driver with just one click. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your PC for the new drivers to take effect. Launch Back 4 Blood to see if the problem persists. If your ping is still high and experiences lags in game, no worries, there’s one more fix you can try.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Check your DNS settings
 
@@ -134,6 +103,10 @@ thumbnail: https://thmb.techidaily.com/2bedac5967dc2670719be619f6173feb9adb05006
 [1: Flush your DNS](https://tools.techidaily.com/drivereasy/download/)
 
 [2: Switch to a public DNS server](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1: Flush your DNS
 
@@ -144,14 +117,15 @@ thumbnail: https://thmb.techidaily.com/2bedac5967dc2670719be619f6173feb9adb05006
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/run-cmd.png)
 3. Copy **ipconfig /flushdns** , and paste it in the pop-up window. Then press **Enter** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/flushdns???.png)
 4. Your DNS cache is successfully cleared.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
@@ -167,23 +141,28 @@ thumbnail: https://thmb.techidaily.com/2bedac5967dc2670719be619f6173feb9adb05006
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click **the network you’re using** , then click **Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select **Internet Protocol Version 4 (TCP/IPv4)** , then click **Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select **Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click **OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus tip: try with a VPN
 
@@ -217,17 +196,20 @@ thumbnail: https://thmb.techidaily.com/2bedac5967dc2670719be619f6173feb9adb05006
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-androids-best-youtube-video-downloaders-reviewed/"><u>[New] 2024 Approved Android's Best YouTube Video Downloaders Reviewed</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-uncovering-the-ultimate-screen-recorder-compare-and-choose-obsfraps-for-2024/"><u>[New] Uncovering the Ultimate Screen Recorder Compare and Choose (OBS/Fraps) for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-enthralling-3d-experience-selecting-top-blu-ray-decks-for-2024/"><u>[Updated] Enthralling 3D Experience Selecting Top Blu-Ray Decks for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-hps-color-expertise-in-full-display-the-z32x-review/"><u>[Updated] HP's Color Expertise in Full Display The Z32X Review</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-review-of-syma-x5c-the-ultimate-drone-guide-for-new-users/"><u>[Updated] Review of Syma X5C – The Ultimate Drone Guide for New Users</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-mastering-snapchat-boomerangs-ultimate-instructions/"><u>2024 Approved Mastering Snapchat Boomerangs Ultimate Instructions</u></a></li>
-<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-samsung-galaxy-z-fold-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
-<li><a href="https://discover-able.techidaily.com/easy-methods-for-transforming-your-media-into-compatible-formats-for-iphone-ipad-and-ipod-use/"><u>Easy Methods for Transforming Your Media Into Compatible Formats for iPhone, iPad & iPod Use</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-startup-problems-with-humankind-expert-advice-for-gamers/"><u>Overcoming Startup Problems with Humankind - Expert Advice for Gamers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-solutions-resolve-chrome-freezing-issues-on-windows-10/"><u>Quick Solutions: Resolve Chrome Freezing Issues on Windows 10</u></a></li>
-<li><a href="https://win-answers.techidaily.com/steam-connections-mended-reconnect-with-friends-seamlessly/"><u>Steam Connections Mended: Reconnect with Friends Seamlessly</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-resolving-minecraft-launch-issues/"><u>Troubleshooting Guide: Resolving Minecraft Launch Issues</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-virtual-venue-face-off-assessing-obs-and-twitch-studios/"><u>[New] 2024 Approved Virtual Venue Face-Off Assessing OBS & Twitch Studios</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-exploring-the-power-of-gopro-burst-mode/"><u>[New] Exploring the Power of GoPro Burst Mode</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-m1-pro-vs-m1-max-a-side-by-side-comparison-of-apple-chip-tech/"><u>[New] M1 Pro Vs. M1 Max - A Side-by-Side Comparison of Apple Chip Tech</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-channel-ascension-mastering-the-art-of-youtube-backlink-acquisition/"><u>[Updated] In 2024, Channel Ascension Mastering the Art of YouTube Backlink Acquisition</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-hidden-details-the-secret-to-selective-focus/"><u>2024 Approved Hidden Details The Secret to Selective Focus</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bioshock-2-hd-edition-updated-and-enhanced-gameplay/"><u>BioShock 2 HD Edition - Updated and Enhanced Gameplay!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/call-of-duty-pc-bypassing-error-code-6-issues-with-expert-tips-and-tricks/"><u>Call of Duty (PC) - Bypassing Error Code #6 Issues with Expert Tips & Tricks</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/guia-gratuita-para-transformar-archivos-asf-a-mov-online-usando-el-servicio-de-movavi/"><u>Guía Gratuita Para Transformar Archivos ASF a MOV Online Usando El Servicio De Movavi</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723012872427-how-to-fix-dead-space-remake-wont-launch-2024-tips/"><u>How to Fix Dead Space Remake Won't Launch - 2024 Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/improve-your-gaming-experience-tackle-fps-hiccups-and-smooth-out-stuttering-in-modern-warfare-2-pc-version/"><u>Improve Your Gaming Experience - Tackle FPS Hiccups and Smooth Out Stuttering in Modern Warfare 2 (PC Version)</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/kinesis-freestyle2-blue-mac-review/"><u>Kinesis Freestyle2 Blue (Mac) Review</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/professional-cine-tools-discover-the-top-15-luts-for-action-cams-for-2024/"><u>Professional Cine Tools Discover the Top 15 LUTs for Action Cams for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-fixes-for-speeding-up-utorrent-torrent-downloads-top-tips-and-tricks/"><u>Quick Fixes for Speeding Up uTorrent Torrent Downloads – Top Tips and Tricks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-fix-for-recurring-valorant-game-crashes-and-errors-on-personal-computers/"><u>Step-by-Step Fix for Recurring Valorant Game Crashes and Errors on Personal Computers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-solutions-fixing-playstation-unresponsiveness-valorant-edition/"><u>Step-by-Step Solutions: Fixing PlayStation Unresponsiveness - Valorant Edition</u></a></li>
 </ul></div>
 

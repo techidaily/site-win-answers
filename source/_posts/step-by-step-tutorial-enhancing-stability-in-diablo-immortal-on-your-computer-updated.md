@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Enhancing Stability in Diablo Immortal on Your Computer (Updated)"
-date: 2024-11-30T18:47:20.160Z
-updated: 2024-12-06T16:28:22.116Z
+date: 2024-12-09T16:06:26.461Z
+updated: 2024-12-12T18:30:03.541Z
 tags:
   - win11
   - win10
@@ -42,6 +42,10 @@ Recently, many players have reported that**A Total War Saga: Troy keeps crashing
 2. Click**Verify** to start verifying the game files.  
 ![Verify the game files in Epic Games launcher](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-19_18-50-45.png)
 3. Launch the game after the verifying process completed to see if it would crash again. If the game still crashes, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Update graphics driver
 
@@ -87,14 +91,14 @@ Or
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -106,7 +110,7 @@ Or
  If the latest graphics driver fails to stop the crash, just read on to try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 3: Install the latest game patch
@@ -116,6 +120,10 @@ Or
  If a patch is available, it will be detected by Epic Games launcher, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Launch A Total War Saga: Troy to check whether the game crash issue has been resolved. If it hasn’t, or there was no new game patch available, move on to next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Install the latest DirectX files
 
@@ -140,6 +148,10 @@ Or
 
  If this issue persists after you stopped overclocking, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 6: Repair Epics Games launcher
 
  A Total War Saga: Troy may crash if there is something wrong with Epic Games launcher. To fix the game crashing issue due to Epics Games launcher, just try this fix.
@@ -150,21 +162,9 @@ Or
 ![Open Programs and Features window in Control Panel](https://images.drivereasy.com/wp-content/uploads/2021/03/Open-Programs-and-Features-window-in-Control-Panel.jpg)
 2. **Right-click** on**Epics Games launcher** and select**Repair** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![how to repair Epics Games launcher](https://images.drivereasy.com/wp-content/uploads/2021/03/how-to-repair-Epics-Games-launcher.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After Windows repaired Epics Games launcher, launch A Total War Saga: Troy to see if it will crash. If it still crashes, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 7: Add A Total War Saga: Troy to the exceptions list of your 3rd party antivirus software
 
@@ -199,21 +199,24 @@ Or
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-how-to-brighten-a-video-on-android-step-by-step-explained-for-2024/"><u>[New] How To Brighten A Video On Android – Step By Step Explained for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-reverse-the-norm-flipping-videos-for-social-media/"><u>[New] Reverse the Norm Flipping Videos for Social Media</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-comprehensive-breakdown-sony-fdr-x1000-video-gear/"><u>[Updated] In 2024, Comprehensive Breakdown Sony FDR-X1000 Video Gear</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/amazon-fire-tv-omni-series-qled-now-at-a-steal-grab-the-150-off-deal-via-zdnet/"><u>Amazon Fire TV Omni Series QLED Now at a Steal! Grab the $150 Off Deal via ZDNET</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/crypto-clout-how-much-does-the-youtube-gamer-make/"><u>Crypto Clout How Much Does the YouTube Gamer Make?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-infinix-zero-30-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Infinix Zero 30 5G in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/resolviendo-el-misterio-de-la-pantalla-azul-en-windows/"><u>Resolviendo El Misterio De La Pantalla Azul en Windows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/secure-your-razer-blade-15-notebook-for-just-749-this-memorial-day-deals-exclusive-to-walmart-shoppers/"><u>Secure Your Razer Blade 15 Notebook for Just $749 This Memorial Day - Deals Exclusive to Walmart Shoppers!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/streamline-your-media-library-mastering-bulk-video-format-changes-with-handbrake/"><u>Streamline Your Media Library: Mastering Bulk Video Format Changes with Handbrake</u></a></li>
-<li><a href="https://fox-http.techidaily.com/the-ultimate-review-of-sns-hdr-vs-top-hdr-applications/"><u>The Ultimate Review of SNS HDR Vs. Top HDR Applications</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-4-trusted-platforms-offering-free-4k-resolution-videos-for-instant-downloads/"><u>Top 4 Trusted Platforms Offering Free 4K Resolution Videos for Instant Downloads</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-5-sites-for-free-downloads-of-popular-chinese-melodies/"><u>Top 5 Sites for Free Downloads of Popular Chinese Melodies</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-free-methods-to-save-xvideos-videos-and-watch-them-anywhere-on-or-offline/"><u>Top FREE Methods to Save XVideos Videos and Watch Them Anywhere, On or Offline!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-snimp3-problems-a-comprehensive-guide-to-restoring-functionality-and-how-to-download-mp3-from-youtube/"><u>Troubleshooting SniMp3 Problems: A Comprehensive Guide to Restoring Functionality & How to Download MP3 From YouTube</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-to-best-lossless-audio-encoders-maintaining-fidelity-while-cutting-down-on-space/"><u>Ultimate Guide to Best Lossless Audio Encoders: Maintaining Fidelity While Cutting Down on Space</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-steps-to-post-hd-quality-content-on-instagram/"><u>Ultimate Guide: Steps to Post HD-Quality Content on Instagram</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-top-video-finance-tutorials-for-savvy-traders/"><u>[New] 2024 Approved Top Video Finance Tutorials for Savvy Traders</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-kinemaster-edge-mastering-video-segmentation-and-transitioning/"><u>[New] The Kinemaster Edge Mastering Video Segmentation and Transitioning</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-expediting-video-aggregation-from-tiktok-in-a-flash/"><u>[Updated] 2024 Approved Expediting Video Aggregation From TikTok in a Flash</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-hue-harmony-the-definitive-guide-to-video-coloring/"><u>[Updated] Hue Harmony The Definitive Guide to Video Coloring</u></a></li>
+<li><a href="https://win-answers.techidaily.com/addressing-problems-with-exam-platform-launches-in-202n-a-comprehensive-fix-guide/"><u>Addressing Problems with Exam Platform Launches in 202N: A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/complete-guide-update-or-download-logitechs-prodigy-g4-403-mouse-software-for-windows/"><u>Complete Guide: Update or Download Logitech's Prodigy (G4지터) 403 Mouse Software for Windows</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprehensive-tutorial-updating-gmail-passwords-safely-with-a-code-of-verification/"><u>Comprehensive Tutorial: Updating Gmail Passwords Safely With a Code of Verification</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723011584420-diablo-3-stability-issues-resolved-no-more-game-crashes/"><u>Diablo 3 Stability Issues Resolved: No More Game Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723007549291-fast-track-your-wow-playtime-banish-lagging-for-good/"><u>Fast Track Your WoW Playtime - Banish Lagging for Good</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixed-release-overcome-the-nightmare-fnaf-security-breach-now-running-smoothly-on-pc/"><u>Fixed Release: Overcome the Nightmare - FNAF Security Breach Now Running Smoothly on PC</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/google-tv-chromecast-vs-firetv-a-comprehensive-showdown/"><u>Google TV Chromecast vs FireTV: A Comprehensive Showdown</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-tecno-spark-20-pro-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Tecno Spark 20 Pro to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-engaging-audiences-triad-of-effective-storytelling/"><u>In 2024, Engaging Audiences Triad of Effective Storytelling</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-guide-to-perfectly-fit-your-content-in-instagram-feed/"><u>In 2024, Guide to Perfectly Fit Your Content in Instagram Feed</u></a></li>
+<li><a href="https://extra-information.techidaily.com/initiating-seamless-zoom-gatherings/"><u>Initiating Seamless Zoom Gatherings</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-pc-issues-stop-warzone-20-from-keep-crashing/"><u>Resolving PC Issues - Stop Warzone 2.0 From Keep Crashing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/speedy-hacks-to-resolve-lagging-in-assassins-creed-valhalla-gamers-guide/"><u>Speedy Hacks to Resolve Lagging in Assassin's Creed: Valhalla - Gamer's Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/steams-dragging-its-feet-boost-it-back-to-full-throttle-with-these-tips/"><u>Steam's Dragging Its Feet? Boost It Back to Full Throttle with These Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723008516479-why-isnt-football-manager-2022-out-yet-solve-your-wait-with-these-tips/"><u>Why Isn't Football Manager 2022 Out Yet? Solve Your Wait with These Tips!</u></a></li>
 </ul></div>
 

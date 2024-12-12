@@ -1,7 +1,7 @@
 ---
 title: Effective Solutions When You Can't Hear Anything on Twitch Live
-date: 2024-11-09T18:11:42.559Z
-updated: 2024-11-17T05:21:32.788Z
+date: 2024-12-08T19:24:51.048Z
+updated: 2024-12-12T19:07:55.621Z
 tags:
   - win11
   - win10
@@ -109,19 +109,6 @@ thumbnail: https://thmb.techidaily.com/af0b3f2dd83523f585e0d44be63e4dc2ee76a71ef
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Verify your game files
 
  The game crash issue can also be triggered by the faulty game files. To fix this issue, you need to verify the game files. Here is how to do it:
@@ -133,28 +120,22 @@ thumbnail: https://thmb.techidaily.com/af0b3f2dd83523f585e0d44be63e4dc2ee76a71ef
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-129.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Select**Verify files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-130.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Steam
 
  1) In Steam, navigate to**the LIBRARY tab** and**right-click** on The Division 2\. Then select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Click**the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .
 
@@ -187,19 +168,6 @@ thumbnail: https://thmb.techidaily.com/af0b3f2dd83523f585e0d44be63e4dc2ee76a71ef
  2)**Right-click** on the file**TheDivision.exe** and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-124.png)
-
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Go to**the Compatibility tab** and click**Change high DPI settings** .
 
@@ -241,13 +209,25 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-152.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5)**Check the box** next to**Automatically manage paging file size for all drives** . Then click OK to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-153.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  **Do not disable the paging file or modify it to 0 MB or a static value** even if your PC has sufficient RAM, since if you doing that, it usually causes crashes in the game.
 
  Launch The Division 2 to see if this issue gets fixed or not. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Lower in-game graphics settings
 
@@ -262,47 +242,32 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-155-1024x744.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3)**Turn off Contact Shadows** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-156-1024x776.png)
 
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Set**Particle Detail** to**High** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-157-1024x756.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Set**Reflection Quality** to**Low** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-158-1024x758.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  6) Set**Vegetation Quality** to**Medium** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-159-1024x759.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  7)**Turn off Local Reflection Quality** .
 
@@ -316,15 +281,16 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-162-1024x759.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  10) Set**Terrain Quality** to**Medium** . Then save all the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-163-1024x772.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Launch the game to see if the crash issue reappears. If not, congratulations! You’ve resolved this issue.
@@ -350,19 +316,24 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-the-ultimate-tale-of-htc-vive-and-total-immersion-for-2024/"><u>[New] The Ultimate Tale of HTC Vive and Total Immersion for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-unraveling-the-economic-power-of-mr-beast/"><u>[Updated] In 2024, Unraveling the Economic Power of Mr. Beast</u></a></li>
-<li><a href="https://win-answers.techidaily.com/crash-no-more-6-effective-methods-to-resolve-stray-crashing-in-pc-games/"><u>Crash No More: 6 Effective Methods to Resolve Stray Crashing in PC Games</u></a></li>
-<li><a href="https://techtrends.techidaily.com/creare-gif-da-video-facilmente-i-migliori-metodi-di-conversione-per-tutti-gli-utenti-spiegati-da-movavi/"><u>Creare Gif Da Video Facilmente: I Migliori Metodi Di Conversione per Tutti Gli Utenti, Spiegati Da Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-hottest-lgbtplus-flicks-on-netflix-july-2024-edition/"><u>Discover the Hottest LGBT+ Flicks on Netflix (July 2024 Edition)</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/first-to-successfully-unlock-encrypted-hard-drives-stellars-milestone/"><u>First to Successfully Unlock Encrypted Hard Drives - Stellar's Milestone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-get-minecraft-up-and-running-on-windows-11-after-installation-issues/"><u>How to Get Minecraft Up and Running on Windows 11 After Installation Issues</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-tutorial-transforming-images-into-engaging-gifs/"><u>In 2024, Tutorial Transforming Images Into Engaging GIFs</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-unveiling-the-power-of-a-feature-packed-samsung-galaxy-tab-s5e/"><u>In-Depth Analysis: Unveiling the Power of a Feature-Packed Samsung Galaxy Tab S5e</u></a></li>
-<li><a href="https://win-answers.techidaily.com/multiversus-hiccups-resolved-a-step-by-step-guide-for-pc-players-struggling-with-startup-issues/"><u>MultiVersus Hiccups Resolved? A Step-by-Step Guide for PC Players Struggling with Startup Issues</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-the-dark-screen-glitch-in-resident-evil-village-a-comprehensive-fix-for-pc-users/"><u>Overcoming the Dark Screen Glitch in Resident Evil Village - A Comprehensive Fix for PC Users</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-4-apple-devices-worth-reconsidering-before-purchase-insights-by-zdnet/"><u>Top 4 Apple Devices Worth Reconsidering Before Purchase - Insights by ZDNet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-ranking-lenovo-laptops-in-2e24-comprehensive-expert-reviews-by-tech-experts-at-zdnet/"><u>Top-Ranking Lenovo Laptops in 2E24: Comprehensive Expert Reviews by Tech Experts at ZDNet</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-solving-fallout-4s-pc-hanging-issues/"><u>Troubleshooting Tips: Solving Fallout 4'S PC Hanging Issues</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-game-on-with-more-space-topping-10-hddssds/"><u>[New] 2024 Approved Game On with More Space Topping 10 HDD/SSDs</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-5-exceptional-tiktok-to-gif-converter-software-listings/"><u>[Updated] In 2024, 5 Exceptional TikTok to GIF Converter Software Listings</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-meme-tastic-creativity-tips-on-standing-out-in-virtual-worlds/"><u>2024 Approved Meme-Tastic Creativity Tips on Standing Out in Virtual Worlds</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/finties-defensive-cover-for-your-macbook-pro-13-a-review-on-strength-and-affordability/"><u>Fintie's Defensive Cover for Your MacBook Pro 13 – A Review on Strength and Affordability</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-blue-screen-of-death-a-solution-to-guilty-gear-strive-pc-issues/"><u>Fixing the Blue Screen of Death: A Solution to Guilty Gear Strive PC Issues</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/getting-acquainted-with-a-portable-9-inch-lenovo-tablet-computer/"><u>Getting Acquainted with a Portable 9-Inch Lenovo Tablet Computer</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/guide-to-reconnecting-overcoming-offline-print-spooler/"><u>Guide to Reconnecting: Overcoming Offline Print Spooler</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-call-of-duty-warzone-pc-crashes/"><u>How to Fix Call of Duty: Warzone PC Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-cyberpunk-2077s-chilling-bug-comprehensive-guide/"><u>How to Fix Cyberpunk 2077'S Chilling Bug - Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-rapidly-resolve-apex-legends-not-launching-issues/"><u>How To Rapidly Resolve 'Apex Legends Not Launching' Issues</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-a-convenient-compilation-finding-your-yt-comments/"><u>In 2024, A Convenient Compilation Finding Your YT Comments</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-from-apple-iphone-12-mini-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out From Apple iPhone 12 mini How to Bypass?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-unlock-instagram-broadcast-potential-through-obs-tutorials/"><u>In 2024, Unlock Instagram Broadcast Potential Through OBS Tutorials</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-users-report-recurring-bugs-in-tormented-souls-how-to-fix/"><u>PC Users Report Recurring Bugs in 'Tormented Souls' – How to Fix?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-fix-for-game-loading-problems-verify-and-restore-corrupted-data/"><u>Quick Fix for Game Loading Problems - Verify and Restore Corrupted Data</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-solutions-overcoming-issues-with-genshin-impact-startup/"><u>Quick Solutions: Overcoming Issues with Genshin Impact Startup</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-notch-internet-speed-at-a-bargain-comprehensive-review-of-the-tp-link-archer-a9-router-for-under-100/"><u>Top Notch Internet Speed at a Bargain - Comprehensive Review of the TP-Link Archer A9 Router for Under $100</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-connection-issues-solving-minecraft-cannot-connect-to-the-server-error/"><u>Troubleshooting Connection Issues: Solving 'Minecraft Cannot Connect to the Server' Error</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-fixing-fallout-3-crashes-on-windows-10/"><u>Troubleshooting Guide: Fixing Fallout 3 Crashes on Windows 10</u></a></li>
 </ul></div>
 

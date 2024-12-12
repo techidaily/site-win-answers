@@ -1,7 +1,7 @@
 ---
 title: Discord Camera Problems Solved - Tips for Getting It Working Again
-date: 2024-12-04T16:15:09.368Z
-updated: 2024-12-06T18:49:03.263Z
+date: 2024-12-10T16:52:03.749Z
+updated: 2024-12-12T18:20:50.729Z
 tags:
   - win11
   - win10
@@ -39,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/19c73d13dc30898f49d32d8c5d0e6badbf2d50aea
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Install the latest Fortnite patch
 
  The developers of Fortnite release regular game patches to fix bugs. It’s possible that a recent patch has stopped you from logging into the game, and that a new patch is required to fix it.
@@ -54,15 +50,20 @@ thumbnail: https://thmb.techidaily.com/19c73d13dc30898f49d32d8c5d0e6badbf2d50aea
 ![Fix 1 step 2](https://images.drivereasy.com/wp-content/uploads/2018/10/Fix-1-step-2.png)
 3. **Turn on** the toggle next to **Auto update** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Fix-2-step-3.png)
 4. Restart Epic Games Launcher.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. If a patch is available, it will be detected by the Epic Games Launcher and the latest Fortnite patch will be automatically downloaded and installed when you launch Fortnite.
 
  Run Fortnite again to check if you can log into the game or not. If it not, or there was no new game patch available, move on to Fix 2, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Reboot your network
 
@@ -72,15 +73,15 @@ thumbnail: https://thmb.techidaily.com/19c73d13dc30898f49d32d8c5d0e6badbf2d50aea
 ![modem](https://images.drivereasy.com/wp-content/uploads/2018/10/modem.jpg)  
 ![wireless router](https://images.drivereasy.com/wp-content/uploads/2018/10/wireless-router.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. **Plug in** your network devices again and wait until the indicator lights are back to its normal state.
 
 3. Try launching Fortnite again.
 
 See if you can log in or not. if not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Test your Internet connection speed
 
@@ -103,7 +104,15 @@ See if you can log in or not. if not, try the next fix, below.
 ![netsh winsock reset](https://images.drivereasy.com/wp-content/uploads/2018/10/netsh-winsock-reset.jpg)
 3. **Restart** your PC to complete the reset.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Launch Fortnite after you restart your PC to see if you can log in or not. If you fail to log in, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Flush your DNS and Renew your IP
 
@@ -115,11 +124,11 @@ See if you can log in or not. if not, try the next fix, below.
 ![Fix 5 step 1](https://images.drivereasy.com/wp-content/uploads/2018/10/Fix-5-step-1.jpg)
 2. Type the command line**ipconfig /flushdns**  and press **Enter**  on your keyboard.  
 
-![ipconfig flushdns](https://images.drivereasy.com/wp-content/uploads/2018/10/ipconfig-flushdns.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![ipconfig flushdns](https://images.drivereasy.com/wp-content/uploads/2018/10/ipconfig-flushdns.jpg)
 
 #### To renew your IP
 
@@ -132,6 +141,10 @@ See if you can log in or not. if not, try the next fix, below.
 
 ![ipconfig renew](https://images.drivereasy.com/wp-content/uploads/2018/10/ipconfig-renew.jpg)
 4. Launch Fortnite.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  See if you can log in or not. If this issue persists, try updating your network driver to the latest version.
 
@@ -156,14 +169,14 @@ See if you can log in or not. if not, try the next fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Driver-Easy-Scan-screen.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 
  (Alternatively if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)  
 ![Update Broadcom 802.11.ac Network Adapter driver](https://images.drivereasy.com/wp-content/uploads/2018/12/Update-Broadcom-802.11.ac-Network-Adapter-driver.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -175,10 +188,6 @@ See if you can log in or not. if not, try the next fix, below.
 2. Move wireless devices such as **cordless phones** or **microwave ovens** away from your router; or turn off those devices.
 
  Launch Fortnite again to see if you can log in or not. If the issue reappears, don’t worry. Try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 8: Disable the proxy server
 
@@ -192,20 +201,16 @@ See if you can log in or not. if not, try the next fix, below.
 3. **Uncheck** the box next to **Use a proxy server for your LAN** . If it is already unchecked, **check** the box next to **Automatically detect settings** . Then click **OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![LAN Settings](https://images.drivereasy.com/wp-content/uploads/2018/10/LAN-Settings.jpg)
 4. If you’re using a VPN or a third-party proxy sever,**disable** it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Launch Fortnite to see if you can log in or not. If not, try the next fix to change the DNS server.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 9: Change the DNS server
@@ -243,10 +248,6 @@ See if you can log in or not. If not, try the next fix.
 2. **Right-click** the bandwidth hogging applications and then select **End task** .  
 ![Task Manager](https://images.drivereasy.com/wp-content/uploads/2018/10/Task-Manager.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Launch Fortnite to see if you can log in or not.
 
  Hopefully one of the fixes above resolved this issue for you. Please leave your comment below if you have any questions or suggestion.
@@ -270,18 +271,22 @@ Launch Fortnite to see if you can log in or not.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-from-locked-archives-to-laymans-subtitles-the-zip-to-srt-method-for-2024/"><u>[New] From Locked Archives to Layman's Subtitles The Zip To Srt Method for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/2024-youtube7/"><u>「2024新品種」におすすめ! YouTubeダウンロードを自由に、これが7つの最適解である!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/44cm44kq44o844oh44kj44kq5qmf5zmo44gn5puy44gm6kqn6k2y44gv44km44gq44ge5pmc44gu5aplusplus562w5pa55rov44cn/"><u>「オーディオ機器で曲が認識されない時の対策方法」</u></a></li>
-<li><a href="https://win-answers.techidaily.com/44cm44k544k44oh44kj44oz44kw5yuv55s744oa44km44oz44ot44o844oj5oml6acg44ks44kk44oj44cn/"><u>「スタディング動画ダウンロード手順ガイド」</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/2024-approved-sonic-design-lab-pioneering-audio-manipulation-in-sony-vegas-pro/"><u>2024 Approved Sonic Design Lab Pioneering Audio Manipulation in Sony Vegas Pro</u></a></li>
-<li><a href="https://win-answers.techidaily.com/5yuv55s757eo6zug77ya5pmc6zat44go6kgo56s644gr44ki44kl44ot44oh44kq5yig5ymy5oqa6kgt/"><u>動画編集：時間と表示によるビデオ分割技術</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/download-the-fully-functional-hevc-video-codec-expansion-utility-no-registration-needed/"><u>Download the Fully Functional Hevc Video Codec Expansion Utility - No Registration Needed!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726030142406-gopro/"><u>GoPro映像の解像度とアスペクト比を調整する手順</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-gionee-f3-pro-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Gionee F3 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726030645663-mkv/"><u>MKV映像ファイルの容量削減手順「シンプルガイド」</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-key-disparities-between-apple-macintosh-and-windows-computers/"><u>Unveiling Key Disparities Between Apple Macintosh and Windows Computers</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Meizu 21 Pro? | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/world-words-within-the-web-of-english-language/"><u>World Words Within the Web of English Language</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-securing-your-youtube-profitability-monetization-auditing-guide/"><u>[New] 2024 Approved Securing Your YouTube Profitability Monetization Auditing Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-from-good-quality-to-great-optimal-hd-fb-streaming/"><u>[New] In 2024, From Good Quality to Great Optimal HD FB Streaming</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-error-code-727e66ac-in-nba-2mysql-ultimate-guide-to-enhancing-your-2024-gaming-experience/"><u>Beat Error Code 727E66AC in NBA 2MySQL: Ultimate Guide to Enhancing Your 2024 Gaming Experience</u></a></li>
+<li><a href="https://windows11.techidaily.com/chkdsk-vs-scan-disk-delving-into-dissects-function-in-system-repairing/"><u>Chkdsk Vs. Scan Disk: Delving Into Dissect's Function in System Repairing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/comprehensive-walkthrough-no-more-crashes-enhancing-performance-of-horizon-zero-dawn-on-windowsmac/"><u>Comprehensive Walkthrough: No More Crashes - Enhancing Performance of Horizon Zero Dawn on Windows/Mac</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cyberpunk-2077-crashing-on-pc-solved/"><u>Cyberpunk 2077 Crashing on PC [SOLVED]</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/decouvrez-la-recuperation-unikey-comprendre-sa-fonction-et-ses-tactiques-dutilisation/"><u>Découvrez La Récupération UniKey: Comprendre Sa Fonction Et Ses Tactiques D'Utilisation</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-solutions-for-the-notorious-game-crashes-of-lego-star-wars-on-pc-updated-guide/"><u>Effective Solutions for the Notorious Game Crashes of Lego Star Wars on PC - Updated Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ending-the-troubles-how-to-stop-avatar-game-from-collapsing-on-windows-and-mac/"><u>Ending the Troubles - How to Stop Avatar Game From Collapsing on Windows & Mac</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ensure-uninterrupted-fun-overcome-maplestory-crashing-issues-on-windows-10-comprehensive-guide/"><u>Ensure Uninterrupted Fun: Overcome MapleStory Crashing Issues on Windows 10 - Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-more-than-you-paid-for-with-this-user-friendly-handheld-8-in-1-adapter-featured/"><u>Get More Than You Paid For with This User-Friendly Handheld 8-in-1 Adapter, Featured</u></a></li>
+<li><a href="https://win-best.techidaily.com/hdd-windows-1111/"><u>HDDアップグレード手順: Windows 11/11で古いディスクを新しいコンピューターへ導入する簡単な方法</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-everspace-npc-version-from-crashing-solution-found/"><u>How To Stop Everspace nPC Version From Crashing (Solution Found)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installing-nvidia16-3d-vision-drivers-on-your-window-system-without-cost/"><u>Installing Nvidia'16 3D Vision Drivers on Your Window System Without Cost</u></a></li>
+<li><a href="https://windows11.techidaily.com/keyboard-crash-in-windows-10-follow-this-path/"><u>Keyboard Crash in Windows 10? Follow This Path</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-players-rejoice-as-deathloops-freezing-issues-get-resolved/"><u>PC Players Rejoice as Deathloop's Freezing Issues Get Resolved!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/windows-for-videographers-hdr-insights/"><u>Windows for Videographers HDR Insights</u></a></li>
 </ul></div>
 

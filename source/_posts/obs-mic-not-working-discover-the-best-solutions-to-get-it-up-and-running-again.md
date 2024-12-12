@@ -1,7 +1,7 @@
 ---
 title: Obs Mic Not Working? Discover the Best Solutions to Get It Up & Running Again!
-date: 2024-12-01T18:50:24.013Z
-updated: 2024-12-06T17:31:03.765Z
+date: 2024-12-05T18:22:08.699Z
+updated: 2024-12-12T16:47:25.242Z
 tags:
   - win11
   - win10
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/6afde60cdf2c4ed08818a0c3bb279e1893a9ceb46
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -50,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/6afde60cdf2c4ed08818a0c3bb279e1893a9ceb46
 3. In the**Process** tab, select any process related with**Discord** , and click**End task** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14c2e4d7a7.jpg)  
@@ -61,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/6afde60cdf2c4ed08818a0c3bb279e1893a9ceb46
  Then you’ll be able to delete Discord folders. Continue with the steps below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 2: Delete Discord folders
@@ -70,10 +70,6 @@ thumbnail: https://thmb.techidaily.com/6afde60cdf2c4ed08818a0c3bb279e1893a9ceb46
 2. Type_**%AppData%**_ and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14e6b6694d.jpg)
 3. Your File Explorer will open a window. Right click the**discord folder** and click**Delete** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14f2686712.jpg)
 4. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the**Run** box.
@@ -88,6 +84,10 @@ thumbnail: https://thmb.techidaily.com/6afde60cdf2c4ed08818a0c3bb279e1893a9ceb46
 8. You’ll be able to reinstall Discord in your computer. Just download the Discord application, run the Discord setup file and it should be installed properly.
 
  Hope the steps above helps you with the Discord installation failed issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Bonus Tip: Update available device drivers
 
@@ -110,13 +110,13 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be15008084c8.jpg)
 3. Click the**Update** button next to the flagged devices to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it in your computer.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** and get a**30-day money back guarantee** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1502542d98.jpg)
 4. Restart your computer to take effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * [Windows](https://tools.techidaily.com/drivereasy/download/)
 
@@ -135,18 +135,24 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-comprehensive-analysis-of-top-6-hdmi-enabled-monitors/"><u>[New] In 2024, Comprehensive Analysis of Top 6 HDMI-Enabled Monitors</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-the-mini-video-medley-where-does-your-audience-flock-youtubes-or-tiktoks/"><u>[New] In 2024, The Mini-Video Medley Where Does Your Audience Flock? YouTubes or TikToks?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-iphone-and-android-enthusiasts-guide-to-custom-whatsapp-sounds/"><u>[New] IPhone & Android Enthusiast's Guide to Custom WhatsApp Sounds</u></a></li>
-<li><a href="https://win-answers.techidaily.com/beat-cod-black-ops-cold-war-glitch-overcome-error-80070057-with-these-steps/"><u>Beat Cod: Black Ops Cold War Glitch - Overcome Error 80070057 with These Steps</u></a></li>
-<li><a href="https://win-answers.techidaily.com/eliminating-lags-and-stutters-optimizing-your-age-of-empires-4-experience/"><u>Eliminating Lags & Stutters – Optimizing Your Age of Empires 4 Experience</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ghostrunner-not-working-troubleshoot-and-resolve-windows-11-issues-with-ease/"><u>Ghostrunner Not Working? Troubleshoot and Resolve Windows 11 Issues with Ease</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-6s-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>How to Unlock iPhone 6s With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-produce-personalized-internet-chuckles/"><u>In 2024, Produce Personalized Internet Chuckles</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-rebound-creators-range/"><u>In 2024, Rebound Creators' Range</u></a></li>
-<li><a href="https://facebook.techidaily.com/next-gen-listening-experience-unveiled-by-facebook/"><u>Next-Gen Listening Experience Unveiled by Facebook</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722996198874-the-mystery-of-missing-la-noire-pc-version-is-solved-start-playing-today/"><u>The Mystery of Missing L.A. Noire PC Version Is Solved - Start Playing Today</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-resolving-roblox-startup-problems/"><u>Troubleshooting Steps for Resolving Roblox Startup Problems</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-final-cut-pro-x-compression-made-easy-a-beginners-guide/"><u>Updated 2024 Approved Final Cut Pro X Compression Made Easy A Beginners Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/2024-fix-nba-2k21-stuck-on-black-loading-screen/"><u>[2024 Fix] NBA 2K21 Stuck on Black Loading Screen</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-premier-low-cost-time-tracking-tools/"><u>[New] In 2024, Premier Low-Cost Time Tracking Tools</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-inside-look-securing-a-profitable-monetized-youtube-space/"><u>[New] Inside Look Securing a Profitable Monetized Youtube Space</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unison-video-visionaries-finding-your-cms-for-2024/"><u>[Updated] Unison Video Visionaries Finding Your CMS for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-perfected-frames-select-software-and-websites-of-the-year-2023/"><u>2024 Approved Perfected Frames Select Software & Websites of the Year, 2023</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-essential-iphone-podcast-retrieval-handbook/"><u>2024 Approved The Essential iPhone Podcast Retrieval Handbook</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-xiaomi-redmi-13c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Xiaomi Redmi 13C? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/dying-light-2-optimization-tips-how-to-fix-frame-rate-issues-and-stuttering-in-pc-version/"><u>Dying Light 2 Optimization Tips: How to Fix Frame Rate Issues & Stuttering in PC Version</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fast-fix-resolving-dayz-shooting-issues-in-seconds/"><u>Fast Fix: Resolving DayZ Shooting Issues in Seconds</u></a></li>
+<li><a href="https://games-able.techidaily.com/fine-tuning-joystick-actions-on-the-xbox-one/"><u>Fine-Tuning Joystick Actions on the Xbox One</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-for-persistent-outlook-app-crashes-expert-solutions/"><u>Fixes for Persistent Outlook App Crashes - Expert Solutions</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-unseen-aspects-the-hidden-secrets-of-instagram-stories-viewers/"><u>In 2024, Unseen Aspects The Hidden Secrets of Instagram Stories Viewers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723009566005-mastering-subnautica-below-zero-on-your-pc-no-more-frustrating-freezes/"><u>Mastering Subnautica Below Zero on Your PC - No More Frustrating Freezes!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stabilize-your-pc-experience-with-these-tips-to-prevent-halo-infinite-crashes/"><u>Stabilize Your PC Experience with These Tips to Prevent Halo Infinite Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-solutions-to-overcome-the-0xc19-001e1-issue-in-windows-11/"><u>Step-by-Step Solutions to Overcome the 0Xc19 001E1 Issue in Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-essential-guide-to-choosing-an-iphone-ecase-for-your-latest-model-uncover-why-you-need-one-now/"><u>The Essential Guide to Choosing an iPhone eCase for Your Latest Model - Uncover Why You Need One Now!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-how-to-stop-diablo-iv-from-crashing-on-playstation-and-xbox/"><u>Troubleshooting Guide: How to Stop Diablo IV From Crashing on PlayStation and Xbox</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/tune-treasure-hunt-finding-the-perfect-audio-for-2024/"><u>Tune Treasure Hunt Finding the Perfect Audio for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/yakuza-amoored-pc-version-stability-improvements-and-patch-notes/"><u>Yakuza Amoored: PC Version Stability Improvements and Patch Notes</u></a></li>
 </ul></div>
 

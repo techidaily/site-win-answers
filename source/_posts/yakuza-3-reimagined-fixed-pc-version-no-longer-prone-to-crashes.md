@@ -1,7 +1,7 @@
 ---
 title: "Yakuza 3 Reimagined: Fixed PC Version No Longer Prone to Crashes"
-date: 2024-11-12T08:46:07.033Z
-updated: 2024-11-17T09:22:02.333Z
+date: 2024-12-08T16:22:56.778Z
+updated: 2024-12-12T17:59:33.996Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/72f83f594e8347a65931f8cd6726d7752e9fa455e
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes…
 
@@ -56,13 +60,6 @@ thumbnail: https://thmb.techidaily.com/72f83f594e8347a65931f8cd6726d7752e9fa455e
 
  If your internet connection is solid but the error persists, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 3: Verify the game files
 
  If your local game files are missing or corrupted, it could trigger random issues. You can use the Steam client to scan and repair your game files. Although it’s hard to identify if this is the root cause of the no ping error, verifying the game files can help prevent other game issues. Here’s how:
@@ -72,23 +69,13 @@ thumbnail: https://thmb.techidaily.com/72f83f594e8347a65931f8cd6726d7752e9fa455e
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/Steam-right-click-Properties-1.jpg)
 3. Under the**local files** tab, click**Verify integrity of game files** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/verify-game-files-1.jpg)
 4. This process may take a while. Once the scan is complete, restart the game to see if you still get the error.
 
 If the error returns, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 4: Update your network driver
@@ -114,6 +101,10 @@ If the error returns, try the next fix.
 
  Restart your PC for the new drivers to take effect. If updating your network driver doesn’t help, try the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 5: Configure DNS settings
 
  Corrupted DNS caches may cause random connection issues. If the fixes above didn’t work for you, you may want to give this fix a try and configure your DNS settings. There are two things you can do:
@@ -137,10 +128,7 @@ If the error returns, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2: Switch to a public DNS server
@@ -151,31 +139,19 @@ If the error returns, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/open-network-settings.png)
 2. Click**Change adapter options** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
 
 <!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
@@ -186,10 +162,7 @@ If the error returns, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If changing the DNS settings doesn’t solve your problem, there’s one more fix you can try.
@@ -225,19 +198,21 @@ If the error returns, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-onscreen-excellence-flexible-talent-access-for-2024/"><u>[New] Onscreen Excellence Flexible Talent Access for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-how-to-record-gameplay-on-ps4/"><u>[Updated] 2024 Approved How to Record Gameplay on PS4</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-the-ultimate-techniques-for-perfecting-instagram-video-loops/"><u>[Updated] In 2024, The Ultimate Techniques for Perfecting Instagram Video Loops</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-unlock-the-power-of-time-lapse-with-gopro-hero5/"><u>2024 Approved Unlock the Power of Time-Lapse with GoPro Hero5</u></a></li>
-<li><a href="https://win-answers.techidaily.com/conquer-guilty-gear-strive-glitches-proven-solutions-to-prevent-pc-game-disruptions/"><u>Conquer Guilty Gear Strive Glitches: Proven Solutions to Prevent PC Game Disruptions</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ovie-making-youtubes-boutique-method/"><u>DIY Movie Making YouTube's Boutique Method</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-vivo-v30-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Vivo V30 Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/perfected-performance-winxp-win11s-drive-flawlessness-via-startech/"><u>Perfected Performance: WinXP-Win11's Drive Flawlessness via StarTech</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-critical-dev-errors-in-call-of-duty-modern-warfare-and-warzone/"><u>Resolving Critical Dev Errors in Call of Duty: Modern Warfare and Warzone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solve-your-minecraft-world-connection-issues-with-these-proven-fixes/"><u>Solve Your Minecraft World Connection Issues with These Proven Fixes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-walkthrough-reactivating-your-stalled-alienware-command-center/"><u>Step-by-Step Walkthrough: Reactivating Your Stalled Alienware Command Center</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamlining-your-windows-11-reboot-cycle/"><u>Streamlining Your Windows 11 Reboot Cycle</u></a></li>
-<li><a href="https://win-answers.techidaily.com/unlock-your-graphics-card-potential-in-cyberpunk-2077-for-windows-11-users/"><u>Unlock Your Graphics Card Potential in Cyberpunk 2077 for Windows 11 Users</u></a></li>
-<li><a href="https://win-answers.techidaily.com/war-thunder-performance-tweaks-achieve-higher-frames-per-second/"><u>War Thunder Performance Tweaks: Achieve Higher Frames per Second</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-youtubes-secrets-to-successful-video-marketing-uncovered/"><u>[New] 2024 Approved YouTube's Secrets to Successful Video Marketing Uncovered</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/nleash-your-potential-skyrocketing-numbers-of-youtubers-subscribers/"><u>[New] Unleash Your Potential Skyrocketing Numbers of YouTubers' Subscribers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-photoshop-techniques-for-dynamic-realistic-text/"><u>[Updated] Photoshop Techniques for Dynamic, Realistic Text</u></a></li>
+<li><a href="https://win-answers.techidaily.com/dead-by-daylight-troubleshooting-solving-error-code-8014/"><u>Dead by Daylight Troubleshooting: Solving Error Code 8014</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/deconstructing-snapchat-my-ais-impact-with-6-reasons/"><u>Deconstructing Snapchat My AI's Impact with 6 Reasons</u></a></li>
+<li><a href="https://solve-info.techidaily.com/facing-an-obsolete-graphics-card-solutions-and-advice-by-yl-software-experts/"><u>Facing an Obsolete Graphics Card? Solutions & Advice by YL Software Experts</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-black-ops-cold-war-tackling-the-troublesome-error-message-c0000005/"><u>Fix Black Ops Cold War - Tackling the Troublesome Error Message C0000005</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/fongo-review-canada-voip-service/"><u>Fongo Review: Canada VoIP Service</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-overcome-ubisoft-connect-glitches-a-step-by-step-fix-for-the-new-year-2024/"><u>How to Overcome Ubisoft Connect Glitches: A Step-by-Step Fix for the New Year 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-understanding-ip-in-instagram-rhythms/"><u>In 2024, Understanding IP in Instagram Rhythms</u></a></li>
+<li><a href="https://win-answers.techidaily.com/league-of-legends-wont-open-discover-the-best-fixes-and-hacks-for-gamers-in-202e/"><u>League of Legends Won't Open? Discover the Best Fixes and Hacks for Gamers in 202E!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-problems-with-a-malfunctioning-steelseries-gg-gamepads-windows-compatibility/"><u>Solving Problems with a Malfunctioning SteelSeries GG Gamepad's Windows Compatibility</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/the-ultimate-guide-to-scouting-for-best-free-srt-translation-tools-for-2024/"><u>The Ultimate Guide to Scouting for Best Free SRT Translation Tools for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-how-to-fix-failed-updates-on-the-official-minecraft-installer/"><u>Troubleshooting Guide: How to Fix Failed Updates on the Official Minecraft Installer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-to-prevent-age-of-wonders-planetfall-disruptions-during-gaming-on-pc/"><u>Troubleshooting Steps to Prevent Age of Wonders: Planetfall Disruptions During Gaming on PC</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleashing-creativity-and-saving-time-10-ai-enhanced-pdfs/"><u>Unleashing Creativity & Saving Time: 10 AI-Enhanced PDFs</u></a></li>
 </ul></div>
 

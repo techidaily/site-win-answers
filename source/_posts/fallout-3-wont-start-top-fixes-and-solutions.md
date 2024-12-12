@@ -1,7 +1,7 @@
 ---
 title: Fallout 3 Won't Start? Top Fixes & Solutions
-date: 2024-11-16T12:39:36.640Z
-updated: 2024-11-16T22:32:10.808Z
+date: 2024-12-08T18:50:56.635Z
+updated: 2024-12-12T17:28:24.689Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ Team Fortress 2 gameplay is endlessly fun but many players report the problem of
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5 fixes to try
 
  You might not need to try them all; just walk your way down the list until you find the one that works for you.
@@ -31,13 +35,6 @@ Team Fortress 2 gameplay is endlessly fun but many players report the problem of
 3. **[Run TF2 in compatibility mode & as an administrator](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Verify the integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Set Launch Options](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Before getting started
 
@@ -58,6 +55,10 @@ By checking your system specs, just follow the instructions below:
 
 ![bring up DirectX Diagnostic Tool](https://images.drivereasy.com/wp-content/uploads/2020/09/dxdiag.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2) Now you can check your system specs.
 
 ![check system specs
@@ -65,15 +66,16 @@ By checking your system specs, just follow the instructions below:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Stop overclocking your GPU
 
  You might overclock your GPU in order to boost your game’s FPS. But it’ll lead to an increase in heat, and thus reduce the lifespan of your hardware components. So if you’ve been overclocking it, try to disable it.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics drivers
@@ -92,13 +94,6 @@ By checking your system specs, just follow the instructions below:
 [AMD](https://www.amd.com/en/support)
 [Intel](https://downloadcenter.intel.com/download/29804/Intel-Graphics-Driver-for-Windows-15-40-?product=80939)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Option 2: Automatically update your graphics drivers (recommended)
 
  If you don’t feel like updating the drivers all on your own, we recommend you use[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) . It’s a tool that detects, downloads and installs the correct versions of drivers that your computer needs. With Driver Easy, updating graphics drivers becomes much easier.
@@ -109,6 +104,10 @@ By checking your system specs, just follow the instructions below:
 
 ![update drivers; scan now](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update** button next to _your graphics driver_ to automatically download the correct driver for your computer, then you can manually install it.
 
 OR
@@ -118,25 +117,11 @@ OR
 
 ![update graphics drivers automatically](https://images.drivereasy.com/wp-content/uploads/2020/09/update-all-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After that, launch your game to see if the problem is solved. If not, try to update other drivers including sound drivers, and DirectX drivers as well.
 
  If you’ve had all your drivers updated and the problem persists, try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 3: Run TF2 in compatibility mode & as an administrator
 
@@ -151,10 +136,7 @@ OR
 ![run the game in compatibility mode TF2](https://images.drivereasy.com/wp-content/uploads/2020/09/run-the-game-in-compatibility-mode-2-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Then open the**common** folder >**Team Fortress 2** folder.
@@ -166,6 +148,10 @@ OR
  5) Select the**Compatibility** tab and check**Run this program in compatibility mode** and**Run this program as an administrator** . Then click**OK** .
 
 ![run the game in compatibility mode TF2](https://images.drivereasy.com/wp-content/uploads/2020/09/run-the-game-in-compatibility-mode-as-an-administrator.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Verify the integrity of game files
 
@@ -179,16 +165,13 @@ OR
 
 ![Team Fortress 2 verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2020/09/verify-integrity-of-game-files.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Steam will verify the game’s files and this process may take several minutes.
 
 ![Team Fortress 2 verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2020/09/verify-integrity-of-game-files-2.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Set Launch Options
 
@@ -238,19 +221,18 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-prime-greener-recording-devices-utilization-tips-for-2024/"><u>[New] Prime Greener Recording Devices Utilization Tips for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-the-art-of-retention-capturing-gifs-from-social-media/"><u>[Updated] 2024 Approved The Art of Retention Capturing GIFs From Social Media</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-unveil-the-power-of-vrecorder-installs-demystified/"><u>2024 Approved Unveil the Power of VRecorder Installs Demystified</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/demystifying-onboard-ai-systems-mechanisms-and-operations-explained/"><u>Demystifying Onboard AI Systems: Mechanisms & Operations Explained</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722977260795-download-and-update-wi-fi-drivers-for-windows-7-simple-steps/"><u>Download and Update Wi-Fi Drivers for Windows 7 – Simple Steps</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/effective-techniques-for-compressing-videos-up-to-90-while-retaining-high-quality-visuals/"><u>Effective Techniques for Compressing Videos Up to 90% While Retaining High-Quality Visuals</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-frame-rate-and-freezing-solutions-to-red-dead-redemption-2-performance-problems/"><u>Fixing Frame Rate & Freezing: Solutions to Red Dead Redemption 2 Performance Problems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-stop-subnautica-below-zero-from-failing-at-launch-on-your-desktop-computer/"><u>How to Stop Subnautica: Below Zero From Failing at Launch on Your Desktop Computer</u></a></li>
-<li><a href="https://extra-support.techidaily.com/master-your-images-with-the-best-overlay-apps-for-ios-and-android-for-2024/"><u>Master Your Images with the Best Overlay Apps for iOS & Android for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-the-quick-solution-to-your-battlefield-n5-wont-start-dilemma/"><u>Mastering the Quick Solution to Your Battlefield N5 Won't Start Dilemma</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-guide-to-achieving-higher-fps-on-apex-legends-top-6-strategies-inside/"><u>Quick Guide to Achieving Higher FPS on Apex Legends - Top 6 Strategies Inside</u></a></li>
-<li><a href="https://win-answers.techidaily.com/tips-to-prevent-robocop-rogue-city-from-crashing-during-gameplay-on-a-pc/"><u>Tips to Prevent 'Robocop: Rogue City' From Crashing During Gameplay on a PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-strategies-overcoming-the-challenge-of-non-opening-league-of-legends-updated-for-2n24/"><u>Top Strategies: Overcoming the Challenge of Non-Opening League of Legends - Updated for 2N24</u></a></li>
-<li><a href="https://win11.techidaily.com/win11s-dns-cache-how-to-clear-and-maintain-efficiency/"><u>Win11's DNS Cache: How to Clear and Maintain Efficiency</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-prime-frame-rate-enhancing-laggard-motion/"><u>[New] 2024 Approved Prime Frame Rate Enhancing Laggard Motion</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ecoding-the-functionality-of-youtubes-media-hub-for-2024/"><u>[New] Decoding the Functionality of YouTube's Media Hub for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-streamlined-techniques-to-log-and-preserve-gotomeetings/"><u>[Updated] In 2024, Streamlined Techniques to Log and Preserve GoToMeetings</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-high-end-humor-scripts/"><u>In 2024, High-End Humor Scripts</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-unleash-the-content-free-movie-player-windowsmac/"><u>In 2024, Unleash the Content FREE MOVIE PLAYER (Windows/Mac)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/live-gaming-zenith-revealed-9-edition/"><u>Live Gaming Zenith Revealed, #9 Edition</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723008442056-master-the-art-of-preventing-dota-2-crashes-with-these-pro-hacks/"><u>Master the Art of Preventing Dota 2 Crashes with These Pro Hacks!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-hogwarts-legacy-in-2nd4-the-definitive-list-of-6-stutter-fixes/"><u>Mastering Hogwarts Legacy in 2nD4: The Definitive List of 6 Stutter Fixes</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-dvr-wars-tivo-and-comcast-go-head-to-head/"><u>New In 2024, DVR Wars TiVo and Comcast Go Head-to-Head</u></a></li>
+<li><a href="https://win-answers.techidaily.com/star-wars-battlefront-ii-resolved-lagging-issues-and-improved-performance/"><u>Star Wars Battlefront II - Resolved Lagging Issues and Improved Performance</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-resolving-crashes-and-hitches-for-fall-guys-on-desktop/"><u>Troubleshooting Guide: Resolving Crashes & Hitches for Fall Guys on Desktop</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-pc-crashes-in-red-dead-online-ultimate-fix-guide/"><u>Troubleshooting PC Crashes in Red Dead Online - Ultimate Fix Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-for-fixing-age-of-empires-2-compatibility-with-windows-10/"><u>Troubleshooting Steps for Fixing Age of Empires 2 Compatibility with Windows 10</u></a></li>
 </ul></div>
 

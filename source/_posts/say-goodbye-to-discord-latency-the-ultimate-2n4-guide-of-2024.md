@@ -1,7 +1,7 @@
 ---
 title: Say Goodbye to Discord Latency - The Ultimate 2N4 Guide of 2024
-date: 2024-11-30T18:47:47.322Z
-updated: 2024-12-06T18:45:04.113Z
+date: 2024-12-09T18:10:38.011Z
+updated: 2024-12-12T18:05:58.298Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/fc6a682db0e3d4f0e7a82dcc086d1d5b243871658
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You may not need to try all of them. Simply work your way down until you find the one that does the charm.
@@ -43,10 +47,6 @@ thumbnail: https://thmb.techidaily.com/fc6a682db0e3d4f0e7a82dcc086d1d5b243871658
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-appdata.jpg)
 2. Go to **Local > Hotta > Saved > Config > WindowsNoEditor** . Right click**GameUserSettings.ini** and rename it to**GameUserSettings.ini.backup.**  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/tower-of-fantasy-config-1.jpg)
 3. **Right-click the empty** area and create a new .txt file with the name**GamerUserSettings.ini** . Edit the file and paste the following:  
 
@@ -58,10 +58,6 @@ bPreferD3D12InGame=False
 Now you can restart Tower of Fantasy and check the results.
 
 If the game still crashes, take a look at the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2:**Update your graphics driver**
 
@@ -84,7 +80,7 @@ If the game still crashes, take a look at the next fix.
  If the latest drivers can’t stop the crash, you can check out the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Install all Windows updates
@@ -95,15 +91,19 @@ If the game still crashes, take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-1.jpg)
 2. Click**Check for updates** . Windows will then check for available updates. (Or click Restart now if it prompts “Restart required”)  
 
-![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
 If Tower of Fantasy still crashes, you can try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Run in compatibility mode
 
@@ -118,14 +118,10 @@ If Tower of Fantasy still crashes, you can try the next fix below.
 3. Now you can test the gameplay in Tower of Fantasy.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If this fix doesn’t work for you, undo the settings and continue to the next one below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Modify your Registry (Advanced)
 
@@ -140,15 +136,15 @@ If Tower of Fantasy still crashes, you can try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/regedit-tdrlevel-1.jpg)
 3. Right click the empty space and create a**DWORD (32-bit) Value** . Then name it**TdrLevel** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/regedit-tdrlevel-2.jpg)
 4. Double-click**TdrLevel** to edit the value. Select**Hexadecimal** and set**Value data** to**0** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/regedit-tdrlevel-3.jpg)
 5. Now reboot your PC and launch Tower of Fantasy.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If TdrLevel didn’t fix the issue, rename TdrLevel to**TdrDelay** , select the**Decimal** option and set Value data to**10** and try again after reboot.
 
@@ -164,6 +160,10 @@ If this fix doesn’t give you luck, take a look at the next one.
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
@@ -188,17 +188,24 @@ If this fix doesn’t give you luck, take a look at the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-from-low-res-to-hd-your-first-foray-into-frame-rates/"><u>[New] From Low-Res to HD Your First Foray Into Frame Rates</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-reviving-your-shows-heartbeat-saving-facebook-livestream-pauses/"><u>[New] Reviving Your Show's Heartbeat Saving Facebook Livestream Pauses</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-your-journey-to-1k-followers-in-one-month-secrets-from-top-influencers/"><u>[Updated] 2024 Approved Your Journey to 1K Followers in One Month Secrets From Top Influencers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/cracking-the-code-on-persistent-frostpunk-crashes-a-comprehensive-fix-guide/"><u>Cracking the Code on Persistent Frostpunk Crashes - A Comprehensive Fix Guide</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-stolen-iphone-11-pro-max-in-different-conditionsin-drfone-by-drfone-ios/"><u>How To Unlock Stolen iPhone 11 Pro Max In Different Conditionsin | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/pc-troubleshooting-for-starfield-how-to-prevent-freezing-and-crashes/"><u>PC Troubleshooting for Starfield: How to Prevent Freezing & Crashes</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/realtek-rtl8188cu-wireless-card-driver-update-enhanced-performance-for-windows-710-download-now/"><u>Realtek RTL8188CU Wireless Card Driver Update: Enhanced Performance for Windows 7/10 – Download Now!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/success-story-correctly-installing-the-ds4-driver-for-windows-and-enjoying-uninterrupted-gameplay/"><u>Success Story: Correctly Installing the DS4 Driver for Windows and Enjoying Uninterrupted Gameplay</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/syma-x5c-rc-quadcopter-evaluation-a-cost-effective-starter-drone/"><u>SYMA X5C R/C Quadcopter Evaluation: A Cost-Effective Starter Drone</u></a></li>
-<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-huawei-nova-y71-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Huawei Nova Y71.</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-your-clownfish-microphone-mod-kit-solutions-to-audio-malfunctions/"><u>Troubleshooting Your Clownfish Microphone Mod Kit: Solutions to Audio Malfunctions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/yakuza-nremastered-for-pc-troubleshooting-steps-to-stop-game-crashes/"><u>Yakuza N_Remastered for PC - Troubleshooting Steps to Stop Game Crashes</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-interactive-media-exchange-twitter-to-snapchat-videos/"><u>[New] In 2024, Interactive Media Exchange Twitter to Snapchat Videos</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-unveiling-the-15-leading-cameras-excluding-gopro/"><u>[Updated] 2024 Approved Unveiling the 15 Leading Cameras Excluding GoPro</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-mastering-internet-media-our-picks-for-top-browser-recording-tools/"><u>[Updated] Mastering Internet Media Our Picks for Top Browser Recording Tools</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-supercharge-your-channel-with-smart-youtube-collaborations/"><u>2024 Approved Supercharge Your Channel with Smart YouTube Collaborations</u></a></li>
+<li><a href="https://win-answers.techidaily.com/battlefield-n5-launch-failure-fixes-comprehensive-guide-for-players/"><u>Battlefield N5 Launch Failure Fixes - Comprehensive Guide for Players</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-infinix-note-30i-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Infinix Note 30i?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/foster-positivity-surround-yourself-with-supportive-colleagues-or-friends-who-inspire-and-uplift-you-positive-relationships-at-work-foster-a-sense-of-commun593/"><u>Foster Positivity - Surround Yourself with Supportive Colleagues or Friends Who Inspire and Uplift You. Positive Relationships at Work Foster a Sense of Community and Can Help Boost Your Mood and Energy Levels During Challenging Periods</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-counter-strike-2-cs2-fps-drops-and-stuttering-on-pc/"><u>How to Fix Counter-Strike 2 (CS2) FPS Drops and Stuttering on PC</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/how-to-get-vids-to-autoplay-effortlessly-on-fb/"><u>How to Get Vids to Autoplay Effortlessly on FB</u></a></li>
+<li><a href="https://win-answers.techidaily.com/improve-your-gameplay-eliminating-half-life-alyx-stutters-and-lags-on-pc/"><u>Improve Your Gameplay: Eliminating 'Half-Life: Alyx' Stutters and Lags on PC</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/les-meilleurs-programmes-de-sauvegarde-sans-frais-pour-windows-11-10-et-plus-anciens/"><u>Les Meilleurs Programmes De Sauvegarde Sans Frais Pour Windows 11, 10 Et Plus Anciens</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/aging-branding-skills-skyrocketing-your-youtube-subscriber-base-for-2024/"><u>Leveraging Branding Skills Skyrocketing Your YouTube Subscriber Base for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-steams-deadly-setback-how-to-correct-the-steamuidll-loading-failure/"><u>Overcoming Steam's Deadly Setback: How to Correct the SteamUI.dll Loading Failure</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-solutions-for-when-your-path-of-exile-gets-stuck-in-loops/"><u>Step-by-Step Solutions for When Your Path of Exile Gets Stuck in Loops</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/steps-for-successful-extraction-of-fb-content-for-2024/"><u>Steps for Successful Extraction of FB Content for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stop-the-stalls-proven-solutions-to-keep-ghostwire-tokyo-running-flawlessly-on-pc-systems/"><u>Stop the Stalls! Proven Solutions to Keep Ghostwire: Tokyo Running Flawlessly on PC Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/swift-and-effective-fixes-for-when-fortnite-wont-open/"><u>Swift and Effective Fixes for When Fortnite Won't Open</u></a></li>
+<li><a href="https://change-location.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Vivo Y27 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/winning-the-battle-against-microsoft-edges-stability-issues-in-windows-11/"><u>Winning the Battle Against Microsoft Edge's Stability Issues in Windows 11</u></a></li>
 </ul></div>
 

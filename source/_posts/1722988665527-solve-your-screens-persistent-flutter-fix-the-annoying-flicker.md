@@ -1,7 +1,7 @@
 ---
 title: "Solve Your Screen's Persistent Flutter: Fix the Annoying Flicker!"
-date: 2024-08-23T13:20:33.199Z
-updated: 2024-08-24T13:20:33.200Z
+date: 2024-12-09T16:48:22.390Z
+updated: 2024-12-12T16:06:51.506Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ As one of the most anticipated video games in early 2022, Monster Hunter Rise is
 5. [**Verify the integrity of game files**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Repair your system files](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1 – Run the game as an administrator
 
  Your game may not launch when it can’t access the necessary permission. So, to make sure it works without interruption, you should run Monster Hunter Rise as an administrator.
@@ -36,15 +40,17 @@ As one of the most anticipated video games in early 2022, Monster Hunter Rise is
 2. Locate the**MonsterHunterRise.exe file** and select**Properties** .  
 ![open as an administrator; Halo 3 game crash](https://images.drivereasy.com/wp-content/uploads/2020/08/run-as-administrator-Properties.jpg)
 3. Select the**Compatibility** tab. Tick**Run this program as an administrator** and click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-program-as-administrator.jpg)
 
  Directly launch the exe file to see how it works. If it still doesn’t start properly, try**running the game in compatibility mode for Windows 8** . This is a simple workaround for many players.
 
 Still no luck? Move on to the next method below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2 – Allow your game through Controlled Folder Access and antivirus
 
  It’s also possible that Windows Security and other antivirus have prevented Monter Hunter Rise from running, and therefore the game fails to launch. To tweak the settings, follow the steps below:
@@ -52,20 +58,23 @@ Still no luck? Move on to the next method below.
 1. On the Windows search box, type**windows security** and select**Windows Security** from the results.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/1.jpg)
 2. Select **Virus & threat protection**  from the left pane. Scroll to the Ransomware protection section and click **Manage ransomware protection** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2.jpg)
 3. Toggle on the**Controlled folder access** , and click **Allow an app through Controlled folder access** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/3.jpg)
 4. Click **Add an allowed app** **\> Browse all apps** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/browse-all-apps.png)
 5. Navigate to the game’s installation folder and add the**MonsterHunterRise.exe file** .
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 
  If you have also installed any third-party anti-virus software like McAfee, Bitdefender and Avast, make sure your game is added to their whitelists and not blocked.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3 – Update your graphics driver
 
@@ -78,17 +87,15 @@ Still no luck? Move on to the next method below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click the**Update** button next to a flagged graphics driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/amd-6800xt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
  Once done, restart the computer for the changes to take effect. Then test if the issue reoccurs. If yes, there are a few more fixes below.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4 – Disable resource-hogging programs
 
  If too many resource-hogging applications are running in the background, that may interfere with your game and make it crash or not open. It’s better to close these applications while playing Monster Hunter Rise. Here’s how:
@@ -96,15 +103,18 @@ Still no luck? Move on to the next method below.
 1. Right-click any empty space on the taskbar and click**Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ta-1.jpg)
 2. Check your current **CPU and memory usage** to see what apps are consuming your resources most. Then right-click the process you want to end and select **End task** .  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2021/04/ta-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/ta-3.jpg)
+
 Check if the game launches as expected. If not, take a look at Fix 5.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5 – Verify the integrity of game files
 
@@ -119,9 +129,6 @@ Check if the game launches as expected. If not, take a look at Fix 5.
 
  It may take a few minutes to finish scanning and repairing. Then you can restart the game to see if the problem persists. If so, continue to the last method.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 6 – Repair your system files
 
  Besides the game files, missing or corrupted system files can also lead to various kinds of PC problems including game crashes. To check if there are critical system issues that cause Monster Hunter Rise not to launch or go black, you should run a quick and thorough scan with**Fortect** .
@@ -134,11 +141,13 @@ Check if the game launches as expected. If not, take a look at Fix 5.
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
-![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
 Test the game to see if your system runs faster and smoother now.
 
 ---
@@ -154,8 +163,6 @@ Test the game to see if your system runs faster and smoother now.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -163,4 +170,24 @@ Test the game to see if your system runs faster and smoother now.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-elevate-your-content-game-studio-aptitude-essentials/"><u>[New] Elevate Your Content Game Studio Aptitude Essentials</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-essential-tips-for-photosvideos-in-windows-10/"><u>[New] In 2024, Essential Tips for Photos/Videos in Windows 10</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-cinematic-speed-top-cameras-for-slow-motion-videography/"><u>[Updated] Cinematic Speed Top Cameras for Slow Motion Videography</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-top-practices-to-personalize-snapchat-video-playback/"><u>[Updated] Top Practices to Personalize Snapchat Video Playback</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-the-crashes-ultimate-guide-to-running-hearts-of-iron-iv-stably/"><u>Beat the Crashes: Ultimate Guide to Running Hearts of Iron IV Stably</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/discover-abbyys-latest-strategic-alliances-and-enhanced-offering-launched-in-the-fourth-quarter-of-2019-official-announcements/"><u>Discover ABBYY's Latest Strategic Alliances and Enhanced Offering Launched in the Fourth Quarter of 2019 – Official Announcements</u></a></li>
+<li><a href="https://extra-information.techidaily.com/express-humor-no-charge-with-easymeme-tools/"><u>Express Humor, No Charge with EasyMeme Tools</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-dark-void-resolving-black-screen-issues-in-fortnite-on-pc/"><u>Fixing the Dark Void: Resolving Black Screen Issues in Fortnite on PC</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/how-does-the-samsung-galaxy-s10plus-stand-against-its-successor-the-s20-insights-and-reviews/"><u>How Does the Samsung Galaxy S10+ Stand Against Its Successor, the S20? Insights and Reviews</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-resolve-maplestory-game-not-loading-issues-easily/"><u>How to Resolve MapleStory Game Not Loading Issues Easily</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-heart-of-video-editing-filmoras-favorites/"><u>In 2024, The Heart of Video Editing Filmora's Favorites</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-virtualization-a-stepwise-process-to-enable-hyper-v-on-your-windows-11-pc/"><u>Mastering Virtualization: A Stepwise Process to Enable Hyper-V on Your Windows 11 PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722987466898-mount-and-blade-ii-bannerlord-fixed-no-more-freezing-issues/"><u>Mount & Blade II: Bannerlord Fixed – No More Freezing Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-division-2-not-launching-expert-tips-and-tricks-for-players/"><u>Resolving 'Division 2 Not Launching' - Expert Tips and Tricks for Players</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stop-playstation-games-from-locking-up-fix-your-ghostwire-tokyo-pc-glitches/"><u>Stop PlayStation Games From Locking Up - Fix Your Ghostwire: Tokyo PC Glitches</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-frame-drops-and-playback-glitches-in-naraka-bladepoint/"><u>Troubleshooting Frame Drops & Playback Glitches in Naraka: Bladepoint</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-resolving-logitech-mouse-scrolling-issues/"><u>Troubleshooting Tips: Resolving Logitech Mouse Scrolling Issues</u></a></li>
+</ul></div>
 

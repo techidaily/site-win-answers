@@ -1,7 +1,7 @@
 ---
 title: "[Fixed] Tips and Solutions for Continuous Stalling in Ghostwire: Tokyo PC Version"
-date: 2024-12-04T17:00:57.190Z
-updated: 2024-12-06T17:14:13.915Z
+date: 2024-12-06T16:32:14.867Z
+updated: 2024-12-12T17:31:50.495Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/c9e5ca8d00ac8479f694130618d3f9a3080c0193f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How do I fix it?
 
  You don’t have to try all the fixes; just work your way down the list until you find the one that gives you luck!
@@ -43,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/c9e5ca8d00ac8479f694130618d3f9a3080c0193f
  The screenshots below come from Windows 10\. If you are running Windows 11, your screen may look slightly different, but the steps you take will remain consistent.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Delete temporary files in Windows
@@ -54,14 +50,18 @@ thumbnail: https://thmb.techidaily.com/c9e5ca8d00ac8479f694130618d3f9a3080c0193f
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_12-18-22-1.jpg)
 2. In the pop-up window, press**Ctrl** and**A** to select all the temporary files. Then right-click the selected files and click**Delete** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_12-08-08-1.jpg)
 3. Restart your PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Check if your Vegas Pro still crashes. If this doesn’t help, simply try the next solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Set priority to high for Vegas Pro
 
@@ -76,7 +76,7 @@ thumbnail: https://thmb.techidaily.com/c9e5ca8d00ac8479f694130618d3f9a3080c0193f
  Run Vegas Pro to see if the problem persists. If it does, move on to the solution below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Scan and repair system files
@@ -90,11 +90,11 @@ thumbnail: https://thmb.techidaily.com/c9e5ca8d00ac8479f694130618d3f9a3080c0193f
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -119,6 +119,10 @@ If the issue is still there, you can move on to the next fix.
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
@@ -159,14 +163,14 @@ If the issue is still there, you can move on to the next fix.
 3. Turn**Off** the**GPU acceleration of video processing** . Click**Apply** then**OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Note that GPU acceleration does make things faster, but it could also increase system instability. So it’s not a good idea to turn it on if you experience constant crashes. However, if you have a powerful GPU, you could try to turn the acceleration on and off to see which way works better in your case.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_16-45-14.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you’re only trying to adjust this part of the settings, restart Vegas Pro to test if the issue returns. Or you could move on to work with other settings below.
@@ -184,11 +188,11 @@ If the issue is still there, you can move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_17-39-42.jpg)
 3. For**Enable multi-core rendering for playback** , change the value to**FALSE** ; for**Disable multi-core rendering** , set the value to**TRUE** . Then click**Apply** and**OK** .  
 
-![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_17-32-52-1.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_17-32-52-1.jpg)
 
  Restart Vegas Pro to make sure the changes are saved, then check if your problem persists. If this doesn’t seem to help, try the next fix.
 
@@ -199,10 +203,6 @@ If the issue is still there, you can move on to the next fix.
 1. Right-click on your taskbar, then click**Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/open-task-manager.jpg)
 2. Switch to the**Details** tab and scroll to find**Vegas Pro** . Right-click the process then select**Set affinity** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_17-54-37-1.jpg)
 3. **Uncheck any one box of the CPU processor** , then click**OK** .  
@@ -233,22 +233,21 @@ Run Vegas Pro to see if the problem is solved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-discover-effortless-pathways-to-dynamic-snaps/"><u>2024 Approved Discover Effortless Pathways to Dynamic Snaps</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-live-gaming-strategies-for-capturing-moments/"><u>2024 Approved Live Gaming Strategies for Capturing Moments</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/beneath-blue-waves-expert-tips-for-creating-stunning-underwater-footage-using-gopro-for-2024/"><u>Beneath Blue Waves Expert Tips for Creating Stunning Underwater Footage Using GoPro for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-to-fix-windows-10-kb4019919-update-error-code-0x80240034-explained-and-solved/"><u>Expert Tips to Fix Windows 10 KB4019919 Update Error - Code 0X80240034 Explained and Solved</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/geloscht-beim-einrichten-von-windows-11-wird-alles-vom-usb-entfernt/"><u>Gelöscht Beim Einrichten Von Windows 11: Wird Alles Vom USB Entfernt?</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-unlock-viewers-interest-with-these-10-yt-reaction-strategies/"><u>In 2024, Unlock Viewers' Interest with These 10 YT Reaction Strategies</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/introducing-the-future-of-computing-intels-revolutionary-ai-processor-for-next-gen-laptops-zdnet/"><u>Introducing the Future of Computing: Intel's Revolutionary AI Processor for Next-Gen Laptops | ZDNET</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mp3mp4windows-1011/"><u>MP3をMP4に自動的に変換するためのWindows 10/11対応無料ツールとサイト</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-and-simple-steps-to-transform-your-videos-for-youtube-shorts-success/"><u>Quick and Simple Steps to Transform Your Videos for YouTube Shorts Success!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/seamless-conversion-transforming-your-avchd-video-to-prores-format/"><u>Seamless Conversion: Transforming Your AVCHD Video to ProRes Format</u></a></li>
-<li><a href="https://win-answers.techidaily.com/simple-steps-to-grab-your-and-others-twitch-channel-vods/"><u>Simple Steps to Grab Your and Others’ Twitch Channel VODs</u></a></li>
-<li><a href="https://win-answers.techidaily.com/simple-vts-file-compatibility-the-ultimate-windows-friendly-video-player/"><u>Simple VTS File Compatibility: The Ultimate Windows-Friendly Video Player</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solve-your-youtube-video-playback-issues-no-more-stutters-or-lags/"><u>Solve Your YouTube Video Playback Issues - No More Stutters or Lags</u></a></li>
-<li><a href="https://win-answers.techidaily.com/speedy-audio-editing-tips-switching-from-flac-to-ac3-in-no-time/"><u>Speedy Audio Editing Tips: Switching From FLAC to AC3 in No Time!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-recording-audio-with-a-built-in-microphone-on-windows-10/"><u>Step-by-Step Guide: Recording Audio with a Built-In Microphone on Windows 10</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-best-chatbot-for-you-an-in-depth-look-at-google-bard-vs-bing-chat/"><u>The Best Chatbot for You: An In-Depth Look at Google Bard Vs. Bing Chat</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-filmora-on-a-budget-4-effective-tips-to-grab-discount-codes-for-2024/"><u>Updated Filmora on a Budget 4 Effective Tips to Grab Discount Codes for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-a-detailed-walkthrough-for-integrating-instagram-effects-on-archive-media/"><u>[Updated] A Detailed Walkthrough for Integrating Instagram Effects on Archive Media</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-tips-to-add-music-to-whatsapp-status/"><u>[Updated] Tips to Add Music to WhatsApp Status</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-of-the-aphaca-bt6n-wireless-fm-bluetooth-transmitter-for-vehicles/"><u>Comprehensive Review of the Aphaca BT6n Wireless FM Bluetooth Transmitter for Vehicles</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-guide-lowering-latency-for-smoother-valheim-experience-on-windows-systems/"><u>Expert Guide: Lowering Latency for Smoother Valheim Experience on Windows Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-the-anticheat-connection-aborted-error-on-eft-platforms/"><u>How to Fix the 'Anticheat Connection Aborted' Error on EFT Platforms</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-crafting-your-youtube-legacy-a-deep-dive-into-creator-studio-mastery/"><u>In 2024, Crafting Your YouTube Legacy A Deep Dive Into Creator Studio Mastery</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-the-apple-iphone-12-sim-lock-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock The Apple iPhone 12 SIM Lock 4 Easy Methods</u></a></li>
+<li><a href="https://win-answers.techidaily.com/permanent-solution-for-modern-warfare-3-defeating-error-12707-once-and-for-all/"><u>Permanent Solution for Modern Warfare 3 - Defeating Error 12707 Once and For All!</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/reimagining-game-logging-with-no-fbx-technology-for-2024/"><u>Reimagining Game Logging with No-FBX Technology for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722997495911-rocket-league-wont-start-here-are-the-fixes-you-need-to-know/"><u>Rocket League Won't Start? Here Are the Fixes You Need to Know!</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/split-your-videos-with-ease-top-5-free-mpeg-splitters/"><u>Split Your Videos with Ease Top 5 Free MPEG Splitters</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stop-alan-wake-2-from-crashing-expert-advice-for-gamers-2024-edition/"><u>Stop Alan Wake 2 From Crashing: Expert Advice for Gamers, 2024 Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/tactics-for-detecting-missing-disk-on-windows/"><u>Tactics for Detecting Missing Disk on Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-and-resolving-chromes-intensive-processor-drain/"><u>Troubleshooting and Resolving Chrome's Intensive Processor Drain</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-continuous-buffering-problems-in-discord-streaming-services/"><u>Troubleshooting Continuous Buffering Problems in Discord Streaming Services</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-vivo-y100-5g-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Vivo Y100 5G Phones</u></a></li>
 </ul></div>
 

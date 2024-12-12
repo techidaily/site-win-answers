@@ -1,7 +1,7 @@
 ---
 title: Eradicate Halo Infinite Freeze-Ups and Play Smoothly with These Essential PC Tweaks (7 Proven Methods)
-date: 2024-12-05T19:10:56.867Z
-updated: 2024-12-06T18:21:05.583Z
+date: 2024-12-10T16:46:16.667Z
+updated: 2024-12-12T16:16:25.864Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ Many players are complaining about the Escape from Tarkov low FPS since the rece
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixes to try
 
@@ -57,6 +53,10 @@ Many players are complaining about the Escape from Tarkov low FPS since the rece
 
  Normally you should see a significant performance improvement after you update all the device drivers on your computer. But if not, take a look at the next fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2 – Close unnecessary background programs
 
  If you’ve launched several programs such as Chrome or Discord while you’re playing Escape from Tarkov, they will consume your system resources and thus your game renders in low FPS. Before gaming, try to shut down all the unnecessary programs running in the background.
@@ -68,15 +68,7 @@ Many players are complaining about the Escape from Tarkov low FPS since the rece
  Don’t end any programs you’re unfamiliar with, as they may be critical for the functioning of your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ta-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If no programs are consuming your CPU or GPU but FPS drops reoccur, try the third fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3 – Change the PC power plan
 
@@ -86,7 +78,15 @@ Many players are complaining about the Escape from Tarkov low FPS since the rece
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-power-plan-1-1.jpg)
 2. Select**High** **performance** . (If you don’t see it, expand**Hide additional plans** .)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-power-plan-2-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you’re on a high-end PC, the**Ultimate Performance** mode may help you fully unleash the potential of your machine. Here’s how to enable this mode.
 
@@ -111,24 +111,20 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/disable-fullscreen-optimizations-0.jpg)
 3. Select the**Compatibility** tab and tick**Disable full-screen optimisations** . Then, click**Change high DPI settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/disable-fullscreen-optimizations-1.jpg)
 4. Tick**Override high DPI scaling behaviour** and choose**Application** from the drop-down menu. Then, click**OK** to save the changes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/disable-fullscreen-optimizations-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Launch EFT to check the game performance. If this gives you no luck, there are two more fixes to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5 – Adjust the in-game graphics settings
 
@@ -143,14 +139,18 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/tarkov-settings-2.jpg)
 5. Select the**POSTFX** tab, and make sure to**untick Enable PostFX** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/tarkov-settings-3.jpg)
 6. Click**Save** to apply the changes.
 
- Test the issue again. If you’re still facing low FPS in Escape from Tarkov, continue to the next fix.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Test the issue again. If you’re still facing low FPS in Escape from Tarkov, continue to the next fix.
 
 ### Fix 6 – Configure the graphics card settings
 
@@ -163,15 +163,11 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 2. Select**3D settings** \>**Manage 3D settings** from the left pane.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-2-1.jpg)
 3. Navigate to the**Program Settings** and select the**EscapeFromTarkov.exe file** from the drop-down list.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/nvidia-settings.jpg)
 4. Modify the settings as below:  
@@ -194,6 +190,10 @@ _Vertical sync_ :**Off**
 1. Right-click the empty area on your desktop and select**AMD Radeon Software** .
 2. Go to**Gaming** \>**Global Settings** and configure the options as in the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/amd-graphics-card-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Restart the game to test, and you should find the FPS increases now.
 
@@ -219,15 +219,19 @@ Restart the game to test, and you should find the FPS increases now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-proven-ways-to-record-and-save-ps4-games-for-2024/"><u>[New] Proven Ways to Record and Save PS4 Games for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-reviewing-bandicams-effectiveness-in-professional-video-editing/"><u>[New] Reviewing Bandicam's Effectiveness in Professional Video Editing</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-top-picks-crafting-mc-villages-abodes/"><u>[Updated] Top Picks Crafting MC Villages' Abodes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/youtubeand/"><u>「Youtube動画アーカイブを安全にダウンロード&セーブする詳細ガイド」</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1-how-to-change-swf-files-into-avi-format-using-no-cost-methods-both-on-and-off-the-internet/"><u>1. How To Change SWF Files Into AVI Format Using No-Cost Methods - Both On And Off The Internet</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-synchronizing-soundscapes-a-guide-to-multi-service-moves/"><u>2024 Approved Synchronizing Soundscapes A Guide to Multi-Service Moves</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-apple-watch-offers-in-july-2024-unbeatable-discounts-and-reviews-techradar/"><u>Top Apple Watch Offers in July 2024 - Unbeatable Discounts & Reviews | TechRadar</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-tutorial-embedding-text-within-your-gif-images-on-various-platforms-including-windows-and-macos-systems/"><u>Ultimate Tutorial: Embedding Text Within Your GIF Images on Various Platforms Including Windows and MacOS Systems</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/h-amidst-cold-selecting-perfect-winter-backdrops/"><u>Warmth Amidst Cold Selecting Perfect Winter Backdrops</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726026610731-pc/"><u>オンライン英語レッスンをPCで記録するための簡単ガイド</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-ultimate-way-to-update-old-photos-and-videos-with-ig-filters/"><u>[New] The Ultimate Way to Update Old Photos and Videos with IG Filters</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-streamline-your-youtube-productions-with-pc-editing-techniques-for-2024/"><u>[Updated] Streamline Your YouTube Productions with PC Editing Techniques for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-streamlining-your-iphones-gif-experience-from-savings-to-showtime/"><u>2024 Approved Streamlining Your iPhone's GIF Experience - From Savings to Showtime</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-solutions-for-fixing-a-stagnant-qbittorrent-downloadupload-process/"><u>Effective Solutions for Fixing a Stagnant qBittorrent Download/Upload Process</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-obs-how-to-stop-app-crashes-in-windows-11-or-10-updated-for-2ndqr/"><u>Fixing OBS: How to Stop App Crashes in Windows 11 or 10 (Updated for 2nDQr)</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-plus-to-other-iphone-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 Plus to other iPhone devices? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/illuminating-the-future-luminances-influence-on-hdr-for-2024/"><u>Illuminating the Future Luminance’s Influence on HDR for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-short-vid-star-spotlight-check/"><u>In 2024, Short Vid Star Spotlight Check</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-the-roadmap-to-your-own-instagram-corporate-identity/"><u>In 2024, The Roadmap to Your Own Instagram Corporate Identity</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mophie-powerstation-ac-unit-testing-expensive-yet-highly-practical-charging-solution/"><u>Mophie Powerstation AC Unit Testing: Expensive Yet Highly Practical Charging Solution</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-starfields-intensive-processing-challenge-effective-solutions-for-gamers/"><u>Overcoming Starfield's Intensive Processing Challenge - Effective Solutions for Gamers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-stability-restored-troubleshooting-steps-for-cult-of-the-lamb-issues/"><u>PC Stability Restored: Troubleshooting Steps for Cult of the Lamb Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-fix-guide-how-to-prevent-deathloop-from-continuously-crashing-on-pc-systems/"><u>Quick Fix Guide: How to Prevent Deathloop From Continuously Crashing on PC Systems</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/start-urdu-learning-with-key-essentials/"><u>Start Urdu Learning with Key Essentials</u></a></li>
 </ul></div>
 

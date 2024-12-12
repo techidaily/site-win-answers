@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Solution: Stop PC Freezes and Glitches While Playing Mobile PUBG"
-date: 2024-12-02T18:17:30.466Z
-updated: 2024-12-06T16:52:14.046Z
+date: 2024-12-09T17:34:01.522Z
+updated: 2024-12-12T17:06:55.528Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Minimum system requirements for Fortnite
 
 | **Operating System** | **Windows 10/8/7**  |
@@ -36,6 +40,10 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 | **Processor**        | **Core i3 2.4 Ghz** |
 | **HDD Space**        | **16 GB**           |
 | **DirectX**          | **DirectX 11.0**    |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Recommended system requirements for Fortnite
 
@@ -49,7 +57,7 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 | **DirectX**          | **DirectX 11.0**                                             |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -85,7 +93,7 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method: Update your graphics card
@@ -120,7 +128,7 @@ OR
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
@@ -144,20 +152,12 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/display.jpg)
 2. In the Display tab, find Scale and layout.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Change the scaling limit.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/display1.jpg)
 4. Reboot Fortnite and check whether this problem is resolved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 6: Unblock the game from Windows Firewall
@@ -198,22 +198,17 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-cutting-edge-filmmaking-on-your-ios-device/"><u>[New] Cutting-Edge Filmmaking on Your iOS Device</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-top-picks-best-xbox-hdd-models-reviewed-for-2024/"><u>[New] Top Picks Best Xbox HDD Models Reviewed for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-step-into-history-discovering-the-best-10-educational-yt-channels-for-2024/"><u>[Updated] Step Into History Discovering the Best 10 Educational YT Channels for 2024</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/aomei-sql-data-recovery-comprehensive-guides-and-how-to-videos/"><u>AOMEI SQL Data Recovery: Comprehensive Guides and How-To Videos</u></a></li>
-<li><a href="https://win-answers.techidaily.com/dragon-age-origins-stability-issues-fixed-for-windows-11-users/"><u>Dragon Age: Origins Stability Issues Fixed for Windows 11 Users</u></a></li>
-<li><a href="https://win-answers.techidaily.com/easy-solutions-to-keep-red-dead-online-running-smoothly-on-windowspc/"><u>Easy Solutions To Keep Red Dead Online Running Smoothly On Windows/PC</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/hidden-gems-to-hit-videos-strategies-for-success/"><u>From Hidden Gems to Hit Videos Strategies for Success</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-infinix-note-30-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Infinix Note 30 to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-achieve-gentle-edges-in-photo-sharpening/"><u>In 2024, Achieve Gentle Edges in Photo Sharpening</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Realme Note 50? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-selective-cinematic-forecast-collection/"><u>In 2024, Selective Cinematic Forecast Collection</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-the-puzzle-how-sandstorms-game-bugs-are-finally-squashed/"><u>Solving the Puzzle – How Sandstorm's Game Bugs Are Finally Squashed</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-cyberpunk-2077s-surprising-error-2024-expert-tips-inside/"><u>Troubleshooting Cyberpunk 2077'S Surprising Error 2024 - Expert Tips Inside!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-persistent-indivisible-application-crashes/"><u>Troubleshooting Tips for Persistent Indivisible Application Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-overcoming-issues-with-naraka-bloodpoint/"><u>Troubleshooting Tips: Overcoming Issues with Naraka: Bloodpoint</u></a></li>
-<li><a href="https://win-answers.techidaily.com/unlocking-smooth-performance-resolving-crashes-in-jurassic-world-evolution/"><u>Unlocking Smooth Performance: Resolving Crashes in Jurassic World Evolution</u></a></li>
-<li><a href="https://win-answers.techidaily.com/valheim-pc-game-stability-issues-troubleshooting-the-persistent-crashes/"><u>Valheim PC Game Stability Issues: Troubleshooting the Persistent Crashes</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-discovering-easy-music-arrangement-in-magix-maker/"><u>[New] Discovering Easy Music Arrangement in Magix Maker</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-mastering-metaverse-access-top-8-vr-wearables/"><u>[New] In 2024, Mastering Metaverse Access Top 8 VR Wearables</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-spoofing-success-the-path-to-parody-proficiency/"><u>[New] In 2024, Spoofing Success The Path to Parody Proficiency</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-vita-experience-exhaustive-review-of-its-video-editor-2024/"><u>[Updated] The Ultimate Vita Experience Exhaustive Review of Its Video Editor, 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-prime-unlimited-space-service-catalogue/"><u>2024 Approved Prime Unlimited Space Service Catalogue</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guide-overcoming-freezing-and-crashes-in-persona-4-golden-for-smooth-play/"><u>Guide: Overcoming Freezing and Crashes in Persona 4 Golden for Smooth Play</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-nokia-g42-5g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Nokia G42 5G in Minutes | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-tips-eliminating-delays-and-minimizing-ping-in-cs-2-for-seamless-play/"><u>Master Tips: Eliminating Delays and Minimizing Ping in CS 2 for Seamless Play</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-roblox-wont-start-errors-a-comprehensive-guide/"><u>Resolving Roblox Won't Start Errors : A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-why-is-the-mass-effect-legendary-edition-failing-to-start/"><u>Troubleshooting: Why Is the Mass Effect Legendary Edition Failing to Start?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upcoming-iphone-16-leak-new-features-include-advanced-spatial-recording-and-slimmer-edges-across-models-insights-from-zdnet/"><u>Upcoming iPhone 16 Leak: New Features Include Advanced Spatial Recording & Slimmer Edges Across Models - Insights From ZDNet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/winning-the-battle-against-hp-security-suite-uninstall-error-1325-on-windows-7-a-comprehensive-solution/"><u>Winning the Battle Against HP Security Suite Uninstall Error 1325 on Windows 7 – A Comprehensive Solution</u></a></li>
 </ul></div>
 

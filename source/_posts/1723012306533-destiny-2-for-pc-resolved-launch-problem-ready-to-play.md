@@ -1,7 +1,7 @@
 ---
 title: Destiny 2 for PC - Resolved Launch Problem, Ready to Play!
-date: 2024-08-23T13:16:27.825Z
-updated: 2024-08-24T13:16:27.825Z
+date: 2024-12-08T18:01:49.308Z
+updated: 2024-12-12T18:36:44.504Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 
 MapleStory is a popular 2D side-scrolling MMORPG game developed by a South Korean company called Wizet. It’s an old game but it still has crashes like can’t launch. If you encountered the issue, don’t worry, you’re not alone. The post has gathered some working fixes that may help you fix this issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -27,6 +31,10 @@ MapleStory is a popular 2D side-scrolling MMORPG game developed by a South Korea
 4. [Update your driver](https://tools.techidaily.com/drivereasy/download/)
 5. [Use Registry editor](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Run as administrator
 
  This fix worked for some players. It’s easy to try, so I recommend this fix as your first solution.
@@ -35,12 +43,14 @@ MapleStory is a popular 2D side-scrolling MMORPG game developed by a South Korea
 2. Right-click on the shortcut and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
 3. In the Compatibility tab, click**Run as administrator** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 4. Relaunch the game.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ### Fix 2: Chang Compatibility Mode
 
  Many players has reported that changing the compatibility mode would help resolving the problem.
@@ -51,24 +61,19 @@ MapleStory is a popular 2D side-scrolling MMORPG game developed by a South Korea
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/compatibility.jpg)
 4. Launch the game to check.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Change System Configuration
 
 1. Press the**Windows logo key + R** together to open the Run box.
 2. Type**msconfig** and press**Enter.**  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig.jpg)
 3. Click the**Services** tab and check**Hide all Microsoft services** on the bottom left corner.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 4. Disable all that on the left, beside NVIDIA Display Container.
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ### Fix 4: Update your driver
 
  Updating your drivers might solve the Maplestory won’t launch issue. Windows 10 doesn’t always give you the latest version. But with outdated or wrong drivers, you may encounter issues like crashes, infinite loading and etc. So it’s really important to keep your drivers updating to improve your gaming experience.
@@ -95,14 +100,13 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -131,8 +135,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -140,4 +142,18 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-playing-halted-a6400-video-viewing-woes/"><u>[New] Playing Halted A6400 Video Viewing Woes</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/outubing-into-visual-wonders-learn-from-greenscreen-pros/"><u>[New] Youtubing Into Visual Wonders – Learn From Greenscreen Pros</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723004961248-arise-adventure-gone-wrong-expert-solutions-for-stable-playtime/"><u>Arise Adventure Gone Wrong? Expert Solutions for Stable Playtime</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-review-of-alcatels-joy-tab-2-best-value-lte-tablets-compared/"><u>Comprehensive Review of Alcatel's Joy Tab 2 - Best Value LTE Tablets Compared</u></a></li>
+<li><a href="https://win-answers.techidaily.com/conquer-ark-survival-evolved-pc-crashes-using-our-top-techieguide-fixing-in-9-ways/"><u>Conquer ARK: Survival Evolved PC Crashes Using Our Top #TechieGuide - Fixing in 9 Ways</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722999716245-get-ready-playstations-god-of-war-hits-pc-as-an-exciting-fps-experience/"><u>Get Ready: PlayStation's God of War Hits PC as an Exciting FPS Experience</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-15-plus-with-a-mask-on-by-drfone-ios/"><u>How to Unlock Apple iPhone 15 Plus with a Mask On</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-inside-the-earnings-loop-how-you-benefit-from-your-channel/"><u>In 2024, Inside the Earnings Loop How You Benefit From Your Channel</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723013929288-nba-2k2-stability-fix-resolved-with-ease/"><u>NBA 2K2# Stability Fix - Resolved with Ease</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-pc-crashes-in-darkest-dungeon-2-a-step-by-step-solution/"><u>Resolving PC Crashes in Darkest Dungeon 2: A Step-by-Step Solution</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-launching-games-via-emudeck-on-steam-deck/"><u>Step-by-Step: Launching Games via EmuDeck on Steam Deck</u></a></li>
+</ul></div>
 

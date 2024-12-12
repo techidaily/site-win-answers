@@ -1,7 +1,7 @@
 ---
 title: Unlock the Secrets to Successfully Running 'Last Epoch' On Your PC - Latest Fixes & Updates!
-date: 2024-11-29T16:25:27.464Z
-updated: 2024-12-06T16:47:11.637Z
+date: 2024-12-08T19:05:26.855Z
+updated: 2024-12-12T18:59:38.221Z
 tags:
   - win11
   - win10
@@ -44,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/dc8c23798056f26fbb4ba042d36186a35f13e6ccd
 
  Crowded servers are common on launch days. If the game is too laggy to play, you can check the server status first to see if the problem is with the server-end. You can also visit[Back 4 Blood official site](https://www.back4blood.com/en-us/news) ,[Twitter](https://twitter.com/back4blood) ,[Discord](https://discord.com/invite/turtlerockstudios) or the[Steam forum](https://steamcommunity.com/app/924970/discussions/) to see if there’s any announcement.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 2: Test internet connection
 
  If there’s nothing wrong with the server, then you can start troubleshooting from your side. Since high ping and lag issues are network-related, you should first test your internet connection. Here’s a few general steps you can do:
@@ -58,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/dc8c23798056f26fbb4ba042d36186a35f13e6ccd
 * If your internet speed is slow, it could lead to an unstable connection. You can google “Internet speed test” and pick a tool to **test your Internet speed** . When your Internet connection seems unreasonably slow, consider contacting your Internet service provider for help.
 
  If you’ve checked your internet connection but the ping is still high, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Close bandwidth-hogging programs
 
@@ -74,7 +74,7 @@ thumbnail: https://thmb.techidaily.com/dc8c23798056f26fbb4ba042d36186a35f13e6ccd
  If you’re still getting a high ping and game seems laggy, try the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 4: Update network driver
@@ -90,6 +90,10 @@ thumbnail: https://thmb.techidaily.com/dc8c23798056f26fbb4ba042d36186a35f13e6ccd
  1) [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the **Update**  button next to the flagged network driver to automatically download the correct version of the drivers, then you can manually install them (you can do this with the FREE version).
 
@@ -109,7 +113,7 @@ thumbnail: https://thmb.techidaily.com/dc8c23798056f26fbb4ba042d36186a35f13e6ccd
 [2: Switch to a public DNS server](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1: Flush your DNS
@@ -126,6 +130,10 @@ thumbnail: https://thmb.techidaily.com/dc8c23798056f26fbb4ba042d36186a35f13e6ccd
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2: Switch to a public DNS server
 
  We also recommend using a public DNS server to test the issue. Here we’ll use the Google DNS server as an example, since it may improve your ping. Here’s how:
@@ -134,16 +142,8 @@ thumbnail: https://thmb.techidaily.com/dc8c23798056f26fbb4ba042d36186a35f13e6ccd
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-11_15-44-44.png)
 2. Click **Change adapter options** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click **the network you’re using** , then click **Properties** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select **Internet Protocol Version 4 (TCP/IPv4)** , then click **Properties** .  
@@ -151,17 +151,17 @@ thumbnail: https://thmb.techidaily.com/dc8c23798056f26fbb4ba042d36186a35f13e6ccd
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select **Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click **OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bonus tip: try with a VPN
@@ -196,18 +196,18 @@ thumbnail: https://thmb.techidaily.com/dc8c23798056f26fbb4ba042d36186a35f13e6ccd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-answers.techidaily.com/cortana-malfunctioning-heres-what-you-need-to-know/"><u>Cortana Malfunctioning? Here's What You Need to Know</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/decades-leading-guide-to-budget-friendly-recorders-for-2024/"><u>Decade's Leading Guide to Budget-Friendly Recorders for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/decoding-openai-essential-information-and-facts/"><u>Decoding OpenAI: Essential Information and Facts</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-tecno-spark-20-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Tecno Spark 20 PC | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/maximizing-your-gameplay-frame-rate-expert-tips-for-increasing-fps-in-tainted-grail-conquest/"><u>Maximizing Your Gameplay Frame Rate: Expert Tips for Increasing FPS in Tainted Grail - Conquest</u></a></li>
-<li><a href="https://win-answers.techidaily.com/respiratory-protection/"><u>Respiratory Protection</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/tales-from-arise-solving-the-common-ue4-critical-bug/"><u>Tales From Arise: Solving the Common UE4 Critical Bug</u></a></li>
-<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-from-apple-iphone-12-pro-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server From Apple iPhone 12 Pro</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-solving-minecraft-not-launching-issues/"><u>Troubleshooting Guide: Solving 'Minecraft Not Launching' Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-solutions-fixing-steam-server-connectivity-issues/"><u>Troubleshooting Solutions: Fixing Steam Server Connectivity Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-aggregatorhostexe-windows-functionality-and-safety-concerns/"><u>Understanding AggregatorHost.exe: Windows' Functionality & Safety Concerns</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlock-steam-user-identity-code-efficiently/"><u>Unlock Steam User Identity Code Efficiently</u></a></li>
-<li><a href="https://solve-info.techidaily.com/yl-aqua-x-icon-pack-premium-and-efficient-graphics-suite-from-yl-computing/"><u>YL Aqua X Icon Pack: Premium & Efficient Graphics Suite From YL Computing</u></a></li>
+<li><a href="https://common-error.techidaily.com/computers-curse-sleepless-on-windows-1011/"><u>Computer's Curse: Sleepless on Windows 10/11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723005130802-destiny-nix-launch-hitches-on-desktops-heres-your-step-by-step-solution/"><u>Destiny Nix Launch Hitches on Desktops? Here's Your Step-by-Step Solution</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discover-the-top-games-to-own-on-your-steam-deck-this-year/"><u>Discover the Top Games to Own on Your Steam Deck This Year</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-motorola-g54-5g-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from Motorola G54 5G</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-strategies-for-resolving-gtfo-application-crashes/"><u>Effective Strategies for Resolving GTFO Application Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-to-prevent-gas-station-simulator-from-shutting-down-unexpectedly-on-windows-machines/"><u>Expert Tips to Prevent 'Gas Station Simulator' From Shutting Down Unexpectedly on Windows Machines</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-elevate-engagement-enhancing-videos-with-pro-editing-skills/"><u>In 2024, Elevate Engagement Enhancing Videos with Pro Editing Skills</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hymn-based-ringtone-options-for-every-believer/"><u>In 2024, Hymn-Based Ringtone Options for Every Believer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-the-art-of-stable-gameplay-with-these-fixes-to-stop-dirt-5-pc-crashes/"><u>Master the Art of Stable Gameplay with These Fixes to Stop 'Dirt 5' PC Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/reviving-your-clownfish-vocal-effects-unit-when-it-stops-responding/"><u>Reviving Your Clownfish Vocal Effects Unit When It Stops Responding</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-enchantment-of-analytics-data-scientists-unveiled-as-todays-most-attractive-profession-pay-heed-to-their-insights/"><u>The Enchantment of Analytics: Data Scientists Unveiled as Today's Most Attractive Profession - Pay Heed to Their Insights!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshoot-and-restore-your-discord-overlay-in-minutes-learn-how-today/"><u>Troubleshoot and Restore Your Discord Overlay in Minutes - Learn How Today</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-solutions-for-chatgpt-and-plugin-discrepancies/"><u>Unveiling Solutions for ChatGPT & Plugin Discrepancies</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "DayZ Performance Boosted: Overcome FPS Drops Swiftly & Effectively"
-date: 2024-11-12T10:24:55.768Z
-updated: 2024-11-16T21:54:47.923Z
+date: 2024-12-11T18:34:42.798Z
+updated: 2024-12-12T16:28:48.929Z
 tags:
   - win11
   - win10
@@ -61,10 +61,7 @@ Recently we have seen a lot of Gears 5 players reporting that**Gears Of War cras
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: **Disable gaming overlay**
@@ -78,15 +75,16 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-132.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) In **Game bar** , toggle **off** the switch for **Record game clips, screenshots,broadcast using Game bar** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-136.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click Captures, then toggle **off** the switch for **Record in the background while I’m playing a game** .
 
@@ -104,13 +102,6 @@ Here is how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3:   **Reset the Microsoft Store cache**
 
  Overtime, Windows caches downloads made through Windows Store. This can take up a lot of space and cause problems when downloads come to a halt. So you can reset the Microsoft Store cache to fix problems like this and see if it solves the Gear 5 crashes issue.
@@ -119,24 +110,18 @@ Here is how to reset the Microsoft Store cache:
 
  1) On your keyboard, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and type **R** at the same time, then type **wsreset.exe** and press **Enter** .
 
-![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-127.png)
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-127.png)
 
 2) Wait until the whole Windows store cache reset process finishes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-128.png)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Once completed, Windows Store will pop open.
@@ -148,13 +133,6 @@ Here is how to reset the Microsoft Store cache:
 5) Check to see if the Gears of War 4 crashes issues have been fixed. If yes, then great! If it still persists, please try **Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: **Check for Windows Updates**
 
@@ -177,6 +155,10 @@ Here is how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Update DirectX
 
  DirectX is a suite of components in Windows that allows heavy multimedia apps such as games to interact with your video and audio cards. If you’re running an old version of DirectX, it’s possible that it won’t be able to handle the graphics rendering and processing task, which might cause the Gears of War to crash. So you should update DirectX to the latest version to see if it fixes the issue.
@@ -189,13 +171,6 @@ Here is how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 6: Reinstall the game
 
  If the above steps didn’t , then it’s time to reinstall the game to see if it works. To do so, simply uninstall the game from your PC, then head to Microsoft Store, search the game, download and install it.
@@ -203,6 +178,10 @@ Here is how to do it:
  Once you’ve reinstalled Gears of War 5 on your PC, run it to see if it still crashes.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Disable your X-Fi sound card (If you have an X-Fi sound card)
 
@@ -229,24 +208,17 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-instagrams-guide-to-real-photo-verification/"><u>[New] In 2024, Instagram's Guide to Real Photo Verification</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-zdsofts-screen-capture-brilliance-reviewed/"><u>[New] ZDSoft's Screen Capture Brilliance Reviewed</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-pro-convertors-guide-top-10-online-free-transformers-listed/"><u>[Updated] 2024 Approved Pro Convertors Guide Top 10 Online, Free Transformers Listed</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-efficient-resurrection-for-lost-images/"><u>[Updated] In 2024, Efficient Resurrection for Lost Images</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723010672174-cyberpunk-2077-on-steam-troubleshooting-and-resolving-download-difficulties-now-available/"><u>Cyberpunk 2077 on Steam - Troubleshooting and Resolving Download Difficulties | Now Available!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-guide-to-updating-and-downloading-insignias-bluetooth-driver-in-windows/"><u>Easy Guide to Updating and Downloading Insignia's Bluetooth Driver in Windows</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fast-fix-resolving-dayz-shooting-issues-in-seconds/"><u>Fast Fix: Resolving DayZ Shooting Issues in Seconds</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-a-frozen-google-chrome-browser-tips-and-solutions/"><u>Fixing a Frozen Google Chrome Browser - Tips & Solutions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722997702510-fixing-game-crashing-woes-wolcen-lords-of-mayhem-stability-improved/"><u>Fixing Game-Crashing Woes: Wolcen Lords of Mayhem Stability Improved</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/gratuito-conversor-de-imagens-nef-para-formatos-mais-amplios-movavi/"><u>Gratuito Conversor De Imagens Nef Para Formatos Mais Amplios - Movavi</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-dslrs-rivalry-with-mirrorless-for-video-artistry/"><u>In 2024, DSLR's Rivalry with Mirrorless for Video Artistry</u></a></li>
-<li><a href="https://win-answers.techidaily.com/modern-warfare-2-pc-optimization-complete-say-goodbye-to-fps-drops-and-gameplay-stuttering/"><u>Modern Warfare 2 PC Optimization Complete: Say Goodbye to FPS Drops and Gameplay Stuttering</u></a></li>
-<li><a href="https://win-answers.techidaily.com/modern-warfare-2-starting-troubles-heres-your-solution/"><u>Modern Warfare 2 Starting Troubles? Here's Your Solution</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-fix-assassins-creed-valhalla-lagging/"><u>Quick Fix: Assassin’s Creed: Valhalla Lagging</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solution-found-for-file-restricted-access-in-steam-library/"><u>Solution Found for 'File Restricted Access' In Steam Library</u></a></li>
-<li><a href="https://win-answers.techidaily.com/success-destiny-2-for-pc-is-finally-playable-overcome-the-past-issues/"><u>Success! Destiny 2 for PC Is Finally Playable – Overcome the Past Issues!</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/sx530-unleashed-a-beginners-guide-to-compact-photography/"><u>SX530 Unleashed: A Beginner's Guide to Compact Photography</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshoot-like-a-pro-handling-discord-js-errors-with-ease/"><u>Troubleshoot Like a Pro: Handling Discord JS Errors with Ease</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-the-methods-to-track-your-youtube-video-audience/"><u>Unveiling the Methods to Track Your YouTube Video Audience</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-a-guide-to-discovering-virtual-augmentations/"><u>[New] In 2024, A Guide to Discovering Virtual Augmentations</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/coming-soon-the-split-keyboard-feature-arrives-on-gboard-for-tablet-users/"><u>Coming Soon: The Split Keyboard Feature Arrives on Gboard for Tablet Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/conquering-instability-expert-tips-and-fixes-to-prevent-red-dead-redemption-2-from-crashing-your-gaming-session/"><u>Conquering Instability: Expert Tips and Fixes to Prevent Red Dead Redemption 2 From Crashing Your Gaming Session</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/discover-the-finest-displays-for-photo-editing-2024-edition/"><u>Discover the Finest Displays for Photo Editing, 2024 Edition</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/essential-software-for-efficient-teleconferences/"><u>Essential Software for Efficient Teleconferences</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/idos-3-the-latest-dos-emulation-software-now-available-on-apples-app-store/"><u>IDOS 3: The Latest DOS Emulation Software Now Available on Apple's App Store</u></a></li>
+<li><a href="https://win-answers.techidaily.com/improved-visual-performance-in-grand-theft-auto-v-after-rectifying-errgfxd3dinit/"><u>Improved Visual Performance in Grand Theft Auto V After Rectifying ERR_GFX_D3D_INIT</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/influential-interaction-incentives-for-video-makers/"><u>Influential Interaction Incentives for Video Makers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-launch-difficulties-in-monster-hunter-rise-a-comprehensive-guide/"><u>Overcoming Launch Difficulties in Monster Hunter Rise: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-for-unstable-game-loops-avoid-game-crashes-on-windows-1110-systems/"><u>Solution for Unstable Game Loops: Avoid Game Crashes on Windows 11/10 Systems</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/speed-test-results-and-visual-appeal-analysis-on-netgear-powerline-1200-an-extensive-overview/"><u>Speed Test Results & Visual Appeal Analysis on Netgear Powerline 1200: An Extensive Overview</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/unleash-creativity-10-best-free-public-domain-images-sites/"><u>Unleash Creativity 10 Best Free Public Domain Images Sites</u></a></li>
 </ul></div>
 

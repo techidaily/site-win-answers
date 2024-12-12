@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Dragon Age: Origins Crashes on Windows 11 Systems"
-date: 2024-12-05T16:01:30.009Z
-updated: 2024-12-06T18:40:50.651Z
+date: 2024-12-11T17:45:03.687Z
+updated: 2024-12-12T17:47:41.459Z
 tags:
   - win11
   - win10
@@ -50,7 +50,7 @@ Here’s how to do it on the Epic Games client:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/civ-6-verify.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Now you can try again and see if Civ 6 launches.
@@ -70,19 +70,11 @@ If this doesn’t help, you can take a look at the next fix below.
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your graphics driver, restart your computer and check if Civ 6 works now.
 
  If the latest graphics driver doesn’t do the charm, you can check out the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Install all Windows updates
 
@@ -92,10 +84,6 @@ If this doesn’t help, you can take a look at the next fix below.
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
@@ -103,6 +91,10 @@ If this doesn’t help, you can take a look at the next fix below.
  Once you’ve installed all the system updates, check if you can get Civ 6 working now.
 
 If this solution doesn’t help, you can continue to the next one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Perform a clean boot
 
@@ -113,11 +105,15 @@ If this solution doesn’t help, you can continue to the next one.
 2. In the pop-up window, navigate to the **Services**  tab and check the box next to **Hide all Microsoft services** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
@@ -125,11 +121,15 @@ If this solution doesn’t help, you can continue to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now you can try to launch Civ 6\. If it’s working this time, repeat these steps and disable only half of the services and programs to root out the offenders.
@@ -146,15 +146,15 @@ If a clean boot doesn’t help, you can check out the next fix.
 
  You can also uninstall all the Visual C++ redistributable in**Programs and Features** , then reinstall them one by one. Be sure to choose the latest 64-bit installer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 6: Switch your DirectX version
 
  According to some,**running Civ 6 on another version of DirectX** might be a potential fix. Normally you’re prompted to select the DirectX version at startup. But you can also use the .exe file directly. By default, you can the .exe files in _C:\\Program Files (x86)\\Steam\\steamapps\\common\\Sid Meier’s Civilization VI\\Base\\Binaries\\Win64Steam_ . Use_CivilizationVI\_DX12.exe_ for DirectX 12 and_CivilizationVI.exe_ for DirectX 11.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/civ-6-directx.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -177,22 +177,24 @@ If a clean boot doesn’t help, you can check out the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-perfecting-iphone-photography-for-vr-spheres-for-2024/"><u>[New] Perfecting iPhone Photography for VR Spheres for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-facebook-video-posting-dilemmnas-which-way-in-2024/"><u>[Updated] Facebook Video Posting Dilemmnas Which Way, In 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-ideal-websites-for-painless-jpeg-to-gif-changeover/"><u>2024 Approved Ideal Websites for Painless JPEG to GIF Changeover</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-vivo-y78-5g-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Vivo Y78 5G</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fix-how-to-stop-beat-saber-from-continuously-crashing/"><u>Fix: How to Stop Beat Saber From Continuously Crashing</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-issue-why-your-forza-horizon-4-isnt-starting-top-tips-for-2n4/"><u>Fixing the Issue: Why Your Forza Horizon 4 Isn't Starting - Top Tips for 2N4</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Vivo X90S? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-time-is-money-the-best-facebook-schedulers-reviewed/"><u>In 2024, Time Is Money The Best Facebook Schedulers Reviewed</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-understanding-what-makes-a-comment-noteworthy-on-youtube/"><u>In 2024, Understanding What Makes a Comment Noteworthy on YouTube</u></a></li>
-<li><a href="https://win-answers.techidaily.com/in-depth-solutions-correcting-risk-of-rain-2-game-crash-errors/"><u>In-Depth Solutions: Correcting Risk of Rain 2 Game Crash Errors</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/new-what-is-emoji/"><u>New What Is Emoji?</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/quick-fixes-for-granblue-fantasys-pc-link-crash-problems/"><u>Quick Fixes for Granblue Fantasy's PC Link-Crash Problems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-chrome-pages-wont-load-a-comprehensive-guide/"><u>Resolving 'Chrome Pages Won't Load': A Comprehensive Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723007587059-serious-sam-npc-version-crashes-heres-how-to-enhance-stability-and-frame-rate/"><u>Serious Sam nPC Version Crashes? Here's How to Enhance Stability and Frame Rate!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/sid-meiers-civilization-vi-crash-woes-expert-fixes-to-get-you-back-in-action/"><u>Sid Meier’s Civilization VI Crash Woes? Expert Fixes to Get You Back in Action!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-the-final-batch-error-essential-guide-to-preventing-last-epoch-crashes-in-your-pc/"><u>Solving the Final Batch Error: Essential Guide to Preventing 'Last Epoch' Crashes in Your PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/total-war-warhammer-iii-stability-issues-resolved-no-more-pc-freezes/"><u>TOTAL WAR: WARHAMMER III Stability Issues Resolved – No More PC Freezes!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-a-filmmakers-approach-to-youtube-splitscreen-videos/"><u>[New] 2024 Approved A Filmmaker's Approach to YouTube Splitscreen Videos</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-crafting-impactful-youtube-channel-logo-tips/"><u>[New] In 2024, Crafting Impactful YouTube Channel Logo Tips</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-premier-sounds-selections-for-video-creation/"><u>[New] Premier Sounds Selections for Video Creation</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-finding-the-highlighted-online-discourse/"><u>[Updated] Finding the Highlighted Online Discourse</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-mastery-guide-sync-videos-to-facebook-pc-and-android-way/"><u>2024 Approved Mastery Guide Sync Videos to Facebook - PC & Android Way</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/apple-discontinues-apple-pay-later-feature-an-inside-look-at-upcoming-alternatives-zdnet/"><u>Apple Discontinues Apple Pay Later Feature: An Inside Look at Upcoming Alternatives - ZDNet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/demonstrate-deep-knowledge-of-product-features-and-benefits-while-offering-clear-explanations-guidance-on-how-to-access-those-features-and-helping-customers450/"><u>Demonstrate Deep Knowledge of Product Features and Benefits While Offering Clear Explanations, Guidance on How to Access Those Features, and Helping Customers Leverage Them for Their Specific Needs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-address-and-repair-phasmophobia-game-freezes-for-a-smooth-experience-2024-version/"><u>How to Address and Repair Phasmophobia Game Freezes for a Smooth Experience (2024 Version)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-common-issues-and-crashes-with-biomutant-on-your-computer/"><u>How to Fix Common Issues and Crashes with Biomutant on Your Computer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-diablo-4-from-crashing-effective-fixes-for-playstation-and-xbox-gamers/"><u>How to Stop Diablo 4 From Crashing: Effective Fixes for PlayStation and Xbox Gamers</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-realme-c55-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Realme C55 Phone FRP Lock</u></a></li>
+<li><a href="https://win-answers.techidaily.com/latest-update-on-guilty-gear-strive-launch-what-fans-need-to-know-now/"><u>Latest Update on Guilty Gear Strive Launch: What Fans Need to Know Now</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-gaming-performance-optimize-your-setup-for-fluid-motion-and-high-framessecs/"><u>Master Gaming Performance: Optimize Your Setup for Fluid Motion and High Frames/Secs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-steam-and-desktop-instability-top-9-ways-to-stabilize-your-ark-scorched-earth-gameplay/"><u>Overcome Steam and Desktop Instability: Top 9 Ways to Stabilize Your ARK: Scorched Earth Gameplay</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-red-dead-redemption-2-bugs-pro-tips-to-avoid-performance-hiccups/"><u>Overcoming Red Dead Redemption 2 Bugs: Pro Tips to Avoid Performance Hiccups</u></a></li>
+<li><a href="https://blog-min.techidaily.com/professional-xyz-editor-convert-and-upgrade-your-videos-from-dvds-to-smartphones-seamlessly/"><u>Professional XYZ Editor: Convert & Upgrade Your Videos - From DVDs to Smartphones Seamlessly</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/review-of-the-omoton-t1-desk-stand-an-unbeatable-blend-of-durability-and-value/"><u>Review of the Omoton T1 Desk Stand: An Unbeatable Blend of Durability and Value</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/tints-shades-and-tones-practical-application-in-art/"><u>Tints, Shades & Tones Practical Application in Art</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-among-us-persistent-loading-issues-a-step-by-step-guide/"><u>Troubleshooting Among Us Persistent Loading Issues – A Step-by-Step Guide</u></a></li>
 </ul></div>
 

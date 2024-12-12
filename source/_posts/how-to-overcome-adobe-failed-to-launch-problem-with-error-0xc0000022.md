@@ -1,7 +1,7 @@
 ---
 title: How to Overcome 'Adobe Failed to Launch' Problem with Error 0xC0000022
-date: 2024-11-30T17:08:01.647Z
-updated: 2024-12-06T18:42:39.033Z
+date: 2024-12-05T18:13:15.011Z
+updated: 2024-12-12T17:20:35.683Z
 tags:
   - win11
   - win10
@@ -47,7 +47,7 @@ Fortnite is not launching because of LS-0013 error? You’re certainly not the o
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -55,7 +55,7 @@ Fortnite is not launching because of LS-0013 error? You’re certainly not the o
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also do it for free if you like, but it’s partly manual.
@@ -67,7 +67,7 @@ Fortnite is not launching because of LS-0013 error? You’re certainly not the o
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Verify game integrity
@@ -83,7 +83,7 @@ Here is how to verify the integrity of Fortnite:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-772.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Once completed, click to run Fortnite to see if it launches properly. If yes, then congrats! If the issue still remains, please try **Fix 3** , below.
@@ -100,13 +100,13 @@ Here is how to run Epic Games Launcher as administrator:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-803.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click the **Compatibility**  tab, tick the box for **Run this program as an administrator**  and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-805.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Run Fortnite to see if it works without fail. If yes, then you have solved the issue! If the error still happens, you can then run Fortnite**as administrator** , the steps are similar as those for Epic Games Launcher.
 
@@ -137,21 +137,18 @@ Here is how to run Epic Games Launcher as administrator:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-unravel-iphone-tricks-for-repetitive-videos/"><u>[New] In 2024, Unravel iPhone Tricks for Repetitive Videos</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-visual-storytelling-beginnings-made-simple/"><u>[New] Visual Storytelling Beginnings Made Simple</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-comprehensive-guide-to-2024s-premier-unboxers-on-youtube/"><u>[Updated] Comprehensive Guide to 2024'S Premier Unboxers on YouTube</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-elevate-your-contents-reach-in-youtube-shorts-formats-for-2024/"><u>[Updated] Elevate Your Content's Reach in YouTube Shorts Formats for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/comprehensive-steps-to-get-rainbow-six-siege-up-and-running-again/"><u>Comprehensive Steps to Get Rainbow Six Siege Up and Running Again</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-scrutinizing-the-efficacy-of-vidma-for-video-capture-tech/"><u>In 2024, Scrutinizing the Efficacy of Vidma for Video Capture Tech</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-depth-review-tunefabs-latest-in-screen-capture-tech-for-2024/"><u>In-Depth Review Tunefab's Latest in Screen Capture Tech for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/launch-issues-on-far-cry-5-effective-methods-to-get-past-a-halted-screen/"><u>Launch Issues on Far Cry 5: Effective Methods to Get Past a Halted Screen</u></a></li>
-<li><a href="https://win-answers.techidaily.com/master-the-game-7-proven-fixes-to-resolve-halo-infinites-stuttering-performance/"><u>Master the Game: 7 Proven Fixes to Resolve Halo Infinite's Stuttering Performance</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-issues-in-star-wars-jedi-fallen-order-for-windows-users/"><u>Resolved Issues in Star Wars Jedi: Fallen Order for Windows Users</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-pc-users-experience-no-more-interruptions-in-hyper-scape-multiplayer-arena/"><u>Resolved: PC Users Experience No More Interruptions in Hyper Scape Multiplayer Arena</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/rocketbooks-innovative-approach-to-sustainable-sticky-notes-for-the-conscious-user-zdnet/"><u>Rocketbook's Innovative Approach to Sustainable Sticky Notes for the Conscious User | ZDNET</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solution-found-troubleshooting-google-chrome-when-it-wont-start-up/"><u>Solution Found: Troubleshooting Google Chrome When It Won't Start Up</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solution-guide-overcoming-issues-with-obs-and-screen-recording/"><u>Solution Guide: Overcoming Issues with OBS and Screen Recording</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-unveiling-the-latest-gadgets-and-hardware-insights/"><u>Tom's Tech Review: Unveiling the Latest Gadgets and Hardware Insights</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-the-secrets-of-efficient-lg-sales-channels/"><u>Unveiling the Secrets of Efficient LG Sales Channels</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-the-art-of-influence-essential-marketing-expressions-explained/"><u>[New] 2024 Approved The Art of Influence Essential Marketing Expressions Explained</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-mastering-pip-functions-on-apple-devices/"><u>[New] Mastering PIP Functions on Apple Devices</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-prime-authorship-workshop/"><u>[New] Prime Authorship Workshop</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-realme-12plus-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Realme 12+ 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/eliminate-latency-woes-proven-techniques-for-optimal-performance-in-chivalry-2-new-age-solutions-2/"><u>Eliminate Latency Woes: Proven Techniques for Optimal Performance in Chivalry 2 (New-Age Solutions - 2</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-problems-when-your-pc-performance-tool-isnt-responding-correctly/"><u>Fixing Problems When Your PC Performance Tool Isn’t Responding Correctly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-words-troublesome-winwordexe-glitch-simple-steps-inside/"><u>Fixing WORD's Troublesome WINWORD.EXE Glitch – Simple Steps Inside</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-honor-play-8t-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-on-apple-iphone-14-plus-without-password-by-drfone-ios/"><u>How to Delete iCloud Account On Apple iPhone 14 Plus without Password?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/improving-fps-lag-issues-for-a-smoother-outriders-journey/"><u>Improving FPS Lag Issues for a Smoother Outriders Journey</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-playthroughs-uninterrupted-resolving-rogue-company-game-crashes/"><u>PC Playthroughs Uninterrupted: Resolving Rogue Company Game Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-tips-to-resolve-pc-game-crashing-problems-in-yakuza-absolutely-remastered/"><u>Top Tips to Resolve PC Game Crashing Problems in Yakuza Absolutely Remastered</u></a></li>
 </ul></div>
 

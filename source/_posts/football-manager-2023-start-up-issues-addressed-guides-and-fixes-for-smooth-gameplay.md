@@ -1,7 +1,7 @@
 ---
 title: Football Manager 2023 Start-Up Issues Addressed - Guides and Fixes for Smooth Gameplay
-date: 2024-11-10T09:28:04.658Z
-updated: 2024-11-16T17:53:29.960Z
+date: 2024-12-06T19:22:29.046Z
+updated: 2024-12-12T19:09:18.722Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -47,6 +51,10 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-1-8.jpg)
 3. Click the**Update** button next to the flagged graphics card driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-2-9.jpg)
 
@@ -67,22 +75,12 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 3. Select**Local Files** and then click**Verify Integrity of Game Files** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-3-4.jpg)
 
  Wait until the process finishes and relaunch FM 21 to test. If your issue persists, take a look at more fixes below.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3 – Temporarily disable your antivirus
 
@@ -120,39 +118,24 @@ So does the crash go away now? If not, there is the last fix to try.
 2. Right-click**Football Manager 2021** and click**Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Click**Set Launch Options** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-3.jpg)
 4. Type**–config very\_low** in the text field and click**OK** .  
 
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Such setting may render FM 2021 in lower performance, but it will mitigate the crashing effectively.
 
@@ -181,19 +164,14 @@ So does the crash go away now? If not, there is the last fix to try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-streamline-your-viewing-with-these-9-playlist-extractors/"><u>[New] 2024 Approved Streamline Your Viewing with These 9 Playlist Extractors</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-photo-care-essentials-scanning-and-securing-vintage-prints/"><u>2024 Approved Photo Care Essentials Scanning & Securing Vintage Prints</u></a></li>
-<li><a href="https://win-answers.techidaily.com/google-chrome-troubleshooting-guide-opening-problems-solved/"><u>Google Chrome Troubleshooting Guide: Opening Problems Solved</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-honor-x50iplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Honor X50i+ | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722999654243-how-to-overcome-pc-crashes-in-pathfinder-wrath-of-the-righteous-solved-and-explained/"><u>How to Overcome PC Crashes in Pathfinder: Wrath of the Righteous - Solved and Explained</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-collaborative-filmmaking-teamwork-in-producing-instagram-content/"><u>In 2024, Collaborative Filmmaking Teamwork in Producing Instagram Content</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-efficiency-in-advertising-post-facebook-algorithm-overhaul/"><u>In 2024, Efficiency in Advertising Post-Facebook Algorithm Overhaul</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Apple iPhone 15 Pro | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/life-q30-review-soundcores-entry-level-noise-cancelling-solutions/"><u>Life Q30 Review - Soundcore's Entry-Level Noise Cancelling Solutions</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/night-owls-rejoice-unveiling-the-features-and-benefits-of-barnes-and-nobles-nook-glowlight-3-e-reader/"><u>Night Owls Rejoice: Unveiling the Features and Benefits of Barnes & Noble's Nook GlowLight 3 E-Reader</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/step-by-step-tutorial-on-encryptingdecrypting-a-macs-hdd-for-privacy/"><u>Step-by-Step Tutorial on Encrypting/Decrypting a Mac's HDD for Privacy</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-diablo-ii-reviver-game-crash-issues-efficiently/"><u>Troubleshooting Diablo II Reviver Game Crash Issues Efficiently</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-recurrent-noxplayer-instability-issues-on-windowsmacos/"><u>Troubleshooting Recurrent NoxPlayer Instability Issues on Windows/MacOS</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-fixed-how-to-fix-origin-not-launching-on-windows-1011/"><u>Troubleshooting: [FIXED] How to Fix 'Origin Not Launching on Windows 10/11</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-discover-the-prime-lineup-of-affordable-cutting-tools/"><u>[Updated] 2024 Approved Discover the Prime Lineup of Affordable Cutting Tools</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-the-gentle-art-of-reducing-audio-amplitude-in-logic-pro/"><u>2024 Approved The Gentle Art of Reducing Audio Amplitude in Logic Pro</u></a></li>
+<li><a href="https://win-answers.techidaily.com/dealing-with-download-issues-for-monster-hunter-stories-2-wings-of-ruin/"><u>Dealing with Download Issues for Monster Hunter Stories 2: Wings of Ruin</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-solutions-for-overcoming-live-server-connection-failure-errors/"><u>Effective Solutions for Overcoming 'Live Server Connection Failure' Errors</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-ensure-stable-play-of-dead-by-daylight-without-interruptions-2024-solutions/"><u>How to Ensure Stable Play of Dead By Daylight Without Interruptions - 2024 Solutions</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-infinix-smart-7-hd-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Infinix Smart 7 HD to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-tecno-spark-go-2023-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Tecno Spark Go (2023) to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-connection-issues-with-blizzard-games-a-step-by-step-guide/"><u>Resolving Connection Issues with Blizzard Games: A Step-by-Step Guide</u></a></li>
 </ul></div>
 

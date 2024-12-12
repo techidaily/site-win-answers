@@ -1,7 +1,7 @@
 ---
 title: Getting to the Bottom of a Broken Discord Webcam - Expert Fixes
-date: 2024-12-04T16:30:47.163Z
-updated: 2024-12-06T19:17:01.315Z
+date: 2024-12-09T18:18:46.041Z
+updated: 2024-12-12T18:37:48.346Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ Discord is a popular chatting platform for gamers. If you have met your device c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. [Check the privacy settings](https://tools.techidaily.com/drivereasy/download/)
@@ -41,6 +45,10 @@ Discord is a popular chatting platform for gamers. If you have met your device c
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_9-57-31.jpg)
 2. Click**Camera** in the left panel.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Make sure the toggle under**Allow apps to access your camera** is on.
 4. Click the**Change** button, check the**Camera access for this device** is on.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-02-43.jpg)
@@ -50,7 +58,7 @@ Discord is a popular chatting platform for gamers. If you have met your device c
 6. Relaunch Discord and check if the camera is working fine or not.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Rearrange your USB device (USB camera only)
@@ -74,10 +82,6 @@ If it doesn’t help, please move to the next fix.
 2. Choose the background app and then click**End task** to shut it down. Repeat the process until you’ve closed all the background apps.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-26-59.jpg)
 3. Launch Discord camera to check.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Update camera driver
 
@@ -108,16 +112,8 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
@@ -141,6 +137,10 @@ OR
 
 If your camera is still not working on Discord, move to the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Reinstall Discord
 
  Reinstall Discord is a useful common fix for issues. It’s because the corrupt installation of Discord or the outdated Discord version could be the reason for many problems, camera not working issue could be one of the problems.
@@ -150,6 +150,10 @@ If your camera is still not working on Discord, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app2.jpg)
 3. Find Discord and click to expand it. Click the**Uninstall** button.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-40-47.jpg)
 4. Follow the on-screen instructions to finish the process.
 
@@ -157,22 +161,18 @@ If your camera is still not working on Discord, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-42-04.jpg)
 6. Find the Discord folder and delete it.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-44-01.jpg)
 7. Open the Run box and type**%LocalAppData%** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-44-33.jpg)
 8. Find the Discord folder and delete it.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-45-16.jpg)
 9. Restart your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 10. Go to the[Discord official website](https://discord.com/) and download the latest version of Discord.
 11. Install it on your computer and try the camera.
@@ -198,24 +198,16 @@ If your camera is still not working on Discord, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-crafting-engaging-instagram-reels-step-by-step/"><u>[New] Crafting Engaging Instagram Reels Step-by-Step</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/nleash-hd-playback-with-av1-on-youtube-for-2024/"><u>[New] Unleash HD Playback with AV1 on YouTube for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-monetizing-your-channel-youtube-income-explained/"><u>[Updated] 2024 Approved Monetizing Your Channel YouTube Income Explained</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-gb-required-for-one-full-movie-hour-by-hour/"><u>[Updated] GB Required for One Full Movie, Hour by Hour</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-top-value-360-cameras-delivering-cost-effective-coverage/"><u>[Updated] In 2024, Top Value 360° Cameras Delivering Cost-Effective Coverage</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-the-ultimate-guide-to-no-cost-video-recording-software/"><u>[Updated] The Ultimate Guide to No-Cost Video Recording Software</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-essential-steps-for-youtube-video-preservation/"><u>2024 Approved Essential Steps for YouTube Video Preservation</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-immerse-in-digital-spaces-pcs-premier-10-vr-playback-systems/"><u>2024 Approved Immerse in Digital Spaces PC’s Premier 10 VR Playback Systems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/affordable-mobile-essentials-meet-the-new-dual-sim-variants-of-nokia-207-and-208/"><u>Affordable Mobile Essentials: Meet the New Dual SIM Variants of Nokia 207 and 208</u></a></li>
-<li><a href="https://win-answers.techidaily.com/best-video-format-conversion-tools-of-2024-from-dvd-to-aviproducts-for-windows-11-users/"><u>Best Video Format Conversion Tools of 2024: From Dvd to Aviproducts for Windows 11 Users</u></a></li>
-<li><a href="https://win-answers.techidaily.com/convert-youtube-videos-to-wmv-format-and-watch-on-windows-media-player-free-guide/"><u>Convert YouTube Videos to WMV Format & Watch on Windows Media Player - Free Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/converting-groove-songs-to-mp3-files-made-simple-and-easy-top-tips-revealed/"><u>Converting Groove Songs to MP3 Files Made Simple and Easy - Top Tips Revealed!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/download-a-free-tool-easy-conversion-of-swf-videos-to-mpeg-on-windows-and-web-platforms/"><u>Download a Free Tool: Easy Conversion of SWF Videos to MPEG on Windows and Web Platforms</u></a></li>
-<li><a href="https://win-answers.techidaily.com/easy-ways-how-to-turn-any-youtube-video-into-a-custom-ringtone-on-android-and-ios-devices/"><u>Easy Ways: How to Turn Any YouTube Video Into a Custom Ringtone on Android & iOS Devices</u></a></li>
-<li><a href="https://win-answers.techidaily.com/efficient-techniques-for-saving-your-favorite-ballet-beautiful-performances-on-youtube/"><u>Efficient Techniques for Saving Your Favorite Ballet Beautiful Performances on YouTube</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effortless-dvd-cloning-steps-for-fast-and-easy-copies-in-windows-1011/"><u>Effortless DVD Cloning Steps for Fast and Easy Copies in Windows 10/11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effortless-guide-to-transforming-flv-files-into-high-quality-mp4/"><u>Effortless Guide to Transforming FLV Files Into High-Quality MP4</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-honor-x50-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Honor X50 via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/next-gen-anker-charger-compatible-with-your-upcoming-iphone-essential-buys-unveiled-on-zdnet/"><u>Next-Gen Anker Charger Compatible with Your Upcoming iPhone - Essential Buys Unveiled on ZDNet</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-choosing-between-obs-and-fraps-for-excellent-screen-capture/"><u>[New] In 2024, Choosing Between OBS and Fraps for Excellent Screen Capture</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-operational-status-achieved-cameras-ready-for-2024/"><u>[New] Operational Status Achieved - Cameras Ready for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-step-by-step-minecraft-video-editing-process/"><u>2024 Approved Step-by-Step Minecraft Video Editing Process</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-error-code-727e66ac-on-nba-2k24-pro-tips-for-smooth-playing/"><u>Beat Error Code 727E66ac on NBA 2K24 - Pro Tips for Smooth Playing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-issue-why-chrome-struggles-with-page-loads-and-how-to-resolve-it/"><u>Fixing the Issue: Why Chrome Struggles with Page Loads and How to Resolve It</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-restore-functionality-of-your-logitech-c920-webcam-efficiently/"><u>How to Restore Functionality of Your Logitech C920 Webcam Efficiently</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/samsungs-newest-gem-the-55-ru7300-4k-uhd-smart-led-tv-in-depth-analysis-and-reviews/"><u>Samsung's Newest Gem: The 55 RU7300 4K UHD Smart LED TV - In-Depth Analysis and Reviews</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-linking-your-amazon-fire-tv-stick-with-a-projector/"><u>Step-by-Step Guide: Linking Your Amazon Fire TV Stick with a Projector</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-5-windows-cars-keyboard-magic-boosts-speed/"><u>Top 5 Windows Cars: Keyboard Magic Boosts Speed</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/troubleshooting-guide-unstuck-baldurs-gate-iii-from-your-computer/"><u>Troubleshooting Guide: Unstuck Baldur's Gate III From Your Computer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-solutions-for-preventing-nba-2k21-from-crashing-on-pc-gaming-systems/"><u>Ultimate Solutions for Preventing NBA 2K21 From Crashing on PC Gaming Systems</u></a></li>
 </ul></div>
 

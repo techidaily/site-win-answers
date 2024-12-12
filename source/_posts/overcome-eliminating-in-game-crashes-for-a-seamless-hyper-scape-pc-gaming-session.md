@@ -1,7 +1,7 @@
 ---
 title: "Overcome: Eliminating In-Game Crashes for a Seamless Hyper Scape PC Gaming Session"
-date: 2024-11-15T20:53:04.464Z
-updated: 2024-11-16T23:12:25.281Z
+date: 2024-12-07T16:56:40.621Z
+updated: 2024-12-12T19:25:21.780Z
 tags:
   - win11
   - win10
@@ -44,13 +44,6 @@ thumbnail: https://thmb.techidaily.com/936d10b629420455d4c3cd43378416c6e205e5dc7
 
  Crowded servers are common on launch days. If the game is too laggy to play, you can check the server status first to see if the problem is with the server-end. You can also visit[Back 4 Blood official site](https://www.back4blood.com/en-us/news) ,[Twitter](https://twitter.com/back4blood) ,[Discord](https://discord.com/invite/turtlerockstudios) or the[Steam forum](https://steamcommunity.com/app/924970/discussions/) to see if there’s any announcement.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 2: Test internet connection
 
  If there’s nothing wrong with the server, then you can start troubleshooting from your side. Since high ping and lag issues are network-related, you should first test your internet connection. Here’s a few general steps you can do:
@@ -74,14 +67,11 @@ thumbnail: https://thmb.techidaily.com/936d10b629420455d4c3cd43378416c6e205e5dc7
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/close-bandwidth-hogging-program.jpg)
 
- If you’re still getting a high ping and game seems laggy, try the next fix.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If you’re still getting a high ping and game seems laggy, try the next fix.
 
 ## Fix 4: Update network driver
 
@@ -100,6 +90,10 @@ thumbnail: https://thmb.techidaily.com/936d10b629420455d4c3cd43378416c6e205e5dc7
  3) Click the **Update**  button next to the flagged network driver to automatically download the correct version of the drivers, then you can manually install them (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. For example, you can update both your graphics driver and network driver with just one click. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -122,29 +116,22 @@ thumbnail: https://thmb.techidaily.com/936d10b629420455d4c3cd43378416c6e205e5dc7
 2. Type **cmd** , then press **Shift** and **Enter** at the same time. If prompted for permission, click **Yes** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/run-cmd.png)
 3. Copy **ipconfig /flushdns** , and paste it in the pop-up window. Then press **Enter** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/flushdns???.png)
 4. Your DNS cache is successfully cleared.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
 
 <!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2: Switch to a public DNS server
@@ -155,40 +142,27 @@ thumbnail: https://thmb.techidaily.com/936d10b629420455d4c3cd43378416c6e205e5dc7
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-11_15-44-44.png)
 2. Click **Change adapter options** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click **the network you’re using** , then click **Properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select **Internet Protocol Version 4 (TCP/IPv4)** , then click **Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select **Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click **OK** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus tip: try with a VPN
 
@@ -222,20 +196,17 @@ thumbnail: https://thmb.techidaily.com/936d10b629420455d4c3cd43378416c6e205e5dc7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/add-transitions-in-kinemaster-for-2024/"><u>Add Transitions in Kinemaster for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/audiovisual-rhythm-optimal-dj-content-for-gatherings-for-2024/"><u>Audiovisual Rhythm Optimal DJ Content for Gatherings for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/boost-your-content-with-top-notch-tiktok-video-edit-tricks-for-2024/"><u>Boost Your Content with Top-Notch TikTok Video Edit Tricks for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722990730236-expert-advice-on-overcoming-common-epic-games-launcher-problems-fast/"><u>Expert Advice on Overcoming Common Epic Games Launcher Problems Fast!</u></a></li>
-<li><a href="https://win-blog.techidaily.com/f1-2021-game-stability-improvements-tips-to-avoid-pc-shutdowns-during-gameplay/"><u>F1 2021 Game Stability Improvements - Tips to Avoid PC Shutdowns During Gameplay</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-launch-problems-with-call-of-duty-modern-warfare-on-pc/"><u>How to Fix Launch Problems with Call of Duty: Modern Warfare on PC</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-top-5-premium-game-screens-in-high-definition/"><u>In 2024, Top 5 Premium Game Screens in High Definition</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-youtube-growth-secrets-masterful-narration-techniques/"><u>In 2024, YouTube Growth Secrets Masterful Narration Techniques</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/isolating-photographs-within-windows-10-movie-files-for-2024/"><u>Isolating Photographs Within Windows 10 Movie Files for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/modern-warfare-3-gaming-hitches-call-of-duty-frame-rate-fluctuations/"><u>Modern Warfare 3 Gaming Hitches - Call of Duty Frame-Rate Fluctuations</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcome-apex-legends-not-launching-easy-and-fast-fixes-available/"><u>Overcome Apex Legends Not Launching - Easy & Fast Fixes Available</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-solutions-repairing-your-madden-nfl-22-game-when-it-stops-responding/"><u>Quick Solutions: Repairing Your Madden NFL 22 Game When It Stops Responding</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/restore-camera-functionality-on-your-hp-laptop-expert-advice-for-windows-11-users/"><u>Restore Camera Functionality on Your HP Laptop: Expert Advice for Windows 11 Users</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solve-separate-audio-and-video-glitches-on-youtube-using-chrome-or-firefox-techniques/"><u>Solve Separate Audio and Video Glitches on YouTube Using Chrome or Firefox Techniques</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-resolving-content-warning-issues-in-voice-chat-applications/"><u>Troubleshooting Steps: Resolving 'Content Warning' Issues in Voice Chat Applications</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-free-srt-translator-showdown-the-best-eight-in-ranking/"><u>[New] 2024 Approved Free SRT Translator Showdown The Best Eight in Ranking</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-intrinsic-insights-for-instant-identification-in-fb/"><u>[New] Intrinsic Insights for Instant Identification in FB</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-elevated-visuals-selecting-the-right-card/"><u>[Updated] In 2024, Elevated Visuals Selecting the Right Card</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-skype-talk-improvement-silence-the-surroundings/"><u>2024 Approved Skype Talk Improvement Silence the Surroundings</u></a></li>
+<li><a href="https://win-answers.techidaily.com/banishing-stutters-and-halts-overcoming-fallout-3s-window-woes/"><u>Banishing Stutters and Halts: Overcoming Fallout 3'S Window Woes</u></a></li>
+<li><a href="https://win-guides.techidaily.com/comment-puis-je-supprimer-ou-nettoyer-de-maniere-securisee-un-disque-dur-sous-windows-11/"><u>Comment Puis-Je Supprimer Ou Nettoyer De Manière Sécurisée Un Disque Dur Sous Windows 11 ?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-league-of-legends-stability-a-fast-track-fix-for-persistent-issues/"><u>Mastering League of Legends Stability: A Fast Track Fix for Persistent Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-issues-with-launching-the-elder-scrolls-online-troubleshooting-steps/"><u>Resolved: Issues with Launching The Elder Scrolls Online - Troubleshooting Steps</u></a></li>
+<li><a href="https://win-answers.techidaily.com/revive-your-windows-11-taskbar-expert-tips-and-solutions-to-make-it-functional/"><u>Revive Your Windows 11 Taskbar - Expert Tips & Solutions to Make It Functional</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-solutions-getting-your-copy-of-the-witcher-n-wont-start/"><u>Step-by-Step Solutions: Getting Your Copy of The Witcher N Won't Start</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209733677-9781609259259-tarot-card-combinations/"><u>Tarot Card Combinations | Free Book</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/ultimate-guide-to-free-hd-video-downloaders-secure-reliable-and-easy-to-use-software-options/"><u>Ultimate Guide to FREE HD Video Downloaders – Secure, Reliable & Easy to Use Software Options!</u></a></li>
 </ul></div>
 

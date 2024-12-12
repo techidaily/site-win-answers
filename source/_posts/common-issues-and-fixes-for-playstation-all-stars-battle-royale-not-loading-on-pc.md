@@ -1,7 +1,7 @@
 ---
 title: Common Issues & Fixes for PlayStation All-Stars Battle Royale Not Loading on PC
-date: 2024-08-23T13:18:37.362Z
-updated: 2024-08-24T13:18:37.362Z
+date: 2024-12-11T17:12:48.917Z
+updated: 2024-12-12T16:41:32.309Z
 tags:
   - win11
   - win10
@@ -44,9 +44,6 @@ Here are the minimum requirements for Madden NFL 22:
 
  If your computer specs are more than enough to run the game, the cause may be related to device drivers, antivirus or something else. Read on to more solutions below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ### Fix 2 – Update your device drivers
 
  The Madden 22 not working issue may be caused by the faulty or outdated device drivers on your computer. If you haven’t updated your device drivers for a long time, definitely do it now as it will guarantee you a smooth and pleasant gaming experience.
@@ -61,11 +58,13 @@ There are mainly two ways to update your drivers:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or you can click the**Update** button to update certain driver you want.  
-![](https://images.drivereasy.com/wp-content/uploads/2021/01/update-all-de.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/update-all-de.jpg)
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -81,13 +80,11 @@ There are mainly two ways to update your drivers:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 See if the issue persists. If yes, continue to the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4 – Repair the game files
 
  Missing or faulty game files will also prevent Madden 22 from working properly. To see if that’s the case, you could perform a quick scan and repair of the game files. Below we’ll show you how to do this on **[Steam](https://tools.techidaily.com/drivereasy/download/)**  and[**Epic Games Launcher**](https://tools.techidaily.com/drivereasy/download/) .
@@ -99,11 +96,17 @@ See if the issue persists. If yes, continue to the next solution.
 2. Right-click Madden 22 from the list and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1.jpg)
 3. Navigate to the**Local Files** tab and click**Verify integrity of game files** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam-verify-game-files-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  It may take a few minutes for the process to complete. Upon completion, check whether you can play the game normally. If not, proceed to **[Fix 5](https://tools.techidaily.com/drivereasy/download/)**  .
 
 #### On Epic Games Launcher
@@ -111,11 +114,13 @@ See if the issue persists. If yes, continue to the next solution.
 1. Open Epic Games launcher and select the**Library** tab in the left pane.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2-3-1.jpg)
 2. Locate the Madden NFL 22 title and click the icon with three dots next to it. Then click**Verify** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-2-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-2-2.jpg)
+
  After the process finishes, restart Madden 22 to test the issue. If it’s still not working, try the next fix below.
 
 ### Fix 5 – Temporarily disable your antivirus
@@ -147,8 +152,6 @@ See if the issue persists. If yes, continue to the next solution.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -156,4 +159,24 @@ See if the issue persists. If yes, continue to the next solution.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-mastering-facebook-vids-the-top-20-marketing-hacks/"><u>[New] In 2024, Mastering Facebook Vids The Top 20 Marketing Hacks</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-twitters-video-guidelines-and-step-by-step-uploading-guide/"><u>[New] In 2024, Twitter's Video Guidelines & Step-by-Step Uploading Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722991984783-battlefield-v-stability-fixes-for-windows-users-no-more-crashes/"><u>Battlefield V Stability Fixes for Windows Users – No More Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/call-of-duty-warzone-dev-error-6328-solved-insider-tips-and-best-practices/"><u>Call of Duty Warzone Dev Error 6328 Solved - Insider Tips & Best Practices</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easy-troubleshooting-tips-for-stable-play-in-ghost-recon-breakpoint/"><u>Easy Troubleshooting Tips for Stable Play in Ghost Recon Breakpoint</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-cities-of-the-skyline-pc-glitches-for-a-smoother-gaming-experience/"><u>Fixing Cities of the Skyline PC Glitches for a Smoother Gaming Experience</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-xiaomi-redmi-note-13-5g-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Xiaomi Redmi Note 13 5G</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-demystifying-premiere-pros-corrections-for-overexposed-iphone-videos/"><u>In 2024, Demystifying Premiere Pro's Corrections for Overexposed iPhone Videos</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-why-your-pc-experiences-frequent-blender-app-crashes/"><u>Resolved: Why Your PC Experiences Frequent Blender App Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/say-goodbye-to-game-crashes-with-the-new-fix-for-euro-truck-simulator-2-on-your-computer/"><u>Say Goodbye to Game Crashes with the New Fix for Euro Truck Simulator 2 on Your Computer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/simple-tricks-to-solve-steams-corrupted-disc-issue/"><u>Simple Tricks to Solve Steam's Corrupted Disc Issue</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stop-your-computer-from-freezing-over-ultimate-hacks-to-correct-last-epoch-problems/"><u>Stop Your Computer From Freezing Over: Ultimate Hacks to Correct 'Last Epoch' Problems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/strategies-to-enhance-page-ranking-and-web-traffic-through-seo-techniques/"><u>Strategies to Enhance Page Ranking and Web Traffic Through SEO Techniques</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-leading-selection-no-cost-outstanding-lut-links-for-2024/"><u>The Leading Selection No-Cost, Outstanding LUT Links for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-updating-software-in-windows-11-a-simple-process/"><u>The Ultimate Guide to Updating Software in Windows 11: A Simple Process</u></a></li>
+<li><a href="https://win-data.techidaily.com/unveiling-top-reasons-behind-graphics-card-failures-insights-from-yl-computing-and-tech-experts/"><u>Unveiling Top Reasons Behind Graphics Card Failures: Insights From YL Computing and Tech Experts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/wininetdll-errors-explained-techniques-to-restore-missing-dll-files/"><u>Wininet.dll Errors Explained: Techniques to Restore Missing DLL Files</u></a></li>
+</ul></div>
 

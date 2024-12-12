@@ -1,7 +1,7 @@
 ---
 title: "Fixing Silent Issues: How To Troubleshoot Lack of Audio During Your Live Broadcast"
-date: 2024-12-04T17:10:12.574Z
-updated: 2024-12-06T19:10:25.089Z
+date: 2024-12-11T16:04:35.067Z
+updated: 2024-12-12T16:17:05.988Z
 tags:
   - win11
   - win10
@@ -39,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/0a18a6b406ce9f21eda937adac64825b459ee3a87
  Note: the screenshots below come from Windows 10, and fixes also work on Windows 8 and Windows 7.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Reinstall Fortnite in your computer
@@ -55,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/0a18a6b406ce9f21eda937adac64825b459ee3a87
  If your problem still persists, don’t worry. There are other solutions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Set your graphics settings to Low
@@ -97,9 +97,17 @@ To do so, follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be920abeeb8a.jpg)
 3. Click the**Update** button next to your device to automatically download the latest drivers (you can do this with the**FREE** version). Then install the drivers in your computer.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click**Update All** the automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be920cf0d891.jpg)
 4. Restart your computer to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then launch Fortnite in your computer and see if it fixes your Fortnite not loading issues.
 
@@ -114,17 +122,9 @@ Still no luck? Okay, there’s something else to try.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be9213d5616f.jpg)
 3. Click**Yes** to verify the UAC. If you’re prompted to enter your admin account and password, enter the information.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Then you can run your Fortnite as admin.
 
 Check if your game can load properly.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Configure your computer settings
 
@@ -150,14 +150,10 @@ Below lists out some PC settings you can configure:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be921e101920.jpg)
 6. You’ll be prompted a dialog to ask you to restart, select**Exist without restart** because you’ll have a restart after configuring the settings below.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be921fa6ef14.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 2\. Adjust settings in System Properties
@@ -169,18 +165,22 @@ Below lists out some PC settings you can configure:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be922528c0d3.jpg)
 3. Click**Advanced system settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be9228805808.jpg)
 4. The**System Properties** pane will pop up. Under the**Advanced** tab, click the**Settings** button in the**Performance** section.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be922bfef5f6.jpg)
 5. Click the**Advanced** tab, and make sure to select**Adjust for best performance of Programs** . Then click**Apply** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be9237d987ca.jpg)
 6. Click**Data Execution Prevention** , and make sure to choose **Turn on DEP for essential Windows programs and services only** . Then Click**Apply** and**OK** to save.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be9234f416dc.jpg)
 7. Save your changes and restart your computer.
@@ -209,16 +209,22 @@ Launch your Fortnite and see if it will load properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-enchant-your-e-images-with-electronic-soundtracks/"><u>[New] In 2024, Enchant Your E-Images with Electronic Soundtracks</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-spiral-fabricator-package/"><u>[New] Spiral Fabricator Package</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-the-2023-guide-to-best-in-class-professionals-spinning-cameras/"><u>[Updated] In 2024, The 2023 Guide to Best-in-Class Professionals' Spinning Cameras</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/canons-sx420-reviewed-42x-optical-zoom-for-the-budget-snapper/"><u>Canon's SX420 Reviewed: 42X Optical Zoom for the Budget Snapper</u></a></li>
-<li><a href="https://win-answers.techidaily.com/diagnosing-and-correcting-crashes-in-thaumaturge-while-playing-on-personal-computer/"><u>Diagnosing and Correcting Crashes in Thaumaturge While Playing on Personal Computer</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/fix-all-phoenix-solution-pdf-damage/"><u>Fix-All Phoenix Solution: PDF Damage</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-common-problems-in-madden-22-fast-and-easy-troubleshooting-tips/"><u>Fixing Common Problems in Madden 22 - Fast and Easy Troubleshooting Tips</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-pc-problems-how-to-prevent-no-rest-for-the-wicked-from-constant-interruptions-during-gameplay/"><u>Fixing PC Problems: How to Prevent 'No Rest for the Wicked' From Constant Interruptions During Gameplay</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-stop-microsoft-flight-simulator-202n-from-frequently-crashing-on-your-computer/"><u>How to Stop Microsoft Flight Simulator 202N From Frequently Crashing on Your Computer</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-how-to-swap-genders-on-snapchat-facebook-or-instagram-photos/"><u>In 2024, How to Swap Genders on Snapchat, Facebook or Instagram Photos</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-looking-for-suggestions-to-trim-mkv-files-with-the-best-mkv-trimmer-on-mac-your-search-is-over-because-we-have-some-great-advice-for-you-rea/"><u>Updated In 2024, Looking for Suggestions to Trim MKV Files with the Best MKV Trimmer on Mac? Your Search Is over because We Have some Great Advice for You. Read Ahead to Learn How to Trim MKV Files on Mac with Ease</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-bandicam-revisited-a-deep-dive-into-screen-recording/"><u>[New] Bandicam Revisited A Deep Dive Into Screen Recording</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-overcoming-shyness-in-the-spotlight-top-video-blogger-fears/"><u>[New] Overcoming Shyness in the Spotlight Top Video Blogger Fears</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-the-best-8-value-video-communication-programs-for-pc-and-mac-for-2024/"><u>[New] The Best 8 Value Video Communication Programs for PC and MAC for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-how-to-fix-gta-5-freezing/"><u>[SOLVED] How to Fix GTA 5 Freezing?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-boost-your-view-count-this-tutorials-top-hit/"><u>[Updated] Boost Your View Count This Tutorial's Top Hit</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-enhance-your-play-mastering-kinemaster-and-the-top-10-alternative-games/"><u>2024 Approved Enhance Your Play Mastering KineMaster & The Top 10 Alternative Games</u></a></li>
+<li><a href="https://win-answers.techidaily.com/deciphering-fatal-ark-glitches-a-comprehensive-troubleshooting-manual-for-successful-recovery/"><u>Deciphering Fatal ARK Glitches: A Comprehensive Troubleshooting Manual for Successful Recovery</u></a></li>
+<li><a href="https://win-answers.techidaily.com/diablo-immortal-crashing-woes-discover-proven-fixes-and-enhancements-to-elevate-your-gaming-experience-on-pc/"><u>Diablo Immortal Crashing Woes? Discover Proven Fixes and Enhancements to Elevate Your Gaming Experience on PC</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-beyond-ustream-an-examination-of-video-streaming/"><u>In 2024, Beyond Ustream An Examination of Video Streaming</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-how-to-connect-to-your-steam-friends-again/"><u>Resolved! How to Connect to Your Steam Friends Again</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-to-get-your-pc-running-minecraft-smoothly-again/"><u>Step-by-Step Guide to Get Your PC Running Minecraft Smoothly Again</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-tips-to-fix-frame-drops-and-raise-fps-for-seamless-the-ascent-gameplay/"><u>Step-by-Step Tips to Fix Frame Drops and Raise FPS for Seamless 'The Ascent' Gameplay</u></a></li>
+<li><a href="https://win-answers.techidaily.com/trouble-free-solution-to-the-ashen-error-fast-and-effective-fixes-revealed/"><u>Trouble-Free Solution to the Ashen Error – Fast and Effective Fixes Revealed</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshoot-your-pc-for-dragons-dogma-2-fixing-game-crash-issues/"><u>Troubleshoot Your PC for Dragon's Dogma 2: Fixing Game Crash Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-when-days-gone-wont-start-on-your-pc-successfully/"><u>Troubleshooting Steps When Days Gone Won't Start on Your PC Successfully</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/unveiling-the-secrets-maximizing-video-reach-on-igtv-with-horizinas-for-2024/"><u>Unveiling the Secrets Maximizing Video Reach on IGTV with Horizinas for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/your-iphones-creative-edge-top-10-best-no-cost-collages-and-editing-tools/"><u>Your iPhone’s Creative Edge – Top 10 Best, No-Cost Collages & Editing Tools</u></a></li>
 </ul></div>
 

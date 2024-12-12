@@ -1,7 +1,7 @@
 ---
 title: "Stop PlayStation Games From Locking Up - Fix Your Ghostwire: Tokyo PC Glitches"
-date: 2024-12-04T16:02:52.432Z
-updated: 2024-12-06T16:04:12.861Z
+date: 2024-12-06T16:42:54.552Z
+updated: 2024-12-12T19:19:07.184Z
 tags:
   - win11
   - win10
@@ -44,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/522924ced0006a97e1c9e5d253d5bd56be4e5257c
 
 [8: Increase your virtual memory](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Call of Duty: Vanguard System Requirements
 
 | **System requirements**  | **Minimum**                                                     | **Recommended**                              | **Competitive**                                             | **Ultra 4K**                                     |
@@ -71,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/522924ced0006a97e1c9e5d253d5bd56be4e5257c
 If this doesn’t solve your problem, try the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 2: Update the graphics driver
@@ -92,7 +88,7 @@ If this doesn’t solve your problem, try the next fix.
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
@@ -103,6 +99,10 @@ If this doesn’t solve your problem, try the next fix.
 
  If you’re still experiencing the freezing issue after you updated the graphics driver, try the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 3: Scan and repair your game files
 
  If your game files are missing or broken, it could trigger random freezes when you’re playing Vanguard. You can run a scan and fix the corrupted game files via the Battle.net client. Here’s how:
@@ -112,10 +112,6 @@ If this doesn’t solve your problem, try the next fix.
 3. Wait for the scan to complete.
 
 If this doesn’t help, move on to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Run the game executable as administrator
 
@@ -133,10 +129,15 @@ If Vanguard still freezes randomly on your PC, try the next fix.
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
@@ -160,7 +161,15 @@ If Vanguard still freezes randomly on your PC, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/windows-update.jpg)
 4. Restart your PC to let it take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If this doesn’t solve your problem, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 7: Check your antivirus software
 
@@ -171,10 +180,6 @@ If this doesn’t solve your problem, try the next fix.
  Make sure you stay extra cautious when you turn off the antivirus app and do NOT download anything from the internet when your computer is not under protection.
 
 If the freezing issue persists, there’s one more fix you can try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 8: Increase your virtual memory
 
@@ -194,10 +199,6 @@ If the freezing issue persists, there’s one more fix you can try.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-10_11-54-55.jpg)
 6. Use the below formulas to calculate the values you should set:  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 _**1GB = 1024 MB**_  
  _**Initial size (MB) = 1.5 \* the amount of RAM (GB) on your PC**_  
 _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
@@ -205,12 +206,12 @@ _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-msinfo32.jpg)
 8. Calculate and fill in the **Initial size and Maximum size** , click **Set** then click **OK** . For example, I have 8 GB RAM, so my initial size would be 8\*1024\*1.5=12,288 MB, and my maximum size would be 8\*1024\*3=24576 MB  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/custom-size.jpg)
 9. Reboot your PC to see if Vanguard still freezes on your PC.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -231,19 +232,21 @@ _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-podcasting-from-afar-a-guide/"><u>[Updated] 2024 Approved Podcasting From Afar A Guide</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-amazons-all-star-series-most-retweeted-and-watched-originals-for-2024/"><u>[Updated] Amazon's All-Star Series Most Retweeted & Watched Originals for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-silence-to-symphony-adding-audio-elements-to-instareels/"><u>2024 Approved From Silence to Symphony Adding Audio Elements to InstaReels</u></a></li>
-<li><a href="https://win-answers.techidaily.com/beating-the-blockade-resolve-your-tekken-8-pc-boot-problems-today/"><u>Beating the Blockade: Resolve Your Tekken 8 PC Boot Problems Today!</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/best-online-no-download-gif-conversion-services-reviewed-for-2024/"><u>Best Online No-Download GIF Conversion Services Reviewed for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/conquer-lag-troubles-in-fallout-4-with-these-proven-fix-methods/"><u>Conquer Lag Troubles in Fallout 4 with These Proven Fix Methods</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/custom-build-computers-vs-pre-built-units-which-option-suits-you-best/"><u>Custom Build Computers Vs. Pre-Built Units - Which Option Suits You Best?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fix-stop-escape-from-tarkov-pc-crashes-complete-troubleshooting-guide/"><u>Fix: Stop Escape From Tarkov PC Crashes – Complete Troubleshooting Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-stop-your-game-of-valheim-from-continuously-freezing-and-crashing/"><u>How to Stop Your Game of Valheim From Continuously Freezing and Crashing</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oneplus-ace-2-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock OnePlus Ace 2 Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-perfectly-merged-clips-the-power-of-blending-modes/"><u>In 2024, Perfectly Merged Clips The Power of Blending Modes</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/newly-released-android-15-beta-phase-4-is-here-for-testing/"><u>Newly Released Android 15 Beta Phase 4 Is Here for Testing</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-problems-with-mount-and-blade-ii-bannerlord-crashing-gameplay/"><u>Resolved Problems with Mount & Blade II: Bannerlord Crashing Gameplay</u></a></li>
-<li><a href="https://win-answers.techidaily.com/together-we-soar-higher-insights-on-a-collaborative-launch/"><u>Together We Soar Higher - Insights on a Collaborative Launch</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-conquer-your-first-successful-zoom-call/"><u>[New] In 2024, Conquer Your First Successful Zoom Call</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-obs-lagging-issues-stream-and-record/"><u>[SOLVED] OBS Lagging Issues | (Stream & Record)</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-29-cost-free-youtube-sound-extractors-free-youtube-audio-downloads/"><u>[Updated] 2024 Approved 29 Cost-Free YouTube Sound Extractors Free YouTube Audio Downloads</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-focus-frameworks-key-tools-to-brighten-videos-for-2024/"><u>[Updated] Focus Frameworks Key Tools to Brighten Videos for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722994845767-breaking-news-mystery-solved-mafia-definitive-edition-hits-shelves-soon/"><u>Breaking News: Mystery Solved – Mafia: Definitive Edition Hits Shelves Soon!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/complete-guide-to-resolve-manor-lords-stalling-issues-in-pc-gaming/"><u>Complete Guide to Resolve Manor Lords Stalling Issues in PC Gaming</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-on-preventing-evermore-odyssey-2-from-crashing-on-your-pc/"><u>Expert Advice on Preventing Evermore Odyssey 2 From Crashing on Your PC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/final-fix-for-battlefield-v-stability-problems-on-windows-and-linux-systems/"><u>Final Fix for Battlefield V Stability Problems on Windows and Linux Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-prevent-samurai-warriors-5-from-crashing-on-your-windows-computer/"><u>How to Prevent Samurai Warriors 5 From Crashing on Your Windows Computer?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-easy-steps-to-export-video-in-filmora-for-2024/"><u>New Easy Steps to Export Video in Filmora for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-launch-problems-in-call-of-duty-modern-warfare-3-quick-guide/"><u>Resolving Launch Problems in Call of Duty: Modern Warfare 3 - Quick Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-complete-guide-to-selecting-best-free-srt-translators-online/"><u>The Complete Guide to Selecting Best FREE SRT Translators Online</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-impact-of-metas-endorsed-content-on-brand-value/"><u>The Impact of Meta's Endorsed Content on Brand Value</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-instagram-sequence-steps-to-reach-1k-monthly-followers/"><u>The Instagram Sequence Steps to Reach 1K Monthly Followers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-fixing-the-constant-crashes-of-final-fantasy-xiv-on-pc/"><u>Troubleshooting Guide: Fixing the Constant Crashes of Final Fantasy XIV on PC</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ultimate-guide-1byone-digital-hd-tv-antenna-top-choice-for-amplified-indoor-reception/"><u>Ultimate Guide: 1ByOne Digital HD TV Antenna - Top Choice for Amplified Indoor Reception</u></a></li>
 </ul></div>
 

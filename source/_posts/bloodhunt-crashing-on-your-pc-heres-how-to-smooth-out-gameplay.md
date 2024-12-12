@@ -1,7 +1,7 @@
 ---
 title: Bloodhunt Crashing on Your PC? Here's How to Smooth Out Gameplay!
-date: 2024-12-03T18:04:19.530Z
-updated: 2024-12-06T19:14:56.176Z
+date: 2024-12-10T16:07:50.227Z
+updated: 2024-12-12T16:37:21.938Z
 tags:
   - win11
   - win10
@@ -36,15 +36,15 @@ If you’re presented with the**Graphics Driver Crashed** error on Valorant and 
 8. **[Turn VSync off](https://tools.techidaily.com/drivereasy/download/)**
 9. **[Reinstall Riot Vanguard](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Update your graphics driver
 
  You will get this error message**Graphics driver crashed** if the driver is outdated, corrupted, or incompatible, so you should try updating the graphics driver, especially when you haven’t done so for a while.
 
  There are two ways you can get the right drivers for your sound card:[manually](https://tools.techidaily.com/drivereasy/download/) or[automatically](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 1 – Manually
 
@@ -67,10 +67,6 @@ If you’re presented with the**Graphics Driver Crashed** error on Valorant and 
  2) Click the**Scan Now** button, and it will automatically recognize your system and all your devices and install the latest game-ready graphics driver for you, along with your mouse driver, keyboard driver, sound card driver, etc. – direct from the manufacturer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/Update-all-drivers.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If updating to the latest driver didn’t do the trick, you can also perform a Windows Update since the latest graphics driver is designed for the latest Windows version.
 
@@ -98,7 +94,7 @@ If you’re presented with the**Graphics Driver Crashed** error on Valorant and 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/dxdiag.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Check DirectX Version on lower right corner in the first page in first page (the**System** tab).
@@ -106,7 +102,7 @@ If you’re presented with the**Graphics Driver Crashed** error on Valorant and 
  To upgrade your DirectX version, you’ll need to upgrade to the highest level of Windows version. So make sure you’ve performed a full Windows Update.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 4: Reset your graphics card software
@@ -121,15 +117,15 @@ To fix this, you can try resetting the software to default:
 * Select **Manage 3D Settings** .
 * Click on **Restore Defaults** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### CATALYST Control Center
 
 * Right-click on your **Desktop** and select **Catalyst Control Center** (also called **VISION** center).
 * Select **Preferences** .
 * Click on **Restore Factory Defaults** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Play Valorant in windowed mode
 
@@ -138,6 +134,10 @@ To fix this, you can try resetting the software to default:
 1) Launch Valorant.
 
 2) On the loading screen, press**Alt** +**Enter** to set the game to windowed mode.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 6: Stop overclocking
 
@@ -171,10 +171,6 @@ To fix this, you can try resetting the software to default:
 * Distortion: Off
 * First Person Shadows: Off
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 9: Reinstall Riot Vanguard
 
  The game crashing might be caused by Vanguard. In that case, you can clean reinstall it, which has been proved helpful to many players.
@@ -184,6 +180,10 @@ To fix this, you can try resetting the software to default:
  2) Type**appwiz.cpl** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/uninstall-app-now.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Right-click Riot Vanguard and select**Uninstall** .
 
@@ -212,24 +212,16 @@ To fix this, you can try resetting the software to default:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-premium-ways-to-broadcast-and-record-athletic-competitions-live/"><u>[New] Premium Ways to Broadcast & Record Athletic Competitions Live</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/decoding-gemini-the-powerhouse-behind-googles-artificial-intelligence-advancements-what-tasks-is-it-tackling-now/"><u>Decoding Gemini: The Powerhouse Behind Google’s Artificial Intelligence Advancements – What Tasks Is It Tackling Now?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-strategies-for-repairing-utorrent-connection-and-download-problems-with-peers/"><u>Effective Strategies for Repairing uTorrent Connection and Download Problems with Peers</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/exclusive-win-audio-experience/"><u>Exclusive Win Audio Experience</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-advice-for-eliminating-dev-error-5573-in-call-of-duty-vanguard-top-tips-and-solutions/"><u>Expert Advice for Eliminating Dev Error 5573 in Call of Duty: Vanguard - Top Tips & Solutions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-high-end-graphics-issues-optimizing-warzones-use-of-gpu-in-windows-10/"><u>Fixing High-End Graphics Issues: Optimizing Warzone's Use of GPU in Windows 10</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/free-outro-scene-creation-made-simple-for-2024/"><u>Free Outro Scene Creation Made Simple for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/haley-ba-et-al-nd-glyphosate-occurrence-and-potential-impacts-on-surface-water-ecosystems-a-review-retrieved-from-(httpswwwusgsgovspecial-topicwater-science467/"><u>Haley BA., Et Al (N.d.). Glyphosate Occurrence and Potential Impacts on Surface Water Ecosystems: A Review. Retrieved From <https://www.usgs.gov/special-topic/water-science-school/science/glyphosate-occurrence-and-potential-impacts-surface></u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723003577710-how-to-fix-common-graphic-driver-problems-solutions-inside/"><u>How to Fix Common Graphic Driver Problems - Solutions Inside</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-your-gmail-password-with-verification-code-2022-tips/"><u>How to RESET Your Gmail Password with Verification Code - 2022 Tips</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-motorola-moto-e13-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Motorola Moto E13 to Another | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-best-free-apple-iphone-xs-imei-checker-by-drfone-ios/"><u>In 2024, Best Free Apple iPhone XS IMEI Checker</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-navigating-cross-platform-social-media-fb-vids-on-whatsapp/"><u>In 2024, Navigating Cross-Platform Social Media FB Vids on WhatsApp</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-apple-iphone-15-pro-passcode-without-a-computer-drfone-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 15 Pro Passcode without a Computer | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcome-zooms-cannot-start-video-glitch-with-these-5-proven-fixes/"><u>Overcome Zoom's 'Cannot Start Video' Glitch with These 5 Proven Fixes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-pc-issues-effective-strategies-to-resolve-gray-zone-warfare-game-crashes/"><u>Solving PC Issues: Effective Strategies to Resolve Gray Zone Warfare Game Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/warzone-gameplay-uninterrupted-eliminating-pc-read-errors-in-versions-50-and-31/"><u>Warzone Gameplay Uninterrupted: Eliminating PC Read Errors in Versions 5.0 and 3.1</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-hardware-recognition-complete/"><u>Windows Hardware Recognition Complete</u></a></li>
-<li><a href="https://win-answers.techidaily.com/winning-the-battle-against-warzone-freezing-a-comprehensive-guide-for-players/"><u>Winning the Battle Against Warzone Freezing: A Comprehensive Guide for Players</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expertise-in-iphone-the-ultimate-hdr-photo-journey/"><u>[New] Expertise in iPhone The Ultimate HDR Photo Journey</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-top-valheim-seeds-and-growth-techniques/"><u>[Updated] In 2024, Top Valheim Seeds & Growth Techniques</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-12plus-5g-phone-without-password-by-drfone-android/"><u>How To Unlock Realme 12+ 5G Phone Without Password?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-the-top-tiers-of-treasured-valheim-trees/"><u>In 2024, The Top Tiers of Treasured Valheim Trees</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/integrating-skype-into-zoom-meetings-made-simple/"><u>Integrating Skype Into Zoom Meetings Made Simple</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-palworld-login-failures-for-eos-users-discover-these-6-critical-solutions/"><u>Mastering PalWorld Login Failures for EOS Users: Discover These 6 Critical Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/prepare-your-arsenal-upcoming-2024-enhancements-for-rainbow-six-siege/"><u>Prepare Your Arsenal: Upcoming 2024 Enhancements for Rainbow Six Siege</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209668251-9781632658173-self-initiation-for-the-solitary-witch/"><u>Self-Initiation for the Solitary Witch | Free Book</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-fixing-issues-with-discords-webcam-functionality/"><u>Troubleshooting Guide: Fixing Issues with Discord's Webcam Functionality</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-your-hogwarts-adventure-fixing-2024-game-startup-problems/"><u>Troubleshooting Your Hogwarts Adventure: Fixing 2024 Game Startup Problems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-audio-excellence-discover-these-5-vital-tips-when-shopping-for-stereo-speakers-online/"><u>Unlock Audio Excellence: Discover These 5 Vital Tips When Shopping for Stereo Speakers Online</u></a></li>
 </ul></div>
 

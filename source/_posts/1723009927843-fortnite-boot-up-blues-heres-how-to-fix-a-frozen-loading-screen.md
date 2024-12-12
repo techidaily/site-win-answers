@@ -1,7 +1,7 @@
 ---
 title: Fortnite Boot-Up Blues? Here’s How to Fix a Frozen Loading Screen!
-date: 2024-12-02T16:44:02.500Z
-updated: 2024-12-06T18:04:05.526Z
+date: 2024-12-08T18:21:21.314Z
+updated: 2024-12-12T19:08:28.141Z
 tags:
   - win11
   - win10
@@ -42,10 +42,6 @@ Are you feeling upset when playing **Fortnite**  with your friends but the game 
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Fix 1: Check if your PC meets the minimum hardware requirements**
 
  The Fortnite stuttering issue may occur if your PC fails to meet the minimum hardware requirements of the game. Check if your PC meets its minimum hardware requirements:
@@ -85,10 +81,14 @@ Are you feeling upset when playing **Fortnite**  with your friends but the game 
 5. If a patch is available, it will be detected by the Epic Games Launcher and the latest Fortnite patch will be automatically downloaded and installed when you launch Fortnite.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap898.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Run Fortnite again to check if you fixed this issue. If this issue persists, or there was no new game patch available, move on to the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Fix 3: Update your graphics driver**
@@ -112,11 +112,11 @@ Are you feeling upset when playing **Fortnite**  with your friends but the game 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap53.jpg)
 3. Click **Update** next to your graphics card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap54.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -129,10 +129,6 @@ Are you feeling upset when playing **Fortnite**  with your friends but the game 
 1. In Fortnite, click**the menu button** in the upper-right corner, then click **the gear icon** to open the game settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap944.png)
 2. Modify the video settings of the game following the screenshot below to gain the maximum performance. Then click**Apply** to save the changes.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap945.png)
 
@@ -148,7 +144,7 @@ Are you feeling upset when playing **Fortnite**  with your friends but the game 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap47.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Run Fortnite again to see if it will keep stuttering. If the stuttering issue reappears, try the next fix.
@@ -162,11 +158,11 @@ Are you feeling upset when playing **Fortnite**  with your friends but the game 
 3. Navigate to the**Detail** tab.**Right-click** the process related to Fortnite (**FortniteClient-Win64-Shipping.exe** ,**FortniteClient-Win64-Shipping\_EAC.exe** and**FortniteLauncher.exe** ) and select**High** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap50.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Run your Fortnite to see if the stuttering issue reappears. If the issue persists, don’t worry. There are more fixes for you to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 7: Restrict applications and downloads in the background**
 
@@ -178,6 +174,10 @@ Are you feeling upset when playing **Fortnite**  with your friends but the game 
 
  Run your Fortnite again to see if the stuttering issue persists. If the issue persists, trying updating your graphics driver.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Fix 8: Change the power plan of your PC and adjust your Windows system for the best performance**
 
  The Fortnite stuttering issue is also probably caused by the power plan of your PC. Most PC are configured to **Balanced** , which  limits the  operating capacity of your graphics card and CPU. So, the stuttering issue may occur. Follow the instructions below to change the power plan of your PC and adjust your Windows system for the best performance:
@@ -186,15 +186,15 @@ Are you feeling upset when playing **Fortnite**  with your friends but the game 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap69.jpg)
 2. In the pop-up window, expand **Hide additional plans**  and select **High performance**  .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap70.jpg)
 3. Type **advanced**  in the search box in the upper-right corner and then click **View advanced system settings**  .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap71.jpg)
 4. In the pop-up window, click **Settings…** in the **Performance**  section.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap72.jpg)
 5. Select **Adjust for best performance** and click **OK**  .  
@@ -217,6 +217,10 @@ Are you feeling upset when playing **Fortnite**  with your friends but the game 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap55.jpg)
 2. View the Control Panel by   **Large icons**  .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap56.jpg)
 3. Select **NVIDIA Control Panel**  to open it.  
 
@@ -224,10 +228,6 @@ Are you feeling upset when playing **Fortnite**  with your friends but the game 
 4. Click **3D Settings**  and select   **Adjust image settings with preview** . Then select **Use my preference emphasizing**  and **drag the slider to the left**  .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap58.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### **If you’re using AMD graphics card:**
 
@@ -237,6 +237,10 @@ Are you feeling upset when playing **Fortnite**  with your friends but the game 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap60.jpg)
 3. Select your **AMD Radeon Settings**   to open it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Go to **Gaming**  **\>**  **Global Settings**  . Then modify the settings the same way you see on the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap74.jpg)
@@ -254,7 +258,7 @@ Are you feeling upset when playing **Fortnite**  with your friends but the game 
 4. Click **3D**  to open the 3D settings.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap64.jpg)
@@ -267,10 +271,6 @@ Are you feeling upset when playing **Fortnite**  with your friends but the game 
 7. Click **Apply**  to save the settings.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap68.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Run Fortnite again to see if the stuttering issue persists. If not, then you’ve fixed this annoying issue.
 
@@ -296,22 +296,20 @@ Are you feeling upset when playing **Fortnite**  with your friends but the game 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-temporaryfreeze-immediate-recording-guide/"><u>[New] TemporaryFreeze Immediate Recording Guide</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-innovating-with-technology-advanced-gopro-4k-editing-techniques/"><u>2024 Approved Innovating with Technology Advanced GoPro 4K Editing Techniques</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/complete-beginners-tutorial-easy-ways-to-clip-and-edit-sound-tracks-using-audacity/"><u>Complete Beginner's Tutorial: Easy Ways to Clip and Edit Sound Tracks Using Audacity</u></a></li>
-<li><a href="https://solve-news.techidaily.com/cookiebot-enhanced-site-experience-boost-your-traffic-with-smart-tracking/"><u>Cookiebot-Enhanced Site Experience: Boost Your Traffic with Smart Tracking</u></a></li>
-<li><a href="https://fox-access.techidaily.com/effective-fixes-for-when-utorrent-fails-to-connect-or-download/"><u>Effective Fixes for When uTorrent Fails to Connect or Download</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebooks-subscription-model-disrupts-tech-norm-surpassing-apples-app-store/"><u>Facebook’s Subscription Model Disrupts Tech Norm, Surpassing Apple's App Store</u></a></li>
-<li><a href="https://win11.techidaily.com/leap-from-batch-processing-to-executables-in-windows/"><u>Leap From Batch Processing to Executables in Windows</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mp4audacity/"><u>MP4動画から音声素材を抽出するAudacityユーザー向けレシピ</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-perform-mask-tracking-discovering-the-best-methods/"><u>New In 2024, How to Perform Mask Tracking Discovering the Best Methods</u></a></li>
-<li><a href="https://win-answers.techidaily.com/omamp4/"><u>OMA形式ファイルをMP4に正確に変換するためのテクニックと方法</u></a></li>
-<li><a href="https://fox-info.techidaily.com/optimal-charger-solutions-for-gopro-hero5-genuine-and-imitative-companies-for-2024/"><u>Optimal Charger Solutions for GoPro Hero5 Genuine & Imitative Companies for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/pcradiko/"><u>PCにおいてRadikoよりプログラム・オーディオコンテンツの安全なダウンロード手順</u></a></li>
-<li><a href="https://win-answers.techidaily.com/simple-steps-to-effortlessly-rip-movies-off-a-dvd/"><u>Simple Steps to Effortlessly Rip Movies Off a DVD</u></a></li>
-<li><a href="https://win-answers.techidaily.com/spread-the-word-share-our-top-pick-of-free-iphone-video-converters-with-friends/"><u>Spread the Word: Share Our Top Pick of Free iPhone Video Converters with Friends!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-adding-the-matrix-compatible-4k-19-live-tv-streaming-addon-for-free-on-your-kodi-device/"><u>Step-by-Step Guide: Adding the Matrix Compatible 4K 19 Live TV Streaming Addon for Free on Your Kodi Device</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-setting-up-streamio-app-on-your-amazon-firestick-or-firetv/"><u>Step-by-Step Guide: Setting Up Streamio App on Your Amazon Firestick or FireTV</u></a></li>
-<li><a href="https://win-answers.techidaily.com/stream-endless-fun-enjoy-complimentary-cartoons-and-animation-episodes/"><u>Stream Endless Fun: Enjoy Complimentary Cartoons & Animation Episodes</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-detailed-insight-the-gecata-live-game-tracker/"><u>[New] 2024 Approved Detailed Insight The Gecata Live Game Tracker</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-tune-tracker-next-gen-audio/"><u>[New] Tune Tracker Next-Gen Audio</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-2023s-best-web-based-recording-tech-handpicked/"><u>[Updated] 2024 Approved 2023'S Best Web-Based Recording Tech Handpicked</u></a></li>
+<li><a href="https://network-issues.techidaily.com/corrected-full-screen-windows-fail-to-appear-on-monitor-windows-10/"><u>Corrected: Full Screen Windows Fail to Appear on Monitor (Windows 10)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhance-your-gaming-experience-fixing-world-of-tanks-blitzs-persistent-crashes/"><u>Enhance Your Gaming Experience: Fixing World of Tanks Blitz's Persistent Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-discord-overlay-issues-simple-solutions-you-can-apply-today/"><u>Fix Discord Overlay Issues: Simple Solutions You Can Apply Today!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-ghost-runner-crash-issue-in-windows-11-troubleshooting-guide/"><u>Fixing the 'Ghost Runner' Crash Issue in Windows 11 - Troubleshooting Guide</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/key-sound-editing-solutions-for-video-bloggers-for-2024/"><u>Key Sound Editing Solutions for Video Bloggers for 2024</u></a></li>
+<li><a href="https://techidaily.com/master-safe-mode-on-windows-10-explore-4-effective-methods-and-their-screenshots/"><u>Master Safe Mode on Windows 10: Explore 4 Effective Methods and Their Screenshots</u></a></li>
+<li><a href="https://win-answers.techidaily.com/maximize-gaming-performance-in-valorant-proven-fixes-for-resolving-fps-drops-and-achieving-smooth-playback/"><u>Maximize Gaming Performance in Valorant: Proven Fixes for Resolving FPS Drops and Achieving Smooth Playback</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-the-perpetual-wait-time-during-skyrims-boot-up-phase/"><u>Overcoming the Perpetual Wait Time During Skyrim's Boot-Up Phase</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-the-2022-dota-2-vac-ban-issue-a-comprehensive-guide/"><u>Resolving the 2022 Dota 2 VAC Ban Issue: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stabilize-your-among-us-gameplay-advanced-tips-to-eliminate-crashes-latest-update/"><u>Stabilize Your Among Us Gameplay: Advanced Tips to Eliminate Crashes (Latest Update)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/techniques-to-optimize-your-gaming-session-elevating-fps-while-cutting-down-lag-in-fall-guys/"><u>Techniques To Optimize Your Gaming Session: Elevating FPS While Cutting Down Lag in Fall Guys</u></a></li>
 </ul></div>
 

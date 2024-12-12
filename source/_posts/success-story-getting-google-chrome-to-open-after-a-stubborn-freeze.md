@@ -1,7 +1,7 @@
 ---
 title: "Success Story: Getting Google Chrome to Open After a Stubborn Freeze"
-date: 2024-11-14T00:12:44.245Z
-updated: 2024-11-17T07:05:28.461Z
+date: 2024-12-08T17:49:05.760Z
+updated: 2024-12-12T16:50:49.360Z
 tags:
   - win11
   - win10
@@ -34,6 +34,10 @@ Many players are reporting that**Minecraft crashes with an Exit Code 0 error** .
 6. **[Reinstall Minecraft completely](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Check if your system is corrupted](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Close conflicting programs
 
  The several incarnations in the past decade failed to eliminate the compatibility issues in Minecraft. In other words, your Exit Code 0 issue could be triggered by**conflicting programs** on your PC.
@@ -55,13 +59,6 @@ Many players are reporting that**Minecraft crashes with an Exit Code 0 error** .
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-2060-super-update.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -91,55 +88,43 @@ If the issue persists, you can try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig-clean-boot-1.jpg)
 2. In the pop-up window, navigate to the **Services**  tab and check the box next to **Hide all Microsoft services** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can now launch Minecraft and check if it crashes again. If not, you can try to root out the conflicting programs or services. A way to do that is to repeat the steps above, but **disable half of the services and programs** .
 
 If this fix doesn’t help you, simply move on to the next one.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Reinstall Minecraft completely
 
  If none of the fixes above can stop the crash, you should consider reinstalling Minecraft completely. When you’re doing this, you can back up your**.minecraft** folder which can be accessed by typing**%appdata%** in the address bar in File Explorer. By the way, make sure you’ve deleted **[options.txt](https://www.minecraftforum.net/forums/support/java-edition-support/3038499-minecraft-problem-to-launch-exit-code-0#c3)**  insider the**.minecraft** folder.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/minecraft-options-txt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **.minecraft** Folder
 
@@ -155,10 +140,7 @@ If this fix doesn’t help you, simply move on to the next one.
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
@@ -188,21 +170,24 @@ If this fix doesn’t help you, simply move on to the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-average-spend-on-successful-youtube-videos/"><u>[New] 2024 Approved Average Spend on Successful YouTube Videos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-eliminate-your-streaming-darkness-on-youtube/"><u>[New] 2024 Approved Eliminate Your Streaming Darkness on YouTube</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-comparing-syma-x8c-to-previous-models-for-2024/"><u>[New] Comparing Syma X8C to Previous Models for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-user-interface-and-functionality-app-checkup/"><u>[New] User Interface & Functionality App Checkup</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-navigating-youtube-video-production-tools/"><u>[Updated] Navigating YouTube Video Production Tools</u></a></li>
-<li><a href="https://win-answers.techidaily.com/eliminate-lag-expert-advice-on-optimizing-fps-and-reducing-stutter-in-new-world/"><u>Eliminate Lag: Expert Advice on Optimizing FPS and Reducing Stutter in New World</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-advice-correcting-the-problem-of-msi-afterburner-ignoring-your-pcs-graphics-processor-on-windows-1011/"><u>Expert Advice: Correcting the Problem of MSI Afterburner Ignoring Your PC's Graphics Processor on Windows 10/11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-crashing-problems-in-the-oxygen-not-included-game/"><u>How to Fix 'Crashing Problems' In the Oxygen Not Included Game</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/in-2024-make-videos-like-a-pro-on-mac-top-rated-video-makers/"><u>In 2024, Make Videos Like a Pro on Mac Top-Rated Video Makers</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/innovative-singaporean-tech-breakthrough-a-glove-that-brings-enhanced-haptic-feedback-in-vr/"><u>Innovative Singaporean Tech Breakthrough: A Glove That Brings Enhanced Haptic Feedback in VR</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723001818270-is-there-any-disruption-with-xbox-live-servers-latest-status-report/"><u>Is There Any Disruption with Xbox Live Servers? Latest Status Report</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/leading-the-ai-revolution-with-gpt-3-and-python/"><u>Leading the AI Revolution with GPT-3 & Python</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-troubleshooting-the-five-best-fixes-for-when-your-zoom-video-wont-play/"><u>Mastering Troubleshooting: The Five Best Fixes for When Your Zoom Video Won't Play</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-common-issues-fixing-the-endless-loop-of-blender-crashes-on-computers/"><u>Overcoming Common Issues: Fixing the Endless Loop of Blender Crashes on Computers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-issues-with-modern-warfare-3-mw3-troubleshooting-tips-for-game-startup-failures/"><u>Solving Issues with Modern Warfare 3 (MW3) - Troubleshooting Tips for Game Startup Failures</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-fix-for-msi-afterburner-not-identifying-graphic-processing-unit-in-windows-1011-environments/"><u>Step-by-Step Fix for MSI Afterburner Not Identifying Graphic Processing Unit in Windows 10/11 Environments</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-deep-dive-into-youtube-content-ownership-laws-for-2024/"><u>[New] A Deep Dive Into YouTube Content Ownership Laws for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-why-you-shouldnt-trust-your-eyes-when-it-comes-to-youtube-views/"><u>[Updated] Why You Shouldn't Trust Your Eyes When It Comes to YouTube Views</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-shining-up-photos-on-instagram-three-effective-ways/"><u>2024 Approved Shining Up Photos on Instagram Three Effective Ways</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/8-plus-up-to-50-off-with-our-exclusive-trade-in-offer-techsavvy/"><u>8 Plus - Up to 50% Off With Our Exclusive Trade-In Offer | TechSavvy</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effortless-fixes-for-sons-of-the-forest-freezes-and-crashes-on-your-pc-guide/"><u>Effortless Fixes for 'Sons of the Forest' Freezes and Crashes on Your PC - Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/enhancing-iphones-in-night-mode-silhouettes/"><u>Enhancing iPhones in Night Mode Silhouettes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-overcoming-frequent-freezes-and-crashes-in-valorant-while-playing-on-desktop-pcs/"><u>Expert Tips: Overcoming Frequent Freezes and Crashes in Valorant While Playing on Desktop PCs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723009953890-fixing-hell-let-loose-pc-stability-issues-resolved/"><u>Fixing Hell Let Loose PC Stability Issues: Resolved</u></a></li>
+<li><a href="https://win-answers.techidaily.com/football-manager-2020-update-fixes-previous-bug-causing-crashes-play-smoothly-now/"><u>Football Manager 2020 Update Fixes Previous Bug Causing Crashes – Play Smoothly Now!</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-on-apple-iphone-13-pro-without-password-by-drfone-ios/"><u>How to Delete iCloud Account On Apple iPhone 13 Pro without Password?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-the-best-of-the-best-movie-trailer-creation-software-for-mac-and-pc/"><u>New The Best of the Best Movie Trailer Creation Software for Mac and PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/starfield-sound-glitches-how-we-overcame-popping-and-distortion-problems/"><u>Starfield Sound Glitches: How We Overcame Popping & Distortion Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/steam-cloud-desync-bug-solutions-and-fixes-at-hand/"><u>Steam Cloud Desync Bug – Solutions and Fixes at Hand</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-installing-acer-aspire-driver-pack-on-your-pc/"><u>Step-by-Step Guide: Installing Acer Aspire Driver Pack on Your PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-snap-camera-solutions-for-missing-camera-access/"><u>Troubleshooting Snap Camera - Solutions for Missing Camera Access</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-how-to-resolve-interruptions-during-steam-game-downloads/"><u>Troubleshooting: How to Resolve Interruptions During Steam Game Downloads</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-to-preventing-overwatch-2-pc-instability-and-crashes/"><u>Ultimate Guide to Preventing Overwatch 2 PC Instability and Crashes</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-asus-rog-phone-8-pro-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Asus ROG Phone 8 Pro Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 

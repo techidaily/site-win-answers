@@ -1,7 +1,7 @@
 ---
 title: "Game Restoration Secrets Unveiled: Correcting PC Game File Errors"
-date: 2024-11-11T17:17:45.238Z
-updated: 2024-11-17T03:29:24.532Z
+date: 2024-12-11T16:07:29.321Z
+updated: 2024-12-12T17:42:30.803Z
 tags:
   - win11
   - win10
@@ -48,6 +48,10 @@ Stop blaming yourself for losing your temper when the FPS (frame per second) dro
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Make sure your computer is not overheating
 
  If the ventilation for your computer is rather poor, your machine may run hot, thus with the FPS dropping problems in games, among many other PC performance issues.
@@ -68,26 +72,12 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-48.png)
 2. Select each resource-hogging application and click **End Task** to close them one by one.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-49.png)
 3. Pay extra attention to**Intel Turbo Boost Technology** : if you have it running, please disable it as well.
 
  Then run your game again and see if the FPS dropping issue is fixed. If the problem still remains, please move on to the next fix below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Modify your network settings
 
@@ -116,14 +106,11 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/flushdns的副本.png)
 4. Your DNS cache is successfully cleared.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4.2 Switch to a public DNS server
 
@@ -136,25 +123,15 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
@@ -164,6 +141,10 @@ To do so:
  Run your game again to see if the frame rate per second still drops. If the problem still persists, please move on.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Update graphics card and network card drivers
 
@@ -191,10 +172,7 @@ and your network card manufacturer:
  Then search for your GPU and network card models. Note that you should only download the latest driver installers that are compatible with your operating system. Once downloaded, open the installers and follow the on-screen instructions to update the drivers one by one.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 2: Update your graphics and network drivers automatically (Recommended)
@@ -209,10 +187,11 @@ and your network card manufacturer:
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note** : You can do it for free if you like, but it’s partly manual.
@@ -225,13 +204,6 @@ and your network card manufacturer:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Modify the Power Mode
 
  The default power plan by Windows strikes a balance between power consumption and PC performance, which is a good choice most of the time, especially when you’re not using resource-hungry applications a lot. But games usually need more resources than other regular software programs, so it’s not a bad idea to switch to the **High performance**  plan to improve your game performance. This is even more true when you’re dealing with the FPS dropping problem.
@@ -241,8 +213,17 @@ To change the power mode:
 1. On your keyboard, press **the Windows logo key**  and **R** at the same time, then type **powercfg.cpl** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 3. Then run your game to see if the frame rate per second is higher. If the problem remains still, please move on to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -273,22 +254,18 @@ To change the power mode:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-enhancing-productivity-how-to-master-screen-capture-on-an-hp-device/"><u>[Updated] 2024 Approved Enhancing Productivity How to Master Screen Capture on an HP Device</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-poptoons-pro-analysis-and-guide-2s24/"><u>[Updated] PopToons Pro Analysis and Guide 2S24</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-step-by-step-from-graphic-geniuses-to-sticker-stars-in-all-chat-apps/"><u>2024 Approved Step by Step From Graphic Geniuses to Sticker Stars in All Chat Apps</u></a></li>
-<li><a href="https://win-answers.techidaily.com/crack-solved-how-to-release-your-steam-games-blocked-data/"><u>Crack Solved: How to Release Your Steam Game's Blocked Data</u></a></li>
-<li><a href="https://win-answers.techidaily.com/elevate-your-game-overcoming-rainbow-six-extractions-fps-drop-challenges/"><u>Elevate Your Game: Overcoming Rainbow Six Extraction's FPS Drop Challenges</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-vanguard-setup-issues-in-valorant-a-step-by-step-guide/"><u>Fixing Vanguard Setup Issues in Valorant: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-ready-for-superior-sound-quality-easy-nahimic-drivers-update-today/"><u>Get Ready for Superior Sound Quality - Easy Nahimic Drivers Update Today</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/gratuite-convertisseur-en-ligne-gratuit-pour-transformer-wmv-en-fichier-flash-swf-avec-moviemaker/"><u>Gratuité: Convertisseur en Ligne Gratuit Pour Transformer WMV en Fichier Flash (SWF) Avec MovieMaker</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-a-crash-in-forza-horizon-4-when-playing-on-pc/"><u>How to Fix a Crash in Forza Horizon 4 When Playing on PC</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-forgotten-pin-of-your-samsung-galaxy-a54-5g-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Samsung Galaxy A54 5G</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-locked-motorola-razr-40-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Motorola Razr 40 Phone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/making-a-splash-with-youtube-ad-banners-and-thumbnails/"><u>Making a Splash with YouTube Ad Banners & Thumbnails</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-solutions-resolving-common-issues-with-winwordexe/"><u>Quick Solutions: Resolving Common Issues with Winword.exe</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-ring-of-elysium-crash-issues-a-comprehensive-guide/"><u>Resolving 'Ring of Elysium' Crash Issues: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-launch-failures-expert-strategies-to-save-your-lethal-company/"><u>Resolving Launch Failures: Expert Strategies to Save Your 'Lethal' Company</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/step-by-step-voice-customization-on-instagram-revealed/"><u>Step-by-Step Voice Customization on Instagram Revealed</u></a></li>
-<li><a href="https://win-answers.techidaily.com/why-is-metro-exodius-keeping-you-out-of-the-game-fix-those-pc-crashes-now/"><u>Why Is Metro Exodius Keeping You Out of the Game? Fix Those PC Crashes Now!</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-legendary-loops-leading-10-rogues/"><u>[New] 2024 Approved Legendary Loops Leading 10 Rogues</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-perfect-your-igtv-presentations-with-top-video-editors-for-2024/"><u>[New] Perfect Your IGTV Presentations with Top Video Editors for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-insights-into-youtubes-visionary-studio-platform/"><u>[Updated] 2024 Approved Insights Into YouTube's Visionary Studio Platform</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/10-innovative-screencasting-solutions-for-modern-teachers/"><u>10 Innovative Screencasting Solutions for Modern Teachers</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-samsung-galaxy-s23-ultra-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Samsung Galaxy S23 Ultra without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-huion-kamvas-gt-191-graphic-tablet-analysis-the-ultimate-artists-choice/"><u>Comprehensive Huion Kamvas GT-191 Graphic Tablet Analysis - The Ultimate Artist's Choice</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-best-note-taking-solutions-our-expert-picks/"><u>Discover the Best Note Taking Solutions : Our Expert Picks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723002623201-how-to-fix-lethal-company-not-launching-2024-tips/"><u>How to Fix Lethal Company Not Launching - 2024 Tips</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-how-to-change-text-style-in-discord-3-methods/"><u>In 2024, How to Change Text Style in Discord | 3 Methods</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723011469040-insurgency-sandstorm-update-causes-persistent-game-crashes-solved/"><u>Insurgency: Sandstorm Update Causes Persistent Game Crashes - Solved!</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/iphone-image-editing-learn-to-change-resolution-for-2024/"><u>IPhone Image Editing Learn to Change Resolution for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-the-hurdle-getting-civilization-vi-running-in-windows-11/"><u>Overcoming the Hurdle: Getting Civilization VI Running in Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-tech-tricks-for-a-seamless-fortnite-experience-addressing-pc-freezes-and-glitches/"><u>Top Tech Tricks for a Seamless Fortnite Experience: Addressing PC Freezes and Glitches</u></a></li>
 </ul></div>
 

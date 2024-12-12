@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Modern Warfare Dev Error 6Aster: Solutions for PlayStation, Xbox, & PC Gamers"
-date: 2024-11-14T20:36:11.681Z
-updated: 2024-11-17T03:08:18.290Z
+date: 2024-12-09T17:31:31.807Z
+updated: 2024-12-12T19:00:48.136Z
 tags:
   - win11
   - win10
@@ -30,13 +30,6 @@ A recent update of Warzone triggered a surge in reports of the**Dev Error 6034**
 2. [**Remove broken game files (PC)**](https://www.drivereasy.com/knowledge/how-to-fix-dev-error-6034-in-warzone-pc-xbox/#fix2)
 3. **[Remove Multiplayer game packs (Xbox)](https://www.drivereasy.com/knowledge/how-to-fix-dev-error-6034-in-warzone-pc-xbox/#fix3)**
 4. **[Reinstall Warzone](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver (PC)
 
@@ -68,10 +61,7 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -79,6 +69,10 @@ To do so, first visit the website of your GPU manufacturer:
  After updating all your drivers, restart your PC and check if the issue persists.
 
  If the latest drivers didn’t give you luck, you can try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Remove broken game files (PC)
 
@@ -105,20 +99,15 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-1.jpg)
 2. Select**Call of Duty: Modern Warfare** . (You might also need to select**Manage installation on External drive** .)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-2.jpg)
 3. Scroll down and unselect**MP2 Pack** and**Multiplayer Pack 3.** Then select**Save changes** .  
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-3.jpg)
@@ -127,10 +116,7 @@ To do so, first visit the website of your GPU manufacturer:
 If this trick doesn’t help you, simply check out the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Reinstall Warzone
@@ -158,22 +144,24 @@ If this trick doesn’t help you, simply check out the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-monetizing-carryminati-journey-to-2023-income/"><u>[New] 2024 Approved Monetizing CarryMinati Journey to 2023 Income</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-creative-tiktok-pfp-ideas-to-make-your-tiktok-profile-stand-out-for-2024/"><u>[New] Creative TikTok PFP Ideas to Make Your TikTok Profile Stand Out for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-mastering-audio-capture-on-windows-11-top-5-proven-strategies/"><u>[New] Mastering Audio Capture on Windows 11 Top 5 Proven Strategies</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Motorola G24 Power | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/7-leading-mac-video-player-options-for-2024/"><u>7 Leading Mac Video Player Options for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/a-step-by-step-walkthrough-for-installing-apps-via-wpm-on-windows-11/"><u>A Step-by-Step Walkthrough for Installing Apps via WPM on Windows 11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/avoiding-access-issues-tips-and-solutions-to-fix-the-civ-6-exception-error/"><u>Avoiding Access Issues: Tips and Solutions to Fix the 'CIV-6 Exception Error'</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722995301851-common-fixes-for-when-cortana-stops-responding-solved/"><u>Common Fixes for When Cortana Stops Responding – Solved!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-advice-for-overcoming-msvcr80dll-errors-and-restoring-your-computer-functionality/"><u>Expert Advice for Overcoming Msvcr80.dll Errors and Restoring Your Computer Functionality</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-updated-steelseries-mouse-control-software-download-and-installation-guide/"><u>Get Updated: SteelSeries Mouse Control Software Download and Installation Guide</u></a></li>
-<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-samsung-galaxy-a54-5g-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Samsung Galaxy A54 5G Phone | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/in-depth-guide-to-correct-teardown-applications-continuous-freezing-and-crashes/"><u>In-Depth Guide to Correct Teardown Applications Continuous Freezing & Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-fallout-76s-optimization-end-the-annoying-freeze-ups/"><u>Mastering Fallout 76'S Optimization - End the Annoying Freeze-Ups!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723011217314-overcoming-technical-hurdles-in-narakabladepoint-a-comprehensive-solution/"><u>Overcoming Technical Hurdles in Naraka:Bladepoint - A Comprehensive Solution</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-no-sound-glitches-in-lost-ark-helpful-tips-inside/"><u>Resolving No-Sound Glitches in Lost Ark - Helpful Tips Inside</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-why-is-the-mass-effect-legendary-edition-failing-to-start/"><u>Troubleshooting: Why Is the Mass Effect Legendary Edition Failing to Start?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/winning-the-battle-against-hp-security-suite-uninstall-error-1325-on-windows-7-a-comprehensive-solution/"><u>Winning the Battle Against HP Security Suite Uninstall Error 1325 on Windows 7 – A Comprehensive Solution</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-conquering-cloud-storage-with-easy-tv-series-capture-methods-for-2024/"><u>[New] Conquering Cloud Storage with Easy TV Series Capture Methods for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-leading-open-source-20-best-pubg-images-for-2024/"><u>[New] Leading Open Source 20 Best PUBG Images for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-no-downloads-needed-discover-our-list-of-5-best-online-gif-to-video-services/"><u>[Updated] In 2024, No Downloads Needed? Discover Our List of 5 Best Online GIF-to-Video Services</u></a></li>
+<li><a href="https://win-dash.techidaily.com/amazing-discover-these-6-shocking-programs-flawlessly-functioning-with-windows-xp/"><u>Amazing! Discover These 6 Shocking Programs Flawlessly Functioning with Windows XP</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-the-blackout-expert-tips-for-correcting-cyberpunk-2077s-critical-display-issue/"><u>Beat the Blackout: Expert Tips for Correcting Cyberpunk 2077’S Critical Display Issue</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/chroma-key-fundamentals-made-simple-for-newcomers-for-2024/"><u>Chroma Key Fundamentals Made Simple for Newcomers for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/defeat-the-annoying-minecraft-hurdle-clearing-up-the-mystery-of-exit-code-0-error/"><u>Defeat the Annoying Minecraft Hurdle: Clearing Up the Mystery of 'Exit Code 0' Error</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-on-fixing-the-infamous-phoenix-point-sudden-shutdown-issue/"><u>Expert Advice on Fixing the Infamous Phoenix Point Sudden Shutdown Issue</u></a></li>
+<li><a href="https://win-answers.techidaily.com/halo-infinite-stutter-and-shutdowns-on-pc-how-to-ensure-smooth-gameplay/"><u>Halo Infinite Stutter and Shutdowns on PC - How to Ensure Smooth Gameplay</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-thunder-tier-one-from-continuously-failing-on-your-computer/"><u>How to Stop Thunder Tier One From Continuously Failing on Your Computer</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-on-apple-iphone-xs-max-find-the-best-solution-here-by-drfone-ios/"><u>In 2024, Apple ID Locked for Security Reasons On Apple iPhone XS Max? Find the Best Solution Here</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-technology-insights-the-essential-guide-to-hardware-by-tom/"><u>Mastering Technology Insights: The Essential Guide to Hardware by Tom</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/music-video-hunt-how-to-track-down-tunes-and-visuals-unnamed/"><u>Music Video Hunt: How to Track Down Tunes and Visuals Unnamed</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723013308369-sea-of-thieves-stuck-at-start-screen-here-are-the-fixes/"><u>Sea of Thieves Stuck at Start Screen? Here Are the Fixes!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-how-to-fix-lagging-and-low-fps-in-red-dead-redemption-2/"><u>Solved: How to Fix Lagging & Low FPS in Red Dead Redemption 2</u></a></li>
+<li><a href="https://blog-min.techidaily.com/step-by-step-instructions-for-downloading-youtube-content-onto-your-samsung-smartphone/"><u>Step-by-Step Instructions for Downloading YouTube Content Onto Your Samsung Smartphone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723009911833-trouble-starting-pathfinder-wrath-of-the-righteous-heres-how-to-fix-it/"><u>Trouble Starting Pathfinder: Wrath of the Righteous? Here's How to Fix It!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-making-cortana-function-again/"><u>Troubleshooting Tips: Making Cortana Function Again</u></a></li>
 </ul></div>
 

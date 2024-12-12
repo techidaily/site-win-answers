@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] | League of Legends Crashing | Quickly & Easily"
-date: 2024-08-23T13:17:04.231Z
-updated: 2024-08-24T13:17:04.231Z
+date: 2024-12-09T16:14:21.526Z
+updated: 2024-12-12T18:20:44.396Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/f5ca19cfb399293f128bff56ae3fb6cb8b3fe3b13
 
  Are you feeling upset when playing**PLAYERUNKNOWN’S BATTLEGROUNDS (PUBG)** with your friends but the game keeps**stuttering** ? You’re not alone. Many players are reporting this. The good news is you can fix it easily! We’ve put together some fixes to help you resolve the problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes to try
 
  Here’s a list of fixes that have resolved this problem for other PUBG players. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -31,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/f5ca19cfb399293f128bff56ae3fb6cb8b3fe3b13
 6. **[Change the power plan of your PC](https://tools.techidaily.com/drivereasy/download/)**
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Check if your PC meets the minimum hardware requirements
 
@@ -90,8 +98,9 @@ thumbnail: https://thmb.techidaily.com/f5ca19cfb399293f128bff56ae3fb6cb8b3fe3b13
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap380.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -110,21 +119,12 @@ thumbnail: https://thmb.techidaily.com/f5ca19cfb399293f128bff56ae3fb6cb8b3fe3b13
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap382-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2\. In the **ADVANCED SETTINGS** , set the **Overall Quality to the lowest**  and click **APPLY**  to save the settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap389-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  Run the game again to see if the PUBG stuttering issue persists. This this annoying issue remains, try the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ### Fix 6: Change the power plan of your PC
 
  The PUBG stuttering issue is also probably caused by the power plan of your PC. Most PC are configured to**Balanced** , which limits the operating capacity of your graphics card and CPU. So, the stuttering issue may occur. Follow the instructions below to change the power plan of your PC:
@@ -133,31 +133,34 @@ thumbnail: https://thmb.techidaily.com/f5ca19cfb399293f128bff56ae3fb6cb8b3fe3b13
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap384.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
  2\. In the pop-up window, expand **Hide additional plans** and select **High performance** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap385.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3\. Type **advanced** in the search box in the upper-right corner and then click **View advanced system settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap386.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4\. In the pop-up window, click **Settings…**  in the **Performance**  section.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap387-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5\. Select **Adjust for best performance**  and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap388.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Run your PUBG to see if the game will keep stuttering. If not, you’ve fixed this issue.
 
  Hopefully one of the fixes can help you resolve this issue. Please leave your comment below if you have any questions.
@@ -171,8 +174,6 @@ thumbnail: https://thmb.techidaily.com/f5ca19cfb399293f128bff56ae3fb6cb8b3fe3b13
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -180,4 +181,22 @@ thumbnail: https://thmb.techidaily.com/f5ca19cfb399293f128bff56ae3fb6cb8b3fe3b13
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-inspiring-hexa-flying-drones-10-for-2024/"><u>[New] Inspiring Hexa-Flying Drones 10 for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-snapstreak-savvy-guidance-to-prevent-interruptions/"><u>[Updated] In 2024, Snapstreak Savvy Guidance to Prevent Interruptions</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-secret-to-stylish-borders-in-instagram-visuals-for-2024/"><u>[Updated] The Secret to Stylish Borders in Instagram Visuals for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-leveraging-facebook-slides-a-beginners-handbook-for-visual-storytelling/"><u>2024 Approved Leveraging Facebook Slides A Beginner's Handbook for Visual Storytelling</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/decoding-ev-variants-how-bev-phev-fcev-and-hybrid-cars-diverge-in-technology/"><u>Decoding EV Variants: How BEV, PHEV, FCEV and Hybrid Cars Diverge in Technology</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-insightful-reviews-from-vllo-users/"><u>In 2024, Insightful Reviews From VLLO Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-gaming-hurdles-solving-pc-crashes-in-forza-horizon-4-easily/"><u>Overcome Gaming Hurdles: Solving PC Crashes in Forza Horizon 4 Easily</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-game-freezes-in-psychonauts-2-how-to-prevent-your-pc-from-crashing/"><u>Resolving Game Freezes in Psychonauts 2 - How to Prevent Your PC From Crashing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-your-games-endgame-glitches-fixing-the-constant-pc-malfunctions/"><u>Resolving Your Game's Endgame Glitches: Fixing the Constant PC Malfunctions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/smooth-sailing-in-borderlands-3-optimize-gameplay-with-these-pc-fixes-for-ultimate-fps/"><u>Smooth Sailing in Borderlands 3: Optimize Gameplay with These PC Fixes for Ultimate FPS</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-modern-warfare-pc-start-up-difficulties-in-2e24/"><u>Solving Modern Warfare PC Start-Up Difficulties in 2E24</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-the-coredll-is-missing-issue-a-step-by-step-guide/"><u>Solving the 'Core.dll Is Missing' Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-fixing-cod-modern-warfare-3-crashes-gameplay-interrupted/"><u>Troubleshooting Steps for Fixing COD Modern Warfare 3 Crashes - Gameplay Interrupted!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-the-potential-of-ios-16-live-activities-on-your-iphone-for-dynamic-memories/"><u>Unlock the Potential of iOS 16 Live Activities on Your iPhone for Dynamic Memories</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/be-animations-how-to-craft-engaging-professional-looking-gifs-for-2024/"><u>YouTube Animations How To Craft Engaging, Professional-Looking GIFs for 2024</u></a></li>
+</ul></div>
 

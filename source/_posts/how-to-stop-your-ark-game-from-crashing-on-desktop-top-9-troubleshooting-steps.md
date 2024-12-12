@@ -1,7 +1,7 @@
 ---
 title: How to Stop Your ARK Game From Crashing on Desktop – Top 9 Troubleshooting Steps
-date: 2024-11-13T08:59:28.259Z
-updated: 2024-11-17T12:16:27.030Z
+date: 2024-12-07T18:07:41.681Z
+updated: 2024-12-12T18:49:54.962Z
 tags:
   - win11
   - win10
@@ -34,6 +34,10 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -42,6 +46,10 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 2. [Disable overclocking](https://tools.techidaily.com/drivereasy/download/)
 3. [Update your drivers](https://tools.techidaily.com/drivereasy/download/)
 4. [Disable firewall/ antivirus software](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Run as administrator
 
@@ -54,13 +62,6 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 
 If it’s not working, move to next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Disable overclocking
 
  Are you running any OC software like MSI Afterburner? Shut it down. Don’t make your PC overhot is a way to fix the Chivalry 2 crashing problem. Gamers have reported that after underclocked or disable overclocking software, the game stops crashing.
@@ -72,6 +73,10 @@ If it’s not working, move to next fix.
 3. Restart the game and check.
 
 No luck with this one? Move to the next.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your drivers
 
@@ -101,25 +106,20 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Disable firewall/ antivirus software
 
@@ -131,19 +131,6 @@ OR
 2. Click **Settings** \> **Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 3. Select**Windows Security** , in the **Firewall & Network Protection** tab, select **Network Profile** .
-
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Turn settings off in **Microsoft Defender** **Firewall** .
 5. Relaunch the game to see if Chivalry 2 would crash or not.
@@ -171,19 +158,21 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-best-budget-friendly-closer-tutorials-top-6-edition/"><u>[New] The Best Budget-Friendly Closer Tutorials Top 6 Edition</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-faithful-melodies-downloaded-tips-for-personalization/"><u>[Updated] Faithful Melodies Downloaded Tips for Personalization</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-quick-humor-crafting-the-meme-text-genrator-way/"><u>[Updated] Quick Humor Crafting The Meme Text Gen'rator Way</u></a></li>
-<li><a href="https://win-answers.techidaily.com/astro-a50-headset-recognition-problems-fixes-for-astro-command-system-failures/"><u>Astro A50 Headset Recognition Problems: Fixes for Astro Command System Failures</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-oppo-reno-8t-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Oppo Reno 8T 5G | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/cut-down-on-starfields-resource-hogging-behavior-advanced-tweaks-and-settings-adjustments-for-a-better-pc-gaming-experience/"><u>Cut Down on Starfield’s Resource Hogging Behavior: Advanced Tweaks and Settings Adjustments for a Better PC Gaming Experience</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-solutions-to-overcome-frontiers-crash-problems-on-a-computer-system/"><u>Effective Solutions to Overcome Frontier's Crash Problems on a Computer System</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/effortless-ways-to-transfer-data-from-your-apple-iphone-6-plus-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>Effortless Ways to Transfer Data from Your Apple iPhone 6 Plus to iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95935422-9781844093458-footprints-on-the-path-3rd-ed/"><u>Footprints on the Path (3rd ed.) | Free Book</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-nokia-c12-pro-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Nokia C12 Pro Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-tips-for-efficiently-changing-fb-cover-image/"><u>In 2024, Tips for Efficiently Changing FB Cover Image</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722998973631-join-the-pantheon-play-ascendingly-thrilling-god-of-war-fps-on-pc-platforms/"><u>Join the Pantheon: Play Ascendingly Thrilling God of War FPS on PC Platforms!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-solution-to-overcome-xbox-error-0xc0000005-in-call-of-duty-black-ops-cold-war/"><u>Step-by-Step Solution to Overcome Xbox Error 0xC0000005 in Call of Duty: Black Ops Cold War</u></a></li>
-<li><a href="https://win-answers.techidaily.com/stop-adobe-after-effects-from-causing-headaches-expert-fixes-for-windows-11-and-10-users/"><u>Stop Adobe After Effects From Causing Headaches: Expert Fixes for Windows 11 and 10 Users</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-unveiling-youtube-shorts-money-making-mechanisms/"><u>[New] In 2024, Unveiling YouTube Shorts Money-Making Mechanisms</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-direct-download-vs-alternative-store-instagram-reels-efficiently/"><u>[Updated] 2024 Approved Direct Download vs Alternative Store Instagram Reels Efficiently</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-enhanced-avi-player-ultimate-performance-pcmobile-for-2024/"><u>[Updated] Enhanced Avi Player Ultimate Performance PC/Mobile for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-scratch-building-a-lighthearted-image-meme/"><u>[Updated] From Scratch Building a Lighthearted Image Meme</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/banish-blurry-lines-from-your-laptop-screens/"><u>Banish Blurry Lines From Your Laptop Screens</u></a></li>
+<li><a href="https://win-answers.techidaily.com/battlefield-your-simple-2024-fix-for-the-wont-launch-problem/"><u>Battlefield ^: Your Simple 2024 Fix for the Won't Launch Problem</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/hering-how-to-spot-your-video-enthusiasts-for-2024/"><u>Deciphering How to Spot Your Video Enthusiasts for 2024</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/effective-strategies-for-diagnosing-and-fixing-pc-issues-tips-by-yl-technologies/"><u>Effective Strategies for Diagnosing and Fixing PC Issues - Tips by YL Technologies</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-microsoft-edge-browser-crashes-in-windows-10-easily/"><u>How to Fix Microsoft Edge Browser Crashes in Windows 10 Easily</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-chrome-from-crashing-and-locking-up-tips-and-solutions/"><u>How to Stop Chrome From Crashing and Locking Up: Tips & Solutions</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-hot-40i-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Infinix Hot 40i PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-found-overcome-the-launch-hurdle-in-stardew-valley/"><u>Solution Found! Overcome the Launch Hurdle in Stardew Valley</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-and-fixing-fps-hiccups-in-modern-warfare-cuperwiz10-fixed-modern-warfare-2-windows-performance-enhancement-tips/"><u>Troubleshooting and Fixing FPS Hiccups in Modern Warfare Cuperwiz10- [Fixed] 'Modern Warfare 2' - Windows Performance Enhancement Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-latency-problems-enhancing-your-fortnite-experience-on-pc/"><u>Troubleshooting Latency Problems: Enhancing Your Fortnite Experience on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-when-armored-core-vi-wont-boot-up/"><u>Troubleshooting Steps When Armored Core VI Won't Boot Up</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Oppo Reno 11 5G | Dr.fone</u></a></li>
 </ul></div>
 

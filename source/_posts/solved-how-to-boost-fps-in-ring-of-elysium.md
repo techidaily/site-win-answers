@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] How to Boost FPS in Ring of Elysium"
-date: 2024-12-05T18:00:18.754Z
-updated: 2024-12-06T18:29:39.831Z
+date: 2024-12-07T17:00:28.586Z
+updated: 2024-12-12T17:14:53.881Z
 tags:
   - win11
   - win10
@@ -35,6 +35,10 @@ You may not have to try them all. Just choose the one you need.
  **What is FPS?**
  FPS stands for**frames per second** . Basically, it measures how many images a GPU can render and how many images it can display in a second as well. The higher the FPS, the better the graphics and in-game transitions are.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Optimize your in-game settings
 
  Improper game settings can lower your game’s FPS and undermine your gaming performance. In this case, optimizing your in-game settings can help. Here is how to do it:
@@ -45,13 +49,25 @@ You may not have to try them all. Just choose the one you need.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-26.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click the**Quality** tab, and then modify the settings following the screenshot below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-27-1024x558.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Click**Apply** , then relaunch your game.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-28-1024x558.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Update your graphics driver
 
@@ -85,10 +101,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-357.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -96,16 +108,12 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-358.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 3: Change the power option
 
@@ -116,7 +124,7 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-737.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Under **View by,** click **Large icons** .
@@ -127,19 +135,11 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-721.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)** Select **High Performance** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-738.png)
 
  Restart your computer, and then relaunch your game to see if this worked for you.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 4: Configure your graphics settings
 
@@ -162,6 +162,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-37.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Select**Ring of Elysium** , and then click**Add Selected Program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-38.png)
@@ -176,16 +180,12 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-47.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Click**Gaming** , then**Global Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-45.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Modify the settings following the screenshot below.
@@ -221,22 +221,18 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-add-auditory-components-to-premiere-pro-videos/"><u>[New] Add Auditory Components to Premiere Pro Videos</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/nside-the-art-of-youtube-video-earnings-for-2024/"><u>[New] Inside the Art of YouTube Video Earnings for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-add-fun-to-youtube-comments-a-quick-guide-to-emojis/"><u>[Updated] 2024 Approved Add Fun to YouTube Comments A Quick Guide to Emojis</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-navigating-technical-hurdles-for-a-smooth-live-broadcast-experience/"><u>[Updated] In 2024, Navigating Technical Hurdles for a Smooth Live Broadcast Experience</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-best-kid-approved-drones-for-beginning-pilots/"><u>2024 Approved Best Kid-Approved Drones for Beginning Pilots</u></a></li>
-<li><a href="https://win-answers.techidaily.com/a-guide-on-fixing-failed-launches-of-the-witcher-3-wild-hunt/"><u>A Guide on Fixing Failed Launches of The Witcher 3: Wild Hunt</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-tips-for-resolving-playing-difficulties-in-multiversus-on-pc/"><u>Expert Tips for Resolving Playing Difficulties in Multiversus on PC</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/o-seamlessly-upload-youtube-videos-to-facebook-feed/"><u>How to Seamlessly Upload YouTube Videos to Facebook Feed</u></a></li>
-<li><a href="https://win-answers.techidaily.com/instantly-eliminate-steams-crash-concerns-with-these-quick-and-effective-fixes/"><u>Instantly Eliminate Steam's Crash Concerns with These Quick and Effective Fixes!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/operas-plight-unleash-it-from-windows-freeze/"><u>Opera's Plight? Unleash It From Windows Freeze!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/pc-gaming-guide-solving-battlefield-v-warzone-match-detection-problems/"><u>PC Gaming Guide: Solving Battlefield V Warzone Match Detection Problems</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionizing-computers-the-game-changing-intel-ai-processor-with-amazing-perks-for-your-future-laptop-zdnet/"><u>Revolutionizing Computers: The Game-Changing Intel AI Processor with Amazing Perks for Your Future Laptop | ZDNet</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-the-problem-of-last-epoch-failures-in-your-pc-a-step-by-step-guide/"><u>Solving the Problem of Last Epoch Failures in Your PC: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-within.techidaily.com/step-by-step-guide-removing-watermarks-from-your-pdf-documents/"><u>Step-by-Step Guide: Removing Watermarks From Your PDF Documents</u></a></li>
-<li><a href="https://win-answers.techidaily.com/stop-content-warning-from-keeping-you-out-of-your-apps-a-step-by-step-fix-for-pc-users/"><u>Stop 'Content Warning' From Keeping You Out of Your Apps: A Step-by-Step Fix for PC Users</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-common-issues-in-itunes-audio-configurations/"><u>Troubleshooting Common Issues in iTunes Audio Configurations</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-fixes-for-pc-users-eliminating-the-blackout-in-zoom-video-calls-2024-edition/"><u>Ultimate Fixes for PC Users: Eliminating the Blackout in Zoom Video Calls, 2024 Edition</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-efficient-meeting-management-with-slack-and-filmora-tools/"><u>[New] Efficient Meeting Management with Slack & Filmora Tools</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-easy-to-follow-guide-leveraging-mobizen-screensaver/"><u>[New] In 2024, Easy-to-Follow Guide Leveraging Mobizen Screensaver</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-elevate-zoom-sound-a-guide-to-exceptional-quality/"><u>[New] In 2024, Elevate Zoom Sound A Guide to Exceptional Quality</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-transformative-tips-on-crafting-engaging-cover-art/"><u>[New] Transformative Tips on Crafting Engaging Cover Art</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-audiovisual-excellence-youtube-videos-in-premiere-pro/"><u>[Updated] 2024 Approved Audiovisual Excellence YouTube Videos in Premiere Pro</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-top-mac-studio-for-exceptional-video-and-audiophile-recordings/"><u>In 2024, Top Mac Studio for Exceptional Video & Audiophile Recordings</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-startup-problems-with-humankind-expert-advice-for-gamers/"><u>Overcoming Startup Problems with Humankind - Expert Advice for Gamers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-solutions-resolve-chrome-freezing-issues-on-windows-10/"><u>Quick Solutions: Resolve Chrome Freezing Issues on Windows 10</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-critical-dev-errors-in-call-of-duty-modern-warfare-and-warzone/"><u>Resolving Critical Dev Errors in Call of Duty: Modern Warfare and Warzone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/steam-connections-mended-reconnect-with-friends-seamlessly/"><u>Steam Connections Mended: Reconnect with Friends Seamlessly</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/superior-soundtracks-compilation-for-vids-for-2024/"><u>Superior Soundtracks Compilation for Vids for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-resolving-minecraft-launch-issues/"><u>Troubleshooting Guide: Resolving Minecraft Launch Issues</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/your-next-novel-awaits-dive-into-these-top-5-ai-powered-reading-sites/"><u>Your Next Novel Awaits: Dive Into These Top 5 AI-Powered Reading Sites</u></a></li>
 </ul></div>
 

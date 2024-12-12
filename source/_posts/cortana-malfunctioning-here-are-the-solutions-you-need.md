@@ -1,7 +1,7 @@
 ---
 title: Cortana Malfunctioning? Here Are the Solutions You Need!
-date: 2024-12-02T16:33:32.740Z
-updated: 2024-12-06T18:41:12.109Z
+date: 2024-12-07T18:44:27.100Z
+updated: 2024-12-12T16:16:37.564Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/48b04798818f256a08d1adf91e6795699ee9e8d50
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How do I fix Cortana not working?
 
@@ -50,6 +54,10 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e01c52cd.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Region & language.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e40e249d.png)
@@ -59,10 +67,6 @@ Check your region and language settings on your computer:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e71cb793.jpg)
 
 5) Try Cortana again to see if it works.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 3: Make sure your Windows 10 system is up-to-date
 
@@ -76,17 +80,9 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f7b03e67.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Install the available updates.
 
 4) Reboot your Windows 10 PC and try Cortana again to see if it works.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 4: Update your Microphone driver and audio driver
 
@@ -114,14 +110,10 @@ Or click  **Update All** to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb1528c6d59.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Reboot your Windows 10 and try Cortana again to see if it works.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 5: Reset your Cortana
@@ -133,16 +125,24 @@ Or click  **Update All** to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb16d80e39a.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click the button beside **On** in **Hey Cortana** to turn off it. You should then see the **Off**  status.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb177220ba8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the same button again to turn on Cortana. You should the see the **On**  status again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb180855417.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Try Cortana again to see if it works.
 
@@ -164,24 +164,16 @@ Or click  **Update All** to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-essential-audacity-techniques-for-mac-audio-recording/"><u>[New] In 2024, Essential Audacity Techniques for Mac Audio Recording</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-excellence-in-starting-points-for-panzoids/"><u>[New] In 2024, Excellence in Starting Points for Panzoids</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-navigating-your-digital-past-with-fbs-preview-feature/"><u>[New] Navigating Your Digital Past with FB's Preview Feature</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-complete-immersive-camera-review/"><u>[Updated] 2024 Approved Complete Immersive Camera Review</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-seamless-process-of-instagram-video-content/"><u>[Updated] Seamless Process of Instagram Video Content</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-top-picks-for-online-classical-tone-downloads-for-2024/"><u>[Updated] Top Picks for Online Classical Tone Downloads for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-invisible-watch-top-5-stealthy-story-apps/"><u>In 2024, Invisible Watch Top 5 Stealthy Story Apps</u></a></li>
-<li><a href="https://win-answers.techidaily.com/master-tips-successfully-starting-up-your-persona-3-journey-without-glitches/"><u>Master Tips: Successfully Starting Up Your Persona 3 Journey Without Glitches</u></a></li>
-<li><a href="https://win-answers.techidaily.com/maximize-your-cs-2-performance-strategies-to-fix-fps-dips-and-stutters-during-play/"><u>Maximize Your CS 2 Performance: Strategies to Fix FPS Dips & Stutters During Play</u></a></li>
-<li><a href="https://win-answers.techidaily.com/maximize-your-gaming-experience-by-correcting-lag-in-cyberpunk-2077-v-rising/"><u>Maximize Your Gaming Experience by Correcting Lag in Cyberpunk 2077 (V Rising)</u></a></li>
-<li><a href="https://facebook.techidaily.com/messenger-direct-instagram-securement-delayed-till-2022/"><u>Messenger, Direct Instagram Securement Delayed 'Till 2022</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723013190321-optimizing-play-experience-fix-lag-issues-in-forza-horizon-5-now/"><u>Optimizing Play Experience: Fix Lag Issues in Forza Horizon 5 Now</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-overcome-phasmophobias-persistent-90-load-in-game/"><u>Resolved: Overcome Phasmophobia's Persistent 90% Load in Game</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solution-guide-stabilizing-red-dead-redemption-2-performance-and-preventing-pc-shutdowns/"><u>Solution Guide: Stabilizing Red Dead Redemption 2 Performance and Preventing PC Shutdowns</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-the-intrusion-detected-problem-a-guide-for-secure-gaming/"><u>Solving the 'Intrusion Detected' Problem: A Guide for Secure Gaming</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-the-problem-of-a-non-responsive-nvidia-control-panel-a-step-by-step-guide/"><u>Solving the Problem of a Non-Responsive Nvidia Control Panel: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-tutorial-to-solve-constant-palworld-breakdowns-on-personal-computers/"><u>Step-by-Step Tutorial to Solve Constant Palworld Breakdowns on Personal Computers</u></a></li>
-<li><a href="https://windows11.techidaily.com/strike-balance-not-conflict-choose-one-antivirus-on-your-windows-pc/"><u>Strike Balance, Not Conflict: Choose One Antivirus on Your Windows PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-and-fixing-your-football-manager-2020-stability-problems/"><u>Troubleshooting and Fixing Your Football Manager 2020 Stability Problems</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-channel-success-strategy-standard-studio-or-beta-edge/"><u>[New] In 2024, Channel Success Strategy Standard Studio or Beta Edge</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-avoiding-shaky-drone-imagery-with-top-tier-gimbals/"><u>[Updated] 2024 Approved Avoiding Shaky Drone Imagery with Top-Tier Gimbals</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-bringing-still-images-to-life-a-step-by-step-guide-for-slow-motion-videos-with-photos/"><u>2024 Approved Bringing Still Images to Life A Step-by-Step Guide for Slow-Motion Videos with Photos</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-proven-techniques-to-store-your-mov-videos-on-windows-10/"><u>2024 Approved Proven Techniques to Store Your .mov Videos on Windows 10</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-your-fortnite-pc-crashes-expert-solutions-and-tips/"><u>Fix Your Fortnite PC Crashes : Expert Solutions & Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-and-solutions-how-to-stop-lost-ark-from-crashing-on-your-computer/"><u>Fixes and Solutions: How To Stop 'Lost Ark' From Crashing on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-to-regaining-access-after-losing-connection-with-a-blizzard-game-server/"><u>Guide to Regaining Access After Losing Connection with a Blizzard Game Server</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-successfully-play-days-gone-on-your-pc-common-problems-and-fixes/"><u>How To Successfully Play Days Gone on Your PC - Common Problems and Fixes</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-gionee-f3-pro-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Gionee F3 Pro without App | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-playstation-pixelation-resolving-resident-evil-villages-pc-display-issues/"><u>Overcome PlayStation Pixelation: Resolving Resident Evil Village's PC Display Issues</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/sd-speicher-datenwiedergewinnung-loschte-inhalte-wiederbeleben/"><u>SD-Speicher Datenwiedergewinnung: Löschte Inhalte Wiederbeleben</u></a></li>
 </ul></div>
 

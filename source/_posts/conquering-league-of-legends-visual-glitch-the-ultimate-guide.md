@@ -1,7 +1,7 @@
 ---
 title: "Conquering League of Legends Visual Glitch: The Ultimate Guide"
-date: 2024-08-23T13:17:35.278Z
-updated: 2024-08-24T13:17:35.278Z
+date: 2024-12-10T16:53:41.556Z
+updated: 2024-12-12T19:02:29.846Z
 tags:
   - win11
   - win10
@@ -88,9 +88,6 @@ thumbnail: https://thmb.techidaily.com/1c03d365cac6fcf7e3665fd76e7449b8b7d6ebbb0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-84.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -107,6 +104,10 @@ thumbnail: https://thmb.techidaily.com/1c03d365cac6fcf7e3665fd76e7449b8b7d6ebbb0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Wait until Windows downloaded and installed all the updates.
 
 4) Restart Windows and run League of Legends again.
@@ -114,8 +115,9 @@ thumbnail: https://thmb.techidaily.com/1c03d365cac6fcf7e3665fd76e7449b8b7d6ebbb0
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Repair corrupted game files
 
  Corrupted game files are another important factor that may cause the game crashing issues. Try initiating full repair to see if you can fix this issue. Here is how to do it:
@@ -130,18 +132,20 @@ thumbnail: https://thmb.techidaily.com/1c03d365cac6fcf7e3665fd76e7449b8b7d6ebbb0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
  4) Click**Yes** to continue. This may take a while.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Enable low spec mode
 
  If your PC fails to meet the recommended system requirements for League of Legends, but you still run it with the high spec graphics settings, the crashes may occur.
@@ -154,16 +158,14 @@ thumbnail: https://thmb.techidaily.com/1c03d365cac6fcf7e3665fd76e7449b8b7d6ebbb0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Run League of Legends to see if you resolved this issue.
 
  Hopefully, you find this post helpful! As always, if you have any other solutions to fix League of Legends crashes, or if you have any questions or suggestions on this issue, you’re more than welcome to leave us a comment below.
@@ -177,8 +179,6 @@ Run League of Legends to see if you resolved this issue.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -186,4 +186,26 @@ Run League of Legends to see if you resolved this issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-excellent-video-capture-tools-android-edition-five-picks/"><u>[New] 2024 Approved Excellent Video Capture Tools Android Edition - Five Picks</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-heightened-aesthetics-editing-high-resolution-footage-in-fcpx-for-instagram/"><u>[New] Heightened Aesthetics Editing High-Resolution Footage in FCPX for Instagram</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-superior-hd-video-capturing-choosing-premium-recorder-models/"><u>[New] Superior HD Video Capturing Choosing Premium Recorder Models</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-prime-tools-for-pro-video-creation-on-android-windows/"><u>[Updated] 2024 Approved Prime Tools for Pro Video Creation on Android, Windows</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/12-gadget-transforms-unused-ssds-into-functional-external-drives-insights-from-a-zdnet-review/"><u>$12 Gadget Transforms Unused SSDs Into Functional External Drives: Insights From a ZDNet Review</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-how-much-do-you-really-make-as-a-podcaster/"><u>2024 Approved How Much Do You Really Make as a Podcaster?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-the-bug-fixing-persistent-scavengers-pc-game-crashes-effectively/"><u>Beat the Bug: Fixing Persistent Scavengers PC Game Crashes Effectively</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bypassing-the-infamous-directx-error-on-modern-warfare-2-complete-fix-tutorial/"><u>Bypassing the Infamous 'DirectX Error' On Modern Warfare 2 – Complete Fix Tutorial</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-file-management-windows-11-guide/"><u>Enhancing File Management: Windows 11 Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-forza-horizon-5-update-graphics-driver/"><u>Fix Forza Horizon 5 Update Graphics Driver</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-ensure-uninterrupted-gaming-resolving-pc-issues-with-hitman-3-tips-for-the-new-year/"><u>How to Ensure Uninterrupted Gaming: Resolving PC Issues with Hitman 3 - Tips for the New Year</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-fix-for-optimal-gameplay-of-yakuza-6-the-song-of-life-on-computers/"><u>Step-by-Step Fix for Optimal Gameplay of Yakuza 6: The Song of Life on Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-overcoming-common-minecraft-opengl-errors/"><u>Step-by-Step Solutions: Overcoming Common Minecraft OpenGL Errors</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-cod-modern-warfare-3-app-crashes-resolved/"><u>Troubleshooting Cod: Modern Warfare 3 App Crashes Resolved!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-solving-new-world-server-lags-and-connectivity-problems/"><u>Troubleshooting Steps for Solving New World Server Lags & Connectivity Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-how-to-overcome-the-3-0x0001000b-glitch-in-rainbow-six-siege/"><u>Troubleshooting: How to Overcome the 3-0X0001000B Glitch in Rainbow Six Siege</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-why-steam-vr-might-remain-undetected-and-how-to-fix-it/"><u>Troubleshooting: Why Steam VR Might Remain Undetected & How To Fix It</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/sh-creativity-top-free-video-opener-tools-for-2024/"><u>Unleash Creativity Top Free Video Opener Tools for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/unveiling-the-top-five-gba-emulators-compatible-with-windows-pcs-for-2024/"><u>Unveiling the Top Five GBA Emulators Compatible with Windows PCs for 2024</u></a></li>
+</ul></div>
 
