@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Fortnite's Sudden PC Malfunctions - Expert Solutions
-date: 2024-08-19T02:05:01.560Z
-updated: 2024-08-20T02:05:01.560Z
+date: 2024-12-15T20:41:30.822Z
+updated: 2024-12-22T00:25:09.617Z
 tags:
   - win11
   - win10
@@ -44,8 +44,9 @@ It’s annoying when you can’t connect to the EA server or receive the error m
 If it’s not the server, please move to the next method.
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 2: Change DNS to Google
 
  Google is one of the free and public DNS servers. Some players find the connection issue could be solved by swapping their DNS to Google.  
@@ -60,25 +61,23 @@ If it’s not the server, please move to the next method.
 2. Set Control Panel**View by Category** , then click**Network and Internet** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-03-08.jpg)
 3. Click**Network and Sharing Center >** **Change adapter settings** .  
+
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-03-28.jpg)
 4. Select the connection you want to configure Google Public DNS, right-click it, and select**Properties** .
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 5. Select the**Networking** tab, select**Internet Protocol Version 4 (TCP/IPv4)** under This connection uses the following items. Click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-42-06.jpg)
 6. Click Use the following DNS server addresses and enter the Google DNS server address.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-41-46.jpg)
 7. Click**OK** to save the change.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 8. Reboot the game and check.
 
 ### Method 3: Run as administrator
@@ -90,11 +89,16 @@ Some players suggest Run as administrator could fix this issue.
 3. Click**Apply > OK** to save changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_18-35-04.jpg)
 4. Reboot the game and check.
+
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If this method doesn’t help, please move to the next one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 4: Update your drivers
 
@@ -153,8 +157,6 @@ If this method doesn’t help, please move to the next one.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -162,4 +164,22 @@ If this method doesn’t help, please move to the next one.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-enhancing-digital-art-with-layered-imagery/"><u>[New] In 2024, Enhancing Digital Art with Layered Imagery</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-framework-for-seamless-video-storytelling/"><u>[Updated] The Framework for Seamless Video Storytelling</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-enhance-snapchat-media-with-smart-zooming-hacks/"><u>2024 Approved Enhance Snapchat Media with Smart Zooming Hacks</u></a></li>
+<li><a href="https://blog-min.techidaily.com/beyond-conversations-explore-8-innovative-applications-for-chatgpt/"><u>Beyond Conversations: Explore 8 Innovative Applications for ChatGPT</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-guide-preventing-persistent-breakdowns-in-the-latest-formula-1-racing-title-on-desktop-systems/"><u>Expert Guide: Preventing Persistent Breakdowns in the Latest Formula 1 Racing Title on Desktop Systems</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/extended-scope-camera-platforms-for-2024/"><u>Extended Scope Camera Platforms for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-found-detroit-the-human-experience-stabilizes-on-windows-pc/"><u>Fixes Found: Detroit - The Human Experience Stabilizes on Windows PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guilty-gear-strive-update-tackling-and-resolving-performance-lags-successfully/"><u>Guilty Gear Strive Update: Tackling & Resolving Performance Lags Successfully</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-your-computer-from-freezing-in-counter-strike-2-cs2-latest-troubleshooting-tips/"><u>How to Stop Your Computer From Freezing in Counter-Strike 2 (CS2) - Latest Troubleshooting Tips</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-essential-guide-to-saving-tv-broadcasts-online/"><u>In 2024, Essential Guide to Saving TV Broadcasts Online</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Vivo T2 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-overcome-the-star-wars-battlefront-iis-persistent-black-screen-issue/"><u>Resolved: Overcome the Star Wars Battlefront II's Persistent Black Screen Issue</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/save-big-during-october-prime-day-2024-best-amazon-deals-you-cant-miss-still-in-stock-zdnet-insights/"><u>Save Big During October Prime Day 2024: Best Amazon Deals You Can't Miss - Still In-Stock | ZDNET Insights</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723002770042-terraria-crash-troubles-here-are-the-best-solutions-for-smooth-gaming-this-year/"><u>Terraria Crash Troubles? Here Are the Best Solutions for Smooth Gaming This Year</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-10-essential-cybersecurity-practices-recommended-by-it-professionals/"><u>Top 10 Essential Cybersecurity Practices Recommended by IT Professionals</u></a></li>
+</ul></div>
 

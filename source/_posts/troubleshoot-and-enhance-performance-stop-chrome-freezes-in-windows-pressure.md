@@ -1,7 +1,7 @@
 ---
 title: "Troubleshoot and Enhance Performance: Stop Chrome Freezes in Windows Pressure"
-date: 2024-12-18T21:11:52.289Z
-updated: 2024-12-20T19:16:46.740Z
+date: 2024-12-15T01:29:39.417Z
+updated: 2024-12-21T18:31:56.443Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ Half Life: Alyx is no doubt the best VR game in 2020\. While the game is amazing
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down until you find the one that helps.
@@ -38,7 +34,7 @@ Half Life: Alyx is no doubt the best VR game in 2020\. While the game is amazing
 6. **[Set additional launch options](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Make sure your specs meet the requirements
@@ -55,10 +51,6 @@ Half Life: Alyx is no doubt the best VR game in 2020\. While the game is amazing
 
  If your specs are more than capable for the game, simply continue to the next fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Change your power plan
 
  Power plan is a scheme that manages the way your PC consumes energy. The recent Windows build introduces a new power plan called Ultimate Performance, which provides a certain level of performance boost. You can start from here when troubleshooting stuttering issues.
@@ -72,11 +64,15 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-ultimate-performance.jpg)
 3. On your keyboard, press Win (the Windows logo key) and type **cmd** . Select **Run as Administrator** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
 4. In the command prompt, type or paste the following command and press **Enter** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61  
@@ -84,7 +80,7 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After changing your power plan, launch Half Life: Alyx and test the gameplay.
@@ -101,10 +97,6 @@ After disabling all the overlays, check if Half Life: Alyx lags again.
 
  If this fix doesn’t help you, simply move on to the next one below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4: Update your graphics driver
 
  In most cases, the lag and stuttering simply means you’re using**a** **faulty or outdated graphics driver** . Manufacturers keep updating their drivers so as to deliver the best possible performance. If the last time you updated your drivers feels like ages ago, definitely do it now as it might save your day.
@@ -118,6 +110,10 @@ After disabling all the overlays, check if Half Life: Alyx lags again.
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2060-super-update.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -138,12 +134,12 @@ Here’s how you can check for updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
@@ -163,6 +159,10 @@ To do so, follow these steps:
 2. Right click**Half Life: Alyx** and select**Properties…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/half-life-launch-options-1.jpg)
 3. Under the LAUNCH OPTIONS section, click the input area and type or paste the code below. Then close the window to save the changes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 -novid -console -vconsole +vr_fidelity_level_auto 0 +vr_fidelity_level 3 +vr_render_scale 1.0  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/half-life-launch-options-2.jpg)
@@ -186,18 +186,19 @@ To do so, follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-optimize-your-presence-mastering-snapchat-business-use/"><u>[New] Optimize Your Presence Mastering Snapchat Business Use</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-distilling-essential-versions-from-microsofts-movie-maker/"><u>[Updated] 2024 Approved Distilling Essential Versions From Microsoft's Movie Maker</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-unlock-facebook-ad-success-with-these-3-adapted-writing-techniques/"><u>[Updated] 2024 Approved Unlock Facebook Ad Success with These 3 Adapted Writing Techniques</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-effortless-iphone-screen-recording-techniques-unveiled-for-2024/"><u>[Updated] Effortless iPhone Screen Recording Techniques Unveiled for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-advice-overcoming-the-hurdle-of-stubborn-steam-games-not-opening-in-windows-10/"><u>Expert Advice: Overcoming the Hurdle of Stubborn Steam Games Not Opening in Windows 10</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-stop-forza-horizon-4-from-crashing-on-a-windows-pc-expert-tips-and-tricks/"><u>How to Stop Forza Horizon 4 From Crashing on a Windows PC - Expert Tips & Tricks</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-high-speed-video-snapshots-avoid-technical-hurdles/"><u>In 2024, High-Speed Video Snapshots - Avoid Technical Hurdles</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/master-list-of-premier-game-broadcasting-apps-for-2024/"><u>Master List of Premier Game Broadcasting Apps for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ps4-troubleshooting-expert-tips-to-overcome-system-freezing-issues/"><u>PS4 Troubleshooting: Expert Tips to Overcome System Freezing Issues</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-solutions-resolve-your-winwordexe-crashing-issues/"><u>Quick Solutions: Resolve Your Winword.exe Crashing Issues</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-solutions-to-stop-ring-of-elysium-from-crashing/"><u>Step-by-Step Solutions to Stop Ring of Elysium From Crashing</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-remarkable-difference-of-using-ios-18-on-an-iphone-14-for-content-creation-a-deep-dive/"><u>The Remarkable Difference of Using iOS 18 on an iPhone 14 for Content Creation - A Deep Dive</u></a></li>
-<li><a href="https://win-answers.techidaily.com/unstick-your-sea-of-thieves-game-from-the-loading-phase-expert-advice-and-tips/"><u>Unstick Your Sea of Thieves Game From the Loading Phase: Expert Advice and Tips</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/1728483616822-windows-11/"><u>两种高效的安全措施：在Windows 11中加密文件夹</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/advanced-mac-skills-perfecting-srt-file-management/"><u>Advanced Mac Skills Perfecting SRT File Management</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guidelines-for-glowing-cursors-on-your-computer-screen/"><u>Guidelines for Glowing Cursors on Your Computer Screen</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-mend-the-missing-link-top-9-ways-to-reconnect-bluetooth-in-win-11/"><u>How to Mend the Missing Link: Top 9 Ways to Reconnect Bluetooth in Win 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stabilize-and-repair-phoenix-point-performance-glitches/"><u>How to Stabilize and Repair Phoenix Point Performance Glitches</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-mordhau-from-crashing-on-your-pc-or-console/"><u>How to Stop Mordhau From Crashing on Your PC or Console</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-digital-domain-your-playground-for-1000-titles/"><u>In 2024, Digital Domain Your Playground for 1,000 Titles</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-fancy-filter-fest-snapping-with-snapchats-colorful-cartoons/"><u>In 2024, The Fancy Filter Fest Snapping with Snapchat's Colorful Cartoons</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-microsoft-quick-fixes-for-a-broken-start-menu-on-windows-11/"><u>Mastering Microsoft: Quick Fixes for a Broken Start Menu on Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/repair-steps-for-when-your-web-browser-fails-ie-edition/"><u>Repair Steps for When Your Web Browser Fails - IE Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revamp-your-workspace-animated-and-engaging-backdrops-for-windows-11/"><u>Revamp Your Workspace: Animated and Engaging Backdrops for Windows 11</u></a></li>
+<li><a href="https://techidaily.com/solved-bad-and-corrupt-videos-that-wont-play-on-nokia-c110-by-stellar-video-repair-mobile-video-repair/"><u>Solved Bad and Corrupt Videos that won't Play on Nokia C110</u></a></li>
+<li><a href="https://win-answers.techidaily.com/speeding-up-utorrent-effective-strategies-to-improve-transfer-rates/"><u>Speeding Up uTorrent: Effective Strategies to Improve Transfer Rates</u></a></li>
+<li><a href="https://win-answers.techidaily.com/success-story-fixing-the-graphics-driver-errors-on-your-oculus-device/"><u>Success Story - Fixing The Graphics Driver Errors On Your Oculus Device</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unlock the Secrets to Successfully Running 'Last Epoch' On Your PC - Latest Fixes & Updates!
-date: 2024-12-14T18:54:27.377Z
-updated: 2024-12-20T17:01:09.324Z
+date: 2024-12-15T02:08:26.581Z
+updated: 2024-12-22T00:09:33.853Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/dc8c23798056f26fbb4ba042d36186a35f13e6ccd
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes…
 
@@ -73,6 +69,10 @@ thumbnail: https://thmb.techidaily.com/dc8c23798056f26fbb4ba042d36186a35f13e6ccd
 
  If you’re still getting a high ping and game seems laggy, try the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 4: Update network driver
 
  An outdated or faulty network driver may cause connection problems. For example, it could affect the stability of game performance and therefore you may experience extreme lags. It’s important to make sure your network driver is up-to-date and functioning properly. If not, you would need to install the latest version.
@@ -87,10 +87,6 @@ thumbnail: https://thmb.techidaily.com/dc8c23798056f26fbb4ba042d36186a35f13e6ccd
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to the flagged network driver to automatically download the correct version of the drivers, then you can manually install them (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. For example, you can update both your graphics driver and network driver with just one click. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
@@ -100,6 +96,10 @@ thumbnail: https://thmb.techidaily.com/dc8c23798056f26fbb4ba042d36186a35f13e6ccd
 
  Restart your PC for the new drivers to take effect. Launch Back 4 Blood to see if the problem persists. If your ping is still high and experiences lags in game, no worries, there’s one more fix you can try.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 5: Check your DNS settings
 
  Crowded or broken DNS cache could cause random connection issues. To solve the high ping problem and fix the lag spikes in Back 4 Blood, there are two things you can do:
@@ -107,10 +107,6 @@ thumbnail: https://thmb.techidaily.com/dc8c23798056f26fbb4ba042d36186a35f13e6ccd
 [1: Flush your DNS](https://tools.techidaily.com/drivereasy/download/)
 
 [2: Switch to a public DNS server](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1: Flush your DNS
 
@@ -125,18 +121,10 @@ thumbnail: https://thmb.techidaily.com/dc8c23798056f26fbb4ba042d36186a35f13e6ccd
 4. Your DNS cache is successfully cleared.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2: Switch to a public DNS server
 
@@ -147,7 +135,7 @@ thumbnail: https://thmb.techidaily.com/dc8c23798056f26fbb4ba042d36186a35f13e6ccd
 2. Click **Change adapter options** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
@@ -159,10 +147,22 @@ thumbnail: https://thmb.techidaily.com/dc8c23798056f26fbb4ba042d36186a35f13e6ccd
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select **Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click **OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus tip: try with a VPN
 
@@ -196,20 +196,22 @@ thumbnail: https://thmb.techidaily.com/dc8c23798056f26fbb4ba042d36186a35f13e6ccd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-cutting-edge-techniques-for-exceptional-podcast-recordings-via-zoom/"><u>[New] In 2024, Cutting Edge Techniques for Exceptional Podcast Recordings via Zoom</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-exploring-unconventional-webcam-applications/"><u>[New] In 2024, Exploring Unconventional Webcam Applications</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-the-ultimate-method-for-recorded-instagram-stories/"><u>[Updated] The Ultimate Method for Recorded Instagram Stories</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/conversion-gratuite-de-fichiers-gsm-a-mp3-en-ligne-avec-movavi/"><u>Conversion Gratuite De Fichiers Gsm À Mp3 en Ligne Avec Movavi</u></a></li>
-<li><a href="https://win-answers.techidaily.com/cyberpunk-2077-how-to-reduce-excessive-cpu-consumption/"><u>Cyberpunk 2077: How to Reduce Excessive CPU Consumption</u></a></li>
-<li><a href="https://win-answers.techidaily.com/dealing-with-inadequate-memory-in-god-of-war-effective-troubleshooting-techniques/"><u>Dealing with 'Inadequate Memory' In God of War: Effective Troubleshooting Techniques</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-tips-for-resolving-rusts-infamous-display-error-effectively/"><u>Expert Tips for Resolving Rust's Infamous Display Error Effectively</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/finding-and-accessing-the-windows-control-panel-quickly-and-easily-tips-from-yl-software-experts/"><u>Finding and Accessing the Windows Control Panel Quickly & Easily – Tips From YL Software Experts</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-mastering-mac-snipers-top-5-recommended-tools/"><u>In 2024, Mastering Mac Snipers Top 5 Recommended Tools</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-constant-disruptions-solutions-for-beat-saber-crashes/"><u>Resolving Constant Disruptions - Solutions for Beat Saber Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-geforce-experience-errors-how-to-keep-your-graphics-driver-up-and-running/"><u>Resolving GeForce Experience Errors: How to Keep Your Graphics Driver Up & Running</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-the-black-screen-issue-in-persona-5-strikers/"><u>Resolving the 'Black Screen' Issue in Persona 5 Strikers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/smooth-gaming-experience-correcting-the-rocket-league-freezing-errors/"><u>Smooth Gaming Experience: Correcting the Rocket League Freezing Errors</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-oppo-reno-11-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Oppo Reno 11 5G with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/the-ultimate-guide-to-video-excellence-and-staff-picks-at-vimeo/"><u>The Ultimate Guide to Video Excellence & Staff Picks at Vimeo</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-how-to-make-slow-motion-videos-for-instagram/"><u>[New] How to Make Slow Motion Videos for Instagram</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-ultimate-podcast-broadcast-simplifier/"><u>[New] Ultimate Podcast Broadcast Simplifier</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-ideal-portals-to-rewind-at-your-computer-ps3-edition/"><u>[Updated] 2024 Approved Ideal Portals to Rewind at Your Computer (PS3 Edition)</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-your-handy-hint-downloading-youtube-videos-to-your-apple-device/"><u>[Updated] Your Handy Hint Downloading YouTube Videos to Your Apple Device</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-ignite-views-effective-strategies-for-optimizing-youtube-collaborations/"><u>2024 Approved Ignite Views Effective Strategies for Optimizing YouTube Collaborations</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cod-wwii-the-forgotten-map-pacific-crash-site-unveiled/"><u>COD: WWII - The Forgotten Map, Pacific Crash Site Unveiled</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-your-game-top-6-fast-tips-for-boosting-elvenrings-frame-rate/"><u>Fix Your Game: Top 6 Fast Tips for Boosting Elvenring's Frame Rate</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-for-civ6-game-crash-problem-expert-solutions-and-troubleshooting-tips/"><u>Fixes For Civ6 Game Crash Problem: Expert Solutions & Troubleshooting Tips</u></a></li>
+<li><a href="https://techtrends.techidaily.com/future-of-driving-top-4-manufacturers-dominating-driverless-cars/"><u>Future of Driving: Top 4 Manufacturers Dominating Driverless Cars</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-freezing-glitches-on-your-pc-while-playing-assassins-creed-odyssey-tips-for-2024/"><u>How to Fix Freezing Glitches on Your PC While Playing Assassin’s Creed Odyssey - Tips for 202#4!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exploration-of-distinct-video-camera-kinds/"><u>In 2024, Exploration of Distinct Video Camera Kinds</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-the-battlefield-without-interruptions-solve-total-war-warhammer-iiis-crashes/"><u>Master the Battlefield Without Interruptions: Solve TOTAL WAR: WARHAMMER III's Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-the-content-file-locked-error-on-steam-platform/"><u>Overcoming the 'Content File Locked' Error on Steam Platform</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pathway-to-prosperity-navigating-like-a-dragon-for-perpetual-earnings-on-your-computer/"><u>Pathway to Prosperity: Navigating 'Like a Dragon' For Perpetual Earnings on Your Computer</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/selecting-the-supreme-top-5-4k-tvs-for-vivid-hues-for-2024/"><u>Selecting the Supreme Top 5 4K TVs for Vivid Hues for 2024</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/troubleshooting-non-responsive-desktops-insights-by-yl-software-professionals/"><u>Troubleshooting Non-Responsive Desktops: Insights by YL Software Professionals</u></a></li>
+<li><a href="https://win-answers.techidaily.com/understanding-and-fixing-the-root-causes-of-elex-ii-crashes-on-desktops-and-laptops/"><u>Understanding and Fixing the Root Causes of Elex II Crashes on Desktops and Laptops</u></a></li>
 </ul></div>
 

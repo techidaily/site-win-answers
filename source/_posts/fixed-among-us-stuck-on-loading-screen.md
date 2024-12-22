@@ -1,7 +1,7 @@
 ---
 title: "[Fixed] Among Us Stuck on Loading Screen"
-date: 2024-12-16T19:15:17.882Z
-updated: 2024-12-20T21:18:59.797Z
+date: 2024-12-14T17:59:01.970Z
+updated: 2024-12-21T23:14:26.707Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/bcabaab591bfcab705d7b78fa9328071af132a2f5
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here are 5 fixes that have helped other Fortnite PC players get Fortnite working again. You may not have to try them all; just work your way down the list until you find one that works for you.
@@ -38,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/bcabaab591bfcab705d7b78fa9328071af132a2f5
 4. [**Run Fortnite as administrator**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Check for account issues**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: If you use a Nvidia graphics card, close all Nvidia programs in Task Manager
 
  If you use a Nvidia graphics card and Fortnite gets stuck on the loading screen, some Nvidia programs running in the background may be causing the problem. A quick fix for it is to open up your Task Manger and close all Nvidia-related programs.
@@ -50,11 +50,19 @@ thumbnail: https://thmb.techidaily.com/bcabaab591bfcab705d7b78fa9328071af132a2f5
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bea7fe50b1fe.jpg)
 2. Scroll through and end each**NVIDIA** task.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Note: 1-3 may relaunch themselves, which is perfectly normal and fine. You’re basically restarting those programs.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bea4de7be1a0.jpg)
 3. Relaunch Fortnite and see if your Fortnite not loading problem is resolved. If not, try Fix 2, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: If you use Geforce Experience, turn off the share in-game overlay
 
@@ -64,18 +72,14 @@ thumbnail: https://thmb.techidaily.com/bcabaab591bfcab705d7b78fa9328071af132a2f5
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bea6be4696a8.png)
 2. From the**GENERAL** panel,**toggle off** the**SHARE** feature.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bea6c4a17b8a.jpg)
 3. Run Fortnite and test if it loads properly. If not, try Fix 3, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics card driver
 
@@ -99,11 +103,11 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bea4d0c0cbac.jpg)
 4. Restart your computer and check if Fortnite now runs properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Fix 4, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Run Fortnite as administrator
 
@@ -113,10 +117,6 @@ OR
 2. Right-click the Epic Games Launcher icon, and select**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bea7ba318699.jpg)
 3. Click**Yes** if prompted by User Account Control for confirmation.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Test if the problem is resolved. If not, try the next fix.
 
@@ -155,22 +155,16 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-free-top-12-best-idle-games-you-can-try-on-pc/"><u>[New] FREE Top 12 Best Idle Games You Can Try on PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solved-satisfactory-fps-drops/"><u>[Solved] Satisfactory FPS Drops</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-unleash-creativity-turning-gifs-into-charming-stickers-for-discord-whatsapp-and-telegram/"><u>[Updated] Unleash Creativity Turning GIFs Into Charming Stickers for Discord, WhatsApp & Telegram</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-your-ipad-as-a-creative-tool-for-time-lapse/"><u>2024 Approved Your iPad as a Creative Tool for Time Lapse</u></a></li>
-<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-oppo-find-x6-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Oppo Find X6 Isnt Compatible | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/diagnosis-and-repair-tips-for-grand-theft-auto-online-malfunctions/"><u>Diagnosis & Repair Tips for Grand Theft Auto Online Malfunctions</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/does-itools-virtual-location-not-work-on-apple-iphone-xripad-drfone-by-drfone-virtual-ios/"><u>Does iTools virtual location not work On Apple iPhone XR/iPad? | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/exploring-the-expense-of-youtube-channel-growth/"><u>Exploring the Expense of YouTube Channel Growth</u></a></li>
-<li><a href="https://win-answers.techidaily.com/forza-horizon-5-stability-issues-heres-how-to-stop-it-from-freezing/"><u>Forza Horizon 5 Stability Issues? Here's How to Stop It From Freezing!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-address-missing-textures-in-the-popular-battle-royale-warzone/"><u>How to Address Missing Textures in the Popular Battle Royale: Warzone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722992717217-how-to-enjoy-the-classic-gaming-experience-with-la-noire-for-pc-now-available/"><u>How to Enjoy the Classic Gaming Experience with L.A. Noire for PC – Now Available</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-vivo-y100a-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Vivo Y100A to New Android? | Dr.fone</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/monthly-earnings-from-youtube-for-creators/"><u>Monthly Earnings From YouTube for Creators</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-fixing-startup-failures-for-starfield-on-steam-and-xbox/"><u>Step-by-Step Guide: Fixing Startup Failures for Starfield on Steam and Xbox</u></a></li>
-<li><a href="https://win-answers.techidaily.com/tamper-proof-strategies-to-overcome-cod-warzone-error-6328-updates/"><u>Tamper-Proof Strategies to Overcome COD Warzone Error 6328 Updates</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-unstick-your-discord-stream-for-smooth-viewing/"><u>Troubleshooting Guide: Unstick Your Discord Stream for Smooth Viewing</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/uniting-the-best-codegpt-with-visual-studio-code-experience/"><u>Uniting the Best: CodeGPT with Visual Studio Code Experience</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-ultimate-guide-to-share-your-igtv-story-with-ease/"><u>[New] In 2024, Ultimate Guide to Share Your IGTV Story with Ease</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-top-8-free-online-havens-for-3d-text-psdfiles/"><u>[Updated] Top 8 FREE Online Havens for 3D Text PSDFiles</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-google-pixel-8-pro-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Google Pixel 8 Pro to Roku | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/a-comprehensive-review-of-rayman-legends-a-stellar-example-of-classic-2d-gameplay-reinvented/"><u>A Comprehensive Review of Rayman Legends: A Stellar Example of Classic 2D Gameplay Reinvented</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-solutions-to-stop-paladins-from-crashing-comprehensive-guide/"><u>Effective Solutions to Stop Paladins From Crashing - Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/eliminate-dreamlight-valley-freezing-problems-on-pc-using-our-top-customer-what-is-the-product-of-58-and-its-reciprocal/"><u>Eliminate Dreamlight Valley Freezing Problems on PC Using Our Top [Customer]: What Is the Product of $5/8$ and Its Reciprocal?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Oppo K11 5G | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-gaming-dilemma-understanding-the-impact-of-doubled-fps-reduction/"><u>PC Gaming Dilemma: Understanding the Impact of Doubled FPS Reduction</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-12-prominent-vivo-v27-pro-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Vivo V27 Pro Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-and-fixing-stuttering-problems-in-mass-effect-legendary-collection/"><u>Troubleshooting & Fixing Stuttering Problems In Mass Effect Legendary Collection</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-to-prevent-dead-by-daylight-from-crashing/"><u>Ultimate Guide to Prevent Dead By Daylight From Crashing</u></a></li>
 </ul></div>
 

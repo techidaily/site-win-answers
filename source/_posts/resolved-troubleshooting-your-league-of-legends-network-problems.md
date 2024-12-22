@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Troubleshooting Your League of Legends Network Problems"
-date: 2024-08-19T02:05:57.670Z
-updated: 2024-08-20T02:05:57.670Z
+date: 2024-12-20T23:36:00.321Z
+updated: 2024-12-21T22:21:35.774Z
 tags:
   - win11
   - win10
@@ -82,9 +82,6 @@ thumbnail: https://thmb.techidaily.com/cdd7fc426e2ad9d45bb7ca050714efc7a5191159c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee.
@@ -96,8 +93,9 @@ thumbnail: https://thmb.techidaily.com/cdd7fc426e2ad9d45bb7ca050714efc7a5191159c
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Install the latest Windows Updates
 
  One of the the dependencies of League of Legends is**DotNet Framework 3.5** . By installing the latest Windows Updates, you can also update DotNet Framework 3.5 to the latest version. If you’re using Windows 10, you can follow the steps below to perform Windows Update:
@@ -106,18 +104,27 @@ thumbnail: https://thmb.techidaily.com/cdd7fc426e2ad9d45bb7ca050714efc7a5191159c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-62-1024x796.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3) Wait until Windows downloaded and installed all the updates.
 
 4) Restart Windows and run League of Legends again.
 
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted game files
 
@@ -129,23 +136,18 @@ thumbnail: https://thmb.techidaily.com/cdd7fc426e2ad9d45bb7ca050714efc7a5191159c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
  3) Click**Initiate Full Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Click**Yes** to continue. This may take a while.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
 
 ### Fix 5: Enable low spec mode
@@ -177,8 +179,6 @@ Run League of Legends to see if you resolved this issue.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -186,4 +186,26 @@ Run League of Legends to see if you resolved this issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-androids-epic-quests-your-guide-to-top-15-simulated-worlds/"><u>[New] 2024 Approved Android's Epic Quests Your Guide to Top 15 Simulated Worlds</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-sharing-videos-tweet-tumble-route-for-2024/"><u>[New] Sharing Videos Tweet-Tumble Route for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-novices-guide-to-photo-enhancements-with-photoshop/"><u>[Updated] 2024 Approved Novice's Guide to Photo Enhancements with Photoshop</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-nokia-c02-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Nokia C02 | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/apple-discontinues-apple-pay-later-scheme-an-alternative-program-is-under-development-insights-from-zdnet/"><u>Apple Discontinues 'Apple Pay Later' Scheme: An Alternative Program Is Under Development - Insights From ZDNet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/arise-ue4-glitch-resolution-guide-overcoming-fatal-errors/"><u>Arise UE4 Glitch Resolution Guide: Overcoming Fatal Errors</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-pc-performance-how-to-resolve-resident-evil-village-lags/"><u>Fixing PC Performance: How to Resolve Resident Evil Village Lags</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-fifa-19-directx-error-easily/"><u>How To Fix FIFA 19 DirectX Error Easily</u></a></li>
+<li><a href="https://win-answers.techidaily.com/inside-information-the-reasons-behind-wolcens-delayed-debut/"><u>Inside Information: The Reasons Behind Wolcen's Delayed Debut</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-the-ultimate-adobe-premiere-cheat-sheet-6-time-saving-tips/"><u>New In 2024, The Ultimate Adobe Premiere Cheat Sheet 6 Time-Saving Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-issues-with-resident-evil-village-game-starting-up/"><u>Resolved: Issues with Resident Evil Village Game Starting Up</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-reactivate-backlight-settings-on-your-laptops-keyboard-across-macwindows-platforms/"><u>Step-by-Step Guide to Reactivate Backlight Settings on Your Laptop's Keyboard Across Mac/Windows Platforms</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-on-building-a-portable-wireless-movie-hub-for-students-rooms/"><u>Step-by-Step Tutorial on Building a Portable Wireless Movie Hub for Students' Rooms</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-overcoming-palworld-search-glitches/"><u>Troubleshooting Steps for Overcoming Palworld Search Glitches</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-when-rainbow-six-siege-doesnt-open-up/"><u>Troubleshooting Steps When Rainbow Six Siege Doesn't Open Up</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-solving-pathfinder-wrath-of-the-righteous-failed-start-up-issues/"><u>Troubleshooting Tips: Solving 'Pathfinder: Wrath of the Righteous' Failed Start-Up Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-youtube-videos-how-to-restore-playback-sync-between-visuals-and-sound-on-browsers/"><u>Troubleshooting YouTube Videos: How to Restore Playback Sync Between Visuals and Sound on Browsers</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-unveiling-the-essence-of-clubhouse-a-comprehensive-overview-for-newcomers/"><u>Updated Unveiling the Essence of Clubhouse A Comprehensive Overview for Newcomers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/why-doesnt-valorant-launch-overcoming-game-crashes-on-pc/"><u>Why Doesn't Valorant Launch? Overcoming Game Crashes on PC</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "WSAPPX Overview: Solutions for Managing Elevated Memory, CPU Use"
-date: 2024-08-19T02:03:06.701Z
-updated: 2024-08-20T02:03:06.701Z
+date: 2024-12-17T00:14:05.738Z
+updated: 2024-12-21T16:34:55.874Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ The PC port of**Marvel’s Avengers** is finally here, but many gamers start com
 5. [**Close all the background programs**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Turn off VSync](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Verify the integrity of game files
 
  The constant crashes may indicate an**integrity issue** with your game files. To check and repair corrupted game files, simply follow these steps:
@@ -36,6 +40,10 @@ The PC port of**Marvel’s Avengers** is finally here, but many gamers start com
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/marvel-avengers-verify-game-files-1.jpg)
 2. Navigate to the**LOCAL FILES** tab and click**VERIFY INTEGRITY OF GAME FILES…** , then wait for the checking to complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/marvel-avengers-verify-game-files-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you’ve completed this process, launch Marvel’s Avengers and check if the crash reappears.
 
@@ -50,10 +58,6 @@ You can install system updates with just a few clicks:
 1. On your keyboard, press the **Windows logo key** and **R**  at the same time to invoke the Run box. Type or paste **control /name Microsoft.WindowsUpdate** and hit **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/windows-update-run-box.jpg)
 2. Click**Check for updates** . This might take a while for Windows to search and install the updates.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 3. Once you’ve installed all the updates, restart your computer for it to take full effect.
 
@@ -63,9 +67,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  If this fix doesn’t work for your case, take a look at the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ### Fix 3: Update your graphics driver
 
  In most cases, crashing issues tend to be driver-related, which means you’re probably using a**faulty** or**outdated graphics driver** . So updating your driver could very well tackle your problem right away.
@@ -91,6 +92,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/de-rtx-2060-clean.jpg)
 
 **The Pro version of Driver Easy** comes with_full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -99,9 +105,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  If this method doesn’t give you any luck, please move on to the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Disable all the overlays
 
 **Using overlay for games** is another possible cause for crashing. So if you’re using overlays like**Steam** ,**Discord** or**NVIDIA GeForce Experience** , you can try to disable this feature and start the game directly.
@@ -111,20 +114,22 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 1. On the top left corner of your Steam client, click**Steam** and select**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/steam-settings.jpg)
 2. Navigate to the**In-Game** tab,**uncheck** these boxes and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/disabel-steam-overlay.jpg)
 3. Launch Marvel’s Avengers and see if it crashes again.
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 
  If this fix doesn’t do the trick for you, please continue to the next one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Close all the background programs
 
  Some AAA titles require all the resources of your rig, and sometimes they crash because you have other programs eating up your RAM or CPU resources. So check if you’re running large programs such as**Chrome** ,**Discord** or**Skype** . If you do, close them before launching Marvel’s Avengers.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Turn off VSync
 
@@ -135,9 +140,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 1. Right-click a blank area on desktop, then select NVIDIA Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/nvidia-control-panel-vsync.jpg)
 2. Of the menu on the left, select**Manage 3D settings** . Make sure you’re at the**Global Settings** tab, then click the text to the right of**Vertical sync** and select**off** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/turn-off-vsync-nvidia-control-panel.jpg)
 3. Launch Marvel’s Avengers and test your gameplay.
 
@@ -151,8 +158,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -160,4 +165,24 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-answers.techidaily.com/solved-error-code-6-diver-warzonemodern-warfare-on-pc/"><u>[SOLVED] Error Code 6 Diver Warzone/Modern Warfare On PC</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-ultimate-top-8-converter-list-for-sub-to-srt/"><u>[Updated] Ultimate Top 8 Converter List for Sub to SRT</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/budget-conscious-caixun-4k-smart-television-a-comprehensive-75-inch-display-review/"><u>Budget-Conscious Caixun 4K Smart Television – A Comprehensive 75-Inch Display Review</u></a></li>
+<li><a href="https://os-tips.techidaily.com/diy-repair-guide-mastering-the-art-of-fixing-iphone-15-and-m2-mac-mini/"><u>DIY Repair Guide: Mastering the Art of Fixing iPhone 15 & M2 Mac Mini</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722971254683-get-the-latest-dell-wd19-hard-drive-drivers-here/"><u>Get the Latest Dell WD19 Hard Drive Drivers Here</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-overcome-the-error-of-internet-explorer-not-operating-properly/"><u>How to Overcome the Error of Internet Explorer Not Operating Properly</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-itel-a60-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Itel A60? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://win-docs.techidaily.com/maximizing-productivity-effective-strategies-for-social-media-managers-with-massmail-tools/"><u>Maximizing Productivity: Effective Strategies for Social Media Managers with MassMail Tools</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209740259-9781925117882-omservations/"><u>Omservations | Free Book</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-launch-issues-with-diablo-ii-resurrected-a-comprehhrenous-guide/"><u>Overcoming Launch Issues with Diablo II: Resurrected – A Comprehhrenous Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-steps-why-is-blender-crashing-on-my-pc-how-to-make-it-stop/"><u>Solution Steps: Why Is Blender Crashing on My PC? How to Make It Stop?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-nubia-z50s-pro-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Nubia Z50S Pro Phones</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-resolving-issues-with-armored-core-vi-fires-of-rubicon-startup-problems/"><u>Troubleshooting Guide: Resolving Issues with Armored Core VI - Fires of Rubicon Startup Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-pc-issues-how-to-correctly-address-warzone-version-errors-50-and-31-read-problems/"><u>Troubleshooting PC Issues: How to Correctly Address Warzone Version Errors 5.0 & 3.1 Read Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unlocking-the-secrets-expert-tips-to-launch-dead-space-remake-successfully/"><u>Unlocking the Secrets: Expert Tips to Launch Dead Space Remake Successfully</u></a></li>
+<li><a href="https://win-answers.techidaily.com/windows-10-users-handbook-turning-on-hyper-v-virtualization-technology/"><u>Windows 10 User's Handbook: Turning On Hyper-V Virtualization Technology</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/winx-dvd-ripper-ultimate-edition-fastest-protected-dvd-copying-and-burning-for-windows-11/"><u>WinX DVD Ripper Ultimate Edition – Fastest Protected DVD Copying & Burning for Windows 11</u></a></li>
+</ul></div>
 

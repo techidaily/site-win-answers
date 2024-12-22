@@ -1,7 +1,7 @@
 ---
 title: "Disco Elysium PC Game Errors Resolved: Smooth Sailing Now"
-date: 2024-12-19T18:37:07.394Z
-updated: 2024-12-20T21:08:48.382Z
+date: 2024-12-14T21:35:09.506Z
+updated: 2024-12-21T22:32:40.072Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ When you double-click Discord but the program won’t open, it could be very fru
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -39,6 +39,10 @@ When you double-click Discord but the program won’t open, it could be very fru
 7. [Reinstall the Discord](https://tools.techidaily.com/drivereasy/download/)  
 [Bonus: Update your driver](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Kill Discord task
 
  You can probably fix this glitch by a simple restart. Kill the Discord task completely and relaunch it.
@@ -51,15 +55,7 @@ When you double-click Discord but the program won’t open, it could be very fru
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/dis.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Launch Discord again. It should be open normally.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Set your date/time automatically
 
@@ -71,15 +67,15 @@ When you double-click Discord but the program won’t open, it could be very fru
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/time.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) In the right pane, turn on the button under**Set time automatically** .
 
  4) Reboot the Discord program to check.
 
 If it doesn’t work, move to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Run Discord as administrator
 
@@ -91,15 +87,11 @@ If it doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8ce9bd5912.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) On your desktop, right-click on the **Discord shortcut icon** and select **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8ced2e031f.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click **Yes**  when prompted by User Account Control.  
  4) Discord should open.
@@ -114,10 +106,14 @@ If it doesn’t work, move to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/task.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Restart Discord. It should open.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Disable your proxies
@@ -136,10 +132,6 @@ If it doesn’t work, move to the next fix.
  3) Click**Internet Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/p1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) In the**Connections** tab, click**Lan Settings** .
 
@@ -170,10 +162,6 @@ If it doesn’t work, move to the next fix.
 
 5) Launch the Discord again. It should open.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 7: Reinstall the Discord
 
  If the above fixes don’t work, you can reinstall Discord to see whether it works. Uninstall and reinstall Discord could simply rewrite data files. The error code may be fixed by this fix.
@@ -184,9 +172,17 @@ If it doesn’t work, move to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-426.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Right-click Discord in the list and select **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/uninstall-discord.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Download and install[Discord](https://discordapp.com/) from the official website. Then run Discord again.
 
@@ -221,6 +217,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
@@ -249,20 +249,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-drone-motor-choose-the-5-best-motors-for-your-quadcopter-for-2024/"><u>[New] Drone Motor Choose the 5 Best Motors for Your Quadcopter for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-downloading-fb-videos-made-easy-our-top-5-selection/"><u>[Updated] Downloading FB Videos Made Easy Our Top 5 Selection</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-leading-edge-1-ranked-4k-gaming-pcs/"><u>[Updated] Leading Edge #1 Ranked 4K Gaming PCs</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-the-world-of-file-conversion-in-vlc-starting-with-mp4/"><u>2024 Approved Navigating the World of File Conversion in VLC, Starting with MP4</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-the-art-of-eliminating-vacant-lines-from-microsoft-excel-workbooks/"><u>Mastering the Art of Eliminating Vacant Lines From Microsoft Excel Workbooks</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-the-image-tool-a-step-by-step-guide-to-images-in-microsoft-excel/"><u>Mastering the Image Tool: A Step-by-Step Guide to Images in Microsoft Excel</u></a></li>
-<li><a href="https://network-issues.techidaily.com/mastering-uninterrupted-media-playback-post-win11-update/"><u>Mastering Uninterrupted Media Playback Post Win11 Update</u></a></li>
-<li><a href="https://win-answers.techidaily.com/microsoft-office-2011-revolutionizing-mac-users-approach-to-the-classic-tps-report/"><u>Microsoft Office 2011: Revolutionizing Mac Users' Approach to the Classic TPS Report</u></a></li>
-<li><a href="https://win-answers.techidaily.com/modern-innovations-in-excel-how-microsoft-is-reimagining-time-honored-tools-for-todays-user/"><u>Modern Innovations in Excel: How Microsoft Is Reimagining Time-Honored Tools for Today’s User</u></a></li>
-<li><a href="https://win-answers.techidaily.com/pdf-conversion-essentials-for-word-excel-and-powerpoint-files-a-step-by-step-guide/"><u>PDF Conversion Essentials for Word, Excel, and PowerPoint Files - A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/security-risks-in-running-microsoft-office-on-mac-os-x-systems/"><u>Security Risks in Running Microsoft Office on Mac OS X Systems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/setting-up-and-utilizing-open365-a-comprehensive-guide-for-microsoft-office-365-substitutes/"><u>Setting Up & Utilizing Open365: A Comprehensive Guide for Microsoft Office 365 Substitutes</u></a></li>
-<li><a href="https://win-blog.techidaily.com/step-by-step-guide-booting-microsoft-office-suite-word-excel-and-powerpoint-into-safe-mode/"><u>Step-by-Step Guide: Booting Microsoft Office Suite (Word, Excel & PowerPoint) Into Safe Mode</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-switching-network-discovery-settings-in-windows-11/"><u>Step-by-Step Tutorial: Switching Network Discovery Settings in Windows 11</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/top-3-effektivste-ansatze-fur-eine-erfolgreiche-p2v-migration/"><u>Top 3 Effektivste Ansätze Für Eine Erfolgreiche P2V Migration</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-elite-screen-recording-app-for-no-popups/"><u>[Updated] 2024 Approved Elite Screen Recording App for No Popups</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-optimizing-inner-spaces-with-sunshine/"><u>[Updated] In 2024, Optimizing Inner Spaces with Sunshine</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-study-smart-the-top-10-channel-selection-for-history-buffs/"><u>[Updated] In 2024, Study Smart The Top 10 Channel Selection for History Buffs</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-overcome-vanished-youtube-minute-media/"><u>[Updated] Overcome Vanished YouTube Minute Media</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-smartphone-solutions-top-voice-changer-applications/"><u>2024 Approved Smartphone Solutions Top Voice Changer Applications</u></a></li>
+<li><a href="https://win-answers.techidaily.com/accelerate-ubisoft-connection-download-speed-with-these-expert-hacks/"><u>Accelerate Ubisoft Connection Download Speed with These Expert Hacks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/comprehensive-guide-to-addressing-game-instability-in-total-war-warhammer-ii/"><u>Comprehensive Guide to Addressing Game Instability in Total War: Warhammer II</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-dead-space-remake-wont-launch-2024-tips/"><u>How to Fix Dead Space Remake Won’t Launch – 2024 Tips</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/in-depth-troubleshooting-resolving-the-problem-of-red-dead-redemption-2-not-starting-properly/"><u>In-Depth Troubleshooting: Resolving the Problem of Red Dead Redemption 2 Not Starting Properly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-palworld-handling-and-fixing-the-frustrating-failed-to-log-in-problem-on-eos-blockchain/"><u>Mastering Palworld: Handling and Fixing the Frustrating 'Failed to Log In' Problem on EOS Blockchain</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-solution-to-rectify-minecrafts-sudden-crash-with-exit-code-0/"><u>Quick Solution to Rectify Minecraft's Sudden Crash with Exit Code 0</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-to-samsung-galaxy-m54-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Samsung Galaxy M54 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-guide-to-zooming-your-tiktok-videos/"><u>The Ultimate Guide to Zooming Your TikTok Videos</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/visionary-tech-top-5-cutting-edge-cameras-of-2024/"><u>Visionary Tech Top 5 Cutting-Edge Cameras of 2024</u></a></li>
 </ul></div>
 

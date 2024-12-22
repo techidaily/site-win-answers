@@ -1,7 +1,7 @@
 ---
 title: How to Overcome the Black Screen Problem with the Epic Games Launcher (Solution)
-date: 2024-12-14T18:21:41.357Z
-updated: 2024-12-20T17:42:15.492Z
+date: 2024-12-17T20:35:07.438Z
+updated: 2024-12-22T01:31:39.076Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/be34f09b3263dabe58e7e8e9b611840eed5d78451
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -49,23 +45,19 @@ thumbnail: https://thmb.techidaily.com/be34f09b3263dabe58e7e8e9b611840eed5d78451
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/keyboard.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) In Task Manager, select**EpicGamesLauncher** and click**End task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1047-1024x543.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Run Epic Games Launcher to see if you’ve resolved this issue.
 
  If Epic Games Launcher still won’t launcher, try the next fix, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Launch Epic Games Launcher from Start Menu
 
@@ -76,16 +68,12 @@ thumbnail: https://thmb.techidaily.com/be34f09b3263dabe58e7e8e9b611840eed5d78451
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1048.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  See if you can launch the program. If so, you should delete its shortcut on your desktop and create a new one. If it still won’t launch, don’t worry. Try the next fix, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your display settings
 
@@ -126,13 +114,17 @@ thumbnail: https://thmb.techidaily.com/be34f09b3263dabe58e7e8e9b611840eed5d78451
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1072.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _You can do it for free if you like, but it’s partly manual._
 
  The Pro version of Driver Easy comes with full technical support.  
  If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Change Epic Games Launcher Properties
 
@@ -149,6 +141,10 @@ _You can do it for free if you like, but it’s partly manual._
  Then click**OK** to save the change.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-497.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Run Epic Games Launcher again to see if this fix works.
 
@@ -177,22 +173,22 @@ _You can do it for free if you like, but it’s partly manual._
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1068.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2)**Right-click** on**Epic Games Launcher** and select**Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1069.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Launch Epic Games Launcher again when Windows completes the repair process.
 
  Run Epic Games Launcher to see if you can open it. If not, you may need to try the next fix to reinstall the program.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 8: Reinstall Epic Games Launcher
 
@@ -205,6 +201,10 @@ _You can do it for free if you like, but it’s partly manual._
  2)**Right-click** on**Epic Games Launcher** and select**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1070.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Restart your computer.
 
@@ -234,16 +234,18 @@ Normally, after you reinstall Epic Games Launcher, it should open.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-exclusive-list-10-budget-friendly-passport-photographers-online/"><u>[New] 2024 Approved Exclusive List 10 Budget-Friendly Passport Photographers Online</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-launch-your-wealth-journey-on-periscope-platform/"><u>2024 Approved Launch Your Wealth Journey on Periscope Platform</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/flv-oggmovavi/"><u>網路上無成本轉換 FLV 到 Ogg：Movavi 的優化影片編解碼</u></a></li>
-<li><a href="https://win-answers.techidaily.com/creating-your-first-basic-financial-plan-with-microsoft-excel-a-step-by-step-guide/"><u>Creating Your First Basic Financial Plan with Microsoft Excel: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/demonstrating-the-use-of-ribbons-across-microsoft-office-applications-excel-word-and-outlook/"><u>Demonstrating the Use of Ribbons Across Microsoft Office Applications: Excel, Word & Outlook</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-how-siri-differs-from-chatgpt-no-more-misleading-comparisons/"><u>Discover How Siri Differs From ChatGPT – No More Misleading Comparisons!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/diy-guide-crafting-quick-invoices-with-excel-tips-and-tricks/"><u>DIY Guide: Crafting Quick Invoices with Excel Tips and Tricks</u></a></li>
-<li><a href="https://win-answers.techidaily.com/duplicating-an-excel-sheet-a-step-by-step-guide-to-cloning-with-or-without-formulas/"><u>Duplicating an Excel Sheet: A Step-by-Step Guide to Cloning with or without Formulas</u></a></li>
-<li><a href="https://win-answers.techidaily.com/easier-reading-6-essential-strategies-for-organizing-your-excel-data/"><u>Easier Reading: 6 Essential Strategies for Organizing Your Excel Data</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Infinix Zero 30 5G | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Vivo X Fold 2? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-free-pass-to-premium-video-editing-tools/"><u>[New] The Free Pass to Premium Video Editing Tools</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-unraveling-the-complexities-of-music-licensing-on-instagram/"><u>2024 Approved Unraveling the Complexities of Music Licensing on Instagram</u></a></li>
+<li><a href="https://win-answers.techidaily.com/chivalry-2-error-resolved-smooth-gaming-experience-restored/"><u>Chivalry 2 Error Resolved – Smooth Gaming Experience Restored</u></a></li>
+<li><a href="https://win-lab.techidaily.com/how-to-fix-volume-cannot-be-opened-in-readwrite-mode-11-effective-solutions/"><u>How to Fix 'Volume Cannot Be Opened in Read/Write Mode' - 11 Effective Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-nvidia-geforce-experience-error-code-0x0003/"><u>How to Fix Nvidia GeForce Experience Error Code 0X0003</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/igniting-the-lights-the-procedure-for-starting-a-tiktok-broadcast-from-computer/"><u>Igniting the Lights The Procedure for Starting a TikTok Broadcast From Computer</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-realme-c53-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Realme C53 Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/insta-facebook-connection-essentials-for-2024/"><u>Insta-Facebook Connection Essentials for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/patch-tuesday-explained-the-essentials-you-need-to-know/"><u>Patch Tuesday Explained: The Essentials You Need to Know</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/removing-your-facebook-live-video-tech-steps/"><u>Removing Your Facebook Live Video Tech Steps</u></a></li>
+<li><a href="https://win-answers.techidaily.com/simple-solution-how-to-stop-outriders-from-continuously-freezing/"><u>Simple Solution: How to Stop Outriders From Continuously Freezing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-tips-to-resolve-biomutants-2024-crashes-on-your-computer-a-step-by-step-guide/"><u>Top Tips to Resolve Biomutant's 2024 Crashes on Your Computer: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Oppo A78? | Dr.fone</u></a></li>
 </ul></div>
 

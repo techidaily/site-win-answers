@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solution for 'Not Installed' Easy Anti-Cheat During EAC Initialization
-date: 2024-12-18T16:59:31.806Z
-updated: 2024-12-20T16:25:47.164Z
+date: 2024-12-18T01:40:18.572Z
+updated: 2024-12-21T20:36:27.605Z
 tags:
   - win11
   - win10
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/e73bb44e853b64ea13a3dc6d94705befdc354ca8d
 6. **[Bonus tips: Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Restart your computer
@@ -53,17 +53,9 @@ If Fortnite still fails, don’t worry. Try the fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-02_12-03-47.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)**  Type**C:\\Program Files\\Epic Games\\Fortnite\\FortniteGame** in the address bar and press **Enter**  on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-02_12-03-56.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)** Highlight the**Binaries folder** and press the**Del** key on your keyboard.
 
@@ -72,10 +64,6 @@ If Fortnite still fails, don’t worry. Try the fix, below.
 **4)** Relaunch Epic Games Launcher and try running your game again.
 
 If you still can’t open Fortnite, move on and try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Verify your game files
 
@@ -87,13 +75,13 @@ If you still can’t open Fortnite, move on and try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-02_12-04-18.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click**VERIFY** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-02_12-04-28.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This process could take several minutes. Please wait for it to be complete. Then, try launching Fortnite to test your problem. If you still get the error message, don’t worry! There are still 2 fixes to try.
 
@@ -113,10 +101,6 @@ If you still can’t open Fortnite, move on and try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-02_12-05-01.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)**  Click **Repair Service** .
 
  If you see another game’s name on the list box, click the box, and then select Fortnite from the drop-down list.
@@ -124,6 +108,10 @@ If you still can’t open Fortnite, move on and try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-02_12-05-17.jpg)
 
  After the process is complete, relaunch your game to check if your problem has been resolved. If not, read on and try the fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Reinstall Fortnite
 
@@ -135,12 +123,16 @@ If you still can’t open Fortnite, move on and try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-02_12-05-42.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Click **UNINSTALL.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-02_12-05-50.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4) Restart**  your computer and run the **Epic Games Launcher**  again to download and install Fortnite again.
@@ -162,7 +154,7 @@ OR
 **[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/solved-fortnite-entry-point-not-found-2019-tips/#e2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Option 1 – Download and install the driver manually**
@@ -170,6 +162,10 @@ OR
  Epson keeps updating drivers. To get them, you need to go to your graphics product manufacturer’s website, find the driver corresponding with your specific flavor of Windows version (for example, Windows 32 bit) and download the driver manually.
 
  Once you’ve downloaded the correct drivers for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Option 2 – Automatically update** your graphics driver
 
@@ -188,6 +184,10 @@ OR
 **3)**  Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-02_12-06-30.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -213,20 +213,18 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-amplify-youtube-visibility-crafting-effective-descriptions-and-tags/"><u>[New] 2024 Approved Amplify YouTube Visibility Crafting Effective Descriptions & Tags</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-internet-jesters-arsenal-for-2024/"><u>[New] Internet Jester's Arsenal for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-next-gen-peripherals-exploring-virtual-reality-accessories/"><u>[Updated] In 2024, Next-Gen Peripherals Exploring Virtual Reality Accessories</u></a></li>
-<li><a href="https://win-answers.techidaily.com/banish-lag-expert-tips-for-smooth-play-in-outriders-on-your-computer/"><u>Banish Lag: Expert Tips for Smooth Play in Outriders on Your Computer</u></a></li>
-<li><a href="https://win-answers.techidaily.com/error-0xc19001e1-in-windows-11-explained-diagnosis-and-repair-techniques/"><u>Error 0xC19001E1 in Windows 11 Explained: Diagnosis and Repair Techniques</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-advice-on-reducing-dota-2-lag-for-a-seamless-experience/"><u>Expert Advice on Reducing Dota 2 Lag for a Seamless Experience</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-content-file-locked-error-on-steam-step-by-step-guide/"><u>Fixing the 'Content File Locked' Error on Steam: Step-by-Step Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-overcome-maplestory-initialization-hiccups-game-is-flawlessly-operational-now/"><u>How to Overcome Maplestory Initialization Hiccups - Game Is Flawlessly Operational Now</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Poco M6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oneplus-nord-n30-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from OnePlus Nord N30 5G to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On OnePlus 12R? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/nba-2k24-troubleshooting-overcoming-error-code-727e66ac-expert-tips-and-solutions/"><u>NBA 2K24 Troubleshooting: Overcoming Error Code 727E66ac - Expert Tips & Solutions</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-resolve-system-call-problem-in-windows/"><u>Steps to Resolve 'System Call' Problem in Windows</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-10-techniques-for-integrating-chatgpt-into-your-visual-studio-code-workflow/"><u>Top 10 Techniques for Integrating ChatGPT Into Your Visual Studio Code Workflow</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-resolving-the-ultra-black-screen-issue-in-rainbow-six-siege-on-pc/"><u>Ultimate Guide: Resolving the Ultra-Black Screen Issue in Rainbow Six Siege on PC</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-elevate-your-social-media-game-post-tiktoks-on-twitter/"><u>[Updated] 2024 Approved Elevate Your Social Media Game Post TikToks on Twitter</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-instagrabs-top-15-videophoto-downloading-tools/"><u>[Updated] 2024 Approved InstaGrabs Top 15 Video/Photo Downloading Tools</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-ultimate-monitor-match-up-recommendations-for-top-tier-xbox-sx-experience/"><u>[Updated] 2024 Approved Ultimate Monitor Match-Up Recommendations for Top-Tier Xbox SX Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-the-black-screen-top-solutions-for-league-of-legends-in-202/"><u>Beat the Black Screen: Top Solutions for League of Legends in 202#</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/cutting-edge-tools-for-unique-youtube-channel-names/"><u>Cutting-Edge Tools for Unique YouTube Channel Names</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722960592681-download-updated-geforce-drivers-enhance-your-experience-on-windows-1011-with-rtx-2080-supers/"><u>Download Updated GeForce Drivers: Enhance Your Experience on Windows 10/11 with RTX 2080 Supers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhance-lost-ark-stability-and-performance-fixing-critical-frame-rate-dips/"><u>Enhance Lost Ark Stability & Performance - Fixing Critical Frame Rate Dips</u></a></li>
+<li><a href="https://win-news.techidaily.com/exploring-new-functions-in-the-updated-emeditor-dive-into-the-latest-improvements-and-quirks/"><u>Exploring New Functions in the Updated EmEditor: Dive Into the Latest Improvements and Quirks!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/google-chrome-troubleshooting-guide-opening-problems-solved/"><u>Google Chrome Troubleshooting Guide: Opening Problems Solved</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722999654243-how-to-overcome-pc-crashes-in-pathfinder-wrath-of-the-righteous-solved-and-explained/"><u>How to Overcome PC Crashes in Pathfinder: Wrath of the Righteous - Solved and Explained</u></a></li>
+<li><a href="https://media-tips.techidaily.com/potential-risks-of-airbnb-tv-screens-a-hidden-threat-to-your-security/"><u>Potential Risks of Airbnb TV Screens: A Hidden Threat to Your Security</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-rust-programming-crashes-tips-and-solutions-for-stability-issues/"><u>Resolving Rust Programming Crashes: Tips and Solutions for Stability Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/zombies-unleashed-in-call-of-duty-black-ops-cold-war-how-to-fix-game-crashes-on-pc/"><u>Zombies Unleashed in Call of Duty: Black Ops Cold War - How to Fix Game Crashes on PC</u></a></li>
 </ul></div>
 

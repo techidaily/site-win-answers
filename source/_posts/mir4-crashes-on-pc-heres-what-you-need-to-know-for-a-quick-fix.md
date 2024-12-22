@@ -1,7 +1,7 @@
 ---
 title: Mir4 Crashes on PC? Here's What You Need to Know for a Quick Fix!
-date: 2024-08-19T02:04:11.166Z
-updated: 2024-08-20T02:04:11.166Z
+date: 2024-12-18T18:03:17.879Z
+updated: 2024-12-21T17:46:09.429Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/720039bdcfeba97eefefa9824f21f9715183b78c7
 4. [Update your Microphone driver and audio driver](https://tools.techidaily.com/drivereasy/download/)
 5. [Reset Cortana](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Reboot your Windows 10 PC
 
  A simple restart can fix a lot computer woes. Once Cortana stops working on your computer, firstly try to **restart your Windows 10 PC** and try Cortana again to see if it works.
@@ -45,20 +49,22 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e01c52cd.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Region & language.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e40e249d.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 4) Make sure the region and language settings is matched with yours.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e71cb793.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5) Try Cortana again to see if it works.
 
 ## Method 3: Make sure your Windows 10 system is up-to-date
@@ -69,9 +75,6 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f33c9a31.png)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Click **Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f7b03e67.jpg)
@@ -80,9 +83,6 @@ Check your region and language settings on your computer:
 
 4) Reboot your Windows 10 PC and try Cortana again to see if it works.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 4: Update your Microphone driver and audio driver
 
  This problem could be also caused by an old or incorrect Microphone driver or audio driver. You can update your drivers to solve this problem.
@@ -110,9 +110,14 @@ Or click  **Update All** to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb1528c6d59.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4) Reboot your Windows 10 and try Cortana again to see if it works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 5: Reset your Cortana
 
@@ -127,15 +132,13 @@ Or click  **Update All** to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb177220ba8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click the same button again to turn on Cortana. You should the see the **On**  status again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb180855417.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 4) Try Cortana again to see if it works.
 
 * [Cortana](https://tools.techidaily.com/drivereasy/download/)
@@ -147,8 +150,6 @@ Or click  **Update All** to automatically download and install the correct versi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -156,4 +157,24 @@ Or click  **Update All** to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-aurora-vs-traditional-hdr-the-battle-for-best-quality/"><u>[New] In 2024, Aurora vs Traditional HDR The Battle for Best Quality</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/peedy-video-processing-for-youtube-tricks-to-render-and-upload-fast-for-2024/"><u>[New] Speedy Video Processing for YouTube Tricks to Render & Upload Fast for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-unleash-superior-hd-videos-on-android-devices/"><u>[Updated] 2024 Approved Unleash Superior HD Videos on Android Devices</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-the-hiccups-fixing-stutter-issues-in-the-newest-hogwarts-legacy-game/"><u>Beat the Hiccups: Fixing Stutter Issues in the Newest Hogwarts Legacy Game!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-on-reducing-lags-during-your-naraka-bladepoint-battles/"><u>Expert Advice on Reducing Lags During Your Naraka Bladepoint Battles</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-xiaomi-redmi-note-12-proplus-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Xiaomi Redmi Note 12 Pro+ 5G Phones with/without a PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-address-and-correct-launching-errors-in-saints-row-pc-gameplay/"><u>How to Address and Correct Launching Errors in Saints Row PC Gameplay</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-prevent-star-wars-galaxies-the-expanded-universe-from-crashing-during-pc-battles/"><u>How To Prevent Star Wars Galaxies - The Expanded Universe From Crashing During PC Battles</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-resolve-microsoft-edge-stability-issues-in-windows-10/"><u>How to Resolve Microsoft Edge Stability Issues in Windows 10</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-discover-the-power-of-pixlr-25-must-use-tips-and-tricks/"><u>In 2024, Discover the Power of Pixlr 25 Must-Use Tips and Tricks</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-infinix-hot-40-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Infinix Hot 40 Location | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721102086831-iphone-se-not-detected-on-fedora-core-os-solution-found-here/"><u>IPhone SE Not Detected on Fedora Core OS - Solution Found Here!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-game-lag-and-crashes-in-spellbreak-for-pc/"><u>Overcome Game Lag and Crashes in Spellbreak for PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-the-conflict-fixing-total-war-three-kingdoms-game-crashes/"><u>Resolving the Conflict: Fixing Total War: Three Kingdoms Game Crashes</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782143-9781594779275-the-sacred-center-2nd-ed/"><u>The Sacred Center (2nd ed.) | Free Book</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/transforming-ideas-into-engaging-captivate-content/"><u>Transforming Ideas Into Engaging Captivate Content</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-to-resolving-lag-and-enhancing-frames-per-second-in-valorant-2024-edition/"><u>Ultimate Guide to Resolving Lag and Enhancing Frames per Second in Valorant - 2024 Edition</u></a></li>
+</ul></div>
 

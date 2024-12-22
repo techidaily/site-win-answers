@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips for Gamers: Overcoming the Notorious Apex Legends Code 23 Glitch"
-date: 2024-08-19T02:11:23.390Z
-updated: 2024-08-20T02:11:23.390Z
+date: 2024-12-14T20:22:17.979Z
+updated: 2024-12-22T00:40:30.764Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/b0e0b3709f1348652118c2459af9389796059e0f6
 
  Running into an**Apex Legends Engine error** ? Don’t worry. It’s often not hard to fix at all…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fixes for Apex Legends Engine Error
 
  Here are 4 fixes that have helped other users resolve the Apex Legends Engine error. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -27,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/b0e0b3709f1348652118c2459af9389796059e0f6
 2. **[Run Apex Legends as an administrator](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Verify game files](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Edit registry](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Update the graphics driver
 
@@ -55,8 +63,9 @@ thumbnail: https://thmb.techidaily.com/b0e0b3709f1348652118c2459af9389796059e0f6
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Run Apex Legends as an administrator
 
  This engine error may happen if the game does not have administrative privileges. So you should make sure to run Apex Legends as an administrator to see if it fixes the issue.
@@ -71,9 +80,6 @@ Here is how to grant administrative privileges to Apex Legends:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-565.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
  3) Click the **Compatibility**  tab. Then check the box next to **Run this program as an administrator** , and click **Apply** .
 
  3) After granting APex Legends administrative privileges, you can run the game again to see if Apex Legends Engine Error still occurs. If it doesn’t, then great! If the issue remains, please move on to**Fix 2** , below.
@@ -90,16 +96,10 @@ Here is how to verify game files:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-439-1024x522.png)
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Right-click on**Apex Legends** and click**Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-561.png)
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3) Wait until the repair process finishes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-343-1024x728.png)
@@ -108,9 +108,6 @@ Here is how to verify game files:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Edit Registry
 
  A missing command line from Registry may also lead to the engine error in Apex Legends. So you can add a command line to see if it solves the error.
@@ -131,16 +128,25 @@ Windows Registry Editor Version 5.00
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-475.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**File** \>**Save as…**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-476.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Save the file name as**fix.reg** and select the type as**All files** . then click Save.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-477.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Click**Yes** once you’re prompted about the message.
 
@@ -159,8 +165,6 @@ Windows Registry Editor Version 5.00
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -168,4 +172,26 @@ Windows Registry Editor Version 5.00
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-elevating-earnings-a-comprerancial-approach-to-video-monetization/"><u>[Updated] 2024 Approved Elevating Earnings A Comprerancial Approach to Video Monetization</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-top-10-audio-playback-accelerators-for-phones/"><u>[Updated] 2024 Approved Top 10 Audio Playback Accelerators for Phones</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-top-6-social-media-outlets-boosting-business-revenue/"><u>2024 Approved Top 6 Social Media Outlets Boosting Business Revenue</u></a></li>
+<li><a href="https://win-answers.techidaily.com/8-crucial-fixes-to-avoid-marvels-guardians-of-the-galaxy-game-crashing-on-pc-platforms/"><u>8 Crucial Fixes to Avoid Marvel's 'Guardians of the Galaxy' Game Crashing on PC Platforms</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bypassing-error-code-130-on-your-steam-installation-made-easy/"><u>Bypassing Error Code 130 on Your Steam Installation Made Easy</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cracking-the-code-on-persistent-frostpunk-crashes-a-comprehensive-fix-guide/"><u>Cracking the Code on Persistent Frostpunk Crashes - A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enablingdisabling-your-pcs-touchscreen-keyboard-essential-steps-for-windows-11-users/"><u>Enabling/Disabling Your PC's Touchscreen Keyboard: Essential Steps for Windows 11 Users</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/experience-tactile-control-with-dells-premium-monitor-active-noise-cancelling-headphones-and-superior-quality-webcam/"><u>Experience Tactile Control with Dell's Premium Monitor, Active Noise Cancelling Headphones & Superior Quality Webcam</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/gratis-methoden-zum-konvertieren-von-mts-videos-in-mp4-format/"><u>Gratis Methoden Zum Konvertieren Von MTS-Videos in MP4 Format</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-lava-storm-5g-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Lava Storm 5G</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-successfully-start-your-mass-effect-legendary-journey-tips-and-solutions/"><u>How to Successfully Start Your Mass Effect Legendary Journey - Tips & Solutions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-free-picture-haven-a-review-of-the-best-10-online-resources/"><u>In 2024, Free Picture Haven A Review of the Best 10 Online Resources</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-oppo-a78-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-the-seas-without-interruption-fixing-assassins-creed-odyssey-pc-problems/"><u>Master the Seas Without Interruption - Fixing Assassin's Creed Odyssey PC Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-troubleshooting-for-starfield-how-to-prevent-freezing-and-crashes/"><u>PC Troubleshooting for Starfield: How to Prevent Freezing & Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-the-dreaded-steam-error-code-130-a-step-by-step-guide/"><u>Resolving the Dreaded Steam Error Code 130: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/success-story-correctly-installing-the-ds4-driver-for-windows-and-enjoying-uninterrupted-gameplay/"><u>Success Story: Correctly Installing the DS4 Driver for Windows and Enjoying Uninterrupted Gameplay</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-future-of-talks-ais-most-prominent-assistants/"><u>The Future of Talks: AI's Most Prominent Assistants</u></a></li>
+<li><a href="https://win-answers.techidaily.com/yakuza-nremastered-for-pc-troubleshooting-steps-to-stop-game-crashes/"><u>Yakuza N_Remastered for PC - Troubleshooting Steps to Stop Game Crashes</u></a></li>
+</ul></div>
 

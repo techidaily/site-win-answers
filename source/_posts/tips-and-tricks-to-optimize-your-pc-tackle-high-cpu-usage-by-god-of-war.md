@@ -1,7 +1,7 @@
 ---
 title: "Tips and Tricks to Optimize Your PC: Tackle High CPU Usage by God of War"
-date: 2024-12-13T18:30:51.383Z
-updated: 2024-12-20T19:19:18.144Z
+date: 2024-12-18T22:51:23.260Z
+updated: 2024-12-21T22:05:05.331Z
 tags:
   - win11
   - win10
@@ -59,7 +59,7 @@ Century: Age of Ashes system requirements
 7. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Verify integrity of game files
@@ -71,14 +71,10 @@ Century: Age of Ashes system requirements
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . If Steam finds anything wrong with the game files, it will re-download them from its official server.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Depending on the size of the game files, it may take some time to verify all your game files.
@@ -104,7 +100,7 @@ Century: Age of Ashes system requirements
 **Note** : You can do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Restart your PC for the changes to take effect.
@@ -119,6 +115,10 @@ Century: Age of Ashes system requirements
 
  Launch Century: Age of Ashes again and check if the this fix works. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Disable overlays
 
  Overlays are handy. However, sometimes they may interfere with the game and would block the game files, which may cause the game to crash.
@@ -130,10 +130,14 @@ Century: Age of Ashes system requirements
 2. Uncheck **Enable Steam Overlay while in-game** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you’re using other apps with overlay features (e.g. Xbox Game Bar, Nvidia GeForce Experience, Discord, etc.), make sure you’ve disabled the in-game overlay in those apps feature:
 
@@ -149,10 +153,6 @@ Century: Age of Ashes system requirements
 3. Restart Windows to apply changes.
 
  Launch the game and see if the it crashes again. If this fix doesn’t work, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Temporarily disable anti-virus software
 
@@ -197,24 +197,24 @@ If this fix didn’t work, try the next fix, below.
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Restart** Windows OS and launch Century: Age of Ashes to check if the game crashes again. If not, open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software.
 
@@ -249,16 +249,19 @@ If this fix didn’t work, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-hacking-twitters-humor-for-personal-use-on-pc/"><u>[New] Hacking Twitter's Humor for Personal Use on PC</u></a></li>
-<li><a href="https://win-studio.techidaily.com/3-ssd-860/"><u>專業人士選用的3 種三星SSD 860系列雲端複製工具</u></a></li>
-<li><a href="https://win-answers.techidaily.com/black-survivals-everlasting-cycle-a-deep-dive-into-the-concept-of-eternal-return/"><u>Black Survival's Everlasting Cycle: A Deep Dive Into The Concept of 'Eternal Return'</u></a></li>
-<li><a href="https://win-answers.techidaily.com/defeating-darkness-solutions-for-star-wars-battlefront-2-black-screen-glitch/"><u>Defeating Darkness: Solutions for Star Wars Battlefront 2 Black Screen Glitch</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-fixes-for-reducing-lag-time-in-cyberpunk-2077/"><u>Effective Fixes for Reducing Lag Time in Cyberpunk 2077</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-advice-overcoming-black-screen-challenges-for-smooth-operations/"><u>Expert Advice: Overcoming Black Screen Challenges for Smooth Operations</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-the-looks-like-youre-stranded-xbox-app-error-in-windows-11-and-11/"><u>How to Fix the “Looks Like You’re Stranded” Xbox App Error in Windows 11 & 11</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-se-2022-to-other-iphone-11-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone SE (2022) to other iPhone 11 devices? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/improved-access-your-online-account-sign-in-is-now-working/"><u>Improved Access: Your Online Account Sign-In Is Now Working</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Infinix Smart 7 HD | Dr.fone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/streamlining-your-podcast-production-process/"><u>Streamlining Your Podcast Production Process</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-elevate-your-obs-experience-the-role-of-custom-luts/"><u>[New] 2024 Approved Elevate Your OBS Experience The Role of Custom LUTs</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-joining-friends-and-family-online-facebook-setup-guide/"><u>[New] 2024 Approved Joining Friends and Family Online (Facebook Setup Guide)</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-textual-transformations-the-photographers-guide-to-image-edits/"><u>[New] Textual Transformations The Photographer's Guide to Image Edits</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-strategies-to-maintain-synchronization-between-cameras-and-streaming-software/"><u>[Updated] Strategies to Maintain Synchronization Between Cameras and Streaming Software</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-streamline-your-video-experience-with-advanced-vlc-techniques-macos/"><u>2024 Approved Streamline Your Video Experience with Advanced VLC Techniques (macOS)</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/best-free-high-quality-streaming-tools-for-webm-video-files-for-2024/"><u>Best Free, High-Quality Streaming Tools for WebM Video Files for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723864254546-discover-unmatched-storage-and-speed-nextorage-releases-ultimate-8tb-ssd-at-just-849-for-gaming-enthusiasts/"><u>Discover Unmatched Storage and Speed: Nextorage Releases Ultimate 8TB SSD at Just $849 for Gaming Enthusiasts</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fortnite-launch-loop-how-to-overcome-the-endless-load-screen/"><u>Fortnite Launch Loop: How to Overcome the Endless Load Screen</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723004715843-fortnite-load-failures-fast-fixes-inside/"><u>Fortnite Load Failures? Fast Fixes Inside!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-successfully-launch-red-dead-redemption-2-after-encountering-initial-failures/"><u>How to Successfully Launch Red Dead Redemption 2 After Encountering Initial Failures</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-pro-level-phone-and-camera-gimbal-tracking-systems/"><u>In 2024, Pro-Level Phone & Camera Gimbal Tracking Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/no-more-problems-starting-cod-black-ops-cold-war-on-your-computer-tips-and-tricks/"><u>No More Problems Starting COD: Black Ops Cold War on Your Computer - Tips & Tricks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-mystery-of-missing-l-a-noire-for-pc-its-here-and-ready-to-play/"><u>The Mystery of Missing L. A. Noire for PC? It's Here and Ready to Play</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/the-ultimate-roadmap-to-profit-via-instagram-platform-for-2024/"><u>The Ultimate Roadmap to Profit via Instagram Platform for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fixing Silent Issues: How To Troubleshoot Lack of Audio During Your Live Broadcast"
-date: 2024-12-16T19:44:26.979Z
-updated: 2024-12-20T20:11:25.082Z
+date: 2024-12-15T01:57:54.464Z
+updated: 2024-12-22T01:47:58.698Z
 tags:
   - win11
   - win10
@@ -38,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/0a18a6b406ce9f21eda937adac64825b459ee3a87
 
  Note: the screenshots below come from Windows 10, and fixes also work on Windows 8 and Windows 7.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Reinstall Fortnite in your computer
 
  Since many technical problems can be resolved by restarting, it never hurts to**restart your device** , then open Fortnite again to see if it fixes the Fortnite not loading problem.
@@ -75,7 +71,7 @@ To do so, follow these steps:
  Save your game settings, and restart your computer to see if your Fortnite loads properly.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics card driver
@@ -100,6 +96,10 @@ To do so, follow these steps:
  Or click**Update All** the automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be920cf0d891.jpg)
 4. Restart your computer to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then launch Fortnite in your computer and see if it fixes your Fortnite not loading issues.
 
@@ -137,24 +137,20 @@ Below lists out some PC settings you can configure:
 4. Check the box next to**Number of processors** , and select the**highest number** available. In my case I have the highest number of 4, so I select**4** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be921cace95b.jpg)
 5. Click**OK** to save. Then click**Apply** and**OK** to finish.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be921e101920.jpg)
 6. You’ll be prompted a dialog to ask you to restart, select**Exist without restart** because you’ll have a restart after configuring the settings below.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be921fa6ef14.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### 2\. Adjust settings in System Properties
 
@@ -165,6 +161,10 @@ Below lists out some PC settings you can configure:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be922528c0d3.jpg)
 3. Click**Advanced system settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be9228805808.jpg)
 4. The**System Properties** pane will pop up. Under the**Advanced** tab, click the**Settings** button in the**Performance** section.  
 
@@ -172,14 +172,14 @@ Below lists out some PC settings you can configure:
 5. Click the**Advanced** tab, and make sure to select**Adjust for best performance of Programs** . Then click**Apply** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be9237d987ca.jpg)
 6. Click**Data Execution Prevention** , and make sure to choose **Turn on DEP for essential Windows programs and services only** . Then Click**Apply** and**OK** to save.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be9234f416dc.jpg)
@@ -209,17 +209,20 @@ Launch your Fortnite and see if it will load properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-cutting-edge-strategies-for-iptv-capture-success-for-2024/"><u>[New] Cutting-Edge Strategies for IPTV Capture Success for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-immersion-redefined-vrs-cinematic-promise/"><u>[Updated] Immersion Redefined VR's Cinematic Promise</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-amplifying-viewership-strategies-for-unboxing-tiktoks/"><u>[Updated] In 2024, Amplifying Viewership Strategies for Unboxing TikToks</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-live-or-recorded-twitch-versus-youtube-face-off/"><u>2024 Approved Live or Recorded Twitch versus YouTube Face Off</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fast-track-solutions-overcoming-apex-legends-load-errors-effectively/"><u>Fast Track Solutions: Overcoming Apex Legends Load Errors Effectively</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-missing-drivershardware-errors-in-rainbow-six-mobile-adventure/"><u>Fixing the Missing Drivers/Hardware Errors in Rainbow Six Mobile Adventure</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/google-pixel-fold-music-recovery-recover-deleted-music-from-google-pixel-fold-by-fonelab-android-recover-music/"><u>Google Pixel Fold Music Recovery - Recover Deleted Music from Google Pixel Fold</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-combat-high-latency-issues-during-multiplayer-sessions-of-left-4-dead-origins/"><u>How to Combat High Latency Issues During Multiplayer Sessions of Left 4 Dead Origins</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Oppo A79 5G? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-tecno-phantom-v-flip-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Tecno Phantom V Flip Through Google Earth?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/pathfinder-wrath-of-the-righteous-pc-version-freezing-issue-resolved/"><u>Pathfinder: Wrath of the Righteous PC Version - Freezing Issue Resolved</u></a></li>
-<li><a href="https://win-answers.techidaily.com/xbox-live-outage-how-to-verify-the-current-status-of-xbox-services/"><u>Xbox Live Outage: How to Verify the Current Status of Xbox Services</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-from-boredom-to-attention-unveiling-the-6-key-videos/"><u>[New] From Boredom to Attention Unveiling the 6 Key Videos</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-exploring-the-top-hashtags-for-a-boost-on-ig/"><u>[New] In 2024, Exploring the Top Hashtags for a Boost on IG</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-embark-on-a-journey-through-augmented-space/"><u>[Updated] 2024 Approved Embark on a Journey Through Augmented Space</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-the-art-of-photo-refreshment-how-to-tidy-up-images-on-canva/"><u>[Updated] 2024 Approved The Art of Photo Refreshment How to Tidy Up Images on Canva</u></a></li>
+<li><a href="https://win-answers.techidaily.com/advanced-strategies-to-prevent-obs-crashes-on-windows-10-and-windows-11-expert-advice/"><u>Advanced Strategies to Prevent OBS Crashes on Windows 10 and Windows 11 - Expert Advice</u></a></li>
+<li><a href="https://solve-news.techidaily.com/automated-with-crawling-bots-enhance-your-websites-visibility/"><u>Automated with Crawling Bots: Enhance Your Website's Visibility</u></a></li>
+<li><a href="https://win-answers.techidaily.com/dealing-with-disruptions-ensuring-smooth-playthroughs-in-snowrunner-by-avoiding-in-game-crashes-on-pcs/"><u>Dealing with Disruptions: Ensuring Smooth Playthroughs in SnowRunner by Avoiding In-Game Crashes on PCs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-fixes-when-steam-games-fail-to-run-in-windows-10-environment/"><u>Effective Fixes When Steam Games Fail to Run in Windows 10 Environment</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-to-resolve-steam-game-startup-issues-on-windows-11-pcs/"><u>Expert Tips to Resolve Steam Game Startup Issues on Windows 11 PCs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-issue-intel-driver-and-support-assistant-failure-in-windows/"><u>Fixing the Issue: Intel Driver and Support Assistant Failure in Windows</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/implementing-gradual-intensity-boost-in-audio-projects-for-2024/"><u>Implementing Gradual Intensity Boost in Audio Projects for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimizing-performance-solutions-to-tackle-divison-2s-lag-issues/"><u>Optimizing Performance: Solutions to Tackle Divison 2'S Lag Issues</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-essential-trio-of-emerging-tech-innovations/"><u>The Essential Trio of Emerging Tech Innovations</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-fixing-warzone-20-pc-game-crashes/"><u>Troubleshooting Guide: Fixing 'Warzone 2.0' PC Game Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-resolving-amd-radeon-software-launch-issues/"><u>Troubleshooting Steps for Resolving AMD Radeon Software Launch Issues</u></a></li>
 </ul></div>
 

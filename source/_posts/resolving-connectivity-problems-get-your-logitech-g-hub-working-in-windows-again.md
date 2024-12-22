@@ -1,7 +1,7 @@
 ---
 title: "Resolving Connectivity Problems: Get Your Logitech G Hub Working in Windows Again!"
-date: 2024-12-13T18:22:50.183Z
-updated: 2024-12-20T21:35:29.044Z
+date: 2024-12-17T17:44:47.671Z
+updated: 2024-12-21T17:41:23.687Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ Many players are reporting that Hitman 3 is having server issues, and they const
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -40,7 +44,7 @@ Many players are reporting that Hitman 3 is having server issues, and they const
 6. **[Flush your DNS and Renew your IP](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 1: Reboot your network
@@ -63,20 +67,16 @@ Many players are reporting that Hitman 3 is having server issues, and they const
 ![Windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2021/01/Windows-firewall.jpg)
 2. On the left pane, click **Allow an app or feature through Windows Defender Firewall** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/allow-app.jpg)
 3. Make sure your Hitman 3 is on the list, and also make sure it’s ticked for**Private** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. If you don’t find Hitman 3, click**Change settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/change-settings.jpg)
 5. Click**Allow another app…**  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![change settings](https://images.drivereasy.com/wp-content/uploads/2021/01/allow-another-app.jpg)
 6. Add your Hitman 3 executable file. If you’re not sure where the game is installed, please follow these steps:  
@@ -86,6 +86,10 @@ Many players are reporting that Hitman 3 is having server issues, and they const
    * In the _**Local files**_ section, press _**Open folder**_ .  
    ![open hitman 3 folder](https://images.drivereasy.com/wp-content/uploads/2021/01/Open-folders.png)
 7. Now launch your game again and test if the**Hitman 3 connection failed error** has been solved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Update your network driver
 
@@ -107,14 +111,14 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/update-network-adapter-driver.jpg)  
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Restart your computer for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Run your game as an administrator
 
@@ -126,7 +130,7 @@ OR
 3. Next time you open your game launcher, it will launch in admin mode.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 5: Disable antivirus software
@@ -136,10 +140,6 @@ OR
  For some antivirus software, disabling them might not work. You can temporally uninstall it or add Hitman 3 to their exclusion lists.
 
 **Note:** Be extra careful about what sites you visit, what emails you open, and what files you download when your antivirus is disabled.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 6:**Flush your DNS and Renew your IP**
 
@@ -154,12 +154,12 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/Snap9-5.jpg)
 5. Then type the command line **ipconfig /release**  and press **Enter**  on your keyboard.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/Snap11-5.jpg)
 6. Type the command line **ipconfig /renew**  and press **Enter**  on your keyboard.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/Snap12-5.jpg)
 7. Play Hitman 3 again.
@@ -189,20 +189,17 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/2024-approved-unveiling-hidden-potential-mastering-the-art-of-morphvox/"><u>2024 Approved Unveiling Hidden Potential Mastering the Art of MorphVOX</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/engaging-excellence-best-story-filter-compilation-for-2024/"><u>Engaging Excellence Best Story Filter Compilation for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/exceptional-game-experience-with-240hz-displays/"><u>Exceptional Game Experience with 240Hz Displays</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-spotifys-performance-issues-on-desktop-solutions-for-a-smoother-listening-experience/"><u>Fixing Spotify's Performance Issues on Desktop - Solutions for a Smoother Listening Experience</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-repair-black-screen-glitch-on-star-wars-battlefront-2/"><u>How to Repair Black Screen Glitch on Star Wars Battlefront 2</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-stop-microsoft-edge-from-crashing-under-windows-11-proven-solutions/"><u>How to Stop Microsoft Edge From Crashing Under Windows 11 – Proven Solutions</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-full-guide-to-apple-iphone-14-icloud-bypass-by-drfone-ios/"><u>In 2024, Full guide to Apple iPhone 14 iCloud Bypass</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Realme Narzo 60x 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/maximizing-impact-with-strategic-fb-giveaway-announcements/"><u>Maximizing Impact with Strategic FB Giveaway Announcements</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-sudden-click-sounds-from-applications-in-windows-a-guide/"><u>Resolving Sudden Click Sounds From Applications in Windows: A Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solution-steps-for-launching-team-fortress-2-successfully/"><u>Solution Steps for Launching Team Fortress 2 Successfully</u></a></li>
-<li><a href="https://win-answers.techidaily.com/stuck-on-the-title-screen-heres-how-to-get-your-dragon-age-inquisition-game-running-smoothly/"><u>Stuck on the Title Screen? Here's How to Get Your Dragon Age Inquisition Game Running Smoothly</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/subtitle-extraction-from-zip-archives-the-srt-solution/"><u>Subtitle Extraction From ZIP Archives – The Srt Solution</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-strategies-for-smooth-gameplay-eliminating-stutter-in-minecraft-on-your-laptop-or-pc-updated-for-202abbreviation/"><u>Top Strategies for Smooth Gameplay: Eliminating Stutter in Minecraft on Your Laptop or PC (Updated for 202Abbreviation)</u></a></li>
-<li><a href="https://facebook.techidaily.com/uncover-these-14-typical-facebook-hoaxes-before-acting/"><u>Uncover These 14 Typical Facebook Hoaxes Before Acting</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/oing-pro-with-gs-effects-exclusive-free-lessons-from-4-premier-video-channels/"><u>[New] Going Pro with GS Effects Exclusive Free Lessons From 4 Premier Video Channels</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/tarter-guide-8-easy-youtube-money-makers/"><u>[New] Starter Guide 8 Easy YouTube Money-Makers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pros-playbook-elevate-your-tiktok-video-game/"><u>2024 Approved Pro's Playbook Elevate Your TikTok Video Game</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fast-and-effective-ways-to-get-your-madden-22-game-running-smoothly/"><u>Fast & Effective Ways to Get Your Madden 22 Game Running Smoothly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-resolve-the-fatal-developer-glitches-in-call-of-dutys-mw-and-wz-games/"><u>How to Resolve the Fatal Developer Glitches in Call of Duty's MW & WZ Games</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-from-concept-to-creation-crafting-youtube-video-splits/"><u>In 2024, From Concept to Creation Crafting YouTube Video Splits</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-look-at-the-acer-chromebook-15-high-quality-chrome-experience-on-widescreen/"><u>In-Depth Look at the Acer Chromebook 15: High-Quality Chrome Experience on Widescreen</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ios-18-revolutionizes-call-recording-with-in-built-feature-no-app-required-dive-into-the-details/"><u>IOS 18 Revolutionizes Call Recording with In-Built Feature, No App Required - Dive Into the Details</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-technical-glitches-a-guide-to-stopping-pc-crashes-while-playing-watch-dogs-legion/"><u>Overcoming Technical Glitches: A Guide to Stopping PC Crashes While Playing Watch Dogs Legion</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-startup-issues-in-how-to-build-a-metropolis-edition-two/"><u>Resolving Startup Issues in How to Build a Metropolis: Edition Two</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-evolution-of-electric-cars-an-in-depth-journey-through-time/"><u>The Evolution of Electric Cars: An In-Depth Journey Through Time</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-low-frames-per-second-fps-in-valheim-effective-tips-for-smoother-gaming-in-202n4/"><u>Troubleshooting Low Frames Per Second (FPS) in Valheim: Effective Tips for Smoother Gaming in 202N4</u></a></li>
 </ul></div>
 

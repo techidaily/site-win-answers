@@ -1,7 +1,7 @@
 ---
 title: Fix Elden Ring's Lag Issues in Just 6 Swift Solutions
-date: 2024-12-19T20:43:31.895Z
-updated: 2024-12-20T19:58:19.552Z
+date: 2024-12-16T23:03:09.174Z
+updated: 2024-12-21T18:39:30.597Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ After Watch Dogs and Valhalla, Ubisoft recently released another sandbox title i
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -36,6 +36,10 @@ After Watch Dogs and Valhalla, Ubisoft recently released another sandbox title i
 2. [**Verify the integrity of game files**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Update your graphics driver**](https://tools.techidaily.com/drivereasy/download/)
 4. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your PC specs meet the requirements
 
@@ -64,7 +68,7 @@ After Watch Dogs and Valhalla, Ubisoft recently released another sandbox title i
  If your rig is powerful enough for the game, check out the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Verify the integrity of game files
@@ -83,10 +87,6 @@ Here’s how:
  Once completed, launch Immortals Fenyx Rising and see if it crashes again.
 
 If this method doesn’t help, you can take a look at the next one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -112,10 +112,6 @@ If this method doesn’t help, you can take a look at the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
@@ -124,6 +120,10 @@ If this method doesn’t help, you can take a look at the next one.
  Once you’ve updated your graphics driver, restart your computer and see if Immortals Fenyx Rising crashes again.
 
  If updating your graphics driver doesn’t solve your problem, you can take a look at the next method below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Install all Windows updates
 
@@ -136,7 +136,7 @@ And here’s how you can make sure your system is the latest:
 2. Click **Check for updates** . Then wait for Windows to download and install available updates automatically.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
@@ -164,21 +164,24 @@ And here’s how you can make sure your system is the latest:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-step-by-step-techniques-for-earning-profits-on-vimeo/"><u>[New] 2024 Approved Step-by-Step Techniques for Earning Profits on Vimeo</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-keep-your-digital-life-streamlined-blocking-youtube-channels-smartly/"><u>[New] Keep Your Digital Life Streamlined Blocking Youtube Channels Smartly</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovative-approaches-to-nba-game-broadcasting/"><u>[Updated] Innovative Approaches to NBA Game Broadcasting</u></a></li>
-<li><a href="https://win-answers.techidaily.com/comprehensive-solution-to-counteract-warzone-version-5031-disc-read-failures-on-your-gaming-rig/"><u>Comprehensive Solution to Counteract Warzone [Version 5.0/3.1] Disc Read Failures on Your Gaming Rig</u></a></li>
-<li><a href="https://win-answers.techidaily.com/cure-marvels-guardians-of-the-galaxy-pc-glitches-with-these-8-essential-fixes/"><u>Cure Marvel's Guardians of the Galaxy PC Glitches with These 8 Essential Fixes!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/error-solved-successful-steps-for-connecting-to-live-configuration-servers/"><u>Error Solved: Successful Steps for Connecting to Live Configuration Servers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-optimize-your-gameplay-banishing-rainbow-six-siege-delays/"><u>How to Optimize Your Gameplay - Banishing Rainbow Six Siege Delays</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-plus-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 Plus To Other iPhone 14 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-oneplus-ace-2v-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track OnePlus Ace 2V Location by Number | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-navigate-subtitle-installation-in-wmp-easily/"><u>In 2024, Navigate Subtitle Installation in WMP Easily</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-revolutionize-your-farm-life-stardews-best-7-game-updates/"><u>In 2024, Revolutionize Your Farm Life Stardew's Best 7 Game Updates</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722882052175-iphone-not-ringtoning-here-are-quick-solutions-to-bring-back-sounds/"><u>IPhone Not Ringtoning? Here Are Quick Solutions to Bring Back Sounds</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolve-your-lag-advanced-fps-optimization-tricks-for-war-thunder-players-on/"><u>Resolve Your Lag: Advanced FPS Optimization Tricks for War Thunder Players On</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-god-of-war-memory-errors-tips-and-solutions-for-optimal-performance/"><u>Resolving God of War Memory Errors: Tips and Solutions for Optimal Performance</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshoot-and-restore-your-hp-screen-expert-solutions-to-common-display-problems/"><u>Troubleshoot and Restore Your HP Screen - Expert Solutions to Common Display Problems</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-the-differences-ipad-versus-regular-tablet-devices/"><u>Understanding the Differences: IPad Versus Regular Tablet Devices</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-diving-into-inshot-the-video-editing-leader-claimed/"><u>[New] 2024 Approved Diving Into InShot The Video Editing Leader Claimed?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-next-gen-clarity-leading-ps5-compatible-hdmi-21-displays/"><u>[New] Next Gen Clarity Leading PS5 Compatible HDMI 2.1 Displays</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/nlock-video-clarity-adding-captions-on-youtube-for-2024/"><u>[New] Unlock Video Clarity Adding Captions on YouTube for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/defeating-windows-glitches-a-step-by-step-solution-for-steelseries-gg-engine-malfunctions/"><u>Defeating Windows Glitches: A Step-by-Step Solution for SteelSeries GG Engine Malfunctions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/dirt-5-crashing-effective-remedies-to-ensure-smooth-gaming-experience-on-pc/"><u>Dirt 5 Crashing: Effective Remedies to Ensure Smooth Gaming Experience on PC</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-install-kyocera-printer-software-on-windows-step-by-step-guide/"><u>Download & Install KYOCERA Printer Software on Windows: Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-getting-past-the-crash-in-persona-5-strikers-for-pc-gamers/"><u>Expert Advice: Getting Past the Crash in Persona 5 Strikers for PC Gamers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-for-a-flawless-download-and-installation-of-age-of-empires-iv-on-mstpc/"><u>Expert Tips for a Flawless Download and Installation of Age of Empires IV on MSTPC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-guide-resolving-pathfinder-game-crashes-on-pc/"><u>Fix Guide: Resolving Pathfinder Game Crashes on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-low-fps-problems-while-playing-farming-simulator-22-on-your-computer/"><u>How to Fix Low FPS Problems While Playing Farming Simulator 22 on Your Computer</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-apple-iphone-15-pro-to-ipod-touch-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Music from Apple iPhone 15 Pro to iPod touch | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-honor-play-7t-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Honor Play 7T to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-uncomplicated-video-snip-for-win10-users/"><u>In 2024, Uncomplicated Video Snip for Win10 Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722992578404-no-more-freezes-solve-your-jurasseback-world-evolution-crash-problems-now/"><u>No More Freezes - Solve Your Jurasseback-World Evolution Crash Problems Now</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-honor-x50i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Honor X50i | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-8-solutions-to-resolve-non-responsive-firefox-problems/"><u>Top 8 Solutions to Resolve Non-Responsive Firefox Problems</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/totobays-2nd-gen-wake-up-light-evaluated-your-ideal-budget-sleep-solution/"><u>Totobay's 2Nd Gen Wake-Up Light Evaluated: Your Ideal Budget Sleep Solution</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshoot-your-gameplay-fixing-graphics-driver-crashed-error-in-valorant-fast/"><u>Troubleshoot Your Gameplay: Fixing 'Graphics Driver Crashed' Error in Valorant Fast!</u></a></li>
+<li><a href="https://change-location.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Samsung Galaxy A14 5G? | Dr.fone</u></a></li>
 </ul></div>
 

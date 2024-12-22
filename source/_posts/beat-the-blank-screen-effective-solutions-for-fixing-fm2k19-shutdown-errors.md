@@ -1,7 +1,7 @@
 ---
 title: "Beat the Blank Screen: Effective Solutions for Fixing FM2K19 Shutdown Errors"
-date: 2024-08-19T02:06:02.286Z
-updated: 2024-08-20T02:06:02.286Z
+date: 2024-12-16T18:37:49.039Z
+updated: 2024-12-21T21:11:41.768Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/7491070a9335b06cf0f788f98c5ea183aa46a07a8
 
 [5: Switch to another server](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Check your Internet connection
 
  The first thing you can do is to make sure your Internet connection is valid and able to connect to Apex Legends servers. A few things you can look for to check your Internet connection go as below:
@@ -61,16 +65,19 @@ thumbnail: https://thmb.techidaily.com/7491070a9335b06cf0f788f98c5ea183aa46a07a8
 2. Click**Change adapter options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
+
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
@@ -94,17 +101,15 @@ thumbnail: https://thmb.techidaily.com/7491070a9335b06cf0f788f98c5ea183aa46a07a8
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the flagged network adapter driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. I’m using a graphics driver as an example here, since updating your graphics driver could solve many game issues (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 5: Switch to another server
 
  We know the error code leaf is a server connectivity issue, and the problem is more likely with the server-side. One last thing that players can do is to switch to a low ping server. The option of choosing a server is hidden, and here’s how to bring it to the front:
@@ -114,22 +119,11 @@ thumbnail: https://thmb.techidaily.com/7491070a9335b06cf0f788f98c5ea183aa46a07a8
 3. When you’re prompted to exit the game, click**Cancel** to go back to the main page.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/exit-game.png)
 4. Now you’ll see an option of**Data Center** at the bottom of your main page.  
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/data-centers.png)
 5. Click**Data Center** , then you’ll see a list of all available servers with their ping times and loss rate. You can choose a low ping server or try several servers until you can join the game.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -146,8 +140,6 @@ thumbnail: https://thmb.techidaily.com/7491070a9335b06cf0f788f98c5ea183aa46a07a8
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -155,4 +147,24 @@ thumbnail: https://thmb.techidaily.com/7491070a9335b06cf0f788f98c5ea183aa46a07a8
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-how-to-use-movie-maker-on-windows-8/"><u>[New] 2024 Approved How to Use Movie Maker on Windows 8</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-first-steps-in-the-digital-dollar-youtube-earning-hacks/"><u>[Updated] 2024 Approved First Steps in the Digital Dollar - YouTube Earning Hacks</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-the-battle-of-accessible-viewerships-google-vs-samsung-headsets/"><u>[Updated] In 2024, The Battle of Accessible Viewerships Google Vs. Samsung Headsets</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-editors-codex-innovations-in-youtube-video-formatting/"><u>[Updated] The Editor's Codex Innovations in Youtube Video Formatting</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bypassing-the-hurdle-of-nba-2k2ns-code-727e66ac-comprehensive-fixes-players/"><u>Bypassing the Hurdle of NBA 2K2n's Code 727E66ac - Comprehensive Fixes Players</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-on-correcting-the-error-0xc19001e1-in-your-windows-11-pc/"><u>Expert Advice on Correcting the 'Error 0Xc19001e1' In Your Windows 11 PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-silent-issues-solutions-when-lost-ark-game-lacks-audio/"><u>Fixing Silent Issues: Solutions When 'Lost Ark' Game Lacks Audio</u></a></li>
+<li><a href="https://techidaily.com/hiberfilsys-windows-11-and-how-to-delete-it-solved/"><u>hiberfil.sys Windows 11 & How to Delete It? [Solved]</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-an-unresponsive-email-on-your-apple-device/"><u>How To Fix an Unresponsive Email on Your Apple Device</u></a></li>
+<li><a href="https://win-blog.techidaily.com/immortals-fenyx-rising-launch-postponed-heres-why-and-the-new-date/"><u>Immortals Fenyx Rising Launch Postponed? Here's Why & The New Date</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-copyright-quest-for-content-creators-tiktok-edition/"><u>In 2024, Copyright Quest for Content Creators (TikTok Edition)</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Itel P55+? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/oculus-link-woes-here-are-six-swift-methods-to-get-you-back-online/"><u>Oculus Link Woes? Here Are Six Swift Methods to Get You Back Online</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-fps-fluctuations-in-resident-evil-village-on-pc-a-detailed-analysis/"><u>Resolved: FPS Fluctuations in Resident Evil Village on PC - A Detailed Analysis</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-monster-hunter-rise-wont-start-fix-guide/"><u>Solved: Monster Hunter Rise Won't Start - Fix Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-halo-infinity-solutions-for-the-undetected-data-center-connection-failure/"><u>Troubleshooting Halo Infinity: Solutions for the Undetected Data Center Connection Failure</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-black-ops-cold-wars-critical-error-code-0xc00cuh005/"><u>Troubleshooting Steps for Black Ops Cold War's Critical Error Code 0Xc00cuh005</u></a></li>
+</ul></div>
 

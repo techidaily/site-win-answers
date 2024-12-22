@@ -1,7 +1,7 @@
 ---
 title: "Mastering Lethal Business Launch Fixes: Key Insights and Tactics"
-date: 2024-12-16T20:14:33.336Z
-updated: 2024-12-20T16:26:43.939Z
+date: 2024-12-19T18:43:20.162Z
+updated: 2024-12-21T17:30:08.931Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/6befd60c173a5cd8b8d9dfcf598dea7f7e1558ad2
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -49,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/6befd60c173a5cd8b8d9dfcf598dea7f7e1558ad2
 2. Choose the**Compatibility** tab. Then tick**Disable fullscreen optimizations** and**Run the program as an administrator** and click**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-genshin-as-administrator-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After you apply the settings, launch the Genshin Impact file directly from the folder and see if it opens correctly. If not, check out the second fix below.
 
@@ -97,11 +101,11 @@ There are mainly two ways you can update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/visual-c-file.jpg)
 
- Now that you’ve installed the latest DirectX and Visual redistributable files, see if Genshin Impact works. If not, proceed to the next method.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Now that you’ve installed the latest DirectX and Visual redistributable files, see if Genshin Impact works. If not, proceed to the next method.
 
 ### Fix 4 – Perform a clean boot
 
@@ -112,7 +116,7 @@ There are mainly two ways you can update the graphics driver:
 2. Select the**Services** tab. Then tick**Hide all Microsoft services** and click**Disable all** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-2-3.jpg)
@@ -121,20 +125,24 @@ There are mainly two ways you can update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-2-2-1.jpg)
 4. Navigate to the**Startup** tab. Right-click each enabled item and click**Disable** . Then close the window.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-4.jpg)
 5. Go back to the System Configuration window and click**OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-2-3-1.jpg)
 6. Click**Restart** when prompted.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-2-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After the computer starts up, launch Genshin Impact to check if the issue persists. If it works without trouble,**enable the services one or a few like four or five at a time** . If the game works fine, there is no problem with these services. Then repeat the steps until you’ve checked all the services.
@@ -152,15 +160,7 @@ There are mainly two ways you can update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/normal-startup.jpg)
 3. Click**Restart** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-2-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5 – Repair the game files
 
@@ -172,7 +172,7 @@ There are mainly two ways you can update the graphics driver:
 3. Select**Repair Game Files** from the left and click**Repair Now** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/repair-game-file-genshin-2.jpg)
@@ -200,21 +200,21 @@ There are mainly two ways you can update the graphics driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-infinite-gaming-space-10-ssds-hdds-for-ps5-for-2024/"><u>[New] Infinite Gaming Space #10 SSDs, HDDs for PS5 for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-removing-advertisements-from-youtube-videos-on-chromefirefox/"><u>[New] Removing Advertisements From YouTube Videos on Chrome/Firefox</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-navigating-the-art-of-live-stream-archiving-for-tv-series/"><u>[Updated] 2024 Approved Navigating the Art of Live Stream Archiving for TV Series</u></a></li>
-<li><a href="https://win-answers.techidaily.com/accurately-estimating-data-variability-with-microsoft-excel-techniques-and-tips/"><u>Accurately Estimating Data Variability with Microsoft Excel: Techniques & Tips</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/android-enthusiasts-celebrate-as-googles-landmark-antitrust-deal-brings-victory/"><u>Android Enthusiasts Celebrate as Google's Landmark Antitrust Deal Brings Victory</u></a></li>
-<li><a href="https://win-answers.techidaily.com/calculating-days-remaining-before-your-upcoming-events-with-microsoft-excel/"><u>Calculating Days Remaining Before Your Upcoming Events with Microsoft Excel</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-tips-for-assessing-robot-cleaners-see-how-we-do-it-at-zdnet-tech-insights/"><u>Expert Tips for Assessing Robot Cleaners - See How We Do It at ZDNET | Tech Insights</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-infinix-hot-40i-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Infinix Hot 40i FRP Locks</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-personal-drones-that-track-and-follow-you/"><u>In 2024, Personal Drones that Track and Follow You</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On OnePlus Nord N30 5G | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-instructions-for-adding-altering-viewing-and-converting-excel-notebook-entries/"><u>Step-by-Step Instructions for Adding, Altering, Viewing & Converting Excel Notebook Entries</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-innovators-choice-best-gimbal-systems-for-video-creators/"><u>The Innovator’s Choice Best Gimbal Systems for Video Creators</u></a></li>
-<li><a href="https://win-answers.techidaily.com/this-weeks-highlights-bidding-farewell-to-entry-level-subscription-plans-and-advanced-smartphone-repair-techniques/"><u>This Week’s Highlights: Bidding Farewell to Entry-Level Subscription Plans & Advanced Smartphone Repair Techniques</u></a></li>
-<li><a href="https://win-answers.techidaily.com/transforming-data-with-emoticons-customize-excel-cells-for-visual-impact-and-responsiveness/"><u>Transforming Data with Emoticons: Customize Excel Cells for Visual Impact and Responsiveness</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-tutorial-creating-effective-headlines-using-microsoft-excel/"><u>Ultimate Tutorial: Creating Effective Headlines Using Microsoft Excel</u></a></li>
-<li><a href="https://win-answers.techidaily.com/unlocking-advanced-features-with-function-keys-in-microsoft-excel-everything-you-need-to-know/"><u>Unlocking Advanced Features with Function Keys in Microsoft Excel - Everything You Need to Know</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-connect-tv-audiences-with-creative-fb-livestream-strategies/"><u>[Updated] 2024 Approved Connect TV Audiences with Creative FB Livestream Strategies</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-top-5-ps1-emulators-bringing-classic-games-back-for-2024/"><u>[Updated] Top 5 PS1 Emulators - Bringing Classic Games Back for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-zooms-heavy-cpu-usage-with-these-effective-fixes/"><u>Beat Zoom's Heavy CPU Usage with These Effective Fixes</u></a></li>
+<li><a href="https://blog-min.techidaily.com/conversion-gratuite-de-fichiers-video-avi-vers-asf-en-ligne-avec-convertidivideo/"><u>Conversion Gratuite De Fichiers Vidéo: AVI Vers ASF en Ligne Avec Convertidivideo</u></a></li>
+<li><a href="https://win-answers.techidaily.com/end-the-annoyance-instant-ways-to-resolve-titanfall-2s-frequent-crashes/"><u>End the Annoyance! Instant Ways to Resolve Titanfall 2'S Frequent Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-logitech-gamepad-software-errors-a-step-by-step-solution/"><u>How to Fix Logitech Gamepad Software Errors: A Step-by-Step Solution</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-rekindle-the-sounds-of-post-apocalypse-fixing-sound-issues-in-fallout-ns-pc-version/"><u>How to Rekindle the Sounds of Post-Apocalypse: Fixing Sound Issues in Fallout N's PC Version</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Xiaomi 13 Ultra | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-premiere-pro-solutions-to-perfect-iphone-hd-video-exposure-balance/"><u>In 2024, Premiere Pro Solutions to Perfect iPhone HD Video Exposure Balance</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-connectivity-issues-for-spotify-on-windows-11/"><u>Mastering Connectivity Issues for Spotify on Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/next-level-graphics-performance-in-nvidia-210-driver/"><u>Next-Level Graphics Performance in Nvidia 210 Driver</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimizing-lost-ark-solutions-for-improved-fps-stability/"><u>Optimizing Lost Ark: Solutions for Improved FPS Stability</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-dev-error-in-call-of-duty-vanguard-error-code-5573-explained/"><u>Troubleshooting Dev Error in Call of Duty Vanguard - Error Code 55^73 Explained</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-fixes-for-discord-latency-problems-a-comprehensive-2024-tutorial/"><u>Ultimate Fixes for Discord Latency Problems: A Comprehensive 2024 Tutorial</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/windows-11-preserves-classic-show-desktop-feature-no-replacement-planned/"><u>Windows 11 Preserves Classic 'Show Desktop' Feature: No Replacement Planned</u></a></li>
 </ul></div>
 

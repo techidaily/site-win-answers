@@ -1,7 +1,7 @@
 ---
 title: Ultimate Troubleshooting Guide for Madden NFL 21 PC Instability Issues
-date: 2024-12-16T19:44:28.489Z
-updated: 2024-12-20T20:10:51.062Z
+date: 2024-12-16T22:52:35.946Z
+updated: 2024-12-21T18:32:07.970Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ Starcraft 2 has been played by millions of people and thousands of esports profe
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -41,10 +41,6 @@ Starcraft 2 has been played by millions of people and thousands of esports profe
 9. **[Run Starcraft 2 in windowed mode](https://tools.techidaily.com/drivereasy/download/)**
 10. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Install the latest game patch
 
  Game developers always keep releasing patches to improve their games and fix existing issues, so you should manually check for updates of your game and game launcher. Keep your Starcraft 2 up to date to avoid any existing game bugs.
@@ -59,6 +55,10 @@ Starcraft 2 has been played by millions of people and thousands of esports profe
 2. Select your Starcraft 2.
 3. Click![](https://images.drivereasy.com/wp-content/uploads/2020/02/options.png) below the title of the game and select**Scan and Repair** .
 4. Click**Begin Scan** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Wait for the repair to finish.
 
@@ -92,7 +92,7 @@ Starcraft 2 has been played by millions of people and thousands of esports profe
 3. Click the Update button next to the flagged video card to automatically download the correct version of their driver (you can do this with the FREE version), then install the driver manually on your computer.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **OR** click**_Update All_** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click_Update All_ , which comes with a 30-day no question asked money back guarantee.)  
@@ -100,6 +100,10 @@ Starcraft 2 has been played by millions of people and thousands of esports profe
  _Note: If you experience any problems when using Driver Easy Pro, please contact our support team at_ [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 4. Restart your computer and check if**Starcraft 2 crashing issue** s still persist.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Stop overclocking
 
@@ -113,10 +117,6 @@ _Note: This method applies only to the_ non-reference model cards_._
 ![Open NVIDIA control panel](https://images.drivereasy.com/wp-content/uploads/2020/02/NVIDIA-control-panel.jpg)
 2. Expand the**Help** menu, and check the**Debug Mode** option.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![debug-mode-nvidia](https://images.drivereasy.com/wp-content/uploads/2020/02/Debug-Mode.jpg)
 
  This will help you downclock any factory overclocked graphics card to Nvidia reference clock speeds. Although generally speaking, overclocking provides better performance in games and graphics-intensive applications, it can sometimes cause crashing issues and shorten the lifespan of your graphics card.
@@ -128,10 +128,6 @@ _Note: This method applies only to the_ non-reference model cards_._
 1. Open your Blizzard launcher.
 2. Click![](https://images.drivereasy.com/wp-content/uploads/2020/02/options-1.png) and select**Game settings** .
 3. Scroll down to Starcraft 2 and click the**Reset In-Game Options** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Click **Reset** .
 5. Click **Done** , then relaunch the game.
@@ -147,7 +143,7 @@ _Note: This method applies only to the_ non-reference model cards_._
  If you don’t know how to do it, you can consult your antivirus documentation for instructions or search **How to Add Antivirus Exclusions to \[name of your antivirus app\]** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 7: Run Starcraft 2 as administrator
@@ -158,6 +154,10 @@ _Note: This method applies only to the_ non-reference model cards_._
 2. Select**Properties** on the pop-up menu
 3. Navigate to the**Compatibility** tab.
 4. Check the**Run this program as administrator** box.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 8: Set Affinity for Starcraft 2
 
@@ -193,25 +193,25 @@ _Note: This method applies only to the_ non-reference model cards_._
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/type_msconfig_in_the_run_box.jpg)
 3. Click the **Services** tab in the new window and check the **Hide all Microsoft services** box, then click **Disable all** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/disable-all.png)
 4. Select the **Startup** tab and click **Open Task Manager** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![open task manager](https://images.drivereasy.com/wp-content/uploads/2020/02/startup.png)
 5. Under the **Startup** tab, select **each** startup item and then click **Disable** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/disable-all-startups.png)
 6. Go back to **System Configuration** , then click **OK** .  
 
 ![go back to configuration window to click OK](https://images.drivereasy.com/wp-content/uploads/2020/02/click-OK.png)
 7. Restart your PC and launch Starcraft 2 to see if the game can launch normally.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -235,22 +235,14 @@ _Note: This method applies only to the_ non-reference model cards_._
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-quickest-sharp-window-photo-enhancer/"><u>[New] In 2024, Quickest Sharp Window Photo Enhancer</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-discover-and-set-up-vrecorder-in-minutes-148-characters/"><u>[Updated] 2024 Approved Discover & Set Up VRecorder in Minutes (148 Characters)</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-effective-youtube-card-usage-guide/"><u>[Updated] In 2024, Effective YouTube Card Usage Guide</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-ranking-the-greats-top-15-stop-motion-masterpieces/"><u>[Updated] Ranking the Greats - Top 15 Stop Motion Masterpieces</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-11-best-free-youtube-name-generators-you-should-know/"><u>2024 Approved 11 Best Free YouTube Name Generators You Should Know</u></a></li>
-<li><a href="https://win-answers.techidaily.com/2024-ultimate-guide-eliminate-dota-2-latency-issues/"><u>2024 Ultimate Guide: Eliminate Dota 2 Latency Issues</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/digital-canvas-enhancement-effortless-image-text-edits/"><u>Digital Canvas Enhancement Effortless Image Text Edits</u></a></li>
-<li><a href="https://win-answers.techidaily.com/diy-solutions-to-tackle-and-repair-fifa-19s-persistent-directx-errors-quickly/"><u>DIY Solutions to Tackle and Repair FIFA 19'S Persistent DirectX Errors Quickly</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/enhance-instagram-content-with-background-tracks/"><u>Enhance Instagram Content with Background Tracks</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/how-to-insert-various-image-formats-into-a-unified-flipbook-using-flipbuildercom/"><u>How to Insert Various Image Formats Into a Unified FlipBook Using FlipBuilder.com</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Lava Yuva 2? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/master-solution-for-the-notorious-ls-0013-problem-plaguing-borderlands-3-players/"><u>Master Solution for the Notorious LS-0013 Problem Plaguing Borderlands 3 Players</u></a></li>
-<li><a href="https://win-answers.techidaily.com/optimize-in-game-performance-proven-strategies-to-fix-low-fps-in-pc-games/"><u>Optimize In-Game Performance: Proven Strategies to Fix Low FPS in PC Games</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722996649091-overcome-game-crashes-during-halo-infinite-sessions-on-pcs-now-fixed/"><u>Overcome: Game Crashes During Halo Infinite Sessions on PCs - Now Fixed</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solution-steps-overcoming-the-frustration-of-madden-21-freezing-on-windows-and-mac/"><u>Solution Steps: Overcoming the Frustration of Madden 21 Freezing on Windows and Mac</u></a></li>
-<li><a href="https://win-answers.techidaily.com/uncovered-fixes-dealing-with-fortnite-launch-pad-not-detected-error/"><u>Uncovered Fixes: Dealing with Fortnite Launch Pad Not Detected Error</u></a></li>
-<li><a href="https://win-answers.techidaily.com/war-thunder-continues-to-crash-top-strategies-to-fix-it/"><u>War Thunder Continues to Crash : Top Strategies to Fix It</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-synchronizing-releases-with-listener-habits/"><u>2024 Approved Synchronizing Releases with Listener Habits</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ending-the-frustration-troubleshooting-pc-shutdowns-during-star-wars-battlefront-ii-gameplay/"><u>Ending the Frustration: Troubleshooting PC Shutdowns During Star Wars Battlefront II Gameplay</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-implemented-accessing-origin-service-restored/"><u>Fix Implemented: Accessing Origin Service Restored</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/gentle-pace-reducing-music-intensity-for-2024/"><u>Gentle Pace Reducing Music Intensity for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-8-plus-to-other-iphone-15-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 8 Plus to other iPhone 15 devices? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722997675208-mastering-star-wars-fighter-squadron-collisions-resolved/"><u>Mastering Star Wars: Fighter Squadron Collisions - Resolved!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-hitman-3-pc-freezes-and-crashes-with-proven-tips-for-a-smooth-gaming-experience/"><u>Overcome Hitman 3 PC Freezes and Crashes with Proven Tips for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://win-superb.techidaily.com/step-by-step-tutorial-on-extracting-music-and-video-from-bet-streams-for-high-quality-mp4mp3-playback/"><u>Step-by-Step Tutorial on Extracting Music and Video From BET Streams for High-Quality MP4/MP3 Playback</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/wallet-friendly-360-degree-video-technology/"><u>Wallet-Friendly 360-Degree Video Technology</u></a></li>
 </ul></div>
 

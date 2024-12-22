@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Troubleshooting IE Browser Issues - Unable to View Web Pages"
-date: 2024-12-17T20:21:28.629Z
-updated: 2024-12-20T21:03:06.254Z
+date: 2024-12-20T02:25:40.602Z
+updated: 2024-12-21T22:24:42.056Z
 tags:
   - win11
   - win10
@@ -54,6 +54,10 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Restart the game after the process is complete.
 
 If Phasmophobia still crashes, move on to the next fix below.
@@ -69,10 +73,6 @@ Game crashing issues might happen when your game files are corrupted.
 3) Under the**LOCAL FILES** tab, click**Browse** ….
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-02_18-19-47.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Delete everything except these:
 
@@ -101,7 +101,7 @@ If the game still crashes, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-57-32.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it.  
@@ -118,6 +118,10 @@ If the game still crashes, try the next fix below.
 
 If the crash still occurs, go ahead with the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Lower your graphics settings
 
  If your computer is not powerful enough to handle Phasmophobia, you may run into performance issues from time to time. One workaround for this is lowering your in-game graphics settings.
@@ -129,10 +133,6 @@ If the crash still occurs, go ahead with the next fix.
 3) Turn down everything as low as possible.
 
  If you still experience crashing issues, then the issue is not with your game settings. You can change the settings back and try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Launch the game with DirectX 10
 
@@ -147,20 +147,20 @@ If the crash still occurs, go ahead with the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-22_16-23-03.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Launch the game to see if your problem has been resolved.
 
 If Phasmophobia crashing issues persist, try the next fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 7: Stop overlocking your GPU/CPU
 
  If you’ve manually overclocked your GPU or CPU, revert it to its default GPU/CPU clock. And if you are using overclocking software, such as MSI Afterburner, please also disable the software when running the game.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 8: Disable fullscreen optimizations
 
@@ -172,6 +172,10 @@ If Phasmophobia crashing issues persist, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-23_14-53-17.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Apply > OK** .
 
  4) Relaunch the game to test your issue.
@@ -179,7 +183,7 @@ If Phasmophobia crashing issues persist, try the next fix below.
 If the problem still exists, try the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 9: Try Phasmophobia beta version
@@ -193,10 +197,6 @@ If the problem still exists, try the next fix below.
 3) Go to the**BETAS tab** . Under**Select the beta you would like to opt into** , select a beta version if there’re any available.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-23_15-19-31.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Hopefully, this article has solved your problem! Please feel free to leave a comment if you have any questions or suggestions.
 
@@ -217,15 +217,21 @@ If the problem still exists, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/12-best-html5-video-players-you-should-know/"><u>12 Best Html5 Video Players You Should Know</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/clearstream-eclipse-antenna-review/"><u>ClearStream Eclipse Antenna Review</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-strategies-to-fix-a-deadly-ark-error-tips-and-tricks/"><u>Effective Strategies to Fix a Deadly Ark Error - Tips & Tricks</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-msedgeexe-crashes-troubleshooting-steps-for-stable-edge-browser-experience/"><u>Fixing MsEdge.exe Crashes: Troubleshooting Steps for Stable Edge Browser Experience</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-the-perfected-practice-of-combining-youtube-videos/"><u>In 2024, The Perfected Practice of Combining YouTube Videos</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcome-your-airpods-windows-11-connectivity-challenges-the-latest-fixes/"><u>Overcome Your AirPods-Windows 11 Connectivity Challenges - The Latest Fixes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-fixing-issues-with-missing-textures-in-call-of-duty-warzone/"><u>Resolved: Fixing Issues with Missing Textures in Call of Duty: Warzone</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/revitalize-your-vintage-memories-top-techniques-for-photo-renewal/"><u>Revitalize Your Vintage Memories: Top Techniques for Photo Renewal</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/solved-move-from-asus-rog-phone-8-pro-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Asus ROG Phone 8 Pro to iOS not Working Problems | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-and-resolving-frame-rate-drops-in-ac-valhalla-for-windows-gamers/"><u>Troubleshooting and Resolving Frame Rate Drops in AC Valhalla for Windows Gamers</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-capturing-thrills-is-gopros-hero-black-superior-to-x1000v-in-2024/"><u>[New] Capturing Thrills Is GoPro's Hero Black Superior to X1000V, In 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-dji-quadcopter-a-deep-dive-into-phantom-3/"><u>[New] In 2024, DJI Quadcopter A Deep Dive Into Phantom 3</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-expanding-your-audience-stream-successfully-across-30plus-outlets-for-2024/"><u>[Updated] Expanding Your Audience Stream Successfully Across 30+ Outlets for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-crafting-a-winning-windowsmac-skype-chat-circle/"><u>[Updated] In 2024, Crafting a Winning Windows/Mac Skype Chat Circle</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-innovative-tech-voice-changing-apps-reviewed/"><u>[Updated] In 2024, Innovative Tech Voice-Changing Apps Reviewed</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-for-resolving-game-audio-problems-in-resident-evil-village/"><u>Expert Tips for Resolving Game Audio Problems in Resident Evil Village</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722999047011-gastric-decontamination-methods-like-activated-charcoal-may-reduce-absorption-of-ingested-poisons-but-are-not-always-appropriate-or-effective/"><u>Gastric Decontamination Methods Like Activated Charcoal May Reduce Absorption of Ingested Poisons but Are Not Always Appropriate or Effective.</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-successfully-tackle-crashes-in-helldivers-2-on-pc-proven-fixes-inside/"><u>How to Successfully Tackle Crashes in Helldivers 2 on PC - Proven Fixes Inside!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-game-lag-in-nier-replicant-tips-and-fixes-for-smooth-play/"><u>Overcoming Game Lag in NieR: Replicant - Tips & Fixes for Smooth Play</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-installation-hurdles-for-an-uninterrupted-experience-in-tiny-tinas-realm/"><u>Overcoming Installation Hurdles for an Uninterrupted Experience in Tiny Tina's Realm</u></a></li>
+<li><a href="https://techtrends.techidaily.com/overcoming-msxml4dll-error-your-ultimate-fix-guide/"><u>Overcoming Msxml4.dll Error: Your Ultimate Fix Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overwatch-fixed-graphics-driver-issues-no-more-crashes/"><u>Overwatch: Fixed Graphics Driver Issues - No More Crashes</u></a></li>
+<li><a href="https://change-location.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Vivo Y78 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solution-steps-for-iphones-with-stagnant-email-update-problems/"><u>Solution Steps for iPhones with Stagnant Email Update Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solve-your-problems-with-the-best-fixes-for-stray-not-working/"><u>Solve Your Problems with the Best Fixes for Stray Not Working</u></a></li>
+<li><a href="https://win-answers.techidaily.com/valorant-graphics-error-resolved-rapid-remedies-for-your-graphic-driver-crashes/"><u>Valorant Graphics Error Resolved: Rapid Remedies for Your Graphic Driver Crashes</u></a></li>
 </ul></div>
 

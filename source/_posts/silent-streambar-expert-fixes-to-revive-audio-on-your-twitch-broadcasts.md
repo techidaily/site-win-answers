@@ -1,7 +1,7 @@
 ---
 title: "Silent Streambar: Expert Fixes to Revive Audio on Your Twitch Broadcasts"
-date: 2024-12-15T16:05:37.924Z
-updated: 2024-12-20T21:15:47.092Z
+date: 2024-12-18T18:13:58.401Z
+updated: 2024-12-21T19:36:03.084Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why am I getting this error message?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/featured_-1200x653.jpg)
@@ -37,6 +41,10 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 * Outdated device drivers
 * Software confliction
 * etc.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to fix ‘ **_Connection to the Battle.net game server has been lost_**  ‘?
 
@@ -68,6 +76,10 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 ![allow app run through firewall](https://images.drivereasy.com/wp-content/uploads/2021/07/allow.jpg)
 4. Look for your game e.g. **Call of Duty: Black Ops Cold War** , and make sure the box to its left is checked, as well as the two boxes to the right i.e.**Private** &**Public** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As you know Public network is an unsafe territory, do not allow any third-party application of unknown origin on any public network in your computer settings.
 
 If your game isn’t on the list, follow these steps:
@@ -75,10 +87,6 @@ If your game isn’t on the list, follow these steps:
 1. Click on **Change settings > Allow another app…**  
 ![change settings](https://images.drivereasy.com/wp-content/uploads/2021/07/add-program.gif)
 2. Click**Browse** to locate your game (**BlackOpsColdWar.exe** ) and click**Add** once selected.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3. Once added, tick both the**Private** and**Public** boxes for the application.
 4. Restart your Battle.net and play the game again the test the issue.
@@ -90,10 +98,6 @@ If your game isn’t on the list, follow these steps:
 1. In the Windows search box, type **cmd** . Under **Command Prompt** , select **Run as administrator** .  
 _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.jpg)_
 2. Click **OK** to confirm your action.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3. Once the Command Prompt window is open, type the following 5 command lines (press **Enter**  after entering each command line):  
 
@@ -117,7 +121,7 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 4. Double-click **Internet Protocol Version 4 (TCP/IPv4)** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![ipv4](https://images.drivereasy.com/wp-content/uploads/2021/07/IPV4-2.jpg)
@@ -130,11 +134,11 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 6. Click **OK** to apply.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4\. Update your device drivers
@@ -154,17 +158,13 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 3. Click the **Update** button next to the flagged network adapter driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click Update All to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/update-network-driver-2.jpg)
 4. Once your drivers are up to date, restart your computer for the changes to take full effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5\. Use a VPN
 
@@ -204,20 +204,20 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-harnessing-the-power-of-hashtags-to-amplify-your-igtv-content/"><u>[New] Harnessing the Power of Hashtags to Amplify Your IGTV Content</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-behind-the-scenes-youtubes-view-count-algorithm-for-2024/"><u>[Updated] Behind the Scenes YouTube's View Count Algorithm for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-elevate-your-youtube-presence-filmmaking-with-filmora/"><u>[Updated] In 2024, Elevate Your YouTube Presence Filmmaking with Filmora</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-progressive-array-of-chat-initiators-for-attracting-podcast-audience/"><u>[Updated] Progressive Array of Chat-Initiators for Attracting Podcast Audience</u></a></li>
-<li><a href="https://win-answers.techidaily.com/assassins-creed-valhalla-is-coming-soon-dispelling-rumors-of-a-cancelled-release/"><u>Assassin's Creed Valhalla Is Coming Soon! Dispelling Rumors of a Cancelled Release</u></a></li>
-<li><a href="https://win-answers.techidaily.com/busting-through-strategies-to-deal-with-sudden-character-hits-on-pc-games/"><u>Busting Through: Strategies to Deal with Sudden Character Hits on PC Games</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-division-2-freezing-issues-a-swift-and-simple-tutorial/"><u>Fixing Division 2 Freezing Issues: A Swift and Simple Tutorial</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-poco-x6-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Poco X6 | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-continuous-crashes-optimizing-your-pc-to-run-call-of-duty-mobile-suit-warzone-ii-smoothly/"><u>Overcoming Continuous Crashes: Optimizing Your PC to Run Call of Duty: Mobile Suit Warzone II Smoothly</u></a></li>
-<li><a href="https://win-answers.techidaily.com/pathfinder-fix-for-recurring-issues-with-the-wrath-of-the-righteous-game-stability/"><u>Pathfinder: Fix for Recurring Issues with 'The Wrath of the Righteous' Game Stability</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/pushing-boundaries-for-fb-video-performance/"><u>Pushing Boundaries for FB Video Performance</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-directx-compatibility-errors-in-fifa-20-for-a-seamless-gaming-experience/"><u>Resolving DirectX Compatibility Errors in FIFA 20 for a Seamless Gaming Experience</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-splitgate-performance-issues-increase-your-fps-and-eliminate-lag/"><u>Solving Splitgate Performance Issues: Increase Your FPS and Eliminate Lag</u></a></li>
-<li><a href="https://facebook.techidaily.com/spotlight-on-your-preferred-snapchatinstatiktok/"><u>Spotlight on Your Preferred Snapchat/Insta/TikTok</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-7-best-imessage-games-you-cant-miss/"><u>Top 7 Best iMessage Games You Can't Miss</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-personalized-melodies-made-easy-building-a-youtube-music-collection-on-webmobile/"><u>[Updated] 2024 Approved Personalized Melodies Made Easy Building a YouTube Music Collection on Web/Mobile</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-digital-detox-how-to-turn-off-youtube-on-computers-and-phones-for-2024/"><u>[Updated] Digital Detox How to Turn Off Youtube on Computers and Phones for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-off-facebook-activity-analysis-and-secure-browsing-practices/"><u>[Updated] Off-Facebook Activity Analysis & Secure Browsing Practices</u></a></li>
+<li><a href="https://win-answers.techidaily.com/avoid-startup-crashes-in-hogwarts-legacy-discover-the-8-key-methods/"><u>Avoid Startup Crashes in Hogwarts Legacy – Discover the 8 Key Methods</u></a></li>
+<li><a href="https://win-answers.techidaily.com/conquer-the-fallout-76-crashing-glitch-masterful-fixes-for-a-seamless-experience/"><u>Conquer the Fallout 76 Crashing Glitch: Masterful Fixes for a Seamless Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-error-code-4201-in-genshin-impact-a-step-by-step-guide/"><u>Fixing Error Code 4201 in Genshin Impact: A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/html-techniques-for-youtube-playlist-web-insertion-for-2024/"><u>HTML Techniques for YouTube Playlist Web Insertion for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-from-filmless-to-film-rich-digitizing-yesteryears-images/"><u>In 2024, From Filmless to Film-Rich Digitizing Yesteryears' Images</u></a></li>
+<li><a href="https://win-answers.techidaily.com/in-depth-solution-steps-to-overcome-minecraft-not-starting-up/"><u>In-Depth Solution Steps to Overcome Minecraft Not Starting Up</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/perfecting-motion-capture-a-guide-to-gopro-time-lapse-photos-for-2024/"><u>Perfecting Motion Capture A Guide to GoPro Time Lapse Photos for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshoot-your-way-through-the-persistent-launch-loop-in-madden-22-expert-tips-inside/"><u>Troubleshoot Your Way Through the Persistent Launch Loop in Madden 22 - Expert Tips Inside</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-vivo-v29-pro-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Vivo V29 Pro IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-solutions-for-continuous-discord-app-crashes/"><u>Ultimate Guide: Solutions for Continuous Discord App Crashes</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/zeroing-out-error-0x97-in-epson-units/"><u>Zeroing Out Error 0X97 in Epson Units</u></a></li>
 </ul></div>
 

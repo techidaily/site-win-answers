@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps When AMD Radeon Utility Fails to Launch
-date: 2024-08-19T02:03:24.888Z
-updated: 2024-08-20T02:03:24.888Z
+date: 2024-12-14T19:06:47.000Z
+updated: 2024-12-21T19:23:02.234Z
 tags:
   - win11
   - win10
@@ -46,6 +46,10 @@ Experiencing crashes on launch when you’re about to play DOOM Eternal? Worry n
 | **Additional Notes** | (1080p / 60 FPS / High Quality Settings) – \*On NVIDIA GTX 970 cards Texture Quality should be set to**Medium** |
 
  If unfortunately, your PC cannot handle this game, then you should replace the hardware components that are out of date; but if you’re pretty sure that your computer is up to scratch, read on and check out the fixes below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9 Fixes for DOOM Eternal not launching
 
@@ -93,6 +97,10 @@ Experiencing crashes on launch when you’re about to play DOOM Eternal? Worry n
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you have any problems using Driver Easy Pro to update your driver, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
 
  Run DOOM Eternal and wait to see if it still fails to launch. If it does, give Fix 2 a try.
@@ -116,22 +124,24 @@ Experiencing crashes on launch when you’re about to play DOOM Eternal? Worry n
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/image-14.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **Note:** If you’re using the AMD GPU, please refer to **[https://www.amd.com/en/support/kb/faq/dh-017](https://www.amd.com/en/support/kb/faq/dh-017)**  .
 
  Now try to launch DOOM Eternal and see whether your issue has been solved. If it hasn’t, then proceed to Fix 3.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Plug your monitors into the primary GPU
 
  DOOM Eternal may fail to start if you have multiple monitors plugged into different GPUs, so make sure you plug both monitors into the primary GPU (also the dedicated one). After that, relaunch the game to see if it keeps crashing. If it doesn’t, then congrats – you’ve fixed the issue! If it does, please move on to the next fix, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Install DirectX End-User Runtimes
 
@@ -140,8 +150,9 @@ Experiencing crashes on launch when you’re about to play DOOM Eternal? Worry n
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Update your BIOS
 
  There’s a chance that your crash issue is caused by the out-dated Basic Input Output System (BIOS). Since BIOS plays a crucial role in your computer’s normal functioning, you must know that the process of updating BIOS could be risky and error-prone due to various reasons. For example, if you install a wrong BIOS version or your computer loses power during the update, major problems will come along – you might need to spend much to get your PC repaired. In short, perform a BIOS update at your own risk.
@@ -150,6 +161,10 @@ Experiencing crashes on launch when you’re about to play DOOM Eternal? Worry n
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Disable unnecessary programs
 
  Shut down unnecessary programs (such as the Steam overlay) before launching DOOM Eternal in case it conflicts with other applications. To completely shut down a program:
@@ -157,6 +172,10 @@ Experiencing crashes on launch when you’re about to play DOOM Eternal? Worry n
  1) On your keyboard, press the **Windows logo key** and **X** at the same time, then click **Task Manager** .
 
 ![This image has an empty alt attribute; its file name is img_5a0d6aed19abc.png](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0d6aed19abc.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) In the **Task Manager**  window, on the **Processes** tab, select the program you want to shut down and click **End task** . (If it’s a program you’re using, e.g. Microsoft Word, make sure you save any unsaved work first.)
 
@@ -172,9 +191,6 @@ Experiencing crashes on launch when you’re about to play DOOM Eternal? Worry n
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ### Fix 7: Verify the integrity of game files
 
  If you play DOOM Eternal on Steam, you can verify the integrity of your game files using the following procedure:
@@ -183,9 +199,6 @@ Experiencing crashes on launch when you’re about to play DOOM Eternal? Worry n
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-16-1024x218.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
  2) Right-click **DOOM Eternal** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-22.png)
@@ -195,17 +208,15 @@ Experiencing crashes on launch when you’re about to play DOOM Eternal? Worry n
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-23.png)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Once complete, exit Steam and reopen it. Run DOOM Eternal again and wait to see if it still crashes on launch.
 
 If this fix is to no avail, move on to Fix 8 below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ### Fix 8: Run the game as administrator
 
  This quick fix is more like a general solution for all the games that cannot be launched properly, and it’s very easy to apply. As long as you have the administrative privileges to run DOOM Eternal, you should give this fix a try.
@@ -214,23 +225,14 @@ If this fix is to no avail, move on to Fix 8 below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-24.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
  2) In the **Properties** window, on the **Compatibility** tab, select **Run this program as an administrator** . Then click **Apply > OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-26.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Now you should be able to run DOOM Eternal under administrator privileges permanently. Next up, check to see if you’re able to run DOOM Eternal.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 9: Wait for new game patches
 
  This method may seem rather passive, but if the root cause doesn’t really lie in your gaming machine, then you should probably just wait for some new updates to get the problem fixed. Of course, if you’d like to do something else rather than sit tight, you can also forward your problem to the developer or look for other solutions on related forums.
@@ -248,8 +250,6 @@ If this fix is to no avail, move on to Fix 8 below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -257,4 +257,26 @@ If this fix is to no avail, move on to Fix 8 below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-ultimate-collection-of-8-gratis-high-end-3d-player-apps/"><u>[New] Ultimate Collection of 8 Gratis, High-End 3D Player Apps</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-crafting-the-perfect-binge-worthy-mukbang-experience-for-2024/"><u>[Updated] Crafting the Perfect Binge-Worthy Mukbang Experience for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-essential-apps-for-annotating-mobile-images/"><u>[Updated] In 2024, Essential Apps for Annotating Mobile Images</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-splitcam-analysis-where-does-it-rank-among-recorders/"><u>2024 Approved SplitCam Analysis Where Does It Rank Among Recorders?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-unleashing-game-potential-custom-audio-in-ps5ps4/"><u>2024 Approved Unleashing Game Potential Custom Audio in PS5/PS4</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722994881275-days-gone-multiplayer-release-pc-version-now-available/"><u>Days Gone Multiplayer Release - PC Version Now Available!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-recurrent-nox-player-pc-crashes-solutions-unveiled/"><u>Fixing Recurrent Nox Player PC Crashes: Solutions Unveiled</u></a></li>
+<li><a href="https://win-answers.techidaily.com/frostpunk-crash-resolution-strategies-for-smooth-gaming-experience/"><u>Frostpunk Crash Resolution: Strategies for Smooth Gaming Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/get-the-best-fps-in-valheim-with-our-ultimate-ping-reduction-guide-windows/"><u>Get the Best FPS in Valheim with Our Ultimate Ping Reduction Guide (Windows)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guardians-unite-overcome-pc-crashes-in-marvels-guardians-of-the-galaxy-with-these-fixes/"><u>Guardians Unite! Overcome PC Crashes in Marvel's 'Guardians of the Galaxy' With These Fixes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-overcome-loading-deadlocks-in-minecraft-expert-tips-and-tricks/"><u>How to Overcome 'Loading...' Deadlocks in Minecraft - Expert Tips & Tricks</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-lock-from-apple-iphone-13-pro-by-drfone-ios/"><u>In 2024, How to Bypass iCloud Lock from Apple iPhone 13 Pro</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-apple-iphone-xs-max-with-7-methods-drfone-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for Apple iPhone XS Max With 7 Methods | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-guide-solving-the-black-ops-cold-war-shader-compilation-glitch-on-pc/"><u>Master Guide: Solving the Black Ops Cold War Shader Compilation Glitch on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/monitor-your-diet-certain-foods-and-beverages-may-irritate-your-bladder-and-contribute-to-uti-symptoms-limit-intake-of-caffeine-alcohol-spicy-foods-and-arti401/"><u>Monitor Your Diet: Certain Foods and Beverages May Irritate Your Bladder and Contribute to UTI Symptoms. Limit Intake of Caffeine, Alcohol, Spicy Foods, and Artificial Sweeteners, Which Can Potentially Worsen the Condition.</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rapidly-refresh-nvidia-drivers-with-minimal-hassle/"><u>Rapidly Refresh Nvidia Drivers with Minimal Hassle</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/set-up-an-inexpensive-ai-model-for-windows-users/"><u>Set Up an Inexpensive AI Model for Windows Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/tackling-the-notorious-screen-tearing-glitch-in-warzone-a-complete-guide/"><u>Tackling the Notorious Screen Tearing Glitch in Warzone – A Complete Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ultimate-sea-snag-footage-top-5-picks/"><u>Ultimate Sea Snag Footage - Top 5 Picks</u></a></li>
+</ul></div>
 

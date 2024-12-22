@@ -1,7 +1,7 @@
 ---
 title: Solve Your Red Dead Redemption 2 GFX Error with This Guide (ERR_GFX_STATE)
-date: 2024-12-18T20:41:00.105Z
-updated: 2024-12-20T19:02:16.672Z
+date: 2024-12-16T18:36:19.597Z
+updated: 2024-12-22T02:26:38.839Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/a848ca5db9b7c808865a38728eb2f3fa3f3cb8b72
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3 simple fixes to try
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -31,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/a848ca5db9b7c808865a38728eb2f3fa3f3cb8b72
 1. **[Adjust your proxy settings](https://tools.techidaily.com/drivereasy/download/)**
 2. **[Update your network adapter driver](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Reinstall Steam](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Adjust your proxy settings
 
@@ -55,6 +55,10 @@ thumbnail: https://thmb.techidaily.com/a848ca5db9b7c808865a38728eb2f3fa3f3cb8b72
 **4)** If any items on this window are checked, uncheck them. Then, click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-363.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)** Restart your computer and Steam to test your issue.
 
@@ -92,25 +96,17 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-113.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**  Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[](https://tools.techidaily.com/drivereasy/download/) [Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-364.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Reinstall Steam
 
@@ -121,7 +117,7 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-885.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.
@@ -129,7 +125,7 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-886.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control Panel** .
@@ -144,10 +140,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-889.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **6)**  Right-click **Steam** , and then click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-890.png)
@@ -155,6 +147,10 @@ OR
 **7)**  Follow the on-screen instructions to uninstall Steam and wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-891.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  **8)[Download](https://store.steampowered.com/about/)**  Steam.
 
@@ -167,6 +163,10 @@ OR
 **11)**  Move the backup **steamapps folder**  you create before to your current directory location.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-893.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **12)**  Relaunch your Steam to test your issue.
 
@@ -194,18 +194,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-rotate-iphone-pics-sideways-and-upside-down-made-easy/"><u>[New] 2024 Approved Rotate iPhone Pics Sideways & Upside Down Made Easy</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-26-metaverse-milestones-a-journey-into-virtual-realms/"><u>[New] In 2024, 26 Metaverse Milestones A Journey Into Virtual Realms</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-real-time-engagement-strategies-for-online-streamers/"><u>[New] Real-Time Engagement Strategies for Online Streamers</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-prime-shopping-destinations-customizable-presents-with-flair-for-2024/"><u>[Updated] Prime Shopping Destinations Customizable Presents with Flair for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/best-3d-entrance-makers-for-youtube-creators-for-2024/"><u>Best 3D Entrance Makers for YouTube Creators for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-on-iphone-11-without-password-by-drfone-ios/"><u>How to Delete iCloud Account On iPhone 11 without Password?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/is-xbox-live-down-check-xbox-live-server-status/"><u>Is Xbox Live Down? Check Xbox Live Server Status</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-mastering-sound-intervals-techniques-for-manipulating-audio-timestamps-in-final-cut-pro-x/"><u>New 2024 Approved Mastering Sound Intervals Techniques for Manipulating Audio Timestamps in Final Cut Pro X</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Infinix Zero 30 5G | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-codec-error-6034-on-modern-warfare-tips-for-ps4-xbox-one-and-pc/"><u>Resolving Codec Error 6034 on Modern Warfare - Tips for PS4, Xbox One, and PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-enhancing-ark-sanctuary-island-the-top-pc-fps-optimization-techniques/"><u>Ultimate Guide: Enhancing ARK: Sanctuary Island - The Top PC FPS Optimization Techniques</u></a></li>
-<li><a href="https://win-answers.techidaily.com/warzone-crash-screen-repair-guide-top-techniques/"><u>Warzone Crash Screen Repair Guide: Top Techniques</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-honor-x50iplus-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Honor X50i+ Device</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-why-you-adore-filmora-the-10-key-edits-that-matter/"><u>[New] 2024 Approved Why You Adore Filmora The 10 Key Edits That Matter</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-premier-top-youtube-views-monitor-for-content-success/"><u>[New] In 2024, Premier Top YouTube Views Monitor for Content Success</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/complete-narrative-what-is-google-podcast/"><u>Complete Narrative What Is Google Podcast?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/eliminate-quiet-vids-tweet-audio-revival-for-2024/"><u>Eliminate Quiet Vids Tweet Audio Revival for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhancing-frame-rates-and-reducing-lags-in-the-division-2-a-step-by-step-guide/"><u>Enhancing Frame Rates and Reducing Lags in The Division 2: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-auto-gpts-broad-potential/"><u>Exploring Auto-GPT's Broad Potential</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-recover-from-a-missing-propsysdll-file-expert-troubleshooting-tips/"><u>How to Recover From a Missing 'Propsys.dll' File: Expert Troubleshooting Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723011405518-how-to-resolve-discords-overlay-problem-quickly-and-easily-ultimate-fixes-inside/"><u>How to Resolve Discord's Overlay Problem Quickly and Easily – Ultimate Fixes Inside</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/maximizing-your-impact-4-methods-for-streaming-on-computer/"><u>Maximizing Your Impact 4 Methods for Streaming on Computer</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/reviewing-the-balanced-capabilities-of-the-affordable-dell-inspiron-3671-desktop-unit/"><u>Reviewing the Balanced Capabilities of the Affordable Dell Inspiron 3671 Desktop Unit</u></a></li>
+<li><a href="https://win-answers.techidaily.com/smooth-sailing-patch-notes-that-addressed-stutter-in-halo-infinite/"><u>Smooth Sailing: Patch Notes That Addressed Stutter in Halo Infinite</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-issue-play-age-of-ashes-seamlessly-on-your-computer-now/"><u>Solved Issue! Play 'Age of Ashes' Seamlessly on Your Computer Now</u></a></li>
+<li><a href="https://win-answers.techidaily.com/steam-stability-solved-no-more-crashes/"><u>Steam Stability Solved - No More Crashes!</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/trouble-free-tech-tips-fixing-network-and-usb-port-problems-insights-by-yl-software/"><u>Trouble-Free Tech Tips: Fixing Network and USB Port Problems - Insights by YL Software</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-preventing-spellbreak-pc-game-crashes-easily/"><u>Troubleshooting Guide: Preventing Spellbreak PC Game Crashes Easily</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Master the Installation of Hyper-V Feature on Microsoft's Latest OS
-date: 2024-12-14T18:50:15.154Z
-updated: 2024-12-20T16:33:55.475Z
+date: 2024-12-17T01:22:16.541Z
+updated: 2024-12-21T19:27:27.451Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ God of War
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -65,10 +69,6 @@ There are mainly two methods for you to update the graphics driver:
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
@@ -78,7 +78,7 @@ There are mainly two methods for you to update the graphics driver:
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Change Windows power plan
@@ -96,7 +96,7 @@ There are mainly two methods for you to update the graphics driver:
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Launch God of War and check if you get a better PFS. If the God of War FPS drops again on your powerful computer, try setting the Windows power plan to Ultimate Performance, a power plan that is not widely known, but is designed to make the most out of high-end setups.
@@ -110,10 +110,6 @@ There are mainly two methods for you to update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
 
  See if God of War’s in-game fps improves after changing the power plan. If this fix didn’t help, just read on and try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Optimize in-game graphics settings
 
@@ -159,14 +155,10 @@ There are mainly two methods for you to update the graphics driver:
 ![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Launch God of War and see if the in-game FPS increases. If not, move on to the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Disable overlays
 
@@ -179,10 +171,14 @@ There are mainly two methods for you to update the graphics driver:
 2. In the **GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you’re using other apps with overlay features, such as Discord, Nvidia GeForce Experience, Twitch, etc., make sure you’ve disabled the in-game overlay in those apps feature before you restart the game.
 
@@ -202,6 +198,10 @@ There are mainly two methods for you to update the graphics driver:
 3. Click **Captures** on the left, then **turn off** the toggle under **Background recording** if it is turned on.  
 
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Launch God of War to see if you can play it smoothly.
 
@@ -227,17 +227,14 @@ Launch God of War to see if you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-insight-into-lgs-360-camera-updates-and-features-for-todays-photographers/"><u>[New] In 2024, Insight Into LG's 360 Camera Updates and Features for Today's Photographers</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-listen-and-store-2024s-iphone-call-logger/"><u>[New] Listen and Store 2024'S iPhone Call Logger</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-methods-to-validate-youtube-login/"><u>[Updated] 2024 Approved Methods to Validate YouTube Login</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723007756131-battle-ready-solve-your-lol-connection-woes-once-and-for-all/"><u>Battle-Ready: Solve Your LoL Connection Woes Once and For All</u></a></li>
-<li><a href="https://win-answers.techidaily.com/conquer-rainbow-six-siege-error-detailed-strategies-for-resolving-code-e3-0x0001000b/"><u>Conquer Rainbow Six Siege Error: Detailed Strategies for Resolving Code E3-0X0001000b</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-frame-rate-drop-in-dying-light-how-gamers-overcame-fps-problems/"><u>Fixing the Frame Rate Drop in Dying Light - How Gamers Overcame FPS Problems</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-infinix-hot-40i-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Infinix Hot 40i | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/master-the-solution-no-more-crashing-in-dayzones-guide/"><u>Master the Solution: No More Crashing in DayZones (Guide )</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723008775294-no-more-crashes-in-nier-gestaltic-reverie-optimized-gameplay-tips-inside/"><u>No More Crashes in NieR: Gestaltic Reverie – Optimized Gameplay Tips Inside!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/permanently-switched-on-why-i-chose-dark-mode-for-good/"><u>Permanently Switched On: Why I Chose Dark Mode for Good</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/pinnacle-of-image-capture-highlighting-the-best-10-4k-phone-cameras/"><u>Pinnacle of Image Capture Highlighting the Best 10 4K Phone Cameras</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/the-ultimate-guide-to-language-learning-my-experience-using-mondly-top-10/"><u>The Ultimate Guide to Language Learning: My Experience Using Mondly (Top 10)</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-exploring-adsense-revenue-streams-on-youtube-for-every-1k-watcher/"><u>[New] 2024 Approved Exploring AdSense Revenue Streams on YouTube for Every 1K Watcher</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-battlenet-errors-the-definitive-2024-strategy-to-get-you-playing-asap/"><u>Beat Battle.net Errors: The Definitive 2024 Strategy to Get You Playing ASAP</u></a></li>
+<li><a href="https://article-helps.techidaily.com/digital-frontier-leaders-the-quintessential-cloud-picks-for-your-needs/"><u>Digital Frontier Leaders The Quintessential Cloud Picks for Your Needs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discounted-prices-up-to-25-off-on-the-85-inch-tcl-television-post-labor-day-sale/"><u>Discounted Prices: Up To 25% Off On The 85 Inch TCL Television - Post Labor Day Sale!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-samsung-galaxy-a54-5g-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Samsung Galaxy A54 5G and Browser | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-fixes-for-starfield-sound-glitches-no-more-skipping-beats/"><u>Resolved: Fixes for Starfield Sound Glitches - No More Skipping Beats</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-steps-what-to-do-when-your-pc-wont-turn-on/"><u>Troubleshooting Steps: What to Do When Your PC Won't Turn On</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-restoring-game-sounds-in-fallout-4-for-windows-users/"><u>Ultimate Guide: Restoring Game Sounds in Fallout 4 for Windows Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unstuck-the-frozen-moment-fixing-cold-wars-persistent-load-screen-on-gaming-systems/"><u>Unstuck the Frozen Moment: Fixing Cold War's Persistent Load Screen on Gaming Systems</u></a></li>
 </ul></div>
 

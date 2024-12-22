@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Resolve Persistent Google Chrome Breakdowns
-date: 2024-08-19T02:03:22.595Z
-updated: 2024-08-20T02:03:22.595Z
+date: 2024-12-17T16:52:52.952Z
+updated: 2024-12-22T01:36:41.722Z
 tags:
   - win11
   - win10
@@ -36,8 +36,9 @@ Beat Saber is a great VR title, but many players are reporting game crashing iss
  Steam will default to updating your game automatically. But if you have disabled automatic updates, please enable this feature for Beat Saber and make sure it’s up to date.
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 2: Verify integrity of game files
 
  Crashes might happen when the game files are corrupted, so you should better check the integrity of game files for basic troubleshooting.
@@ -52,9 +53,6 @@ Beat Saber is a great VR title, but many players are reporting game crashing iss
 
  If Beat Saber keeps crashing rather randomly, don’t be upset, for we have a few more fixes to try.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 3: Remove all the mods
 
  If you’re running mods and having this crashing issue, we strongly recommend you to try the game without any modes. Since all the current Beat Saber mods are not official so they can bump into problems.
@@ -64,20 +62,15 @@ Beat Saber is a great VR title, but many players are reporting game crashing iss
 1. Go to the**Local Files** tab of Beat Saber, and click**Browse Local Files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/local-files.jpg)
 2. Locate the**Plugins** folder, and delete the .dll files inside.  
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Beat-Saber-Plugin.jpg)
 3. Relaunch your game and see if it keeps crashing.
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If Beat Saber still crashes without any mods, you can try the fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 4: Update your graphics drivers
 
  Another cause of Beat Saber crashing (or any game crashing) is your graphics driver. A Graphics card (GPU) is the most important component to determine your gaming performance. Therefore, if the graphics driver is outdated or corrupted, it’s very likely that you will get enormous game crashes. To fix it, you should update your graphics driver.
@@ -105,6 +98,11 @@ If Beat Saber still crashes without any mods, you can try the fix, below.
 3. Click the **Update**  button next to your graphics card to download the latest and correct driver for it, then you can manually install it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-driver-now.jpg)  
  Or click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  , which comes with **Full Support** and a **30-day Money Back Guarantee** . You will be prompted to upgrade when you click **Update All** ).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take full effect.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -121,10 +119,9 @@ If Beat Saber still crashes without any mods, you can try the fix, below.
 5. Go to the**Compatibility** tab, and select Run this program as administrator.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/administrator.jpg)
 6. Click**Apply** \>**OK** .
+
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To run your game as an administrator ensure you have full access to all the game files. This should fix some game crashes, but if unfortunately not, don’t worry. Try the next fix, below.
@@ -139,11 +136,16 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 ![AppData](https://images.drivereasy.com/wp-content/uploads/2020/12/appdata.jpg)
 4. Delete all the game-related AppData.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Download Beat Saber again and see if a clean reinstall solves this issue.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 7: Update your headset firmware
 
  If you’re using the Oculus VR headset, the issue might be triggered by your VR headset. To make sure your Oculus Rift works to its best performance, you need to make sure[the graphics card driver and USB drivers are already up to date](https://support.oculus.com/1802104516741690/) (you can update them all easily and free with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  ).
@@ -169,8 +171,6 @@ Download Beat Saber again and see if a clean reinstall solves this issue.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -178,4 +178,16 @@ Download Beat Saber again and see if a clean reinstall solves this issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expertise-in-enhancing-photos-via-online-tools/"><u>2024 Approved Expertise in Enhancing Photos via Online Tools</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guide-eliminate-football-manager-2020-system-errors-and-enhance-performance/"><u>Guide: Eliminate Football Manager 2020 System Errors & Enhance Performance</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-optimizing-ad-reach-on-social-medias-leading-platform/"><u>In 2024, Optimizing Ad Reach on Social Media's Leading Platform</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-the-art-of-smooth-gameplay-strategies-for-tackling-fps-drops-on-a-computer-system/"><u>Master the Art of Smooth Gameplay: Strategies for Tackling FPS Drops on a Computer System</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mobile-audio-enhancers-for-swift-soundplay/"><u>Mobile Audio Enhancers for Swift Soundplay</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-workflows-utilizing-windows-11s-dev-drive-for-coders/"><u>Optimizing Workflows: Utilizing Windows 11'S Dev Drive for Coders</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimizing-your-xbox-experience-overcoming-netflix-playback-interruptions/"><u>Optimizing Your Xbox Experience: Overcoming Netflix Playback Interruptions</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/revamp-your-resonance-the-7-premier-voice-recorder-change-android-apps/"><u>Revamp Your Resonance The 7 Premier Voice Recorder Change Android Apps</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-end-of-the-line-for-diablo-immortal-launch-on-windows-and-mac-computers/"><u>The End of the Line for Diablo Immortal Launch on Windows and Mac Computers</u></a></li>
+</ul></div>
 

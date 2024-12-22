@@ -1,7 +1,7 @@
 ---
 title: Solving the Issue of NieR Reach Edition Failure to Boot
-date: 2024-08-19T02:04:48.046Z
-updated: 2024-08-20T02:04:48.046Z
+date: 2024-12-20T00:29:08.746Z
+updated: 2024-12-21T22:14:50.899Z
 tags:
   - win11
   - win10
@@ -30,23 +30,32 @@ Follow the questions below to troubleshoot the issue step by step:
 2. **[Does your Windows computer connect to the Internet successfully?](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Does the source you want to add run properly?](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Q1: Is the source you’ve inputted exactly correct?
 
  Generally, the “Couldn’t retrieve directory information” error means**the source you’ve inputted can’t be found** . It could be simply because the source you’ve inputted is wrong, like there’s**typo** ,**extra space** in the URL.
 
  So when Kodi tells you the Unable to connect error, firstly **check the URL you’ve type or paste, make sure it’s exactly typed correctly.** ![](https://images.drivereasy.com/wp-content/uploads/2018/08/kodi2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Then add the source again.
 
  If you add the source successfully, so great. If you still see the error, don’t panic, you have something else to try…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Q2: Does your Windows computer connect to Internet successfully?
 
  The**network connection error** on your computer can also probably cause the Kodi Unable to connect issue. So when you see the error message, you should**check the network connection on your computer** .
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 1
 
  You can run the**Windows Network Diagnostics** utility on your computer to detect any network issue. It’s easily and quickly, see how:
@@ -62,8 +71,9 @@ Then add the source again.
 [The default gateway is not available.](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 2
 
  Many network connection problems could be due to the old, missing or corrupted network driver on your computer. You can solve it easily by**updating your network driver** . Whether you choose to update the network driver manually, using Windows Update, or you use a trusted third party product, it’s essential that you have the latest correct device drivers for your operating system at all times.
@@ -76,9 +86,6 @@ Then add the source again.
 
  Have you fix the problem? If yes, great! If the error still exists, don’t give up hope, move onto the next step.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Q3: Does the source you want to add run properly?
 
  If you’ve ensured that you enter the URL correctly and the network connection is great, time to check if the source you added runs properly.
@@ -89,8 +96,9 @@ Follow to check the status the source you want to add:
 2. If the source runs properly, you would see a page**containing a zip file** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b73caac7ec91.png)  
  If the source is down or offline, you would be prompted an error message saying:**This site can’t be reached.**
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If this is the case, we recommend **downloading other add-ons from the [official Kodi website](https://kodi.tv/addons) of your choice** .
@@ -107,8 +115,6 @@ Follow to check the status the source you want to add:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -116,4 +122,19 @@ Follow to check the status the source you want to add:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-twitch-live-recording-made-simple/"><u>[New] In 2024, Twitch Live Recording Made Simple</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/treamline-your-screen-time-step-by-step-towards-a-well-curated-playlist/"><u>[New] Streamline Your Screen Time Step-by-Step Towards a Well-Curated Playlist</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-capture-unrooted-sounds-in-android-4-methods/"><u>[Updated] 2024 Approved Capture Unrooted Sounds in Android [4 Methods]</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-discovering-the-power-of-youtubes-comment-system-for-2024/"><u>[Updated] Discovering the Power of YouTube's Comment System for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/assassins-creed-odyssey-ultimate-guide-to-eliminating-game-breaking-pc-issues/"><u>Assassin's Creed Odyssey: Ultimate Guide to Eliminating Game-Breaking PC Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/elevate-your-wow-visuals-ultimate-guide-to-solving-low-fps-problems/"><u>Elevate Your WoW Visuals: Ultimate Guide to Solving Low FPS Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/getting-your-origin-app-back-up-and-running-on-pcs-fixes-for-windows-10-11-users/"><u>Getting Your Origin App Back Up and Running on PCs - Fixes for Windows 10-11 Users</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/gratis-online-converter-verwijdering-van-webm-naar-aac-formaten-met-movavi/"><u>Gratis Online Converter: Verwijdering Van Webm Naar AAC-Formaten Met Movavi</u></a></li>
+<li><a href="https://win-answers.techidaily.com/half-life-alyx-optimization-guide-stop-the-lag-and-frame-drops-now/"><u>Half-Life: Alyx Optimization Guide - Stop the Lag and Frame Drops Now!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-special-features-virtual-location-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>How To Use Special Features - Virtual Location On Apple iPhone XS? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-oppo-k11-5g-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Oppo K11 5G | Dr.fone</u></a></li>
+<li><a href="https://win-news.techidaily.com/les-meilleurs-programmes-sans-frais-pour-la-sauvegarde-automatique-du-dernier-samsung-sur-les-systemes-dexploitation-windows-1187/"><u>Les Meilleurs Programmes Sans Frais Pour La Sauvegarde Automatique Du Dernier Samsung Sur Les Systèmes D'Exploitation Windows 11/8/7</u></a></li>
+</ul></div>
 

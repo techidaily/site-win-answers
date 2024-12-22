@@ -1,7 +1,7 @@
 ---
 title: Kodi Keeps Crashing [Fixed]
-date: 2024-08-19T02:04:26.099Z
-updated: 2024-08-20T02:04:26.099Z
+date: 2024-12-15T16:11:49.729Z
+updated: 2024-12-22T01:55:27.523Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/7ba02d2067d54837e1bd869f645984fb69141a6a3
 ## [Solved] DayZ Keeps Crashing | Quickly & Easily
 
 **DayZ keeps crashing on your PC?**  Don’t worry! You’re not alone. Many DayZ users have reported this issue. But the good news is you can fix it on your own. You should be able to fix the problem quite easily using one of the solutions we’ve listed below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -81,14 +85,12 @@ Below are the minimum and recommended system requirements for DayZ:
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-scan-screen-1.png)
 3. Click **Update** next to your graphics card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-network-driver.png)
 
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 ### Fix 4: Verify the integrity of the game
@@ -100,11 +102,12 @@ Below are the minimum and recommended system requirements for DayZ:
 2. Click **the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Steam-verify-the-game-file-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Launch DayZ after verifying the game file to see if this fix works. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Turn off Steam Overlay
 
  The Steam Overlay may interfere with DayZ, and sometimes it may even crash the game. Some DayZ players reported that after disabling Steam Overlay, the crashing issue disappears. You can follow the steps below to turn off Steam Overlay:
@@ -112,16 +115,19 @@ Below are the minimum and recommended system requirements for DayZ:
 1. In Steam, click the**Steam** tab on the upper left corner and select**Settings** to open the Settings page of the Steam client.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Steam-settings.png)
 2. Navigate to the**In-Game** tab, then_**untick**_ **Enable the Steam Overlay while in-game** . Click**OK** to save the change.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Steam-Settings2.png)
 
  Run DayZ again after you disabled Steam Overlay to see if you can play the game without crashes. If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6: Add DayZ as an exception to your third-party antivirus application
 
  This issue may also be triggered by your third-party antivirus application. Since the third-party antivirus application hooks very deep into your system, it may interfere with DayZ.
@@ -132,9 +138,6 @@ Below are the minimum and recommended system requirements for DayZ:
 
  See if you can run DayZ without crashes. If not, try the next fix below to reinstall the game.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ### Fix 7: Reinstall DayZ
 
  If none of the fixes works, you may need to reinstall DayZ to fix this issue. To reinstall DayZ:
@@ -157,8 +160,6 @@ Below are the minimum and recommended system requirements for DayZ:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -166,4 +167,26 @@ Below are the minimum and recommended system requirements for DayZ:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-effortless-capture-procedure-guiding-you-through-macos-screen-record-for-2024/"><u>[New] Effortless Capture Procedure Guiding You Through macOS Screen Record for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-best-audio-modification-methods-for-youtube-stars/"><u>[New] In 2024, Best Audio Modification Methods for YouTube Stars</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-navigating-vimeos-share-options/"><u>[Updated] Navigating Vimeo's Share Options</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1726226808594-jpegjpg-movavi/"><u>移動窗格：JPEG到JPG無限制地免費轉換 - Movavi解決方案</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-ubisoft-connect-glitches-a-step-by-step-guide-to-get-you-back-online/"><u>Beat Ubisoft Connect Glitches - A Step-by-Step Guide to Get You Back Online !</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cant-wait-for-doom-eternal-release-solving-your-problems-beforehand/"><u>Can't Wait for DOOM Eternal Release? Solving Your Problems Beforehand</u></a></li>
+<li><a href="https://win-answers.techidaily.com/doom-eternal-wont-launch-yet-here-are-quick-fixes-you-need-to-know-about/"><u>DOOM Eternal Won't Launch Yet? Here Are Quick Fixes You Need to Know About</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guide-overcoming-common-phasmophobia-vr-connectivity-problems/"><u>Guide: Overcoming Common Phasmophobia VR Connectivity Problems</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-fix-lenovo-laptop-screen-flickering-problem/"><u>How to Fix Lenovo Laptop Screen Flickering Problem</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-manage-and-resolve-intense-cpu-utilization-issues-on-your-new-world-experience/"><u>How To Manage and Resolve Intense CPU Utilization Issues on Your New World Experience</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-seasonics-new-power-supplies-with-cutting-edge-12vhpwr-interface-priced-at-230-and-above/"><u>Introducing Seasonic's New Power Supplies with Cutting-Edge 12VHPWR Interface Priced at $230 and Above</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mobile-markup-mastery-iosandroid-leaders-for-2024/"><u>Mobile Markup Mastery IOS/Android Leaders for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimizing-your-gameplay-troubleshooting-low-fps-and-stutters-in-splitgate/"><u>Optimizing Your Gameplay: Troubleshooting Low FPS and Stutters in Splitgate</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolve-bluestacks-freezing-issues-with-these-5-simple-fixes/"><u>Resolve BlueStacks Freezing Issues with These 5 Simple Fixes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-fixes-for-preventing-fifa-21-crashes-on-windows-systems/"><u>Step-by-Step Fixes for Preventing FIFA 21 Crashes on Windows Systems</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/top-5-best-free-mov-video-rotators-for-2024/"><u>Top 5 Best Free MOV Video Rotators for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723009236469-trouble-with-amazon-prime-streaming-solutions-inside/"><u>Trouble with Amazon Prime Streaming? Solutions Inside</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Honor X50i | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1726026624547-windows/"><u>Windows環境におけるマウスポインター追跡設定手順</u></a></li>
+</ul></div>
 

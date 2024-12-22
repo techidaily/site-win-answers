@@ -1,7 +1,7 @@
 ---
 title: Mongolia
-date: 2024-12-19T17:54:59.394Z
-updated: 2024-12-20T21:14:00.320Z
+date: 2024-12-19T19:00:51.429Z
+updated: 2024-12-21T23:44:12.158Z
 tags:
   - win11
   - win10
@@ -49,6 +49,10 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 3. [Delete specific files from the save folder](https://tools.techidaily.com/drivereasy/download/)
 4. [Underclock your clock speed](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Download the latest patch
 
  If you haven’t been updated your game for a while, you can update your game. The official keeps releasing new patches, the latest version may solve the crashing issue.
@@ -62,6 +66,10 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/1-4.jpg)
 3. Under the**Advanced** tab, click**Settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2-4.jpg)
 4. Under**Virtual memory** , click**Change** .  
 
@@ -71,10 +79,14 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/4-2.jpg)
 6. Click**Set > OK** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Reboot your computer can check whether the crash will appear or not.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Delete specific files from the save folder
@@ -88,22 +100,14 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/browse-2.jpg)
 4. Navigate to the save folder, delete Data(999).sav & Data(999).bak.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Reboot your computer and check the issue is solved or not.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Underclock your clock speed
 
  The game is built with an old Unreal Engine version. This may be the reason for the random crashes. You can underclock your CPU speed by 100 MHz or 150 MHz to see whether it helps or not.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bonus: Update your drivers
@@ -133,10 +137,6 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
  Thanks for reading. Hope this article meets your need. And you are welcome to leave comments below.
@@ -158,18 +158,19 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-earn-through-engagement-securing-youtube-partnership-membership-for-2024/"><u>[New] Earn Through Engagement Securing YouTube Partnership Membership for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-must-have-add-ons-for-your-gopro-adventure/"><u>2024 Approved Must-Have Add-Ons for Your GoPro Adventure</u></a></li>
-<li><a href="https://win-answers.techidaily.com/achieve-a-fresh-start-download-windows-11-without-cost/"><u>Achieve a Fresh Start: Download Windows 11 Without Cost</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/dvddvdand/"><u>DVD記録手引き：すべての動画を無料DVDにダウンロード&書き込む究極ガイド</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effortless-guide-refresh-your-windows-11-applications-with-ease/"><u>Effortless Guide: Refresh Your Windows 11 Applications with Ease</u></a></li>
-<li><a href="https://win-answers.techidaily.com/enhancing-clarity-microsoft-aims-to-sharpen-chromes-display-quality-on-desktop-systems/"><u>Enhancing Clarity: Microsoft Aims to Sharpen Chrome's Display Quality on Desktop Systems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/enhancing-convenience-the-future-of-simplified-usage-with-windows-subsystem-for-linux/"><u>Enhancing Convenience: The Future of Simplified Usage with Windows Subsystem for Linux</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-tips-eliminating-picture-backdrops-using-windows/"><u>Expert Tips: Eliminating Picture Backdrops Using Windows</u></a></li>
-<li><a href="https://win-answers.techidaily.com/exploring-ntuserdat-key-functions-and-importance-within-a-windows-environment/"><u>Exploring NTUSER.DAT: Key Functions and Importance Within a Windows Environment</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-any-samsung-galaxy-m14-4g-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Samsung Galaxy M14 4G Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-7-plus-passcode-screen-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 7 Plus Passcode Screen? | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-tecno-pop-8-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Tecno Pop 8 FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/seamless-integration-tips-moving-your-digital-photographs-from-google-to-apples-icloud-platform/"><u>Seamless Integration Tips: Moving Your Digital Photographs From Google to Apple's iCloud Platform</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-audience-alchemy-converting-shorts-to-sensations/"><u>[New] In 2024, Audience Alchemy Converting Shorts to Sensations</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-mastering-marketing-magic-20-keywords-for-profound-impact-for-2024/"><u>[New] Mastering Marketing Magic 20 Keywords for Profound Impact for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-adding-flair-to-your-online-gatherings-an-in-depth-zoom-filter-guide/"><u>2024 Approved Adding Flair to Your Online Gatherings An In-Depth Zoom Filter Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gopro-film-perfection-best-15-lut-list-unveiled/"><u>2024 Approved GoPro Film Perfection Best 15 LUT List Unveiled</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bug-fix-announced-overcoming-league-of-legends-login-loophole-update-2024-edition/"><u>Bug Fix Announced: Overcoming League of Legends Login Loophole Update - 2024 Edition</u></a></li>
+<li><a href="https://win-answers.techidaily.com/case-analysis-tackling-internal-system-breaches-civ-6-exceptional-access-issues-year-2024/"><u>Case Analysis: Tackling Internal System Breaches - CIV 6 Exceptional Access Issues (Year 2024)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/comprehensive-guide-to-solve-fps-issues-for-an-uninterrupted-resident-evil-village-pc-adventure/"><u>Comprehensive Guide to Solve FPS Issues for an Uninterrupted Resident Evil Village PC Adventure</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/electric-vs-gasoline-cars-unveiling-the-advantages-of-going-electric/"><u>Electric vs Gasoline Cars: Unveiling the Advantages of Going Electric</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-tips-and-tricks-stop-dota-2-from-frequent-crashing/"><u>Expert Tips & Tricks - Stop Dota 2 From Frequent Crashing</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/frei-herunterladen-vob-in-mp4-mit-moveavi-umwandeln-windows-and-mac-kompatibel/"><u>Frei Herunterladen: VOB in MP4 Mit Moveavi Umwandeln (Windows & Mac Kompatibel)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-prevent-and-fix-dayzones-video-game-crashes-2024-edition/"><u>How to Prevent and Fix DayZones Video Game Crashes - 2024 Edition</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-the-ultimate-iphone-playlist-podcast-tips/"><u>In 2024, The Ultimate iPhone Playlist Podcast Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-gaming-made-easy-with-fixed-pathfinder-wrath-of-the-righteeus/"><u>PC Gaming Made Easy with Fixed Pathfinder: Wrath of the Righteeus</u></a></li>
+<li><a href="https://win-answers.techidaily.com/windows-10-users-guide-resolving-recurrent-microsoft-edge-app-crashes-successfully/"><u>Windows 10 Users' Guide: Resolving Recurrent Microsoft Edge App Crashes Successfully</u></a></li>
 </ul></div>
 

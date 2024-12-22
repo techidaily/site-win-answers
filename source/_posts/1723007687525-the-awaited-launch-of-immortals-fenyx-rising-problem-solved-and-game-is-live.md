@@ -1,7 +1,7 @@
 ---
 title: "The Awaited Launch of Immortals: Fenyx Rising – Problem Solved and Game Is Live"
-date: 2024-12-17T19:29:23.132Z
-updated: 2024-12-20T20:12:12.901Z
+date: 2024-12-16T18:08:47.085Z
+updated: 2024-12-21T22:00:39.403Z
 tags:
   - win11
   - win10
@@ -32,10 +32,6 @@ Immortals Fenyx Rising, the latest action-adventure game released by Ubisoft, is
 4. **[Verify the integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Use dedicated graphics card](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1 – Rename the exe file
 
  This sounds a bit weird but renaming the game’s exe file works like a charm for many players that can’t start the game normally. Here’s how:
@@ -45,6 +41,10 @@ Immortals Fenyx Rising, the latest action-adventure game released by Ubisoft, is
 3. Rename the**ImmortalsFenyxRising\_plus.exe** file to**ImmortalsFenyxRising.exe** .
 
  Relaunch Immortals Fenyx Rising and it should be working properly. If this method doesn’t help, there are more fixes to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2 – Run the game as an administrator
 
@@ -58,13 +58,13 @@ Immortals Fenyx Rising, the latest action-adventure game released by Ubisoft, is
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/im-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Run the game again to check if your problem gets fixed. If not, continue to the third method.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3 – Update your graphics driver
@@ -85,10 +85,14 @@ There are mainly two ways you can do this:
 ![amd 6800 xt driver download](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-6800xt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You should expect a smooth gameplay after all the device drivers are updated. But if the game still won’t launch, check out the fixes below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4 – Verify the integrity of game files
 
@@ -99,11 +103,11 @@ There are mainly two ways you can do this:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/im-1.jpg)
 3. Click**Verify files** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Wait until the scan and repair process completes, and restart your game to test. If the not launching problem persists, keep reading the last fix.
 
@@ -121,6 +125,10 @@ There are mainly two ways you can do this:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-3-1.jpg)
 4. Select**High-performance NVIDIA processor** from the drop-down menu. Then, click**Apply** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-4-1.jpg)  
  Note: If you have an AMD graphics card, you could refer to this guide: **[How to Configure Switchable Graphics using Radeon Settings](https://www.amd.com/en/support/kb/faq/dh-017)**  .
 
@@ -128,19 +136,11 @@ There are mainly two ways you can do this:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-5.jpg)
 6. Click**Browse** and add Immortals Fenyx Rising.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-7.jpg)
 7. After the game is added, select it and click**Options** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-8.jpg)
 8. On the pop-up menu, click**High performance** and click**Save** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now check if Immortals Fenyx Rising is able to launch. If all the methods above fail to get your game working, try contacting **[Ubisoft support](https://support.ubisoft.com/en-US)**  for further assistance.
 
@@ -165,18 +165,18 @@ There are mainly two ways you can do this:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-the-future-is-now-harnessing-instagrams-newest-filter-features-for-2024/"><u>[New] The Future Is Now Harnessing Instagram's Newest Filter Features for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solved-destiny-2-beyond-light-crashing-on-pc/"><u>[SOLVED] Destiny 2: Beyond Light Crashing on PC</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/exploring-the-skies-with-x-plane-11-a-detailed-look-at-its-superb-graphics-and-advanced-features/"><u>Exploring the Skies with X-Plane 11: A Detailed Look at Its Superb Graphics and Advanced Features</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-issue-msi-afterburner-fails-to-recognize-gpu-in-windows-1011/"><u>Fixing the Issue: MSI Afterburner Fails to Recognize GPU in Windows 10/11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/frostpunk-performance-optimization-end-the-frustrating-crash-dilemma/"><u>Frostpunk Performance Optimization - End the Frustrating Crash Dilemma!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/masterclass-solving-technical-glitches-in-yakuza-6-on-your-computer/"><u>Masterclass: Solving Technical Glitches in Yakuza 6 on Your Computer</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-fix-guide-to-resolve-stuck-loading-screen-on-madden-nfl-22/"><u>Quick Fix Guide to Resolve Stuck Loading Screen on Madden NFL 22</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/risolvi-il-problema-del-disco-rigido-ottieni-i-tuoi-dati-persi-senza-costi-con-queste-quattro-strategie-fisse/"><u>Risolvi Il Problema Del Disco Rigido: Ottieni I Tuoi Dati Persi Senza Costi Con Queste Quattro Strategie Fisse</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/smart-pick-android-apps-for-large-video-meetings/"><u>Smart Pick Android Apps for Large Video Meetings</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210761790-9781649631381-the-three-conditions/"><u>The Three Conditions | Free Book</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-gamers-overcoming-the-notorious-apex-legends-code-23-glitch/"><u>Troubleshooting Tips for Gamers: Overcoming the Notorious Apex Legends Code 23 Glitch</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-wow-how-to-get-past-launch-problems-on-pc/"><u>Troubleshooting WoW - How to Get Past Launch Problems on PC</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/why-ipados-18-unveiled-at-apples-wwdc-202n-the-must-have-functionality-prompting-an-immediate-switch-to-the-iconic-tablet-analysis-by-zdnet/"><u>Why iPadOS 18 Unveiled at Apple's WWDC 202N: The Must-Have Functionality Prompting an Immediate Switch to the Iconic Tablet | Analysis by ZDNet</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-elevate-your-aspects-of-sound-and-sight-in-asmr-recording/"><u>[New] In 2024, Elevate Your Aspects of Sound and Sight in ASMR Recording</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transforming-photos-adding-motion-blur-to-peoples-portraits-with-picsart/"><u>[New] Transforming Photos Adding Motion Blur to People's Portraits with Picsart</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-spruce-up-your-stories-with-effortless-animated-text-techniques/"><u>[Updated] In 2024, Spruce Up Your Stories With Effortless Animated Text Techniques</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ashen-malfunction-resolved-with-ease-speed-through-troubleshooting-steps/"><u>Ashen Malfunction Resolved with Ease - Speed Through Troubleshooting Steps</u></a></li>
+<li><a href="https://win-answers.techidaily.com/borderlands-e-experiencing-fps-dips-expert-solutions-and-tweaks-for-your-pc/"><u>Borderlands E Experiencing FPS Dips? Expert Solutions and Tweaks for Your PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/escaping-the-endless-wait-a-guide-to-fixing-robloxs-loading-screen-issue/"><u>Escaping the Endless Wait: A Guide to Fixing Roblox's Loading Screen Issue</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gratis-movavi-videobewerkplaat-eenvoudig-en-geavanceerd-editing-oplossing/"><u>Gratis Movavi Videobewerkplaat: Eenvoudig en Geavanceerd Editing-Oplossing</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-reset-waze-location-memory-on-ios-devices-a-step-by-step-guide/"><u>How to Reset Waze Location Memory on iOS Devices: A Step-by-Step Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-vivo-v29e-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Vivo V29e Pictures An Easy Method Explained.</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-the-fix-for-tfla0002-finals-system-malfunction/"><u>Mastering The Fix for TFLA0002 Finals System Malfunction</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-unlock-fcp-xs-power-adding-effects-in-just-3-clicks/"><u>New In 2024, Unlock FCP Xs Power Adding Effects in Just 3 Clicks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/simplify-your-workday-customizing-automatic-logon-for-a-faster-start-on-windows-systems/"><u>Simplify Your Workday: Customizing Automatic Logon for a Faster Start on Windows Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-solving-v-rising-game-crashes-on-your-windows-computer/"><u>Ultimate Guide: Solving V Rising Game Crashes on Your Windows Computer</u></a></li>
 </ul></div>
 

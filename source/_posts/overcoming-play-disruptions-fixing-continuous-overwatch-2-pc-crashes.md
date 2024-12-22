@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Play Disruptions: Fixing Continuous Overwatch 2 PC Crashes"
-date: 2024-12-17T16:16:51.645Z
-updated: 2024-12-20T19:49:00.123Z
+date: 2024-12-20T18:06:34.253Z
+updated: 2024-12-21T20:44:25.325Z
 tags:
   - win11
   - win10
@@ -46,15 +46,15 @@ We know how annoying it can be when you’re facing crashing issues in FIFA 19 g
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/drivereasyrun-as-administrator.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Relaunch your Origin and FIFA to check if the crashing issue still persists.
 
 If you still have the issue, you can try the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2 Turn off Discord Overlay and Hardware Acceleration
 
@@ -65,10 +65,6 @@ If you still have the issue, you can try the next fix.
  2) Scroll down, select the **Game Overlay** tab, and turn**off** **Enable in-game overlay** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-Disable-overlay-1200x685.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click the**Advanced** tab and turn off**Hardware Acceleration** . Your Discord will be restarted.
 
@@ -85,10 +81,6 @@ Then you can see if the crashing issue reoccurs when playing FIFA.
  Be extra careful about what sites you visit, what emails you open, and what files you download when your antivirus is disabled.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4 Update your device drivers
 
@@ -121,7 +113,7 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/driver-update.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -131,6 +123,10 @@ OR
  If updating drivers fails to solve your FIFA 19 crashing issue, there might be some configuration problems. You can go on and try the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5 Rollback to DirectX11
 
@@ -150,6 +146,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/NVIDIA-control-panel.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Under the**Manage 3D settings** tab, click**Program Settings** .  
   
  Then click**Add** and select your**FIFA 19** exe. program file.  
@@ -160,10 +160,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/force-V-Sync-On.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  For AMD users:  
 
  1) Type**Catalyst control center** in the search bar, and press Enter.  
@@ -173,6 +169,10 @@ OR
  Restart your computer and launch FIFA 19 to test the issue. If this annoying issue is still bugging you, please move on to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7**Run System File Checker** to repair corrupt files
 
@@ -255,25 +255,25 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/system-config.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click the**Services** tab and check the**Hide all Microsoft services** box, then click**Disable all** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/disable-all-services.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the**Startup** tab, then**Open Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/open-task-manager.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Under the **Startup** tab, select **each** startup item and then click **Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/startup.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Go back to **System Configuration** , then click **OK** to save the changes.
 
@@ -284,10 +284,6 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
  Remember to RESTART your PC after enabling each service and application, then open your FIFA 19 to test the issue.
 
  Once you find the problematic software, you need to uninstall it to avoid running into the same issue in the future.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 9 Create TileDatalayer and Database folder
 
@@ -300,12 +296,16 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/power-shell.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you’re on Windows 11, it will be**Terminal (Admin)** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/win11-Terminal-Admin.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Copy the following command and press**Enter** .
 
@@ -340,19 +340,24 @@ mkdir Database
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-tips-for-quickly-and-securely-scrape-gifs-from-social-networking-sites-like-fb/"><u>[Updated] In 2024, Tips for Quickly and Securely Scrape GIFs From Social Networking Sites Like FB</u></a></li>
-<li><a href="https://win-answers.techidaily.com/can-snapdragon-x-match-up-to-apple-silicon-qualcomm-demonstrates-its-capabilities/"><u>Can Snapdragon X Match Up to Apple Silicon? Qualcomm Demonstrates Its Capabilities</u></a></li>
-<li><a href="https://win-answers.techidaily.com/contact-tracing/"><u>Contact Tracing</u></a></li>
-<li><a href="https://win-answers.techidaily.com/create-your-bootable-windows-11-usb-today-prepare-before-the-unexpected-happens/"><u>Create Your Bootable Windows 11 USB Today - Prepare Before the Unexpected Happens</u></a></li>
-<li><a href="https://win-answers.techidaily.com/easily-manage-your-linux-wsl-environment-within-windows-os-a-comprehensive-tutorial/"><u>Easily Manage Your Linux WSL Environment Within Windows OS: A Comprehensive Tutorial</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-solutions-how-to-restore-your-google-maps-service-when-disruptions-occur/"><u>Effective Solutions: How to Restore Your Google Maps Service When Disruptions Occur</u></a></li>
-<li><a href="https://win-answers.techidaily.com/elevated-era-of-pc-gaming-ditching-the-need-for-launchers/"><u>Elevated Era of PC Gaming: Ditching the Need for Launchers</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/how-to-successfully-install-and-troubleshoot-the-new-itunes-on-windows-1087-download-guide-and-solutions/"><u>How to Successfully Install and Troubleshoot the New iTunes on Windows (10/8/7) - Download Guide & Solutions</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-master-mac-audio-an-in-depth-look-at-using-audacity-for-recordings/"><u>In 2024, Master Mac Audio An In-Depth Look at Using Audacity for Recordings</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/save-big-with-the-ultimate-list-of-storage-drive-bargains-for-the-festive-season-2023/"><u>Save Big with the Ultimate List of Storage Drive Bargains for the Festive Season, 2023</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/the-complete-zoomers-handbook-for-captivating-video-and-audio-content-for-2024/"><u>The Complete Zoomer's Handbook for Captivating Video and Audio Content for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-deleting-reposts-on-tiktok-and-managing-posts-effectively/"><u>The Ultimate Guide to Deleting Reposts on TikTok and Managing Posts Effectively</u></a></li>
-<li><a href="https://fox-info.techidaily.com/unlocking-full-potential-of-macs-preview-tool-for-2024/"><u>Unlocking Full Potential of Mac's Preview Tool for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unraveling-the-mysteries-of-windows-iscsi-initiator-access/"><u>Unraveling the Mysteries of Windows iSCSI Initiator Access</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-zero-to-hero-solo-podcast-trendsetters-secrets/"><u>[New] From Zero to Hero Solo Podcast Trendsetters' Secrets</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-create-a-youtube-music-playlist-on-web-and-mobile-a-detailed-guidance/"><u>[Updated] In 2024, Create a YouTube Music Playlist on Web and Mobile - A Detailed Guidance</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-depth-360-eye-viewing-experience-for-2024/"><u>[Updated] In-Depth 360° Eye Viewing Experience for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/10-best-instagram-meme-accounts-to-make-you-laugh-with-tears/"><u>10 Best Instagram Meme Accounts to Make You Laugh (with Tears)</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-symphony-storage-download-and-critique-melodies/"><u>2024 Approved Symphony Storage Download & Critique Melodies</u></a></li>
+<li><a href="https://win-answers.techidaily.com/forza-horizon-n5-troubleshooting-lag-problems-solutions-at-your-fingertips/"><u>Forza Horizon N5 - Troubleshooting Lag Problems: Solutions at Your Fingertips</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-nokia-130-music-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Nokia 130 Music?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/immortals-of-the-fenyx-series-release-obstacles-overcome-and-launch-achieved/"><u>Immortals of the Fenyx Series – Release Obstacles Overcome & Launch Achieved</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-maplestory-performance-avoid-crashes-on-windows-11-with-our-latest-fixes/"><u>Mastering MapleStory Performance: Avoid Crashes on Windows 11 With Our Latest Fixes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-launch-errors-in-monster-hunter-stories-2-wings-of-ruin-step-by-step-solutions/"><u>Overcoming Launch Errors in Monster Hunter Stories 2: Wings of Ruin – Step-by-Step Solutions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/persona-5-strikers-troubleshooting-fixes-for-black-screen-issues/"><u>Persona 5 Strikers Troubleshooting - Fixes for Black Screen Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-call-of-duty-vanguard-stability-improvements-for-desktop-users/"><u>Resolved: Call of Duty Vanguard Stability Improvements for Desktop Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-recurring-war-thunder-breakdowns-for-a-smoother-gaming-experience-2024-tips/"><u>Resolving Recurring War Thunder Breakdowns for a Smoother Gaming Experience (2024 Tips)</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/sensational-tale-tiler-system-for-2024/"><u>Sensational Tale Tiler System for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-dichotomy-of-design-and-function-in-the-valkyrie-vind-sl125-review-anime-meets-reality/"><u>The Dichotomy of Design & Function in the Valkyrie Vind SL125 Review - Anime Meets Reality</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-fixing-nier-replicant-enhanced-edition-startup-issues/"><u>Troubleshooting: Fixing 'NieR Replicant Enhanced Edition' Startup Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unstick-your-adventure-in-sea-of-thieves-overcoming-the-endless-loading-phase/"><u>Unstick Your Adventure in Sea of Thieves – Overcoming the Endless Loading Phase</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-secrets-to-premieres-full-screen-mode-for-2024/"><u>Unveiling the Secrets to Premiere's Full Screen Mode for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/vanishing-visions-defeated-eliminating-resident-evil-villages-darkness-dilemma-for-a-seamless-pc-experience/"><u>Vanishing Visions Defeated: Eliminating Resident Evil Village's Darkness Dilemma for a Seamless PC Experience</u></a></li>
 </ul></div>
 

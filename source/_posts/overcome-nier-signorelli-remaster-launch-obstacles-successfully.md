@@ -1,7 +1,7 @@
 ---
 title: Overcome NieR Signorelli Remaster Launch Obstacles Successfully
-date: 2024-12-17T18:34:06.577Z
-updated: 2024-12-20T20:20:37.182Z
+date: 2024-12-16T21:52:42.257Z
+updated: 2024-12-22T01:56:48.692Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/bbf8b4ac709b45ef5944f09a459d244c293de523e
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to fix Football Manager 2022 launch issues?
@@ -57,10 +57,6 @@ thumbnail: https://thmb.techidaily.com/bbf8b4ac709b45ef5944f09a459d244c293de523e
 
  Or you can uninstall your antivirus temporarily (note that disabling it won’t work) and be very careful about the websites you’re visiting.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3\. Update your graphics driver
 
  If you are using the wrong or outdated graphics driver, it can cause launch issues especially in new game titles such as Football Manager 2022\. So, it is recommended to keep your graphics driver up to date. The updated driver should solve the crashing at launch issues and it can also help to boost up the overall game’s performance.
@@ -77,13 +73,17 @@ thumbnail: https://thmb.techidaily.com/bbf8b4ac709b45ef5944f09a459d244c293de523e
 ![update all drivers](https://images.drivereasy.com/wp-content/uploads/2021/10/update-all.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 After updating your drivers, restart your PC and test the gameplay.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4\. Verify the integrity of game files
 
@@ -94,18 +94,10 @@ After updating your drivers, restart your PC and test the gameplay.
 2) Go to LIBRARY, right-click on Football Manager 2022 and select **Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Go to **LOCAL FILES** and click **Verify integrity of game files…**
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
 Once complete, launch the game to check if your game is working again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5\. Delete the Caches and Preferences folder
 
@@ -117,7 +109,15 @@ Once complete, launch the game to check if your game is working again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-8-1200x758.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Navigate to **C:\\Users\\\[Your Windows Username\]\\AppData\\Local\\Sports Interactive\\Football Manager 2022** and then delete the**Caches** and**Preferences** folder.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6\. Run the game executable file as admin
 
@@ -128,7 +128,7 @@ Once complete, launch the game to check if your game is working again.
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Select **Local Files** and then**Browse local files** .
@@ -143,6 +143,10 @@ Once complete, launch the game to check if your game is working again.
 
  1) Right-click on Football Manager 2021 and select **Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) In the **GENERAL** tab, uncheck **Enable the Steam Overlay while in-game** and type **\-windowed** under **LAUNCH OPTIONS** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_17-39-55.jpg)
@@ -180,7 +184,7 @@ Once complete, launch the game to check if your game is working again.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Option 2 – Manually
@@ -194,10 +198,6 @@ Once complete, launch the game to check if your game is working again.
  1) On your keyboard, press the Windows logo key and R at the same time to open the Run box. Type**cmd** and press**Ctrl+Shift+Enter** to run Command Prompt as administrator.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/cmd-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Click**Yes** when prompted for permission to make changes to your device.
 
@@ -266,19 +266,21 @@ Feel free to drop us a line if you have any suggestions or questions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-youtube-music-blend-fundamentals/"><u>[Updated] YouTube Music Blend Fundamentals</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-beyond-ustream-a-comparative-analysis-of-streams/"><u>2024 Approved Beyond Ustream A Comparative Analysis of Streams</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-direct-youtube-stream-of-google-meet-step-by-step-instructions/"><u>2024 Approved Direct YouTube Stream of Google Meet - Step-by-Step Instructions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-free-acting-availability-pledge/"><u>2024 Approved Free Acting Availability Pledge</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/enhance-your-retro-experience-by-updating-nes-classic-game-selection/"><u>Enhance Your Retro Experience by Updating NES Classic Game Selection</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-export-and-save-spreadsheets-using-special-characters-like-pipes-as-separators-rather-than-commas/"><u>How to Export and Save Spreadsheets Using Special Characters Like Pipes as Separators Rather Than Commas</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-pro-apples-new-iphone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 12 Pro, Apples New iPhone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-cell-referencing-techniques-in-microsoft-excel/"><u>Mastering Cell Referencing Techniques in Microsoft Excel</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-data-visualization-how-to-craft-scatter-plots-with-microsoft-excel/"><u>Mastering Data Visualization: How To Craft Scatter Plots with Microsoft Excel</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-excel-techniques-for-efficiently-computing-rise-per-centages/"><u>Mastering Excel: Techniques for Efficiently Computing Rise Per Centages</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-microsoft-excel-effortless-date-autocompletion-techniques/"><u>Mastering Microsoft Excel: Effortless Date Autocompletion Techniques</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-structure-fundamental-tips-on-crafting-formulas-in-excel/"><u>Mastering Structure: Fundamental Tips on Crafting Formulas in Excel</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/method-for-removing-non-standard-login-profiles-in-win-11/"><u>Method for Removing Non-Standard Login Profiles in Win 11</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/pro-level-mac-photo-tips-unveiling-five-expert-techniques/"><u>Pro-Level Mac Photo Tips Unveiling Five Expert Techniques</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-how-to-secure-continuous-streaming-in-obs/"><u>[New] In 2024, How To Secure Continuous Streaming In OBS</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-instant-animation-from-youtube-videos-to-compelling-gifs/"><u>[Updated] 2024 Approved Instant Animation From YouTube Videos to Compelling GIFs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/beats-and-bits-the-art-of-adding-soundtracks-in-windows-11-media/"><u>Beats & Bits The Art of Adding Soundtracks in Windows 11 Media</u></a></li>
+<li><a href="https://win-answers.techidaily.com/best-tips-to-eliminate-lag-in-forza-horizon-5-racing-adventure/"><u>Best Tips to Eliminate Lag in Forza Horizon 5 Racing Adventure</u></a></li>
+<li><a href="https://win-answers.techidaily.com/defeat-the-annoying-black-screen-challenge-for-hitman-3-players-pc-fixes-unveiled/"><u>Defeat the Annoying Black Screen Challenge for Hitman 3 Players - PC Fixes Unveiled</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-cod-wwii-error-4128-issue-here-are-the-steps-you-need-to-know/"><u>Fixing CoD WWII 'Error 4128' Issue? Here Are the Steps You Need to Know!</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/flv-to-wmv-conversion-guide-seamless-video-format-switching-tips-and-tricks/"><u>FLV to WMV Conversion Guide - Seamless Video Format Switching Tips and Tricks</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/how-to-fix-connection-issues-with-your-external-gadgets-expert-tips-from-yl-computing/"><u>How To Fix Connection Issues with Your External Gadgets: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-infinix-note-30-vip-racing-edition-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Infinix Note 30 VIP Racing Edition to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-explore-the-most-reliable-photo-background-alternation-apps/"><u>In 2024, Explore the Most Reliable Photo-Background Alternation Apps</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Motorola Moto E13? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mordhau-freezing-problems-discover-how-to-fix-them-now/"><u>Mordhau Freezing Problems? Discover How to Fix Them Now!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-ffxiv-update-issues-fixes-for-unsuccessful-version-checks/"><u>Overcoming FFXIV Update Issues – Fixes for Unsuccessful Version Checks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/pixel-watch-2-vs-apple-watch-series-9-showdown-determining-the-ultimate-smartwatch-investment/"><u>Pixel Watch 2 Vs. Apple Watch Series 9 Showdown: Determining the Ultimate Smartwatch Investment</u></a></li>
+<li><a href="https://win-answers.techidaily.com/rocket-league-stability-hacks-overcoming-frequent-game-crashes/"><u>Rocket League Stability Hacks: Overcoming Frequent Game Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-enhancing-gameplay-by-resolving-stutters-and-increasing-fps-on-the-ascent/"><u>Ultimate Guide: Enhancing Gameplay by Resolving Stutters & Increasing FPS on 'The Ascent'</u></a></li>
 </ul></div>
 

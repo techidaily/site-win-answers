@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Solution: Stop PC Freezes and Glitches While Playing Mobile PUBG"
-date: 2024-12-14T16:45:34.000Z
-updated: 2024-12-20T20:40:21.391Z
+date: 2024-12-16T00:17:42.490Z
+updated: 2024-12-22T01:17:36.654Z
 tags:
   - win11
   - win10
@@ -37,6 +37,10 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 | **HDD Space**        | **16 GB**           |
 | **DirectX**          | **DirectX 11.0**    |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Recommended system requirements for Fortnite
 
 | **Operating System** | **Windows 10/8/7**                                           |
@@ -61,15 +65,15 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Lower graphics settings
 
  It is possible that the black screen issue occurs because of your graphics card cannot capable the high settings in the game or the game and your graphics card are not compatible with the latest build that you’re using. So try to lower graphics settings in Fortnite to see whether it resolves this problem or not.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2: Use compatibility mode
 
@@ -85,7 +89,7 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method: Update your graphics card
@@ -120,21 +124,17 @@ OR
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Reboot your computer and run Fortnite to check the black screen issue will appear or not.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 4: Use your integrated graphics card
 
@@ -143,6 +143,10 @@ OR
  If everything works fine using the integrated graphics, you might need to check your graphics processor or PSU (computer power supply unit) are faulting. The way to test your GPU is using another graphics card on your PC or try this card in another PC.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 5: Change scale and layout limit
 
@@ -163,10 +167,6 @@ OR
 1. Type “firewall” in the search bar and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/firewall0.jpg)
 2. Click**Allow an app through firewall** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/firewall.jpg)
 3. Find Fortnite and check whether it has been blocked or not.
@@ -198,17 +198,17 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-snapshot-styles-a-guide-to-using-old-school-vhs-in-modern-editing/"><u>[New] In 2024, Snapshot Styles A Guide to Using Old-School VHS in Modern Editing</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-stream-into-the-now-enjoying-real-time-broadcasts-with-roku-and-facebook-for-2024/"><u>[New] Stream Into The Now Enjoying Real-Time Broadcasts with Roku & Facebook for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/alan-wake-sequel-stuck-fixing-release-issues/"><u>Alan Wake Sequel Stuck: Fixing Release Issues</u></a></li>
-<li><a href="https://win-answers.techidaily.com/diagnosing-the-issue-compatibility-and-fixes-for-pc-gamers-struggling-with-robocop-rogue-city/"><u>Diagnosing the Issue: Compatibility and Fixes for PC Gamers Struggling with RoboCop: Rogue City</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-overcome-the-nier-replicant-re-master-failure-to-launch-problems/"><u>How to Overcome the NieR Replicant Re-Master Failure to Launch Problems</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-use-airplay-technology-to-project-your-mac-display-onto-any-tv/"><u>How to Use AirPlay Technology to Project Your Mac Display Onto Any TV</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/ideal-platforms-for-procuring-youtube-ringtone-files-for-2024/"><u>Ideal Platforms for Procuring YouTube Ringtone Files for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-best-oppo-frp-bypass-guide-by-drfone-android/"><u>In 2024, Best Oppo FRP Bypass Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/installation-rapide-et-facile-de-la-version-pro-convertisseur-video-mac-x-hd-sur-votre-ordinateur-sous-windows-achat-direct/"><u>Installation Rapide Et Facile De La Version Pro Convertisseur Vidéo Mac X HD Sur Votre Ordinateur Sous Windows - Achat Direct</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-windows-spotlight-failures-a-comprehensive-guide-for-windows-11-users/"><u>Overcoming Windows Spotlight Failures: A Comprehensive Guide for Windows 11 Users</u></a></li>
-<li><a href="https://win-answers.techidaily.com/persona-nigma-ultimate-guide-to-solving-the-black-screen-glitch-in-persona-5-strikers/"><u>Persona Nigma: Ultimate Guide to Solving the Black Screen Glitch in Persona 5 Strikers</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-motorola-moto-g73-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-chuckle-on-the-go-best-comedy-tone-sites-for-2024/"><u>[New] Chuckle on the Go Best Comedy Tone Sites for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1717726008656-new-how-to-upload-videos-to-youtube-a-step-by-step-guide-for-2024/"><u>[New] How To Upload Videos to YouTube A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-best-value-screen-recorder-apps-under-50/"><u>[New] In 2024, Best Value Screen Recorder Apps Under $50</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-transforming-flat-text-into-sculptable-3d-characters/"><u>[Updated] In 2024, Transforming Flat Text Into Sculptable 3D Characters</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/entrance-to-follow-creating-a-user-friendly-subscribe-link-for-2024/"><u>Easy Entrance to Follow Creating a User-Friendly Subscribe Link for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/face-unlock-tech-iphone-xs-face-id-versus-samsung/"><u>Face Unlock Tech IPhone X's Face ID Versus Samsung'</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-your-gameplay-eliminating-slow-response-times-in-back-4-blood/"><u>Fix Your Gameplay: Eliminating Slow Response Times in 'Back 4 Blood'</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-issues-troubleshooting-cataclysms-tribes-of-midgard/"><u>Fixing Issues: Troubleshooting Cataclysm's Tribes of Midgard</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-overcome-the-12707-memory-error-in-modern-warfare-3-for-smooth-gaming-experience/"><u>How to Overcome the '12707 Memory Error' In Modern Warfare 3 for Smooth Gaming Experience</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/troubleshooting-sound-card-problems-understanding-audio-distortions-and-noise-expert-advice-by-yl-software/"><u>Troubleshooting Sound Card Problems: Understanding Audio Distortions and Noise - Expert Advice by YL Software</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/understanding-email-bounce-dynamics-with-massmail-solutions/"><u>Understanding Email Bounce Dynamics with MassMail Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/why-wont-my-games-sync-fixing-common-issues-with-steam-cloud-services/"><u>Why Won't My Games Sync? Fixing Common Issues with Steam Cloud Services.</u></a></li>
 </ul></div>
 

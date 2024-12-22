@@ -1,7 +1,7 @@
 ---
 title: Getting to the Bottom of a Broken Discord Webcam - Expert Fixes
-date: 2024-12-19T17:17:44.338Z
-updated: 2024-12-20T16:30:44.926Z
+date: 2024-12-19T21:28:10.978Z
+updated: 2024-12-21T19:10:46.284Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ Discord is a popular chatting platform for gamers. If you have met your device c
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -50,16 +50,12 @@ Discord is a popular chatting platform for gamers. If you have met your device c
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-02-43.jpg)
 5. Make sure you’ve turned on the**Allow desktop apps to access your camera** toggle.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-16-38.jpg)
 6. Relaunch Discord and check if the camera is working fine or not.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Rearrange your USB device (USB camera only)
 
@@ -74,6 +70,10 @@ Here’s how…
 
 If it doesn’t help, please move to the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Close all the background app
 
  One common reason for the Discord camera not working issue is your camera it’s used in the background by other applications so it’s not available to Discord. Also, kill unnecessary background programs will give Discord more resources and prevent potential conflicts.
@@ -82,6 +82,10 @@ If it doesn’t help, please move to the next fix.
 2. Choose the background app and then click**End task** to shut it down. Repeat the process until you’ve closed all the background apps.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-26-59.jpg)
 3. Launch Discord camera to check.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update camera driver
 
@@ -112,16 +116,8 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
@@ -134,12 +130,20 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-1.jpg)
 2. Click **Check for updates** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![click Check for updates to see if your computer is up-to-date or if there are any updates available](https://images.drivereasy.com/wp-content/uploads/2020/10/click-check-for-updates-check-for-Windows-Updates.jpg)
 3. Update the system if there’s an available version.
 
 4. Follow the on-screen information to finish the process. Reboot your computer and check the camera.
 
 If your camera is still not working on Discord, move to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Reinstall Discord
 
@@ -150,10 +154,6 @@ If your camera is still not working on Discord, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app2.jpg)
 3. Find Discord and click to expand it. Click the**Uninstall** button.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-40-47.jpg)
 4. Follow the on-screen instructions to finish the process.
 
@@ -162,7 +162,7 @@ If your camera is still not working on Discord, move to the next fix.
 6. Find the Discord folder and delete it.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-44-01.jpg)
@@ -198,21 +198,21 @@ If your camera is still not working on Discord, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-ultimate-affordable-game-controllers-under-100-for-2024/"><u>[New] Ultimate Affordable Game Controllers Under $100 for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-expert-tips-for-high-quality-zoom-podcast-sessions/"><u>[Updated] 2024 Approved Expert Tips for High-Quality Zoom Podcast Sessions</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-enhancing-windows-photos-with-music-and-custom-filters/"><u>[Updated] In 2024, Enhancing Windows Photos with Music and Custom Filters</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-dive-deep-10-immersive-youtube-videos-for-vr-enthusiasts/"><u>2024 Approved Dive Deep 10 Immersive YouTube Videos for VR Enthusiasts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/5-reasons-why-chatgpt-wont-take-your-writing-job/"><u>5 Reasons Why ChatGPT Won’t Take Your Writing Job</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/best-virtual-reality-gaming-earbuds-reviewed-the-ultimate-selection-for-2nce-you-step-into-a-new-world/"><u>Best Virtual Reality Gaming Earbuds Reviewed - The Ultimate Selection for 2Nce You Step Into a New World!</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-through-the-creation-hurdle-of-windows-error-30005/"><u>Navigating Through the Creation Hurdle of Windows Error 30005</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/overcoming-computer-scanner-connection-problems-expert-tips-from-yl-software-experts/"><u>Overcoming Computer-Scanner Connection Problems: Expert Tips From YL Software Experts</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-issues-with-insurgency-sandstorm-frequent-system-failures/"><u>Resolved Issues with 'Insurgency: Sandstorm' Frequent System Failures</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-constructing-a-radar-plot-in-microsoft-excel/"><u>Step-by-Step Guide: Constructing a Radar Plot in Microsoft Excel</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-transforming-your-excel-spreadsheet-into-a-dynamic-powerpoint-organizational-structure/"><u>Step-by-Step Guide: Transforming Your Excel Spreadsheet Into a Dynamic PowerPoint Organizational Structure</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-tutorial-visualizing-modifications-in-excel-for-windows-users/"><u>Step-by-Step Tutorial: Visualizing Modifications in Excel for Windows Users</u></a></li>
-<li><a href="https://win-answers.techidaily.com/streamline-data-management-by-linking-your-microsoft-forms-with-excel-online-instantly/"><u>Streamline Data Management by Linking Your Microsoft Forms with Excel Online Instantly</u></a></li>
-<li><a href="https://win-answers.techidaily.com/tutorial-how-to-place-photos-within-google-sheets-cell-layouts/"><u>Tutorial: How To Place Photos Within Google Sheets Cell Layouts</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-topmost-efficient-key-combinations-in-microsoft-excel/"><u>Ultimate Guide: Topmost Efficient Key Combinations in Microsoft Excel</u></a></li>
-<li><a href="https://win-answers.techidaily.com/unlocking-efficiency-the-ultimate-guide-to-date-and-time-in-ms-excel-with-13-key-functions/"><u>Unlocking Efficiency: The Ultimate Guide to Date & Time in MS Excel with 13 Key Functions</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-tips-for-smooth-and-efficient-photo-background-blurring/"><u>[New] In 2024, Tips for Smooth and Efficient Photo Background Blurring</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-steps-to-successful-remote-podcasting-for-2024/"><u>[New] Steps to Successful Remote Podcasting for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhanced-stability-for-your-pc-playthrough-fnaf-free-from-breaching-issues/"><u>Enhanced Stability for Your PC Playthrough – FNAF Free From Breaching Issues!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-for-a-smooth-dota-2-gaming-experience-overcoming-lags-in-2e24/"><u>Expert Tips for a Smooth Dota 2 Gaming Experience: Overcoming Lags in 2E24</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-continuous-freezing-problems-on-football-manager-2021-for-windows-users/"><u>Fixing Continuous Freezing Problems on Football Manager 2021 for Windows Users</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-realme-c67-5g-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Realme C67 5G?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-slow-frames-in-farming-simulator-22-when-played-on-a-pc/"><u>How to Fix Slow Frames in Farming Simulator 22 when Played on a PC?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-tecno-camon-20-premier-5g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Tecno Camon 20 Premier 5G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-a-practical-approach-to-streaming-fb-content-on-your-apple-setup/"><u>In 2024, A Practical Approach to Streaming FB Content on Your Apple Setup</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-realme-gt-neo-5-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Realme GT Neo 5 to Protect Your Individual Information</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-instagram-a-comprehensive-guide-to-video-posting/"><u>In 2024, Instagram A Comprehensive Guide to Video Posting</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-unlocking-your-fb-social-media-treasures/"><u>In 2024, Unlocking Your FB Social Media Treasures</u></a></li>
+<li><a href="https://win-answers.techidaily.com/kickstart-your-ride-expert-advice-on-launching-forza-horizon-4-for-the-2024-enthusiasts/"><u>Kickstart Your Ride: Expert Advice on Launching Forza Horizon 4 for the 2024 Enthusiasts</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/overcoming-frequent-fuser-software-collapses-on-personal-computers/"><u>Overcoming Frequent Fuser Software Collapses on Personal Computers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-tips-to-stop-cod-modern-warfare-from-crashing/"><u>Resolved! Tips to Stop Cod: Modern Warfare From Crashing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-guide-stop-thunder-tier-one-from-continuously-crashing-on-desktop-systems/"><u>Solution Guide: Stop Thunder Tier One From Continuously Crashing on Desktop Systems</u></a></li>
 </ul></div>
 

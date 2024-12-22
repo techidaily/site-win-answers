@@ -1,7 +1,7 @@
 ---
 title: "Solution Guide: Overcome Difficulties When Trying To Boot Football Manager 2023"
-date: 2024-12-16T21:44:56.767Z
-updated: 2024-12-20T19:06:35.182Z
+date: 2024-12-16T19:47:17.253Z
+updated: 2024-12-22T02:53:24.377Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ Looking for Football Manager 2023 won’t launch fixes? You’ve come to the rig
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -43,6 +47,10 @@ Take Avast as an example:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-16-03.jpg)
 3. Click**Settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-16-38.jpg)
 4. Click**Exception > Add Exception** .  
 
@@ -50,15 +58,11 @@ Take Avast as an example:
 5. Find your fm.exe location. Click**BROWSE** to add exception.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-20-00.jpg)
 6. Relaunch the game to check.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If it’s not your antivirus software, move to the next fix.
 
@@ -87,18 +91,10 @@ Visit the website of your GPU manufacturer and search for your GPU model.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Verify game files
 
@@ -123,11 +119,15 @@ If this fix bring no luck, move to the next fix.
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. In the**GENERAL** tab, uncheck**Enable the Steam Overlay while in-game** and type**\-windowed** under**LAUNCH OPTIONS** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_17-39-55.jpg)
 4. Relaunch the game to check.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If it’s still not working, you may try resetting your whole PC. Note that you need to backup important files before resetting. Some players indicated the game started working normally after that.
@@ -151,24 +151,16 @@ If this fix bring no luck, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-sculpting-digital-landscapes-with-windows-10s-latest-features/"><u>[New] Sculpting Digital Landscapes with Windows 10'S Latest Features</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-elevate-your-streams-with-seamless-obspluszoom-integration/"><u>[Updated] 2024 Approved Elevate Your Streams with Seamless OBS+Zoom Integration</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-cost-effective-video-enhancement-vimeo-edition/"><u>[Updated] Cost-Effective Video Enhancement Vimeo Edition</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-ultra-high-definition-capture-ideal-apps-reviewed/"><u>[Updated] In 2024, Ultra-High Definition Capture Ideal Apps Reviewed</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-tiktok-captioning-guide-adding-descriptive-texts/"><u>[Updated] TikTok Captioning Guide Adding Descriptive Texts</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/cloud-mastery-the-best-of-unlimited-space/"><u>Cloud Mastery The Best of Unlimited Space</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-installation-of-updated-canon-pixma-ts3322-drivers-download-now/"><u>Easy Installation of Updated Canon PIXMA TS3322 Drivers: Download Now</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/how-to-install-and-benefit-from-the-robust-acurite-professional-weather-station-model-01036m/"><u>How to Install and Benefit From the Robust AcuRite Professional Weather Station - Model 01036M</u></a></li>
-<li><a href="https://win-webster.techidaily.com/professionelle-seagate-festplattenklonen-losung-schnelles-kopieren-auf-leistungsstarke-ssds/"><u>Professionelle Seagate Festplattenklonen Lösung - Schnelles Kopieren Auf Leistungsstarke SSDs</u></a></li>
-<li><a href="https://win-answers.techidaily.com/protect-your-data-effective-strategies-against-onedrive-vulnerabilities/"><u>Protect Your Data: Effective Strategies Against OneDrive Vulnerabilities</u></a></li>
-<li><a href="https://win-answers.techidaily.com/random-shutdowns-on-your-windows-machine-here-are-8-common-reasons-and-fixes/"><u>Random Shutdowns on Your Windows Machine? Here Are 8 Common Reasons and Fixes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/revolutionize-your-streaming-experience-with-microsoft-edges-new-live-ai-video-translation-feature/"><u>Revolutionize Your Streaming Experience with Microsoft Edge's New Live AI Video Translation Feature</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-to-upgrading-your-pcs-ram-in-windows/"><u>Step-by-Step Guide to Upgrading Your PC's RAM in Windows</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-restoring-network-functionality-for-lan-cards-on-microsofts-latest-operating-system/"><u>Step-by-Step Guide: Restoring Network Functionality for LAN Cards on Microsoft's Latest Operating System</u></a></li>
-<li><a href="https://win-answers.techidaily.com/the-persistence-of-windows-11s-show-desktop-feature-no-replacement-in-sight/"><u>The Persistence of Windows 11'S Show Desktop Feature: No Replacement in Sight</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-10-essential-command-line-tricks-for-windows-power-users/"><u>Top 10 Essential Command-Line Tricks for Windows Power Users</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-6-windows-11-applications-enhancing-remote-work-efficiency/"><u>Top 6 Windows 11 Applications Enhancing Remote Work Efficiency</u></a></li>
-<li><a href="https://win-answers.techidaily.com/transitioning-to-windows-11-bring-back-your-trusted-windows-10-file-explorer/"><u>Transitioning to Windows 11: Bring Back Your Trusted Windows 10 File Explorer!</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-data-from-infinix-hot-30-5g-by-fonelab-android-recover-data/"><u>Undelete lost data from Infinix Hot 30 5G</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhanced-stability-how-total-war-warhammer-iii-crash-issues-are-fixed-for-a-smoother-pc-gameplay/"><u>[ENHANCED STABILITY] How Total War: Warhammer III Crash Issues Are Fixed for a Smoother PC Gameplay</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-decoding-the-mystery-of-where-are-my-youtube-comments/"><u>[New] In 2024, Decoding the Mystery of Where Are My YouTube Comments?</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-unleash-your-devices-new-tone-with-top-5-chrome-extensions/"><u>[New] In 2024, Unleash Your Device's New Tone with Top 5 Chrome Extensions</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-maximize-video-impact-with-full-screen-settings/"><u>[Updated] Maximize Video Impact with Full-Screen Settings</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-free-pass-to-premium-video-editing-tools/"><u>[Updated] The Free Pass to Premium Video Editing Tools</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-guide-to-getting-your-cortana-back-on-track-step-by-step-fixes-for-common-issues/"><u>Expert Guide to Getting Your Cortana Back On Track: Step-by-Step Fixes for Common Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-for-nier-repliecants-crashing-problem-smooth-playtime-now/"><u>Fix for NieR: Repliecant's Crashing Problem - Smooth Playtime Now!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-zte-nubia-flip-5g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from ZTE Nubia Flip 5G to New Phone | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-looking-into-how-slow-mo-guys-have-changed-the-dynamics-of-slow-motion-for-2024/"><u>New Looking Into How Slow Mo Guys Have Changed the Dynamics of Slow-Motion for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-fixes-overcoming-the-challenge-of-resident-evil-4-remake-crashes/"><u>Step-by-Step Fixes: Overcoming the Challenge of Resident Evil 4 Remake Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/warzone-disc-reading-troubles-heres-how-to-solve-it-for-versions-50-and-31/"><u>Warzone Disc Reading Troubles? Here's How to Solve It for Versions 5.0 & 3.1</u></a></li>
 </ul></div>
 

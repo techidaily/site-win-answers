@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Dragon Age: Origins Crashes on Windows 11 Systems"
-date: 2024-12-16T21:23:45.067Z
-updated: 2024-12-20T19:26:23.174Z
+date: 2024-12-20T20:15:15.940Z
+updated: 2024-12-22T00:30:06.527Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/528781abe64eff7e57733460b453c6895f2f9ec89
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  We’ve gathered the latest working fixes for your Civ 6 not launching issue. Simply work your way down until you find the one that gives you luck.
@@ -41,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/528781abe64eff7e57733460b453c6895f2f9ec89
 
  If you have trouble updating the game, you might just need a simple reboot.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Verify the integrity of game files
 
  You can’t expect your game to work fine if there’re files missing or broken. So first you need to**run a scan of your game folder** .
@@ -57,12 +49,16 @@ Here’s how to do it on the Epic Games client:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/civ-6-verify.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now you can try again and see if Civ 6 launches.
 
 If this doesn’t help, you can take a look at the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
@@ -85,7 +81,7 @@ If this doesn’t help, you can take a look at the next fix below.
  If the latest graphics driver doesn’t do the charm, you can check out the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Install all Windows updates
@@ -96,6 +92,10 @@ If this doesn’t help, you can take a look at the next fix below.
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
@@ -105,7 +105,7 @@ If this doesn’t help, you can take a look at the next fix below.
 If this solution doesn’t help, you can continue to the next one.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Perform a clean boot
@@ -116,10 +116,6 @@ If this solution doesn’t help, you can continue to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig-clean-boot-1.jpg)
 2. In the pop-up window, navigate to the **Services**  tab and check the box next to **Hide all Microsoft services** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
 
@@ -129,6 +125,10 @@ If this solution doesn’t help, you can continue to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
 
@@ -137,7 +137,7 @@ If this solution doesn’t help, you can continue to the next one.
 If a clean boot doesn’t help, you can check out the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Install the latest Visual C++ redistributable
@@ -177,19 +177,16 @@ If a clean boot doesn’t help, you can check out the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-best-microphone-combinations-for-superior-4k-audio-and-visuals-for-2024/"><u>[New] Best Microphone Combinations for Superior 4K Audio and Visuals for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-turning-still-shots-into-audio-visual-narratives/"><u>[New] Turning Still Shots Into Audio-Visual Narratives</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-epic-environments-discover-the-hottest-10-themes-at-betterdiscord-for-2024/"><u>[Updated] Epic Environments Discover the Hottest 10 Themes at BetterDiscord for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/defending-against-data-exposure-from-personalized-ai/"><u>Defending Against Data Exposure From Personalized AI</u></a></li>
-<li><a href="https://win-answers.techidaily.com/easy-steps-to-resolve-persistent-google-chrome-breakdowns/"><u>Easy Steps to Resolve Persistent Google Chrome Breakdowns</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-advice-resolving-disco-elysium-stability-problems-for-pc-gamers/"><u>Expert Advice: Resolving 'Disco Elysium' Stability Problems for PC Gamers</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/gaming-on-a-budget-top-10-free-game-download-sites-for-pc-and-android-for-2024/"><u>Gaming on a Budget Top 10 Free Game Download Sites for PC and Android for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-blurry-graphics-in-cod-warzone-on-pc/"><u>How to Fix Blurry Graphics in COD: Warzone on PC</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-pick-an-optimal-mobile-case-that-suits-your-style-and-needs/"><u>How To Pick An Optimal Mobile Case That Suits Your Style and Needs</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-best-ways-to-bypass-icloud-activation-lock-from-apple-iphone-12-pro-maxipadipod-by-drfone-ios/"><u>In 2024, Best Ways to Bypass iCloud Activation Lock from Apple iPhone 12 Pro Max/iPad/iPod</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-black-screen-troubles-in-zoom-on-your-computer-comprehensive-2024-instructions/"><u>Resolving Black Screen Troubles in Zoom on Your Computer - Comprehensive 2024 Instructions</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/top-voice-modifiers-with-stunning-effects-a-comprehensive-guide/"><u>Top Voice Modifiers with Stunning Effects : A Comprehensive Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-when-amd-radeon-utility-fails-to-launch/"><u>Troubleshooting Steps When AMD Radeon Utility Fails to Launch</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-when-cant-launch-assassins-creed-mirage/"><u>Troubleshooting Steps: When Can't Launch Assassin's Creed Mirage</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-boosting-earnings-in-the-quick-flicks-of-youtube-shorts/"><u>[New] 2024 Approved Boosting Earnings in the Quick Flicks of YouTube Shorts</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-premier-listing-of-superior-free-lut-downloads/"><u>[New] Premier Listing of Superior Free LUT Downloads</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-initiating-seamless-zoom-gatherings/"><u>[Updated] 2024 Approved Initiating Seamless Zoom Gatherings</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-elevate-your-xbox-gameplay-a-comprehensive-screen-guide/"><u>2024 Approved Elevate Your Xbox Gameplay A Comprehensive Screen Guide</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211239538-9781612835051-astrology/"><u>Astrology | Free Book</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixed-issues-enshrouded-game-play-smoothly-on-your-desktop/"><u>Fixed Issues: 'Enshrouded Game' - Play Smoothly on Your Desktop</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guide-to-diagnose-and-repair-unsuccessful-game-launches-due-to-corrupted-files/"><u>Guide to Diagnose & Repair Unsuccessful Game Launches Due to Corrupted Files</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-eliminate-lag-in-fallout-76-solutions-for-smoother-gameplay/"><u>How to Eliminate Lag in Fallout 76 – Solutions for Smoother Gameplay</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-briefvideo-creator/"><u>In 2024, BriefVideo Creator</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solve-your-roblox-launching-problems-expert-tips-and-techniques-for-2n22-gamers/"><u>Solve Your Roblox Launching Problems: Expert Tips and Techniques for 2N22 Gamers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-avatar-frontiers-of-pandora-performance-issues-fixes-for-low-fps-and-stuttering/"><u>Solving 'Avatar: Frontiers of Pandora' Performance Issues - Fixes for Low FPS & Stuttering</u></a></li>
 </ul></div>
 

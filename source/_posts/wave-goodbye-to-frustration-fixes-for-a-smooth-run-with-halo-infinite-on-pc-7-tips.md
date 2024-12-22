@@ -1,7 +1,7 @@
 ---
 title: "Wave Goodbye to Frustration: Fixes for a Smooth Run with Halo Infinite on PC (7 Tips)"
-date: 2024-12-13T18:52:51.370Z
-updated: 2024-12-20T17:31:08.488Z
+date: 2024-12-20T17:03:23.025Z
+updated: 2024-12-21T22:42:26.870Z
 tags:
   - win11
   - win10
@@ -39,7 +39,7 @@ _Diablo 3_ constantly crashes on your computer? You’re not alone! Many players
 9. **[Reinstall your game and/or the Blizzard Battle.net app](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: **Update your graphics driver**
@@ -74,10 +74,6 @@ There are two ways you can get the latest correct graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-201.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -102,6 +98,10 @@ There are two ways you can get the latest correct graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-499.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click**Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-500.png)
@@ -111,6 +111,10 @@ There are two ways you can get the latest correct graphics driver:
 If your game crashes again, go ahead with the fix below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Repair your game files
 
@@ -130,6 +134,10 @@ If your game crashes again, go ahead with the fix below.
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Install the latest patch
 
  The developers of _Diablo 3_ release regular game patches to fix bugs. It’s possible that a recent patch has stopped your game from running properly, and that a new patch is required to fix it. To check if there is any update, follow the instructions below:
@@ -140,16 +148,12 @@ If your game crashes again, go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-507.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If a patch is available, install it, then run your game again to check whether the crashing issue has been resolved. If it hasn’t, or there was no new game patch available, move on to the next fix.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Reset your in-game settings
@@ -166,13 +170,13 @@ If your game crashes again, go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-514.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)**  Click **Reset** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-515.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)** Click **Done** .
 
@@ -196,13 +200,13 @@ If your game crashes again, go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-705.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)**  Type **%ProgramData%** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-706.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)**  Highlight and delete the **Blizzard Entertainment** and**Battle.net folder** .
 
@@ -212,10 +216,6 @@ If your game crashes again, go ahead with the fix below.
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 8: Run your game in compatibility mode
 
  Some Windows updates may not be compatible with_Diablo 3_ , keeping it from functioning properly. Try running your game in compatibility mode to see if it fixes your issue. Here is how to do it:
@@ -224,17 +224,21 @@ If your game crashes again, go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-512.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)**  Click the **Compatibility**  tab. Then check the box next to **Run this program in compatibility mode for** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-510.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Click the list box below to select **Windows 8** , then click **Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-511.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)**  Relaunch your game to check if your issue had been resolved.
 
@@ -263,10 +267,6 @@ If your game crashes again, go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-513.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)** Restart the Blizzard Battle.net app to download and install _Diablo 3_ .
 
  Relaunch your game to check if the crashing issue has been resolved. If not, check the fix below.
@@ -281,6 +281,10 @@ If your game crashes again, go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-443.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-444.png)
@@ -290,10 +294,6 @@ If your game crashes again, go ahead with the fix below.
  If you’re prompted about permission, select **Continue** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-445.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **5)** **[Download](https://www.blizzard.com/en-us/apps/battle.net/desktop)**  and install the Blizzard Battle.net app.
 
@@ -321,16 +321,22 @@ If your game crashes again, go ahead with the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-sculpting-waterway-content-with-flair/"><u>[Updated] 2024 Approved Sculpting Waterway Content with Flair</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/deciphering-digital-disguises-spotting-ai-content-creation/"><u>Deciphering Digital Disguises: Spotting AI Content Creation</u></a></li>
-<li><a href="https://win-answers.techidaily.com/enjoy-a-smooth-gaming-experience-addressing-the-recurring-pc-shutdowns-in-age-of-wonders-planetfall/"><u>Enjoy a Smooth Gaming Experience - Addressing the Recurring PC Shutdowns in Age of Wonders: Planetfall</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/hands-on-experience-with-arlos-advanced-home-protection/"><u>Hands-On Experience with Arlo's Advanced Home Protection</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-ensure-smooth-zoom-meetings-overcoming-stability-problems-in-windows-10-and-11/"><u>How to Ensure Smooth Zoom Meetings: Overcoming Stability Problems in Windows 10 and 11</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-insightful-analysis-the-dji-inspire-2-story/"><u>In 2024, Insightful Analysis - The DJI Inspire 2 Story</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-troubleshooting-error-connecting-to-the-apple-id-server-on-iphone-se-2022-by-drfone-ios/"><u>In 2024, Troubleshooting Error Connecting to the Apple ID Server On iPhone SE (2022)</u></a></li>
-<li><a href="https://win-answers.techidaily.com/no-more-dayz-crashes-solutions-for-a-smooth-gaming-experience/"><u>No More DayZ Crashes - Solutions for a Smooth Gaming Experience</u></a></li>
-<li><a href="https://discover-best.techidaily.com/pcdvd-2023/"><u>PCを使わない方法でレンタルDVDを複製する - 最新ガイド記事 (2023年生まれの映像専門家による解説)</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-repair-tips-for-a-broken-thaumaturge-on-windowsmacos-systems/"><u>Step-by-Step Repair Tips for a Broken Thaumaturge on Windows/MacOS Systems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshoot-persistent-crashes-in-horizon-zero-dawn-for-a-seamless-gaming-experience/"><u>Troubleshoot Persistent Crashes in Horizon Zero Dawn for a Seamless Gaming Experience</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-top-picks-for-downloading-fb-videos-on-firefox-the-ultimate-addons-and-plugins-list-2023/"><u>[New] In 2024, Top Picks for Downloading FB Videos on Firefox The Ultimate Addons and Plugins List, 2023</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-prime-audio-festivals-online/"><u>[New] Prime Audio Festivals Online</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-crafting-captivating-vlog-narratives/"><u>2024 Approved Crafting Captivating Vlog Narratives</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/acquiring-drone-racing-skills-and-exploring-top-fpv-drones/"><u>Acquiring Drone Racing Skills & Exploring Top FPV Drones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721458026803-diagnosing-the-issues-with-image-recognition-technology-in-iphones/"><u>Diagnosing the Issues with Image Recognition Technology in iPhones</u></a></li>
+<li><a href="https://media-tips.techidaily.com/discover-an-uninterrupted-viewing-journey-on-amazon-prime-video-enjoy-zero-commercials-for-only-3-more/"><u>Discover an Uninterrupted Viewing Journey on Amazon Prime Video - Enjoy Zero Commercials for Only $3 More!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-prevent-f1-2021-pc-crashes-and-enjoy-the-full-racing-thrill/"><u>How to Prevent F1 2021 PC Crashes & Enjoy the Full Racing Thrill</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-samsung-galaxy-m54-5g-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Samsung Galaxy M54 5G</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-top-5-tools-for-viewing-insta-stories-unseen/"><u>In 2024, Top 5 Tools for Viewing Insta Stories Unseen</u></a></li>
+<li><a href="https://win-answers.techidaily.com/no-more-interruptions-fixing-deathloops-pc-crashes-with-ease-and-expertise/"><u>No More Interruptions: Fixing Deathloop's PC Crashes with Ease and Expertise</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-gaming-troubleshooting-how-to-repair-corrupted-game-files-for-optimal-performance-updated-guide/"><u>PC Gaming Troubleshooting: How to Repair Corrupted Game Files for Optimal Performance (Updated Guide)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-phasmophobias-stagnant-progress-at-90-on-startup-screen-for-2am-users/"><u>Resolving Phasmophobia's Stagnant Progress at 90% on Startup Screen for 2Am Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-grand-theft-auto-5-stability-problems-for-an-uninterrupted-gaming-experience/"><u>Solving Grand Theft Auto 5 Stability Problems for an Uninterrupted Gaming Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-solution-when-your-msi-dragon-center-fails/"><u>Step-by-Step Solution: When Your MSI Dragon Center Fails</u></a></li>
+<li><a href="https://win-answers.techidaily.com/tales-of-arise-unreal-engine-nobodys-nightmare-defeating-destructive-errors-once-and-for-all/"><u>Tales of Arise Unreal Engine Nobody's Nightmare - Defeating Destructive Errors Once and For All</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-fix-for-nba-2k24-code-727e66ac-a-step-by-step-tutorial/"><u>Ultimate Fix for NBA 2K24 Code 727E66ac - A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/44ob44od44oi44oe44kk44or44o744ki44kr44km44oz44oi5b6p5ywd5asx5pwx5pmc44gu5aplusplus5yem5rov77ya6ac844ka44g544gn5lq654mp44go5oml6acg/"><u>ホットマイル・アカウント復元失敗時の対処法：頼むべき人物と手順</u></a></li>
 </ul></div>
 

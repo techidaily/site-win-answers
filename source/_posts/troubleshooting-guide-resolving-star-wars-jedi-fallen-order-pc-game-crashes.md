@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Resolving Star Wars Jedi: Fallen Order PC Game Crashes"
-date: 2024-12-13T20:55:49.773Z
-updated: 2024-12-20T21:03:02.528Z
+date: 2024-12-15T22:59:32.547Z
+updated: 2024-12-22T03:09:13.052Z
 tags:
   - win11
   - win10
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/b1aabf9182a40f39eacfea832a56e2883c1058666
 7. **[Lower in-game graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Check if your system meets the specifications required for The Division 2
 
@@ -82,10 +86,6 @@ thumbnail: https://thmb.techidaily.com/b1aabf9182a40f39eacfea832a56e2883c1058666
 
  If your PC fails to meet the minimum system requirements for The Division 2, you may need to upgrade your PC hardware.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Install the latest game patch
 
  The developers of The Division 2 release regular game patches to fix bugs. It’s possible that a recent patch has triggered the game crash issue, and that a new patch is required to fix it.
@@ -112,10 +112,14 @@ thumbnail: https://thmb.techidaily.com/b1aabf9182a40f39eacfea832a56e2883c1058666
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Verify your game files
@@ -154,6 +158,10 @@ thumbnail: https://thmb.techidaily.com/b1aabf9182a40f39eacfea832a56e2883c1058666
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-123.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Launch the game after verifying the game file to see if this fix works. If not, try the next fix, below.
 
 ### Fix 5: Run Windows Compatibility Troubleshooter
@@ -174,10 +182,6 @@ thumbnail: https://thmb.techidaily.com/b1aabf9182a40f39eacfea832a56e2883c1058666
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-126.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3)**Check the box** next to**Override high DPI scaling behavior** and select**Scaling performed by: Application** . Then click**OK** to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-127.png)
@@ -185,6 +189,10 @@ thumbnail: https://thmb.techidaily.com/b1aabf9182a40f39eacfea832a56e2883c1058666
  4)**Tick the box** next to**Disable fullscreen optimizations** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-128.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
@@ -201,10 +209,6 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
  1) On your keyboard, press**the Windows logo key** and**R** at the same time to open the Run dialog, then type**control** and press**Enter** to open Control Panel.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-146.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) In the search box, type**advanced** and then click**View advanced system settings** in the list of search results.
 
@@ -226,10 +230,6 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
  Launch The Division 2 to see if this issue gets fixed or not. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 7: Lower in-game graphics settings
 
  You can also try lowing in-game graphics settings to see if you can resolve the game crash issue. Here is how to do it:
@@ -239,12 +239,16 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-154-1024x744.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Set**Spot Shadows** to**Low** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-155-1024x744.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3)**Turn off Contact Shadows** .
 
@@ -258,41 +262,37 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-158-1024x758.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Set**Vegetation Quality** to**Medium** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-159-1024x759.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  7)**Turn off Local Reflection Quality** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-160-1024x762.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  8) Set**Ambient Occlusion** to**Medium** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-161-1024x777.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  9) Set the value of**Object Detail** to**50** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-162-1024x759.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  10) Set**Terrain Quality** to**Medium** . Then save all the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-163-1024x772.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Launch the game to see if the crash issue reappears. If not, congratulations! You’ve resolved this issue.
 
@@ -317,17 +317,21 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-ios-the-ultimate-list-of-ps2-emulators/"><u>[New] IOS The Ultimate List of PS2 Emulators</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-the-ultimate-software-for-mp4-recording-for-2024/"><u>[New] The Ultimate Software for MP4 Recording for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ltimate-a-list-viewing-channel-guide-for-films/"><u>[New] Ultimate A-List Viewing Channel Guide for Films</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-the-complete-macos-11-big-sur-evolution-explained-for-2024/"><u>[Updated] The Complete MacOS 11 Big Sur Evolution Explained for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/error-0x887a0006-dissected-your-blueprint-to-a-rapid-and-straightforward-repair/"><u>Error 0X887A0006 Dissected - Your Blueprint to a Rapid and Straightforward Repair!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/error-elimination-guide-how-to-successfully-address-the-tarkov-103003-glitch/"><u>Error Elimination Guide: How to Successfully Address the Tarkov 103003 Glitch</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-stop-remnant-from-the-ashes-from-keep-collapsing-comprehensive-solutions-and-fixes/"><u>How to Stop Remnant: From the Ashes From Keep Collapsing - Comprehensive Solutions & Fixes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-unexpected-shutdowns-in-the-ark-database-best-practices/"><u>Overcoming Unexpected Shutdowns in the ARK Database: Best Practices</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/top-10-webcams-elevating-audio-quality-in-podcasts/"><u>Top 10 Webcams Elevating Audio Quality in Podcasts</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-resolving-heartstone-game-crashes-on-windows/"><u>Troubleshooting Guide: Resolving HeartStone Game Crashes on Windows</u></a></li>
-<li><a href="https://driver-download.techidaily.com/troubleshooting-printer-issues-start-with-the-latest-driver-update-for-hp-officejet-pro-8720-on-windows/"><u>Troubleshooting Printer Issues? Start with the Latest Driver Update for HP OfficeJet Pro 8720 on Windows</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-resolving-corsair-icue-issues-in-windows-1011/"><u>Troubleshooting Tips: Resolving Corsair iCUE Issues in Windows 10/11</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-cutting-edge-obs-methods-for-ultimate-android-broadcasting/"><u>[New] Cutting-Edge OBS Methods for Ultimate Android Broadcasting</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-h501x4-fpv-quadcopter-unveiled-review-breakdown-for-2024/"><u>[New] H501X4 FPV Quadcopter Unveiled - Review Breakdown for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-top-tier-eyeball-enticer-author/"><u>[Updated] Top-Tier Eyeball Enticer Author</u></a></li>
+<li><a href="https://win-answers.techidaily.com/achieving-smooth-gameplay-overcoming-call-of-duty-warzone-pc-crashes/"><u>Achieving Smooth Gameplay: Overcoming Call of Duty Warzone PC Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cod-world-war-ii-error-4128-explained-and-resolved-easily/"><u>COD World War II Error 4128 Explained and Resolved Easily</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-and-solutions-overcoming-continuous-crashes-of-thunder-tier-1-on-your-pc/"><u>Fixes and Solutions: Overcoming Continuous Crashes of Thunder Tier 1 on Your PC</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-essential-webcam-applications-in-windows-our-choices/"><u>In 2024, Essential Webcam Applications in Windows Our Choices</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-most-effective-ways-to-bypass-iphone-6-activation-lock-by-drfone-ios/"><u>In 2024, The Most Effective Ways to Bypass iPhone 6 Activation Lock</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-adding-domains-securely-on-macos-mail/"><u>Mastering the Art of Adding Domains Securely on macOS Mail</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-final-cut-pro-tutorial-adding-picture-in-picture-overlays-to-your-videos/"><u>New 2024 Approved Final Cut Pro Tutorial Adding Picture-in-Picture Overlays to Your Videos</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-fixes-accelerating-downloads-in-ubisoft-connect-for-streamlined-gaming/"><u>Quick Fixes: Accelerating Downloads in Ubisoft Connect for Streamlined Gaming</u></a></li>
+<li><a href="https://win-tips.techidaily.com/step-by-step-guide-customizing-your-mouse-preferences-via-control-panel-tech-solutions-with-yl/"><u>Step-by-Step Guide: Customizing Your Mouse Preferences via Control Panel - Tech Solutions with YL</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-fix-for-pc-issues-with-fortnites-infinite-crisis-crashing-problems/"><u>Ultimate Fix for PC Issues with Fortnite's Infinite Crisis Crashing Problems</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/unlock-your-tech-potential-mastering-macs-screen-capturing-with-just-shortcuts/"><u>Unlock Your Tech Potential Mastering Mac's Screen Capturing with Just Shortcuts</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unveiling-the-impact-of-season-eight-on-fortnites-framerate-a-detailed-review/"><u>Unveiling the Impact of Season Eight on Fortnite's Framerate: A Detailed Review</u></a></li>
+<li><a href="https://win-answers.techidaily.com/warno-stability-tips-keeping-the-game-running-smoothly-without-pc-issues/"><u>Warno Stability Tips: Keeping the Game Running Smoothly Without PC Issues</u></a></li>
 </ul></div>
 

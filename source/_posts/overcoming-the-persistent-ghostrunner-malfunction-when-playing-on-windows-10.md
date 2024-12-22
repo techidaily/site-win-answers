@@ -1,7 +1,7 @@
 ---
 title: Overcoming the Persistent Ghostrunner Malfunction When Playing on Windows 10
-date: 2024-08-19T02:09:54.116Z
-updated: 2024-08-20T02:09:54.116Z
+date: 2024-12-15T16:25:20.314Z
+updated: 2024-12-22T02:44:26.096Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ If you got frame drops during the game for no reason, don’t worry, you’re no
 | **Memory**           | 4 GB RAM DDR3                                                                |
 | **Hard Drive**       | 40 GB free space                                                             |
 | **Additional Notes** | Laptop versions of graphics cards may work but are NOT officially supported. |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -63,10 +67,6 @@ If you got frame drops during the game for no reason, don’t worry, you’re no
 
 If this fix doesn’t help, move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## Fix 3: Change NVIDIA settings
 
  If you have a NVIDIA graphic card, change the NVIDIA program settings would fix the issue.
@@ -97,17 +97,19 @@ If it doesn’t help, move to the next fix.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## Fix 5: Change priority
 
  Some players found changing the game priority would fix the FPS issue. Although some players said it’s a partial fix, it’s worth trying. Follow the steps below to get rid of the FPS drop issue.
@@ -117,9 +119,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 3. Right-click on it and select**Set priority > Realtime** or**High** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-07_16-56-17.jpg)
 4. Reboot the game and change Game Settings to**Windowed Full-Screen** mode.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 5. Check the FPS.
 
  Next time, check the priority settings in the Task Manager before you play. Because it sometimes changes back to Normal.
@@ -127,8 +126,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 If it’s not working, move to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 6: Verify the game files
 
  Sometimes there’re some missing files that cause the FPS drop issue. You can fix it by Verify the game files.
@@ -137,9 +137,11 @@ If it’s not working, move to the next fix.
 2. Right-click on Dying Light and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-07_17-10-14.png)
 3. Click**LOCAL FILES** and click**Verify integrity of game files…**  
+
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify.png)
 4. When the process is finished, reboot the game to check.
 
@@ -157,8 +159,6 @@ Hope this post helps and you can enjoy the game. Have fun!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -166,4 +166,24 @@ Hope this post helps and you can enjoy the game. Have fun!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-the-ultimate-guide-to-displaying-screens-in-google-meet/"><u>[Updated] 2024 Approved The Ultimate Guide to Displaying Screens in Google Meet</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-writing-engaging-documentary-stories/"><u>[Updated] In 2024, Writing Engaging Documentary Stories</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-facebook-vids-to-mp4-download-made-easy/"><u>2024 Approved Facebook Vids to MP4 - Download Made Easy</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transform-your-media-projects-uploading-images-to-youtube/"><u>2024 Approved Transform Your Media Projects Uploading Images to YouTube</u></a></li>
+<li><a href="https://win-answers.techidaily.com/confirm-xbox-live-availability-track-the-status-of-your-gaming-network/"><u>Confirm Xbox Live Availability: Track the Status of Your Gaming Network</u></a></li>
+<li><a href="https://win-answers.techidaily.com/definitive-fixes-to-stop-browser-flicker-issues-on-your-windows-machine-with-google-chrome/"><u>Definitive Fixes to Stop Browser Flicker Issues on Your Windows Machine with Google Chrome</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easy-fixes-for-launching-starfield-on-your-console-overcoming-startup-hiccups-on-steamxbox/"><u>Easy Fixes for Launching Starfield on Your Console – Overcoming Startup Hiccups on Steam/Xbox</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723010377248-fallout-4-stuttering-heres-the-fix/"><u>Fallout 4 Stuttering? Here's the Fix</u></a></li>
+<li><a href="https://win-answers.techidaily.com/get-gaming-again-pathfinder-glitches-resolved-for-seamless-pc-playthroughs/"><u>Get Gaming Again - Pathfinder Glitches Resolved for Seamless PC Playthroughs</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-ispoofer-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Vivo V30? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-honor-play-8t-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Honor Play 8T Phone? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-iphone-11-drfone-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-speech-to-script-top-apps-for-on-the-go-text-generation/"><u>In 2024, Speech to Script Top Apps for On-the-Go Text Generation</u></a></li>
+<li><a href="https://win-answers.techidaily.com/league-of-legends-woes-top-strategies-for-fixing-black-screens-edition/"><u>League of Legends Woes? Top Strategies for Fixing Black Screens Edition</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-steam-cannot-sync-with-cloud-storage-errors-quickly-and-easily/"><u>Resolving 'Steam Cannot Sync with Cloud Storage' Errors Quickly and Easily</u></a></li>
+<li><a href="https://win-answers.techidaily.com/say-goodbye-to-star-wars-battlefront-ii-stutters-update-now/"><u>Say Goodbye to Star Wars Battlefront II Stutters - Update Now!</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-best-mobile-apps-for-recording-and-editing-reaction-videos/"><u>Updated In 2024, Best Mobile Apps for Recording and Editing Reaction Videos</u></a></li>
+</ul></div>
 

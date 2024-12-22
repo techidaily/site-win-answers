@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Overcome the Star Wars Battlefront II's Persistent Black Screen Issue"
-date: 2024-12-15T19:06:25.766Z
-updated: 2024-12-20T16:18:14.918Z
+date: 2024-12-19T18:13:02.205Z
+updated: 2024-12-21T17:27:37.462Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ Game crashing issues can occur for a variety of reasons, such as a faulty graphi
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes to try
 
  You may not have to try them all. Just work your way down the list until you find the one that works.
@@ -34,10 +38,6 @@ Game crashing issues can occur for a variety of reasons, such as a faulty graphi
 6. **[Disable automatic downloads from the server](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Reinstall Steam](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Reseat PC components](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Check your PC specs
 
@@ -69,6 +69,10 @@ Follow the instructions below to view your computer hardware information:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_10-46-07.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)**  Check your **operating system, processor, memory and DirectX Version** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_10-47-36.jpg)
@@ -76,10 +80,6 @@ Follow the instructions below to view your computer hardware information:
 **3)** Check your**Display Memory** here.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_10-49-07.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Make sure your computer meets the requirements, then read on and try the fix, below.
 
@@ -123,10 +123,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-04-47.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -141,9 +137,17 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-05-42.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Right-click **Garry’s Mod**  and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-06-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
@@ -152,10 +156,6 @@ OR
 **5)**  Relaunch GMod.
 
  If the crashing issue continues to occur, then go ahead with the fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Change the launch option
 
@@ -175,13 +175,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-06-07-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)**  Remove any launch options currently shown.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-16-08.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **6)** Type **\-dxlevel 85 -console -windowed -noborder** , then click **OK** .
 
@@ -190,7 +190,7 @@ OR
  Relaunch your game to see if this worked for you. If it didn’t fix your issue, move on to the fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Disable automatic downloads from the server
@@ -205,15 +205,23 @@ Follow the instructions below to stop the automatic downloads:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-16-49.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click the list box under When a game server tries to download custom content to your computer, and select**Do not download any custom files** . Then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-16-54.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Relaunch your game to check if this has resolved your issue. If not, try the fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Reinstall Steam
 
@@ -222,10 +230,6 @@ Follow the instructions below to stop the automatic downloads:
 **1)** Right-click the Steam icon on your desktop and select **Open file location** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-17-46.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.
 
@@ -239,13 +243,13 @@ Follow the instructions below to stop the automatic downloads:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-18-03.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)**  Right-click **Steam** , and then click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-18-15.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **6)**  Follow the on-screen instructions to uninstall Steam.
 
@@ -258,10 +262,6 @@ Follow the instructions below to stop the automatic downloads:
 **9)**  Move the backup **steamapps folder**  you create before to your current directory location.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-18-37.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **10)**  Relaunch Steam and your game.
 
@@ -332,16 +332,20 @@ Follow the instructions below to stop the automatic downloads:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-transform-your-videos-the-ultimate-guide-to-spinning-media/"><u>[New] 2024 Approved Transform Your Videos The Ultimate Guide to Spinning Media</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-paint-picture-humor-for-2024/"><u>[Updated] Paint Picture Humor for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/a-step-by-step-troubleshooting-tutorial-resolving-pc-issues-with-overwatch-2-constant-crashes/"><u>A Step-by-Step Troubleshooting Tutorial: Resolving PC Issues with Overwatch 2 Constant Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/defeat-the-stubborn-start-up-solving-minecraft-loading-issues/"><u>Defeat the Stubborn Start-Up: Solving Minecraft Loading Issues</u></a></li>
-<li><a href="https://games-able.techidaily.com/exploring-gaming-tech-modular-board-review-mod007b/"><u>Exploring Gaming Tech: Modular Board Review - MOD007B</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-honor-play-40c-by-fonelab-android-recover-data/"><u>How to recover lost data from Honor Play 40C?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcome-the-hurdle-stopping-call-of-duty-warzone-pc-crashes-with-easy-fixes-for-gamers/"><u>Overcome the Hurdle: Stopping Call of Duty Warzone PC Crashes with Easy Fixes for Gamers</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/promotional-planning-perfection-for-2024/"><u>Promotional Planning Perfection for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-strategies-to-enhance-your-download-velocity-on-origin/"><u>Top Strategies to Enhance Your Download Velocity on Origin</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlocking-your-pcs-secrets-a-user-friendly-way-to-check-bios-version-under-windows-11/"><u>Unlocking Your PC's Secrets: A User-Friendly Way to Check BIOS Version Under Windows 11</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Oppo Find X7 | Dr.fone</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-dual-domain-delight-posting-videos-across-social-platforms/"><u>[Updated] 2024 Approved Dual-Domain Delight Posting Videos Across Social Platforms</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-the-guide-to-capturing-web-radio-frequencies-flawlessly/"><u>[Updated] 2024 Approved The Guide to Capturing Web Radio Frequencies Flawlessly</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-hardware-an-in-depth-guide/"><u>Exploring Tom’s Hardware: An In-Depth Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-steamvr-error-308-effective-strategies-for-a-seamless-virtual-reality-experience/"><u>Fixing SteamVR Error 308: Effective Strategies for a Seamless Virtual Reality Experience</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/immersive-viewing-experience-in-depth-look-at-lenovo-tab-m10-fhdplus-2020-affordable-high-quality-tablet/"><u>Immersive Viewing Experience: In-Depth Look at Lenovo Tab M10 FHD+ 2020 – Affordable High Quality Tablet</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-the-best-video-editing-apps-for-mac-simplify-your-video-creation-process/"><u>In 2024, The Best Video Editing Apps for Mac Simplify Your Video Creation Process</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-11-turn-off-corner-shaping/"><u>Mastering Windows 11: Turn Off Corner Shaping</u></a></li>
+<li><a href="https://win-answers.techidaily.com/no-more-lag-woes-solving-dying-lights-stuttering-playback/"><u>No More Lag Woes: Solving Dying Light's Stuttering Playback</u></a></li>
+<li><a href="https://win-answers.techidaily.com/nvidias-game-capture-not-working-a-comprehensive-guide-to-fixes/"><u>NVIDIA's Game Capture Not Working: A Comprehensive Guide to Fixes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/skin-protection/"><u>Skin Protection</u></a></li>
+<li><a href="https://win-answers.techidaily.com/smooth-sailing-for-pathfinder-enthusiasts-as-game-fixes-major-freezing-glitch-on-pc/"><u>Smooth Sailing for Pathfinder Enthusiasts as Game Fixes Major Freezing Glitch on PC!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723004881841-troubleshooting-common-sound-problems-in-dying-light-solutions-inside/"><u>Troubleshooting Common Sound Problems in Dying Light - Solutions Inside</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-strategies-to-tackle-battlefield-5s-lag-issues-top-10/"><u>Ultimate Strategies to Tackle Battlefield 5'S Lag Issues (Top 10)</u></a></li>
+<li><a href="https://discover-able.techidaily.com/unveiling-the-reasons-behind-your-failed-hard-drive-insights-from-yl-computing/"><u>Unveiling the Reasons Behind Your Failed Hard Drive: Insights From YL Computing</u></a></li>
 </ul></div>
 

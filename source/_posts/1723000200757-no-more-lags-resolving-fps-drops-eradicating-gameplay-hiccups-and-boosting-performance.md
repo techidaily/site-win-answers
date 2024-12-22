@@ -1,7 +1,7 @@
 ---
 title: "No More Lags: Resolving FPS Drops, Eradicating Gameplay Hiccups & Boosting Performance."
-date: 2024-08-19T02:07:49.108Z
-updated: 2024-08-20T02:07:49.108Z
+date: 2024-12-20T00:14:42.012Z
+updated: 2024-12-22T00:44:31.642Z
 tags:
   - win11
   - win10
@@ -40,17 +40,15 @@ thumbnail: https://thmb.techidaily.com/acf475c1e6fd1567e7a4a77c00bb440d7e3dd85bc
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Stop overclocking your CPU
 
  Overclocking means setting your CPU and memory to run at speeds higher than their official speed rate, and almost all processors ship with a speed rating. However, this may cause your game to crash or freeze. In that case, you should set your CPU clock speed rate back to the default to fix your issue.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Update your graphics card driver
 
  If the device drivers in your computer are missing or outdated, especially your graphics card driver, you may have the game crashing issue. To rule it out as the cause for Metro Exodus crashing, try updating your video driver to the latest version.
@@ -116,8 +114,9 @@ To do so, follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-78.png)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4) Restart the game and see if it works this time.
 
 #### If you can’t open the game at all
@@ -128,34 +127,36 @@ To do so, follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-79.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Right click on**Metro Exodus** , and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-80.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Click the**General** tab and click**Set Launch Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-81.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  5) Type**_dxlevel110_** in the field, then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-82.png)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6) Save your changes and restart your computer.
 
 Launch Metro Exodus and see if it works now.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5: Lower the in-game video settings
 
  If the graphics options are too much for your PC, your game will no doubt keep crashing because your PC hardware couldn’t support the graphics requirements configured in the game. So you should set the graphic settings in your game to Low in order to fix the crashing issue.
@@ -178,8 +179,6 @@ If you have any questions, feel free to leave us a comment below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -187,4 +186,22 @@ If you have any questions, feel free to leave us a comment below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-find-a-niche-market-on-youtube/"><u>[Updated] In 2024, How to Find A Niche Market on YouTube</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-unveiling-the-5-best-ways-to-download-igtv-for-tech-enthusiasts/"><u>[Updated] Unveiling the 5 Best Ways to Download IGTV for Tech Enthusiasts</u></a></li>
+<li><a href="https://win-answers.techidaily.com/windows101112/"><u>「Windows」で始める！10・11対応のベストフリー音声編集ソフトウェア12選をご紹介 - 検索最適化されたタイトル</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-oneplus-ace-2-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On OnePlus Ace 2</u></a></li>
+<li><a href="https://win-answers.techidaily.com/veoh/"><u>容赦なく楽しめるVeohの映画、アニメ動画ダウンロードガイド</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1726027051346-windows-11/"><u>最新Windows 11で音声・音楽ファイル編集を習得する - 使えるソフトウェア一覧</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/civil-suit-6-resolving-the-unique-access-rights-breach-of-2024/"><u>Civil Suit #6 - Resolving the Unique Access Rights Breach of 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diy-desktop-organization-modifying-mac-folder-shades/"><u>DIY Desktop Organization: Modifying Mac Folder Shades</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/elevate-your-playtime-with-top-tier-titles-a-guide-to-locating-superior-games-in-a-sea-of-choices/"><u>Elevate Your Playtime with Top-Tier Titles: A Guide to Locating Superior Games in a Sea of Choices</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-top-10-photo-grid-apps-to-make-your-pictures-stand-out/"><u>In 2024, Top 10 Photo Grid Apps to Make Your Pictures Stand Out</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastery-in-free-graphics-top-online-resource-directory/"><u>Mastery in FREE Graphics Top Online Resource Directory</u></a></li>
+<li><a href="https://fox-links.techidaily.com/picks-of-the-year-premium-google-cardboard-vr-gaming-for-2024/"><u>Picks of the Year Premium Google Cardboard VR Gaming for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/webm-to-avi-conversion-effective-techniques-both-on-and-off-the-internet/"><u>WebM to AVI Conversion: Effective Techniques Both On and Off the Internet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/windowsmac-pcmov/"><u>WindowsとMac両方用: PC上のMOVファイルを簡単にカットするコツ</u></a></li>
+<li><a href="https://win-answers.techidaily.com/wmawavwmawav/"><u>WMAとWAVでは異なる点と、WMAをWAVにどう変換するか</u></a></li>
+</ul></div>
 

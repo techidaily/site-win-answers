@@ -1,7 +1,7 @@
 ---
 title: Top Strategies to Enhance Your Download Velocity on Origin
-date: 2024-08-19T02:03:10.147Z
-updated: 2024-08-20T02:03:10.147Z
+date: 2024-12-15T18:42:30.957Z
+updated: 2024-12-21T20:00:02.256Z
 tags:
   - win11
   - win10
@@ -85,8 +85,9 @@ _wireless router_
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Modify your graphics card settings
 
  After updating your graphics driver to the latest version, try modifying your graphics card settings to see if you can fix this issue. Here is how to do it:
@@ -101,16 +102,10 @@ _wireless router_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap401.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
  2) View Control Panel by **Large icons** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap405.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  3) Select**NVIDIA Control Panel**  to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap403-1.jpg)
@@ -125,13 +120,14 @@ _wireless router_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap401-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) View Control Panel by **Large icons** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap405-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Select your**AMD Radeon Settings** to open it.
 
  4) Go to**Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.
@@ -139,46 +135,35 @@ _wireless router_
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap419.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 #### If you’re using Intel graphics card
 
  1) On your keyboard, press**the Windows logo key** and **R** at the same time to open the Run dialog. Then type **control**  and press **Enter**  to open Control Panel.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap401-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) View the Control Panel by **Large icons** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap405-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
  3) Select**Intel Graphics Settings**  to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap420.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Click**3D** to open the 3D settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap422-1024x768.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
  5) Click**Scan** to add your **CS: Go** to the application list.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap423-1024x768.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6) Modify the settings the same way you see on the screenshot below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap424.jpg)
@@ -198,8 +183,9 @@ _wireless router_
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000029.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Modify the video settings of the game following the screenshot below to gain the maximum performance.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000031.png)
@@ -220,11 +206,16 @@ _wireless router_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap52.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Run CS: GO again to see if you can play the game smoothly. It CS: GO still lags, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6: Change the power plan of your PC
 
  If the power plan of your PC is **Power saver**  or **Balanced** , you might run into games lag issue. Most PC are configured to **Balanced** , which may limits the operating capacity of your graphics card and CPU. To fix the game lag issue, try changing the power plan of your PC to **High performance** . Here is how to do it:
@@ -233,15 +224,16 @@ _wireless router_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap929.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In the pop-up window, expand**Hide additional plans** and select **High performance** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap930.png)
 
  Run CS: GO to see if you resolve this issue . If not, try the next fix below to adjust your Windows system for the best performance.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 7: Adjust your Windows system for the best performance
 
  If your PC fails to meet the recommended system requirements for CS: GO, try adjusting your Windows system for the best performance. Here is how to do it:
@@ -250,9 +242,6 @@ _wireless router_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap931.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  2) In Control panel, type**advanced** in the search bar on the upper-right corner. Then click **View advanced system settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap932.png)
@@ -261,15 +250,16 @@ _wireless router_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap934.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Select**Adjust for best performance**  and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap935.png)
 
  Launch CS: GO to see if it still lags. If this issue persists, try the next fix to disable CPU Core Parking.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 8: Disable CPU Core Parking
 
  As a Windows kernel power manager, Core Parking helps improve the energy efficiency of your system, because it can dynamically scale the number of logical processors that are in use based on the workload.
@@ -285,8 +275,9 @@ _wireless router_
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap414-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Check the box in front of**Number of processors** and choose a **maximum** number of processors. Then click **OK** to save the settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap416.jpg)
@@ -295,9 +286,6 @@ _wireless router_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap417.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
  5) Click**Restart**  to restart your PC.  
 
 Launch CS: GO to see if you resolved the game lag issue.
@@ -313,8 +301,6 @@ Launch CS: GO to see if you resolved the game lag issue.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -322,4 +308,26 @@ Launch CS: GO to see if you resolved the game lag issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-best-music-player-software-for-android/"><u>[Updated] In 2024, Best Music Player Software for Android</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-streamlining-video-production-with-top-mac-mp4-tools/"><u>[Updated] Streamlining Video Production with Top Mac MP4 Tools</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-ultimate-record-keeper-thorough-az-audits-for-2024/"><u>[Updated] Ultimate Record Keeper - Thorough AZ Audits for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-budget-friendly-high-definition-action-cams/"><u>2024 Approved Ultimate Budget-Friendly High Definition Action Cams</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/abbyy-japan-welcomes-mariko-maeda-as-new-president-driving-market-expansion-forward/"><u>ABBYY Japan Welcomes Mariko Maeda as New President, Driving Market Expansion Forward</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/best-coding-machines-2023s-top-5-laptops-for-developers-as-ranked/"><u>Best Coding Machines: 2023'S Top 5 Laptops for Developers as Ranked</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-vivo-y100i-power-5g-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Vivo Y100i Power 5G?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-madden-22-not-working-easily-and-quickly/"><u>How to Fix Madden 22 Not Working [Easily & Quickly]</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-keep-your-counter-strike-2-game-running-smoothly-on-laptops-and-desktops/"><u>How to Keep Your Counter-Strike 2 Game Running Smoothly on Laptops and Desktops</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-the-composers-guide-to-creating-youtube-music-cohorts/"><u>In 2024, The Composer's Guide to Creating YouTube Music Cohorts</u></a></li>
+<li><a href="https://win-answers.techidaily.com/maximize-your-valheim-experience-solutions-to-increase-fps-and-eliminate-lag-issues-2024-update/"><u>Maximize Your Valheim Experience: Solutions to Increase FPS and Eliminate Lag Issues - 2024 Update</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-launch-problems-in-avatar-how-to-get-the-game-up-and-running-smoothly/"><u>Overcoming Launch Problems in Avatar: How to Get the Game Up and Running Smoothly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-codmw2-performance-problems-with-lagging-frames-and-hitches-on-windows/"><u>Resolved! CoD:MW2 Performance Problems with Lagging Frames & Hitches on Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-ark-software-malfunction-how-to-prevent-unexpected-closures/"><u>Resolving ARK Software Malfunction: How to Prevent Unexpected Closures</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-guide-for-total-war-warhammer-ii-game-malfunctions/"><u>Solution Guide for TOTAL WAR: WARHAMMER II Game Malfunctions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-operating-the-mobile-app-for-drivereasy/"><u>Step-by-Step Guide: Operating the Mobile App for DriverEasy</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-successful-monster-hunter-rise-startup/"><u>Troubleshooting Steps for Successful Monster Hunter Rise Startup</u></a></li>
+<li><a href="https://facebook.techidaily.com/why-a-dying-deck-isnt-quite-like-facebooks-tale/"><u>Why a Dying Deck Isn't Quite Like Facebook’s Tale</u></a></li>
+</ul></div>
 

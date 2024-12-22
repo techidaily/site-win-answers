@@ -1,7 +1,7 @@
 ---
 title: Discord Camera Problems Solved - Tips for Getting It Working Again
-date: 2024-12-16T19:45:10.965Z
-updated: 2024-12-20T19:15:25.686Z
+date: 2024-12-16T01:34:32.087Z
+updated: 2024-12-22T01:45:19.916Z
 tags:
   - win11
   - win10
@@ -39,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/19c73d13dc30898f49d32d8c5d0e6badbf2d50aea
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Install the latest Fortnite patch
 
  The developers of Fortnite release regular game patches to fix bugs. It’s possible that a recent patch has stopped you from logging into the game, and that a new patch is required to fix it.
@@ -51,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/19c73d13dc30898f49d32d8c5d0e6badbf2d50aea
 3. **Turn on** the toggle next to **Auto update** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Fix-2-step-3.png)
@@ -68,10 +72,6 @@ thumbnail: https://thmb.techidaily.com/19c73d13dc30898f49d32d8c5d0e6badbf2d50aea
 1. **Unplug** your modem (and your wireless router, if it’s a separate device) from power for **60 seconds** .  
 ![modem](https://images.drivereasy.com/wp-content/uploads/2018/10/modem.jpg)  
 ![wireless router](https://images.drivereasy.com/wp-content/uploads/2018/10/wireless-router.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 2. **Plug in** your network devices again and wait until the indicator lights are back to its normal state.
 
@@ -97,11 +97,15 @@ See if you can log in or not. if not, try the next fix, below.
 ![Fix 5 step 1](https://images.drivereasy.com/wp-content/uploads/2018/09/Fix-5-step-1.jpg)
 2. In Command Prompt, type**netsh winsock reset**  and press **Enter** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![netsh winsock reset](https://images.drivereasy.com/wp-content/uploads/2018/10/netsh-winsock-reset.jpg)
 3. **Restart** your PC to complete the reset.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Launch Fortnite after you restart your PC to see if you can log in or not. If you fail to log in, try the next fix, below.
@@ -116,10 +120,6 @@ See if you can log in or not. if not, try the next fix, below.
 ![Fix 5 step 1](https://images.drivereasy.com/wp-content/uploads/2018/10/Fix-5-step-1.jpg)
 2. Type the command line**ipconfig /flushdns**  and press **Enter**  on your keyboard.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![ipconfig flushdns](https://images.drivereasy.com/wp-content/uploads/2018/10/ipconfig-flushdns.jpg)
 
 <!-- affiliate ads begin -->
@@ -132,15 +132,15 @@ See if you can log in or not. if not, try the next fix, below.
 ![Fix 5 step 1](https://images.drivereasy.com/wp-content/uploads/2018/10/Fix-5-step-1.jpg)
 2. Type the command line**ipconfig /release**  and press **Enter**  on your keyboard.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![ipconfig release](https://images.drivereasy.com/wp-content/uploads/2018/10/ipconfig-release.jpg)
 3. Type the command line**ipconfig /renew**  and press **Enter**  on your keyboard.  
 
 ![ipconfig renew](https://images.drivereasy.com/wp-content/uploads/2018/10/ipconfig-renew.jpg)
 4. Launch Fortnite.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  See if you can log in or not. If this issue persists, try updating your network driver to the latest version.
 
@@ -166,7 +166,7 @@ See if you can log in or not. if not, try the next fix, below.
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
@@ -193,12 +193,12 @@ See if you can log in or not. if not, try the next fix, below.
 ![inetcpl.cpl](https://images.drivereasy.com/wp-content/uploads/2018/10/inetcpl-cpl.jpg)
 2. Navigate to the **Connections** tab. Select **Never dial a connection** if you see it (somewhere below **Choose Settings if you need…** ). Then click on **LAN settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![internet properties](https://images.drivereasy.com/wp-content/uploads/2018/10/internet-properties.jpg)
 3. **Uncheck** the box next to **Use a proxy server for your LAN** . If it is already unchecked, **check** the box next to **Automatically detect settings** . Then click **OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![LAN Settings](https://images.drivereasy.com/wp-content/uploads/2018/10/LAN-Settings.jpg)
 4. If you’re using a VPN or a third-party proxy sever,**disable** it.
@@ -214,7 +214,7 @@ See if you can log in or not. if not, try the next fix, below.
 2. **View** the Control Panel **by Category** . Click **View network status and tasks** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Control Panel](https://images.drivereasy.com/wp-content/uploads/2018/10/Control-Panel.jpg)
@@ -222,10 +222,6 @@ See if you can log in or not. if not, try the next fix, below.
 
 ![Change adapter settings](https://images.drivereasy.com/wp-content/uploads/2018/10/Change-adapter-settings.jpg)
 4. **Right-click** your current network and then select **Properties** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Ethernet properties](https://images.drivereasy.com/wp-content/uploads/2018/10/Ethernet-properties.jpg)
 5. Double-click**Internet Protocol Version 4(TCP/IPv4)**  to view its properties.  
@@ -237,6 +233,10 @@ See if you can log in or not. if not, try the next fix, below.
 7. Restart your PC and launch Fortnite.
 
 See if you can log in or not. If not, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 10: Close bandwidth hogging applications
 
@@ -271,19 +271,22 @@ Launch Fortnite to see if you can log in or not.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-boosting-your-channels-income-the-optimal-view-count-quotient/"><u>[New] In 2024, Boosting Your Channel's Income The Optimal View Count Quotient</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-from-interest-to-action-formulating-video-topics-with-google-trends/"><u>[Updated] In 2024, From Interest to Action Formulating Video Topics with Google Trends</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-transforming-stored-memories-into-dynamic-fb-livestreams-today/"><u>[Updated] Transforming Stored Memories Into Dynamic FB Livestreams Today</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-tricks-to-automate-iphone-video-loops-for-2024/"><u>[Updated] Tricks to Automate iPhone Video Loops for 2024</u></a></li>
-<li><a href="https://win-web.techidaily.com/1-easy-techniques-switching-images-from-jpeg-format-to-gif-a-dual-approach/"><u>1. Easy Techniques: Switching Images From JPEG Format to GIF - A Dual Approach</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/discovering-social-medias-top-5-innovations-in-fb-for-2024/"><u>Discovering Social Media’s Top 5 Innovations in FB for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-create-a-memorable-podcast-name-from-brainstorming-to-execution/"><u>In 2024, How To Create a Memorable Podcast Name From Brainstorming to Execution</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-windows-11-dpc-watchdog-violations-a-step-by-step-guide/"><u>Resolving Windows 11 DPC Watchdog Violations - A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-crafting-your-own-bootable-windows-11-usb-for-immediate-use/"><u>Step-by-Step Guide: Crafting Your Own Bootable Windows 11 USB for Immediate Use</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-obtaining-printed-copies-without-personal-access-to-a-printer/"><u>Step-by-Step Guide: Obtaining Printed Copies Without Personal Access to a Printer</u></a></li>
-<li><a href="https://win-answers.techidaily.com/transferring-and-modifying-android-pictures-on-windows-11-made-easy-learn-the-steps-now/"><u>Transferring & Modifying Android Pictures on Windows 11 Made Easy - Learn the Steps Now!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-sound-problems-in-windows-11-when-no-audio-device-is-detected/"><u>Troubleshooting Sound Problems in Windows 11 When No Audio Device Is Detected</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-cant-find-bluetooth-hardware-in-windows-device-manager/"><u>Troubleshooting: Can't Find Bluetooth Hardware in Windows Device Manager?</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/uncovering-the-evolutionary-leap-in-drone-tech-dji-phantom-4-pro-v20-reviewed/"><u>Uncovering The Evolutionary Leap in Drone Tech: DJI Phantom 4 Pro v2.0 Reviewed</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-reliable-strategy-to-infuse-direct-urls-in-tiktok-bio/"><u>[New] 2024 Approved Reliable Strategy to Infuse Direct URLs in TikTok Bio</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-concluding-coverage-craftsmanship/"><u>[New] In 2024, Concluding Coverage Craftsmanship</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-ultimate-screen-recorder-guide-apeak-vs-others-for-2024/"><u>[New] Ultimate Screen Recorder Guide – Apeak vs Others for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-lego-star-wars-the-skywalker-saga-crash-on-pc-2024/"><u>[SOLVED] Lego Star Wars The Skywalker Saga Crash on PC 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-ultimate-selection-of-frames-for-professional-ig-artistry-for-2024/"><u>[Updated] The Ultimate Selection of Frames for Professional IG Artistry for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expertly-tailored-shots-with-10-initial-free-customizable-lut-packages/"><u>2024 Approved Expertly Tailored Shots with 10 Initial Free, Customizable LUT Packages</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/common-issues-with-keyboards-and-mice-solutions-and-support-by-yl-software-experts/"><u>Common Issues with Keyboards & Mice: Solutions & Support by YL Software Experts</u></a></li>
+<li><a href="https://win-answers.techidaily.com/discord-display-glitches-heres-how-to-fix-them-quickly/"><u>Discord Display Glitches? Here's How to Fix Them Quickly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-for-preventing-mount-and-blade-ii-bannerlord-from-crashing-on-your-system/"><u>Expert Tips for Preventing Mount & Blade II: Bannerlord From Crashing on Your System</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-origin-not-connecting-problem-successfully/"><u>Fixing the 'Origin Not Connecting' Problem Successfully</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/overcoming-common-glitches-a-users-handbook-for-successful-instagram-story-uploads/"><u>Overcoming Common Glitches: A User’s Handbook for Successful Instagram Story Uploads</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-game-interruptions-a-comprehensive-guide-to-achieving-smoother-high-fps-gaming/"><u>Overcoming Game Interruptions: A Comprehensive Guide to Achieving Smoother, High-FPS Gaming</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/roam-freely-with-unlimited-data-understanding-t-mobiles-metro-wireless-agreement/"><u>Roam Freely with Unlimited Data - Understanding T-Mobile's Metro Wireless Agreement</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/securing-your-chatbot-data-the-hidden-threats-of-neural-network-reconstruction-techniques/"><u>Securing Your Chatbot Data: The Hidden Threats of Neural Network Reconstruction Techniques</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-halo-infinite-connection-issues-what-to-do-when-you-get-a-no-ping-to-our-data-centers-detected-error/"><u>Solving 'Halo Infinite' Connection Issues: What to Do When You Get a 'No Ping To Our Data Centers Detected' Error</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-fixes-to-get-tiny-tinas-assault-on-dragon-keepers-running-smoothly-on-pc/"><u>Step-by-Step Fixes to Get Tiny Tina's Assault on Dragon Keepers Running Smoothly on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/verification/"><u>Verification</u></a></li>
 </ul></div>
 

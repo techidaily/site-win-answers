@@ -1,7 +1,7 @@
 ---
 title: "Roblox Audio Fixes for Windows Users: Overcoming the Silent Challenge in Versions 11 & 10"
-date: 2024-08-19T02:06:10.245Z
-updated: 2024-08-20T02:06:10.245Z
+date: 2024-12-16T16:26:02.388Z
+updated: 2024-12-21T23:34:28.809Z
 tags:
   - win11
   - win10
@@ -41,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/c923509aabb39b0eb7c18cacb723349038dd49742
 
  So if you haven’t done this yet, give it a shot. A simple restart may be all you need to solve Roblox or Roblox Studio-related issues.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2 – Try an alternative browser
 
  Roblox is compatible with all leading browsers such as Chrome, Firefox, Opera, Safari, and more. To make sure Roblox works well on your device, make sure you’re using the latest version of the browser.
@@ -48,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/c923509aabb39b0eb7c18cacb723349038dd49742
  If you’re still unable to get into a Roblox game from your current browser, try a different one to see if it works. For example, if you can’t launch your Roblox game from Chrome, try opening Firefox and launch the game.
 
  If Roblox won’t load the game from any browser, read on and try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3 – Reset your Internet Options
 
@@ -74,11 +82,16 @@ thumbnail: https://thmb.techidaily.com/c923509aabb39b0eb7c18cacb723349038dd49742
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_10-48-38.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **6)** Try launching your game.
 
 If Roblox still gets stuck when loading the game, try the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4 – Disable your ad-blocker/extensions
 
@@ -92,13 +105,14 @@ If Roblox still gets stuck when loading the game, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-288.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Select **More tools** , and then select **Extensions** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-289.png)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **4)**  Click the **toggle**  to disable your extensions one by one, try relaunching your Roblox game each time to check if your problem is caused by any of these extensions.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-290-1024x644.png)
@@ -119,9 +133,6 @@ If Roblox still gets stuck when loading the game, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-12-04-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Under **View by** , select **Small icons** , then click **Windows Defender Firewall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-20-25.jpg)
@@ -130,44 +141,30 @@ If Roblox still gets stuck when loading the game, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-23-02.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 **5)** Click **Change settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-06-26.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **6)**  Click**Allow another app** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/roblox-firewall-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **7)** Click **Browse** , then locate the Roblox launcher file and click**Add** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/roblox-firewall-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **8)** Check **Private** if you’re using a trustworthy network, then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/roblox-firewall-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 **9)**  Firewall will prompt you to allow access to networks, click **Allow access** .
 
 If you still can’t join the game, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 6 – Temporarily close your anti-virus
 
  Your problem is sometimes caused by interference from antivirus software. To see if that’s the problem for you, temporarily disable your antivirus program and firewall and check if the problem persists. (Consult your antivirus documentation for instructions on disabling it.)
@@ -177,8 +174,9 @@ If you still can’t join the game, move on to the next fix.
  Be extra careful about what sites you visit, what emails you open, and what files you download when your antivirus is disabled.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 7 – Clear your browser cookies and cache
 
  The cache and cookies stored by your browser, if corrupted, can sometimes cause issues. Try clearing your browser cookies and cacher to see if this helped:
@@ -190,12 +188,16 @@ If you still can’t join the game, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-283.png)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **3)**  Relaunch your browser and your Roblox game.
 
 If the game is still not opening up, try the next below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 8 – Reinstall Roblox and Roblox Studio
 
@@ -214,19 +216,15 @@ Follow the instructions below:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/unstall-roblox-2..jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **4)** On your keyboard, press the **Windows logo key** and **R** at the same time.
 
 **5)** Type**%localAppdate%** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-15_10-59-43.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 **6)** Click the **Roblox folder**  and press the **Delete key**  on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-15_11-01-06.jpg)
@@ -257,9 +255,6 @@ If not, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-15_11-26-33.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -275,8 +270,6 @@ If not, try the next fix below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -284,4 +277,24 @@ If not, try the next fix below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-best-streaming-setup-leading-livestream-hardware-and-software-guide/"><u>[New] In 2024, Best Streaming Setup Leading Livestream Hardware & Software Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-pinnacle-vr-devices-the-essential-list/"><u>[New] Pinnacle VR Devices The Essential List</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-crafting-the-perfect-facebook-video-post-pcandroid-techniques/"><u>[Updated] 2024 Approved Crafting the Perfect Facebook Video Post, PC/Android Techniques</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-elevating-video-experience-non-youtube-hubs-explained/"><u>[Updated] In 2024, Elevating Video Experience Non-Youtube Hubs Explained</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-non-disclosure-measures-for-video-footage/"><u>[Updated] In 2024, Non-Disclosure Measures for Video Footage</u></a></li>
+<li><a href="https://fox-links.techidaily.com/expert-tips-to-enhance-your-vlc-playback-in-macos-for-2024/"><u>Expert Tips to Enhance Your VLC Playback in macOS for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-to-fix-crashing-issues-with-wrc-10-and-enjoy-the-fia-world-rally-championship-smoothly/"><u>Expert Tips to Fix Crashing Issues with WRC 10 and Enjoy the FIA World Rally Championship Smoothly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-and-solutions-for-continuous-freezing-in-fallout-4-when-played-on-pc/"><u>Fixes & Solutions for Continuous Freezing in Fallout 4 When Played on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-issue-a-step-by-step-guide-to-resolve-steam-error-code-130/"><u>Fixing the Issue: A Step-by-Step Guide to Resolve Steam Error Code 130</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-honor-100-pro-is-unlocked-by-drfone-android/"><u>How To Check if Your Honor 100 Pro Is Unlocked</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-the-dirt-5-game-crashing-issues-in-windows-a-step-by-step-guide/"><u>How to Fix the 'Dirt 5' Game Crashing Issues in Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-the-storm-expert-advice-to-prevent-frequent-crashes-in-risk-of-rain-2/"><u>Master the Storm: Expert Advice to Prevent Frequent Crashes in Risk of Rain 2</u></a></li>
+<li><a href="https://win-able.techidaily.com/minecraft-on-your-pc-isnt-stalling-anymore-ultimate-troubleshooting-tips-of-2024/"><u>Minecraft on Your PC Isn’t Stalling Anymore - Ultimate Troubleshooting Tips of 2024!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mlb-the-show-21-servers-now-stable-after-recent-fixes-for-players-smooth-gaming-experience/"><u>MLB The Show 21 Servers Now Stable After Recent Fixes for Players' Smooth Gaming Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stealth-tactics-and-advanced-gear-rollout-for-call-of-duty-modern-warfare-players/"><u>Stealth Tactics & Advanced Gear Rollout for Call of Duty Modern Warfare Players</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722999572698-troubleshooting-lag-in-nier-blue-ruin-top-solutions-explored/"><u>Troubleshooting Lag in Nier: Blue Ruin - Top Solutions Explored!</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-dangers-hacked-fingerprints-on-windows-pcs/"><u>Unlocking Dangers: Hacked Fingerprints on Windows PCs</u></a></li>
+</ul></div>
 

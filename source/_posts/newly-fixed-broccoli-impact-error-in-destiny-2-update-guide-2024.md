@@ -1,7 +1,7 @@
 ---
 title: Newly Fixed 'Broccoli Impact' Error in Destiny 2 [Update Guide, 2024]
-date: 2024-08-19T02:04:53.573Z
-updated: 2024-08-20T02:04:53.573Z
+date: 2024-12-16T22:52:01.742Z
+updated: 2024-12-22T02:09:20.752Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/55968897eeae10de1d5f523b1b9a82af3b28230cb
 2. **[Temporarily disable your antivirus](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Completely reinstall Discord](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Run Discord as administrator
 
  This is the first thing you should try when your Discord update has failed. To run discord as administrator, simply right click the Discord icon, then select**Run as administrator** .
@@ -45,9 +49,6 @@ thumbnail: https://thmb.techidaily.com/55968897eeae10de1d5f523b1b9a82af3b28230cb
 
 **IMPORTANT** : Be extra careful about what sites you visit, what emails you open and what files you download when you have disabled your firewall.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ### Fix 3: Completely reinstall Discord
 
  If none of the fixes above worked for you, then you should completely reinstall your Discord program. Here is how to do it, completely:
@@ -56,33 +57,38 @@ thumbnail: https://thmb.techidaily.com/55968897eeae10de1d5f523b1b9a82af3b28230cb
 2. Type “appwiz.cpl” and press**Enter** on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-806.png)
 3. Right click**Discord** and click**Uninstall** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-807.png)
 4. Follow the on-screen instructions to complete the uninstall process.
+
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. On your keyboard, press the**Windows logo key** and**R** on your keyboard at the same time to invoke the Run box.
 6. Type “%appdata%” and press**Enter** on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-808.png)
 7. **Delete** the**Discord** folder there. (Right click the folder and select**Delete** .)  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-810.png)
 8. Type “%localappdata%” and press**Enter** on your keyboard.  
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-809.png)
 9. **Delete** the**Discord** folder there. (Right click the folder and select**Delete** .)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-810.png)
 10. Go to the **[Discord website](https://discordapp.com/)**  , then download the latest version of Discord.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 11. Run the downloaded file, then follow the on-screen instructions to install Discord.
 
  Hopefully one of the fixes above worked for you. If you have any questions or suggestions, you’re more than welcome to leave us a comment below.
@@ -97,8 +103,6 @@ thumbnail: https://thmb.techidaily.com/55968897eeae10de1d5f523b1b9a82af3b28230cb
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -106,4 +110,22 @@ thumbnail: https://thmb.techidaily.com/55968897eeae10de1d5f523b1b9a82af3b28230cb
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-pixelated-palace-beginner-friendly-home-design-guide/"><u>[New] In 2024, Pixelated Palace Beginner-Friendly Home Design Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-drone-image-shake-reduction/"><u>[Updated] Mastering Drone Image Shake Reduction</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-optimize-your-online-presence-with-linked-fb-stories/"><u>[Updated] Optimize Your Online Presence with Linked FB Stories</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-quick-fixes-for-missing-sound-in-obs-for-2024/"><u>[Updated] Quick Fixes for Missing Sound in OBS for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/7-key-steps-for-restoring-windows-hello-fingerprint-functionality/"><u>7 Key Steps for Restoring Windows Hello Fingerprint Functionality</u></a></li>
+<li><a href="https://win-answers.techidaily.com/error-code-327-in-star-wars-battlefront-2-fixes-and-tips-to-enhance-your-gaming-experience/"><u>Error Code 327 in Star Wars Battlefront 2: Fixes & Tips to Enhance Your Gaming Experience</u></a></li>
+<li><a href="https://driver-download.techidaily.com/instant-access-to-your-arduino-mega-2560-drivers-download-now/"><u>Instant Access to Your Arduino Mega 2560 Drivers – Download Now</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/macbook-showdown-detailed-comparison-of-macbook-pro-vs-macbook-air-to-find-your-ideal-apple-device/"><u>MacBook Showdown: Detailed Comparison of MacBook Pro Vs. MacBook Air to Find Your Ideal Apple Device</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-not-launching-errors-in-hogwarts-legacy-with-these-2024-expert-tips/"><u>Overcome 'Not Launching' Errors in Hogwarts Legacy with These 2024 Expert Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-the-challenge-of-star-wars-jedi-fallen-order-not-starting-properly/"><u>Overcoming the Challenge of Star Wars Jedi: Fallen Order Not Starting Properly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/phoenix-point-crash-issues-solved-troubleshooting-steps-inside/"><u>Phoenix Point Crash Issues Solved - Troubleshooting Steps Inside</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/skype-record-simplified-techniques-for-dual-os-recording/"><u>Skype Record Simplified Techniques for Dual OS Recording</u></a></li>
+<li><a href="https://win-answers.techidaily.com/successful-techniques-for-stabilizing-and-boosting-game-frames-per-second/"><u>Successful Techniques for Stabilizing and Boosting Game Frames Per Second</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-resolving-issues-when-astro-a50-is-unrecognized-by-the-command-center/"><u>Troubleshooting Steps: Resolving Issues When Astro A50 Is Unrecognized by the Command Center</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-troubleshooting-guide-resolving-alan-wake-2s-2024-crashes/"><u>Ultimate Troubleshooting Guide: Resolving Alan Wake 2'S 2024 Crashes</u></a></li>
+</ul></div>
 

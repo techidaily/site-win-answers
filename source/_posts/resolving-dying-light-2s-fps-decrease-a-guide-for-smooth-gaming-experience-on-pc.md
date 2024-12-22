@@ -1,7 +1,7 @@
 ---
 title: Resolving Dying Light 2'S FPS Decrease – A Guide for Smooth Gaming Experience on PC
-date: 2024-12-17T18:10:25.231Z
-updated: 2024-12-20T20:40:41.247Z
+date: 2024-12-17T20:22:35.496Z
+updated: 2024-12-22T01:13:40.855Z
 tags:
   - win11
   - win10
@@ -49,14 +49,10 @@ thumbnail: https://thmb.techidaily.com/613172768f05bc30ced4453cadcdb6862cbaab1d0
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-the-game-as-an-administrator.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Restart the game to test. If the crashes reoccur, continue to the second fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2 – Use the dedicated GPU
 
@@ -65,10 +61,6 @@ thumbnail: https://thmb.techidaily.com/613172768f05bc30ced4453cadcdb6862cbaab1d0
 1. In the Windows search box, type**graphics setting** s and click**Graphics settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/use-dedicated-card-1.jpg)
 2. Click**Browse** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/use-dedicated-card-2.jpg)
 3. Navigate to the game’s installation folder and add the Deathloop.exe file.  
@@ -82,7 +74,7 @@ thumbnail: https://thmb.techidaily.com/613172768f05bc30ced4453cadcdb6862cbaab1d0
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/use-dedicated-card-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3 – Update your graphics driver
@@ -103,10 +95,6 @@ thumbnail: https://thmb.techidaily.com/613172768f05bc30ced4453cadcdb6862cbaab1d0
 
  Reboot your computer after the driver update completes, and check if Deathloop still crashes. If so, try the next solution.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4 – Temporarily disable third-party software
 
  If you’re running multiple software when playing Deathloop, the software conflicts may cause the game to crash. As many players reported, disabling certain third-party software such as**MSI Afterburner and Rivatuner Statistics Server** helped mitigate the Deathloop crashing.
@@ -117,15 +105,23 @@ You can also close all unnecessary apps in the background. Here is how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/right-click-task-bar-task-manager.jpg)
 2. Under the Process tab, right-click a program you’d like to close and click **End task** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/disable-unnecessary-programs-running-in-the-background.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Don’t end any programs you’re unfamiliar with, as they may be critical for the functioning of your computer.
 
  Now that you should only leave Deathloop and your game launcher running. Test if you’re able to play the game as expected. If not, check out two more fixes below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5 – Verify the integrity of game files
 
@@ -135,11 +131,15 @@ You can also close all unnecessary apps in the background. Here is how:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. Right-click Deathloop and click**Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/verify-game-files-3.jpg)
 3. Click**Local Files** on the left and click**Verify integrity of game files** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/verify-game-files-2-1.jpg)
@@ -159,6 +159,10 @@ You can also close all unnecessary apps in the background. Here is how:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/disable-steam-overlay-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### On Discord
 
 1. Launch Discord.
@@ -166,14 +170,10 @@ You can also close all unnecessary apps in the background. Here is how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/7-2-1-1.jpg)
 3. Select the **Overlay** tab in the left pane and toggle off **Enable in-game overlay** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/7-2-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Deathloop should be back to normal after you applied the settings as above.
@@ -197,24 +197,17 @@ You can also close all unnecessary apps in the background. Here is how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-essential-screen-capture-techniques-for-powerpoint-presentations/"><u>[New] 2024 Approved Essential Screen Capture Techniques for PowerPoint Presentations</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-simplifying-media-share-fb-movies-for-whatsapp-users/"><u>[New] Simplifying Media Share FB Movies for WhatsApp Users</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-quieten-system-sounds-on-pc-and-mac-devices/"><u>2024 Approved Quieten System Sounds on PC and Mac Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/5-ways-to-take-notes-on-windows-11-without-downloading-software/"><u>5 Ways to Take Notes on Windows 11 Without Downloading Software</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/affordable-tech-secure-data-with-chatgpt-tips/"><u>Affordable Tech, Secure Data with ChatGPT Tips</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722872933114-android-16-preview-discover-its-projected-price-point-release-dates-device-support-and-exciting-features-ahead/"><u>Android 16 Preview - Discover Its Projected Price Point, Release Dates, Device Support, and Exciting Features Ahead</u></a></li>
-<li><a href="https://win-answers.techidaily.com/apples-ultimate-guide-to-choosing-a-side-by-side-look-at-macbook-air-and-pro/"><u>Apple's Ultimate Guide to Choosing: A Side-by-Side Look at MacBook Air and Pro</u></a></li>
-<li><a href="https://win-answers.techidaily.com/best-techniques-to-fix-unresponsiveness-in-minecraft-when-playing-on-computer-systems/"><u>Best Techniques to Fix Unresponsiveness in Minecraft when Playing on Computer Systems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/best-troubleshooting-tips-for-smooth-fallout-3-gaming-on-windows-11/"><u>Best Troubleshooting Tips for Smooth Fallout 3 Gaming on Windows 11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/crack-the-code-top-strategies-to-keep-among-us-running-smoothly/"><u>Crack the Code: Top Strategies to Keep 'Among Us' Running Smoothly</u></a></li>
-<li><a href="https://win-answers.techidaily.com/enhanced-destiny-2-performance-on-pc-no-more-unexpected-interruptions/"><u>Enhanced Destiny 2 Performance on PC - No More Unexpected Interruptions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-tips-to-overcome-the-missing-ping-issue-in-halo-infinite-gameplay/"><u>Expert Tips to Overcome the Missing Ping Issue in Halo Infinite Gameplay</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-common-problems-of-counter-strike-2-not-opening-properly/"><u>Fixing the Common Problems of Counter-Strike 2 Not Opening Properly</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-issue-overcoming-connection-errors-in-path-of-exile-a-comprehensive-guide/"><u>Fixing the Issue: Overcoming Connection Errors in Path of Exile – A Comprehensive Guide</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-oppo-a18-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Oppo A18 | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-interactive-sphere-instagram-tiktok-synergy-guide/"><u>In 2024, The Interactive Sphere Instagram-TikTok Synergy Guide</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-ultimate-guide-to-effective-video-marketing-tools-8/"><u>In 2024, Ultimate Guide to Effective Video Marketing Tools (8)</u></a></li>
-<li><a href="https://win-able.techidaily.com/now-rewrite-the-equation-using-these-equivalent-fractions/"><u>Now, Rewrite the Equation Using These Equivalent Fractions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-origin-issue-now-successfully-connected/"><u>Resolved: Origin Issue - Now Successfully Connected</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-best-screen-recording-apps-for-mac-users-excluded-from-bandicam-for-2024/"><u>[New] Best Screen Recording Apps for Mac Users - Excluded From Bandicam for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-top-choice-for-fb-vids-mp4-download-toolkit/"><u>[New] Top Choice for FB Vids – MP4 Download Toolkit</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-effortless-view-growth-uncovering-the-best-video-tips-and-hacks/"><u>[Updated] 2024 Approved Effortless View Growth Uncovering the Best Video Tips and Hacks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/boost-your-gameplay-solving-fps-drops-in-titanfall-2-quickly-and-easily/"><u>Boost Your Gameplay: Solving FPS Drops in Titanfall 2 Quickly & Easily</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elevate-your-film-edits-with-final-cuts-top-10-tools/"><u>Elevate Your Film Edits with Final Cut’s Top 10 Tools</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guarantee-uninterrupted-play-with-these-simple-solutions-for-assassins-creed-odyssey-crashing-on-windows-systems/"><u>Guarantee Uninterrupted Play with These Simple Solutions for Assassin's Creed Odyssey Crashing on Windows Systems</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtube-lighting-essentials-17-tops-reviewed/"><u>In 2024, YouTube Lighting Essentials - #17 Tops Reviewed</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Oppo Reno 11 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/review-the-perfectly-sized-amazon-basics-tablet-support-for-on-the-go-use/"><u>Review: The Perfectly Sized Amazon Basics Tablet Support for On-the-Go Use</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unveiling-the-truth-behind-mafia-definitive-editions-release-challenges/"><u>Unveiling the Truth Behind Mafia: Definitive Edition's Release Challenges</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/wiederholung-von-geloschten-notizen-mit-leichtgemacht-einfach-und-effizient/"><u>Wiederholung Von Gelöschten Notizen Mit Leichtgemacht - Einfach Und Effizient</u></a></li>
+<li><a href="https://win-answers.techidaily.com/wolcen-unleashed-understanding-the-causes-of-its-launch-setback/"><u>Wolcen Unleashed? – Understanding the Causes of Its Launch Setback</u></a></li>
 </ul></div>
 

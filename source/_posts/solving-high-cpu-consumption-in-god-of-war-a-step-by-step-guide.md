@@ -1,7 +1,7 @@
 ---
 title: "Solving High CPU Consumption in God of War: A Step-by-Step Guide"
-date: 2024-12-17T18:04:25.602Z
-updated: 2024-12-20T18:10:51.163Z
+date: 2024-12-19T02:21:39.532Z
+updated: 2024-12-21T21:12:41.093Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/b0c789775642f2ac1a082c3710ec3e71a5c2db920
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3 simple fixes to try
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -35,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/b0c789775642f2ac1a082c3710ec3e71a5c2db920
 1. **[Adjust your proxy settings](https://tools.techidaily.com/drivereasy/download/)**
 2. **[Update your network adapter driver](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Reinstall Steam](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Adjust your proxy settings
 
@@ -52,13 +44,13 @@ thumbnail: https://thmb.techidaily.com/b0c789775642f2ac1a082c3710ec3e71a5c2db920
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-358.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click the**Connections tab** , then**LAN settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-360.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** If any items on this window are checked, uncheck them. Then, click**OK** .
 
@@ -67,6 +59,10 @@ thumbnail: https://thmb.techidaily.com/b0c789775642f2ac1a082c3710ec3e71a5c2db920
 **5)** Restart your computer and Steam to test your issue.
 
  If none of the boxes is checked, or if you still get the error code 130, then go ahead with the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your network adapter driver
 
@@ -109,7 +105,7 @@ OR
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Reinstall Steam
@@ -121,20 +117,20 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-885.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-886.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-887.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Under **View by** , select **Category** .
 
@@ -152,6 +148,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-891.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  **8)[Download](https://store.steampowered.com/about/)**  Steam.
 
 **9)** Open the downloaded file and install Steam.
@@ -161,7 +161,7 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-892.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **11)**  Move the backup **steamapps folder**  you create before to your current directory location.
@@ -194,24 +194,15 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-full-spectrum-visual-creativity-with-vsco/"><u>[New] Full Spectrum Visual Creativity with VSCO</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-tactics-for-topical-tweets-virality-in-the-facebook-era/"><u>[New] In 2024, Tactics for Topical Tweets Virality in the Facebook Era</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-infographic-8-ways-to-make-money-on-youtube-for-beginners/"><u>[Updated] 2024 Approved Infographic - 8 Ways to Make Money on YouTube for Beginners</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-youtube-live-broadcasting-demystified-for-2024/"><u>[Updated] YouTube Live Broadcasting Demystified for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-optimal-obs-configuration-for-budget-pcs/"><u>2024 Approved Optimal OBS Configuration for Budget PCs</u></a></li>
-<li><a href="https://win-answers.techidaily.com/banishing-the-blackout-effective-remedies-for-mtg-arena-display-issues/"><u>Banishing the Blackout: Effective Remedies for MTG Arena Display Issues</u></a></li>
-<li><a href="https://win-answers.techidaily.com/conquering-startup-hiccups-the-definitive-fixes-for-overwatch-2/"><u>Conquering Startup Hiccups: The Definitive Fixes for Overwatch 2</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/erneutes-speichern-auf-google-drive-mit-myrecover-wiederholung-verlorener-videos/"><u>Erneutes Speichern Auf Google Drive! Mit MyRecover Wiederholung Verlorener Videos.</u></a></li>
-<li><a href="https://win-answers.techidaily.com/farewell-to-frames-dropping-deathloops-pc-version-finally-seamless-after-fixes/"><u>Farewell to Frames Dropping - Deathloop's PC Version Finally Seamless After Fixes</u></a></li>
-<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-realme-narzo-n53-frp-by-drfone-android/"><u>Full Guide to Bypass Realme Narzo N53 FRP</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-meizu-21-pro-easily-by-drfone-android/"><u>How To Unlock a Meizu 21 Pro Easily?</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-the-art-of-capturing-sound-via-mac/"><u>In 2024, The Art of Capturing Sound via Mac</u></a></li>
-<li><a href="https://win-answers.techidaily.com/master-the-art-of-stable-gaming-top-8-fixes-to-stop-hogwarts-legacy-crash-on-pc-startup/"><u>Master the Art of Stable Gaming: Top 8 Fixes to Stop Hogwarts Legacy Crash on PC Startup</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-the-pre-launch-fixing-division-2-errors-and-maximizing-performance-for-game-enthusiasts-advice/"><u>Mastering the Pre-Launch: Fixing Division 2 Errors and Maximizing Performance for Game Enthusiasts ( Advice)</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722988665527-solve-your-screens-persistent-flutter-fix-the-annoying-flicker/"><u>Solve Your Screen's Persistent Flutter: Fix the Annoying Flicker!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-troubleshooting-for-battlefield-2e22-and-directx-conflicts/"><u>Step-by-Step Troubleshooting for Battlefield 2E22 and DirectX Conflicts</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/stream-without-spending-10-alternatives-to-netflixs-services/"><u>Stream Without Spending: 10 Alternatives To Netflix's Services</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-tips-for-preventing-elex-ii-game-crashes-on-pc-solved/"><u>Top Tips for Preventing Elex II Game Crashes on PC – Solved</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-and-fixing-directx-glitches-in-call-of-duty-moa-2/"><u>Troubleshooting and Fixing DirectX Glitches in Call of Duty MOA 2</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-upgrading-zoom-video-fidelity-a-comprehensive-guide/"><u>[New] In 2024, Upgrading Zoom Video Fidelity A Comprehensive Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-full-features-explored-logitechs-professional-4k-cam/"><u>[Updated] Full Features Explored Logitech’s Professional 4K Cam</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-transform-your-food-blog-into-an-engaging-mukbang-show/"><u>[Updated] In 2024, Transform Your Food Blog Into an Engaging Mukbang Show</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-metaverse-musings-arvr-inclusive-quotes-collection/"><u>[Updated] Metaverse Musings AR/VR-Inclusive Quotes Collection</u></a></li>
+<li><a href="https://win-answers.techidaily.com/astro-a50-troubleshooting-ensuring-connection-with-the-command-center/"><u>Astro A50 Troubleshooting: Ensuring Connection with the Command Center</u></a></li>
+<li><a href="https://win-blog.techidaily.com/improve-gaming-experience-with-solutions-to-lower-frame-rates-in-forza-horizon-5/"><u>Improve Gaming Experience with Solutions to Lower Frame Rates in Forza Horizon 5</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-boosting-engagement-tailoring-backgrounds-on-google-meet-devices/"><u>In 2024, Boosting Engagement Tailoring Backgrounds on Google Meet Devices</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-civilization-vi-solutions-for-launch-issues-on-windows-10/"><u>Troubleshooting Civilization VI: Solutions for Launch Issues on Windows 10</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-kodis-unable-to-connect-error-and-restoring-directory-access/"><u>Troubleshooting Kodi's Unable to Connect Error & Restoring Directory Access</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-the-persistent-error-0xc19001e1-in-windows-navigating-through-fixes/"><u>Troubleshooting Tips for the Persistent 'Error 0xC19001E1' In Windows Navigating Through Fixes</u></a></li>
 </ul></div>
 

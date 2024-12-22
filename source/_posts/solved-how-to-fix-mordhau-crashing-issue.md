@@ -1,7 +1,7 @@
 ---
 title: "[Solved] How to Fix Mordhau Crashing Issue?"
-date: 2024-08-19T02:04:21.342Z
-updated: 2024-08-20T02:04:21.342Z
+date: 2024-12-20T23:26:29.904Z
+updated: 2024-12-22T02:27:14.472Z
 tags:
   - win11
   - win10
@@ -37,11 +37,12 @@ Released on March 26, 2021,**It Takes Two** is currently topping the Steam chart
 2. Click the**Installed Files** tab, then click**Verify integrity of game files** . Wait for the verification to be completed.  
 ![Steam - how to verify integrity of game files](https://www.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Launch It Takes Two to see if it crashes or not. If the game still crashes, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 2: Update graphics driver
 
  **The broken or outdated graphics driver may also be the main culprit** behind the game crashing issues. As we all know, an outdated or corrupted graphics driver would trigger game crashing, stuttering (FPS dropping), and even screen flickering issues.
@@ -51,6 +52,10 @@ Released on March 26, 2021,**It Takes Two** is currently topping the Steam chart
  The latest graphics driver will**enhance your graphics card performance** and**unlock the full potential of your graphics card** , which will give you an edge in PC video games.
 
 There are mainly two ways you can update your graphics drivers:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 1: Manually
 
@@ -68,9 +73,6 @@ There are mainly two ways you can update your graphics drivers:
 
 **Or**
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ### Option 2: Automatically (Recommended)
 
  This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
@@ -87,13 +89,16 @@ There are mainly two ways you can update your graphics drivers:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You need to restart your PC after you finish updating your graphics driver.
@@ -120,10 +125,6 @@ There are mainly two ways you can update your graphics drivers:
 
  See if the game crashes after you add it as an exception to your antivirus software. If it persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ## Fix 5: Stop overclocking / turbo boosting
 
  Many players may try overclocking the CPU or turbo boost the graphics card to gain a better FPS. However, overclocking often crashes the game.
@@ -140,8 +141,9 @@ DbSchema database designer for all databases, schema design in the team, schema 
 2. Click the Download button to start the download.  
 ![download latest DirectX](https://images.drivereasy.com/wp-content/uploads/2021/03/download-latest-DirectX.jpg)
 3. Once downloaded, double-click the downloaded**.exe** file to install it on your computer.
+
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  See if the game crashing issue reappears. If not, congratulations, you’ve fixed this issue!
@@ -162,8 +164,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -171,4 +171,20 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-navigating-zoom-recordings-for-business-success/"><u>[New] In 2024, Navigating Zoom Recordings for Business Success</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-live-stream-recorder-companies/"><u>[Updated] In 2024, Live Stream Recorder Companies</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-lively-letters-on-screen-bounce-with-ease-and-style/"><u>[Updated] Lively Letters on Screen Bounce with Ease and Style</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-the-art-of-video-transmission-from-fb-to-whatsapp/"><u>[Updated] The Art of Video Transmission From FB to WhatsApp</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/a-google-insider-reveals-why-he-loves-his-macbook-and-escapes-the-grief-of-using-a-windows-laptop-insights/"><u>A Google Insider Reveals Why He Loves His MacBook and Escapes the Grief of Using a Windows Laptop - Insights</u></a></li>
+<li><a href="https://fox-info.techidaily.com/box-opening-marketing-mastery/"><u>Box-Opening Marketing Mastery</u></a></li>
+<li><a href="https://win-answers.techidaily.com/clearing-up-rumors-assassins-creed-valhalla-is-set-to-launch-on-schedule/"><u>Clearing Up Rumors: Assassin's Creed Valhalla Is Set to Launch on Schedule</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-persistent-crashes-of-thunder-tier-one-game-on-pc/"><u>Fixing the Persistent Crashes of Thunder Tier One Game on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/hitman-3-no-more-black-screens-effective-solutions-and-tips-for-a-seamless-gaming-experience-on-pc/"><u>Hitman 3 No More Black Screens: Effective Solutions and Tips for a Seamless Gaming Experience on PC</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-your-step-by-step-pathway-to-recording-exceptional-tiktok-videos/"><u>In 2024, Your Step-by-Step Pathway to Recording Exceptional TikTok Videos</u></a></li>
+<li><a href="https://win-answers.techidaily.com/revamp-your-pc-gaming-experience-by-overcoming-frame-rate-dips-in-games/"><u>Revamp Your PC Gaming Experience by Overcoming Frame Rate Dips in Games</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/russian-counting-made-simple-a-guide/"><u>Russian Counting Made Simple: A Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723005023142-step-by-step-fix-for-acrocefexe-errors-on-windows-expert-tips/"><u>Step-by-Step Fix for AcroCEF.exe Errors on Windows – Expert Tips!</u></a></li>
+</ul></div>
 

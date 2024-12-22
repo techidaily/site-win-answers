@@ -1,7 +1,7 @@
 ---
 title: "Avoid the Annoyance: Proven Fixes for Persistent PC Crashes - Insights & Tips (Updated )"
-date: 2024-12-19T16:18:21.769Z
-updated: 2024-12-20T18:19:15.274Z
+date: 2024-12-16T00:12:26.993Z
+updated: 2024-12-21T19:39:33.407Z
 tags:
   - win11
   - win10
@@ -42,6 +42,10 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. [Download the latest patch](https://tools.techidaily.com/drivereasy/download/)
@@ -65,21 +69,17 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2-4.jpg)
 4. Under**Virtual memory** , click**Change** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/3-2.jpg)
 5. Uncheck**Automatically manage paging file size for all drives** and make sure you’ve check**System managed size** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/4-2.jpg)
 6. Click**Set > OK** .
 
 7. Reboot your computer can check whether the crash will appear or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Delete specific files from the save folder
 
@@ -92,19 +92,19 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/browse-2.jpg)
 4. Navigate to the save folder, delete Data(999).sav & Data(999).bak.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Reboot your computer and check the issue is solved or not.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Underclock your clock speed
 
  The game is built with an old Unreal Engine version. This may be the reason for the random crashes. You can underclock your CPU speed by 100 MHz or 150 MHz to see whether it helps or not.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Bonus: Update your drivers
 
@@ -133,11 +133,11 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
-![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
  Thanks for reading. Hope this article meets your need. And you are welcome to leave comments below.
 
@@ -158,21 +158,19 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-eye-of-the-tech-giants-leading-screen-capture-apps-for-2024/"><u>[Updated] Eye of the Tech Giants Leading Screen Capture Apps for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/best-practices-to-prevent-and-fix-zoom-from-crashing-on-windows-pcs-windows-11-and-10-in-202n4/"><u>Best Practices to Prevent and Fix Zoom From Crashing on Windows PCs (Windows 11 & 10) in 202N4</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-solutions-for-preventing-adobe-premiere-crashes-on-windows-11-and-10-systems/"><u>Effective Solutions for Preventing Adobe Premiere Crashes on Windows 11 & 10 Systems</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/expert-setup-guide-to-capture-high-quality-video-using-logitech-camera-for-2024/"><u>Expert Setup Guide to Capture High-Quality Video Using Logitech Camera for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-kernelbasedll-fault-a-fast-and-straightforward-guide/"><u>Fixing the KernelBase.dll Fault: A Fast and Straightforward Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-videos-and-music-files-from-iphone-13-pro-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Photos, Videos & Music Files from iPhone 13 Pro | Stellar</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/ifind-data-recovery-tutorial-for-retrieving-deleted-files-from-windows-os-versions-1178/"><u>IFind Data Recovery Tutorial for Retrieving Deleted Files From Windows OS Versions 11/7/8</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-honor-magic-6-pro-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Honor Magic 6 Pro</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solved-ultimate-guide-on-fixing-phoenix-point-game-crashes/"><u>Solved: Ultimate Guide on Fixing Phoenix Point Game Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-repairing-your-pathfinder-gamepad-controls/"><u>Troubleshooting Guide: Repairing Your Pathfinder Gamepad Controls</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-when-outlook-refuses-to-start-up/"><u>Troubleshooting Tips for When Outlook Refuses to Start Up</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-want-to-get-vsdc-video-editor-on-mac-but-it-is-only-available-on-windows-dont-worry-we-compiled-a-list-of-best-vsdc-video-editor-for-m/"><u>Updated 2024 Approved Want to Get VSDC Video Editor on Mac? But It Is only Available on Windows. Dont Worry, We Compiled a List of Best VSDC Video Editor for Mac Alternatives</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-enhancing-viewing-experience-steps-to-eliminate-sounds-from-web-streamed-content-for-2024/"><u>Updated Enhancing Viewing Experience Steps to Eliminate Sounds From Web-Streamed Content for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/wireless-methods-to-mirrorapple-iphone-15-plus-and-ipad-to-fire-stick-with-ease-drfone-by-drfone-ios/"><u>Wireless Methods to MirrorApple iPhone 15 Plus & iPad to Fire Stick With Ease | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/world-of-warcraft-performance-boost-top-fixes-for-lagging-frame-rates/"><u>World of Warcraft Performance Boost: Top Fixes for Lagging Frame Rates</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/your-first-steps-into-mastering-french-pronunciation/"><u>Your First Steps Into Mastering French Pronunciation</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-game-ahead-the-ultimate-list-of-premier-gba-emulator-programs-for-2024/"><u>[New] Game Ahead The Ultimate List of Premier GBA Emulator Programs for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-exploring-the-top-7-voice-customization-applications/"><u>[Updated] Exploring the Top 7 Voice Customization Applications</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-quick-ways-to-recover-unsaved-excel-file-on-windows-by-stellar-guide/"><u>4 Quick Ways to Recover Unsaved Excel File on Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720063275743-access-top-tier-sound-in-minutes/"><u>Access Top-Tier Sound in Minutes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/achieving-victory-over-call-of-duty-error-6328-in-warzone-ultimate-fix-guide-for-gamers/"><u>Achieving Victory over Call of Duty Error 6328 in Warzone - Ultimate Fix Guide for Gamers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/alien-fireteam-elite-stability-issues-on-pc-solutions-inside/"><u>Alien: Fireteam Elite Stability Issues on PC - Solutions Inside!</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-samsung-galaxy-f04-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-for-solving-launch-issues-in-armored-core-vi-the-fires-of-rubicon-not-opening-dilemma/"><u>Expert Tips for Solving Launch Issues in Armored Core VI - The 'Fires of Rubicon Not Opening' Dilemma</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/from-camera-roll-to-youtube-the-ultimate-uploading-guide-for-2024/"><u>From Camera Roll to YouTube The Ultimate Uploading Guide for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/play-store-stuck-on-downloading-of-motorola-edge-2023-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Motorola Edge 2023? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-solutions-to-overcome-madden-22-launch-hang-up-problems/"><u>Quick Solutions to Overcome Madden 22 Launch Hang-Up Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-latency-issues-ultimate-guide-to-reducing-lag-in-street-fighter-6/"><u>Resolving Latency Issues: Ultimate Guide to Reducing Lag in Street Fighter 6</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stop-among-us-from-freezing-expert-tips-for-a-smooth-gaming-experience/"><u>Stop 'Among Us' From Freezing! Expert Tips for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unboxing-the-apple-m3-macbook-air-the-three-key-improvements-that-impressed-us-most-zdnet/"><u>Unboxing the Apple M3 MacBook Air: The Three Key Improvements That Impressed Us Most | ZDNET</u></a></li>
 </ul></div>
 

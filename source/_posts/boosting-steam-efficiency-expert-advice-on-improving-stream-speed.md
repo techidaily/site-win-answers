@@ -1,7 +1,7 @@
 ---
 title: "Boosting Steam Efficiency: Expert Advice on Improving Stream Speed"
-date: 2024-08-19T02:03:41.449Z
-updated: 2024-08-20T02:03:41.449Z
+date: 2024-12-16T18:19:46.885Z
+updated: 2024-12-21T20:55:38.033Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/0c63aae4422094d29361ca7d174981f6a34db77ad
 ## Improve Apex Legends Gameplay: Boosting Your FPS in Six Simple Steps
 
 Having**low FPS** in**Apex Legends** ? If the answer is yes, don’t panic – you’re not alone. This is a rather common problem, and it’s usually not very hard to solve. Also, if you wish to boost your PC performance in gaming, you’ll find this post helpful as well.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6 Ways to boost FPS in Apex Legends
 
@@ -70,6 +74,10 @@ Listed below are the recommended graphics settings for Apex Legends:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-611.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note** that the above settings may not be most suitable for your computer specs. Now go on to check if your FPS has improved after the fine-tuning. If it hasn’t, please move on to Way 2, below.
 
 ---
@@ -84,22 +92,20 @@ Listed below are the recommended graphics settings for Apex Legends:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-616.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) On the**ADVANCED LAUNCH OPTIONS** tab, under**Command line arguments** , type in**+fps\_max unlimited** . After that, click**Save** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-618.png)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Close Origin Launcher and then run it again. Now check to see your FPS in Apex Legends.
 
 In case your low FPS problem still remains, move on to the next method.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Way 3: Update graphics drivers**
 
  Low FPS in Apex Legends is sometimes caused by out-dated graphics drivers. If that’s indeed your problem, you should keep the drivers up-to-date in order to optimize your frame rate.
@@ -122,9 +128,6 @@ In case your low FPS problem still remains, move on to the next method.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you have any problems using Driver Easy to update your driver, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
 
  Now launch Apex Legends and see if you continue to experience the low FPS problem. If you do, try out Way 4.
@@ -138,13 +141,15 @@ In case your low FPS problem still remains, move on to the next method.
  1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2019/08/img_5ae0331bc08e4-5.png) and**S** to invoke the search box (you may also see it on the taskbar). Type in**game mode** and click**Game Mode settings** .
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-450.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) In the pop-up window, toggle off**Game Mode** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-620.png)
@@ -157,24 +162,14 @@ In case your low FPS problem still remains, move on to the next method.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-538.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5) Now you need to close all the unnecessary programs running on your computer. To do this, switch to an unwanted program, and close it as you normally would (e.g. by clicking the × at the top right of the program).
 
  If the program cannot be shut down in the normal way, you can force it to close by the following procedure:
 
  1\. on your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2019/08/img_5ae0331bc08e4-5.png) and**X** at the same time. Then select**Task Manager** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ![This image has an empty alt attribute; its file name is image-449.png](https://images.drivereasy.com/wp-content/uploads/2019/08/image-449.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
  2\. On the **Processes**  tab, select the program that you want to shut down from the list in Task Manager and click **End task**  to force a close. (If it’s a program you’re using, e.g. Microsoft Word, make sure you save any unsaved work first.)
 
 **Do not close any unfamiliar programs** . If you mistakenly shut down the important system programs, that may bring about critical problems.
@@ -182,8 +177,9 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-70.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  6) Your trouble is sometimes caused by interference from antivirus software. To see if that’s the problem for you, temporarily **disable your antivirus program** and check your FPS in the game. (Consult your antivirus documentation for instructions on disabling it.)
 
  If your FPS does improve, simply disable the antivirus when you’re playing Apex Legends. Or you can install a different antivirus solution.
@@ -206,12 +202,13 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-310.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
  3) Click **Skip** if you’re presented with a warning that reads “the folder or a file in it is open in another program.” Then wait till the deletion is complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-301.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) On your keyboard, press the **Windows logo key** and **R** at the same time to invoke the Run dialog box again. Type in **temp** and hit **Enter** .
 
@@ -222,6 +219,10 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
  6) On your keyboard, press the **Windows logo key** and **R** at the same time to invoke the Run dialog box. This time, type in **prefetch** and hit **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-306.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  7) Repeat **Step 2** through **Step 3** to delete all the files in your **prefetch** folder.
 
@@ -235,6 +236,10 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Way 6: Adjust Windows power settings**
 
  Some people said adjusting Window power settings gave them a boost in FPS. Under the**Adjust for best performance** power plan, Windows will allow your CPU to run at a higher speed (for demanding games however, this tweak may not make a big difference) but your computer will also generate more heat and noise. To change your Windows power plan, here’re the steps:
@@ -247,32 +252,18 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-313.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
  3) Select **System** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-314.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) In the left pane, click **Advanced system settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-315.png)
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  5) In the System Properties window, click the **Advanced**  tab. Then click **Settings…** in the **Performance** section.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-317.png)
@@ -281,9 +272,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-104.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
  Run Apex Legends and see whether your low FPS problem has been solved or mitigated. Also**note** that if your computer is overheating after you change the default power plan, you should revert the plan to**Let Windows choose what’s best for my computer** .
 
 ---
@@ -298,8 +286,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -307,4 +293,24 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-basic-tips-how-to-record-and-save-google-voice-calls/"><u>[New] Basic Tips How to Record and Save Google Voice Calls</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-amplify-your-videos-impact-7-royalty-free-sounds/"><u>[Updated] Amplify Your Video's Impact 7 Royalty-Free Sounds</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-simple-steps-for-quick-file-migration/"><u>[Updated] Simple Steps for Quick File Migration</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/adjusting-your-kindle-paperwhite-display-a-step-by-step-guide/"><u>Adjusting Your Kindle Paperwhite Display: A Step-by-Step Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/essential-tips-for-xbox-live-streaming-setup/"><u>Essential Tips for Xbox Live Streaming Setup</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-and-solutions-for-dragon-age-origins-crashing-issues-on-windows-11/"><u>Fixes and Solutions for Dragon Age: Origins Crashing Issues on Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-and-solutions-resolving-gta-5-sudden-game-crashes/"><u>Fixes and Solutions: Resolving GTA 5 Sudden Game Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-game-crashes-in-forza-horizon-5-a-comprehensive-guide/"><u>Fixing Game Crashes in Forza Horizon 5: A Comprehensive Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-vivo-x-fold-2-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Vivo X Fold 2 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-vocalizing-text-pioneering-audio-to-written-content-conversion/"><u>New Vocalizing Text Pioneering Audio to Written Content Conversion</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722999640030-psychonauts-2-crashes-heres-your-ultimate-solution-for-a-smooth-pc-gaming-experience/"><u>Psychonauts 2 Crashes? Here's Your Ultimate Solution for a Smooth PC Gaming Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolve-your-diablo-immortal-pc-game-crash-issues-ultimate-troubleshooting-tips/"><u>Resolve Your Diablo Immortal PC Game Crash Issues: Ultimate Troubleshooting Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/seamless-adventures-await-eliminating-maplestory-crashes-in-your-latest-windows-11-update/"><u>Seamless Adventures Await: Eliminating MapleStory Crashes in Your Latest Windows 11 Update</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-mysterious-black-screen-issue-on-mtga-a-comprehensive-guide/"><u>Solving the Mysterious Black Screen Issue on MTGA – A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stable-playthrough-of-baldurs-gate-3-on-pc-tips-and-troubleshooting-steps/"><u>Stable Playthrough of Baldur's Gate 3 on PC: Tips and Troubleshooting Steps</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/the-art-of-keeping-up-with-snapstreaks-for-2024/"><u>The Art of Keeping Up With Snapstreaks for 2024</u></a></li>
+</ul></div>
 

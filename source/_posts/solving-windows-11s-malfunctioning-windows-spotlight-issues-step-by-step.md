@@ -1,7 +1,7 @@
 ---
 title: Solving Windows 11'S Malfunctioning Windows Spotlight Issues Step by Step
-date: 2024-12-15T19:27:27.231Z
-updated: 2024-12-20T17:24:53.913Z
+date: 2024-12-15T18:36:50.347Z
+updated: 2024-12-21T19:57:22.295Z
 tags:
   - win11
   - win10
@@ -33,10 +33,6 @@ After a long wait, the[new Hitman installment](https://www.epicgames.com/store/e
 5. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Check if it’s a server issue](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Verify the integrity of your game files
 
  The game not launching problem could mean that some game files are missing or corrupted. In either cases, you can simply run an integrity check to get your game working:
@@ -47,6 +43,10 @@ After a long wait, the[new Hitman installment](https://www.epicgames.com/store/e
 3. Select**Verify** from the drop-down list. Then wait for the checking to complete.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/hitman-3-verify-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now you can try to launch Hitman 3 using the Epic Games launcher.
 
@@ -69,7 +69,11 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-games-launcher-run-as-admin-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Launch Hitman 3 from game folder
@@ -77,10 +81,6 @@ Here’s how:
  The game not launching error might come from the game launcher. Some gamers reported on[reddit](https://www.reddit.com/r/HiTMAN/comments/l1qlc7/cant%5Flaunch%5Fthe%5Fgame%5Fat%5Fall%5Fon%5Fepic/) that when they failed to start Hitman 3 from Epic Games launcher, one possible workaround is to launch it using the**hitman3.exe** file in the game folder. So you can try this trick and see how things go.
 
  If you can’t launch Hitman 3 directly from the game folder, take a look at the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -117,10 +117,6 @@ After updating your GPU driver, you can check if Hitman 3 is working now.
 
  If the latest graphics driver doesn’t solve the problem, you can take a look at the next method.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5: Install all Windows updates
 
  Aside from drivers, it’s also important to keep your system up to date, which means you should make sure all the system updates are installed, as they usually provide more than just some minor bug fixes.
@@ -131,25 +127,29 @@ Here’s how you can check for updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-gear-icon.jpg)
 2. Scroll down and select**Update & Security** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
  After getting all the system updates, restart your gaming rig and check if Hitman 3 works now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Check if it’s a server issue
 
@@ -174,20 +174,24 @@ Here’s how you can check for updates manually:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-screenshot-expert-evaluator-for-2024/"><u>[New] ScreenShot Expert Evaluator for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-transforming-your-vision-into-stunning-hdr-portraits-for-2024/"><u>[Updated] Transforming Your Vision Into Stunning HDR Portraits for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-chart-success-the-top-online-stock-portals/"><u>2024 Approved Chart Success The Top Online Stock Portals</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/advanced-techniques-leveraging-gpt-references-to-elevate-any-conversation/"><u>Advanced Techniques: Leveraging GPT References to Elevate Any Conversation</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fortnite-access-blocked-heres-how-to-fix-the-not-found-entry-issue-easily/"><u>Fortnite Access Blocked? Here’s How to Fix the 'Not Found' Entry Issue Easily</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-examining-the-perks-and-pitfalls-of-vr/"><u>In 2024, Examining the Perks and Pitfalls of VR</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-the-complete-breakdown-setting-up-game-capture-on-ps4-console/"><u>In 2024, The Complete Breakdown Setting Up Game Capture on PS4 Console</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/last-chance-for-savings-top-picks-from-best-buys-end-of-season-gift-extravaganza-zdnet/"><u>Last Chance for Savings! Top Picks From Best Buy's End-of-Season Gift Extravaganza | ZDNET</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-the-ultimate-challenge-debugging-ue4s-gobi-bug-in-back-4-blood-game/"><u>Overcoming the Ultimate Challenge: Debugging UE4's Gobi Bug in Back 4 Blood Game</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-troubleshooting-steps-for-a-non-functioning-google-meet-webcam/"><u>Resolved: Troubleshooting Steps for a Non-Functioning Google Meet Webcam</u></a></li>
-<li><a href="https://win-answers.techidaily.com/say-goodbye-to-game-interruptions-how-to-resolve-titanfall-2-crashes-instantly/"><u>Say Goodbye to Game Interruptions: How to Resolve Titanfall 2 Crashes Instantly</u></a></li>
-<li><a href="https://win-answers.techidaily.com/successfully-fixed-launch-issues-for-steam-on-your-windows-10-machine/"><u>Successfully Fixed? Launch Issues for Steam on Your Windows 10 Machine</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/threefold-mastery-in-copy-for-social-media-campaigns-increasing-impact-with-every-word-for-2024/"><u>Threefold Mastery in Copy for Social Media Campaigns – Increasing Impact with Every Word for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/tips-for-seamlessly-running-two-apps-simultaneously-in-split-screen-on-macbook-air/"><u>Tips for Seamlessly Running Two Apps Simultaneously in Split Screen on MacBook Air</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-fix-guide-to-resolve-stray-impact-pc-crash-errors-with-these-5-proven-strategies/"><u>Ultimate Fix Guide to Resolve 'Stray: Impact' PC Crash Errors with These 5 Proven Strategies</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-diy-filmmaking-for-youtube-personalities/"><u>[New] 2024 Approved DIY Filmmaking for YouTube Personalities</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-crafting-laughs-the-ultimate-resource-for-free-templates/"><u>[New] Crafting Laughs The Ultimate Resource for Free Templates</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-android-non-root-audio-capture-4-easy-methods/"><u>[Updated] In 2024, Android Non-Root Audio Capture 4 Easy Methods</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-budget-computer-mastering-obs-configurations/"><u>2024 Approved Budget Computer - Mastering OBS Configurations</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-the-ultimate-tutorial-on-youtube-data-analysis/"><u>2024 Approved The Ultimate Tutorial on YouTube Data Analysis</u></a></li>
+<li><a href="https://win-answers.techidaily.com/get-your-back-4-blood-up-and-running-overcoming-initialization-hurdles-in-windows-environments/"><u>Get Your Back 4 Blood Up and Running: Overcoming Initialization Hurdles in Windows Environments</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-frame-rate-drops-and-latency-issues-in-outriders-tips-for-a-smoother-gameplay-experience/"><u>How to Fix Frame Rate Drops and Latency Issues in Outriders - Tips for a Smoother Gameplay Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-the-fortnite-ls-0013-launch-failure/"><u>How to Fix the Fortnite LS-0013 Launch Failure</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-tecno-camon-20-pro-5g-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Tecno Camon 20 Pro 5G to PC? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/mastering-google-voice-calls-the-ultimate-guide/"><u>Mastering Google Voice Calls The Ultimate Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimize-gameplay-smoothness-tips-for-reducing-lag-in-back-4-blood/"><u>Optimize Gameplay Smoothness: Tips for Reducing Lag in Back 4 Blood</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-high-latency-in-valheim-ultimate-tricks-and-tweaks-for-pc-gamers/"><u>Overcome High Latency in Valheim: Ultimate Tricks and Tweaks for PC Gamers</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/polishing-up-your-past-looking-back-in-style-for-2024/"><u>Polishing Up Your Past Looking Back in Style for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-found-how-to-accelerate-download-rates-in-utorrent/"><u>Solution Found: How to Accelerate Download Rates in uTorrent</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-connectivity-problems-in-the-latest-game-version-a-step-by-step-guide/"><u>Solving Connectivity Problems in the Latest Game Version: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-eliminating-the-dark-display-dilemma-in-overwatch-launch/"><u>Step-by-Step Guide: Eliminating the Dark Display Dilemma in Overwatch Launch</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stop-crusader-kings-3-from-freezing-on-your-desktop-computer/"><u>Stop Crusader Kings 3 From Freezing on Your Desktop Computer</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/the-essentials-of-setting-up-and-assessing-fb-instream-ad-efficacy-for-2024/"><u>The Essentials of Setting Up & Assessing FB Instream Ad Efficacy for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-how-to-get-origin-running-on-windows-11-again/"><u>Troubleshooting Tips: How to Get Origin Running on Windows 11 Again</u></a></li>
 </ul></div>
 

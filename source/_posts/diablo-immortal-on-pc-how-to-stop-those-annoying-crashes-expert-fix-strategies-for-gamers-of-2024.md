@@ -1,7 +1,7 @@
 ---
 title: "Diablo Immortal on PC: How to Stop Those Annoying Crashes - Expert Fix Strategies for Gamers of 2024"
-date: 2024-12-14T18:10:40.852Z
-updated: 2024-12-20T18:45:22.880Z
+date: 2024-12-15T01:07:31.231Z
+updated: 2024-12-21T23:14:33.545Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ Delays and lags in-game are no doubt ruining the fun of the game. If that’s a 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  There’re 2 types of lag relevant to gaming – one is FPS lag, the other is network lag. If you’re experience the FPS lag, usually you can adjust your graphics settings to fix it. If you’re experiencing network lag instead – your network connection has slowed down, you can check for bandwidth-hungry apps and your network settings.
@@ -35,10 +39,6 @@ Delays and lags in-game are no doubt ruining the fun of the game. If that’s a 
 5. **[Adjust the proxy settings](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/)
 6. **[Clear Steam cache and cookies](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: End unwanted background programs
 
  Lags might occur if you’re running multiple applications on your computer, hogging network resources. If that’s the case for you, follow the instructions below to check for and turn off them:
@@ -51,10 +51,6 @@ Delays and lags in-game are no doubt ruining the fun of the game. If that’s a 
 **1)**  Right-click your taskbar and select **Start Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-763.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **2)** Click the **Processes** tab. Then, check your current **CPU and memory usage** to see what processes are consuming your resources most.  
 
@@ -78,23 +74,19 @@ Delays and lags in-game are no doubt ruining the fun of the game. If that’s a 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-805.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**  Right-click the resource-consuming process and select **End task** .
 
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-810.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Relaunch Dota 2 to see if this has resolved your problem.
 
 If not, don’t worry. There are still 5 more fixes to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Rule out driver issues
 
@@ -114,17 +106,25 @@ If not, don’t worry. There are still 5 more fixes to try.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2020-11-10_17-45-18.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Right-click the driver and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2020-11-10_17-46-28.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **5)** Click**Roll Back Driver** , then click**Yes** to confirm the action if a Window pops up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2020-11-10_17-47-09.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6) Relaunch your game to test the issue.
 
@@ -174,6 +174,10 @@ If not, don’t worry. There are still 5 more fixes to try.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-330.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Relaunch your game to test your problem. If your issue persists, try the next fix.
 
 ### Fix 4: Change your PC’s power plan
@@ -184,17 +188,9 @@ If not, don’t worry. There are still 5 more fixes to try.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-737.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Under **View by,** click **Large icons** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-720.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)** Select **Power Options.**
 
@@ -204,13 +200,13 @@ If not, don’t worry. There are still 5 more fixes to try.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-738.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Restart your computer, and then relaunch Dota 2 to test your problem.
 
  Dota 2 should be able to run smoothly after the reboot. If it still can’t work properly, try the fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Adjust the proxy settings
 
@@ -222,17 +218,21 @@ If not, don’t worry. There are still 5 more fixes to try.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-806.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)**  Click **Internet Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-807.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**  Click the **Connections tab** , and then click **LAN settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-775.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Uncheck **Automatically detect settings** and click **OK** .
 
@@ -254,13 +254,13 @@ If not, don’t worry. There are still 5 more fixes to try.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-788.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**  Click**Web Browser** and click **DELETE WEB BROWSER CACHE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-787.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Click **OK** .
 
@@ -308,18 +308,17 @@ If not, don’t worry. There are still 5 more fixes to try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-capture-and-relive-essential-win10-game-techniques/"><u>[New] 2024 Approved Capture and Relive Essential Win10 Game Techniques</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-discover-best-deals-high-quality-budget-friendly-asmr-tech-secrets-for-2024/"><u>[New] Discover Best Deals - High-Quality, Budget-Friendly ASMR Tech Secrets for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-unraveling-the-new-dimensions-of-vegaspro-19/"><u>[New] In 2024, Unraveling the New Dimensions of VegasPro '19</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-unlocking-the-full-potential-of-pc-sound-capture/"><u>[Updated] 2024 Approved Unlocking the Full Potential of PC Sound Capture</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-seamlessly-sharing-your-style-macootd-tiktoks/"><u>[Updated] In 2024, Seamlessly Sharing Your Style MacOOTD TikToks</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For OnePlus Nord 3 5G | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/comprehensive-troubleshooting-getting-your-starfield-experience-stable-on-pc/"><u>Comprehensive Troubleshooting: Getting Your Starfield Experience Stable on PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/eliminate-game-disruptions-solve-ready-or-not-stability-issues-on-pc/"><u>Eliminate Game Disruptions: Solve 'Ready or Not' Stability Issues on PC</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-motorola-moto-g-stylus-2023-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Motorola Moto G Stylus (2023) Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-preserve-your-display-win-os-snapshots-explained/"><u>In 2024, Preserve Your Display Win OS Snapshots Explained</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-the-windows-11-error-code-0xc19001e1-step-by-step-fixes/"><u>Resolving the Windows 11 'Error Code 0xC19001E1': Step-by-Step Fixes</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/spotlight-on-deception-unveiling-the-truth-behind-misleading-advertisements/"><u>Spotlight on Deception: Unveiling the Truth Behind Misleading Advertisements</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723003863488-troubleshoot-and-fix-call-of-duty-wwiis-black-screen-trouble-in-windows-with-this-easy-solution/"><u>Troubleshoot and Fix Call of Duty: WWII's Black Screen Trouble in Windows with This Easy Solution</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-elite-arena-showdown-best-of-the-royales/"><u>2024 Approved Elite Arena Showdown Best of the Royales</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-complete-guide-transforming-movie-visuals-using-standardized-luts-from-cg-central/"><u>2024 Approved The Complete Guide Transforming Movie Visuals Using Standardized Luts From CG Central</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cod-modern-warfare-3-game-fixes-successfully-handling-and-resolving-the-unplanned-application-termination/"><u>Cod Modern Warfare 3 Game Fixes: Successfully Handling and Resolving the Unplanned Application Termination</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-edgeplus-2023-support-mov-videos-by-aiseesoft-video-converter-play-mov-on-android/"><u>Does Edge+ (2023) support MOV videos ?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhancing-gameplay-in-dragons-dogma-2-by-boosting-frames-per-second-fps-and-reducing-stutters/"><u>Enhancing Gameplay in Dragon's Dogma 2 by Boosting Frames per Second (FPS) and Reducing Stutters</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fortnite-entry-dilemma-decoded-overcoming-point-not-found-errors/"><u>Fortnite Entry Dilemma Decoded - Overcoming 'Point Not Found' Errors</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-expert-tips-for-crafting-engaging-instagram-stories/"><u>In 2024, Expert Tips for Crafting Engaging Instagram Stories</u></a></li>
+<li><a href="https://win-bits.techidaily.com/navigating-the-world-of-digital-assets-investment-strategies-for-crypto-enthusiasts-with-yl-software/"><u>Navigating the World of Digital Assets: Investment Strategies for Crypto Enthusiasts with YL Software</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-to-overcoming-not-found-entry-problems-in-fortnite/"><u>Step-by-Step Guide to Overcoming 'Not Found' Entry Problems in Fortnite</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-troubleshooting-for-d3dx940dll-errors-not-found-on-windows/"><u>Step-by-Step Troubleshooting for D3dx9_40.dll Errors Not Found on Windows</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/stream-into-the-now-enjoying-real-time-broadcasts-with-roku-and-facebook/"><u>Stream Into The Now Enjoying Real-Time Broadcasts with Roku & Facebook</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/top-ranking-aomei-backupper-the-1-cloud-backup-solution-for-windows-servers-in-202amoebaserver/"><u>Top-Ranking AOMEI Backupper: The #1 Cloud Backup Solution for Windows Servers in 202Amoeba_server</u></a></li>
 </ul></div>
 

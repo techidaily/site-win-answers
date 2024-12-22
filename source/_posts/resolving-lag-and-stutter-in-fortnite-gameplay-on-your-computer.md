@@ -1,7 +1,7 @@
 ---
 title: Resolving Lag and Stutter in Fortnite Gameplay on Your Computer
-date: 2024-12-13T21:01:57.090Z
-updated: 2024-12-20T16:52:08.311Z
+date: 2024-12-17T00:35:03.211Z
+updated: 2024-12-21T23:18:08.718Z
 tags:
   - win11
   - win10
@@ -51,14 +51,14 @@ To keep your graphics driver up-to-date, here are two options for you:
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After the driver update, relaunch the game to see how it works. If the problem persists, there are more fixes to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2 – Optimize graphics settings
 
@@ -68,21 +68,25 @@ To keep your graphics driver up-to-date, here are two options for you:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings-1.jpg)
 2. Click**Desktop app** from the drop-down list and click**Browse** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/dedicated-gpu-3.jpg)
 3. Go to the game’s installation folder and add the**eldenring.exe file** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Once it’s added, click it and select**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/graphics-settings-1.jpg)
 5. Select**High performance** and click**Save** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If this method doesn’t work, try the next solution.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3 – Verify integrity of game files
@@ -96,17 +100,13 @@ If this method doesn’t work, try the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1-1.jpg)
 3. Select**LOCAL FILES** and click**Verify integrity of game files** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-verify-game-files-1.jpg)
 
- It may take a while for Steam to scan and repair the game files, which will replace the wrong files with those from the official server. Now check if you get smoother gameplay. If not, try the next fix below.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ It may take a while for Steam to scan and repair the game files, which will replace the wrong files with those from the official server. Now check if you get smoother gameplay. If not, try the next fix below.
 
 ### Fix 4 – Disable Steam overlay
 
@@ -116,20 +116,20 @@ If this method doesn’t work, try the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. From the game list, right-click Elden Ring and select**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1-1.jpg)
 3. Untick**Enable the Steam Overlay while in-game** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/steam-overlay.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Restart the game and test. Still no luck? Continue to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5 – Disable Microsoft Device Association Root Enumerator
 
@@ -146,10 +146,14 @@ Restart the game and test. Still no luck? Continue to the next fix.
 4. Click**Yes** to confirm.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Test if you has an instant FPS boost. If so, you can enable the device again while you’re not playing the game. If the issue reoccurs, turn the device on and then take a look at the last fix.
 
@@ -163,10 +167,6 @@ Restart the game and test. Still no luck? Continue to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-4.jpg)
 3. Under the**Global Settings** tab, scroll through the list to find**Shader Cache Size** and set it to**Unlimited** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/nvidia-setting.jpg)
 
@@ -194,22 +194,22 @@ Restart the game and test. Still no luck? Continue to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-investigating-the-underreported-drawbacks-of-vr/"><u>[New] 2024 Approved Investigating the Underreported Drawbacks of VR</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-top-15-open-world-games-to-beat-the-climb/"><u>[New] 2024 Approved Top 15 Open World Games to Beat the Climb</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-exploring-androids-lightroom-app-an-in-depth-analysis-for-2024/"><u>[New] Exploring Android's Lightroom App An In-Depth Analysis for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-expert-insights-choosing-the-best-platforms-for-watching-cricket-live-for-2024/"><u>[Updated] Expert Insights Choosing the Best Platforms for Watching Cricket LIVE for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-mysterious-video-issue-with-sony-a6400/"><u>[Updated] In 2024, Mysterious Video Issue with Sony A6400</u></a></li>
-<li><a href="https://win-answers.techidaily.com/easy-steps-to-generate-basic-invoices-in-microsoft-excel/"><u>Easy Steps to Generate Basic Invoices in Microsoft Excel</u></a></li>
-<li><a href="https://win-answers.techidaily.com/easy-tutorial-on-building-histograms-with-microsoft-excel/"><u>Easy Tutorial on Building Histograms with Microsoft Excel</u></a></li>
-<li><a href="https://win-answers.techidaily.com/easy-tutorial-on-uploading-and-converting-your-excel-file-into-google-sheets/"><u>Easy Tutorial on Uploading and Converting Your Excel File Into Google Sheets</u></a></li>
-<li><a href="https://win-answers.techidaily.com/efficient-excel-techniques-how-to-locate-and-update-textual-content-and-numerical-values-instantly/"><u>Efficient Excel Techniques: How to Locate and Update Textual Content and Numerical Values Instantly</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/efficient-fix-overcoming-tarkovs-graphics-hitch/"><u>Efficient Fix: Overcoming Tarkov's Graphics Hitch</u></a></li>
-<li><a href="https://win-answers.techidaily.com/efficient-techniques-to-perform-column-multiplication-using-microsoft-excel/"><u>Efficient Techniques to Perform Column Multiplication Using Microsoft Excel</u></a></li>
-<li><a href="https://win-answers.techidaily.com/enhanced-data-mastery-in-microsoft-excel-with-the-introduction-of-cutting-edge-copilot-capabilities/"><u>Enhanced Data Mastery in Microsoft Excel with the Introduction of Cutting-Edge Copilot Capabilities</u></a></li>
-<li><a href="https://win-answers.techidaily.com/exploring-the-unique-aspects-of-windows-10-s-a-comparative-insight/"><u>Exploring the Unique Aspects of Windows 10 S - A Comparative Insight</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/gratis-wav-to-swf-konverteren-betrouwbare-online-toegang-movavi/"><u>Gratis WAV-to-SWF Konverteren: Betrouwbare Online Toegang - Movavi</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-infinix-hot-40-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Infinix Hot 40?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/innovative-data-compiling-tools-unveiled-in-recent-microsoft-excel-enhancement/"><u>Innovative Data Compiling Tools Unveiled in Recent Microsoft Excel Enhancement</u></a></li>
-<li><a href="https://fox-http.techidaily.com/top-6-metaverse-case-studies-for-in-depth-understanding/"><u>Top 6 Metaverse Case Studies for In-Depth Understanding</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-brush-up-your-youtube-videos-with-color-correction/"><u>[New] In 2024, Brush Up Your Youtube Videos with Color Correction</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-capture-unrooted-android-sounds-4-techniques/"><u>[New] In 2024, Capture Unrooted Android Sounds 4 Techniques</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-free-iphones-masterclass-perfect-your-pictures-with-simple-edits/"><u>[New] In 2024, FREE iPhones Masterclass Perfect Your Pictures with Simple Edits</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-the-bugs-expert-tips-and-tricks-to-resolve-assassins-creed-valhalla-crashes-on-windows-machines/"><u>Beat the Bugs: Expert Tips and Tricks to Resolve Assassin's Creed Valhalla Crashes on Windows Machines</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bypassing-the-error-code-0xc0000005-in-call-of-duty-black-ops-cold-war-gameplay/"><u>Bypassing the Error Code 0xC0000005 in Call of Duty Black Ops Cold War Gameplay</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-solutions-for-overcoming-error-code-421-in-genshin-impact/"><u>Effective Solutions for Overcoming Error Code 42지오1 in Genshin Impact</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-accelerate-your-streaming-career-utilizing-obs-capabilities/"><u>In 2024, Accelerate Your Streaming Career Utilizing OBS Capabilities</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-on-apple-iphone-13-pro-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID On Apple iPhone 13 Pro Making It Possible</u></a></li>
+<li><a href="https://win-answers.techidaily.com/outriders-optimization-guide-overcoming-low-fps-challenges/"><u>Outriders Optimization Guide: Overcoming Low FPS Challenges</u></a></li>
+<li><a href="https://win-answers.techidaily.com/rogue-company-end-the-frustration-of-frequent-pc-game-disruptions-with-these-fixes/"><u>Rogue Company: End the Frustration of Frequent PC Game Disruptions with These Fixes</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/streaming-first-look-7-key-sites-for-upcoming-film-preview-galore/"><u>Streaming First Look: 7 Key Sites for Upcoming Film Preview Galore</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-definitive-fix-to-stop-overwatch-from-crashing-due-to-graphics-drivers/"><u>The Definitive Fix to Stop Overwatch From Crashing Due to Graphics Drivers</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/the-ultimate-guide-to-professional-streaming-on-fb-for-2024/"><u>The Ultimate Guide to Professional Streaming on FB for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unstuck-playtime-7-strategies-to-bypass-the-stubborn-load-screen-in-forza-horizon-5/"><u>Unstuck Playtime: 7 Strategies to Bypass the Stubborn Load Screen in Forza Horizon 5</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/unveiling-the-changes-in-chinese-social-fabric-post-cultural-revolution-an-analysis-from-yl-computing-and-yl-software-perspective/"><u>Unveiling the Changes in Chinese Social Fabric Post-Cultural Revolution: An Analysis From YL Computing and YL Software Perspective</u></a></li>
+<li><a href="https://win-webster.techidaily.com/urgent-fix-needed-microsofts-challenge-with-windows-11-looms-as-deadline-approaches-insights-from-zdnet/"><u>Urgent Fix Needed: Microsoft's Challenge with Windows 11 Looms as Deadline Approaches - Insights From ZDNet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/vrchat-stability-guide-eight-key-solutions-to-prevent-your-game-from-crashing-on-windows/"><u>VRChat Stability Guide: Eight Key Solutions to Prevent Your Game From Crashing on Windows</u></a></li>
 </ul></div>
 

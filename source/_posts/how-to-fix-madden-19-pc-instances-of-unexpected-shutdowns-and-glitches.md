@@ -1,7 +1,7 @@
 ---
 title: How to Fix Madden 19 PC Instances of Unexpected Shutdowns and Glitches
-date: 2024-12-16T16:16:06.702Z
-updated: 2024-12-20T17:04:54.182Z
+date: 2024-12-15T23:24:47.172Z
+updated: 2024-12-21T20:29:31.859Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix Dark Souls 3 crashing
 
  Here are solutions to fix Dark Souls 3 crashing on PC. You shouldn’t have to try them all; just work your way down the list until everything’s working again.
@@ -40,19 +44,11 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 
 **Try disabling overlays for Dark Souls 3** and see if your game stops crashing.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Run in Windowed mode
 
  If you play Dark Souls 3 in Fullscreen mode, it may crash to your desktop. In this case, you can fix your game crashing problem by switching to**Windowed mode** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-708.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can go to the game options and change to Windowed mode, then re-launch your game to see if it works.
 
@@ -64,6 +60,10 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-710.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Open**DarkSouls3** folder.
 
  4) Open**GraphicsConfig.xml** with notepad. Then change  
@@ -74,10 +74,6 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
  5) Save your change and restart your game.
 
  Your problem still persists, don’t worry. There are other solutions.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your video driver
 
@@ -97,23 +93,19 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-706.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click_Update All_ ).
 
  Note: You can do it for free if you like, but it’s partly manual.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-707.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Once your driver has been updated, restart your computer.
 
 Now launch Dark Souls 3 and see if it works.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Set game options to LOW
 
@@ -123,6 +115,10 @@ Now launch Dark Souls 3 and see if it works.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-709.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If you can’t access the in-game settings, try this:
 
  1) On your keyboard, press the**Windows logo key** and**R** at the same time to open the Run box.
@@ -130,6 +126,10 @@ If you can’t access the in-game settings, try this:
  2) Type**_%appdata%_** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-710.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Open**DarkSouls3** folder.
 
@@ -155,6 +155,10 @@ Then play your game to see if it works properly.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-702.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Right click on**Dark Souls 3** , and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-703.png)
@@ -162,10 +166,6 @@ Then play your game to see if it works properly.
  4) Click the**Local files** tab, and click**Verify Integrity Of Game Files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-705.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Steam will check your game files and fix any detected problems. Follow the on-screen instructions to finish the process.
 
@@ -192,18 +192,22 @@ Then play your game to see if it works properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-focus-on-subjects-only-efficient-backdrop-elimination-techniques/"><u>[New] Focus on Subjects Only Efficient Backdrop Elimination Techniques</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-top-tools-for-capturing-call-of-duty-warzone/"><u>[Updated] Top Tools for Capturing Call of Duty Warzone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/battlefield-2042-secure-how-the-latest-fixes-enhance-fps-and-eliminate-stutter-for-pc-players/"><u>Battlefield 2042 SECURE: How the Latest Fixes Enhance FPS & Eliminate Stutter for PC Players</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/free-and-powerful-discover-how-copilot-harnesses-gpt-4-turbo-like-never-before/"><u>Free and Powerful: Discover How Copilot Harnesses GPT-4 Turbo Like Never Before!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-rectify-instances-of-netflix-having-issues-streaming-a-selected-title/"><u>How to Rectify Instances of Netflix Having Issues Streaming a Selected Title</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-on-iphone-xs-max-find-the-best-solution-here-by-drfone-ios/"><u>In 2024, Apple ID Locked for Security Reasons On iPhone XS Max? Find the Best Solution Here</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-realtime-hd-uplift-for-pc-mac-and-online-devices/"><u>In 2024, RealTime HD Uplift for PC, Mac & Online Devices</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-tecno-spark-go-2024-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Tecno Spark Go (2024) without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/inside-look-what-gamers-can-expect-from-rainbow-six-sieges-freezing-update/"><u>Inside Look: What Gamers Can Expect From Rainbow Six Siege's Freezing Update</u></a></li>
-<li><a href="https://review-topics.techidaily.com/realme-c67-4g-music-recovery-recover-deleted-music-from-realme-c67-4g-by-fonelab-android-recover-music/"><u>Realme C67 4G Music Recovery - Recover Deleted Music from Realme C67 4G</u></a></li>
-<li><a href="https://win-answers.techidaily.com/red-dead-redemption-2-technical-glitches-solved-say-goodbye-to-lag/"><u>Red Dead Redemption 2 Technical Glitches Solved - Say Goodbye to Lag!</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-the-graphics-driver-crashed-bug-for-smoother-valorant-gameplay/"><u>Solving the 'Graphics Driver Crashed' Bug for Smoother Valorant Gameplay</u></a></li>
-<li><a href="https://win-answers.techidaily.com/the-complete-2024-solutions-manual-fixing-persistent-freezing-in-firefox/"><u>The Complete 2024 Solutions Manual: Fixing Persistent Freezing in Firefox</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-thunder-tier-one-keeps-crashing-on-pc/"><u>[SOLVED] Thunder Tier One Keeps Crashing on PC</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-learn-the-ultimate-snap-sharing-trick-today/"><u>[Updated] 2024 Approved Learn the Ultimate Snap Sharing Trick Today</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-ice-acceleration-showdown-at-the-olympics-2022/"><u>[Updated] Ice Acceleration Showdown at the Olympics, 2022</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-end-screen-design-made-easy-with-our-templates-and-tutorials/"><u>2024 Approved End-Screen Design Made Easy with Our Templates & Tutorials</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-making-the-most-of-both-worlds-obs-and-zoom-guide/"><u>2024 Approved Making the Most of Both Worlds OBS & Zoom Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-xiaomi-redmi-note-13-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/accelerate-your-ark-adventures-expert-strategies-for-higher-fps-performance-on-pc/"><u>Accelerate Your ARK Adventures: Expert Strategies for Higher FPS Performance on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhance-cyberpunk-2077-performance-with-these-tips-to-eliminate-frame-drops/"><u>Enhance Cyberpunk 2077 Performance with These Tips to Eliminate Frame Drops</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-unlock-ultimate-performance-with-best-video-controller-add-ons/"><u>In 2024, Unlock Ultimate Performance with Best Video Controller Add-Ons</u></a></li>
+<li><a href="https://win-latest.techidaily.com/pending-offline-files-on-windows-10-unlock-quick-solutions-to-get-back-on-track/"><u>Pending Offline Files on Windows 10: Unlock Quick Solutions to Get Back on Track!</u></a></li>
+<li><a href="https://facebook.techidaily.com/step-by-step-renaming-yourself-in-the-digital-age/"><u>Step-by-Step: Renaming Yourself in the Digital Age</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stop-mordhau-from-crashing-expert-advice-on-how-to-resolve-game-errors/"><u>Stop Mordhau From Crashing: Expert Advice on How to Resolve Game Errors</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stop-steam-from-freezing-simple-solutions-for-a-smooth-experience/"><u>Stop Steam From Freezing: Simple Solutions for a Smooth Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-strategies-for-achieving-maximum-fps-in-ark-survival-ascended-pc-gaming/"><u>Top Strategies for Achieving Maximum FPS in ARK: Survival Ascended PC Gaming</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steam-performance-problems-fixes-for-unresponsive-moments-2eepzing-issues/"><u>Troubleshooting Steam Performance Problems – Fixes for Unresponsive Moments, 2Eepzing Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-to-overcoming-persistent-crashing-issues-with-nox-player-on-pcs/"><u>Ultimate Guide to Overcoming Persistent Crashing Issues with Nox Player on PCs</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-android-video-editor-showdown-top-10-free-and-paid-picks/"><u>Updated Android Video Editor Showdown Top 10 Free and Paid Picks</u></a></li>
 </ul></div>
 

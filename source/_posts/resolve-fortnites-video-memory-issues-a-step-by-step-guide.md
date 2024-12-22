@@ -1,7 +1,7 @@
 ---
 title: "Resolve Fortnite's Video Memory Issues: A Step-by-Step Guide"
-date: 2024-12-14T17:40:00.185Z
-updated: 2024-12-20T17:42:01.251Z
+date: 2024-12-15T16:15:06.256Z
+updated: 2024-12-21T22:44:24.112Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Here’s a list of fixes that have resolved this problem for other LoL players. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -37,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
 * [Fix 5: Enable low spec mode](https://tools.techidaily.com/drivereasy/download/)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your PC meets meets the system requirements for League of Legends
 
@@ -91,6 +91,10 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee.
@@ -98,7 +102,7 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-84.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
@@ -113,10 +117,6 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-62-1024x796.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
@@ -126,6 +126,10 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
 4) Restart Windows and run League of Legends again.
 
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted game files
 
@@ -141,15 +145,15 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Click**Yes** to continue. This may take a while.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Enable low spec mode
 
@@ -162,10 +166,6 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
 2) In the upper-right corner, click**the gear button**  to open the game settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
@@ -193,24 +193,18 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-answers.techidaily.com/solved-world-of-tanks-blitz-keeps-crashing/"><u>[Solved] World of Tanks Blitz Keeps Crashing</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-jumpstart-your-filming-setups-8-sites-offering-free-eco-screens/"><u>[Updated] 2024 Approved Jumpstart Your Filming Setups - 8 Sites Offering Free Eco-Screens</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-essential-choices-for-premium-video-calls-on-smartphones/"><u>2024 Approved Essential Choices for Premium Video Calls on Smartphones</u></a></li>
-<li><a href="https://win-answers.techidaily.com/bug-resolution-keeping-your-gas-station-simulation-stable-on-windows-pcs/"><u>Bug Resolution: Keeping Your Gas Station Simulation Stable on Windows PCs</u></a></li>
-<li><a href="https://win-answers.techidaily.com/common-fixes-for-the-persona-3-reload-failure-to-start-dilemma/"><u>Common Fixes for the Persona 3 Reload Failure to Start Dilemma</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723010281172-fix-unable-to-connect-to-the-live-configuration-servers-error/"><u>Fix: ‘Unable to Connect to the Live Configuration Servers’ Error</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-video-card-error-in-the-sims-4-expert-tips-and-tricks/"><u>Fixing the 'Video Card Error' In The Sims 4: Expert Tips & Tricks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/historical-context-understanding-ethereums-inception/"><u>Historical Context: Understanding Ethereum's Inception</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/key-approaches-to-microphone-and-computer-speaker-documentation-for-2024/"><u>Key Approaches to Microphone & Computer Speaker Documentation for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/optimizing-fps-for-a-smoother-forza-horizon-5-experience-on-computer/"><u>Optimizing FPS for a Smoother Forza Horizon 5 Experience on Computer</u></a></li>
-<li><a href="https://common-error.techidaily.com/revive-broken-keyboard-arrows-expert-advice-for-swift-repairs/"><u>Revive Broken Keyboard Arrows: Expert Advice for Swift Repairs</u></a></li>
-<li><a href="https://win-answers.techidaily.com/smooth-gameplay-ensured-fixing-the-crashes-in-naraka-bladepoint-successfully/"><u>Smooth Gameplay Ensured - Fixing the Crashes in Naraka: Bladepoint Successfully</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-infinix-note-30i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Infinix Note 30i | Dr.fone</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/transform-your-discord-experience-with-top-bot-choices-for-2024/"><u>Transform Your Discord Experience with Top Bot Choices for 2024</u></a></li>
-<li><a href="https://solve-news.techidaily.com/trasforma-i-file-m2ts-online-e-gratis-usando-il-software-di-movavi/"><u>Trasforma I File M2TS Online E Gratis Usando Il Software Di Movavi</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-cyberpunk-2077-wont-utilize-graphics-card-in-windows-10/"><u>Troubleshooting: Cyberpunk 2077 Won't Utilize Graphics Card in Windows 10</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/ultimate-list-of-the-best-handheld-video-games-mobile-edition/"><u>Ultimate List of the Best Handheld Video Games (Mobile Edition)</u></a></li>
-<li><a href="https://win-answers.techidaily.com/understanding-the-impact-of-season-8-updates-on-fortnites-frame-rate-and-gameplay-experience/"><u>Understanding the Impact of Season 8 Updates on Fortnite's Frame Rate and Gameplay Experience</u></a></li>
-<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-motorola-moto-g-5g-2023-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Motorola Moto G 5G (2023)? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-comparing-sns-hdrs-capabilities-with-competitor-software/"><u>[New] Comparing SNS HDR's Capabilities with Competitor Software</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-elevate-your-virtual-engagement-with-snap-capabilities-in-meet/"><u>[New] In 2024, Elevate Your Virtual Engagement with Snap Capabilities in Meet</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-reclaim-lost-chatter-in-shared-tweeted-films/"><u>2024 Approved Reclaim Lost Chatter in Shared Tweeted Films</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-strategies-to-address-and-fix-the-nwstore-exe-error-on-windows/"><u>Effective Strategies to Address and Fix the NW_Store Exe Error on Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/essential-solutions-for-fixing-internet-explorer-malfunctions/"><u>Essential Solutions for Fixing Internet Explorer Malfunctions</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-vivo-v30-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Vivo V30? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-resolve-counter-strike-2-crashing-problems-on-your-computer/"><u>How to Resolve Counter-Strike 2 Crashing Problems on Your Computer</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-comparative-study-top-software-for-webcam-recording/"><u>In 2024, Comparative Study Top Software for Webcam Recording</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-vivo-x-fold-2-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Vivo X Fold 2 FRP</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-transform-your-movies-tips-for-amazing-slow-motion-on-android-phones/"><u>In 2024, Transform Your Movies Tips for Amazing Slow Motion on Android Phones</u></a></li>
+<li><a href="https://win-answers.techidaily.com/increase-your-fps-on-rainbow-six-extraction-a-comprehensive-guide/"><u>Increase Your FPS on Rainbow Six Extraction - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-issues-when-internet-explorer-stops-responding/"><u>Resolving Issues: When Internet Explorer Stops Responding</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-resolving-no-match-situations-in-warzone-on-pc/"><u>Troubleshooting Steps: Resolving No-Match Situations in Warzone on PC</u></a></li>
 </ul></div>
 

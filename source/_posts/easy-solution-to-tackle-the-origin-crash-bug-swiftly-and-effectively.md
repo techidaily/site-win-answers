@@ -1,7 +1,7 @@
 ---
 title: Easy Solution to Tackle the 'Origin Crash' Bug Swiftly and Effectively!
-date: 2024-12-16T19:09:16.257Z
-updated: 2024-12-20T19:29:17.865Z
+date: 2024-12-16T17:19:30.252Z
+updated: 2024-12-22T01:10:01.785Z
 tags:
   - win11
   - win10
@@ -47,7 +47,7 @@ OR
 **[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/how-to-fix-steam-black-screen-or-not-working/#option2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 1 – Manually update your drivers
@@ -55,6 +55,10 @@ OR
 [NVIDIA](https://tools.techidaily.com/drivereasy/download/) and [AMD](https://www.amd.com/en/support) keep releasing driver updates. To get them, you need to go to the official websites, find the correct drivers, and download them manually.
 
  Once you’ve downloaded the drivers, double-click on the downloaded file and follow the on-screen instructions to install the drivers.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Option 2 – Automatically update your drivers**
 
@@ -69,7 +73,7 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/update-drivers-scan-now.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -78,13 +82,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, restart your computer and open Steam client to check if the issue is fixed. If not, try the other fixes below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Delete web browser cache
 
@@ -108,19 +112,11 @@ Here’s how you can do this:
 
  1) On your keyboard, press the **Windows logo key** ![windows logo key](https://images.drivereasy.com/wp-content/uploads/2020/10/Windows.png) and **E**  at the same time to open File Explorer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Navigate to**Windows (C:) > Program Files (×86) > Steam** to go to the Steam directory.
 
  3) Copy and paste the**appcache folder** to a safe location just in case something goes wrong.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/appcache-folder.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Now you can**delete the appcache folder** in your Steam directory. Then try starting Steam again. If it works well, you can then go and delete the original backup appcache folder as a healthy new one will be created in its place.
 
@@ -134,10 +130,6 @@ To participate in the Steam Client beta, follow the instructions below:
 
 ![delete web browser cache Steam](https://images.drivereasy.com/wp-content/uploads/2020/10/settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Select the**Account** tab. Under the**Beta Participation** section, click the**CHANGE…** button.  
   
 ![participate in Steam Client beta](https://images.drivereasy.com/wp-content/uploads/2020/10/participate-in-Steam-Client-beta-1.jpg)
@@ -146,6 +138,10 @@ To participate in the Steam Client beta, follow the instructions below:
  You will be prompted to restart Steam, please select the “Restart Steam” button.
 
  After you’ve done this, try restarting Steam to see if the issue persists. If it didn’t do the trick for you, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Add –no-cef-sandbox in your Steam shortcut
 
@@ -156,7 +152,7 @@ To participate in the Steam Client beta, follow the instructions below:
 ![Steam Propertites](https://images.drivereasy.com/wp-content/uploads/2020/10/Steam-Properties.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click the**Shortcut** tab. In the**Target** section, type**\-no-cef-sandbox** at the end. Then click**Apply > OK** .  
@@ -176,11 +172,19 @@ Now try opening Steam client to check if it works.
 
  2) On your keyboard, press the **Windows logo key** ![windows logo key](https://images.drivereasy.com/wp-content/uploads/2020/10/Windows.png) and **E**  at the same time to open File Explorer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Navigate to**Windows (C:) > Program Files (×86) > Steam** to go to the Steam directory.
 
  4) Delete everything except**steamapps** ,**userdata,** and**steam.exe** **(steam Application)** .
 
  5) Double-click**Steam.exe** and let it reinstall.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## If your problem persists…
 
@@ -193,10 +197,6 @@ Now try opening Steam client to check if it works.
  3) Click **Start Repair** to start the repair process and wait for Fortect to fix the problem.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -220,19 +220,22 @@ Now try opening Steam client to check if it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-expert-techniques-for-stellar-titling-for-2024/"><u>[New] Expert Techniques for Stellar Titling for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-minipic-snapshot-scrutiny-plus-diverse-apps/"><u>[New] MiniPic Snapshot Scrutiny + Diverse Apps</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-advanced-image-manipulation-with-pixlr-tips/"><u>[Updated] Advanced Image Manipulation with Pixlr Tips</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-vr-game-engine-picks-2023/"><u>2024 Approved The Ultimate Guide to VR Game Engine Picks, 2023</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/boost-your-portuguese-skills-with-these-six-essential-techniques/"><u>Boost Your Portuguese Skills with These Six Essential Techniques</u></a></li>
-<li><a href="https://extra-information.techidaily.com/celestial-canvas-unveiled-select-10-sites-for-high-quality-skies-for-2024/"><u>Celestial Canvas Unveiled Select 10 Sites for High-Quality Skies for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-tips-for-building-and-maintaining-your-meditation-habit/"><u>ChatGPT Tips for Building and Maintaining Your Meditation Habit</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723005557337-code-vein-stuck-heres-how-to-get-unstuck-and-back-on-track/"><u>Code Vein Stuck? Here's How to Get Unstuck and Back on Track!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/diagnosing-and-repairing-minecraft-launchers-0x80amoor-windows-1110-users-heres-how/"><u>Diagnosing and Repairing Minecraft Launcher's 0X80amoor: Windows 11/10 Users, Here's How</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-tips-for-resolving-continuous-blender-breakdowns-on-personal-computers/"><u>Expert Tips for Resolving Continuous Blender Breakdowns on Personal Computers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-issue-how-to-stop-red-dead-redemption-2-from-freezing-on-your-pc/"><u>Fixing the Issue: How to Stop Red Dead Redemption 2 From Freezing on Your PC</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/mastering-marker-techniques-for-efficient-video-cutting/"><u>Mastering Marker Techniques for Efficient Video Cutting</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-troubleshooting-tips-to-optimize-persona-5-strikers-performance-on-desktop-systems/"><u>Mastering Troubleshooting Tips to Optimize Persona 5 Strikers Performance on Desktop Systems</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-guide-restore-your-computer-when-bootmgr-cant-be-found/"><u>Troubleshooting Guide: Restore Your Computer When BOOTMGR Can’t Be Found ⚙️</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-channel-your-content-earning-through-evaluative-endeavors-online-for-2024/"><u>[New] Channel Your Content Earning Through Evaluative Endeavors Online for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-peak-hours-for-releasing-podcasts-for-2024/"><u>[New] Peak Hours for Releasing Podcasts for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-sns-hdr-pro-review-is-it-worth-using-and-what-other-hdr-software-to-u-for-2024/"><u>[New] SNS HDR Pro Review Is It Worth Using and What Other HDR Software to U for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-setting-up-zoom-like-a-pro/"><u>[Updated] In 2024, Setting Up Zoom Like a Pro</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-transform-your-brand-with-powerful-fb-video-messaging/"><u>2024 Approved Transform Your Brand with Powerful FB Video Messaging</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ing-connections-through-collaborative-playlists-for-2024/"><u>Building Connections Through Collaborative Playlists for 2024</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/easy-steps-how-to-access-and-read-epub-documents-on-your-computer/"><u>Easy Steps: How To Access & Read EPUB Documents On Your Computer</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-vivo-y100-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Vivo Y100 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-5-solutions-for-nubia-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Nubia Unlock Without Password</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-launch-troubleshooting-how-to-successfully-boot-valorant-pc-version-updated-tips-for-202e/"><u>Mastering Launch Troubleshooting: How to Successfully Boot Valorant PC Version (Updated Tips for 202E)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-performance-issues-enhancing-forza-horizon-tpc-gameplay-quality/"><u>Overcoming Performance Issues - Enhancing Forza Horizon Tpc Gameplay Quality</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-guide-to-accelerating-origin-download-speeds-key-tips-and-tricks-of-2024/"><u>Quick Guide to Accelerating Origin Download Speeds - Key Tips and Tricks of 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-the-issue-saints-row-failure-to-start-on-your-computer-faqs-and-solutions/"><u>Resolving the Issue: Saints Row Failure to Start on Your Computer | FAQs & Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723012930110-substituents-on-the-ring-affect-reactivity-electron-donating-groups-increase-it-while-electron-withdrawing-groups-decrease-it/"><u>Substituents on the Ring Affect Reactivity; Electron-Donating Groups Increase It, While Electron-Withdrawing Groups Decrease It</u></a></li>
+<li><a href="https://win-answers.techidaily.com/team-fortress-2-stability-overcoming-persistent-crash-issues-with-effective-fixes/"><u>Team Fortress 2 Stability: Overcoming Persistent Crash Issues with Effective Fixes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-the-penultimate-period-not-starting-on-desktop-systems/"><u>Troubleshooting Steps for the 'Penultimate Period' Not Starting on Desktop Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/why-hasnt-elden-ring-debuted-yet-insight-into-its-delayed-arrival/"><u>Why Hasn’t Elden Ring Debuted Yet? Insight Into Its Delayed Arrival</u></a></li>
 </ul></div>
 

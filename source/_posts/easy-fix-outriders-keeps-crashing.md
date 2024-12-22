@@ -1,7 +1,7 @@
 ---
 title: "Easy Fix: Outriders Keeps Crashing"
-date: 2024-08-19T02:08:03.237Z
-updated: 2024-08-20T02:08:03.237Z
+date: 2024-12-16T19:53:32.463Z
+updated: 2024-12-21T18:57:30.064Z
 tags:
   - win11
   - win10
@@ -52,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/ac6fcc85e0fde61250c72c7455cdeba283035fd7f
 
  You can also check out the[recommended specifications](https://tools.techidaily.com/drivereasy/download/) if needed.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Run as administrator
 
  Sometimes your system doesn’t give your game enough permissions for it to launch. So you may want to grant the game administrative rights for it to function properly. To run as administrator:
@@ -67,16 +71,19 @@ thumbnail: https://thmb.techidaily.com/ac6fcc85e0fde61250c72c7455cdeba283035fd7f
 2. Under**LOCAL FILES** , click**Browse** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-11_11-51-05.jpg)
 3. Once you locate your game files, right-click**OUTRIDERS-Win64-Shipping.exe** , then select**Run as administrator** . If prompted for permission, click Yes.  
+
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-11_11-52-07.jpg)
 
  Check if you can launch Outriders. If this doesn’t help, try the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Verify game files integrity
 
  If some of your game files are missing or corrupted, the game may fail to launch. You can verify the integrity of the game files for it to launch properly:
@@ -95,11 +102,12 @@ thumbnail: https://thmb.techidaily.com/ac6fcc85e0fde61250c72c7455cdeba283035fd7f
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-11_12-12-55.jpg)
 3. It could take a few minutes for the scan to complete depending on the size. If anything’s missing or damaged, Steam will add the required files to your local folder.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once complete, launch the game to see if the problem persists. If this doesn’t give you luck, move on to the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Update your graphics driver
 
  An outdated or faulty graphics driver is a common reason of game launching failure. You may want to update your graphics card driver, to make sure it’s functioning properly.
@@ -118,9 +126,6 @@ thumbnail: https://thmb.techidaily.com/ac6fcc85e0fde61250c72c7455cdeba283035fd7f
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
@@ -149,9 +154,6 @@ thumbnail: https://thmb.techidaily.com/ac6fcc85e0fde61250c72c7455cdeba283035fd7f
 4. Click**Browse** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-11_15-07-37.jpg)
 5. Navigate to the folder containing your game files.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 
  For Steam, it’s in**C:Program Files (x86)Steamsteamappscommon** by default.  
 
@@ -160,17 +162,11 @@ thumbnail: https://thmb.techidaily.com/ac6fcc85e0fde61250c72c7455cdeba283035fd7f
  Once you locate**OUTRIDERS-Win64-Shipping.exe** , select it then click**Open** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-11_14-50-02.jpg)
 6. Click**Add** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-11_14-49-01.jpg)
 7. Check the box of the network type you would allow Outriders to access. If you play at home or at friend’s, check**Private** . Then click**OK** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you play on a domain network or public network, you can check the boxes of these two options as well. Note that there could be connectivity issues and security concerns.  
@@ -197,9 +193,9 @@ No advertising on the website.
 If this fix doesn’t help, try the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Check your Razer software
 
  This solution is for those using Razer software. If you don’t have any installed on your PC,[skip to the last solution](https://tools.techidaily.com/drivereasy/download/) .
@@ -212,8 +208,9 @@ If this fix doesn’t help, try the next solution.
  Check if you’re able to launch Outriders. If you’ve tried the above solutions but still no luck, we have one last fix for you.
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6: Reinstall Outriders
 
  It’s possible that Outriders won’t launch because the previous installation is incomplete or interrupted. Reinstalling the game can solve the not-launching issue in some cases. To reinstall Outriders:
@@ -223,6 +220,11 @@ If this fix doesn’t help, try the next solution.
 1. Find Outriders in your library. Right-click the game, select**Manage** then click**Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-11_17-19-29.jpg)
 2. Once Outrider’s removed from your computer, you’ll see the option to install the game on the Outrider’s page from your library.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Reinstall the game.
 
 **On Epic Games Launcher:**
@@ -231,9 +233,6 @@ If this fix doesn’t help, try the next solution.
 2. Click**Uninstall** .
 3. Once the game is uninstalled, restart your Epic Games Launcher and reinstall the game.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Additional Notes
 
  1: Check out the**recommended PC specifications** to run Outriders below if needed:
@@ -264,8 +263,6 @@ If this fix doesn’t help, try the next solution.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -273,4 +270,16 @@ If this fix doesn’t help, try the next solution.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-crown-jewels-of-community-engagement-on-reddit-top-10/"><u>[New] 2024 Approved Crown Jewels of Community Engagement on Reddit - Top 10</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-the-ultimate-manual-to-assembling-a-top-tier-4k-editing-pc/"><u>[Updated] 2024 Approved The Ultimate Manual to Assembling a Top-Tier 4K Editing PC</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-search-comments-on-youtube-quickly-in-2024/"><u>[Updated] How to Search Comments on YouTube Quickly, In 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/44cm5zci5rov55qe44gr44od44or44oo44op44ow44kz44oz44og44oz44oe44ks44oa44km44oz44ot44o844oj44o744k744kt44ol44oq44og44kj56k65lplusd77ya5a6f55so44ks44kk44oj44cn.79/"><u>「合法的にポルノハブコンテンツをダウンロード・セキュリティ確保：実用ガイド」</u></a></li>
+<li><a href="https://win-answers.techidaily.com/adobe-premiere-pro/"><u>Adobe Premiere Pro: ファイル読み込み不具合解消法</u></a></li>
+<li><a href="https://win-answers.techidaily.com/best-practices-for-reducing-size-of-mpeg-video-files-software-solutions-for-pcmac-users/"><u>Best Practices for Reducing Size of MPEG Video Files: Software Solutions for PC/Mac Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/burning-iso-files-to-dvd-in-windows-top-2-no-cost-techniques-for-windows-11-and-earlier-versions/"><u>Burning ISO Files to DVD in Windows - Top 2 No-Cost Techniques for Windows 11 & Earlier Versions</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-guide-resolving-windows-11-and-11-bluetooth-sound-stuttering-problems/"><u>Solution Guide: Resolving Windows 11 & 11 Bluetooth Sound Stuttering Problems</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Defeat Anthem's Persistent Startup Hurdle Successfully
-date: 2024-12-16T19:23:31.884Z
-updated: 2024-12-20T16:17:43.965Z
+date: 2024-12-16T01:31:54.941Z
+updated: 2024-12-21T20:03:05.881Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/b97dc23b10dda7eac6c715a762ae77f278d32f493
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -49,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/b97dc23b10dda7eac6c715a762ae77f278d32f493
 2. Click**Allow an app or feature through Windows Defender Firewall** from the left pane.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-defender-firewall-2.jpg)
@@ -59,7 +59,7 @@ thumbnail: https://thmb.techidaily.com/b97dc23b10dda7eac6c715a762ae77f278d32f493
 4. Scroll down to locate Lost Ark. Then**check the boxes under the Domain, Private and Public tabs** , and click**OK** to save the settings.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/windows-denfender-firewall-lost-ark.jpg)
@@ -67,6 +67,10 @@ thumbnail: https://thmb.techidaily.com/b97dc23b10dda7eac6c715a762ae77f278d32f493
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-defender-firewall-4.jpg)
 6. Click**Browse** , navigate to the Lost Ark installation folder and choose the**LostArk.exe file** . Then click**Add** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7. Make sure the game is allowed for Domain, Private and Public access, and click**OK** to confirm the changes.
 
@@ -87,6 +91,10 @@ Now see if you could start the game. If not, try the next method.
 
  It may take a couple of minutes for the process to complete. Once done, restart the game to test the issue. If the problem persists, move on to more fixes below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3 – Update your graphics driver
 
  Game issues are usually driver-related. If you’re using a broken or outdated graphics driver, Lost Ark may not launch the right way. To gain the best in-game performance, you should update your graphics drivers regularly.
@@ -100,12 +108,12 @@ Now see if you could start the game. If not, try the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also get the drivers you need for free, but you’ll need to download them one at a time and manually install it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -121,10 +129,6 @@ Now see if you could start the game. If not, try the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/run-as-administrator-lost-ark-2.jpg)
 3. Select the**Compatibility** tab. Tick**Disable full-screen optimizations** and**Run this program as an administrator** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/run-as-administrator-lost-ark-1.jpg)
 4. Click**OK** .
 
@@ -138,16 +142,16 @@ Now see if you could start the game. If not, try the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/taks-manager-1.jpg)
 2. Select the program and click**End task** until you close all the unneeded applications.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2022/02/taks-manager-2.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/02/taks-manager-2.jpg)
 
  Restart and check the game. If it still can’t get past the loading screen, continue to Fix 6.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6 – Switch to DX9
@@ -160,10 +164,6 @@ Now see if you could start the game. If not, try the next method.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-1.jpg)
 3. Under Launch Options, type**\-force-d3d9** and close the window.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/swtich-to-dx9.jpg)
 
@@ -181,7 +181,7 @@ Now see if you could start the game. If not, try the next method.
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
@@ -213,24 +213,20 @@ Restart your game and check if Lost Ark goes back to the normal state.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-logging-live-audio-on-the-go-a-user-friendly-manual/"><u>[New] Logging Live Audio On-the-Go A User-Friendly Manual</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-tailoring-content-to-engage-an-igtv-video-dimension-blueprint/"><u>[Updated] 2024 Approved Tailoring Content to Engage An IGTV Video Dimension Blueprint</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-insiders-look-at-xvision-prodigy-studio-an-all-inclusive-guide/"><u>[Updated] In 2024, Insider's Look at XVision Prodigy Studio - An All-Inclusive Guide</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Motorola Defy 2 | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-xiaomi-redmi-a2-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Xiaomi Redmi A2 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/accelerate-your-pc-expert-advice-and-strategies-from-yl-computings-latest-guide/"><u>Accelerate Your PC: Expert Advice and Strategies From YL Computing's Latest Guide</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/android-no-cost-video-capture-tool/"><u>Android No-Cost Video Capture Tool</u></a></li>
-<li><a href="https://win-answers.techidaily.com/common-issues-and-fixes-for-playstation-all-stars-battle-royale-not-loading-on-pc/"><u>Common Issues & Fixes for PlayStation All-Stars Battle Royale Not Loading on PC</u></a></li>
-<li><a href="https://extra-information.techidaily.com/crafting-memes-via-adobe-software/"><u>Crafting Memes via Adobe Software</u></a></li>
-<li><a href="https://win-answers.techidaily.com/elevate-horizon-zero-dawn-play-with-fps-boosting-techniques-for-an-ultimate-gaming-experience/"><u>Elevate Horizon Zero Dawn Play with FPS Boosting Techniques for an Ultimate Gaming Experience</u></a></li>
-<li><a href="https://win-answers.techidaily.com/eliminate-the-pc-crashing-problem-while-playing-psychonauts-2-tips-and-tricks/"><u>Eliminate the PC Crashing Problem While Playing Psychonauts 2: Tips & Tricks</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-common-errors-in-itunes-sound-settings/"><u>Fixing Common Errors in iTunes Sound Settings</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723004203588-fixing-the-re5-launch-problem-on-your-windows-machine-solutions-inside/"><u>Fixing the RE5 Launch Problem on Your Windows Machine - Solutions Inside!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/life-is-strange-true-colours-glitch-resolution/"><u>Life Is Strange: True Colours Glitch Resolution</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-stability-overcoming-crashes-during-gameplay-on-cities-skylines-for-pc/"><u>Mastering Stability: Overcoming Crashes During Gameplay on Cities: Skylines for PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-overcoming-recurring-team-fortress-2-gameplay-interruptions/"><u>Resolved: Overcoming Recurring Team Fortress 2 Gameplay Interruptions</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/syncing-issues-how-to-resolve-iphone-connected-to-a-different-itunes-account/"><u>Syncing Issues: How to Resolve iPhone Connected to a Different iTunes Account</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-stop-thaumaturge-from-freezing-and-crashing-on-windowsmac/"><u>Troubleshooting Tips: Stop Thaumaturge From Freezing and Crashing on Windows/Mac</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/zdnets-in-depth-analysis-of-the-jabbra-evolve2-75-a-game-changer-for-remote-teams-with-superior-anc-and-unmatched-talk-time-performance/"><u>ZDNet's In-Depth Analysis of the Jabbra Evolve2 75: A Game Changer for Remote Teams with Superior ANC and Unmatched Talk Time Performance</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-the-experts-playbook-for-transforming-srt-into-diverse-formats-for-2024/"><u>[New] The Expert's Playbook for Transforming SRT Into Diverse Formats for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722991300672-solved-ubisoft-connect-not-working-2024/"><u>[SOLVED] Ubisoft Connect Not Working – 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-compact-guide-to-top-5-apps-for-picture-plus-sound-blend-for-2024/"><u>[Updated] Compact Guide to Top 5 Apps for Picture + Sound Blend for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-messages-files-on-zte-axon-40-lite-by-fonelab-android-recover-messages/"><u>Complete guide for recovering messages files on ZTE Axon 40 Lite</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-tips-for-troubleshooting-and-resolving-scavengers-pc-issues/"><u>Expert Tips for Troubleshooting and Resolving Scavengers PC Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-the-kernelbasedll-crash-problem-fast-and-seamlessly-a-complete-solution/"><u>Fix the kernelbase.dll Crash Problem Fast and Seamlessly - A Complete Solution!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-realme-narzo-60x-5g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Realme Narzo 60x 5G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-streamlining-creation-youtube-video-editor-insights/"><u>In 2024, Streamlining Creation YouTube Video Editor Insights</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-call-of-duty-warzone-fixes-a-step-by-step-guide-to-resolving-disc-read-errors-for-pc-users/"><u>Mastering Call of Duty Warzone Fixes: A Step-by-Step Guide to Resolving Disc Read Errors for PC Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-graphics-error-d3d-initialization-flaw-in-grand-theft-auto-v/"><u>Solving the Graphics Error D3D Initialization Flaw in Grand Theft Auto V</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/tecnicas-efectivas-para-rescatar-datos-y-solucionar-problemas-de-corrupcion-de-particion-en-windows-11/"><u>Técnicas Efectivas Para Rescatar Datos Y Solucionar Problemas De Corrupción De Partición en Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-new-worlds-latest-fix-still-struggles-with-occasional-freezing-glitches/"><u>The New World's Latest Fix Still Struggles With Occasional Freezing Glitches</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unfolding-the-future-samsung-galaxy-z-fold-6-details-price-launch-timeline-and-specifications/"><u>Unfolding the Future: Samsung Galaxy Z Fold 6 Details - Price, Launch Timeline & Specifications</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-honor-x50is-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Honor X50is Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unveiling-the-truth-how-season-8-changes-impact-fortnites-frame-rate-performance/"><u>Unveiling the Truth: How Season 8 Changes Impact Fortnite's Frame Rate Performance</u></a></li>
 </ul></div>
 

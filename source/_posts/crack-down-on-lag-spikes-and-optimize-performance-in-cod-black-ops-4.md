@@ -1,7 +1,7 @@
 ---
 title: "Crack Down on Lag Spikes and Optimize Performance in Cod: Black Ops 4"
-date: 2024-12-13T18:45:23.432Z
-updated: 2024-12-20T17:14:28.051Z
+date: 2024-12-15T00:58:05.911Z
+updated: 2024-12-21T23:27:47.183Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ Want to increase FPS in Ring of Elysium? You’ve come to the right place! This 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5 methods to try
 
 You may not have to try them all. Just choose the one you need.
@@ -34,10 +38,6 @@ You may not have to try them all. Just choose the one you need.
 
  **What is FPS?**
  FPS stands for**frames per second** . Basically, it measures how many images a GPU can render and how many images it can display in a second as well. The higher the FPS, the better the graphics and in-game transitions are.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 1: Optimize your in-game settings
 
@@ -56,6 +56,10 @@ You may not have to try them all. Just choose the one you need.
 **4)** Click**Apply** , then relaunch your game.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-28-1024x558.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Update your graphics driver
 
@@ -96,7 +100,7 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-358.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
@@ -111,20 +115,20 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-737.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Under **View by,** click **Large icons** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-720.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Select **Power Options.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-721.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Select **High Performance** .
@@ -132,10 +136,6 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-738.png)
 
  Restart your computer, and then relaunch your game to see if this worked for you.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 4: Configure your graphics settings
 
@@ -150,17 +150,9 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-46.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Click**Manage 3D settings** , then**Program Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-36.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)** Click the**Add** **button** .
 
@@ -174,6 +166,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-41.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### If you’re using an AMD graphics product…
 
 **1)** Right-click**your desktop** , and select**AMD Radeon Settings.**
@@ -181,7 +177,7 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-47.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Click**Gaming** , then**Global Settings** .
@@ -191,6 +187,10 @@ OR
 **3)** Modify the settings following the screenshot below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-42-1024x459.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 5: Overclock your GPU
 
@@ -221,21 +221,18 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-faster-footage-in-powerpoint-filters/"><u>[New] Faster Footage in PowerPoint Filters</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solved-how-to-fix-mordhau-crashing-issue/"><u>[Solved] How to Fix Mordhau Crashing Issue?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solved-microsoft-flight-simulator-2020-keeps-crashing-on-pc/"><u>[Solved] Microsoft Flight Simulator 2020 Keeps Crashing on PC</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-essentials-of-choosing-between-an-independent-or-major-company-status-on-youtube/"><u>[Updated] The Essentials of Choosing Between an Independent or Major Company Status on YouTube</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/beginners-journey-in-pokemon-go-how-to-start-catching-them-all/"><u>Beginner's Journey in Pokémon Go: How to Start Catching Them All</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/driven-with-advanced-ai-the-modern-solution-of-cookiebot/"><u>Driven with Advanced AI: The Modern Solution of Cookiebot</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-tips-overcoming-challenges-with-starting-discord-correctly/"><u>Expert Tips: Overcoming Challenges with Starting Discord Correctly</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gratuitas-convertire-video-amv-online-con-movavi-il-tuo-modo-semplice/"><u>Gratuitas Convertire Video AMV Online Con Movavi - Il Tuo Modo Semplice!</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/high-definition-video-refiner-for-pcmacos-for-2024/"><u>High Definition Video Refiner for PC/MacOS for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-world-of-warcraft-crashing-glitches-with-simple-troubleshooting-techniques/"><u>How to Fix World of Warcraft Crashing Glitches with Simple Troubleshooting Techniques</u></a></li>
-<li><a href="https://win-forum.techidaily.com/quick-guide-mastering-the-art-of-forced-closure-in-windows-programs/"><u>Quick Guide: Mastering the Art of Forced Closure in Windows Programs</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-troubleshooting-causes-of-after-effects-crashing-on-windows-11-and-10/"><u>Resolved: Troubleshooting Causes of After Effects Crashing on Windows 11 and 10</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722998454977-smooth-sailing-for-pathfinder-enthusiasts-as-game-fixes-major-freezing-glitch-on-pc/"><u>Smooth Sailing for Pathfinder Enthusiasts as Game Fixes Major Freezing Glitch on PC</u></a></li>
-<li><a href="https://fox-that.techidaily.com/stop-enduring-that-bothering-flicker-try-these-7-proven-tricks-on-your-phones-screen-today/"><u>Stop Enduring That Bothering Flicker – Try These 7 Proven Tricks on Your Phone's Screen Today</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-perfect-blend-of-cost-and-performance-exploring-the-oculus-quest-2/"><u>The Perfect Blend of Cost and Performance - Exploring the Oculus Quest 2</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723005790791-win-the-fight-against-battlefield-5-starting-difficulties-with-this-2024-hack/"><u>Win the Fight Against Battlefield 5 Starting Difficulties with This 2024 Hack</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-best-srt-mods-ultimate-upgrades-for-macwindows/"><u>[Updated] Best SRT Mods Ultimate Upgrades for Mac/Windows</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-drafting-a-powerful-post-for-online-fundraising/"><u>2024 Approved Drafting a Powerful Post for Online Fundraising</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-how-to-make-fortnite-thumbnail-in-30-seconds/"><u>2024 Approved How to Make Fortnite Thumbnail in 30 Seconds</u></a></li>
+<li><a href="https://win-answers.techidaily.com/boost-your-gaming-speed-pro-tactics-to-overcome-lagging-in-the-sims-4-on-pc-updated-guide-2e4/"><u>Boost Your Gaming Speed: Pro Tactics to Overcome Lagging in The Sims 4 on PC (Updated Guide 2E4)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/destiny-navigating-the-challenges-of-beyond-light-launch-crash-fixes-on-pc-here-are-solutions/"><u>Destiny Navigating the Challenges of Beyond Light Launch Crash Fixes on PC? Here Are Solutions.</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-realme-gt-neo-5-se-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Realme GT Neo 5 SE</u></a></li>
+<li><a href="https://win-answers.techidaily.com/elevate-your-pubg-mobile-warzone-performance-by-eradicating-stutter-and-maximizing-frames-per-second/"><u>Elevate Your PUBG Mobile (Warzone) Performance by Eradicating Stutter and Maximizing Frames Per Second</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-structured-approach-to-managing-youtube-videos-a-complete-watch-later-system/"><u>In 2024, Structured Approach to Managing YouTube Videos A Complete Watch Later System</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-the-unfiltered-truth-insights-into-instagram-reels/"><u>In 2024, The Unfiltered Truth Insights Into Instagram Reels</u></a></li>
+<li><a href="https://win-forum.techidaily.com/installing-windows-11-on-ineligible-cpus-expert-tips-and-tricks/"><u>Installing Windows 11 on Ineligible CPUs: Expert Tips and Tricks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/methods-for-smooth-volume-diminishment-in-lumafusion/"><u>Methods for Smooth Volume Diminishment in Lumafusion</u></a></li>
+<li><a href="https://driver-download.techidaily.com/simple-guide-install-the-universal-usb-to-serial-converter-for-windows/"><u>Simple Guide: Install the Universal USB to Serial Converter for Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-to-resolving-cyberpunk-2077-download-errors-on-steam/"><u>Step-by-Step Guide to Resolving Cyberpunk 2077 Download Errors on Steam</u></a></li>
 </ul></div>
 

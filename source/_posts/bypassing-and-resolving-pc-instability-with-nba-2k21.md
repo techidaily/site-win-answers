@@ -1,7 +1,7 @@
 ---
 title: Bypassing and Resolving PC Instability with NBA 2K21
-date: 2024-08-19T02:08:21.465Z
-updated: 2024-08-20T02:08:21.465Z
+date: 2024-12-18T02:49:14.530Z
+updated: 2024-12-21T21:33:06.028Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/8ea49d46a7efdbdbce7ce2f715d9bd1879477faba
 
 Any avid sport game fans won’t want to miss out on FIFA 22, the latest fantastic installment of the FIFA franchise. Although it’s been a while since this gam released, there are still complaints about the FIFA 22 crashing issue. If you’re on PC and encounter the same issue, don’t worry. In this post, we’ve put together a full list of solutions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes to try
 
  You don’t have to try them all. Just work your way down the list until you find the one that does the trick.
@@ -28,6 +32,10 @@ Any avid sport game fans won’t want to miss out on FIFA 22, the latest fantast
 5. **[Optimize the graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reinstall the game](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1 – Verify the integrity of game files
 
  Before trying anything more complicated, you could check if the game files are missing or corrupted. That will prevent your FIFA 22 from running normally. Below is the detailed instruction for an integrity check on **[Steam](https://tools.techidaily.com/drivereasy/download/)**  or **[Origin](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -37,6 +45,11 @@ Any avid sport game fans won’t want to miss out on FIFA 22, the latest fantast
 1. Launch your Steam client and select**Library** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-1-1.jpg)
 2. Right-click**FIFA 22** and click**Properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2020-10-16_16-16-14-3.jpg)
 3. Select the**Local Files** tab and click**Verify integrity of game files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files.jpg)
@@ -48,22 +61,15 @@ Any avid sport game fans won’t want to miss out on FIFA 22, the latest fantast
 1. Open Origin and click**My Game Library** from the left pane. Then select FIFA 22 from the list.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/origin-verify-game-files.jpg)
 2. Click the**gear icon** under the Play button and click**Repair** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/origin-verify-game-files-2.jpg)
 
  It may take a few minutes to scan and repair, and then you can test if the crashing issue is still there. If yes, try the second solution.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2 – Update your graphics driver
 
  The constant FIFA 22 crashes can also indicate a driver issue. If you’re using a broken or outdated graphics driver, various gaming problems can occur and affect your experience. To avoid any annoying crashing issues, make sure to keep your graphics driver up-to-date.
@@ -86,9 +92,6 @@ Here are two ways you can update the graphics driver easily and quickly:
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the**Update** button next to a flagged graphics driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Or click**Update** **All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
@@ -97,6 +100,10 @@ Here are two ways you can update the graphics driver easily and quickly:
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Now all your device drivers are the latest. Check if FIFA 22 is back to the normal state. If not, there are three more fixes to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3 – Change the DirectX settings
 
@@ -110,6 +117,10 @@ Here are two ways you can update the graphics driver easily and quickly:
 
  Test if FIFA 22 runs smoothly after the tweaks. If your game is still unplayable, move on to the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4 – Disable overlay
 
  In some cases, the overlay of the game launcher like Steam or Origin may cause FIFA 22 to crash or function improperly. It is an interface that allows you to access voice chat or other features. If that’s not necessary for you, just turn it off.
@@ -121,14 +132,13 @@ Here are two ways you can update the graphics driver easily and quickly:
 2. From the game list, right-click**FIFA** **22** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2020-10-16_16-16-14-3.jpg)
 3. Untick**Enable the Steam Overlay while in-game** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2021/09/disable-steam-overaly.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/09/disable-steam-overaly.jpg)
+
  Play the game again to see if this method does the trick. If not, follow[Fix 5](https://tools.techidaily.com/drivereasy/download/) to adjust the in-game settings.
 
 #### On Origin
@@ -136,19 +146,15 @@ Here are two ways you can update the graphics driver easily and quickly:
 1. Launch Origin. Select**My Game Library** , and choose the FIFA 22 tile.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/origin-verify-game-files.jpg)
 2. Click the**gear icon** and click**Game Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2021/09/disable-origin-in-game.jpg)
-3. Make sure**Enable Origin In Game for FIFA 22 Ultimate Edition** is**unticked** . Click**Save** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2021/09/disable-origin-in-game-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/09/disable-origin-in-game.jpg)
+3. Make sure**Enable Origin In Game for FIFA 22 Ultimate Edition** is**unticked** . Click**Save** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/09/disable-origin-in-game-2.jpg)
+
  How does the game work with overlay disabled? If it keeps crashing as before, continue to the next fix.
 
 ### Fix 5 – Optimize the graphics settings
@@ -164,9 +170,6 @@ Here are two ways you can update the graphics driver easily and quickly:
 
  Open the game to check out on its performance. Still no luck? Try the last method.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ### Fix 6 – Reinstall the game
 
  If none of the fixes above resolves your FIFA 22 crashing issue, try reinstalling the game from scratch. After uninstalling FIFA 22, also remember to**delete the remaining game files** . And if possible,**install the game on SSD** , which, according to some players, solved the crashing dramatically.
@@ -186,8 +189,6 @@ Here are two ways you can update the graphics driver easily and quickly:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -195,4 +196,20 @@ Here are two ways you can update the graphics driver easily and quickly:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/n-2024-finding-free-music-a-producers-handbook/"><u>[New] In 2024, Finding Free Music A Producer's Handbook</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-traversing-the-timeline-of-facebook-narratives-mobile-plus-laptop/"><u>[Updated] In 2024, Traversing the Timeline of Facebook Narratives (Mobile + Laptop)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/counter-strike-2-sound-troubles-how-to-restore-your-mics-functionality/"><u>Counter-Strike 2 Sound Troubles: How to Restore Your Mic's Functionality</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easy-guide-converting-multiple-wmv-files-into-mov-format-at-once/"><u>Easy Guide: Converting Multiple WMV Files Into MOV Format at Once</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easy-guide-transferring-your-favorite-videos-from-vimeo-to-iphone-seamlessly/"><u>Easy Guide: Transferring Your Favorite Videos From Vimeo to iPhone Seamlessly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easy-methods-capturing-soundtracks-a-guide-to-separating-audio-from-online-videos/"><u>Easy Methods: Capturing Soundtracks - A Guide to Separating Audio From Online Videos</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easy-tutorial-on-how-to-change-mp4-file-format-to-xvid-for-better-playback-compatibility/"><u>Easy Tutorial on How to Change MP4 File Format to Xvid for Better Playback Compatibility</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effortless-conversion-from-mxf-to-avi-a-step-by-step-guide/"><u>Effortless Conversion From MXF to AVI: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effortless-conversion-techniques-from-webm-video-to-animated-gifs-on-and-off-the-internet/"><u>Effortless Conversion Techniques: From WebM Video to Animated GIFs on and Off the Internet</u></a></li>
+<li><a href="https://article-posts.techidaily.com/funflicks-full-evaluation-and-instructions-24/"><u>FunFlicks Full Evaluation & Instructions '24</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-secure-storage-system-5-ways-to-upload-files/"><u>In 2024, Secure Storage System 5 Ways to Upload Files</u></a></li>
+<li><a href="https://facebook.techidaily.com/quiet-time-quest-navigating-a-no-facebook-life/"><u>Quiet Time Quest: Navigating a No-Facebook Life</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/unlock-your-profile-the-quick-fix-hacks/"><u>Unlock Your Profile The Quick Fix Hacks</u></a></li>
+</ul></div>
 

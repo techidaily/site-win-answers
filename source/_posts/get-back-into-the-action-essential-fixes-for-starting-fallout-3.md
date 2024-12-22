@@ -1,7 +1,7 @@
 ---
 title: "Get Back Into the Action: Essential Fixes for Starting Fallout 3"
-date: 2024-12-13T20:21:33.102Z
-updated: 2024-12-20T18:13:44.058Z
+date: 2024-12-15T00:54:37.484Z
+updated: 2024-12-21T19:21:52.154Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/c097d4cbd7f38690c40368b7c00be742b01b3a584
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes…
 
@@ -73,24 +69,16 @@ If rebooting your PC doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ie-internet-options.png)
 3. Switch to the**Advanced** tab, then click**Reset** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/reset-1.png)
 4. Check the option of**Delete personal settings** , then click**Reset** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/delete-personal-settings.png)
 5. Restart your PC to let the changes take effect.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now you can continue to use the browser of your choice and test the issue. If this doesn’t solve your problem, try the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 4: Check your proxy settings
@@ -105,17 +93,25 @@ If rebooting your PC doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-proxy.png)
 2. Make sure that**User setup script** and**Use a proxy server** are set to**off** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/proxy-settings.png)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  For Windows 11 users, your screen will look slightly different.  
 
 ![Windows 11 configure proxy settings](https://images.drivereasy.com/wp-content/uploads/2021/06/win11-proxy-off.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If this fix doesn’t help, there’s one more fix you can try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Reinstall Roblox desktop app
 
@@ -131,6 +127,10 @@ If this fix doesn’t help, there’s one more fix you can try.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/programs-and-features.png)
 5. Find Roblox, right-click it then click**Uninstall** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### **To remove the Roblox folder:**
 
@@ -161,14 +161,14 @@ If this fix doesn’t help, there’s one more fix you can try.
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) For example, I want to update my graphics and network adapter driver here. Click the **Update**  button next to the flagged drivers to automatically download the correct version of them. Then you can manually install them (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg) **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -192,17 +192,24 @@ If this fix doesn’t help, there’s one more fix you can try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-free-software-roundup-mac-compatible-tiktok-editors-for-2024/"><u>[New] Free Software Roundup Mac-Compatible TikTok Editors for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-speed-maximization-mastery-selecting-winning-converters-for-os-xwin-srt/"><u>[Updated] 2024 Approved Speed Maximization Mastery Selecting Winning Converters for OS X/Win SRT</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-expert-psd-text-framing/"><u>[Updated] In 2024, Expert PSD Text Framing</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-real-time-broadcasting-softwares-edge-over-gear/"><u>[Updated] Real-Time Broadcasting Software's Edge Over Gear?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/2022s-ultimate-guide-to-handling-valve-anti-cheat-glitches-on-dota-2/"><u>2022'S Ultimate Guide to Handling Valve Anti-Cheat Glitches on Dota 2</u></a></li>
-<li><a href="https://fox-access.techidaily.com/a-comprehensive-look-at-djis-quadcopter-standard-flight-for-2024/"><u>A Comprehensive Look at DJI's Quadcopter Standard Flight for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/bypass-kodis-connection-barrier-a-comprehensive-solution-for-the-directory-information-failure/"><u>Bypass Kodi's Connection Barrier: A Comprehensive Solution for the 'Directory Information Failure'</u></a></li>
-<li><a href="https://win-answers.techidaily.com/guilty-gear-strive-delayed-release-insights-into-games-future-timeline/"><u>Guilty Gear -Strive- Delayed Release: Insights Into Game's Future Timeline</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722974243200-latest-dell-wifi-driver-version-get-it-here-now/"><u>Latest Dell WiFi Driver Version - Get It Here Now</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/skyrocket-traffic-with-the-top-12-youtube-growth-methods-for-2024/"><u>Skyrocket Traffic with the Top 12 YouTube Growth Methods for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/successful-resolution-discords-recent-update-issues-now-fixed/"><u>Successful Resolution: Discord's Recent Update Issues Now Fixed</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-civ-6-installation-problems-in-windows-10-solutions-revealed/"><u>Troubleshooting Civ 6 Installation Problems in Windows 10: Solutions Revealed.</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-podcast-dissemination-instagram-stories-vs-feed/"><u>[New] Podcast Dissemination Instagram Stories Vs. Feed</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-evil-genius-2-no-sound/"><u>[Solved] Evil Genius 2 No Sound</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-visual-tapestry-maker-premium-photo-edition/"><u>[Updated] Visual Tapestry Maker Premium Photo Edition</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exploring-how-mixed-reality-transforms-experience/"><u>2024 Approved Exploring How Mixed Reality Transforms Experience</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-poco-m6-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722987743481-dealing-with-immortals-of-fenyx-rising-crashes-solutions-inside/"><u>Dealing with Immortals of Fenyx Rising Crashes – Solutions Inside!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-strategies-to-fix-recurring-issues-with-ark-software-performance/"><u>Effective Strategies to Fix Recurring Issues with ARK Software Performance</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-on-restarting-and-fixing-internet-explorer-failures/"><u>Expert Advice on Restarting and Fixing Internet Explorer Failures</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-critical-error-causing-bsod-on-helldivers-vein-thrombosis/"><u>Fixing the Critical Error Causing BSOD on Helldivers Vein Thrombosis?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-honor-magic-v2-is-unlocked-by-drfone-android/"><u>How To Check if Your Honor Magic V2 Is Unlocked</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-resolve-repeated-fuster-crashes-on-your-desktop/"><u>How to Resolve Repeated Fuster Crashes on Your Desktop</u></a></li>
+<li><a href="https://win-blog.techidaily.com/lost-ark-audio-malfunction-diagnose-and-repair-strategies/"><u>LOST ARK Audio Malfunction – Diagnose & Repair Strategies</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-everscape-ii-pc-performance-tips-and-fixes-for-continuous-play/"><u>Mastering Everscape II PC Performance: Tips and Fixes for Continuous Play</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722998464691-no-more-glitches-in-football-manager-2022-for-your-desktop-effective-solutions-available/"><u>No More Glitches in Football Manager 2022 for Your Desktop – Effective Solutions Available</u></a></li>
+<li><a href="https://common-error.techidaily.com/simple-solutions-to-enhance-your-experience-with-windows-10-file-explorer/"><u>Simple Solutions to Enhance Your Experience with Windows 10 File Explorer</u></a></li>
+<li><a href="https://win-able.techidaily.com/solutions-for-players-overcoming-compatibility-problems-with-thaumaturge-on-personal-computers/"><u>Solutions for Players: Overcoming Compatibility Problems with Thaumaturge on Personal Computers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-solutions-ensuring-your-controller-works-with-steam-on-windows-computers/"><u>Step-by-Step Solutions: Ensuring Your Controller Works with Steam on Windows Computers</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/the-ultimate-step-by-step-guide-to-using-and-curating-gifs-in-discord/"><u>The Ultimate Step-by-Step Guide to Using and Curating GIFs in Discord</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/be-banner-tactics-dos-and-donts-for-optimal-visibility/"><u>YouTube Banner Tactics Dos and Don'ts for Optimal Visibility</u></a></li>
 </ul></div>
 

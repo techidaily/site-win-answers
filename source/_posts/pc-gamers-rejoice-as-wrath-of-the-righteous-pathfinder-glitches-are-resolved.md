@@ -1,7 +1,7 @@
 ---
 title: PC Gamers Rejoice as 'Wrath of the Righteous' Pathfinder Glitches Are Resolved!
-date: 2024-12-16T19:58:09.371Z
-updated: 2024-12-20T19:40:27.536Z
+date: 2024-12-21T02:54:35.881Z
+updated: 2024-12-21T17:02:31.009Z
 tags:
   - win11
   - win10
@@ -44,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60a
 
  If the game keeps crashing on your powerful PC, just read on and try the fixes below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Whether the game crashes on startup or crashes in the middle of the game, you can find a fix to try in this article. You don’t need to try them all. Just work your way down the list until you find the one that works for you.
@@ -54,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60a
 4. **[Disable overlays](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Temporarily disable anti-virus software](https://tools.techidaily.com/drivereasy/download/)**
 6. **[P](https://tools.techidaily.com/drivereasy/download/) [erform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Verify integrity of game files
 
@@ -66,15 +74,15 @@ thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60a
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . If Steam finds anything wrong with the game files, it will re-download them from its official server.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
  Depending on the size of the game files, it may take some time to verify all your game files.
 
  Run Pathfinder: Wrath of the Righteous after the verifying process is complete and see if the game crashes again. If this issue persists, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Update your graphics driver
 
@@ -91,16 +99,16 @@ thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60a
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Install the latest game patch
 
@@ -119,10 +127,6 @@ thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60a
 2. Uncheck **Enable Steam Overlay while in-game** .  
 
 ![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you’re using other apps with overlay features (e.g. Nvidia GeForce Experience, Discord, Twitch, etc.), make sure you’ve disabled the in-game overlay in those apps feature.
 
@@ -152,28 +156,24 @@ Here’s how to do it:
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
@@ -214,22 +214,15 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-revealing-the-quintessential-5-titling-visionaries-online/"><u>[New] 2024 Approved Revealing the Quintessential 5 Titling Visionaries Online</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-troubleshooting-mute-reviving-sound-in-obs-recordings-for-2024/"><u>[New] Troubleshooting Mute Reviving Sound in OBS Recordings for 2024</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/2-methoden-zum-erstellen-eines-bootfahigen-windows-11-backups/"><u>2 Methoden Zum Erstellen Eines Bootfähigen Windows 11-Backups</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-cultivate-connections-top-10-agrigames-for-gathering-pals/"><u>2024 Approved Cultivate Connections Top 10 AgriGames for Gathering Pals</u></a></li>
-<li><a href="https://win-answers.techidaily.com/boost-your-playtime-instantly-address-apex-legends-loading-errors/"><u>Boost Your Playtime: Instantly Address Apex Legends Loading Errors</u></a></li>
-<li><a href="https://win-answers.techidaily.com/conquer-game-glitches-optimizing-performance-for-total-war-saga-troy-on-pc/"><u>Conquer Game Glitches: Optimizing Performance for Total War Saga: Troy on PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/cyberpunk-2077-on-steam-troubleshooting-and-resolving-download-difficulties-now-available/"><u>Cyberpunk 2077 on Steam - Troubleshooting and Resolving Download Difficulties | Now Available</u></a></li>
-<li><a href="https://win-answers.techidaily.com/diablo-3-stability-improved-no-more-unexpected-shutdowns/"><u>Diablo 3 Stability Improved: No More Unexpected Shutdowns!</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/easy-techniques-for-archiving-screen-conversations-for-2024/"><u>Easy Techniques for Archiving Screen Conversations for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/get-back-into-action-expert-solutions-for-fixing-multiversus-startup-errors-on-pc/"><u>Get Back Into Action: Expert Solutions for Fixing MultiVersus Startup Errors on PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-address-and-correct-lag-surges-and-fps-fluctuations-in-black-ops-4-gameplay/"><u>How to Address and Correct Lag Surges & FPS Fluctuations in Black Ops 4 Gameplay</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-itel-p40-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Itel P40 to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-revolution-at-your-desk-windows-10-updates-reviewed/"><u>In 2024, Revolution at Your Desk Windows 10 Updates Reviewed</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-multi-photo-uploads-on-facebook-a-comprehensive-guide/"><u>Mastering Multi-Photo Uploads on Facebook: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-obstacles-in-arise-a-guide-to-resolving-game-crashes/"><u>Overcoming Obstacles in Arise: A Guide to Resolving Game Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723014014667-twitch-silent-stream-fixed-restore-your-live-audio-today/"><u>Twitch Silent Stream Fixed - Restore Your Live Audio Today</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unlocking-portability-and-performance-the-mini-chromebook-that-excels-in-flexibility-insights-from-zdnet/"><u>Unlocking Portability and Performance: The Mini Chromebook That Excels in Flexibility - Insights From ZDNet</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-discovering-the-hidden-truth-behind-youtubes-viewer-numbers/"><u>[New] 2024 Approved Discovering the Hidden Truth Behind YouTube's Viewer Numbers</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-crafting-concentration-in-photos-with-insta-zoom-tricks/"><u>[New] In 2024, Crafting Concentration in Photos with Insta Zoom Tricks</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-converting-iphones-solo-vids-into-duos/"><u>[Updated] Converting iPhones' Solo Vids Into Duos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-the-ultimate-combat-guide-to-top-fps-games/"><u>2024 Approved The Ultimate Combat Guide to Top FPS Games</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-addressing-and-resolving-frame-rate-drops-in-age-of-empires-4/"><u>Expert Advice: Addressing & Resolving Frame Rate Drops in Age of Empires 4</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-like-a-dragon-infinite-wealth-crashing-on-pc/"><u>How to Fix Like a Dragon: Infinite Wealth Crashing on PC</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-expert-methods-for-capturing-and-streaming-sports-gems/"><u>In 2024, Expert Methods for Capturing and Streaming Sports Gems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-your-issue-getting-the-amd-radeon-driver-to-launch-successfully/"><u>Solving Your Issue: Getting the AMD Radeon Driver to Launch Successfully</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/1722787216906-tcls-gamechanger-the-50s425-50-roku-smart-tv-2019-in-all-its-value-and-features-revealed/"><u>TCL's Gamechanger: The 50S425 50 Roku Smart TV (2019) in All Its Value and Features, Revealed!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-resolving-the-helldivers-second-act-bsod-nightmare/"><u>Ultimate Guide: Resolving the Helldiver's Second Act - BSOD Nightmare</u></a></li>
 </ul></div>
 

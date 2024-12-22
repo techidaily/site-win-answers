@@ -1,7 +1,7 @@
 ---
 title: PC Players Struggle With Everspace II, But Solutions Exist – Learn Them Now
-date: 2024-08-19T02:11:11.520Z
-updated: 2024-08-20T02:11:11.520Z
+date: 2024-12-19T02:31:24.483Z
+updated: 2024-12-22T00:53:57.268Z
 tags:
   - win11
   - win10
@@ -39,16 +39,14 @@ If you’re stuck in the endless Everspace 2 crashing and looking for some tried
 1. Launch your Steam client and navigate to the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. Right-click Everspace 2 from the game list and click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1.jpg)
 3. Go to the**Local Files** tab and click**Verify Integrity of Game Files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam-verify-game-files-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  After the detecting and repairing process completes, relaunch Everspace 2 to test. If the crashes still exist, follow[**Fix 3**](https://tools.techidaily.com/drivereasy/download/) to check your graphics driver.
 
 #### If you’re on GOG
@@ -60,8 +58,9 @@ If you’re stuck in the endless Everspace 2 crashing and looking for some tried
  Wait until the process completes and launch the game to see if crashes are still there. If yes, keep reading the fixes below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3 – Update your graphics driver
 
  A range of gaming issues like crashing, freezing and stuttering tends to be driver-related. To ensure a smooth experience with Everspace 2, you should keep your graphics driver up and running and update it to the latest version.
@@ -92,16 +91,14 @@ If you’re stuck in the endless Everspace 2 crashing and looking for some tried
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/amd-5700-xt-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  How does your game work now? If it crashes again, head to the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4 – Set launch options
 
  According to some players, Everspace 2 just crashes in DirectX 12\. In this case, the workaround is to force the game to use DirectX 11 and then everything should be fine.
@@ -111,12 +108,18 @@ Here are the steps:
 1. Open Steam and select the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam.jpg)
 2. Right-click Everspace 2 and click**Properties** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam-2.jpg)
 3. On the**General** tab, type**\-dx11** in the text field under Launch Options.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/set-launch-options.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Close the window and restart Everspace 2 to check if the crashing got fixed. If none of the steps above do the trick, wait patiently for the upcoming patches. Since the game is still in Early Access, it should be further optimized before long.
 
@@ -133,8 +136,6 @@ Here are the steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -142,4 +143,19 @@ Here are the steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-iphone-photo-management-guide-for-albums-and-cloud-storage/"><u>[New] 2024 Approved IPhone Photo Management Guide for Albums & Cloud Storage</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-audio-experts-choice-best-6-microphone-picks-for-online-broadcasting/"><u>[New] Audio Experts' Choice Best 6 Microphone Picks for Online Broadcasting</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-pioneering-mobile-applications-for-altered-vocal-output/"><u>[New] Pioneering Mobile Applications for Altered Vocal Output</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-zoom-essentials-a-comprehensible-guide/"><u>[New] Zoom Essentials A Comprehensible Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-getting-started-audacitys-guide-to-microphone-use-on-mac/"><u>[Updated] Getting Started Audacity's Guide to Microphone Use on Mac</u></a></li>
+<li><a href="https://win-answers.techidaily.com/complete-guide-ending-your-struggle-with-hyper-scape-on-pc-crashes/"><u>Complete Guide: Ending Your Struggle with Hyper Scape on PC Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/elevate-your-gameplay-techniques-for-achieving-better-fps-in-the-realm-of-ring-of-elysium/"><u>Elevate Your Gameplay: Techniques for Achieving Better FPS in the Realm of Ring of Elysium</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-motorola-moto-g-5g-2023-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Motorola Moto G 5G (2023) in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-sony-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Sony PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-mastering-video-quality-in-obs/"><u>In 2024, Mastering Video Quality in OBS</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-the-art-of-fixing-persistent-teardown-crashes-full-tutorial/"><u>Master the Art of Fixing Persistent Teardown Crashes - Full Tutorial</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-fixes-for-frequent-rust-programming-language-crashes/"><u>Resolved: Fixes for Frequent Rust Programming Language Crashes</u></a></li>
+</ul></div>
 

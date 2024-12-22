@@ -1,7 +1,7 @@
 ---
 title: Star Citizen No Longer Causes System Crashes on Windows - Fixed
-date: 2024-08-19T02:06:11.358Z
-updated: 2024-08-20T02:06:11.358Z
+date: 2024-12-18T00:09:30.547Z
+updated: 2024-12-21T16:04:47.499Z
 tags:
   - win11
   - win10
@@ -44,18 +44,12 @@ As soon as you load into the game, Star Citizen crashes immediately. This could 
 3. Click**Game Bar** . Then make sure the switch of **Record game clips, screenshots, and broadcast using Game bar** is turned off.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-28_17-13-04.jpg)
 4. Click**Capture** . Under**Background recording** , turn off**Record in the background while I’m playing a game** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-28_17-11-48.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
+
 ### Fix 3: Kill background programs
 
  Kill unnecessary background programs will give the game more resources and prevent crashing. Sometimes the Star Citizen crashing issue is due to conflicts programs acting at the background. These conflict programs could be capture programs.
@@ -66,13 +60,11 @@ If you’re using D3DGear, you must uninstall it to fix the issue.
 2. Choose the program and click**End task** . Repeat the process until you’ve closed all the unnecessary background apps.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-26-59.jpg)
 3. Reboot the game to check.
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Update your driver
 
  As a game player, the graphics card is one of the most important components of your PC. If the graphics driver is outdated or corrupted, you may not be able to enjoy the game. Graphics card manufacturers like Nvidia, AMD, and Intel constantly release new graphics drivers to fix bugs and improve gaming performance and experience, but Windows won’t always provide you with the latest version.
@@ -92,13 +84,18 @@ So, there are two ways that you can update your graphics driver:
  The PRO version comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Alternatively, if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Reset your character account
 
  According to players, somehow resetting your character account could fix the Star Citizen crashing issue. You may have a try. At least it’s not a complicated fix.
@@ -112,6 +109,10 @@ So, there are two ways that you can update your graphics driver:
  This tip has worked for some users. By increasing page file size on your SSD, leaving enough room for the game is a pretty important element that affects how Star Citizen runs.
 
  Make sure you have enough free space on SSD and run the game in low settings with V-sync off.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Reset or reinstall Windows
 
@@ -133,8 +134,6 @@ So, there are two ways that you can update your graphics driver:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -142,4 +141,26 @@ So, there are two ways that you can update your graphics driver:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-leading-5-drones-the-ultimate-professional-buy-guide/"><u>[Updated] 2024 Approved Leading 5 Drones - The Ultimate Professional Buy Guide</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-expert-online-workshop-title-author/"><u>[Updated] Expert Online Workshop Title Author</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-bridging-communication-gaps-utilizing-zoom-with-gmail-mail/"><u>[Updated] In 2024, Bridging Communication Gaps Utilizing Zoom with Gmail Mail</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-psycho-social-signal-customization-ps-console-edition/"><u>[Updated] Psycho-Social Signal Customization PS Console Edition</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-top-8-free-software-solutions-revolutionizing-corporate-video-meetings/"><u>2024 Approved Top 8 Free Software Solutions Revolutionizing Corporate Video Meetings</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722995690374-apex-legends-not-launching-discover-fast-track-fixes-here/"><u>Apex Legends Not Launching? Discover Fast-Track Fixes Here!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/clear-the-fog-4-techniques-to-reactivate-icloud-on-ios-devices/"><u>Clear the Fog: 4 Techniques to Reactivate iCloud on iOS Devices</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhancing-gaming-performance-techniques-for-eliminating-frame-rate-hiccups/"><u>Enhancing Gaming Performance: Techniques for Eliminating Frame Rate Hiccups</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fast-track-troubleshooting-ending-division-2-performance-issues-easily/"><u>Fast Track Troubleshooting: Ending Division 2 Performance Issues Easily</u></a></li>
+<li><a href="https://win-answers.techidaily.com/high-performance-gaming-guide-enhancing-escape-from-tarkov-fps/"><u>High-Performance Gaming Guide: Enhancing Escape From Tarkov FPS</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-repair-techniques-for-voice-chat-not-functioning-navigating-through-content-warning-glitches/"><u>Master Repair Techniques for 'Voice Chat Not Functioning': Navigating Through Content Warning Glitches</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/perfect-pairings-of-sound-and-sight-on-social-platforms/"><u>Perfect Pairings of Sound and Sight on Social Platforms</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/premier-ios-devices-to-play-psp-games-in-high-fidelity-2023-edition/"><u>Premier iOS Devices to Play PSP Games in High Fidelity, 2023 Edition</u></a></li>
+<li><a href="https://article-files.techidaily.com/prolonged-sky-journeys-the-ultimate-drone-lineup-for-2024/"><u>Prolonged Sky Journeys The Ultimate Drone Lineup for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-tips-and-tricks-to-eliminate-discord-network-lag-issues/"><u>Resolved: Tips & Tricks to Eliminate Discord Network Lag Issues</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ribe-savvy-double-your-audience-in-pocket-change-for-2024/"><u>Subscribe Savvy Double Your Audience in Pocket Change for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-ultimate-troubleshooting-guide-for-resolving-call-of-duty-mw3-fps-drops-2024-edition/"><u>The Ultimate Troubleshooting Guide for Resolving Call of Duty MW3 FPS Drops - 2024 Edition</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-overcome-constant-tower-of-fantasy-crashes-on-windowsmac/"><u>Troubleshooting Guide: Overcome Constant Tower of Fantasy Crashes on Windows/Mac</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-fixes-to-overcome-lag-and-stuttering-in-black-ops-cold-war/"><u>Ultimate Fixes to Overcome Lag and Stuttering in Black Ops Cold War</u></a></li>
+</ul></div>
 

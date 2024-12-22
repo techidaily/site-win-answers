@@ -1,7 +1,7 @@
 ---
 title: How to Overcome the NieR Replicant Re-Master Failure to Launch Problems
-date: 2024-08-19T02:06:20.748Z
-updated: 2024-08-20T02:06:20.748Z
+date: 2024-12-17T21:24:29.754Z
+updated: 2024-12-21T16:22:11.631Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/2738dcb65655ca3023848f9ec7026a9cce211e708
 ## NieR Replica Master Update Solved: Launch Trouble No More
 
 NieR Replicant ver.1.22474487139…, the long-waiting remaster is finally here. But before gamers can relive Yoko Taro’s amazing tale, many start reporting a**game not launching** issue. If you’re one the same boat, don’t worry. There’re still ways you can fix it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -51,11 +55,13 @@ Here’s how:
 1. Open your Steam client and go to**LIBRARY** . Right click**NieR Replicant ver.1.22474487139…** and select**Properties..** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify-nier-1.jpg)
 2. In the left pane, select**LOCAL FILES** . Then click**Verify integrity of game files…** . Then wait for the checking to complete.  
-![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify-nier-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify-nier-2.jpg)
+
 Once completed, you can try to launch NieR Replicant now.
 
  If this fix doesn’t do the trick for you, take a look at the next one below.
@@ -72,11 +78,16 @@ Once completed, you can try to launch NieR Replicant now.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/nier-launch-from-exe-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you see an error that says**missing mfreadwrite.dll** , check out[this solution](https://support.rockstargames.com/articles/204933118/How-to-Resolve-Dependency-MFREADWRITE-DLL-is-missing-Please-reinstall-the-game-errors-on-GTAV-for-PC) to install the Media Feature Pack.
 
  If launching from the .exe file doesn’t give you luck, you can continue to the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics drivers
 
@@ -88,9 +99,6 @@ Once completed, you can try to launch NieR Replicant now.
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
@@ -101,8 +109,9 @@ Once completed, you can try to launch NieR Replicant now.
  If the latest drivers doesn’t help you, simply move on to the next method.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Change program graphics settings
 
  Some gamers reported that NieR Replicant would cap the frame rate at 60, and higher frame rate might cause the game to stop working. If that’s really the case, you can try to fix it by changing the program settings in your graphics control panel.
@@ -114,14 +123,13 @@ Here’s an example for NVIDIA graphics cards:
 2. In the left pane, select**manage 3D settings** . In the right pane, navigate to the**Program Settings** and select the**.exe** file of NieR Replicant.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/nier-3d-settings-1.jpg)
 3. Under the section of Specify the settings for this program, set**Max Frame Rate** to**60\~65 FPS** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/nier-3d-settings-1-1.jpg)
 4. Now you can try to launch NieR Replicant.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 
  For more performance tuning tips, you can check out[this reddit post](https://www.reddit.com/r/pcgaming/comments/mw3wab/nier%5Freplicant%5Fver122474487139%5Fpc%5Fversion%5Fsuffers/) .
 
@@ -138,19 +146,15 @@ Here’s an example of how you can disable Windows Security:
 2. Select **Windows Security** in the left pane, and click **Virus & threat protection** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-2-5.jpg)
 3. In the pop-up window, click **Manage settings** .  
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-3-4.jpg)
 4. Toggle off **Real-time protection** .  
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-4-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-4-2.jpg)
+
  Now check if you can start NieR Replicant. (If this method doesn’t do the charm, remember to re-enable your antivirus.)
 
 ---
@@ -163,8 +167,6 @@ Here’s an example of how you can disable Windows Security:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -172,4 +174,19 @@ Here’s an example of how you can disable Windows Security:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-expert-tips-for-optimizing-azure-speech-to-text-functionality-for-2024/"><u>[New] Expert Tips for Optimizing Azure Speech to Text Functionality for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-seamless-content-propagation-beyond-youtube-and-facebook/"><u>[New] In 2024, Seamless Content Propagation Beyond YouTube and Facebook</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/download-free-mov-format-support-software-for-windows-11/"><u>Download Free MOV Format Support Software for Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-fixes-when-you-cant-get-origin-running-on-windows-10-or-11-systems/"><u>Effective Fixes When You Can’t Get Origin Running on Windows 10 or 11 Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-strategies-finding-and-retrieving-erased-contacts-on-android/"><u>Essential Strategies: Finding and Retrieving Erased Contacts on Android</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-fcpx-essentials-adding-a-skin-smoothing-effect-from-scratch/"><u>New FCPX Essentials Adding a Skin Smoothing Effect From Scratch</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/perfect-your-tiktok-bio-how-to-add-an-effective-link-for-2024/"><u>Perfect Your TikTok Bio How to Add an Effective Link for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-issues-with-pacific-drive-freezing-up-on-your-computer/"><u>Resolving Issues with Pacific Drive Freezing Up on Your Computer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-made-easy-resolve-deathloops-pc-crashes-in-just-a-few-quick-steps/"><u>Troubleshooting Made Easy: Resolve Deathloop's PC Crashes in Just a Few Quick Steps</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-when-you-cant-open-origin-on-windows-11/"><u>Troubleshooting Steps When You Can't Open Origin on Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-solving-hogwarts-legacy-failed-startup-issues/"><u>Ultimate Guide: Solving 'Hogwarts Legacy' Failed Startup Issues</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-latest-apple-m3-macbook-air-innovations-my-must-know-findings-after-an-exclusive-test-drive-tech-analysis-by-zdnet/"><u>Unveiling the Latest Apple M3 MacBook Air Innovations: My Must-Know Findings After an Exclusive Test Drive | Tech Analysis by ZDNET</u></a></li>
+</ul></div>
 

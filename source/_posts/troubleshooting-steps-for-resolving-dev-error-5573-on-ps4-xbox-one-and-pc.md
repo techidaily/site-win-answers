@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps for Resolving Dev Error 5573 on PS4, Xbox One, and PC
-date: 2024-08-19T02:05:09.360Z
-updated: 2024-08-20T02:05:09.360Z
+date: 2024-12-14T22:44:34.156Z
+updated: 2024-12-21T23:55:26.313Z
 tags:
   - win11
   - win10
@@ -45,8 +45,9 @@ thumbnail: https://thmb.techidaily.com/8a64098fc8c00724b390ed4672a78681ea9b2ccc0
  If your Internet connection is valid but you still don’t get response from the Apex Legends servers, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 2: Install all the game updates
 
  This one may seem obvious, but it did help some players to solve the error code leaf when they try to join a match on Apex Legends, so you may want to make sure your game is updated all the time.
@@ -55,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/8a64098fc8c00724b390ed4672a78681ea9b2ccc0
 
  If your game stays up-to-date but you still run into error code leaf, move on to the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 3: Configure your DNS settings
 
  When you use your ISP’s (Internet Service Provider) default DNS server, some possible issues like crowded cache could cause the server connection failure. What you can do is switching to a public DNS server to solve the problem. We’ll use the Google DNS server as an example. Here’s how:
@@ -62,26 +67,22 @@ thumbnail: https://thmb.techidaily.com/8a64098fc8c00724b390ed4672a78681ea9b2ccc0
 1. On your taskbar, right-click the**network icon** , then click**Open Network & Internet settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/open-network-settings.png)
 2. Click**Change adapter options** .  
+
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
@@ -90,9 +91,6 @@ thumbnail: https://thmb.techidaily.com/8a64098fc8c00724b390ed4672a78681ea9b2ccc0
 
  If changing to a public DNS server doesn’t connect your game to the server, try the last fix.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 4: Update your network driver
 
  If your network driver is outdated or faulty, it could be responsible for the code leaf server connection issue. You may want to update your network adapter driver to make sure it’s functioning properly.
@@ -113,9 +111,6 @@ thumbnail: https://thmb.techidaily.com/8a64098fc8c00724b390ed4672a78681ea9b2ccc0
   
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 5: Switch to another server
 
  We know the error code leaf is a server connectivity issue, and the problem is more likely with the server-side. One last thing that players can do is to switch to a low ping server. The option of choosing a server is hidden, and here’s how to bring it to the front:
@@ -127,6 +122,10 @@ thumbnail: https://thmb.techidaily.com/8a64098fc8c00724b390ed4672a78681ea9b2ccc0
 4. Now you’ll see an option of**Data Center** at the bottom of your main page.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/data-centers.png)
 5. Click**Data Center** , then you’ll see a list of all available servers with their ping times and loss rate. You can choose a low ping server or try several servers until you can join the game.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -142,8 +141,6 @@ thumbnail: https://thmb.techidaily.com/8a64098fc8c00724b390ed4672a78681ea9b2ccc0
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -151,4 +148,23 @@ thumbnail: https://thmb.techidaily.com/8a64098fc8c00724b390ed4672a78681ea9b2ccc0
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/levate-your-youtube-presence-uncovering-the-6-key-strategies-to-boost-retention-rates-for-2024/"><u>[New] Elevate Your YouTube Presence Uncovering the 6 Key Strategies to Boost Retention Rates for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-master-class-in-laptop-screenrec-software-use-for-2024/"><u>[New] Master Class in Laptop ScreenRec Software Use for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/tream-like-a-pro-on-youtube-best-webcams-reviewed/"><u>[New] Stream Like a Pro on YouTube Best Webcams Reviewed</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-how-to-boost-fps-in-ring-of-elysium/"><u>[SOLVED] How to Boost FPS in Ring of Elysium</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-ultimate-ios-movie-guide-paid-vs-free-apps-ranked/"><u>2024 Approved Ultimate iOS Movie Guide Paid vs Free Apps Ranked</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723008963145-arma-3-crashing-woes-heres-the-ultimate-guide-to-solve-them/"><u>Arma 3 Crashing Woes? Here's the Ultimate Guide to Solve Them !</u></a></li>
+<li><a href="https://win-answers.techidaily.com/battling-game-delays-on-your-computer-proven-fixes-for-gamers/"><u>Battling Game Delays on Your Computer - Proven Fixes for Gamers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723006996233-bring-rainbow-six-siege-back-to-life-overcome-launch-challenges-with-these-effective-fixes/"><u>Bring Rainbow Six Siege Back to Life - Overcome Launch Challenges with These Effective Fixes</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/building-blocks-of-virtual-experience-terminology-for-2024/"><u>Building Blocks of Virtual Experience Terminology for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-skip-the-hunt-exclusive-filmora-coupon-codes-inside/"><u>New 2024 Approved Skip the Hunt Exclusive Filmora Coupon Codes Inside</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-10-mp4-convertors-from-mkv-on-pc-and-mac-with-free-trials/"><u>Top 10 MP4 Convertors From MKV on PC and Mac with Free Trials</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-successful-destiny-2-installation-on-pc/"><u>Troubleshooting Tips for Successful Destiny 2 Installation on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/uncover-the-silent-mystery-restoring-game-audio-in-evil-genius-2/"><u>Uncover the Silent Mystery: Restoring Game Audio in 'Evil Genius 2'</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-fcp-x-visual-effects-green-screen-and-beyond/"><u>Updated In 2024, FCP X Visual Effects Green Screen and Beyond</u></a></li>
+<li><a href="https://win-answers.techidaily.com/wave-goodbye-to-frustration-fixes-for-a-smooth-run-with-halo-infinite-on-pc-7-tips/"><u>Wave Goodbye to Frustration: Fixes for a Smooth Run with Halo Infinite on PC (7 Tips)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/why-does-genshin-impact-keep-closing-expert-fixes-for-game-stability-on-pcs/"><u>Why Does Genshin Impact Keep Closing? Expert Fixes for Game Stability on PCs</u></a></li>
+</ul></div>
 

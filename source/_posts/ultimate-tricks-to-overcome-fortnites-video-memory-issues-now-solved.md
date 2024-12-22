@@ -1,7 +1,7 @@
 ---
 title: Ultimate Tricks to Overcome Fortnite's Video Memory Issues - Now Solved!
-date: 2024-08-19T02:07:31.157Z
-updated: 2024-08-20T02:07:31.157Z
+date: 2024-12-18T01:10:22.499Z
+updated: 2024-12-22T02:29:51.600Z
 tags:
   - win11
   - win10
@@ -25,6 +25,10 @@ Fortnite is not launching because of LS-0013 error? You’re certainly not the o
 2. **[Verify game integrity](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Run Epic Games Launcher and Fortnite as administrator](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: **Update your device drivers**
 
  Updating drivers should always be your go-to option when something goes wrong with your computer or system. Whether you choose to update the device drivers manually, using Windows Update, or you use a trusted third party product, it’s essential that you have the latest correct device drivers for your operating system at all times.
@@ -45,6 +49,10 @@ Fortnite is not launching because of LS-0013 error? You’re certainly not the o
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -54,9 +62,9 @@ Fortnite is not launching because of LS-0013 error? You’re certainly not the o
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Verify game integrity
 
  You may encounter this issue if some files of your game installation are corrupt or have been deleted as a false positive by antivirus programs. If this is the case, you should verify the integrity of game files to fix the issue.
@@ -69,17 +77,14 @@ Here is how to verify the integrity of Fortnite:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-772.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
  3) Once completed, click to run Fortnite to see if it launches properly. If yes, then congrats! If the issue still remains, please try **Fix 3** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: **Run Epic Games Launcher and Fortnite as administrator**
 
  In some cases, Fortnite won’t launch properly because it is not granted the necessary access to running the game. To make sure the LS-0013 error is not thrown up because of insufficient rights, you should run **Epic Games Launcher** and **Fortnite** as administrator.
@@ -91,15 +96,13 @@ Here is how to run Epic Games Launcher as administrator:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-803.png)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Click the **Compatibility**  tab, tick the box for **Run this program as an administrator**  and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-805.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  3) Run Fortnite to see if it works without fail. If yes, then you have solved the issue! If the error still happens, you can then run Fortnite**as administrator** , the steps are similar as those for Epic Games Launcher.
 
  Once finished, don’t forget to check if the Fortnite**LS-0013** error is resolved.
@@ -120,8 +123,6 @@ Here is how to run Epic Games Launcher as administrator:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -129,4 +130,20 @@ Here is how to run Epic Games Launcher as administrator:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-nurturing-relationships-inspiring-connections-with-your-viewers/"><u>[New] In 2024, Nurturing Relationships Inspiring Connections With Your Viewers</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-unveil-the-8-key-services-for-video-marketing-growth/"><u>[New] In 2024, Unveil the 8 Key Services for Video Marketing Growth</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-the-ultimate-guide-to-selecting-facebook-live-capturers/"><u>[Updated] The Ultimate Guide to Selecting Facebook Live Capturers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1-top-pick-flawless-conversion-of-avchd-video-files-guide-to-ensuring-seamless-compatibility-and-quality/"><u>1. Top Pick: Flawless Conversion of AVCHD Video Files - Guide to Ensuring Seamless Compatibility & Quality</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1-transform-your-mpc-files-into-wav-format-effortlessly-free-guide/"><u>1. Transform Your MPC Files Into WAV Format Effortlessly - Free Guide!</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/alternatives-to-fraps-comprehensive-guide-to-comparable-recording-software-options/"><u>Alternatives to Fraps: Comprehensive Guide to Comparable Recording Software Options</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/efficient-dvd-and-video-transformation-tools-by-digiarty-software/"><u>Efficient DVD & Video Transformation Tools by Digiarty Software</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/from-novice-to-pro-screen-record-mastery-on-hp/"><u>From Novice to Pro Screen Record Mastery on HP</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratuit-gebaseerd-3gp-toeeinden-in-animated-gifs-onlinereputatie-zeer-goed/"><u>Gratuit Gebaseerd 3GP-Toeëinden in Animated GIFs - Onlinereputatie Zeer Goed!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1726027801494-musescore/"><u>MuseScoreで美しい「高解像音楽」レコーディングテクニックの紹介</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-htc-u23-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On HTC U23 | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/youtubeyoukuchrome/"><u>フリーチェック: YouTubeやYoukuなどChromeを使ってスムーズに動画保存</u></a></li>
+</ul></div>
 

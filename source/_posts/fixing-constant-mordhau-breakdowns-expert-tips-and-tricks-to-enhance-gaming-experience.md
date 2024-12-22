@@ -1,7 +1,7 @@
 ---
 title: "Fixing Constant Mordhau Breakdowns: Expert Tips and Tricks to Enhance Gaming Experience"
-date: 2024-12-13T16:49:10.540Z
-updated: 2024-12-20T20:49:39.333Z
+date: 2024-12-15T17:52:16.030Z
+updated: 2024-12-21T19:07:23.123Z
 tags:
   - win11
   - win10
@@ -50,10 +50,6 @@ Here is how to reset Winsock data:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap7-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Restart your computer.
 
 5) Launch Fallout 76 to see if it can be connected to the game server. If yes, then great! If the issue remains, please try**Fix 2** , below.
@@ -61,7 +57,7 @@ Here is how to reset Winsock data:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2:**Close bandwidth hogging applications**
@@ -76,15 +72,15 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1deba6c03f2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Repeat step **2)** on every other bandwidth hogging programs.
 
  4) Launch Fallout 76 to see if it can be connected to the server. If yes, then congratulations! If the issue remains, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Make sure you have the latest network drivers
 
@@ -101,16 +97,12 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5af0deb80ba.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -119,6 +111,10 @@ Here is how to do it:
 5) Run Fallout 76 again and see if the**Fallout 76 disconnected from server** is resolved. If yes, then congrats and enjoy the game! If the issue persists, please move on to**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Restart your network
 
@@ -154,11 +150,19 @@ _wireless router_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-566.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) When prompted for permission, click**Yes** to run Command Prompt.
 
  3) Type**the following command line** and press **Enter**  on your keyboard.**ipconfig /flushdns**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap9-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### To renew your IP
 
@@ -175,7 +179,7 @@ _wireless router_
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11-5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Type**the following command line** and press **Enter**  on your keyboard.
@@ -184,15 +188,15 @@ _wireless router_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap12-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5) Launch Fallout 76.
 
  Check to see if the Fallout 76 connecting issue still occurs. If it is still not fixed, please try**Fix 6** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Switch the DNS server
 
@@ -213,16 +217,12 @@ Here is how to switch the DNS server to Google Public DNS:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-612.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Right-click on**your current network** and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-613.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Double-click **Internet Protocol Version 4(TCP/IPv4)**  to view its properties.
 
@@ -267,17 +267,24 @@ Here is how to switch the DNS server to Google Public DNS:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-capturing-perfect-voices-3-ipad-solutions/"><u>[New] 2024 Approved Capturing Perfect Voices 3 iPad Solutions</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-detailed-analysis-of-dynamic-actions-capture/"><u>[New] Detailed Analysis of Dynamic Actions Capture</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-the-quick-winner-guide-how-to-make-money-on-reddit-in-just-a-click/"><u>[Updated] The Quick-Winner Guide How to Make Money on Reddit in Just a Click</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/altering-visuals-in-teams-calls-timely-setup-adjustments/"><u>Altering Visuals in Teams Calls Timely Setup Adjustments</u></a></li>
-<li><a href="https://win-able.techidaily.com/avoid-game-disruptions-resolving-age-of-empires-4s-constant-windows-downfalls/"><u>Avoid Game Disruptions: Resolving Age of Empires 4'S Constant Windows Downfalls</u></a></li>
-<li><a href="https://win-answers.techidaily.com/conquering-error-code-23-in-apex-legends-pro-tips-and-guides-to-get-you-back-on-track/"><u>Conquering Error Code 23 in Apex Legends: Pro Tips and Guides to Get You Back on Track</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/elite-selection-of-wide-view-gaming-monitors-for-the-latest-year/"><u>Elite Selection of Wide-View Gaming Monitors for the Latest Year</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-red-dead-redemption-2-troubleshooting-pc-game-crashes/"><u>Fixing Red Dead Redemption 2: Troubleshooting PC Game Crashes</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-vivo-y02t-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Vivo Y02T | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/revamp-your-gaming-expert-troubleshooting-tips-for-when-minecraft-wont-start/"><u>Revamp Your Gaming: Expert Troubleshooting Tips for When Minecraft Won't Start</u></a></li>
-<li><a href="https://fox-access.techidaily.com/screen-partnership-contracts-downloadable/"><u>Screen Partnership Contracts, Downloadable</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tip-fixed-lacking-available-space-error-in-god-of-war-gameplay/"><u>Troubleshooting Tip: Fixed 'Lacking Available Space' Error in God of War Gameplay</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-detailed-depth-ranking-10-smartphones-with-superior-4k-camera-capabilities/"><u>[New] In 2024, Detailed Depth Ranking 10 Smartphones with Superior 4K Camera Capabilities</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-quick-tips-for-ios-screen-record-for-2024/"><u>[Updated] Quick Tips for iOS Screen Record for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1726221159683-wma-movavi/"><u>快適なWMAファイルの自動変換サービス – Movavi | 無料オプションあり</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723010672174-cyberpunk-2077-on-steam-troubleshooting-and-resolving-download-difficulties-now-available/"><u>Cyberpunk 2077 on Steam - Troubleshooting and Resolving Download Difficulties | Now Available!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/dealing-with-valorants-voice-call-failures-expert-fixes-and-advice/"><u>Dealing with Valorant's Voice Call Failures: Expert Fixes and Advice</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/essential-list-no-charge-platforms-for-stunning-video-transformations/"><u>Essential List No-Charge Platforms for Stunning Video Transformations</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722997702510-fixing-game-crashing-woes-wolcen-lords-of-mayhem-stability-improved/"><u>Fixing Game-Crashing Woes: Wolcen Lords of Mayhem Stability Improved</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-overcome-the-gobi-fatal-error-in-back-4-blood-ue4-custom-content/"><u>How to Overcome the Gobi Fatal Error in Back 4 Blood UE4 Custom Content</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-nokia-c32-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Nokia C32 Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/modern-warfare-2-pc-optimization-complete-say-goodbye-to-fps-drops-and-gameplay-stuttering/"><u>Modern Warfare 2 PC Optimization Complete: Say Goodbye to FPS Drops and Gameplay Stuttering</u></a></li>
+<li><a href="https://win-answers.techidaily.com/modern-warfare-2-starting-troubles-heres-your-solution/"><u>Modern Warfare 2 Starting Troubles? Here's Your Solution</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-fix-assassins-creed-valhalla-lagging/"><u>Quick Fix: Assassin’s Creed: Valhalla Lagging</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/revolutionize-your-on-the-go-charging-with-our-expert-take-on-zmis-20k-watt-power-pack/"><u>Revolutionize Your On-the-Go Charging with Our Expert Take on ZMI's 20K Watt Power Pack</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-found-for-file-restricted-access-in-steam-library/"><u>Solution Found for 'File Restricted Access' In Steam Library</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/rt-of-youtube-channels-crafting-brands-that-attract-viewers-for-2024/"><u>The Art of YouTube Channels Crafting Brands That Attract Viewers for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-performing-ultraportable-laptop-ideal-for-remote-professionals-a-review/"><u>Top-Performing Ultraportable Laptop Ideal for Remote Professionals - A Review</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshoot-like-a-pro-handling-discord-js-errors-with-ease/"><u>Troubleshoot Like a Pro: Handling Discord JS Errors with Ease</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-crusader-kings-iii-pc-malfunction-solutions/"><u>Troubleshooting Guide: Crusader Kings III PC Malfunction Solutions</u></a></li>
 </ul></div>
 

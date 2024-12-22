@@ -1,7 +1,7 @@
 ---
 title: The Gatekeepers to Hell (the Devil) and Heaven (Michael); Both Have Their Own Music when They Appear on Stage, and Michael Is Portrayed with a Halo over His Head Like an Angelic Figure
-date: 2024-08-19T02:10:08.947Z
-updated: 2024-08-20T02:10:08.947Z
+date: 2024-12-20T23:44:00.898Z
+updated: 2024-12-22T02:25:27.522Z
 tags:
   - win11
   - win10
@@ -62,9 +62,6 @@ thumbnail: https://thmb.techidaily.com/4d82cc5d4830160f77be1be23b3b0d5c8cbc630ac
 
  Your problem still persists, don’t worry. There are other solutions.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Update your video driver
 
  Many players have reported that the graphics card driver may be the culprit to the crashing issue, and updating the graphics driver helps resolve the problem. So you should update your graphics card driver to the latest version.
@@ -89,25 +86,10 @@ thumbnail: https://thmb.techidaily.com/4d82cc5d4830160f77be1be23b3b0d5c8cbc630ac
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-707.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4) Once your driver has been updated, restart your computer.
 
 Now launch Dark Souls 3 and see if it works.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Set game options to LOW
 
  If your game options are set High, this requires much more system resources and so Dark Souls 3 may crash. In that case, you should set game options to**_LOW_** so as to stop your game crashing.
@@ -115,6 +97,10 @@ Now launch Dark Souls 3 and see if it works.
  Be sure to set the resolution to the same resolution of your monitor. Also set**Effects quality** ,**Shadow quality** , and**Light quality** to**LOW** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-709.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If you can’t access the in-game settings, try this:
 
@@ -125,8 +111,9 @@ If you can’t access the in-game settings, try this:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-710.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Open**DarkSouls3** folder.
 
  4) Open**GraphicsConfig.xml** with notepad.
@@ -136,8 +123,9 @@ If you can’t access the in-game settings, try this:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-711.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 6) Save your file changes and restart your game.
 
 Then play your game to see if it works properly.
@@ -145,8 +133,9 @@ Then play your game to see if it works properly.
  Still no luck? Don’t give up hope. There’s one more thing to try.
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Verify Integrity of Game Files
 
  You can try verifying integrity of game files in Steam app if games crash. Here’s how to do it:
@@ -157,6 +146,10 @@ Then play your game to see if it works properly.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-702.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Right click on**Dark Souls 3** , and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-703.png)
@@ -166,8 +159,9 @@ Then play your game to see if it works properly.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-705.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  5) Steam will check your game files and fix any detected problems. Follow the on-screen instructions to finish the process.
 
  6) Restart Steam, and open Dark Souls 3 to play.
@@ -184,8 +178,6 @@ Then play your game to see if it works properly.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -193,4 +185,17 @@ Then play your game to see if it works properly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-invent-iconic-image-jokes/"><u>[New] 2024 Approved Invent Iconic Image Jokes</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-a-producers-path-to-procuring-cost-free-tunes/"><u>[Updated] A Producer's Path to Procuring Cost-Free Tunes</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-a-laugh-away-in-time-the-goofy-movie-remastered/"><u>[Updated] In 2024, A Laugh Away in Time The 'Goofy Movie' Remastered</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-melodic-mute-mode-operating-system-steps-for-2024/"><u>[Updated] Melodic Mute Mode Operating System Steps for 2024</u></a></li>
+<li><a href="https://win-tips.techidaily.com/5yaz55yf44gu57su57kl44gq5ymk6zmk5b6m44gr5b6p5ywd44gz44kl5pa55rov772c44or44k944kz44oz44o744oo44o844oi5zcr44gr44ks44kk44oj/"><u>写真の純粋な削除後に復元する方法｜パソコン・ノート向けガイド</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bypassing-directx-compatibility-problems-in-call-of-dutys-latest-installment/"><u>Bypassing DirectX Compatibility Problems in Call of Duty's Latest Installment</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-startup-problem-in-call-of-duty-modern-warfare-2/"><u>Fixing the Startup Problem in Call of Duty: Modern Warfare 2</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-the-battlefield-conquering-chivalry-2-groggy-performance-and-slow-response-times-with-new-tricks-expert-insights/"><u>Master the Battlefield: Conquering Chivalry 2' Groggy Performance and Slow Response Times with New Tricks [Expert Insights]</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-top-5-guide-high-efficiency-video-coding-players-for-enjoying-4k-movies-on-pc-and-mac-systems/"><u>The Ultimate Top 5 Guide: High-Efficiency Video Coding Players for Enjoying 4K Movies on PC and Mac Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723002130773-wwe-2k22-resolving-your-pcs-stuttering-and-freezing-issues-expert-tips/"><u>WWE 2K22 - Resolving Your PC's Stuttering and Freezing Issues | Expert Tips</u></a></li>
+</ul></div>
 

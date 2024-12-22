@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Fixing Fallout 3 Game Crashes on Windows 11"
-date: 2024-12-13T16:23:18.064Z
-updated: 2024-12-20T21:27:46.395Z
+date: 2024-12-16T03:02:49.080Z
+updated: 2024-12-21T19:21:57.007Z
 tags:
   - win11
   - win10
@@ -73,7 +73,7 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics card drivers
@@ -92,19 +92,11 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to a flagged driver (say your graphics card driver) to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you have any problems using Driver Easy to update your driver, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
 
@@ -120,10 +112,6 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-16-1024x218.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Right-click **Path of Exile** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-17.png)
@@ -133,7 +121,7 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-18.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Once complete, exit Steam and reopen it. Run PoE and wait to see if it keeps crashing.
@@ -153,6 +141,10 @@ In case this fix didn’t help, please move on to Fix 4.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-24.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In the Properties window, on the **Compatibility** tab, select **Run this program as an administrator** . Then click **Apply > OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-19.png)
@@ -163,10 +155,6 @@ Still unable to solve the problem? If yes, proceed to the next fix.
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5: Change certain in-game configurations
 
  According to many players, turning off**Engine Multithreading** and**VSync** under Graphics settings has cleared up the crashing problem for them. Here’s how to do it:
@@ -175,15 +163,27 @@ Still unable to solve the problem? If yes, proceed to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-13.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) On the**Graphics** tab, disable**Engine Multithreading** and**VSync** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-14.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-15.png)
 
  3) Wait to see if the crashing issue reoccurs. If it does, maybe these two features should not be blamed for your trouble, and you can enable them later on.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Stop overclocking
 
@@ -213,20 +213,22 @@ Still unable to solve the problem? If yes, proceed to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-essential-tips-convert-and-download-vimeo-hd-to-mp4/"><u>[New] Essential Tips Convert and Download Vimeo HD to MP4</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-capture-spectacular-video-on-youtube-top-webcam-picks-for-2024/"><u>[Updated] Capture Spectacular Video on YouTube Top Webcam Picks for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-improving-remote-work-communications-with-4-strategies/"><u>2024 Approved Improving Remote Work Communications with #4 Strategies</u></a></li>
-<li><a href="https://win-answers.techidaily.com/baldurs-gate-3-troubleshooting-failed-startup-issues/"><u>Baldur's Gate 3: Troubleshooting Failed Startup Issues</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-remedies-for-fixing-the-non-responsive-steelseries-gg-engine-on-windows-systems/"><u>Effective Remedies for Fixing the Non-Responsive SteelSeries GG Engine on Windows Systems</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/essential-error-remedies-top-6-chatgpt-blunders-explained/"><u>Essential Error Remedies: Top 6 ChatGPT Blunders Explained</u></a></li>
-<li><a href="https://games-able.techidaily.com/explore-the-best-10-zero-ad-and-zip-cost-mobile-games/"><u>Explore the Best 10 Zero Ad & Zip Cost Mobile Games</u></a></li>
-<li><a href="https://win-answers.techidaily.com/guide-to-fixing-persona-nought-failure-to-loadlaunch-in-version-3-reloaded/"><u>Guide to Fixing Persona Nought Failure to Load/Launch in Version 3 Reloaded</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-fortnites-video-memory-crash-issue-solutions-inside/"><u>How to Fix Fortnite's Video Memory Crash Issue - Solutions Inside!</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-enhance-your-photography-journey-adding-music-and-filters-in-windows-10-photos/"><u>In 2024, Enhance Your Photography Journey Adding Music and Filters in Windows 10 Photos</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-quick-and-easy-creating-beautifully-detailed-slow-motion-videos-in-mobile-apps/"><u>In 2024, Quick and Easy Creating Beautifully Detailed Slow Motion Videos in Mobile Apps</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-inner-peace-chatgpt-for-continual-reflection/"><u>Navigating Inner Peace: ChatGPT for Continual Reflection</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-the-relink-not-launching-error-in-granblue-fantasy-a-step-by-step-guide/"><u>Solving the 'Relink Not Launching' Error in Granblue Fantasy – A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/the-gatekeepers-to-hell-the-devil-and-heaven-michael-both-have-their-own-music-when-they-appear-on-stage-and-michael-is-portrayed-with-a-halo-over-his-head-459/"><u>The Gatekeepers to Hell (the Devil) and Heaven (Michael); Both Have Their Own Music when They Appear on Stage, and Michael Is Portrayed with a Halo over His Head Like an Angelic Figure</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-helldivers-2-a-guide-to-fix-steam-installation-issues/"><u>Troubleshooting Helldivers 2: A Guide to Fix Steam Installation Issues</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-free-fcp-downloading-what-you-need/"><u>[New] Free FCP Downloading - What You Need</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-tiktoks-potential-changing-your-profile-number/"><u>2024 Approved Unlocking TikTok's Potential Changing Your Profile Number</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-youtube-rotation-simplified-techniques-for-any-degree-updated-edition/"><u>2024 Approved YouTube Rotation Simplified Techniques for Any Degree [Updated Edition]</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/5lia6bo06ama5lq677ya55so5ycs6l2j5oqa6kgt5oplusq6auy5b2x54mh5yig5p6qic0g57ch5zau5oyh5y2x5zkm5lil6lyj5bel5yw3/"><u>一鳴驚人：用倒轉技術提高影片分析 - 簡單指南和下載工具</u></a></li>
+<li><a href="https://win-answers.techidaily.com/discover-the-saga-of-perseverance-in-black-endurance-echoes-of-an-unending-loop/"><u>Discover the Saga of Perseverance in 'Black Endurance: Echoes of an Unending Loop'</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723004543196-fifa-19-troubleshooting-no-more-pc-freezes-or-crashes/"><u>FIFA 19 Troubleshooting: No More PC Freezes or Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-thunder-tier-one-from-keeping-your-pc-in-crisis/"><u>How to Stop Thunder Tier One From Keeping Your PC in Crisis</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-chucklecrafts-join-and-start-crafting-laughter/"><u>In 2024, ChuckleCrafts Join and Start Crafting Laughter</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-xiaomi-redmi-note-12-pro-5g-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Xiaomi Redmi Note 12 Pro 5G FRP Without Computer</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/is-formatting-required-prior-to-cloning-a-fresh-solid-state-drive-expert-insights/"><u>Is Formatting Required Prior to Cloning a Fresh Solid-State Drive? Expert Insights</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimize-horizon-zero-dawn-a-guide-to-improved-fps-and-better-performance/"><u>Optimize Horizon Zero Dawn: A Guide to Improved Fps and Better Performance</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-gaming-struggle-overcome-fps-drops-resolved-to-smooth-experience/"><u>PC Gaming Struggle Overcome: FPS Drops Resolved to Smooth Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/pro-gaming-secrets-scoring-the-best-apple-arcade-offerings/"><u>Pro Gaming Secrets: Scoring the Best Apple Arcade Offerings</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-fixing-the-dark-display-problem-in-halo-infinite/"><u>Resolved: Fixing the Dark Display Problem in Halo Infinite</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-troubleshooting-to-launch-tekken-ebitron-8-without-errors-on-pc/"><u>Step-by-Step Troubleshooting to Launch Tekken Ebitron 8 Without Errors on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-the-blackout-solutions-for-fortnites-screen-fault-on-windows-machines/"><u>Troubleshooting the Blackout: Solutions for Fortnite's Screen Fault on Windows Machines</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/unlocking-an-icloud-locked-ipad-and-iphone-13-pro-max-by-drfone-ios/"><u>Unlocking an iCloud Locked iPad and iPhone 13 Pro Max</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Resolving Detection Issues: Astro Command Center and the A50 Headset"
-date: 2024-12-13T20:58:12.025Z
-updated: 2024-12-20T20:35:39.568Z
+date: 2024-12-21T02:43:27.693Z
+updated: 2024-12-21T19:35:23.371Z
 tags:
   - win11
   - win10
@@ -26,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/c9d63107d989d631581c5dbe79eb35fbfb926a1d5
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down until you find the one that does the charm.
@@ -50,17 +46,13 @@ thumbnail: https://thmb.techidaily.com/c9d63107d989d631581c5dbe79eb35fbfb926a1d5
 2. In the left pane, select **LOCAL FILES** . Then click **Verify integrity of game files** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-verify-4.jpg)
 3. Allow the checking to complete. Then you can start New World and see if it crashes again.
 
 If the problem persists, take a look at the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -94,11 +86,15 @@ Here’s how you can check for updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-gear-icon.jpg)
 2. Scroll down and select**Update & Security** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
@@ -106,15 +102,15 @@ Here’s how you can check for updates manually:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
  Once you’ve installed all the updates, restart your PC and check if New World crashes again.
 
 If your system is already up to date, you can try the next method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Change in-game graphics settings
 
@@ -125,18 +121,22 @@ If your system is already up to date, you can try the next method.
 2. In the left pane, select**Visuals** . Then set**Object details** to**High** or lower.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-change-graphics-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Now you can play and check if the crash stops.
 
  If changing graphics settings doesn’t give you luck, continue to the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Increase your virtual memory
 
@@ -146,15 +146,15 @@ Now you can play and check if the crash stops.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/search-advanced-system-settings.jpg)
 2. Under the **Performance**  section, click **Settings…** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/system-advanced-performance-virtual-memory.jpg)
 3. In the pop-up window, navigate to the **Advanced**  tab. Under the **Virtual memory** section, click **Change…** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/virtual-memory-advanced.jpg)
 4. Deselect the **Automatically manage paging file size for all drives** checkbox. Then select **Customize size** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/vritual-memory-set.jpg)
 5. Enter **Initial size** and **Maximum size** according to the physical memory of your computer. Microsoft recommends that virtual memory should be 1.5 to 3 times the size of physical memory. In my case, the physical memory (actual RAM) of my computer is 8 GB, so the **Initial size** for me here is **8 x 1024 x 1.5 = 12288 MB** , and the **Maximum size** should be **8 x 1024 x 3 = 24576 MB** . Once you’ve entered your size of virtual memory, click **Set** , then click **OK**  to save the changes.  
@@ -197,24 +197,16 @@ Now you can play and check if the crash stops.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-boost-your-view-count-explore-these-12-effective-youtube-strategies/"><u>[Updated] Boost Your View Count Explore These 12 Effective YouTube Strategies</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-the-ultimate-guide-to-alternatives-to-streamlabs-obs/"><u>[Updated] In 2024, The Ultimate Guide to Alternatives to StreamLabs OBS</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-youtube-foundations-building-a-brand-and-generating-income-for-novices/"><u>2024 Approved Youtube Foundations Building a Brand & Generating Income for Novices</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/comment-reparer-les-fichiers-images-sous-windows-11/"><u>Comment Réparer Les Fichiers Images Sous Windows 11?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-issue-of-ls-0013-in-fortnite-comprehensive-guide/"><u>Fixing the Issue of LS-0013 in Fortnite - Comprehensive Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/guide-overcoming-launch-failures-of-back-4-blood-on-various-windows-versions/"><u>Guide: Overcoming Launch Failures of Back 4 Blood on Various Windows Versions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-stop-gta-5-from-stuttering-comprehensive-troubleshooting-guide/"><u>How to Stop GTA 5 From Stuttering - Comprehensive Troubleshooting Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-sticker-removal-strategies-for-tiktok-content/"><u>In 2024, Sticker Removal Strategies for TikTok Content</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-the-sound-of-success-audio-recording-guide/"><u>In 2024, The Sound of Success Audio Recording Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/left-4-dead-2-stability-improvements-no-more-game-crashes/"><u>Left #4 Dead 2 Stability Improvements - No More Game Crashes!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mount-and-blade-ii-how-we-fixed-the-notorious-crashing-bug/"><u>Mount and Blade II: How We Fixed The Notorious Crashing Bug</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcome-gaming-slowdowns-tips-for-eliminating-lag-during-your-outriders-adventures/"><u>Overcome Gaming Slowdowns - Tips for Eliminating Lag During Your Outriders Adventures</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-errors-during-minecraft-native-launcher-updates-tips-and-tricks/"><u>Overcoming Errors During Minecraft Native Launcher Updates: Tips and Tricks</u></a></li>
-<li><a href="https://win-answers.techidaily.com/rockstar-games-launcher-fixed-ultimate-troubleshooting-guide/"><u>Rockstar Games Launcher Fixed: Ultimate Troubleshooting Guide</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-tutorial-on-updating-to-the-newest-steelseries-graphics-drivers-for-windows-users/"><u>Step-by-Step Tutorial on Updating to the Newest SteelSeries Graphics Drivers for Windows Users</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-insider-guide-to-buying-a-game-laptop/"><u>The Insider Guide to Buying a Game Laptop</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-resolve-the-fall-guys-pc-freezing-glitch-effectively/"><u>Troubleshooting Tips: Resolve the Fall Guys PC Freezing Glitch Effectively</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ultimate-guide-dji-mavic-air-2s-top-of-the-line-drone-analysis/"><u>Ultimate Guide: DJI Mavic Air 2S - Top of the Line Drone Analysis</u></a></li>
-<li><a href="https://win-answers.techidaily.com/wolcen-launch-hurdles-current-progress-and-what-fans-can-anticipate-next/"><u>Wolcen Launch Hurdles - Current Progress & What Fans Can Anticipate Next</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-joketileart-imagehumorhub/"><u>[New] JokeTileArt ImageHumorHub</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-top-3-hd-film-scrapers-on-fb/"><u>[Updated] Top 3 HD Film Scrapers on Fb</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-solving-the-terraria-disconnect-issue-in-6-simple-steps/"><u>Expert Tips: Solving the Terraria Disconnect Issue in 6 Simple Steps</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-rainbow-six-siege-issue-resolving-error-code-3-0x0001000b/"><u>Fixing Rainbow Six Siege Issue: Resolving Error Code 3-0X0001000B</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-ensure-seamless-integration-of-astros-a50-headset-with-the-command-center/"><u>How to Ensure Seamless Integration of Astro's A50 Headset with the Command Center</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-nokia-130-music-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-poco-m6-pro-4g-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Poco M6 Pro 4G in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723012977315-pc-troubles-heres-how-to-fix-subnautica-below-zero-crashes/"><u>PC Troubles? Here's How to Fix Subnautica: Below Zero Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-issue-found-in-oculus-graphics-driver/"><u>Resolved: Issue Found in Oculus Graphics Driver</u></a></li>
+<li><a href="https://fox-http.techidaily.com/streamlined-approaches-for-zoom-utility-on-chromebook/"><u>Streamlined Approaches for Zoom Utility on Chromebook</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/tailoring-your-windows-desktop-experience-with-the-control-panel-expert-tips-from-yl-computing/"><u>Tailoring Your Windows Desktop Experience with the Control Panel - Expert Tips From YL Computing</u></a></li>
 </ul></div>
 
