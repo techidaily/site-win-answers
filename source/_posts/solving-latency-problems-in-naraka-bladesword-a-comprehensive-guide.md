@@ -1,7 +1,7 @@
 ---
 title: "Solving Latency Problems in Naraka Bladesword: A Comprehensive Guide"
-date: 2024-12-11T16:23:10.954Z
-updated: 2024-12-12T18:14:23.788Z
+date: 2024-12-17T20:50:50.928Z
+updated: 2024-12-20T19:30:11.397Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/80dbe73edcb9caed2b21ead0e410557adcd122855
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all. Simply work your way down the list until you find the one that does the trick.
@@ -35,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/80dbe73edcb9caed2b21ead0e410557adcd122855
 5. **[Verify the integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Disable Steam overlay](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Launch the game in windowed mode
 
  Some players found that starting the game in windowed mode may fix the black screen issue in Elden Ring. When your game is running, you can press**Alt+Enter** at the same time to switch between the windowed mode and full-screen mode. If this doesn’t work, you can try setting launch options in Steam. Here’s how:
@@ -48,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/80dbe73edcb9caed2b21ead0e410557adcd122855
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-steam-properties.jpg)
 3. On the**General** tab, you’ll find the**Launch Options** section. Then enter the following parameters to open the game in windowed mode:  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **\-windowed**  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-windowed-mode.jpg)
 4. Close the**Properties** window and launch the game.
@@ -59,12 +55,16 @@ thumbnail: https://thmb.techidaily.com/80dbe73edcb9caed2b21ead0e410557adcd122855
  If the black screen occurs again, don’t worry. There are still other fixes you can try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Restart your graphics driver
 
  When you get a black screen on your Windows PC, you can try using the keyboard shortcut**Windows logo key + Ctrl + Shift + B** to restart your graphics driver. If Windows is responsive, your screen will flash and then the game should work fine. But if not, go ahead with the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -102,6 +102,10 @@ There are mainly two ways to update your graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/check-for-updates.jpg)
 3. Once you’ve installed all pending updates, restart your PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Launch Elden Ring again and check if you still get stuck on a black screen.
 
 If the issue persists, move on to the next fix.
@@ -112,11 +116,11 @@ If the issue persists, move on to the next fix.
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/win11-search-bar-check-for-updates.jpg)
 2. Click on the**Check for updates** button.  
 
-![win11 - Download & install Windows Update](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Check-for-updates-button.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![win11 - Download & install Windows Update](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Check-for-updates-button.jpg)
 
  When updates are available, follow the on-screen instructions to download and install them.
 
@@ -129,20 +133,12 @@ If the issue persists, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-steam-properties.jpg)
 3. Select the**Install Files** tab and click**Verify integrity of game files** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-Verify-integrity-of-game-files.jpg)
 4. Wait a few minutes for Steam to verify the game files.
 
  Once the process is complete, relaunch the game and check to see if you can get past the black screen.
 
 If the issue remains, take a look at the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Disable Steam overlay
 
@@ -153,11 +149,15 @@ If the issue remains, take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-steam-properties.jpg)
 3. On the**General** tab, toggle off**Enable the Steam Overlay while in-game** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-Disable-in-game-overlay.jpg)
 4. Close the**Properties** window and launch the game.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Now check if the black screen issue has gone away.
@@ -185,18 +185,24 @@ Now check if the black screen issue has gone away.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-expertly-selected-8-recording-software/"><u>[New] 2024 Approved Expertly Selected 8 Recording Software</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-get-people-to-subscribe-by-asking-the-right-way-for-2024/"><u>[New] How to Get People to Subscribe by Asking the Right Way for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-unveiling-prodigy-strategies-for-enthusiasts-in-seo/"><u>[Updated] Unveiling Prodigy Strategies for Enthusiasts in SEO</u></a></li>
-<li><a href="https://win-answers.techidaily.com/comprehensive-guide-resolving-issues-when-internet-explorer-fails-to-work/"><u>Comprehensive Guide: Resolving Issues When Internet Explorer Fails to Work</u></a></li>
-<li><a href="https://win-able.techidaily.com/improve-war-thunder-lag-issues-expert-tips-for-optimal-frame-rates/"><u>Improve War Thunder Lag Issues: Expert Tips for Optimal Frame Rates</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-building-connections-interacting-with-your-viewers/"><u>In 2024, Building Connections Interacting With Your Viewers</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-honor-play-7t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Honor Play 7T | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-pro-audio-recording-excellence-with-audacity/"><u>In 2024, Pro Audio Recording Excellence with Audacity</u></a></li>
-<li><a href="https://win-answers.techidaily.com/rainbow-six-extraction-pc-issues-solutions-and-workarounds-to-eliminate-crashes/"><u>Rainbow Six Extraction PC Issues: Solutions and Workarounds to Eliminate Crashes</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/rebuilt-display-integrity-on-win11-os/"><u>Rebuilt Display Integrity on Win11 OS</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-fix-for-battlenet-launcher-malfunction-on-windows-pcs/"><u>Step-by-Step Fix for Battle.net Launcher Malfunction on Windows PCs</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-magsafe-chargers-comprehensive-analysis-and-reviews-by-tech-experts-pcmag/"><u>Top-Rated MagSafe Chargers : Comprehensive Analysis & Reviews by Tech Experts - PCMag</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-resolving-issues-with-the-unlaunched-2024-assassins-creed-mirage/"><u>Troubleshooting Guide: Resolving Issues with the Unlaunched 2024 Assassin's Creed Mirage</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-vrchat-not-loading-not-working-at-all/"><u>[SOLVED] VRChat Not Loading / Not Working at All</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-comprehensive-list-of-premium-windows-edits-apps-for-2024/"><u>[Updated] Comprehensive List of Premium Windows Edits Apps for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-facetune-photos-app-complete-review-and-guide/"><u>[Updated] Facetune Photos App Complete Review and Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-facebooks-2023-video-strategy-emphasizing-conciseness-and-engagement/"><u>[Updated] In 2024, Facebook's 2023 Video Strategy Emphasizing Conciseness and Engagement</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-navigating-safaris-picture-in-picture-for-mobiledesktop/"><u>[Updated] Navigating Safari’s Picture in Picture for Mobile/Desktop</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/20plus-ways-to-earn-from-your-facebook-community-for-2024/"><u>20+ Ways to Earn From Your Facebook Community for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/breach-exposed-over-15000-roku-accounts-vulnerable-immediate-action-advised-by-zdnet/"><u>Breach Exposed! Over 15,000 Roku Accounts Vulnerable | Immediate Action Advised by ZDNet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/decode-the-mystery-in-detroit-become-human-the-ultimate-pc-gaming-journey/"><u>Decode the Mystery in 'Detroit: Become Human': The Ultimate PC Gaming Journey</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-analysis-of-nvidia-shield-tv-pro-gaming-enthusiasts-ultimate-media-hub/"><u>Expert Analysis of Nvidia Shield TV Pro: Gaming Enthusiasts' Ultimate Media Hub</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722999484112-fixed-pc-release-no-more-crashes-in-five-nights-at-freddys-game/"><u>Fixed PC Release: No More Crashes in Five Nights At Freddy's Game</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-solve-helldiver-ii-starting-issue-eliminating-the-black-screen-problem/"><u>How to Solve Helldiver II Starting Issue - Eliminating the Black Screen Problem</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-samsung-galaxy-s24-ultra-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Samsung Galaxy S24 Ultra to New Phone | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-the-rookies-guide-to-youtube-entrepreneurship-and-earnings/"><u>In 2024, The Rookie's Guide to YouTube Entrepreneurship and Earnings</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-how-to-eliminate-lag-during-a-game-of-league-of-legends/"><u>Resolved: How to Eliminate Lag During a Game of League of Legends</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-the-new-world-connection-issue-step-by-step-guide/"><u>Resolving the 'New World Connection Issue': Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/ultimate-guide-to-top-9-online-microphone-recorder-choices-for-2024/"><u>Ultimate Guide to Top 9 Online Microphone Recorder Choices for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/understanding-ping-problems-lags-and-fps-drops-in-call-of-duty-black-ops-2015/"><u>Understanding Ping Problems, Lags & FPS Drops in Call of Duty: Black Ops 2015</u></a></li>
+<li><a href="https://win-answers.techidaily.com/why-arent-my-skype-messages-sending-find-out-how-to-rectify-this-common-issue/"><u>Why Aren't My Skype Messages Sending? Find Out How to Rectify This Common Issue</u></a></li>
+<li><a href="https://win-answers.techidaily.com/why-is-my-gpu-ignored-by-warzone-troubleshooting-for-players-on-windows-10-systems/"><u>Why Is My GPU Ignored by Warzone? Troubleshooting for Players on Windows 10 Systems</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Performance: Resolving Lag Issues for a Seamless Dying Light 2 Experience on Your Desktop"
-date: 2024-12-08T16:25:59.022Z
-updated: 2024-12-12T18:16:58.495Z
+date: 2024-12-18T19:59:25.044Z
+updated: 2024-12-20T18:14:33.780Z
 tags:
   - win11
   - win10
@@ -35,11 +35,11 @@ Only got a**black screen** at startup or during the thrilling gameplay in Reside
 ![Resident Evil Village black screen ](https://images.drivereasy.com/wp-content/uploads/2021/05/featured-image.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Verify integrity of game files
@@ -54,13 +54,13 @@ Only got a**black screen** at startup or during the thrilling gameplay in Reside
   
 ![Resident Evil Village verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-integrity-of-game-fiels.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Then Steam will start to verify your game files. This will take several minutes to repair or redownload any corrupted or missing game files. Wait until the process is finished.
 
 If this didn’t solve your problem, try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Download and install Windows updates
 
@@ -79,7 +79,7 @@ If this didn’t solve your problem, try the next fix below.
  Still no luck? Don’t worry, there are a few other fixes you can try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Update your graphics driver
@@ -87,10 +87,6 @@ If this didn’t solve your problem, try the next fix below.
  Your graphics driver acts like an interpreter between your device and the system. If it’s out-of-date or misconfigured, issues like programs not launching properly would occur. To ensure that you get the most out of your graphics card, you need to check for graphics driver updates. This may help you fix the black screen issue immediately.
 
  There are mainly two ways you can update your graphics driver: [manually](https://tools.techidaily.com/drivereasy/download/) and **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 1: Manually update your graphics driver
 
@@ -101,6 +97,10 @@ If this didn’t solve your problem, try the next fix below.
 [Intel](https://downloadcenter.intel.com/product/80939/Graphics)
 
  Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 2: Automatically update your graphics driver (recommended)
 
@@ -114,18 +114,10 @@ If this didn’t solve your problem, try the next fix below.
 
 ![update network adapter driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them. )
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -147,6 +139,10 @@ If this didn’t solve your problem, try the next fix below.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-an-administrator.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Select the**Compatibility** tab. Check the box next to**Run this program as an administrator** . Then click**Apply > OK** .  
   
 ![run Resident Evil Village as an administrator ](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-an-administrator-Compatibility.png)
@@ -164,6 +160,10 @@ If this didn’t solve your problem, try the next fix below.
  2) Select the**LOCAL FILES** tab. Then click**Browse…** and you’ll be brought to the game’s installation directory.  
   
 ![disable HDR Resident Evil Village](https://images.drivereasy.com/wp-content/uploads/2021/05/browse-local-file.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Find the**config** file and open it.
 
@@ -190,24 +190,18 @@ If this didn’t solve your problem, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-mastering-snapchat-flip-your-videos-backwards/"><u>[New] 2024 Approved Mastering Snapchat Flip Your Videos Backwards</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solved-wolcen-lords-of-mayhem-crashes-pc/"><u>[Solved] Wolcen: Lords of Mayhem Crashes PC</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-hiding-youtube-playback-tips-for-ios-and-android-for-2024/"><u>[Updated] Hiding YouTube Playback Tips for iOS and Android for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/direct3d-startup-all-systems-go/"><u>Direct3D Startup: All Systems Go</u></a></li>
-<li><a href="https://win-answers.techidaily.com/dying-light-speed-boost-fixing-lag-issues-for-smoother-gaming/"><u>Dying Light Speed Boost: Fixing Lag Issues for Smoother Gaming</u></a></li>
-<li><a href="https://facebook.techidaily.com/find-and-explore-fbs-latest-views/"><u>Find and Explore FB's Latest Views</u></a></li>
-<li><a href="https://win-answers.techidaily.com/forza-horizon-5-pc-issues-how-to-address-sudden-crashes-effectively/"><u>Forza Horizon 5 PC Issues: How to Address Sudden Crashes Effectively</u></a></li>
-<li><a href="https://win-answers.techidaily.com/guide-to-fixing-itunes-audio-problems-for-seamless-music-streaming/"><u>Guide to Fixing iTunes Audio Problems for Seamless Music Streaming</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Ways to Fake GPS Without Root On Apple iPhone X | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-master-the-art-of-moving-shots-a-handbook-for-hero5-time-lapse-photography/"><u>In 2024, Master the Art of Moving Shots A Handbook for Hero5 Time-Lapse Photography</u></a></li>
-<li><a href="https://win-answers.techidaily.com/insights-into-the-delayed-arrival-of-mafia-full-set-solved-mysteries-unveiled/"><u>Insights Into the Delayed Arrival of Mafia: Full Set - Solved Mysteries Unveiled</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-game-launch-problems-in-division-2-expert-advice-and-solutions/"><u>Overcoming Game Launch Problems in Division 2: Expert Advice and Solutions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/pc-gamers-stop-blitzhawk-heres-how-to-resolve-match-not-found-in-warzone/"><u>PC Gamers, Stop Blitzhawk! Here’s How to Resolve 'Match Not Found' In Warzone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-overcome-issues-with-hitman-3-initial-launch-failure-on-windows/"><u>Resolved: Overcome Issues with Hitman 3 Initial Launch Failure on Windows</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solved-anticheat-connection-failed-error-in-escape-from-tarkov/"><u>Solved: 'Anticheat Connection Failed' Error in Escape From Tarkov</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-complete-users-handbook-to-setting-up-slack-alerts-and-reminders/"><u>The Complete User's Handbook to Setting Up Slack Alerts and Reminders</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-quick-lifecycle-of-game-servers-to-care-or-not/"><u>The Quick Lifecycle of Game Servers: To Care or Not?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-user-profile-service-sign-in-issues-in-windows-11-versions/"><u>Troubleshooting User Profile Service Sign-In Issues in Windows 11 Versions</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unveiling-the-best-10-online-background-variant-software-for-2024/"><u>Unveiling the Best 10 Online Background Variant Software for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-expert-picks-top-1-cookie-cutter-list-of-10-apps-for-basketball-and-rugby-streaming/"><u>[New] Expert Picks Top 1 Cookie Cutter List of 10 Apps for Basketball and Rugby Streaming</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-enhancing-media-creation-skills-with-windows-movie-maker-windows-8-edition/"><u>[Updated] 2024 Approved Enhancing Media Creation Skills with Windows Movie Maker (Windows 8 Edition)</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-craft-your-narrative-on-reddit-mastering-content-delivery-for-2024/"><u>[Updated] Craft Your Narrative on Reddit Mastering Content Delivery for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-charting-a-course-to-a-million-fans-with-this-tutorial/"><u>2024 Approved Charting a Course to a Million Fans with This Tutorial</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/captivating-creations-utilizing-motion-blur-effects-in-ai-for-2024/"><u>Captivating Creations Utilizing Motion Blur Effects in AI for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/demystifying-digital-giants-essential-insights-on-facebook-twitter-instagram-and-youtube/"><u>Demystifying Digital Giants: Essential Insights on Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/explore-new-realms-the-ultimate-guide-to-iphone-vr-gaming-for-2024/"><u>Explore New Realms The Ultimate Guide to IPhone VR Gaming for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/getting-your-discord-overlay-back-up-and-running-in-no-time/"><u>Getting Your Discord Overlay Back Up & Running in No Time!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/halo-infinite-pc-crash-woes-here-are-the-solutions/"><u>Halo Infinite PC Crash Woes? Here Are the Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-players-struggle-heres-how-to-fix-cod-black-ops-cold-war-not-starting/"><u>PC Players Struggle? Here’s How to Fix Cod: Black Ops Cold War Not Starting</u></a></li>
+<li><a href="https://win-answers.techidaily.com/revolutionize-your-downloads-proven-methods-to-fix-slow-origin-speed-issues/"><u>Revolutionize Your Downloads: Proven Methods to Fix Slow Origin Speed Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/sid-meiers-civilization-vi-crash-woes-expert-fixes-to-get-you-back-in-action/"><u>Sid Meier’s Civilization VI Crash Woes? Expert Fixes to Get You Back in Action!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-resolving-issues-with-guilty-gear-strive-on-windows/"><u>Troubleshooting Guide: Resolving Issues with Guilty Gear Strive on Windows</u></a></li>
 </ul></div>
 

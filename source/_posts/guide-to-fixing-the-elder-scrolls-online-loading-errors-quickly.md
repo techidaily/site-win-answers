@@ -1,7 +1,7 @@
 ---
 title: Guide to Fixing The Elder Scrolls Online Loading Errors Quickly
-date: 2024-12-06T16:35:09.541Z
-updated: 2024-12-12T16:51:39.154Z
+date: 2024-12-18T17:52:21.339Z
+updated: 2024-12-20T21:06:03.726Z
 tags:
   - win11
   - win10
@@ -31,10 +31,6 @@ If you launch the Elder Scrolls Online but get stuck on the loading screen befor
 3. [Repair the launcher](https://tools.techidaily.com/drivereasy/download/)
 4. [Update your driver](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Add ESO into exception
 
  The Elder Scrolls Online would not work properly when the program is blocked by your firewall or antivirus software. Therefore, please add an exception for the game through your Antivirus and Windows defender firewall.
@@ -47,23 +43,23 @@ Here’s how to allow the ESO launcher through the firewall.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/image-7.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click the **Allow an app or feature through Windows Defender Firewall** from the left panel.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/image-8.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click **Change settings** button and check both **Private**  and **Public** options for items related to ESO or ESO launcher.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/image-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click **OK**  button to save changes. Then reboot the game to check the issue persists or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Delete the program data
 
@@ -76,7 +72,7 @@ Here’s how to allow the ESO launcher through the firewall.
 4. Restart the ESO Launcher to check.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Repair the launcher
@@ -116,11 +112,15 @@ OR
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/DE-PRO-VEGA-KILLER-NETWORKING.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -144,17 +144,18 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-top-10-guidelines-for-breaking-through-cover-art/"><u>[New] 2024 Approved Top 10 Guidelines for Breaking Through Cover Art</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-best-budget-friendly-srt-translators-unveiled-online/"><u>[New] In 2024, Best Budget-Friendly SRT Translators Unveiled Online</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-premium-picklist-of-digital-vault-services-for-2024/"><u>[New] Premium Picklist of Digital Vault Services for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-ranking-8-real-time-strategies-to-grow-youtube-success/"><u>[Updated] Ranking 8 Real-Time Strategies to Grow YouTube Success</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-the-roadmap-to-captivating-shorts-visuals-custom-thumbnail-essentials/"><u>2024 Approved The Roadmap to Captivating Shorts Visuals Custom Thumbnail Essentials</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/nating-robotic-ratings-to-grow-views/"><u>Eliminating Robotic Ratings to Grow Views</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-the-nvidia-geforce-experience-error-code-0x0003/"><u>How to Fix the Nvidia GeForce Experience Error - Code 0X0003</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-fast-track-to-zooming-proficiency/"><u>In 2024, The Fast Track to Zooming Proficiency</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-solution-for-paradox-launcher-malfunctions-and-errors/"><u>Step-by-Step Solution for Paradox Launcher Malfunctions and Errors</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-prime-day-bargains-unbeatable-acer-discounts/"><u>Top Prime Day Bargains: Unbeatable Acer Discounts</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-resolving-issues-with-monster-hunter-stories-2-wings-of-ruin-startup-problems/"><u>Troubleshooting Guide: Resolving Issues with Monster Hunter Stories 2 - Wings of Ruin Startup Problems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-ultimate-guide-to-resolving-baldurs-gate-game-lag-and-crashes/"><u>Troubleshooting: Ultimate Guide to Resolving Baldur's Gate Game Lag and Crashes</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-rated-recs-prime-websites-for-grabbing-snapalert-beats-for-2024/"><u>[New] Rated Recs Prime Websites for Grabbing SnapAlert Beats for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-sony-a6400-video-failure-what-to-do-next/"><u>2024 Approved Sony A6400 Video Failure What To Do Next?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/comprehvew-on-how-to-repair-helldivers-2-blue-screen-of-death-error-efficiently/"><u>Comprehvew on How to Repair 'Helldivers 2' Blue Screen of Death Error Efficiently</u></a></li>
+<li><a href="https://windows11.techidaily.com/conquer-windows-servers-resolving-no-servers-found-in-apex-legends-(156-chars/"><u>Conquer Windows Servers: Resolving No Servers Found in Apex Legends (<156 Chars)</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/dissecting-screencapturex-pros-latest-recording-capabilities-for-2024/"><u>Dissecting ScreenCaptureX Pro's Latest Recording Capabilities for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/expected-video-gb-for-continuous-24-hour-viewing/"><u>Expected Video GB for Continuous 24-Hour Viewing</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-investigating-screenshots-best-tools-fraps-vs-obs-studio/"><u>In 2024, Investigating Screenshots’ Best Tools Fraps Vs OBS Studio</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-chatgpt-5-hidden-functions-worth-exploring/"><u>Mastering ChatGPT: 5 Hidden Functions Worth Exploring</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-itunes-audio-mishaps-a-comprehensive-guide/"><u>Overcoming iTunes Audio Mishaps: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-tutorial-for-correcting-battlefield-2042s-directx-problems/"><u>Step-by-Step Tutorial for Correcting Battlefield 2042'S DirectX Problems</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1662464-9780861719907-the-attention-revolution/"><u>The Attention Revolution | Free Book</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-resolving-continuous-crashes-in-immortals-of-fenyx-rising/"><u>Troubleshooting Guide: Resolving Continuous Crashes in Immortals of Fenyx Rising</u></a></li>
+<li><a href="https://win-answers.techidaily.com/warno-game-continuously-crashing-heres-how-to-stabilize-it-on-your-computer/"><u>Warno Game Continuously Crashing? Here’s How to Stabilize It on Your Computer!</u></a></li>
 </ul></div>
 

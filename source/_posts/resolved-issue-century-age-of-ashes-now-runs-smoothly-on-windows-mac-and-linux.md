@@ -1,7 +1,7 @@
 ---
 title: "Resolved Issue: Century: Age of Ashes Now Runs Smoothly on Windows, Mac, & Linux"
-date: 2024-12-10T16:00:23.194Z
-updated: 2024-12-12T18:20:02.367Z
+date: 2024-12-13T20:55:45.204Z
+updated: 2024-12-20T20:14:32.166Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ After a long wait, the[new Hitman installment](https://www.epicgames.com/store/e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not need to try them all. Simply work down the list until you find the one that does the trick.
@@ -32,6 +36,10 @@ After a long wait, the[new Hitman installment](https://www.epicgames.com/store/e
 4. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Check if it’s a server issue](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Verify the integrity of your game files
 
@@ -48,10 +56,6 @@ Now you can try to launch Hitman 3 using the Epic Games launcher.
 
  If verifying game files doesn’t help, you can take a look at the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Run Epic Games as administrator
 
  If there’s nothing wrong with your game files, the next thing you should do is check for permission issues. Granting the Epic Games launcher the administrator access could be a potential fix in this regard.
@@ -61,6 +65,10 @@ Here’s how:
 1. On your keyboard, press Win (the Windows logo key) and type Epic Games. In the search results, select**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-games-launcher-run-as-admin.jpg)
 2. Now try to launch Hitman 3\. If this trick works for you, continue to the next step to**always run Epic Games launcher as administrator** . Otherwise you can jump to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3. On your desktop, right-click**Epic Game launcher** and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-games-launcher-run-as-admin-2.jpg)
@@ -73,6 +81,10 @@ Here’s how:
  The game not launching error might come from the game launcher. Some gamers reported on[reddit](https://www.reddit.com/r/HiTMAN/comments/l1qlc7/cant%5Flaunch%5Fthe%5Fgame%5Fat%5Fall%5Fon%5Fepic/) that when they failed to start Hitman 3 from Epic Games launcher, one possible workaround is to launch it using the**hitman3.exe** file in the game folder. So you can try this trick and see how things go.
 
  If you can’t launch Hitman 3 directly from the game folder, take a look at the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -103,10 +115,6 @@ To do so, first visit the website of your GPU manufacturer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 After updating your GPU driver, you can check if Hitman 3 is working now.
@@ -114,7 +122,7 @@ After updating your GPU driver, you can check if Hitman 3 is working now.
  If the latest graphics driver doesn’t solve the problem, you can take a look at the next method.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Install all Windows updates
@@ -127,29 +135,21 @@ Here’s how you can check for updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-gear-icon.jpg)
 2. Scroll down and select**Update & Security** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
  After getting all the system updates, restart your gaming rig and check if Hitman 3 works now.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Check if it’s a server issue
 
@@ -174,24 +174,18 @@ Here’s how you can check for updates manually:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-ideas-to-boost-the-impact-of-fb-video-campaigns-for-2024/"><u>[New] Ideas to Boost the Impact of FB Video Campaigns for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-magix-acid-pro-review-and-alternatives/"><u>[New] Magix ACID Pro Review & Alternatives</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-top-pick-for-extreme-sports-footage-black-gopro-or-x1000v-for-2024/"><u>[New] Top Pick for Extreme Sports Footage Black GoPro or X1000V for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-online-webinar-conduct-with-youtube/"><u>[Updated] 2024 Approved Free Online Webinar Conduct with YouTube</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-streamers-guide-to-choosing-a-video-player-vlc-vs-mpc/"><u>[Updated] Streamer's Guide to Choosing a Video Player VLC Vs. MPC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/brighten-up-your-playtime-solutions-for-fallout-4-display-dilemma/"><u>Brighten Up Your Playtime: Solutions for Fallout 4 Display Dilemma</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/cyber-conference-capture-for-2024/"><u>Cyber Conference Capture for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/cyberpunk-2077-launch-problem-solved-a-step-by-step-guide/"><u>Cyberpunk 2077 Launch Problem Solved: A Step-by-Step Guide</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/expert-tips-choosing-the-ideal-screen-recorder-software/"><u>Expert Tips Choosing the Ideal Screen Recorder Software</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-tips-to-resolve-freezing-problems-while-playing-devolver-digitals-hit-title-deathloop-on-pc-and-ps5/"><u>Expert Tips to Resolve Freezing Problems While Playing Devolver Digital's Hit Title, Deathloop, on PC & PS5</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixes-and-solutions-resolving-your-steam-login-issues/"><u>Fixes and Solutions: Resolving Your Steam Login Issues</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-huawei-p60-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Huawei P60 | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-enjoy-uninterrupted-youtube-with-effective-adblocking-methods/"><u>In 2024, Enjoy Uninterrupted YouTube with Effective Adblocking Methods</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-entry-level-vector-exploration-grasping-different-forms/"><u>In 2024, Entry-Level Vector Exploration Grasping Different Forms</u></a></li>
-<li><a href="https://win-answers.techidaily.com/nvidia-overlay-errors-diagnosis-and-solutions-for-improved-performance/"><u>Nvidia Overlay Errors: Diagnosis and Solutions for Improved Performance</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-dauntless-stutter-and-crashes-in-your-pc-adventure/"><u>Overcoming Dauntless Stutter and Crashes in Your PC Adventure</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-problems-on-cod-warzone-pacific-region-patch-released/"><u>Resolving Problems on COD: Warzone - Pacific Region Patch Released</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-8-solutions-for-resolving-firefox-unresponsive-problems/"><u>Top 8 Solutions for Resolving Firefox Unresponsive Problems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-how-to-overcome-ark-program-crashes-successfully/"><u>Troubleshooting Guide - How to Overcome ARK Program Crashes Successfully</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-share-the-laughs-right-top-gif-saver-for-twitter/"><u>[Updated] In 2024, Share the Laughs Right Top GIF Saver for Twitter</u></a></li>
+<li><a href="https://win-answers.techidaily.com/baldurs-gate-performance-optimization-six-strategies-to-eliminate-hitching-and-halts/"><u>Baldur's Gate Performance Optimization: Six Strategies to Eliminate Hitching & Halts</u></a></li>
+<li><a href="https://win-answers.techidaily.com/definitive-solutions-to-eliminate-football-manager-2020s-persistent-crash-problems/"><u>Definitive Solutions To Eliminate Football Manager 2020'S Persistent Crash Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/epic-games-launcher-screen-fixes-beating-the-blackout-blues-successfully/"><u>Epic Games Launcher Screen Fixes: Beating the Blackout Blues Successfully</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341752337-get-insightful-reviews-on-asus-rog-azoth-extreme-perfect-gaming-rig-under-500/"><u>Get Insightful Reviews on Asus ROG Azoth Extreme - Perfect Gaming Rig Under $500!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y27s-phone-without-password-by-drfone-android/"><u>How To Unlock Vivo Y27s Phone Without Password?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-to-removing-backdrops-a-comprehensive-approach/"><u>In 2024, The Ultimate Guide to Removing Backdrops A Comprehensive Approach</u></a></li>
+<li><a href="https://win-blog.techidaily.com/movavi-cutting-edge-discount-terms-and-conditions-be-aware-before-applying/"><u>Movavi Cutting-Edge Discount Terms and Conditions - Be Aware Before Applying</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-entry-point-not-found-error-in-fortnite-a-comprehensive-guide/"><u>Resolving 'Entry Point Not Found' Error in Fortnite: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-pc-issues-how-to-stop-elite-dangerous-from-crashing-on-your-computer/"><u>Resolving PC Issues - How to Stop Elite Dangerous From Crashing on Your Computer</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-samsung-galaxy-f14-5g-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Samsung Galaxy F14 5G for Streaming | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-no-more-crashing-in-dark-souls-3-solutions-included/"><u>Troubleshooting Guide: No More Crashing in Dark Souls 3 - Solutions Included</u></a></li>
 </ul></div>
 

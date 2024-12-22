@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Tips for Successful Destiny 2 Installation on PC
-date: 2024-12-05T16:49:28.786Z
-updated: 2024-12-12T19:01:18.172Z
+date: 2024-12-16T16:30:55.168Z
+updated: 2024-12-20T17:33:11.965Z
 tags:
   - win11
   - win10
@@ -24,16 +24,12 @@ Are your getting the ‘**HP My Display has stopped working**‘ error on your W
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Here’s how
 
 Step 1: **[Uninstall HP My Display on your computer](https://tools.techidaily.com/drivereasy/download/)** Step 2: **[Update your graphics card driver and HP monitor driver](https://tools.techidaily.com/drivereasy/download/)** Step 3: **[Reinstall HP My Display on your computer](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Firstly, uninstall HP My Display on your computer
@@ -44,7 +40,15 @@ To do so:
 2. Type**control** and press**Enter** .![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b89010276b4b.png)
 3. Select**Programs and Features** when selected to**View by Large icons** .![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b890184befeb.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Right-click**HP My Display** to select**Uninstall** .![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b8901cc8a421.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Click **Yes**  when prompted by User Account Control.
 
@@ -57,11 +61,7 @@ You can choose to update your device drivers through**Device Manager**to let Win
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the**Pro version** which comes with**full support** and a**30-day money back guarantee** . You’ll be prompted to upgrade when you click Update All.)**Note:** You can also do it for free if you like, but it’s partly manual.![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b890b1f40fe3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Last, download the latest version of HP My Display to install it on your computer
@@ -71,7 +71,7 @@ You can choose to update your device drivers through**Device Manager**to let Win
 3. **Double-click** the downloaded file and follow the on-screen instructions to install HP My Display on your computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 HP My Display should then be running without problem after the installation. Do you fix the HP My Display has stopped working error? Feel free to comment below with your own experiences.
@@ -94,20 +94,22 @@ HP My Display should then be running without problem after the installation. Do 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-comprehensive-srt-to-xmlssa-transformation-guide/"><u>[New] 2024 Approved Comprehensive SRT to XML/SSA Transformation Guide</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-popularize-with-pizzazz-infuse-instagram-reels-with-tiktok-energy/"><u>[Updated] Popularize with Pizzazz Infuse Instagram Reels With TikTok Energy</u></a></li>
-<li><a href="https://win-answers.techidaily.com/clean-up/"><u>Clean-Up</u></a></li>
-<li><a href="https://win-special.techidaily.com/comment-resoudre-lerreur-de-mise-a-jour-windows-11-code-derreur-0x80070002-et-0x80070003/"><u>Comment Résoudre L'Erreur De Mise À Jour Windows 11 - Code D'erreur 0X80070002 Et 0X80070003</u></a></li>
-<li><a href="https://win-answers.techidaily.com/experience-the-thrilling-world-of-yakuza-like-a-dragon-finally-perfected-for-pc-users/"><u>Experience the Thrilling World of Yakuza: Like a Dragon, Finally Perfected for PC Users</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fix-the-kernelbasedll-crash-problem-fast-and-seamlessly-a-complete-solution/"><u>Fix the kernelbase.dll Crash Problem Fast and Seamlessly - A Complete Solution!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixes-and-solutions-how-to-stop-everscape-ii-from-crashing-on-your-windows-computer/"><u>Fixes & Solutions: How to Stop Everscape II From Crashing on Your Windows Computer</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-gmail-password-on-sony-xperia-5-v-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Sony Xperia 5 V Devices</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-scale-up-snapshot-size-retain-sharpness/"><u>In 2024, Scale Up Snapshot Size - Retain Sharpness</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-shape-your-online-presence-changing-backdrops-in-google-meet/"><u>In 2024, Shape Your Online Presence Changing Backdrops in Google Meet</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-the-graphics-error-d3d-initialization-flaw-in-grand-theft-auto-v/"><u>Solving the Graphics Error D3D Initialization Flaw in Grand Theft Auto V</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-the-nwstoreexe-runtime-problem-a-comprehensive-guide/"><u>Solving the NW_Store.exe Runtime Problem: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/streaming-successfully-fixes-for-continuous-buffering-in-discord-channels/"><u>Streaming Successfully: Fixes for Continuous Buffering in Discord Channels</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-nubia-red-magic-8s-proplus-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Nubia Red Magic 8S Pro+ Users</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Sony Xperia 1 V | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-crafting-engaging-youtube-beginnings-two-methods-for-2024/"><u>[New] Crafting Engaging YouTube Beginnings Two Methods for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-how-to-stop-frequent-crashes-of-ghostwire-tokyo-when-running-on-a-computer/"><u>[Solved] How to Stop Frequent Crashes of Ghostwire: Tokyo When Running on a Computer</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-creating-unique-youtube-music-mixtapes/"><u>[Updated] Creating Unique YouTube Music Mixtapes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-ideas-for-customized-gif-art/"><u>[Updated] Innovative Ideas for Customized GIF Art</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-master-classroom-titling-software/"><u>2024 Approved Master Classroom Titling Software</u></a></li>
+<li><a href="https://win-answers.techidaily.com/conquering-cod-warzone-error-code-6328-expert-fixes-and-game-boosting-advice/"><u>Conquering Cod Warzone Error Code 6328 : Expert Fixes and Game-Boosting Advice</u></a></li>
+<li><a href="https://win-answers.techidaily.com/defeating-disruption-effective-fixes-for-preventing-hearthstone-pc-malfunctions/"><u>Defeating Disruption: Effective Fixes for Preventing Hearthstone PC Malfunctions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-fifa-21-from-crashing-on-windows-expert-fixes-and-tips/"><u>How to Stop FIFA 21 From Crashing on Windows - Expert Fixes and Tips</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>How To Use Special Features - Virtual Location On Apple iPhone SE (2020)? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-oneplus-12r-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From OnePlus 12R to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/new-years-resolution-for-gamers-destiny-2-broccoli-glitch-fixed-in-latest-patch/"><u>New Year's Resolution for Gamers: Destiny 2 Broccoli Glitch Fixed in Latest Patch</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723009100575-pc-troubles-solved-end-of-dread-hunger-crash-problems-for-good/"><u>PC Troubles Solved - End of Dread Hunger Crash Problems for Good!</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/reparacion-de-disco-duro-eliminado-en-windows-solucion-para-iniciar-tu-pc/"><u>Reparación De Disco Duro Eliminado en Windows - Solución Para Iniciar Tu PC</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/saga-scholars-society-premier-picks/"><u>Saga Scholars Society - Premier Picks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/say-goodbye-to-rainbow-six-extraction-crashing-on-your-pc-heres-how-you-can-fix-it/"><u>Say Goodbye to Rainbow Six Extraction Crashing on Your PC – Here's How You Can Fix It</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-8-solutions-to-prevent-marvels-guardians-of-the-galaxy-from-crashing-on-windows-computers/"><u>Top 8 Solutions to Prevent Marvel's Guardians of the Galaxy From Crashing on Windows Computers</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-tecno-spark-20c-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Tecno Spark 20C FRP Bypass</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Resolving the Endless Wait – Apex Legends Loading Glitch"
-date: 2024-12-06T16:16:30.335Z
-updated: 2024-12-12T16:04:45.535Z
+date: 2024-12-18T16:56:21.584Z
+updated: 2024-12-20T16:30:19.062Z
 tags:
   - win11
   - win10
@@ -50,13 +50,13 @@ thumbnail: https://thmb.techidaily.com/6c30e06757b848b8822a0592ade3cd707135548fc
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-585-1024x582.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3\. Wait until you see the following message. Then click**Close** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-586.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4\. Run Apex Legends to see if you can pass the loading screen. If not, or there was no new game patch available, try the next fix, below.
 
@@ -80,21 +80,21 @@ thumbnail: https://thmb.techidaily.com/6c30e06757b848b8822a0592ade3cd707135548fc
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-581.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3\. Click **Update** next to your device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-582.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Flush your DNS
 
@@ -104,19 +104,15 @@ thumbnail: https://thmb.techidaily.com/6c30e06757b848b8822a0592ade3cd707135548fc
 
 ![](https://www.supereasy.com/wp-content/uploads/2018/09/1-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2\. Type the command line **ipconfig /flushdns**  and press **Enter**  on your keyboard.
 
 ![](https://www.supereasy.com/wp-content/uploads/2018/09/Snap361-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3\. Launch Apex Legends to see if you resolved this issue. If not, don’t worry. Try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Unlink your Apex Legends account from your Steam account
 
@@ -134,16 +130,16 @@ thumbnail: https://thmb.techidaily.com/6c30e06757b848b8822a0592ade3cd707135548fc
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-587-1024x754.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5\. On the Steam page, log into**the new steam account you created in step One** .  
  You should see a window telling you that your account is now linked when you successfully logged into the new account.
 
  In order to link Apex Legends to your primary Steam account, you should save this URL address for the later use.
 
  6\. Launch Apex Legends to see if you fixed this issue. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Repair Apex Legends in Origin
 
@@ -158,10 +154,6 @@ thumbnail: https://thmb.techidaily.com/6c30e06757b848b8822a0592ade3cd707135548fc
 3\. Wait until the verifying process completes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-343-1024x728.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4\. Launch Apex Legends when the verifying progress completes to see if this issue is resolved. If this issue reappears, try the next fix, below.
 
@@ -186,7 +178,7 @@ thumbnail: https://thmb.techidaily.com/6c30e06757b848b8822a0592ade3cd707135548fc
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/snap000383.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4\. Click**Quick connect** to automatically connect to the server recommended for you. If you want to connect to another VPN server in a specific country, just select the server you want to connect to on the left panel, or click on the country pin on the map.
@@ -196,6 +188,14 @@ thumbnail: https://thmb.techidaily.com/6c30e06757b848b8822a0592ade3cd707135548fc
 5\. Launch Apex Legends and enjoy the game with your friends.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-590.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Reinstall Apex Legends
 
@@ -228,20 +228,20 @@ thumbnail: https://thmb.techidaily.com/6c30e06757b848b8822a0592ade3cd707135548fc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-perfect-harmony-in-vr-exploration/"><u>[New] Perfect Harmony in VR Exploration</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-vivid-verbiage-instagrams-guide-to-animation-for-captions-for-2024/"><u>[Updated] Vivid Verbiage Instagram's Guide to Animation for Captions for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-non-conventional-windows-tools-for-filmmaking/"><u>2024 Approved Non-Conventional Windows Tools for Filmmaking</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-pro-level-perfection-iphone-xs-photographic-breakthroughs/"><u>2024 Approved Pro-Level Perfection IPhone X's Photographic Breakthroughs</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-thriving-on-youtube-11-secrets-to-boosting-video-search-rankings/"><u>2024 Approved Thriving on YouTube 11 Secrets to Boosting Video Search Rankings</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/4-things-you-must-know-about-iphone-xr-activation-lock-by-drfone-ios/"><u>4 Things You Must Know About iPhone XR Activation Lock</u></a></li>
-<li><a href="https://win-answers.techidaily.com/battlenet-not-starting-here-are-top-solutions-for-windows-players/"><u>Battle.net Not Starting? Here Are Top Solutions for Windows Players</u></a></li>
-<li><a href="https://win-answers.techidaily.com/epic-games-launcher-troubleshooting-fix-not-opening-issues-fast/"><u>Epic Games Launcher Troubleshooting: Fix Not Opening Issues Fast</u></a></li>
-<li><a href="https://win-online.techidaily.com/gratuita-online-convertidor-de-archivo-mp3-a-mp4-con-movavi/"><u>Gratuita Online: Convertidor De Archivo MP3 a MP4 Con Movavi</u></a></li>
-<li><a href="https://win-answers.techidaily.com/initial-setup-and-costs/"><u>Initial Setup and Costs</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-item-drops-fast-and-easy-the-ultimate-guide-for-dayz-players/"><u>Mastering Item Drops Fast and Easy – The Ultimate Guide for DayZ Players</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-solution-overcoming-the-rainbow-six-siege-connection-problem/"><u>Step-by-Step Solution: Overcoming the Rainbow Six Siege Connection Problem</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-strategies-fix-rocket-league-from-constant-crashes/"><u>Top Strategies: Fix Rocket League From Constant Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-low-fps-and-irregularities-in-movement-for-a-seamless-splitgate-experience/"><u>Troubleshooting Low FPS and Irregularities in Movement for a Seamless Splitgate Experience</u></a></li>
-<li><a href="https://win-answers.techidaily.com/unlock-the-secrets-how-to-get-warframe-up-and-running-again/"><u>Unlock the Secrets: How to Get Warframe Up and Running Again!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-ascent-optimization-guide-steps-to-boost-frames-per-second-and-eradicate-stuttering-issues/"><u>'The Ascent' Optimization Guide: Steps to Boost Frames per Second & Eradicate Stuttering Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixed-how-to-fix-multiversus-not-launching-on-pc/"><u>[FIXED] How to Fix MultiVersus Not Launching on PC</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-hashtags-that-elevate-your-channels-visibility-and-value/"><u>[New] Hashtags that Elevate Your Channels' Visibility & Value</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-unleashing-widespread-engagement-on-facebook/"><u>[New] In 2024, Unleashing Widespread Engagement on Facebook</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-step-by-step-assistance-how-to-add-and-customize-ringtones-and-sounds-in-android-for-2024/"><u>[New] Step-by-Step Assistance How To Add and Customize Ringtones & Sounds in Android for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-streamlining-content-delivery-the-definitive-youtube-video-upload-guide/"><u>[Updated] In 2024, Streamlining Content Delivery The Definitive YouTube Video Upload Guide</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-the-prime-camera-choices-revealing-the-best/"><u>[Updated] The Prime Camera Choices – Revealing the Best</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unleash-creativity-with-top-10-phone-apps-adding-stickers-to-images/"><u>[Updated] Unleash Creativity with Top 10 Phone Apps Adding Stickers to Images</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/5-stars-in-seo-the-ultimate-list-of-chatgpt-enhancers-to-use-instantly/"><u>5 Stars in SEO: The Ultimate List of ChatGPT Enhancers to Use Instantly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-issue-why-your-forza-horizon-4-isnt-starting-top-tips-for-2n4/"><u>Fixing the Issue: Why Your Forza Horizon 4 Isn't Starting - Top Tips for 2N4</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/flawless-photography-made-simple-the-cloud-capable-nixplay-iris/"><u>Flawless Photography Made Simple: The Cloud-Capable Nixplay Iris</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pinnacle-ai-editor-with-advanced-features/"><u>Pinnacle AI Editor with Advanced Features</u></a></li>
+<li><a href="https://win-answers.techidaily.com/saints-row-wont-open-heres-how-to-get-past-the-bootup-blues-on-pc/"><u>Saints Row Won't Open? Here's How to Get Past the Bootup Blues on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723007587059-serious-sam-npc-version-crashes-heres-how-to-enhance-stability-and-frame-rate/"><u>Serious Sam nPC Version Crashes? Here's How to Enhance Stability and Frame Rate!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/total-war-warhammer-iii-stability-issues-resolved-no-more-pc-freezes/"><u>TOTAL WAR: WARHAMMER III Stability Issues Resolved – No More PC Freezes!</u></a></li>
 </ul></div>
 

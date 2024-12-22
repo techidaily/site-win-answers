@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Black Ops Cold War - Fixing the Infamous UI Error #27711"
-date: 2024-08-19T02:11:33.705Z
-updated: 2024-08-20T02:11:33.705Z
+date: 2024-12-15T18:27:26.870Z
+updated: 2024-12-20T19:10:42.481Z
 tags:
   - win11
   - win10
@@ -26,15 +26,16 @@ In the past couple days, many Cold War gamers are reporting a**UI error 27711** 
 3. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Restart your PC
 
  Some gamers on[Reddit](https://www.reddit.com/r/blackopscoldwar/comments/kia139/get%5Fui%5Ferror%5F27711%5Fand%5Falso%5Fsomething%5Felse/) reported that the game went back to normal after a system restart. So before you try anything more complicated,**exit your game and do a normal reboot** . You’d be surprised how often this trick works.
 
  If the error persists after a reboot, you can take a look at the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Scan and repair your game
 
  This error could mean that there’s**an integrity issue** with your game files. In other words, there are files corrupted or missing in your game folder. If that’s the case, a scan and repair might help you fix this glitch:
@@ -42,6 +43,11 @@ In the past couple days, many Cold War gamers are reporting a**UI error 27711** 
 1. First open your **Blizzard Battle.net** client. In the left menu, select **Call of Duty: BOCW** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify.jpg)
 2. Click **Options**  and select **Scan and Repair** . Then wait until the checking is completed.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify-2.jpg)
 
 Now you can launch the game and see if it loads this time.
@@ -76,19 +82,22 @@ To do so, first visit the website of your GPU manufacturer:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your PC and check if the error code reoccurs.
 
  If the new driver doesn’t do the charm, you can move on to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Install all Windows updates
 
@@ -99,19 +108,15 @@ Here’s how you can check for updates manually:
 1. On your keyboard, press **Win** (the Windows logo key). At the bottom left corner of your screen, click the**gear icon** to open Settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-gear-icon.jpg)
 2. Scroll down and select**Update & Security** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
@@ -128,8 +133,6 @@ Here’s how you can check for updates manually:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -137,4 +140,24 @@ Here’s how you can check for updates manually:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-most-popular-oculus-rift-experiences-for-gamers/"><u>[New] 2024 Approved Most Popular Oculus Rift Experiences for Gamers</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/istinctive-digital-monikers-for-video-creators-for-2024/"><u>[New] Distinctive Digital Monikers for Video Creators for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-budget-friendly-alternatives-to-premium-vr-headsets/"><u>[New] In 2024, Budget-Friendly Alternatives to Premium VR Headsets</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-found-how-to-stop-yakuza-3-pc-remastered-from-suddenly-exiting-during-play/"><u>[SOLUTION FOUND] How to Stop Yakuza 3 (PC Remastered) From Suddenly Exiting During Play</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-a-closer-look-at-high-end-vr-walking-machines/"><u>[Updated] A Closer Look at High-End VR Walking Machines</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-mov-storage-techniques-a-windows-10-perspective/"><u>[Updated] In 2024, .mov Storage Techniques A Windows 10 Perspective</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-audio-guide-to-the-top-5-4k-recording-microphones/"><u>2024 Approved Ultimate Audio Guide to the Top 5 4K Recording Microphones</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-fixes-to-prevent-microsoft-edge-from-crashing-under-windows-10/"><u>Effective Fixes to Prevent Microsoft Edge From Crashing Under Windows 10</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/free-methods-for-extracting-sound-tracks-from-videos-a-step-by-step-guide/"><u>Free Methods for Extracting Sound Tracks From Videos - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/game-stability-mastery-fixing-the-persistent-mordhau-crash-problems/"><u>Game Stability Mastery: Fixing the Persistent Mordhau Crash Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-address-and-repair-full-screen-black-errors-in-far-cry-6/"><u>How to Address and Repair Full-Screen Black Errors in Far Cry 6</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-privacy-preserving-photography-with-pixelated-faces/"><u>In 2024, Privacy-Preserving Photography with Pixelated Faces</u></a></li>
+<li><a href="https://win-answers.techidaily.com/microsoft-flight-simulator-2020-pc-stability-issues-effective-solutions-for-continuous-crashing/"><u>Microsoft Flight Simulator 2020 PC Stability Issues: Effective Solutions for Continuous Crashing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/modern-warfare-2-wont-start-troubleshooting-guide/"><u>Modern Warfare 2 Won't Start? - Troubleshooting Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-the-outlook-not-connecting-issue-effective-solutions/"><u>Resolving the 'Outlook Not Connecting' Issue: Effective Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-solution-overcome-the-fortnite-version-ls-0013-startup-error/"><u>Step-by-Step Solution: Overcome the Fortnite Version LS-0013 Startup Error</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ears-predictions-rendered-in-infographics/"><u>The Year's Predictions Rendered in Infographics</u></a></li>
+</ul></div>
 

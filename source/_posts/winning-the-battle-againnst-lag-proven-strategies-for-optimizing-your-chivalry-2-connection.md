@@ -1,7 +1,7 @@
 ---
 title: "Winning the Battle Againnst Lag: Proven Strategies for Optimizing Your Chivalry 2 Connection"
-date: 2024-12-11T17:21:16.705Z
-updated: 2024-12-12T17:45:47.982Z
+date: 2024-12-19T17:48:46.519Z
+updated: 2024-12-20T20:50:02.172Z
 tags:
   - win11
   - win10
@@ -35,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/af0b3f2dd83523f585e0d44be63e4dc2ee76a71ef
 5. **[Disable Control Flow Guard](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Check for game updates
@@ -50,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/af0b3f2dd83523f585e0d44be63e4dc2ee76a71ef
 3. Wait for the checking to complete. Then start The Ascent and check if it lags again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If this doesn’t fix the stuttering issue, take a look at the next method.
@@ -68,6 +68,10 @@ thumbnail: https://thmb.techidaily.com/af0b3f2dd83523f585e0d44be63e4dc2ee76a71ef
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-2060-super-update.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, restart your PC and start a game in The Ascent.
@@ -75,7 +79,7 @@ thumbnail: https://thmb.techidaily.com/af0b3f2dd83523f585e0d44be63e4dc2ee76a71ef
  If the latest driver doesn’t give you luck, you can try the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Make sure Windows is up to date
@@ -86,15 +90,19 @@ thumbnail: https://thmb.techidaily.com/af0b3f2dd83523f585e0d44be63e4dc2ee76a71ef
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-1.jpg)
 2. Click**Check for updates** . Windows will then check for available updates. (Or click Restart now if it prompts “Restart required”)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you’ve got your system updated, do a reboot and test the gameplay in The Ascent.
 
  If this doesn’t give you any improvements, take a look at the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Run The Ascent on DirectX 11
 
@@ -109,10 +117,6 @@ If you don’t know how to switch, follow these steps:
 
  If changing the DirectX version doesn’t do the trick, you can check out the next solution.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5: Disable Control Flow Guard
 
  Control Flow Guard is a Windows 10 feature designed to combat system vulnerabilities by**restricting application behavior** . According to the feedback, it appears that CFG could be causing the stuttering issue in The Ascent. To see if that’s your case, you can follow these steps to disable CFG:
@@ -120,10 +124,6 @@ If you don’t know how to switch, follow these steps:
 1. On your keyboard, press**the Windows logo key** and type**exploit** . Select**Exploit protection** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/disable-cfg-1.jpg)
 2. Navigate to the Program settings tab.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/disable-cfg-2.jpg)
 3. Click**Add program to customize** and select**Add by program name** .  
@@ -156,18 +156,22 @@ If you don’t know how to switch, follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-mastering-snapchat-photo-edits-a-step-by-step-guide/"><u>[New] In 2024, Mastering Snapchat Photo Edits A Step-by-Step Guide</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-recording-power-20plus-best-practices-for-skype-chats-on-windowsmac-pcs/"><u>[Updated] Recording Power 20+ Best Practices for Skype Chats on Windows/Mac PCs</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-snapchat-soundtrack-sourcebook-choosing-from-the-best-websites-for-2024/"><u>[Updated] Snapchat Soundtrack Sourcebook Choosing From the Best Websites for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-fixes-for-continuous-killing-of-your-playtime-halo-infinite-pc-edition/"><u>Effective Fixes for Continuous Killing of Your Playtime - Halo Infinite PC Edition</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-high-speed-gaming-overcoming-lag-in-forza-horizon-5/"><u>Fixing High-Speed Gaming: Overcoming Lag in Forza Horizon 5</u></a></li>
-<li><a href="https://win-answers.techidaily.com/football-manager-2022-release-delay-solutions-and-workarounds/"><u>Football Manager 2022 Release Delay: Solutions & Workarounds</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-how-to-edit-youtube-videos-in-sony-vegas/"><u>In 2024, How to Edit YouTube Videos in Sony Vegas</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/navigating-the-top-10-live-streaming-choices/"><u>Navigating the Top 10 Live Streaming Choices</u></a></li>
-<li><a href="https://win-answers.techidaily.com/optimizing-your-gameplay-solutions-for-cbow-lag-spike-and-frame-rate-issues/"><u>Optimizing Your Gameplay: Solutions for CBOW Lag Spike & Frame Rate Issues</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-impact-of-google-gemini-on-making-iphones-smarter-what-you-need-to-know/"><u>The Impact of Google Gemini on Making iPhones Smarter - What You Need to Know</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-to-mastering-bings-ai-features-on-android/"><u>The Ultimate Guide to Mastering Bing's AI Features on Android</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshoot-and-solve-everspace-2-stability-issues-on-personal-computers/"><u>Troubleshoot and Solve Everspace 2 Stability Issues on Personal Computers</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/ultimate-guide-how-to-cleanly-extract-images-from-shutterstock-without-watermarks/"><u>Ultimate Guide: How to Cleanly Extract Images From Shutterstock without Watermarks</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-mastering-the-art-of-instagram-filter-use/"><u>[New] 2024 Approved Mastering the Art of Instagram Filter Use</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-ravenhill-resonance-essential-websites-to-download-hearing-heroes-tones-for-2024/"><u>[New] Ravenhill Resonance Essential Websites to Download Hearing Heroes' Tones for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-top-10-tips-to-make-your-podcast-teasers-stand-out/"><u>[Updated] In 2024, Top 10 Tips to Make Your Podcast Teasers Stand Out</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-no-expense-yes-watch-one-frame-at-a-time-on-youtube/"><u>[Updated] No Expense? Yes! Watch One Frame at a Time on YouTube</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ls-showdown-tech-titans-clashing-in-real-time/"><u>[Updated] The LS Showdown Tech Titans Clashing in Real Time</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/windows-ssd-hdd-win11-win10-win8-win7/"><u>在不同版本的Windows上抽取 SSD 用于 HDD - 切换指南 (Win11, Win10, Win8, Win7)</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-review-of-the-revolutionary-imac-m1-power-meets-aesthetics-in-a-single-device/"><u>Comprehensive Review of the Revolutionary iMac M1 – Power Meets Aesthetics in a Single Device</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-overcoming-pc-installation-obstacles-in-battlefield-4-gameplay/"><u>Expert Tips: Overcoming PC Installation Obstacles in Battlefield 4 Gameplay</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-destiny-2-black-screen-issues/"><u>Fix Destiny 2 Black Screen Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-unstick-your-discord-livestream-a-comprehensive-guide/"><u>How to Unstick Your Discord Livestream: A Comprehensive Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-80-pro-straight-screen-edition-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Honor 80 Pro Straight Screen Edition Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-top-10-portable-tools-dominating-video-editing-landscape/"><u>In 2024, Top 10 Portable Tools Dominating Video Editing Landscape</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-tips-to-prevent-recurring-breakdowns-while-playing-valheim-on-pc/"><u>Master Tips to Prevent Recurring Breakdowns While Playing Valheim on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-tips-eliminating-crashes-in-risk-of-rain-2-a-comprehensive-guide/"><u>Master Tips: Eliminating Crashes in Risk of Rain 2 – A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-windows-11-barriers-effective-solutions-for-running-minecraft/"><u>Overcome Windows 11 Barriers: Effective Solutions for Running Minecraft</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solve-the-dreaded-error-code-0xc19001e1-a-comprehensive-guide-for-windows-11-users/"><u>Solve the Dreaded Error Code 0Xc19001e1: A Comprehensive Guide for Windows 11 Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-to-resolving-minecraft-performance-issues-on-desktop-computers/"><u>Ultimate Guide to Resolving Minecraft Performance Issues on Desktop Computers</u></a></li>
 </ul></div>
 

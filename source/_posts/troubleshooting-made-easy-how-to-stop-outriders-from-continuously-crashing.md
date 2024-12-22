@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Made Easy: How to Stop Outriders From Continuously Crashing"
-date: 2024-12-07T19:19:31.844Z
-updated: 2024-12-12T18:59:09.929Z
+date: 2024-12-15T18:12:20.874Z
+updated: 2024-12-20T16:32:30.203Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ Recently, we’ve seen many players reporting that**Dirt 5 keeps crashing** on t
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -58,15 +62,7 @@ The outdated or broken graphics driver often crashes the game.
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 4. Restart your PC after you finished updating your graphics driver.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  See if the latest graphics driver stops the Dirt 5 from crashing. If not, don’t worry. Try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Verify the game files
 
@@ -76,13 +72,13 @@ The outdated or broken graphics driver often crashes the game.
 ![Steam->properties](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
 2. Click **the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![LOCAL FILES>VERIFY INTEGRITY OF GAME CACHE...](https://images.drivereasy.com/wp-content/uploads/2019/04/image-120.png)
 
  It may take some time to finish verifying the game files. Launch the game after the verifying process completed to see if this fix works. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Install the latest game patch
 
@@ -91,6 +87,10 @@ The outdated or broken graphics driver often crashes the game.
  If a patch is available, it will be detected by Steam, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Run Dirt 5 again to check whether the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Disable Steam Overlay
 
@@ -102,11 +102,11 @@ The outdated or broken graphics driver often crashes the game.
 
 ![Disable Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-Steam-Overlay.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Launch Dirt 5 to see if the game crashes. If the issue persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Set launch options on Steam
 
@@ -117,13 +117,13 @@ The outdated or broken graphics driver often crashes the game.
 ![Steam set launch options](https://images.drivereasy.com/wp-content/uploads/2021/04/Modify-Steam-set-launch-options.jpg)
 3. Copy and paste the commands below and click **OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `-useallavailablecores -high`
 
  Launch the game to see if it crashes again. If it still crashes, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 6: Stop overclocking
 
@@ -155,24 +155,22 @@ The outdated or broken graphics driver often crashes the game.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-hours-to-gigabytes-a-guide-for-filmmakers/"><u>[New] Hours to Gigabytes A Guide for Filmmakers</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-proven-techniques-for-captivating-online-audiences-via-zoom-and-youtube-live/"><u>[New] Proven Techniques for Captivating Online Audiences via Zoom & YouTube Live</u></a></li>
-<li><a href="https://techtrends.techidaily.com/7-must-have-mobile-applications-to-navigate-traffic-like-a-pro/"><u>7 Must-Have Mobile Applications to Navigate Traffic Like a Pro</u></a></li>
-<li><a href="https://win-answers.techidaily.com/beat-the-glitch-ultimate-solutions-to-prevent-chivalry-crashes/"><u>Beat the Glitch: Ultimate Solutions to Prevent Chivalry Ⅱ Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/establish-your-connection-again-steps-for-returning-to-blizzards-server-platform/"><u>Establish Your Connection Again: Steps for Returning to Blizzard's Server Platform</u></a></li>
-<li><a href="https://win-answers.techidaily.com/god-of-war-gameplay-optimization-fixes-for-available-memory-shortage-challenges/"><u>God of War Gameplay Optimization: Fixes for Available Memory Shortage Challenges</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-the-centipede-complication-in-destiny-2-a-comprehensive-walkthrough/"><u>How to Fix the 'Centipede' Complication in Destiny 2: A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Oppo Find X6 Pro? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-create-a-funny-meme/"><u>In 2024, How To Create A Funny Meme</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-the-future-of-titles-an-innovators-playbook-for-videos/"><u>In 2024, The Future of Titles An Innovator's Playbook for Videos</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overwatch-stuttering-heres-the-fix/"><u>Overwatch Stuttering? Here's the Fix</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/precision-in-motion-select-smartphones-that-enhance-videography-effortlessly-for-2024/"><u>Precision in Motion Select Smartphones that Enhance Videography Effortlessly for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/rainbow-six-sieges-2024-enhancements-what-to-expect-from-the-freezing-patch/"><u>Rainbow Six Siege's 2024 Enhancements: What to Expect From the Freezing Patch</u></a></li>
-<li><a href="https://article-posts.techidaily.com/smooth-soundscape-creation-with-audacity-for-2024/"><u>Smooth Soundscape Creation with Audacity for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solution-in-place-for-origin-not-responding-issue/"><u>Solution in Place for Origin Not Responding Issue</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-no-rest-for-the-wicked-game-crashes-on-your-computer/"><u>Troubleshooting 'No Rest for the Wicked' Game Crashes on Your Computer</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ling-the-mysteries-of-video-monetization-for-2024/"><u>Unveiling the Mysteries of Video Monetization for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/war-thunder-low-fps-learn-how-to-up-your-game-with-advanced-fixes-updated-guide/"><u>War Thunder Low FPS? Learn How to Up Your Game with Advanced Fixes - Updated Guide</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Tecno Spark 10C? | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-high-end-audio-for-youtubes-best-gamers/"><u>[New] 2024 Approved High-End Audio for YouTube's Best Gamers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/sovled-necromunda-on-pc-addressing-frequent-game-crashes-and-how-to-resolve-them/"><u>[SOVLED] Necromunda on PC: Addressing Frequent Game Crashes and How to Resolve Them</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-mastering-social-media-finding-youtube-content-on-fb/"><u>[Updated] 2024 Approved Mastering Social Media Finding YouTube Content on FB</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-ease-down-mix-levels-with-fl/"><u>[Updated] In 2024, Ease Down Mix Levels with FL</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-delving-into-the-world-of-audio-dissolves-crossfade/"><u>2024 Approved Delving Into the World of Audio Dissolves (Crossfade)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/a-step-by-step-guide-fixing-dolby-atmos-sound-problems-on-modern-windows-systems/"><u>A Step-By-Step Guide: Fixing Dolby Atmos Sound Problems on Modern Windows Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ace-your-starfield-adventure-essential-tips-to-overcome-pc-crashing-problems/"><u>Ace Your Starfield Adventure: Essential Tips to Overcome PC Crashing Problems</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-you-watch-mov-movies-on-samsung-galaxy-s21-fe-5g-2023-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can you watch MOV movies on Samsung Galaxy S21 FE 5G (2023) ?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easily-overcome-deathloops-pc-crashes-a-step-by-step-solution/"><u>Easily Overcome Deathloop's PC Crashes: A Step-by-Step Solution</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-oneplus-ace-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-video-content-battle-who-wins-with-vimeo-youtube-or-dailymotion/"><u>In 2024, Video Content Battle Who Wins with Vimeo, YouTube, or DailyMotion?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/increase-your-fps-on-fallout-76-a-comprehensive-guide-players/"><u>Increase Your FPS on Fallout 76: A Comprehensive Guide Players</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-gamers-rejoice-the-dread-hunger-crash-glitch-is-finally-solved/"><u>PC Gamers Rejoice - The Dread Hunger Crash Glitch Is Finally Solved!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722994395425-resolved-black-ops-cold-war-interface-bug-27711-fixed/"><u>Resolved: Black Ops Cold War Interface Bug 27711 Fixed!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-fps-issues-in-borderlands-3-top-pc-troubleshooting-tips/"><u>Solving FPS Issues in Borderlands 3: Top PC Troubleshooting Tips</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210129000-9781420970319-transcendental-magic/"><u>Transcendental Magic | Free Book</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/99586522-tripping-up-heres-how-to-avoid-it/"><u>Tripping Up? Here's How to Avoid It</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Say Goodbye to PC Crashing: Master 6 Secrets to Fix 'Stray' Software Problems Instantly"
-date: 2024-08-19T02:14:07.188Z
-updated: 2024-08-20T02:14:07.188Z
+date: 2024-12-19T18:14:29.333Z
+updated: 2024-12-20T20:02:34.803Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/495603458e45a32721f7a07e84d49ad0a4941ec40
 4. **[Turn off antivirus](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Enable Virtualization for BlueStacks](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Adjust the game settings
 
  First, you need to make sure that you have allocated enough RAM and CPU cores in BlueStacks Settings. This will increase performance and avoid game crashing/lagging. Here’s how to do it:
@@ -34,6 +38,11 @@ thumbnail: https://thmb.techidaily.com/495603458e45a32721f7a07e84d49ad0a4941ec40
 1. Click the gear button on the lower right corner to open the**Settings** menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/settings.jpg)
 2. The **Settings**  page will appear with the **Engine** tab highlighted, as shown below.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/settings-engine.jpg)
 3. Please match the following settings to see if this works for you.  
    * **CPU** : 4 Cores  
@@ -71,9 +80,6 @@ There are mainly two ways for you to update the graphics driver:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/scan.png)
 3. Click **Update** next to your graphics card to download the latest driver, and then install it manually (you can do this in the Free version).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Or click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you get 30-day money back guarantee and full technical support.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
@@ -83,6 +89,10 @@ There are mainly two ways for you to update the graphics driver:
 
  Once the graphics driver is updated, you can restart your PC and launch your BlueStacks to check if the crashing issue has been resolved successfully.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Close other unnecessary programs
 
  Running a lot of programs can make your BlueStacks slow, lag, or even crash a lot, especially when you have allocated more RAM and CPU cores to BlueStacks. Therefore, you can close unwanted programs from Task Manager:
@@ -91,14 +101,8 @@ There are mainly two ways for you to update the graphics driver:
 2. Select the program you want to close and click**End Task** . Also, force close BlueStacks 5 and relaunch the program. Check to see if it’s working now.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/end-task.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Now other programs stop consuming a high amount of RAM, you can launch BlueStacks again to check if the crashing problem is fixed.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Turn off antivirus
 
  It’s possible that your antivirus program will interfere with the BlueStacks. To check if this is causing your BlueStacks crashing issue, you can disable it or uninstall it temporarily because sometimes disabling it won’t work.
@@ -107,14 +111,13 @@ There are mainly two ways for you to update the graphics driver:
 2. Type**appwiz.cpl** and hit**Enter** .  
 ![uninstall app](https://images.drivereasy.com/wp-content/uploads/2021/01/appwiz.cpl_.jpg)
 3. Right-click your antivirus and choose**Uninstall** , and follow the on-screen instructions.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
-4. Reboot your computer and launch BlueStacks to check if the issue persists.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+4. Reboot your computer and launch BlueStacks to check if the issue persists.
+
 ### Fix 5: Enable Virtualization for BlueStacks
 
  If the methods above didn’t do the trick, you can run a quick check before reinstalling the whole software. If this feature is turned off, your BlueStacks would become very laggy and even start crashing a lot.
@@ -125,8 +128,9 @@ There are mainly two ways for you to update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/on.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If this feature is disabled, you should follow[this guide](https://support.bluestacks.com/hc/en-us/articles/115003174386) to turn it on in the BIOS settings. However, if everything seems alright but you still get the crashing issues, you can reinstall BlueStacks (be sure to remove all its files and then reinstall it again).
 
 * [Android](https://tools.techidaily.com/drivereasy/download/)
@@ -139,8 +143,6 @@ There are mainly two ways for you to update the graphics driver:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -148,4 +150,23 @@ There are mainly two ways for you to update the graphics driver:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-transforming-your-vision-into-stunning-hdr-portraits/"><u>[New] Transforming Your Vision Into Stunning HDR Portraits</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-essential-list-high-quality-cost-free-meeting-platforms/"><u>[Updated] In 2024, Essential List High-Quality, Cost-Free Meeting Platforms</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-profitable-pixels-monetizing-content-across-platforms/"><u>[Updated] In 2024, Profitable Pixels Monetizing Content Across Platforms</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-the-science-behind-engaging-video-content-on-fb/"><u>[Updated] In 2024, The Science Behind Engaging Video Content on FB</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-syncopated-screecher-symphony/"><u>2024 Approved Syncopated Screecher Symphony</u></a></li>
+<li><a href="https://win-answers.techidaily.com/addressing-the-error-no-success-in-starting-modern-warfare-2/"><u>Addressing the Error: No Success in Starting Modern Warfare 2</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-nokia-c210-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Nokia C210 is off? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/driver-easy-on-the-move-harnessing-car-diagnostics-with-the-handy-app/"><u>Driver Easy On-the-Move: Harnessing Car Diagnostics with the Handy App</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-scouting-talent-top-5-video-artists-who-create-with-rhythm-and-beat/"><u>In 2024, Scouting Talent Top 5 Video Artists Who Create With Rhythm & Beat</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-x-spectrum-visual-recorder-pc/"><u>In 2024, X-Spectrum Visual Recorder, PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-online-match-finding-hurdles-for-cod-warzone-players-using-pc-platform/"><u>Overcoming Online Match-Finding Hurdles for CoD: Warzone Players Using PC Platform</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-swtor-startup-failures-a-comprehensive-guide/"><u>Overcoming SWTOR Startup Failures - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-the-hurdle-fifa-21-launch-issues-cleared-game-now-functional/"><u>Overcoming the Hurdle: FIFA 21 Launch Issues Cleared - Game Now Functional</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-gaming-bliss-restored-stop-god-of-war-from-continuously-crashing-on-your-system/"><u>PC Gaming Bliss Restored: Stop God of War From Continuously Crashing on Your System</u></a></li>
+<li><a href="https://win-answers.techidaily.com/reviving-your-gameplay-tips-to-stop-hearthstone-from-unexpectedly-quitting-on-windows/"><u>Reviving Your Gameplay: Tips to Stop Hearthstone From Unexpectedly Quitting on Windows</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+</ul></div>
 

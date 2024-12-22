@@ -1,7 +1,7 @@
 ---
 title: Solving Windows 11'S Malfunctioning Windows Spotlight Issues Step by Step
-date: 2024-12-05T16:37:24.629Z
-updated: 2024-12-12T18:45:07.092Z
+date: 2024-12-15T19:27:27.231Z
+updated: 2024-12-20T17:24:53.913Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ After a long wait, the[new Hitman installment](https://www.epicgames.com/store/e
 5. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Check if it’s a server issue](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Verify the integrity of your game files
 
  The game not launching problem could mean that some game files are missing or corrupted. In either cases, you can simply run an integrity check to get your game working:
@@ -48,10 +52,6 @@ Now you can try to launch Hitman 3 using the Epic Games launcher.
 
  If verifying game files doesn’t help, you can take a look at the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Run Epic Games as administrator
 
  If there’s nothing wrong with your game files, the next thing you should do is check for permission issues. Granting the Epic Games launcher the administrator access could be a potential fix in this regard.
@@ -62,22 +62,14 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-games-launcher-run-as-admin.jpg)
 2. Now try to launch Hitman 3\. If this trick works for you, continue to the next step to**always run Epic Games launcher as administrator** . Otherwise you can jump to the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. On your desktop, right-click**Epic Game launcher** and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-games-launcher-run-as-admin-2.jpg)
 4. Navigate to the**Compatibility** tab. Under the**Settings** section, check the box next to**Run this program as an administrator** . Click**OK** to save the changes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-games-launcher-run-as-admin-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Launch Hitman 3 from game folder
@@ -85,6 +77,10 @@ Here’s how:
  The game not launching error might come from the game launcher. Some gamers reported on[reddit](https://www.reddit.com/r/HiTMAN/comments/l1qlc7/cant%5Flaunch%5Fthe%5Fgame%5Fat%5Fall%5Fon%5Fepic/) that when they failed to start Hitman 3 from Epic Games launcher, one possible workaround is to launch it using the**hitman3.exe** file in the game folder. So you can try this trick and see how things go.
 
  If you can’t launch Hitman 3 directly from the game folder, take a look at the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -115,15 +111,15 @@ To do so, first visit the website of your GPU manufacturer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 After updating your GPU driver, you can check if Hitman 3 is working now.
 
  If the latest graphics driver doesn’t solve the problem, you can take a look at the next method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Install all Windows updates
 
@@ -135,17 +131,21 @@ Here’s how you can check for updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-gear-icon.jpg)
 2. Scroll down and select**Update & Security** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
@@ -174,19 +174,20 @@ Here’s how you can check for updates manually:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-the-connoisseurs-guide-to-youtube-music-orchestration/"><u>[New] 2024 Approved The Connoisseur's Guide to YouTube Music Orchestration</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-overcoming-obstacles-to-display-videos-prominently/"><u>[Updated] Overcoming Obstacles to Display Videos Prominently</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-how-to-create-a-puzzle-feed-on-instagram-to-catch-attention/"><u>2024 Approved How to Create a Puzzle Feed on Instagram to Catch Attention</u></a></li>
-<li><a href="https://win-answers.techidaily.com/bypass-error-messages-easy-winwordexe-corrections-for-a-smooth-microsoft-word-experience/"><u>Bypass Error Messages: Easy WINWORD.EXE Corrections for a Smooth Microsoft Word Experience</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-configure-linksys-e2000-router-firmware-with-ease-expert-tips-for-quick-setup/"><u>Download & Configure Linksys E2000 Router Firmware with Ease – Expert Tips for Quick Setup</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-connection-errors-in-gta-5-online-for-a-smooth-gaming-experience/"><u>Fixing Connection Errors in GTA 5 Online for a Smooth Gaming Experience</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/from-hashtags-to-challenges-insta-meets-tiktok/"><u>From Hashtags to Challenges Insta Meets TikTok</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/full-guide-to-apple-iphone-14-pro-icloud-bypass-by-drfone-ios/"><u>Full guide to Apple iPhone 14 Pro iCloud Bypass</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723013539324-halo-infinite-blackout-blues-heres-how-you-can-fix-it/"><u>Halo Infinite Blackout Blues? Here's How You Can Fix It</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-technical-glitches-in-pathfinder-wrath-of-the-righteous-keyboard-solutions/"><u>Overcoming Technical Glitches in Pathfinder Wrath of the Righteous - Keyboard Solutions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solution-steps-overcoming-high-processor-load-on-chrome-browser/"><u>Solution Steps: Overcoming High Processor Load on Chrome Browser</u></a></li>
-<li><a href="https://win-blog.techidaily.com/step-by-step-tutorial-for-restoring-broken-gaming-file-integrity-on-pc/"><u>Step-by-Step Tutorial for Restoring Broken Gaming File Integrity on PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/stop-your-pc-games-from-crashing-proven-methods/"><u>Stop Your PC Games From Crashing - Proven Methods</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-step-by-step-guide-resolving-teardown-app-crashes/"><u>Ultimate Step-by-Step Guide: Resolving Teardown App Crashes</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-screenshot-expert-evaluator-for-2024/"><u>[New] ScreenShot Expert Evaluator for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-transforming-your-vision-into-stunning-hdr-portraits-for-2024/"><u>[Updated] Transforming Your Vision Into Stunning HDR Portraits for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-chart-success-the-top-online-stock-portals/"><u>2024 Approved Chart Success The Top Online Stock Portals</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/advanced-techniques-leveraging-gpt-references-to-elevate-any-conversation/"><u>Advanced Techniques: Leveraging GPT References to Elevate Any Conversation</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fortnite-access-blocked-heres-how-to-fix-the-not-found-entry-issue-easily/"><u>Fortnite Access Blocked? Here’s How to Fix the 'Not Found' Entry Issue Easily</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-examining-the-perks-and-pitfalls-of-vr/"><u>In 2024, Examining the Perks and Pitfalls of VR</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-the-complete-breakdown-setting-up-game-capture-on-ps4-console/"><u>In 2024, The Complete Breakdown Setting Up Game Capture on PS4 Console</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/last-chance-for-savings-top-picks-from-best-buys-end-of-season-gift-extravaganza-zdnet/"><u>Last Chance for Savings! Top Picks From Best Buy's End-of-Season Gift Extravaganza | ZDNET</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-the-ultimate-challenge-debugging-ue4s-gobi-bug-in-back-4-blood-game/"><u>Overcoming the Ultimate Challenge: Debugging UE4's Gobi Bug in Back 4 Blood Game</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-troubleshooting-steps-for-a-non-functioning-google-meet-webcam/"><u>Resolved: Troubleshooting Steps for a Non-Functioning Google Meet Webcam</u></a></li>
+<li><a href="https://win-answers.techidaily.com/say-goodbye-to-game-interruptions-how-to-resolve-titanfall-2-crashes-instantly/"><u>Say Goodbye to Game Interruptions: How to Resolve Titanfall 2 Crashes Instantly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/successfully-fixed-launch-issues-for-steam-on-your-windows-10-machine/"><u>Successfully Fixed? Launch Issues for Steam on Your Windows 10 Machine</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/threefold-mastery-in-copy-for-social-media-campaigns-increasing-impact-with-every-word-for-2024/"><u>Threefold Mastery in Copy for Social Media Campaigns – Increasing Impact with Every Word for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/tips-for-seamlessly-running-two-apps-simultaneously-in-split-screen-on-macbook-air/"><u>Tips for Seamlessly Running Two Apps Simultaneously in Split Screen on MacBook Air</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-fix-guide-to-resolve-stray-impact-pc-crash-errors-with-these-5-proven-strategies/"><u>Ultimate Fix Guide to Resolve 'Stray: Impact' PC Crash Errors with These 5 Proven Strategies</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshoot and Enhance Performance: Stop Chrome Freezes in Windows Pressure"
-date: 2024-12-10T16:56:04.424Z
-updated: 2024-12-12T18:28:15.818Z
+date: 2024-12-18T21:11:52.289Z
+updated: 2024-12-20T19:16:46.740Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ Half Life: Alyx is no doubt the best VR game in 2020\. While the game is amazing
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down until you find the one that helps.
@@ -32,6 +36,10 @@ Half Life: Alyx is no doubt the best VR game in 2020\. While the game is amazing
 4. [**Update your graphics driver**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Install all Windows updates**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Set additional launch options](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your specs meet the requirements
 
@@ -47,6 +55,10 @@ Half Life: Alyx is no doubt the best VR game in 2020\. While the game is amazing
 
  If your specs are more than capable for the game, simply continue to the next fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Change your power plan
 
  Power plan is a scheme that manages the way your PC consumes energy. The recent Windows build introduces a new power plan called Ultimate Performance, which provides a certain level of performance boost. You can start from here when troubleshooting stuttering issues.
@@ -57,35 +69,27 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/cmd-run-power-option.jpg)
 2. Select **Ultimate Performance** . If you don’t see this power plan, simply continue to the next step to unhide it.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-ultimate-performance.jpg)
 3. On your keyboard, press Win (the Windows logo key) and type **cmd** . Select **Run as Administrator** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
 4. In the command prompt, type or paste the following command and press **Enter** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61  
  If you see a prompt similar to this, **return to step 2** to enable the Ultimate Performance power plan.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After changing your power plan, launch Half Life: Alyx and test the gameplay.
 
  If this trick doesn’t give you luck, you can take a look at the next one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 3: Disable overlays
 
@@ -96,6 +100,10 @@ And here’s how to turn off Steam overlays:
 After disabling all the overlays, check if Half Life: Alyx lags again.
 
  If this fix doesn’t help you, simply move on to the next one below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -130,22 +138,14 @@ Here’s how you can check for updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
@@ -186,24 +186,18 @@ To do so, follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-haste-in-playlist-distribution-youtube-guide-for-2024/"><u>[New] Haste in Playlist Distribution YouTube Guide for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-ad-profits-unveiled-how-much-do-creators-make-on-youtube/"><u>[New] In 2024, Ad Profits Unveiled How Much Do Creators Make on Youtube?</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/5-tutorials-on-how-to-transfer-photos-from-apple-iphone-12-pro-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>5 Tutorials on How to Transfer Photos From Apple iPhone 12 Pro to New iPhone | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/boost-your-gameplay-solving-fps-drops-in-titanfall-2-quickly-and-easily/"><u>Boost Your Gameplay: Solving FPS Drops in Titanfall 2 Quickly & Easily</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/effective-audio-equipment-for-newcomers-for-2024/"><u>Cost-Effective Audio Equipment for Newcomers for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/defeating-dev-error-6634-a-comprehensive-walkthrough-for-call-of-duty-warzone/"><u>Defeating Dev Error 6634: A Comprehensive Walkthrough for Call of Duty: Warzone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-advice-adapting-your-iphone-for-different-locations-by-changing-regions/"><u>Expert Advice: Adapting Your iPhone for Different Locations by Changing Regions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/few-shot-learning-capability/"><u>Few-Shot Learning Capability</u></a></li>
-<li><a href="https://win-answers.techidaily.com/frame-rate-and-stutter-fixes-the-division-2-enhanced-performance-guide-2024/"><u>Frame Rate and Stutter Fixes (The Division 2 - Enhanced Performance Guide 2024)</u></a></li>
-<li><a href="https://howto.techidaily.com/gmail-not-working-on-motorola-moto-g13-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Motorola Moto G13 7 Common Problems & Fixes | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/guarantee-uninterrupted-play-with-these-simple-solutions-for-assassins-creed-odyssey-crashing-on-windows-systems/"><u>Guarantee Uninterrupted Play with These Simple Solutions for Assassin's Creed Odyssey Crashing on Windows Systems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-last-epoch-crashing-on-pc-2024-tips/"><u>How to Fix Last Epoch Crashing on PC - 2024 Tips</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-12-pro-max-to-others-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 12 Pro Max to others devices? | Dr.fone</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/movavi-werk-aan-wmv-videos-om-in-aac-format-te-worden-geconveert-voor-gratis-gebruik-online/"><u>Movavi Werk Aan WMV-Video's Om in AAC-Format Te Worden Geconveert Voor Gratis Gebruik Online</u></a></li>
-<li><a href="https://some-skills.techidaily.com/strategies-for-winning-on-spotifys-ad-platform-for-2024/"><u>Strategies for Winning on Spotify's Ad Platform for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-fixing-cyberpunk-2nk7-failed-to-load-problem/"><u>Troubleshooting Guide: Fixing 'Cyberpunk 2Nk7' Failed to Load Problem</u></a></li>
-<li><a href="https://win-answers.techidaily.com/unveiling-the-truth-behind-mafia-definitive-editions-release-challenges/"><u>Unveiling the Truth Behind Mafia: Definitive Edition's Release Challenges</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722996130690-valorant-graphics-driver-crashed-error-quick-fix/"><u>Valorant ‘Graphics Driver Crashed’ Error [Quick Fix]</u></a></li>
-<li><a href="https://win-answers.techidaily.com/wolcen-unleashed-understanding-the-causes-of-its-launch-setback/"><u>Wolcen Unleashed? – Understanding the Causes of Its Launch Setback</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-optimize-your-presence-mastering-snapchat-business-use/"><u>[New] Optimize Your Presence Mastering Snapchat Business Use</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-distilling-essential-versions-from-microsofts-movie-maker/"><u>[Updated] 2024 Approved Distilling Essential Versions From Microsoft's Movie Maker</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-unlock-facebook-ad-success-with-these-3-adapted-writing-techniques/"><u>[Updated] 2024 Approved Unlock Facebook Ad Success with These 3 Adapted Writing Techniques</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-effortless-iphone-screen-recording-techniques-unveiled-for-2024/"><u>[Updated] Effortless iPhone Screen Recording Techniques Unveiled for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-overcoming-the-hurdle-of-stubborn-steam-games-not-opening-in-windows-10/"><u>Expert Advice: Overcoming the Hurdle of Stubborn Steam Games Not Opening in Windows 10</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-forza-horizon-4-from-crashing-on-a-windows-pc-expert-tips-and-tricks/"><u>How to Stop Forza Horizon 4 From Crashing on a Windows PC - Expert Tips & Tricks</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-high-speed-video-snapshots-avoid-technical-hurdles/"><u>In 2024, High-Speed Video Snapshots - Avoid Technical Hurdles</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/master-list-of-premier-game-broadcasting-apps-for-2024/"><u>Master List of Premier Game Broadcasting Apps for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ps4-troubleshooting-expert-tips-to-overcome-system-freezing-issues/"><u>PS4 Troubleshooting: Expert Tips to Overcome System Freezing Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-solutions-resolve-your-winwordexe-crashing-issues/"><u>Quick Solutions: Resolve Your Winword.exe Crashing Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-solutions-to-stop-ring-of-elysium-from-crashing/"><u>Step-by-Step Solutions to Stop Ring of Elysium From Crashing</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-remarkable-difference-of-using-ios-18-on-an-iphone-14-for-content-creation-a-deep-dive/"><u>The Remarkable Difference of Using iOS 18 on an iPhone 14 for Content Creation - A Deep Dive</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unstick-your-sea-of-thieves-game-from-the-loading-phase-expert-advice-and-tips/"><u>Unstick Your Sea of Thieves Game From the Loading Phase: Expert Advice and Tips</u></a></li>
 </ul></div>
 

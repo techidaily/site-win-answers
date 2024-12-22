@@ -1,7 +1,7 @@
 ---
 title: Fixing the Unfixable? Your Comprehensive Solution for Nioh ˈt͡ʃeɪnɪŋ Problems
-date: 2024-12-09T18:36:38.227Z
-updated: 2024-12-12T17:35:23.299Z
+date: 2024-12-14T20:32:37.503Z
+updated: 2024-12-20T18:57:55.693Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/9f1310fb04eb76846ce94c2831da468762b7226e2
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -49,12 +49,12 @@ Here’s how you can check the file integrity on Steam:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/re5-verify-1.jpg)
 2. In the left menu, select**LOCAL FILES** . Then click**Verify integrity of game files** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/re5-verify-2.jpg)
 3. Wait until the checking completes. Then you can try to start the game.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If this trick doesn’t give you luck, take a look at the next one below.
 
@@ -73,7 +73,7 @@ Here’s how you can check the file integrity on Steam:
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -81,6 +81,10 @@ Here’s how you can check the file integrity on Steam:
  Once you’ve updated your graphics driver, restart your PC and check if Resident Evil 5 launches now.
 
  If the latest video driver doesn’t help you, check out the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Install all Windows updates
 
@@ -90,10 +94,6 @@ Here’s how you can check the file integrity on Steam:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-1.jpg)
 2. Click**Check for updates** . Windows will then check for available updates. (Or click Restart now if it prompts “Restart required”)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
 
  After installing all the updates, restart your computer and check if you can launch Resident Evil 5 now.
@@ -101,7 +101,7 @@ Here’s how you can check the file integrity on Steam:
  If this method doesn’t work for you, simply continue to the next one.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Install the latest version of Games for Windows Live (GFWL)
@@ -124,6 +124,10 @@ Here’s how you can check the file integrity on Steam:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/patch-2.jpg)
 4. Now check if Resident Evil 5 can launch normally.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Check for corrupted system files
 
  If none of the fixes above work for you, chances are you’re looking at a **system issue** . We all use our computers differently, it’s usually hard to tell what went wrong exactly. So before you reinstall Windows, you can try to scan your system with a professional repair tool.
@@ -134,10 +138,6 @@ Here’s how you can check the file integrity on Steam:
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
@@ -162,22 +162,18 @@ Here’s how you can check the file integrity on Steam:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-configuring-zoom-step-by-step-video-conference-guide/"><u>[New] Configuring Zoom Step-by-Step Video Conference Guide</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-unlocking-the-basics-kinetic-design-techniques/"><u>[New] In 2024, Unlocking the Basics Kinetic Design Techniques</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-premier-5-minute-longshot-recorder/"><u>[New] Premier 5-Minute Longshot Recorder</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/op-6-free-online-tools-for-downloading-youtube-shorts-for-2024/"><u>[New] Top 6 Free, Online Tools for Downloading YouTube Shorts for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-ultimate-guide-to-windows-10-savvy-techniques/"><u>[New] Ultimate Guide to Windows 10 Savvy Techniques</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Nokia 130 Music | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-tips-to-eliminate-lag-issues-while-playing-naraka-bladesword-online/"><u>Expert Tips to Eliminate Lag Issues While Playing Naraka Bladesword Online</u></a></li>
-<li><a href="https://win-answers.techidaily.com/house-flipper-sstem-how-to-prevent-the-game-from-crashing-while-playing-on-a-desktop/"><u>House Flipper ˈsɪstem: How to Prevent the Game From Crashing While Playing on a Desktop</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-stop-cult-of-the-lamb-from-freezing-on-your-computer-quick-fixes/"><u>How to Stop Cult of The Lamb From Freezing on Your Computer - Quick Fixes</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/navigating-the-digital-arena-as-an-aspiring-online-star/"><u>Navigating the Digital Arena as an Aspiring Online Star</u></a></li>
-<li><a href="https://win-answers.techidaily.com/netflix-back-in-action-for-xbox-one-no-more-playback-errors/"><u>Netflix Back in Action for Xbox One - No More Playback Errors!</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-valheim-stability-issues-a-guide-to-stop-pc-freezing-and-crashing/"><u>Overcoming Valheim Stability Issues - A Guide to Stop PC Freezing and Crashing</u></a></li>
-<li><a href="https://win-answers.techidaily.com/pathfinder-wrath-of-the-righteous-fixed-now-running-smoothly-on-your-pc/"><u>Pathfinder: Wrath of the Righteous Fixed - Now Running Smoothly on Your PC</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/pixelsculptor-suite/"><u>PixelSculptor Suite</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723005838470-resolve-pc-lag-in-resident-evil-village-with-these-proven-fixes-guide-released/"><u>Resolve PC Lag in Resident Evil Village with These Proven Fixes - Guide Released</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-fixing-non-responsive-battlenet-launcher-on-windows/"><u>Troubleshooting Guide: Fixing Non-Responsive Battle.net Launcher on Windows</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-success-overcoming-horizon-zero-dawns-pc-malfunction/"><u>Troubleshooting Success: Overcoming Horizon Zero Dawn's PC Malfunction</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-a-filmmakers-approach-to-classroom-instructional-videos/"><u>[New] 2024 Approved A Filmmaker’s Approach to Classroom Instructional Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-the-best-game-video-recording-and-editing-software-for-beginners/"><u>[New] 2024 Approved The Best Game Video Recording and Editing Software for Beginners</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-expertly-engineered-earbud-egress/"><u>[New] Expertly Engineered Earbud Egress</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-veiled-vocal-vaults-top-6-under-the-radar-mobile-apps/"><u>[Updated] 2024 Approved Veiled Vocal Vaults Top 6 Under-the-Radar Mobile Apps</u></a></li>
+<li><a href="https://win-answers.techidaily.com/closing-the-loop-on-metro-exodus-pc-enhanced-crash-issues-a-step-by-step-guide/"><u>Closing the Loop on Metro Exodus PC Enhanced Crash Issues – A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cult-of-the-lamb-malfunction-solutions-for-a-seamless-pc-gaming-experience/"><u>Cult of the Lamb Malfunction Solutions for a Seamless PC Gaming Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/game-savers-ultimate-troubleshooting-guide-for-risk-of-rain-2-game-crashes/"><u>Game Savers: Ultimate Troubleshooting Guide for 'Risk of Rain 2' Game Crashes</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/hookup-opportunities-in-discord-chats/"><u>Hookup Opportunities in Discord Chats</u></a></li>
+<li><a href="https://win-answers.techidaily.com/in-depth-tips-to-fix-and-prevent-lagging-during-gameplay-in-dying-light/"><u>In-Depth Tips to Fix and Prevent Lagging During Gameplay in Dying Light</u></a></li>
+<li><a href="https://win-dash.techidaily.com/master-your-windows-webcams-with-these-essential-downloadable-driver-packages/"><u>Master Your Window's Webcams with These Essential Downloadable Driver Packages</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210450304-9781667420349-megan-e-a-radio-um-show-na-estrada/"><u>Megan e a Rádio Um Show na Estrada | Free Book</u></a></li>
+<li><a href="https://win-answers.techidaily.com/valorant-playback-woes-heres-how-to-solve-them/"><u>Valorant Playback Woes? Here's How to Solve Them !</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-itel-a60-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Itel A60? | Dr.fone</u></a></li>
 </ul></div>
 

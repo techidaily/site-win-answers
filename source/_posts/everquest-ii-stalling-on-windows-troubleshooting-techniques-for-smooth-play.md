@@ -1,7 +1,7 @@
 ---
 title: "EverQuest II Stalling on Windows: Troubleshooting Techniques for Smooth Play"
-date: 2024-12-07T17:08:00.163Z
-updated: 2024-12-12T16:35:35.083Z
+date: 2024-12-14T16:10:07.286Z
+updated: 2024-12-20T21:08:38.493Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ Halo Infinite is available now and some gamers have noticed that the game has be
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
 1. [Check the minimum system requirement](https://tools.techidaily.com/drivereasy/download/)
@@ -33,6 +29,10 @@ Halo Infinite is available now and some gamers have noticed that the game has be
 3. [Change in-game settings](https://tools.techidaily.com/drivereasy/download/)
 4. [Turn off background apps](https://tools.techidaily.com/drivereasy/download/)
 5. [Change NVIDIA resolution](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 1: Check the minimum system requirement
 
@@ -49,10 +49,6 @@ Halo Infinite is available now and some gamers have noticed that the game has be
  Halo Infinite supports indicates some minimum hardware specification GPUs may crash when playing intro cinematic sequences in 4k resolution.
 
 You can fix it by uninstalling the multiplayer HD texture packs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Update your graphic driver
 
@@ -78,6 +74,10 @@ There are mainly two ways you can update the graphics driver:
 
  If updating the graphics driver doesn’t work, you can move to the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 3: Change in-game settings
 
  Some gamers found when they turn on VSYN with setting frames rate to 144 or 90, the stuttering issue has gone. You can have a try. It’s a simple and common fix that has helped a lot of gamers. You can give it a try.
@@ -94,21 +94,17 @@ There are mainly two ways you can update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-31-1200x580.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Set**TEXTURE FILTERING** to**Ultra** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-32.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  6) Many people suggest turning off**ASYNC COMPUTE** but if you’re running an AMD graphics card, you’d better turn it on. Because you can get at least 10FPS extra on average with it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-34.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7) Run the game to check.
 
@@ -124,10 +120,14 @@ If it’s not working, move to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-29.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Turn off all the background apps then run Halo Infinite to check if the issue persists.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 5: Change NVIDIA resolution
@@ -155,24 +155,22 @@ If it’s not working, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-channel-upgrade-how-reaching-500-viewers-propelts-monetization/"><u>[Updated] In 2024, Channel Upgrade How Reaching 500 Viewers Propelts Monetization</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-prime-selections-convert-youtube-videos-quickly/"><u>2024 Approved Prime Selections Convert YouTube Videos Quickly</u></a></li>
-<li><a href="https://win-answers.techidaily.com/efficient-tactics-to-solve-your-acrocefexe-malfunction-issues/"><u>Efficient Tactics to Solve Your AcroCEF.exe Malfunction Issues</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effortless-solutions-for-players-facing-game-crashes-in-ghost-recon-breakpoint/"><u>Effortless Solutions for Players Facing Game Crashes in Ghost Recon Breakpoint</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-dragon-age-origins-troubleshooting-crashes-on-windows-11-solutions/"><u>Fixing Dragon Age: Origins - Troubleshooting Crashes on Windows 11 | Solutions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-launch-problems-solutions-for-playing-outriders-on-pc/"><u>Fixing Launch Problems - Solutions for Playing Outriders on PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-hurdle-of-stuck-boot-in-dota-2-a-step-by-step-guide/"><u>Fixing the Hurdle of Stuck Boot in Dota 2 – A Step-by-Step Guide</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/how-to-amplify-facebook-stories-with-music-elements-for-2024/"><u>How to Amplify Facebook Stories with Music Elements for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/improve-your-call-of-duty-black-ops-4-play-fixing-frame-drops-and-reducing-lags-for-a-smoother-experience/"><u>Improve Your Call of Duty: Black Ops 4 Play - Fixing Frame Drops & Reducing Lags for a Smoother Experience</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-8-cutting-edge-skins-perfect-for-your-laptop/"><u>In 2024, 8 Cutting-Edge Skins Perfect for Your Laptop</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-samsung-galaxy-m14-4g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Samsung Galaxy M14 4G Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-gadgets-in-depth-analysis-by-toms-hardware-specialist/"><u>Mastering Gadgets: In-Depth Analysis by Tom's Hardware Specialist</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-functional-adjustments-windows-1011-edition/"><u>Navigating Functional Adjustments: Windows 10/11 Edition</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-the-unlimited-soundscape-best-budget-friendly-audio-mixer-software-ranked/"><u>New The Unlimited Soundscape Best Budget-Friendly Audio Mixer Software Ranked</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723003421091-optimizing-your-experience-with-total-war-warhammer-ii-eliminating-crashing-troubles-once-and-for-all/"><u>Optimizing Your Experience with Total War: WARHAMMER II - Eliminating Crashing Troubles Once & for All!</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-oppo-reno-10-pro-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Oppo Reno 10 Pro 5G Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/softening-effects-in-ableton-live/"><u>Softening Effects in Ableton Live</u></a></li>
-<li><a href="https://win-answers.techidaily.com/total-war-warhammer-ii-troubleshooting-guide-to-overcome-frequent-crashes/"><u>Total War: Warhammer II Troubleshooting Guide to Overcome Frequent Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-r-type-final-2-crash-problems-in-pc-version-solutions-inside/"><u>Troubleshooting R-Type Final 2 Crash Problems in PC Version - Solutions Inside</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-relaxation-station-leisurely-phone-game-guide/"><u>[Updated] 2024 Approved Relaxation Station Leisurely Phone Game Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-secrets-to-high-quality-sims-4-gameplay-recordings/"><u>[Updated] 2024 Approved Secrets to High-Quality Sims 4 Gameplay Recordings</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-how-to-effortlessly-access-and-apply-instagrams-best-filters-for-2024/"><u>[Updated] How to Effortlessly Access and Apply Instagram's Best Filters for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-new-developments-in-facebook-2023-edition-for-2024/"><u>[Updated] New Developments in Facebook - 2023 Edition for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-the-detailed-breakdown-of-fbm-transcription-techniques-for-2024/"><u>[Updated] The Detailed Breakdown of FBM Transcription Techniques for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-9-best-free-and-easy-editing-apps-you-should-know/"><u>2024 Approved 9 Best Free and Easy Editing Apps You Should Know</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723005130212-anno-1800-and-directx-troubleshooting-solutions-unveiled/"><u>Anno 1800 and DirectX Troubleshooting - Solutions Unveiled</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-to-stop-constant-crashes-of-thunder-tier-1-while-playing-on-your-pc/"><u>Expert Tips to Stop Constant Crashes of Thunder Tier 1 While Playing on Your PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-pc-issues-in-euro-truck-simulator-2-a-comprehve-solutions-compilation/"><u>Fixing PC Issues in Euro Truck Simulator 2 - A Comprehve Solutions Compilation</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/reversing-auto-repost-actions-on-tiktok-what-you-need-to-know/"><u>Reversing Auto-Repost Actions on TikTok - What You Need to Know</u></a></li>
+<li><a href="https://win-latest.techidaily.com/revolutionizing-cybersecurity-how-windows-11-delivers-immediate-protection-insights-for-it-pros-securetech-news/"><u>Revolutionizing Cybersecurity: How Windows 11 Delivers Immediate Protection - Insights for IT Pros | SecureTech News</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-anthem-load-screen-glitch-once-and-for-all/"><u>Solving the Anthem Load Screen Glitch Once and for All</u></a></li>
+<li><a href="https://win-answers.techidaily.com/tackling-elevated-cpu-demands-on-your-new-computer-system-a-guide/"><u>Tackling Elevated CPU Demands on Your New Computer System: A Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshoot-like-a-pro-how-to-solve-minecrafts-stubborn-launch-issues/"><u>Troubleshoot Like a Pro: How To Solve Minecraft's Stubborn Launch Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-deadly-software-issues-in-activisions-battle-royale-titles/"><u>Troubleshooting Deadly Software Issues in Activision's Battle Royale Titles</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-troubleshooting-steps-for-managing-maxed-out-disk-space-in-windows-11/"><u>Ultimate Troubleshooting Steps for Managing Maxed-Out Disk Space in Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/understanding-the-reasons-behind-diablo-ii-resurrecteds-unavailability/"><u>Understanding the Reasons Behind Diablo II: Resurrected's Unavailability</u></a></li>
 </ul></div>
 

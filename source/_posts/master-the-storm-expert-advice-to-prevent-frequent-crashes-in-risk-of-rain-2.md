@@ -1,7 +1,7 @@
 ---
 title: "Master the Storm: Expert Advice to Prevent Frequent Crashes in Risk of Rain 2"
-date: 2024-12-07T18:35:45.180Z
-updated: 2024-12-12T19:15:21.462Z
+date: 2024-12-17T17:22:27.589Z
+updated: 2024-12-20T19:22:23.139Z
 tags:
   - win11
   - win10
@@ -43,7 +43,7 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -52,6 +52,10 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 2. [Manage Virtual Memory](https://tools.techidaily.com/drivereasy/download/)
 3. [Delete specific files from the save folder](https://tools.techidaily.com/drivereasy/download/)
 4. [Underclock your clock speed](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Download the latest patch
 
@@ -66,28 +70,24 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/1-4.jpg)
 3. Under the**Advanced** tab, click**Settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2-4.jpg)
 4. Under**Virtual memory** , click**Change** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/3-2.jpg)
 5. Uncheck**Automatically manage paging file size for all drives** and make sure you’ve check**System managed size** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/4-2.jpg)
 6. Click**Set > OK** .
 
 7. Reboot your computer can check whether the crash will appear or not.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Delete specific files from the save folder
 
@@ -107,7 +107,7 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
  The game is built with an old Unreal Engine version. This may be the reason for the random crashes. You can underclock your CPU speed by 100 MHz or 150 MHz to see whether it helps or not.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bonus: Update your drivers
@@ -158,16 +158,18 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-best-of-the-best-10-recorders-for-your-device/"><u>[New] In 2024, Best of the Best #10 Recorders for Your Device</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-edge-of-creativity-best-4k-displays-for-editing-excellence/"><u>[Updated] In 2024, Edge of Creativity Best 4K Displays for Editing Excellence</u></a></li>
-<li><a href="https://win-answers.techidaily.com/5-proven-tactics-to-troubleshoot-cant-start-video-error-on-zoom/"><u>5 Proven Tactics to Troubleshoot Can't Start Video Error on Zoom</u></a></li>
-<li><a href="https://win-answers.techidaily.com/beat-the-warzone-directx-error-in-just-four-steps/"><u>Beat The 'Warzone DirectX Error' In Just Four Steps</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/cutting-edge-image-vault-sites/"><u>Cutting-Edge Image Vault Sites</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-tricks-for-a-smooth-launch-of-overwatch-2-addressing-common-problems/"><u>Expert Tricks for a Smooth Launch of Overwatch 2: Addressing Common Problems</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-effortlessly-journey-to-your-custom-designed-music-library-on-youtube/"><u>In 2024, Effortlessly Journey to Your Custom-Designed Music Library on Youtube</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-mastering-frame-rates-for-best-slow-motion-effects/"><u>In 2024, Mastering Frame Rates for Best Slow Motion Effects</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-tips-and-tricks-to-tell-if-your-iphone-11-pro-is-unlocked-by-drfone-ios/"><u>In 2024, Tips And Tricks To Tell if Your iPhone 11 Pro Is Unlocked</u></a></li>
-<li><a href="https://win-answers.techidaily.com/outriders-and-the-triumph-over-low-frames-per-second-dilemma/"><u>Outriders and the Triumph Over Low Frames Per Second Dilemma</u></a></li>
-<li><a href="https://win-answers.techidaily.com/winning-against-pc-lag-and-crashes-in-spellbreak-gameplay/"><u>Winning Against PC Lag and Crashes in Spellbreak Gameplay</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-maximizing-visibility-key-elements-in-youtube-thumbnail-design/"><u>[Updated] Maximizing Visibility Key Elements in YouTube Thumbnail Design</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-online-viewers-count-counter/"><u>[Updated] Online Viewers Count Counter</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1-ultimate-mac-compatible-video-transcoder-superior-avchd-mkv-mov-mp4-format-conversion/"><u>1. Ultimate Mac-Compatible Video Transcoder: Superior AVCHD, MKV, MOV, MP4 Format Conversion</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/comprehensive-troubleshooting-steps-for-persistent-firefox-freezes/"><u>Comprehensive Troubleshooting Steps for Persistent Firefox Freezes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/exploring-the-features-and-benefits-of-the-microsoft-ergo-sculpt-keyboard/"><u>Exploring the Features & Benefits of the Microsoft Ergo Sculpt Keyboard</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-game-loop-issues-resolving-crashes-in-games-on-windows-11-and-10/"><u>Fixing Game Loop Issues: Resolving Crashes in Games on Windows 11 & 10</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-realme-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/regained-control-update-on-the-reactivation-of-secure-login-features-online/"><u>Regained Control: Update on the Reactivation of Secure Login Features Online</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-troubleshooting-guide-to-stop-sims-3-from-crashing-pc-version/"><u>Step-by-Step Troubleshooting Guide to Stop Sims 3 From Crashing (PC Version)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-business-cloud-data-warehouse-for-2024/"><u>Top Business Cloud Data Warehouse for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-iphone-hacks-for-capturing-stunning-skyline-shots/"><u>Top iPhone Hacks for Capturing Stunning Skyline Shots</u></a></li>
+<li><a href="https://win-answers.techidaily.com/valorant-error-resolved-quick-remedies-for-graphics-driver-failures-during-play/"><u>Valorant Error Resolved: Quick Remedies for Graphics Driver Failures During Play</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>What Legendaries Are In Pokemon Platinum On Apple iPhone 6s Plus? | Dr.fone</u></a></li>
 </ul></div>
 

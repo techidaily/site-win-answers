@@ -1,7 +1,7 @@
 ---
 title: Successful Update Fixes Launch Glitch in Popular Warfare Game
-date: 2024-08-19T02:13:31.752Z
-updated: 2024-08-20T02:13:31.752Z
+date: 2024-12-17T19:46:08.357Z
+updated: 2024-12-20T21:13:05.358Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/3c65f68799b4050edde66f042974df77982abdb35
 
  Forza Horizon 5 is finally here. However, some players reported that they were unable to launch the game and got the message saying that “**Please update your graphics driver…(Code: FH301)** ”. If you’re facing the same error, don’t worry. Here we’ll tell you how to update your graphics driver easily and quickly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Three ways to update your graphics driver
 
 1. **[Update graphics driver via Device Manager](https://tools.techidaily.com/drivereasy/download/)**
@@ -34,6 +38,11 @@ thumbnail: https://thmb.techidaily.com/3c65f68799b4050edde66f042974df77982abdb35
 2. In Device Manager, double-click**Display adapters** to expand it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/display-adapter.jpg)
 3. Right-click your**graphics card** and select**Update driver** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/graphics-update-driver.jpg)
 4. Select**Search automatically for drivers** . Windows will automatically search for the latest driver for your graphics card and then install it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/search-automatically-for-drivers.jpg)
@@ -42,8 +51,9 @@ thumbnail: https://thmb.techidaily.com/3c65f68799b4050edde66f042974df77982abdb35
  If Windows doesn’t find a new driver, you can try looking for one from your graphics card manufacturer’s website or by using a third-party driver updater.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 2: Update graphics driver automatically (Recommended)
 
  If you don’t have the time, patience or computer skills to update your graphics driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -54,22 +64,21 @@ thumbnail: https://thmb.techidaily.com/3c65f68799b4050edde66f042974df77982abdb35
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-scan-now-20-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  After installing the latest graphics driver, restart your PC for the changes to take effect. Now you should be able to launch Forza Horizon 5.
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 3: Update your graphics driver manually
 
  You can also go to your graphics card manufacturer’s website to download and update your graphics driver. It takes time and computer skills to update your graphics driver this way. If you’re a tech-savvy user, you can try the following steps to download and install the latest graphics driver on your own.
@@ -78,9 +87,6 @@ thumbnail: https://thmb.techidaily.com/3c65f68799b4050edde66f042974df77982abdb35
 2. Select the**type of your graphics card** and your**operating system** . Once you locate the correct one, select the latest version to**download** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/nvidia-driver.jpg)
 3. Once downloaded,**double-click** on the downloaded file and follow the on-screen instructions to install the driver.
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4. **Restart** your PC and check if you can launch Forza horizon 5.
 
 ---
@@ -96,8 +102,6 @@ thumbnail: https://thmb.techidaily.com/3c65f68799b4050edde66f042974df77982abdb35
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -105,4 +109,16 @@ thumbnail: https://thmb.techidaily.com/3c65f68799b4050edde66f042974df77982abdb35
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-snapshot-survival-guide-top-recorders-evaluated/"><u>[New] 2024 Approved SnapShot Survival Guide Top Recorders Evaluated</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722994502147-assassins-creed-valhalla-pc-stability-issues-heres-what-you-need-to-know/"><u>Assassin's Creed Valhalla PC Stability Issues? Here’s What You Need to Know</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-assessment-of-kensuns-durable-and-lightweight-mobile-tire-inflator/"><u>Expert Assessment of Kensun's Durable & Lightweight Mobile Tire Inflator</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-resolve-starting-problems-in-persona-3-reload-game/"><u>How to Resolve Starting Problems in Persona 3 Reload Game</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-gionee-phone-without-pin-by-drfone-android/"><u>How to Unlock Gionee Phone without PIN</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-mastering-your-tech-skills-unlock-macs-full-screen-recording-power-with-shortcuts/"><u>In 2024, Mastering Your Tech Skills Unlock Mac's Full Screen Recording Power with Shortcuts</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-your-eveo-bluetooth-transmitter-with-this-free-software/"><u>Install Your EVEO Bluetooth Transmitter with This Free Software</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stop-chrome-screen-shimmering-expert-advice-for-a-stable-display-on-your-pc-guide/"><u>Stop Chrome Screen Shimmering: Expert Advice for a Stable Display on Your PC (Guide)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-8-reliable-solutions-to-stop-vrchat-from-crashing-on-your-computer/"><u>Top 8 Reliable Solutions to Stop VRChat From Crashing on Your Computer</u></a></li>
+</ul></div>
 

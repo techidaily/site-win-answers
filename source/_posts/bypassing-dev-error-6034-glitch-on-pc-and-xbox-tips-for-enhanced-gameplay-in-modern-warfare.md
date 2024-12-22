@@ -1,7 +1,7 @@
 ---
 title: "Bypassing Dev Error 6034 Glitch on PC and Xbox: Tips for Enhanced Gameplay in Modern Warfare"
-date: 2024-08-19T02:15:25.400Z
-updated: 2024-08-20T02:15:25.400Z
+date: 2024-12-17T17:38:10.359Z
+updated: 2024-12-20T18:31:11.918Z
 tags:
   - win11
   - win10
@@ -25,6 +25,10 @@ A recent update of Warzone triggered a surge in reports of the**Dev Error 6034**
 2. [**Remove broken game files (PC)**](https://www.drivereasy.com/knowledge/how-to-fix-dev-error-6034-in-warzone-pc-xbox/#fix2)
 3. **[Remove Multiplayer game packs (Xbox)](https://www.drivereasy.com/knowledge/how-to-fix-dev-error-6034-in-warzone-pc-xbox/#fix3)**
 4. **[Reinstall Warzone](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver (PC)
 
@@ -61,8 +65,9 @@ To do so, first visit the website of your GPU manufacturer:
  If the latest drivers didn’t give you luck, you can try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Remove broken game files (PC)
 
  There’s information saying that the 6034 error is related to game files, which means you might fix it by a**scan and repair** . But before that, you need to delete some game files manually to ensure Blizzard downloads the latest version:
@@ -77,16 +82,17 @@ To do so, first visit the website of your GPU manufacturer:
 3. In the left pane, select **Call of Duty: MW** . Then click **Options**  and select **Scan and Repair** from the drop-down menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/warzone-verify-1.jpg)
 4. Wait for the process to complete. Then launch Warzone and check if it’s working now.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If this method doesn’t do the trick, you can take a look at the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Remove Multiplayer game packs
 
  Soon after the Dev Error happens, console gamers discovered that they can fix the issue by**removing specific game packs** . This would be less painful than a complete reinstallation, so you can give it a shot. If you don’t know how, here’s a quick example on Xbox:
@@ -94,22 +100,18 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 1. On your Xbox, select Call of Duty: Modern Warfare. Press the menu button and select**Manage game & add-ons** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-1.jpg)
 2. Select**Call of Duty: Modern Warfare** . (You might also need to select**Manage installation on External drive** .)  
+
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-2.jpg)
 3. Scroll down and unselect**MP2 Pack** and**Multiplayer Pack 3.** Then select**Save changes** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-3.jpg)
 4. Now restart your Xbox and check if Warzone is working now.
 
 If this trick doesn’t help you, simply check out the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ### Fix 4: Reinstall Warzone
 
  If none of the fixes above can solve your issue, you still have a nuclear solution to**reinstall your game** . According to some gamers, it appears to be a potential fix for the Dev Error 6034 issue.
@@ -126,8 +128,6 @@ If this trick doesn’t help you, simply check out the next one.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -135,4 +135,24 @@ If this trick doesn’t help you, simply check out the next one.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-adjust-your-android-images-right-here/"><u>[New] 2024 Approved Adjust Your Android Images Right Here</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-expert-strategies-for-effective-online-image-trimming/"><u>[New] In 2024, Expert Strategies for Effective Online Image Trimming</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-leading-third-place-ipad-recording-software-guide/"><u>[Updated] In 2024, Leading Third-Place iPad Recording Software Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/boosting-dota-2-playability-solving-fps-drops-across-the-latest-windows-operating-systems/"><u>Boosting Dota 2 Playability: Solving FPS Drops Across the Latest Windows Operating Systems</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/charting-course-essential-steps-from-concept-to-content-creation-in-review-channels/"><u>Charting Course Essential Steps From Concept to Content Creation in Review Channels</u></a></li>
+<li><a href="https://win-answers.techidaily.com/common-errors-and-solutions-overcoming-the-obstacle-of-a-non-launching-rocket-league-game/"><u>Common Errors & Solutions: Overcoming the Obstacle of a Non-Launching Rocket League Game</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easy-fixes-for-microsoft-outlook-not-opening-issue/"><u>Easy Fixes for Microsoft Outlook Not Opening Issue</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/ever-changing-era-of-ai-video-translation-a-reality-to-be-fulfilled/"><u>Ever-Changing Era of AI Video Translation A Reality to Be Fulfilled</u></a></li>
+<li><a href="https://win11.techidaily.com/guaranteeing-smooth-audio-transmission-in-steam/"><u>Guaranteeing Smooth Audio Transmission in Steam</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-how-to-rejuvenate-old-memories-with-modern-instagram-features/"><u>In 2024, How to Rejuvenate Old Memories with Modern Instagram Features</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-social-media-spotlight-todays-top-8-video-phenomena/"><u>In 2024, Social Media Spotlight Today’s Top 8 Video Phenomena</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-gaming-made-simple-overcoming-constant-elex-ii-game-crashes/"><u>PC Gaming Made Simple: Overcoming Constant Elex II Game Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/terraria-troubleshooting-guide-for-2aturai-keeps-crashing-issues-latest-fixes/"><u>Terraria Troubleshooting Guide for 2Aturai Keeps Crashing Issues | Latest Fixes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-ultimate-guide-to-debugging-rust-kernel-crashes-for-smoother-operation/"><u>The Ultimate Guide to Debugging Rust Kernel Crashes for Smoother Operation</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-and-resolving-pc-crashes-in-cyberpunk-2/"><u>Troubleshooting and Resolving PC Crashes in Cyberpunk 2</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steamvr-efficient-methods-to-restore-functionality/"><u>Troubleshooting SteamVR - Efficient Methods to Restore Functionality</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Handle Unexpected Reductions in FPS on Your Gaming PC/Console
-date: 2024-12-10T19:06:34.119Z
-updated: 2024-12-12T16:37:25.546Z
+date: 2024-12-13T18:31:01.031Z
+updated: 2024-12-20T19:06:48.288Z
 tags:
   - win11
   - win10
@@ -39,7 +39,7 @@ But don’t worry, it’s usually not that hard to fix.
 7. **[Try another version of Afterburner](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Check your cable connection
@@ -47,10 +47,6 @@ But don’t worry, it’s usually not that hard to fix.
  First you need to**be sure that you have the right display port** . If you’re using the wrong port, say you have your monitor hooked up with the integrated graphics, your GPU might not show up in Afterburner since you’re not using it for display.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/dedicated-gpu-integrated-graphics-hdmi-1200x1200.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 You should also rule out the possibility of faulty cables.
 
@@ -64,18 +60,14 @@ You should also rule out the possibility of faulty cables.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/msi-afterburner-settings-1.jpg)
 2. In the**Compatibility settings** section, uncheck the box next to**Enable low-level IO driver** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/msi-afterburner-settings-2.jpg)
 3. Restart your PC and check the results in MSI Afterburner.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If this trick doesn’t help you. take a look at the next one below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Check if you have Vanguard
 
@@ -96,6 +88,10 @@ If you don’t have Vanguard, simply move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-killer-networking-rtx-2060-clean.jpg)
 
@@ -113,11 +109,11 @@ If you don’t have Vanguard, simply move on to the next fix.
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
@@ -133,10 +129,6 @@ If the issue lingers on, you can continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig-clean-boot-1.jpg)
 2. In the pop-up window, navigate to the **Services**  tab and check the box next to **Hide all Microsoft services** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
 
@@ -144,11 +136,15 @@ If the issue lingers on, you can continue to the next fix.
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
@@ -156,6 +152,10 @@ If the issue lingers on, you can continue to the next fix.
  If Afterburner works after the clean boot, you can root out the offenders by repeating the steps and disabling only half of the services and programs.
 
 If the issue persists, you can try the next solution below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Try another version of Afterburner
 
@@ -182,18 +182,19 @@ If the issue persists, you can try the next solution below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-next-level-gameplay-capturing-applications/"><u>[New] In 2024, Next-Level Gameplay Capturing Applications</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-boost-video-quality-on-youtube-the-essential-webcams-guide-for-2024/"><u>[Updated] Boost Video Quality on YouTube - The Essential Webcams Guide for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-stock-strategies-unveiled-essential-youtube-video-resources/"><u>2024 Approved Stock Strategies Unveiled Essential YouTube Video Resources</u></a></li>
-<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Poco M6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/complete-guide-mastering-file-history-backups-on-windows-server-201n/"><u>Complete Guide: Mastering File History Backups on Windows Server 201N</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-prevent-and-fix-battlefield-5-from-crashing-on-windows-computers/"><u>How to Prevent and Fix Battlefield 5 From Crashing on Windows Computers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-prevent-and-solve-frequent-ark-system-malfunctions/"><u>How to Prevent and Solve Frequent ARK System Malfunctions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/no-more-firefox-freezes-discover-why-the-browser-keeps-closing-and-solutions/"><u>No More Firefox Freezes: Discover Why the Browser Keeps Closing & Solutions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/steam-fatal-error-solution-manual-installation-of-missing-dll-files/"><u>Steam Fatal Error Solution: Manual Installation of Missing DLL Files</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-correcting-session-search-errors-in-palworld/"><u>Step-by-Step Guide: Correcting Session Search Errors in PalWorld</u></a></li>
-<li><a href="https://win-answers.techidaily.com/tackling-ping-spikes-in-bless-unleashed-a-comprehensive-guide-to-enhancing-pc-performance/"><u>Tackling Ping Spikes in Bless Unleashed: A Comprehensive Guide to Enhancing PC Performance</u></a></li>
-<li><a href="https://discover-data.techidaily.com/top-rated-miracast-apps-for-your-android-device-a-comprehensive-guide/"><u>Top Rated Miracast Apps for Your Android Device: A Comprehensive Guide</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-asus-rog-phone-7-ultimate-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Asus ROG Phone 7 Ultimate Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-iphone-filmmaking-essentials-creating-and-changing-video-speed-dynamics/"><u>[New] IPhone Filmmaking Essentials Creating and Changing Video Speed Dynamics</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723011586544-solved-biomutant-crash-on-pc-2024-tips/"><u>[SOLVED] Biomutant Crash on PC – 2024 Tips</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-from-ground-up-a-complete-evaluation-of-dji-phantom-4/"><u>[Updated] From Ground Up A Complete Evaluation of DJI Phantom 4</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-ms-to-do-apps-sync-issues-a-simple-guide/"><u>Decoding MS To-Do App's Sync Issues: A Simple Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/epic-games-update-log-how-season-8-is-revolutionizing-fortnites-graphics-and-performance/"><u>Epic Games Update Log: How Season 8 Is Revolutionizing Fortnite's Graphics and Performance</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/format-showdown-evaluating-value-in-dvds-blu-rays-and-digital-downloads/"><u>Format Showdown: Evaluating Value in DVDs, Blu-Rays and Digital Downloads</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-maximizing-engagement-with-youtube-shorts-content/"><u>In 2024, Maximizing Engagement with YouTube Shorts Content</u></a></li>
+<li><a href="https://extra-information.techidaily.com/keeping-it-secretive-watching-instagram-live-undetected/"><u>Keeping It Secretive Watching Instagram Live Undetected</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ng-selection-of-10-free-video-subtitle-extractors-for-2024/"><u>Leading Selection of 10 Free Video Subtitle Extractors for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/navigating-through-double-fps-slumps-in-pc-gaming-a-comprehensive-guide-to-solutions/"><u>Navigating Through Double FPS Slumps in PC Gaming: A Comprehensive Guide to Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimizing-your-jurassic-world-evolution-experience-overcoming-freezing-problems/"><u>Optimizing Your Jurassic World Evolution Experience: Overcoming Freezing Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/red-dead-redemption-abortion-2-stuck-on-startup-solutions-to-get-you-playing-again/"><u>Red Dead Redemption Abortion 2 Stuck on Startup? Solutions to Get You Playing Again</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-rated-wireless-power-solutions-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Rated Wireless Power Solutions - Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-resolving-issues-when-trying-to-start-the-witcher-3-wild-hunt/"><u>Troubleshooting Tips: Resolving Issues When Trying To Start The Witcher 3: Wild Hunt</u></a></li>
 </ul></div>
 

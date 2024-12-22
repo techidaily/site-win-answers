@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: Overcome PC Crashes While Playing Warcraft ^[Reforged] - Top Tips and Tricks for Gamers"
-date: 2024-12-05T16:07:14.176Z
-updated: 2024-12-12T16:42:11.774Z
+date: 2024-12-19T18:21:08.566Z
+updated: 2024-12-20T20:38:23.371Z
 tags:
   - win11
   - win10
@@ -39,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/fd5c5fb492328cdc04de64e70980911350de51156
 10. **[Run Program Compatibility Troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
 11. **[Reinstall the game](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your graphics drivers
 
  Graphics card manufacturers like Nvidia, AMD and Intel constantly release new graphics drivers to fix bugs and improve the gaming performance and experience. If the graphics driver on your PC is outdated or corrupted, you may not be able to enjoy the optimal gaming experience, and sometimes you may run into the Control crash issue.
@@ -58,13 +62,13 @@ thumbnail: https://thmb.techidaily.com/fd5c5fb492328cdc04de64e70980911350de51156
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (Alternatively, if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Stop overclocking
 
@@ -81,22 +85,22 @@ thumbnail: https://thmb.techidaily.com/fd5c5fb492328cdc04de64e70980911350de51156
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Control-graphics-settings-1024x613.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Here are the system requirements for Control:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Control-system-requirements.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  _The system requirements information is captured from Epic Games Launcher_
 
  If you’re currently running Control with DirectX 12, it’s recommended that you run Control**with DirectX 11** to avoid the game crash issues.
 
  Restart the game to see if this fix works, if not, try the next fix below to modify your graphics card settings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Modify your graphics card settings
 
@@ -120,10 +124,14 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
 4. Click **3D Settings** and select **Adjust image settings with preview** . Then select **Use my preference emphasizing** and **drag the slider to the left** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel-main-screen.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Modify AMD graphics card settings
@@ -134,10 +142,6 @@ Here are the system requirements for Control:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select your **AMD Radeon Settings** to open it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
@@ -157,21 +161,21 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings.jpg)
 5. Click Scan to add the game to the application list.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-2.png)
 6. Modify the settings the same way you see in the screenshot below.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-3.png)
 7. Click **Apply** to save the settings.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Launch Control again in reduced settings to see if it crashes or not. If the game still crashes, try the next fix, below.
 
@@ -198,10 +202,6 @@ Here are the system requirements for Control:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Check-for-updates.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If there are no updates related to MS Visual C++ or .NET Framework from Windows Update, you can download their installation files via the links below on your own and manually install them on your PC.
 
 **Microsoft Visual C++ 2013** :  
@@ -211,15 +211,15 @@ Here are the system requirements for Control:
 
  After installing Microsoft Visual C++ 2013 and Microsoft .NET Framework, you need to restart Windows. Then launch Control to see if this issue persists. If not, congratulations, you’ve resolved this issue! If this issue reappears, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 7: Install the latest Control patch
 
  Remedy Entertainment (the developer of Control) releases regular game patches to fix bugs and improve gaming performance. It’s possible that an older patch has caused the game crash issue, and that a new patch is required to fix it.
 
  If a patch is available, just download and install it to see if it can fix the crashing issue; if there’s no patches available, or if the issue persists after you installed the latest patch, try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 8: Verify the game file
 
@@ -229,11 +229,11 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-19_18-49-47.png)
 2. Click **Verify** to start verifying the game files.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-19_18-50-45.png)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-19_18-50-45.png)
 
  Launch Control again after you verified the integrity of the game files. If this issue persists, try the next fix, below.
 
@@ -284,22 +284,24 @@ See if this fix works for you. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-effortless-ios-screen-recording-techniques/"><u>[New] Effortless iOS Screen Recording Techniques</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-mastering-instagram-stories-step-by-step-recording-guide/"><u>[New] In 2024, Mastering Instagram Stories Step-by-Step Recording Guide</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-transcribe-without-breaking-the-bank-learn-how-with-our-free-guide/"><u>[New] Transcribe Without Breaking the Bank Learn How with Our Free Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solved-age-of-empires-4-keeps-crashing-on-pc/"><u>[SOLVED] Age of Empires 4 Keeps Crashing on PC</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-controlling-bitrate-overload-in-obs-for-2024/"><u>[Updated] Controlling Bitrate Overload in OBS for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-pixiz-workshop-the-art-of-photo-video-synthesis/"><u>2024 Approved Pixiz Workshop The Art of Photo Video Synthesis</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/affordable-am4-compatible-mothers-exploring-top-tier-b550-boards-featuring-pcie-40-speeds/"><u>Affordable AM4 Compatible Mothers: Exploring Top-Tier B550 Boards Featuring PCIe 4.0 Speeds</u></a></li>
-<li><a href="https://win-answers.techidaily.com/decoding-the-hold-up-insights-into-elden-rings-late-release/"><u>Decoding The Hold-Up: Insights Into Elden Ring's Late Release</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-solutions-for-preventing-ghostwire-tokyo-from-crashing-on-windows/"><u>Effective Solutions for Preventing Ghostwire: Tokyo From Crashing on Windows</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723004387165-mastered-fixes-for-detroit-become-human-seamless-gaming-on-pc-achieved/"><u>Mastered Fixes for 'Detroit: Become Human': Seamless Gaming on PC Achieved</u></a></li>
-<li><a href="https://win-answers.techidaily.com/optimizing-lost-ark-gameplay-overcoming-performance-difficulties/"><u>Optimizing Lost Ark Gameplay: Overcoming Performance Difficulties</u></a></li>
-<li><a href="https://win-answers.techidaily.com/pathfinder-wrath-of-the-righteous-controller-issues-expert-fixes-to-restore-your-gameplay-experience/"><u>Pathfinder Wrath of the Righteous Controller Issues? Expert Fixes to Restore Your Gameplay Experience</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-key-to-cross-platform-efficiency-using-samsungs-dex/"><u>The Key to Cross-Platform Efficiency: Using Samsung's DeX</u></a></li>
-<li><a href="https://win-answers.techidaily.com/trouble-free-gaming-solving-lego-star-wars-the-skywalker-saga-pc-glitches/"><u>Trouble-Free Gaming: Solving Lego Star Wars - The Skywalker Saga PC Glitches</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-elevated-cpu-utilization-for-an-optimal-god-of-war-gaming-experience/"><u>Troubleshooting Elevated CPU Utilization for an Optimal God of War Gaming Experience</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-how-to-stop-sony-vegas-from-continuously-crashing/"><u>Troubleshooting: How to Stop Sony Vegas From Continuously Crashing</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/year-end-recap-tiktok-hits-that-keep-coming-back-in-24-for-2024/"><u>Year-End Recap TikTok Hits That Keep Coming Back in '24 for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-vlc-video-record-a-critique/"><u>[New] 2024 Approved VLC Video Record A Critique</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-generating-attention-grabbing-video-teasers/"><u>[New] In 2024, Generating Attention-Grabbing Video Teasers</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-tips-for-a-swift-checkup-of-your-youtube-sign-in/"><u>[New] In 2024, Tips for a Swift Checkup of Your YouTube Sign-In</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlock-enhanced-video-playback-and-app-functionality-with-chromes-pip/"><u>[Updated] Unlock Enhanced Video Playback and App Functionality with Chrome’s PIP</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-remedies-for-haldll-problems-from-windows-11-down-to-vista/"><u>Effective Remedies for hal.dll Problems From Windows 11 Down To Vista</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-code-vein-game-freeze-issues-effective-solutions-inside/"><u>Fixing Code Vein Game Freeze Issues: Effective Solutions Inside!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/huge-savings-alert-get-windows-11-pro-at-an-unbelievable-87-reduction-act-fast-to-upgrade-today/"><u>Huge Savings Alert! Get Windows 11 Pro at an Unbelievable 87% Reduction - Act Fast to Upgrade Today!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/icloud-on-windows-receives-major-improvement-upgrade/"><u>ICloud on Windows Receives Major Improvement Upgrade</u></a></li>
+<li><a href="https://win-answers.techidaily.com/identifying-your-current-windows-10-os-build-and-version-a-comprehensive-guide/"><u>Identifying Your Current Windows 10 OS Build & Version: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/improved-efficiency-of-patch-deployment-in-microsofts-latest-os-version-windows-11/"><u>Improved Efficiency of Patch Deployment in Microsoft's Latest OS Version, Windows 11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-motorola-moto-g23-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Motorola Moto G23? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://win-answers.techidaily.com/in-depth-lenovo-legion-7i-16gb-ram-amd-ryzen-500-series-review-initial-thoughts-and-specs-unpacked/"><u>In-Depth Lenovo Legion 7I 16GB RAM, AMD Ryzen 500 Series Review: Initial Thoughts and Specs Unpacked.</u></a></li>
+<li><a href="https://win-answers.techidaily.com/innovative-design-unveiled-comprehensive-analysis-of-the-amd-powered-lenovo-thinkpad-z13-gen-2-laptop/"><u>Innovative Design Unveiled: Comprehensive Analysis of the AMD Powered Lenovo ThinkPad Z13 Gen 2 Laptop</u></a></li>
+<li><a href="https://win-answers.techidaily.com/inside-the-making-of-the-iconic-3d-pipes-screen-saver-a-development-journey/"><u>Inside the Making of the Iconic 3D Pipes Screen Saver: A Development Journey</u></a></li>
+<li><a href="https://win-answers.techidaily.com/integrating-qr-codes-into-microsofts-windows-startup-interface/"><u>Integrating QR Codes Into Microsoft's Windows Startup Interface</u></a></li>
+<li><a href="https://win-answers.techidaily.com/introducing-the-arc-browser-a-stunning-new-competitor-to-chrome-for-windows-users/"><u>Introducing the Arc Browser: A Stunning New Competitor to Chrome for Windows Users</u></a></li>
+<li><a href="https://techidaily.com/solved-bad-and-corrupt-videos-that-won-t-play-on-infinix-smart-7-hd-by-stellar-video-repair-mobile-video-repair/"><u>Solved Bad and Corrupt Videos that won't Play on Infinix Smart 7 HD</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unleashing-power-a-comprehensive-look-at-the-beatit-bt-d11-jump-starter-review/"><u>Unleashing Power: A Comprehensive Look at the Beatit BT-D11 Jump Starter Review</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/where-is-the-best-place-to-catch-dratini-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Realme 12 Pro+ 5G | Dr.fone</u></a></li>
 </ul></div>
 

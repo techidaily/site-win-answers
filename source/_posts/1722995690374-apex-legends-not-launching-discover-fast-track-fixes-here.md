@@ -1,7 +1,7 @@
 ---
 title: Apex Legends Not Launching? Discover Fast-Track Fixes Here!
-date: 2024-12-07T16:58:39.048Z
-updated: 2024-12-12T16:13:05.884Z
+date: 2024-12-19T16:16:33.197Z
+updated: 2024-12-20T20:19:55.042Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ Lost Ark is a free-to-play online game that was developed by Smilegate RPG and p
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -42,21 +42,21 @@ Lost Ark is a free-to-play online game that was developed by Smilegate RPG and p
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/settings.jpg)
 2. Confirm the volume sliders are not set to 0, then you can set it to your personal preference.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Right-click on the sound icon in your taskbar.
 4. Click**Open sound settings** . In the reproduction tab, check the volume of your main device.  
 ![open sound settings](https://images.drivereasy.com/wp-content/uploads/2021/04/open-sound-settings-1.png)
 5. Right-click on your output device and click**Properties** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. In the**Advanced** tab, check the**Exclusive Mode** checkboxes and click**Apply** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/2022-02-21_17-04-18.jpg)
 7. Back to the game and check the audio.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update Windows Media Feature pack
@@ -81,13 +81,13 @@ Lost Ark is a free-to-play online game that was developed by Smilegate RPG and p
 3. Select the**Media Feature Pack** in the list of available optional features.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Relaunch the game and check the audio.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your audio driver
@@ -119,6 +119,11 @@ Then, reboot your PC and relaunch the game to check.
 3. Check**Run This Program As An Administrator** and**Disable full-screen optimisations** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/run-as-administrator-lost-ark-1.jpg)
 4. Click the**Apply** \>**OK** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Relaunch the game and check you have sound or not.
 
 ### Fix 5: Verify game files
@@ -130,10 +135,6 @@ Then, reboot your PC and relaunch the game to check.
 2. Under **Local files** , click **Verify integrity of game files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/verify-game-files.jpg)
 3. It may take a while for Steam to complete the scan. When the process is finished, restart the game and see the problem persists or not.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Hope this post would help. Since gamers have various PC specs and environments, we can’t expect these fixes would work for everyone. If no fixes help, try the troubleshooting over at [Microsoft Support](https://www.amazongames.com/en-us/forward-link?id=windows-10-sound-problems) .
 
@@ -152,22 +153,20 @@ Then, reboot your PC and relaunch the game to check.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-harnessing-luts-for-precision-controlled-image-editing/"><u>[New] Harnessing LUTs for Precision-Controlled Image Editing</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-worlds-top-12-screensaver-apps-no-end-in-view/"><u>[New] In 2024, World's Top 12 Screensaver Apps (No End in View)</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-unlock-crystal-clear-facebook-video-on-android/"><u>[Updated] Unlock Crystal-Clear Facebook Video on Android</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-updated-guide-leading-camcorders-for-ocean-exploration/"><u>2024 Approved Updated Guide Leading Camcorders for Ocean Exploration</u></a></li>
-<li><a href="https://win-answers.techidaily.com/beat-launch-blues-ultimate-fixes-for-when-your-hogwarts-legacy-game-wont-start/"><u>Beat Launch Blues: Ultimate Fixes for When Your Hogwarts Legacy Game Won't Start</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-solutions-for-preventing-rainbow-six-extraction-from-freezing-on-your-desktop/"><u>Effective Solutions for Preventing Rainbow Six Extraction From Freezing on Your Desktop</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-resolve-persistent-pc-crashes-while-playing-diablo-immortal/"><u>How to Resolve Persistent PC Crashes While Playing Diablo Immortal</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-the-instagram-video-edge-planning-for-maximum-marketing-success/"><u>In 2024, The Instagram Video Edge Planning for Maximum Marketing Success</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-itel-p55-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Itel P55? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-steamvr-swift-and-easy-repairs-for-ultimate-performance/"><u>Mastering SteamVR: Swift and Easy Repairs for Ultimate Performance</u></a></li>
-<li><a href="https://win-answers.techidaily.com/minecraft-pc-stutter-no-more-advanced-troubleshooting-techniques-for-a-flawless-gaming-experience/"><u>Minecraft PC Stutter No More - Advanced Troubleshooting Techniques for a Flawless Gaming Experience</u></a></li>
-<li><a href="https://win-answers.techidaily.com/optimizing-performance-overcoming-low-fps-and-stuttering-in-splitgate/"><u>Optimizing Performance: Overcoming Low FPS & Stuttering in Splitgate</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-mechanics-behind-chatbots-and-their-ability-to-engage-in-human-like-conversations/"><u>The Mechanics Behind Chatbots and Their Ability to Engage in Human-Like Conversations</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/trasforma-i-tuoi-video-quicktime-in-formato-mp3-senza-costi-il-modo-semplice-di-moveave/"><u>Trasforma I Tuoi Video QuickTime in Formato MP3 Senza Costi: Il Modo Semplice Di Moveave!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-non-functional-mic-on-your-arctis-5-headset-solution-included/"><u>Troubleshooting Non-Functional Mic on Your Arctis ^5 Headset (Solution Included)</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steams-remote-play-top-solutions-when-it-wont-start/"><u>Troubleshooting Steam's Remote Play: Top Solutions When It Won't Start</u></a></li>
-<li><a href="https://win-answers.techidaily.com/yakuza-3-remaster-update-resolves-previous-pc-system-errors/"><u>Yakuza 3 Remaster Update Resolves Previous PC System Errors</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-prime-selection-of-7-top-rated-android-adblocking-apps/"><u>[New] In 2024, Prime Selection of 7 Top-Rated Android AdBlocking Apps</u></a></li>
+<li><a href="https://games-able.techidaily.com/advanced-refresh-tech-in-gaming-displays-at-240hz/"><u>Advanced Refresh Tech in Gaming Displays at 240Hz</u></a></li>
+<li><a href="https://win-answers.techidaily.com/double-impact-uncovering-the-secrets-behind-it-takes-twos-official-launch/"><u>Double Impact: Uncovering the Secrets Behind 'It Takes Two's' Official Launch</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/download-made-easy-master-the-art-of-using-ifunny-memes/"><u>Download Made Easy Master the Art of Using iFunny Memes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723011045906-effortless-tricks-for-fixing-apex-legends-launch-errors-quickly/"><u>Effortless Tricks for Fixing Apex Legends Launch Errors Quickly!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-frequent-shutdown-problem-in-sony-vegas-pro-a-step-by-step-guide/"><u>Fixing the Frequent Shutdown Problem in Sony Vegas Pro: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/gears-of-war-5-issues-heres-how-to-stabilize-your-gameplay/"><u>Gears of War 5 Issues? Here's How to Stabilize Your Gameplay</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-engaging-eyesight-navigating-high-definition-tweets/"><u>In 2024, Engaging Eyesight Navigating High-Definition Tweets</u></a></li>
+<li><a href="https://win-answers.techidaily.com/lost-in-silence-restoring-sounds-to-your-lost-ark-adventure/"><u>Lost in Silence: Restoring Sounds to Your Lost Ark Adventure</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-issues-with-starting-your-hosted-network-feature-on-windows-10-devices/"><u>Overcoming Issues with Starting Your Hosted Network Feature on Windows 10 Devices</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-troubleshooting-steps-for-when-red-dead-redemption-2-doesnt-boot-up/"><u>Resolved: Troubleshooting Steps for When Red Dead Redemption 2 Doesn't Boot Up</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-slow-chrome-dilemmas-quick-wins-for-browsers/"><u>Solving Slow Chrome Dilemmas – Quick Wins for Browsers!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-mp4-videoencoder-effiziente-verfahren-zum-komprimieren-von-mp4-dateien/"><u>Top MP4-Videoencoder: Effiziente Verfahren Zum Komprimieren Von MP4-Dateien</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/troubleshooting-fixing-inability-of-adobe-premiere-pro-to-locate-suitable-video-playback-components/"><u>Troubleshooting: Fixing Inability of Adobe Premiere Pro to Locate Suitable Video Playback Components</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/hdmtsmov-19/"><u>すべての動画フォーマットを自在に変換: HDやMTS、MOVなど対応! コツ・方法詳細 - ページ番号19</u></a></li>
 </ul></div>
 

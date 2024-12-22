@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Tips - Successfully Running a Thaumaturge Application in PC
-date: 2024-12-09T19:07:59.562Z
-updated: 2024-12-12T16:19:33.776Z
+date: 2024-12-14T19:05:39.538Z
+updated: 2024-12-20T16:20:12.640Z
 tags:
   - win11
   - win10
@@ -38,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/48bbf816680af2439ef36580a7c2fe3c4155339da
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Fix 1: Delete the cache files of Origin**
 
  This issue may be caused by the cache files of Origin. Try deleting the cache files to see if you can fix this issue. Here’s how to do it:
@@ -54,25 +58,17 @@ thumbnail: https://thmb.techidaily.com/48bbf816680af2439ef36580a7c2fe3c4155339da
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap4-4.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Delete all the files and folders in this folder **except for the LocalContent folder** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap5.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) On your keyboard, press**the Windows logo key** and **R** at the same time to open the Run dialog. Then type **%AppData%**  and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap6-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  6) In the pop-up window, delete the**Origin**  folder.
 
@@ -89,6 +85,10 @@ thumbnail: https://thmb.techidaily.com/48bbf816680af2439ef36580a7c2fe3c4155339da
  9) Delete the**Origin**  folder in the **Local** folder.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/007.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  10) Restart your PC and Double-click the shortcut of Origin on your desktop.
 
@@ -129,7 +129,7 @@ Or
 ![Driver Easy Scan Screen](https://images.drivereasy.com/wp-content/uploads/2019/12/Driver-Easy-Scan-screen.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Update** next to your graphics card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
@@ -138,10 +138,6 @@ Or
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact Driver Easy’s support team at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Fix 3: Run the Program Compatibility Troubleshooter**
 
@@ -155,6 +151,10 @@ Or
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap11-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Try recommended settings** to test-run program using recommended compatibility settings. Follow the on-screen instructions to see whether this troubleshooting option works or not.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/pasted-image-1-1-1.png)
@@ -162,6 +162,10 @@ Or
  4) If it still doesn’t work, then run the Program Compatibility Troubleshooter again and**select the second option** **to choose compatibility settings based on problems you notice** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/pasted-image-2-1-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) If the problem persists, adjust the following settings manually and select**OK** when you’re done.
 
@@ -199,6 +203,10 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap17-2-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Select the**Startup** tab and click **Open Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap261-1.png)
@@ -207,13 +215,13 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-12.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Go back to the**System Configuration** window and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap262-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6) Click**Restart** to restart your PC.
 
@@ -234,7 +242,7 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap1-1-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click **Check for updates** to update your Windows system.
@@ -246,10 +254,6 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
  If this fix works, Origin will open when you double-click its shortcut on the desktop. If not, try the next fix to reinstall Origin.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Fix 7: Reinstall Origin**
 
@@ -263,21 +267,17 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap7-1-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  ii. View Control Panel by **Category** , and then click **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap8-3-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  iii. Double-click**Origin** to uninstall it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap268.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 iv. Restart your Windows system when it is completed.
 
@@ -305,19 +305,24 @@ iv. Restart your Windows system when it is completed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-blade-chroma-revolutionized-by-quad-hd-technology/"><u>[New] In 2024, Blade Chroma Revolutionized by Quad-HD Technology</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-easy-ways-to-transfer-photos-and-videos-from-an-iphone-to-a-pc/"><u>[Updated] Easy Ways to Transfer Photos and Videos From an iPhone to a PC</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-easy-mp3-snippet-from-fb-chats/"><u>2024 Approved Easy MP3 Snippet From FB Chats</u></a></li>
-<li><a href="https://win-answers.techidaily.com/conquer-video-lag-on-youtube-with-these-proven-fixes/"><u>Conquer Video Lag on YouTube with These Proven Fixes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effortless-fixes-for-chrome-crashes-on-windows-10-systems/"><u>Effortless Fixes for Chrome Crashes on Windows 10 Systems</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-can-you-unlock-apple-iphone-12-mini-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>In 2024, Can You Unlock Apple iPhone 12 mini After Forgetting the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-insider-advice-efficiently-amassing-stock-visuals-for-use/"><u>In 2024, Insider Advice Efficiently Amassing Stock Visuals for Use</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-windows-inaccessible-application-removal/"><u>Tackling Windows' Inaccessible Application Removal</u></a></li>
-<li><a href="https://fox-search.techidaily.com/the-ultimate-selection-of-addition-utility-apps-for-smartphones-ios-and-android-edition-2022/"><u>The Ultimate Selection of Addition Utility Apps for Smartphones - iOS and Android Edition, 2022</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-fortnites-endless-startup-screen-problem-solved/"><u>Troubleshooting Fortnite's Endless Startup Screen Problem (Solved!)</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-for-recurring-warzone-20-computer-failures-on-pc/"><u>Troubleshooting Guide for Recurring Warzone 2.0 Computer Failures on PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-resolving-persistent-freezing-in-blender-for-pc-users/"><u>Troubleshooting Guide: Resolving Persistent Freezing in Blender for PC Users</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-resolving-when-your-qbittorent-gets-stuck/"><u>Troubleshooting Steps: Resolving When Your qBittorent Gets Stuck</u></a></li>
-<li><a href="https://driver-download.techidaily.com/ultimate-guide-installing-updated-creative-audigy-card-drivers-in-windows-ebox/"><u>Ultimate Guide: Installing Updated Creative Audigy Card Drivers in Windows Ebox</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-skyrocket-your-channel-the-ultimate-guide-to-youtube-backlinks/"><u>[New] 2024 Approved Skyrocket Your Channel The Ultimate Guide to YouTube Backlinks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-best-editing-tools-for-app-screenplays/"><u>[New] Best Editing Tools for App Screenplays</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723003610291-solved-garrys-mod-keeps-crashing-2024-tips/"><u>[Solved] Garry’s Mod Keeps Crashing | 2024 Tips</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-8-premium-complimentary-streaming-media-processors/"><u>[Updated] In 2024, 8 Premium Complimentary Streaming Media Processors</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-speed-up-pc-games-the-ultimate-speed-controller-selection/"><u>[Updated] Speed Up PC Games The Ultimate Speed Controller Selection</u></a></li>
+<li><a href="https://win-dash.techidaily.com/comprehensive-guide-to-accessing-and-downloading-asus-laptop-driver-packages/"><u>Comprehensive Guide to Accessing and Downloading ASUS Laptop Driver Packages</u></a></li>
+<li><a href="https://win-answers.techidaily.com/comprehensive-solutions-overcome-roblox-launch-failures-updated-for-2amo/"><u>Comprehensive Solutions: Overcome Roblox Launch Failures (Updated for 2Amo)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-issue-resolved-nier-automata-game-freezing-problem/"><u>Fixing the [ISSUE RESOLVED] 'NieR: Automata' Game Freezing Problem</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/ghostly-snapsnapping-stealthy-techniques-for-photo-taking-on-snapchat-for-2024/"><u>Ghostly SnapSnapping Stealthy Techniques for Photo-Taking on Snapchat for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-reno-11f-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo Reno 11F 5G to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-z-flip-5-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Samsung Galaxy Z Flip 5 PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-infusing-action-into-photos-using-illustrators-features/"><u>In 2024, Infusing Action Into Photos Using Illustrator's Features</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-unlocking-secure-video-sharing-youtube-to-gmail-with-google-access/"><u>In 2024, Unlocking Secure Video Sharing YouTube to Gmail with Google Access</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-fixes-for-when-discords-screen-share-wont-work/"><u>Quick Fixes for When Discord's Screen Share Won't Work</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolve-your-gameplay-dilemma-with-these-11-quick-fixes-for-borderlands-3-issues/"><u>Resolve Your Gameplay Dilemma with These 11 Quick Fixes for Borderlands 3 Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-connection-errors-a-players-guide-to-restoring-lost-connectivity-in-escape-from-tarkov/"><u>Resolving Connection Errors: A Player’s Guide to Restoring Lost Connectivity in Escape From Tarkov</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-the-application-error-in-modern-warfare-3-mobile-game-on-cod-platforms/"><u>Resolving the 'Application Error' In Modern Warfare 3 Mobile Game on COD Platforms</u></a></li>
+<li><a href="https://win-answers.techidaily.com/trouble-with-launching-maplestory-these-fixes-will-help/"><u>Trouble with Launching MapleStory? These Fixes Will Help</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-tricks-to-overcome-fortnites-video-memory-issues-now-solved/"><u>Ultimate Tricks to Overcome Fortnite's Video Memory Issues - Now Solved!</u></a></li>
 </ul></div>
 

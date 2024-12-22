@@ -1,7 +1,7 @@
 ---
 title: Easy Solution to Tackle the 'Origin Crash' Bug Swiftly and Effectively!
-date: 2024-12-06T18:44:28.953Z
-updated: 2024-12-12T17:15:39.641Z
+date: 2024-12-16T19:09:16.257Z
+updated: 2024-12-20T19:29:17.865Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ For game players, Steam is the window to the world of gaming. But there are situ
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
 1. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
@@ -37,10 +33,6 @@ For game players, Steam is the window to the world of gaming. But there are situ
 5. **[Add –no-cef-sandbox in your Steam shortcut](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reinstall Steam](https://tools.techidaily.com/drivereasy/download/)**
 7. **[If your problem persists…](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 1: Update your graphics driver
 
@@ -55,7 +47,7 @@ OR
 **[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/how-to-fix-steam-black-screen-or-not-working/#option2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 1 – Manually update your drivers
@@ -63,10 +55,6 @@ OR
 [NVIDIA](https://tools.techidaily.com/drivereasy/download/) and [AMD](https://www.amd.com/en/support) keep releasing driver updates. To get them, you need to go to the official websites, find the correct drivers, and download them manually.
 
  Once you’ve downloaded the drivers, double-click on the downloaded file and follow the on-screen instructions to install the drivers.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Option 2 – Automatically update your drivers**
 
@@ -80,11 +68,19 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/update-drivers-scan-now.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -112,11 +108,19 @@ Here’s how you can do this:
 
  1) On your keyboard, press the **Windows logo key** ![windows logo key](https://images.drivereasy.com/wp-content/uploads/2020/10/Windows.png) and **E**  at the same time to open File Explorer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Navigate to**Windows (C:) > Program Files (×86) > Steam** to go to the Steam directory.
 
  3) Copy and paste the**appcache folder** to a safe location just in case something goes wrong.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/appcache-folder.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Now you can**delete the appcache folder** in your Steam directory. Then try starting Steam again. If it works well, you can then go and delete the original backup appcache folder as a healthy new one will be created in its place.
 
@@ -130,13 +134,13 @@ To participate in the Steam Client beta, follow the instructions below:
 
 ![delete web browser cache Steam](https://images.drivereasy.com/wp-content/uploads/2020/10/settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Select the**Account** tab. Under the**Beta Participation** section, click the**CHANGE…** button.  
   
 ![participate in Steam Client beta](https://images.drivereasy.com/wp-content/uploads/2020/10/participate-in-Steam-Client-beta-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Select the “Steam Beta Update” from the drop-down list and click “OK”.  
  You will be prompted to restart Steam, please select the “Restart Steam” button.
@@ -151,13 +155,13 @@ To participate in the Steam Client beta, follow the instructions below:
   
 ![Steam Propertites](https://images.drivereasy.com/wp-content/uploads/2020/10/Steam-Properties.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click the**Shortcut** tab. In the**Target** section, type**\-no-cef-sandbox** at the end. Then click**Apply > OK** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/no-cef-sandbox.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Now try opening Steam client to check if it works.
 
@@ -170,10 +174,6 @@ Now try opening Steam client to check if it works.
   
 ![End task Steam](https://images.drivereasy.com/wp-content/uploads/2020/10/end-task.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) On your keyboard, press the **Windows logo key** ![windows logo key](https://images.drivereasy.com/wp-content/uploads/2020/10/Windows.png) and **E**  at the same time to open File Explorer.
 
  3) Navigate to**Windows (C:) > Program Files (×86) > Steam** to go to the Steam directory.
@@ -181,10 +181,6 @@ Now try opening Steam client to check if it works.
  4) Delete everything except**steamapps** ,**userdata,** and**steam.exe** **(steam Application)** .
 
  5) Double-click**Steam.exe** and let it reinstall.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## If your problem persists…
 
@@ -197,6 +193,10 @@ Now try opening Steam client to check if it works.
  3) Click **Start Repair** to start the repair process and wait for Fortect to fix the problem.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -220,24 +220,19 @@ Now try opening Steam client to check if it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-inside-look-tunefabs-best-screen-recorder/"><u>[New] 2024 Approved Inside Look Tunefab's Best Screen Recorder</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/new-channel-control-center-creator-studio-essentials/"><u>[New] Channel Control Center Creator Studio Essentials</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-enabling-creativity-with-free-online-and-offline-animation-methods/"><u>[Updated] 2024 Approved Enabling Creativity with Free Online & Offline Animation Methods</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-becoming-the-ultimate-streamer-on-youtube-and-twitch-using-obs/"><u>[Updated] In 2024, Becoming the Ultimate Streamer on YouTube and Twitch Using OBS</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/best-budget-friendly-high-quality-ae-templates/"><u>Best Budget-Friendly, High-Quality AE Templates</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/cultivating-commitment-gentle-subscription-strategies/"><u>Cultivating Commitment Gentle Subscription Strategies</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-advice-on-fixing-gaming-hiccups-in-gears-5-for-a-smooth-experience/"><u>Expert Advice on Fixing Gaming Hiccups in Gears 5 for a Smooth Experience</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-advice-on-repairing-cod-warzones-dev-error-6634-tips-and-techniques-for-a-smooth-gaming-experience/"><u>Expert Advice on Repairing COD: Warzone's Dev Error 6634 – Tips & Techniques for a Smooth Gaming Experience</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/gratuit-mp2-mp4-converter-enligthenment-online-movavi/"><u>Gratuit MP2-MP4 Converter Enligthenment Online - Movavi</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-resolve-elden-rings-multiplayer-feature-malfunction-issues/"><u>How to Resolve Elden Ring's Multiplayer Feature Malfunction Issues</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-skyrocket-views-on-youtube-in-minutes-2-strategies/"><u>In 2024, Skyrocket Views on YouTube in Minutes (2 Strategies)</u></a></li>
-<li><a href="https://win-answers.techidaily.com/master-mass-effect-obtain-all-elite-gear-and-game-changing-weapons/"><u>Master Mass Effect: Obtain All Elite Gear and Game-Changing Weapons</u></a></li>
-<li><a href="https://win-answers.techidaily.com/master-the-prehistoric-game-without-crashes-jurassic-world-evolution-troubleshooting-steps/"><u>Master the Prehistoric Game Without Crashes: Jurassic World Evolution Troubleshooting Steps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-windows-storage-estimation-using-powershell/"><u>Navigating Windows Storage Estimation Using PowerShell</u></a></li>
-<li><a href="https://win-answers.techidaily.com/no-more-crashes-masterful-solutions-to-fix-issues-in-mordhau/"><u>No More Crashes - Masterful Solutions to Fix Issues in Mordhau</u></a></li>
-<li><a href="https://win-answers.techidaily.com/simplify-the-fraction-by-dividing-both-the-numerator-and-denominator-by-their-greatest-common-divisor-gcd-which-is-24/"><u>Simplify the Fraction by Dividing Both the Numerator and Denominator by Their Greatest Common Divisor (GCD), Which Is 24:</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solution-found-expert-tips-for-preventing-and-repairing-frontier-crashes-on-windows-computers/"><u>Solution Found! Expert Tips for Preventing and Repairing 'Frontier' Crashes on Windows Computers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/tackling-stuttering-drops-and-enhancing-pc-performance-in-games/"><u>Tackling Stuttering, Drops & Enhancing PC Performance in Games</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-free-video-trimmer-apps-effortless-removal-of-unwanted-clips/"><u>Top Free Video Trimmer Apps - Effortless Removal of Unwanted Clips</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-expert-techniques-for-stellar-titling-for-2024/"><u>[New] Expert Techniques for Stellar Titling for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-minipic-snapshot-scrutiny-plus-diverse-apps/"><u>[New] MiniPic Snapshot Scrutiny + Diverse Apps</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-advanced-image-manipulation-with-pixlr-tips/"><u>[Updated] Advanced Image Manipulation with Pixlr Tips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-vr-game-engine-picks-2023/"><u>2024 Approved The Ultimate Guide to VR Game Engine Picks, 2023</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/boost-your-portuguese-skills-with-these-six-essential-techniques/"><u>Boost Your Portuguese Skills with These Six Essential Techniques</u></a></li>
+<li><a href="https://extra-information.techidaily.com/celestial-canvas-unveiled-select-10-sites-for-high-quality-skies-for-2024/"><u>Celestial Canvas Unveiled Select 10 Sites for High-Quality Skies for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-tips-for-building-and-maintaining-your-meditation-habit/"><u>ChatGPT Tips for Building and Maintaining Your Meditation Habit</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723005557337-code-vein-stuck-heres-how-to-get-unstuck-and-back-on-track/"><u>Code Vein Stuck? Here's How to Get Unstuck and Back on Track!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/diagnosing-and-repairing-minecraft-launchers-0x80amoor-windows-1110-users-heres-how/"><u>Diagnosing and Repairing Minecraft Launcher's 0X80amoor: Windows 11/10 Users, Here's How</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-for-resolving-continuous-blender-breakdowns-on-personal-computers/"><u>Expert Tips for Resolving Continuous Blender Breakdowns on Personal Computers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-issue-how-to-stop-red-dead-redemption-2-from-freezing-on-your-pc/"><u>Fixing the Issue: How to Stop Red Dead Redemption 2 From Freezing on Your PC</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/mastering-marker-techniques-for-efficient-video-cutting/"><u>Mastering Marker Techniques for Efficient Video Cutting</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-troubleshooting-tips-to-optimize-persona-5-strikers-performance-on-desktop-systems/"><u>Mastering Troubleshooting Tips to Optimize Persona 5 Strikers Performance on Desktop Systems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-guide-restore-your-computer-when-bootmgr-cant-be-found/"><u>Troubleshooting Guide: Restore Your Computer When BOOTMGR Can’t Be Found ⚙️</u></a></li>
 </ul></div>
 

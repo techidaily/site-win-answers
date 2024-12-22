@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: OBS Not Capturing Your Screen Anymore"
-date: 2024-12-08T19:22:27.125Z
-updated: 2024-12-12T17:30:05.372Z
+date: 2024-12-13T16:39:21.884Z
+updated: 2024-12-20T17:41:38.472Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ If you’re presented with the**Graphics Driver Crashed** error on Valorant and 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Before you try any of the following fixes, please check the display settings and make sure you’re using the right GPU. If you’re using the dedicated GPU, you can start trying the following fixes:
@@ -41,10 +45,6 @@ If you’re presented with the**Graphics Driver Crashed** error on Valorant and 
  You will get this error message**Graphics driver crashed** if the driver is outdated, corrupted, or incompatible, so you should try updating the graphics driver, especially when you haven’t done so for a while.
 
  There are two ways you can get the right drivers for your sound card:[manually](https://tools.techidaily.com/drivereasy/download/) or[automatically](https://tools.techidaily.com/drivereasy/download/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 1 – Manually
 
@@ -68,6 +68,10 @@ If you’re presented with the**Graphics Driver Crashed** error on Valorant and 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/Update-all-drivers.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If updating to the latest driver didn’t do the trick, you can also perform a Windows Update since the latest graphics driver is designed for the latest Windows version.
 
 ## Fix 2: Roll back the graphics driver
@@ -83,10 +87,6 @@ If you’re presented with the**Graphics Driver Crashed** error on Valorant and 
 * **[Intel](https://downloadcenter.intel.com/product/80939/Graphics)**  
   * Select the product model and the operating system. Then scroll down the list and download an older driver.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 3: Update DirectX
 
  This error might happen if you’re using an outdated version of DirectX, which causes problems when your Valorant is interacting with your graphics card. Here’s how to check if you’re using the latest DirectX:
@@ -98,18 +98,26 @@ If you’re presented with the**Graphics Driver Crashed** error on Valorant and 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/dxdiag.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Check DirectX Version on lower right corner in the first page in first page (the**System** tab).
 
  To upgrade your DirectX version, you’ll need to upgrade to the highest level of Windows version. So make sure you’ve performed a full Windows Update.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 4: Reset your graphics card software
 
  NVIDIA comes with the NVIDIA Control Panel and AMD comes with the Catalyst Control Center. Both of these programs allow users to set up graphics profiles that can override application settings and sometimes interfere with VALORANT as a result.
 
 To fix this, you can try resetting the software to default:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### NVIDIA Control Panel
 
@@ -131,17 +139,9 @@ To fix this, you can try resetting the software to default:
 
 2) On the loading screen, press**Alt** +**Enter** to set the game to windowed mode.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 6: Stop overclocking
 
  Your device is not that sensitive to overclocking, but the game is, especially when you’re using third-party tools such as MSI Afterburner. This may not fix this error permanently, but it allows you to play the game with fewer crashes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 7: Close all background apps
 
@@ -150,6 +150,10 @@ To fix this, you can try resetting the software to default:
  Since Valorant consumes a lot of memory and CPU usage when you’re playing a game, some antivirus will mistake it as a potential threat. You can add the Valorant executable file to its exception list, or uninstall it temporarily.
 
  Since the third-party antivirus application hooks very deep into your system, so disabling it may not always work.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 8: Turn VSync off
 
@@ -181,10 +185,6 @@ To fix this, you can try resetting the software to default:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/uninstall-app-now.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Right-click Riot Vanguard and select**Uninstall** .
 
  4) Visit[Valorant’s official website](https://playvalorant.com/en-us/) and download the game installer.
@@ -212,24 +212,17 @@ To fix this, you can try resetting the software to default:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-easy-ways-to-screen-record-on-dell-laptop/"><u>[New] In 2024, Easy Ways to Screen Record on Dell Laptop</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-from-scenes-to-screenings-filming-across-os-ecosystems/"><u>[New] In 2024, From Scenes to Screenings Filming Across OS Ecosystems</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-the-lexicon-of-persuasion-in-business-communication-for-2024/"><u>[New] The Lexicon of Persuasion in Business Communication for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solved-oculus-has-detected-a-problem-with-your-graphics-drivers/"><u>[Solved] Oculus Has Detected a Problem with Your Graphics Drivers</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-empower-collaborative-meetings-the-best-10-free-recorders-in-review/"><u>[Updated] 2024 Approved Empower Collaborative Meetings The Best 10 Free Recorders in Review</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-digital-duo-dynamics-joining-instagram-and-tiktok-powerfully-for-2024/"><u>[Updated] Digital Duo Dynamics Joining Instagram and TikTok Powerfully for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/addressing-call-of-duty-modern-warfare-code-6-glitch-during-pc-gameplay/"><u>Addressing Call of Duty Modern Warfare Code 6 Glitch During PC Gameplay</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/disabling-apple-iphone-se-parental-restrictions-withwithout-password-by-drfone-ios/"><u>Disabling Apple iPhone SE Parental Restrictions With/Without Password</u></a></li>
-<li><a href="https://win-answers.techidaily.com/enhanced-smooth-gaming-experience-in-fixed-cyberpunk-2077-release/"><u>Enhanced Smooth Gaming Experience in Fixed Cyberpunk 2077 Release</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-the-lock-screen-on-my-infinix-hot-40-by-drfone-android-unlock-android-unlock/"><u>How to Unlock the Lock Screen on my Infinix Hot 40</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-c02-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Nokia C02 Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-sea-of-thieves-loading-screen-troubleshooting-techniques/"><u>Mastering Sea of Thieves Loading Screen Troubleshooting Techniques</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcome-your-game-blockade-battlefield-5-launch-fixes-for-gamers/"><u>Overcome Your Game Blockade: Battlefield 5 Launch Fixes for Gamers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-fixes-how-to-troubleshoot-and-resolve-discord-overlay-issues/"><u>Quick Fixes: How to Troubleshoot and Resolve Discord Overlay Issues</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-solution-resolving-unable-to-launch-game-errors-by-checking-game-files/"><u>Step-by-Step Solution: Resolving 'Unable to Launch Game' Errors by Checking Game Files</u></a></li>
-<li><a href="https://win-answers.techidaily.com/stop-dota-2-from-freezing-expert-tips-and-fixes/"><u>Stop Dota 2 From Freezing: Expert Tips and Fixes!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-performance-issues-steady-frames-in-call-of-duty-modern-warfare-2-on-pc/"><u>Troubleshooting Performance Issues: Steady Frames in Call of Duty Modern Warfare ^2 on PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-fixing-preparing-to-configure-windows-issue/"><u>Troubleshooting Tips for Fixing 'Preparing to Configure Windows' Issue</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/unlock-potential-in-your-screen-recording-with-obs/"><u>Unlock Potential in Your Screen Recording with OBS</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-elevating-shorts-visibility-a-thumbnail-transformation-journey/"><u>[New] 2024 Approved Elevating Shorts Visibility A Thumbnail Transformation Journey</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-tier-psd-drop-shadows/"><u>[New] Top-Tier PSD Drop Shadows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-steam-keeps-freezing-not-responding-2024/"><u>[SOLVED] Steam Keeps Freezing/ Not Responding 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-dissecting-inshots-dominance-in-editing-apps/"><u>[Updated] Dissecting InShot's Dominance in Editing Apps</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-windows-podcast-software-selections/"><u>2024 Approved Ideal Windows Podcast Software Selections</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bypassing-hurdles-in-forza-horizon-5-discover-these-7-effective-fixes-for-persistent-loading-problems/"><u>Bypassing Hurdles in Forza Horizon 5? Discover These 7 Effective Fixes for Persistent Loading Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723004275276-defeat-the-game-crashing-issue-in-call-of-duty-warzone-error-6328-with-our-expert-advice/"><u>Defeat the Game-Crashing Issue in Call of Duty: Warzone (Error 6328) with Our Expert Advice</u></a></li>
+<li><a href="https://techtrends.techidaily.com/dont-miss-out-discover-the-finest-prime-day-bargains-for-apple-products-exclusive-list-and-deals-zdnet/"><u>Don't Miss Out! Discover the Finest Prime Day Bargains for Apple Products - Exclusive List & Deals | ZDNET</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/guia-paso-a-paso-como-hacer-una-copia-de-seguridad-y-restaurar-la-particion-o-volumen-del-disco/"><u>Guía Paso a Paso: Cómo Hacer Una Copia De Seguridad Y Restaurar La Partición O Volumen Del Disco</u></a></li>
+<li><a href="https://win-popular.techidaily.com/how-to-accelerate-your-pc-performance-expert-tips-and-tricks-yl-computing/"><u>How to Accelerate Your PC Performance: Expert Tips and Tricks - YL Computing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-errors-effective-solutions-to-prevent-pacific-drive-from-crashing-on-your-desktop/"><u>Overcoming Errors: Effective Solutions to Prevent Pacific Drive From Crashing on Your Desktop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win10win11-install-issue-fixing-the-open-package-fail/"><u>Win10/Win11 Install Issue: Fixing the 'Open Package' Fail</u></a></li>
 </ul></div>
 

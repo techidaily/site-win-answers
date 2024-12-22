@@ -1,7 +1,7 @@
 ---
 title: Steam-to-Epic Transition Woes? Troubleshooting Metro Exodus PC Crashes Successfully
-date: 2024-12-11T17:27:59.367Z
-updated: 2024-12-12T18:12:32.849Z
+date: 2024-12-14T20:16:48.027Z
+updated: 2024-12-20T20:10:57.758Z
 tags:
   - win11
   - win10
@@ -45,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
 
  Launch the game and see if this issue persists after you stopped overclocking. if the game still crashes, try the next fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 2: Update your graphics drivers
 
  A corrupted or outdated driver can also be the main culprit behind the game’s crashing issues. If you haven’t updated your graphics driver for a long time, you should update the graphics driver to see if it solves the crashing issue. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -56,11 +60,11 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
-![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
 
 **Note** : You can do it for free if you like, but it’s partly manual.
 4. Restart your computer for the changes to take effect.
@@ -72,7 +76,7 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
 If the issue persists, try the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 3: Verify the integrity of game files
@@ -85,13 +89,17 @@ If the issue persists, try the next fix below.
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Click **LOCAL FILES** \> **Verify integrity of game files…** . Wait a few minutes for Steam to validate the files of the game.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
- Restart Metro Exodus PC Enhanced Edition to check if this fix stops the crashes. If not, try the next fix, below.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Restart Metro Exodus PC Enhanced Edition to check if this fix stops the crashes. If not, try the next fix, below.
 
 ## Fix 4: Install the latest game patch
 
@@ -102,7 +110,7 @@ If the issue persists, try the next fix below.
  Run Metro Exodus PC Enhanced Edition again to see if the game crashes. If it didn’t work, or there was no new game patch available, move on to the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 5: Disable in-game overlays
@@ -138,7 +146,7 @@ To perform a clean boot, just follow the steps below:
 2. Navigate to the **Services** tab, check **Hide all Microsoft services,** and then click **Disable all** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
@@ -153,15 +161,7 @@ To perform a clean boot, just follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Restart** your PC and run Metro Exodus PC Enhanced Edition to check if the game crashes. If not, you need to open the **System Configuration** window again and enable services and applications **one by one** until you find the problematic software. After enabling each startup service, you need to restart Windows OS to apply the changes.
 
@@ -189,24 +189,15 @@ To perform a clean boot, just follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-experts-picks-top-5-free-screen-recorders-for-pc-users/"><u>[New] 2024 Approved Expert's Picks Top 5 Free Screen Recorders For PC Users</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-affordable-wonders-in-virtual-reality-headsets-from-china/"><u>[New] Affordable Wonders in Virtual Reality Headsets From China</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-cost-effective-cloudscape-ideal-mass-archive/"><u>[New] Cost-Effective Cloudscape Ideal Mass Archive</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-prime-top-10-tools-convert-srt-files-for-no-charge/"><u>[New] Prime Top 10 Tools Convert Srt Files for No Charge</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-top-7-best-4k-action-cameras/"><u>[Updated] Top 7 Best 4K Action Cameras</u></a></li>
-<li><a href="https://win-answers.techidaily.com/achieve-seamless-gameplay-tricks-to-eliminate-stuttering-and-maximize-frames-per-second-fps-in-cod-warzone/"><u>Achieve Seamless Gameplay: Tricks to Eliminate Stuttering and Maximize Frames Per Second (FPS) in COD Warzone</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/connect-and-print-effortlessly-a-comprehensive-guide-by-yl-software-for-seamless-printer-integration/"><u>Connect and Print Effortlessly: A Comprehensive Guide by YL Software for Seamless Printer Integration</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/efficiently-establish-your-zoom-space/"><u>Efficiently Establish Your Zoom Space</u></a></li>
-<li><a href="https://win-answers.techidaily.com/end-ring-of-elysium-errors-effective-methods-to-ensure-smooth-gameplay/"><u>End Ring of Elysium Errors: Effective Methods to Ensure Smooth Gameplay</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722996303606-expert-fix-msi-afterburner-doesnt-detect-graphics-card-on-windows-now-it-will/"><u>Expert Fix: MSI Afterburner Doesn't Detect Graphics Card on Windows - Now It Will!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-graphics-cards-and-network-adapter-drivers-for-your-msi-b350-tomahawk-on-windows/"><u>Get the Latest Graphics Cards & Network Adapter Drivers for Your MSI B350 Tomahawk on Windows</u></a></li>
-<li><a href="https://win-answers.techidaily.com/hassle-free-methods-to-resolve-outriders-persistent-crashing-issues/"><u>Hassle-Free Methods to Resolve Outriders' Persistent Crashing Issues</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-iphone-11-pro-from-backup-when-itunes-backup-is-corrupt-or-not-compatible-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore iPhone 11 Pro from Backup when iTunes Backup is Corrupt or not compatible | Stellar</u></a></li>
-<li><a href="https://win-answers.techidaily.com/optimizing-performance-tips-to-reduce-phasmophobias-cpu-usage/"><u>Optimizing Performance: Tips to Reduce Phasmophobia's CPU Usage</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723002963261-the-definitive-bioshock-2-experience-freshly-patched-and-ready-for-action/"><u>The Definitive BioShock 2 Experience - Freshly Patched and Ready for Action</u></a></li>
-<li><a href="https://win-answers.techidaily.com/trouble-with-palworld-here-are-swift-fixes/"><u>Trouble with Palworld? Here Are Swift Fixes!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-resolving-frequent-freezes-in-overwatch-gameplay/"><u>Troubleshooting: Resolving Frequent Freezes in Overwatch Gameplay</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722993015588-why-does-my-pc-keeps-causing-blender-to-fail-find-out-and-fix-the-issue-now/"><u>Why Does My PC Keeps Causing Blender to Fail? Find Out and Fix the Issue Now!</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/youtubes-economic-model-month-to-month-income-for-2024/"><u>YouTube's Economic Model Month-to-Month Income for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/oredoms-ender-the-ultimate-list-of-jovial-youtube-content-for-2024/"><u>[New] Boredom's Ender The Ultimate List of Jovial YouTube Content for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/creative-prompt-battle-which-ai-chatbot-takes-the-crown-for-innovation/"><u>Creative Prompt Battle: Which AI Chatbot Takes the Crown for Innovation?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dive-into-these-4-ai-driven-story-crafting-marvels/"><u>Dive Into These 4 AI-Driven Story Crafting Marvels</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-xiaomi-redmi-note-12-pro-4g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Xiaomi Redmi Note 12 Pro 4G to iPad | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-sony-xperia-5-v-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Sony Xperia 5 V Phones? | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-the-quick-clip-quandary-youtube-shorts-advantage-over-tiktok/"><u>In 2024, The Quick-Clip Quandary YouTube Shorts' Advantage Over TikTok?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/minecraft-wont-start-bypassing-the-eternal-loading-screen-issue-effortlessly/"><u>Minecraft Won’t Start? Bypassing the Eternal 'Loading...' Screen Issue Effortlessly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/no-more-interruptions-how-to-stop-rogue-company-from-crashing-your-pc-gameplay/"><u>No More Interruptions: How to Stop Rogue Company From Crashing Your PC Gameplay</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-technical-difficulties-restoring-your-alienware-command-center-to-full-operation/"><u>Overcoming Technical Difficulties: Restoring Your Alienware Command Center to Full Operation</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722998421263-play-days-gone-on-pc-enjoy-the-action-packed-adventure/"><u>Play Days Gone on PC: Enjoy the Action-Packed Adventure</u></a></li>
 </ul></div>
 

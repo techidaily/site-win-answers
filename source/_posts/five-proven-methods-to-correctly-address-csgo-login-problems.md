@@ -1,7 +1,7 @@
 ---
 title: Five Proven Methods to Correctly Address CSGO Login Problems
-date: 2024-12-11T18:17:46.870Z
-updated: 2024-12-12T18:02:54.241Z
+date: 2024-12-14T21:33:25.485Z
+updated: 2024-12-20T17:49:58.068Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here are 5 simple solutions for you to troubleshoot the OBS not recording screen issue. You may not try them all. Just work your way down the list until you find the one that does the trick.
@@ -32,17 +36,21 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 4. [**Change the graphics settings**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Update your device drivers](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1 – Turn off the preview window
 
  According to many users, a simple workaround to OBS not recording screen is to disable the preview window. What you need to do is to launch OBS and untick the**Studio Mode** at the bottom right corner of the main screen. Then the preview window should be closed and you could check if the problem goes away. If the problem occurs while you’re recording a game, try to**minimize OBS** to the system tray.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/disable-preview-obs.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Turning off OBS preview should also mitigate the FPS drops while recording. But if this doesn’t help your case, have a look at the second method below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2 – Run OBS as an administrator
 
@@ -54,10 +62,6 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/run-obs-as-administrator.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now OBS should be working with full access and recording your screen properly. If not so, there are a few more fixes to try.
 
 ### Fix 3 – Close unnecessary background programs
@@ -67,6 +71,10 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 1. Right-click any empty area of the taskbar and click**Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ta-1.jpg)
 2. Right-click a program you’d like to close and click **End task** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Don’t end any programs you’re unfamiliar with, as they may be critical for the functioning of your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ta-3.jpg)
@@ -82,16 +90,12 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 2. Select**System** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Select the**Display** tab on the left pane and click**Graphics** **settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-1.jpg)
 4. Choose**Desktop app** from the drop-down list and click**Browse** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-2.jpg)
 5. Locate your**OBS executable file** , which is usually located at_C:\\Program Files\\obs-studio\\bin\\64bit\\obs64.exe_ , and add this file.
@@ -100,17 +104,13 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-3.jpg)
 7. If you intend to use_Display Captur_ e, select**Power saving** and click**Save** . If you’re using_Window capture_ or_Game capture_ , select**High performance** and**Save** .  
 
-![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-4.jpg)
-
 <!-- affiliate ads begin -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
- See if OBS works without trouble. If you’re still unable to use screen capture, there might be something wrong with your device drivers. Check out Fix 5 to solve it.
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
+ See if OBS works without trouble. If you’re still unable to use screen capture, there might be something wrong with your device drivers. Check out Fix 5 to solve it.
 
 ### Fix 5 – Update your device drivers
 
@@ -153,16 +153,22 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-secrets-of-soaring-wealth-joshis-youtube-path/"><u>[Updated] 2024 Approved Secrets of Soaring Wealth Joshi's Youtube Path</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-ultimate-guide-to-converting-youtubes-into-vivid-gifs-no-save/"><u>[Updated] The Ultimate Guide to Converting YouTubes Into Vivid GIFs (No Save)</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-superior-5-cameras-for-extended-time-lapses/"><u>2024 Approved Superior 5 Cameras for Extended Time-Lapses</u></a></li>
-<li><a href="https://techtrends.techidaily.com/automatic-fixes-how-windows-10-resolves-pc-issues-on-its-own/"><u>Automatic Fixes: How Windows 10 Resolves PC Issues on Its Own</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-to-vivo-y27-4g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Vivo Y27 4G Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/intelligent-interplay-discovering-3-effective-uses-of-chatgpt-and-wolframalpha/"><u>Intelligent Interplay: Discovering 3 Effective Uses of ChatGPT & WolframAlpha</u></a></li>
-<li><a href="https://driver-download.techidaily.com/msis-updated-bluetooth-driver-version-now-supporting-windows-11-and-10-download-here/"><u>MSI's Updated Bluetooth Driver Version Now Supporting Windows 11 and 10 – Download Here</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-solutions-for-persistent-steam-game-launcher-issues/"><u>Quick Solutions for Persistent Steam Game Launcher Issues</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-stability-problems-with-horizon-zero-dawn-on-desktop-systems/"><u>Resolving Stability Problems with Horizon Zero Dawn on Desktop Systems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/smooth-gaming-experience-achieved-for-deathloop-players-on-personal-computers/"><u>Smooth Gaming Experience Achieved for Deathloop Players on Personal Computers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/stop-world-of-warcraft-from-crashing-easy-steps-and-tips-for-gamers/"><u>Stop 'World of Warcraft' From Crashing: Easy Steps & Tips for Gamers</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-next-gen-clarity-in-depth-review-of-best-8k-monitors/"><u>[New] 2024 Approved Next-Gen Clarity In-Depth Review of Best 8K Monitors</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-go-live-with-google-meet-youtube-broadcasting-steps/"><u>[New] In 2024, Go Live with Google Meet YouTube Broadcasting Steps</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-how-to-download-vlc-player-for-free-and-safe-on-macstep-by-step/"><u>2024 Approved How to Download VLC Player for Free and Safe on Mac?[Step-by-Step]</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-revolutionary-video-editor-top-tier-clarity/"><u>2024 Approved Revolutionary Video Editor Top-Tier Clarity</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-guide-to-seamless-inshot-video-segments-for-2024/"><u>A Guide to Seamless Inshot Video Segments for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/deciding-between-installed-browser-chatgpt-and-additional-features-via-plugins-for-optimal-performance/"><u>Deciding Between Installed Browser ChatGPT and Additional Features via Plugins for Optimal Performance</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723862833676-get-your-hands-on-a-high-quality-156-ips-monitor-at-an-all-time-low-only-6599-save-big-today/"><u>Get Your Hands on a High-Quality 15.6 IPS Monitor at an All-Time Low: Only $65.99, Save Big Today</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-division-in-microsoft-excel-a-comprehensive-tutorial/"><u>Master Division in Microsoft Excel: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-data-with-microsoft-excel-explore-these-essential-analytical-features/"><u>Mastering Data with Microsoft Excel: Explore These Essential Analytical Features</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-excel-a-step-by-step-guide-to-using-the-countif-function/"><u>Mastering Excel: A Step-by-Step Guide to Using the COUNTIF Function</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-microsoft-excels-location-mapping-a-guide-to-utilizing-its-geospatial-functionality/"><u>Mastering Microsoft Excel's Location Mapping: A Guide to Utilizing Its Geospatial Functionality</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-precision-tips-and-techniques-for-rounding-decimals-in-microsoft-excel/"><u>Mastering Precision: Tips & Techniques for Rounding Decimals in Microsoft Excel</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-sort-functions-efficiently-arranging-content-a-z-in-excel-tutorial/"><u>Mastering Sort Functions: Efficiently Arranging Content A-Z in Excel Tutorial</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-text-manipulation-microsoft-excels-new-feature-supports-regular-expressions/"><u>Mastering Text Manipulation: Microsoft Excel's New Feature Supports Regular Expressions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-the-art-of-clean-data-a-step-by-step-guide-to-applying-the-trim-function-in-ms-excel/"><u>Mastering the Art of Clean Data: A Step-by-Step Guide to Applying the TRIM Function in MS Excel</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-ease-capped-chatgpt-use/"><u>Strategies to Ease Capped ChatGPT Use</u></a></li>
 </ul></div>
 

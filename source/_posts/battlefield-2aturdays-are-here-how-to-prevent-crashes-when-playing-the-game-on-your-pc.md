@@ -1,7 +1,7 @@
 ---
 title: Battlefield 2Aturdays Are Here! How to Prevent Crashes when Playing the Game on Your PC
-date: 2024-12-11T19:13:08.724Z
-updated: 2024-12-12T19:12:34.928Z
+date: 2024-12-16T16:03:42.758Z
+updated: 2024-12-20T17:57:11.463Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/0f9975c7424be8ab80f0e3edfa04cf204d756fbbd
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix the crashing issue
 
  Below are the fixes for you to try. But before getting started, you need to make sure that your PC meets minimum system requirements.
@@ -37,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/0f9975c7424be8ab80f0e3edfa04cf204d756fbbd
 3. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
 4. **[If your game still crashes…](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Switch to DX11
 
  Some players reported on Reddit that they managed to stop game crashes by forcing the game to start in DX11 mode instead of DX12\. To do this, follow the instructions below.
@@ -52,10 +52,6 @@ thumbnail: https://thmb.techidaily.com/0f9975c7424be8ab80f0e3edfa04cf204d756fbbd
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/force-dx11.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now relaunch your game. If forcing the game to start in DX11 mode doesn’t do the trick, proceed to the next fix.
 
 ### 2\. Verify integrity of game files
@@ -66,10 +62,6 @@ thumbnail: https://thmb.techidaily.com/0f9975c7424be8ab80f0e3edfa04cf204d756fbbd
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/properties.png)
 2. Select the**LOCAL FILES** tab. Then click on the button**Verify integrity of game files…** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/verify-integrity-of-game-files.png)
 
@@ -90,7 +82,7 @@ thumbnail: https://thmb.techidaily.com/0f9975c7424be8ab80f0e3edfa04cf204d756fbbd
 3. Click**Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them. )  
@@ -100,10 +92,6 @@ thumbnail: https://thmb.techidaily.com/0f9975c7424be8ab80f0e3edfa04cf204d756fbbd
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating drivers, restart your PC. Then launch your game and you should be able to enjoy your gameplay without much interruptions.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## If your game still crashes
 
@@ -118,7 +106,11 @@ Here’s how you can run a scan of your PC with Reimage:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to fix the stuttering issue
@@ -143,6 +135,10 @@ Here’s how you can run a scan of your PC with Reimage:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/press-ESC-and-select-SETTINGS.png)
 3. Select**GRAPHICS** . Under**BASIC** , make sure the option ENABLE VSYNC is unchecked.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/uncheck-enable-vsync.png)
 4. Then apply the changes.
 
@@ -157,9 +153,17 @@ Here’s how you can run a scan of your PC with Reimage:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/properties.png)
 2. In the GENERAL tab, uncheck the box**Enable the Steam Overlay while in-game** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/disable-overlay.png)
 
  If the above doesn’t solve your issue, make sure you’re not running the Rivatuner overlay. Players who are running it are more likely to notice in-game stutters.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Enable game mode
 
@@ -171,11 +175,11 @@ Here’s how you can run a scan of your PC with Reimage:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/gaming.png)
 3. Select **Game Mode**  from the left panel. Then toggle **On**  Game Mode.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2021/08/turn-on-game-mode.png)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/08/turn-on-game-mode.png)
 
  After applying the changes, test your gameplay. If you still notice severe in-game stutters, try the next fix below.
 
@@ -191,20 +195,12 @@ Here’s how you can run a scan of your PC with Reimage:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/graphics-settings-1.jpg)
 3. Under the **Default settings** section, click **Change default graphics settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/change-default-graphics-settings.jpg)
 4. Turn on **Hardware-accelerated GPU scheduling** .  
 
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/turn-on-hardware-accelerated-GPU-scheduling.png)
 
 If that doesn’t work for you, proceed to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 5\. Delete temp files
 
@@ -220,14 +216,18 @@ If that doesn’t work for you, proceed to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/delete-all-the-files.png)
 5. If the following prompt appears, simply check **Do this for all current items**  and click **Skip** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![delete temporary files](https://images.drivereasy.com/wp-content/uploads/2021/08/skip-for-all-current-items.png)
 6. After the files are deleted, go to your desktop and right-click on the **Recycling Bin**  and select **Empty Recycle Bin** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/empty-recycle-bin.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now launch Bloodhunt and you should be able to avoid noticeable stutters.
 
@@ -250,24 +250,20 @@ Now launch Bloodhunt and you should be able to avoid noticeable stutters.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-adopting-innovative-approaches-to-elevate-your-fb-campaigns/"><u>[New] Adopting Innovative Approaches to Elevate Your FB Campaigns</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-your-compreran-guide-to-creating-viral-ad-videos-for-free/"><u>[Updated] In 2024, Your Compreran Guide to Creating Viral Ad Videos for Free</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-video-testimonials-the-trusted-connection/"><u>[Updated] Video Testimonials The Trusted Connection</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-cutting-the-cord-on-costs-select-best-free-yt-title-makers/"><u>2024 Approved Cutting the Cord on Costs - Select Best-Free YT Title Makers</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-the-future-of-video-on-facebook-focusing-on-shorter-formats/"><u>2024 Approved The Future of Video on Facebook Focusing on Shorter Formats</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-top-tier-mkv-players-macos-edition/"><u>2024 Approved Top-Tier MKV Players MacOS Edition</u></a></li>
-<li><a href="https://win-answers.techidaily.com/diagnosing-and-fixing-pc-crashes-during-stardew-valley-gameplay/"><u>Diagnosing and Fixing PC Crashes During Stardew Valley Gameplay</u></a></li>
-<li><a href="https://some-tips.techidaily.com/gratis-ogg-to-ogv-verzamelen-professioneel-online-konvertor-movavi/"><u>Gratis OGG-to-OGV Verzamelen: Professioneel Online Konvertor - Movavi</u></a></li>
-<li><a href="https://win-answers.techidaily.com/guide-to-overcoming-the-famed-star-wars-battlefront-2-error-code-narrator-327-tips-and-tricks/"><u>Guide to Overcoming the Famed Star Wars Battlefront 2 Error Code Narrator 327: Tips & Tricks</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-game-sounds-resolving-world-of-warcrafts-muting-troubles/"><u>How to Restore Game Sounds - Resolving World of Warcraft's Muting Troubles</u></a></li>
-<li><a href="https://win-answers.techidaily.com/improving-frames-per-second-fps-solutions-to-fps-dips-in-resident-evil-village-on-personal-computers/"><u>Improving Frames per Second (FPS): Solutions to FPS Dips in Resident Evil Village on Personal Computers</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-printer-problem-fixes-for-windows-11-and-11-enterprise/"><u>Mastering Printer Problem Fixes for Windows 11 & 11 Enterprise</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-tiktok-video-editing-hacks-how-to-reverse-clips-with-ease/"><u>New 2024 Approved TikTok Video Editing Hacks How to Reverse Clips with Ease</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-fixes-for-pc-instability-in-escape-from-tarkov-game/"><u>Resolved: Fixes for PC Instability in 'Escape From Tarkov' Game</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-not-responding-errors-in-your-pacific-drive-installation/"><u>Solving 'Not Responding' Errors in Your Pacific Drive Installation</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-techniques-to-reduce-starfields-excessive-processor-use/"><u>Top Techniques to Reduce Starfield's Excessive Processor Use</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-fortnite-dealing-with-video-memory-shortages-solved/"><u>Troubleshooting Fortnite: Dealing with Video Memory Shortages (SOLVED)</u></a></li>
-<li><a href="https://win-answers.techidaily.com/understanding-wsappx-causes-of-excessive-memory-and-processor-utilization-and-solutions/"><u>Understanding WSAPPX: Causes of Excessive Memory & Processor Utilization and Solutions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/xcom-2-windows-stability-guide-how-to-resolve-and-prevent-game-crashes-efficiently/"><u>XCOM 2 Windows Stability Guide: How to Resolve and Prevent Game Crashes Efficiently</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-boost-engagement-and-growth-unlocking-youtube-analytics-via-social-blade-for-2024/"><u>[Updated] Boost Engagement and Growth - Unlocking YouTube Analytics via Social Blade for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/10-best-drawing-apps-for-chromebook-for-2024/"><u>10 Best Drawing Apps for Chromebook for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-techniques-for-steadying-your-motion-sensitive-gopro/"><u>2024 Approved Techniques for Steadying Your Motion-Sensitive GoPro</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/banish-that-black-screen-a-comprehensive-guide-to-solving-persona-5-strikers-display-malfunctions/"><u>Banish That Black Screen: A Comprehensive Guide to Solving Persona 5 Strikers Display Malfunctions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/exploring-windows-new-sudo-feature-understanding-and-implementation-guide/"><u>Exploring Windows' New Sudo Feature: Understanding & Implementation Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/get-acronis-true-image-at-a-steal-save-20-with-exclusive-promo-code/"><u>Get Acronis True Image at a Steal: Save 20% with Exclusive Promo Code!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guide-connecting-your-smartphone-seamlessly-to-pc-microphone-via-windows/"><u>Guide: Connecting Your Smartphone Seamlessly to PC Microphone via Windows</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Vivo G2 | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/in-depth-review-of-keychrons-c3-pro-mechanical-keyboard-top-features-and-exceptional-affordability-for-gamers-and-typists-alike/"><u>In-Depth Review of Keychron's C3 Pro Mechanical Keyboard - Top Features and Exceptional Affordability for Gamers & Typists Alike</u></a></li>
+<li><a href="https://win-answers.techidaily.com/in-depth-review-of-lenovos-yoga-slim-abies-with-x-elite-chip-the-ultimate-rival-to-apples-macbook-air/"><u>In-Depth Review of Lenovo's Yoga Slim Abies with X Elite Chip: The Ultimate Rival to Apple's MacBook Air?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/key-bios-configuration-adjustments-what-changes-make-a-difference/"><u>Key BIOS Configuration Adjustments: What Changes Make a Difference?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/lenovo-yoga-slim-n7-experience-analysis-assessing-the-readiness-of-windows-and-snapdragon-combo/"><u>Lenovo Yoga Slim N7 Experience Analysis: Assessing the Readiness of Windows & Snapdragon Combo</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-secure-browsing-with-proton-vpns-free-browser-plug-in-expert-tips-shared-by-zdnet/"><u>Navigating Secure Browsing with Proton VPN's Free Browser Plug-In | Expert Tips Shared by ZDNET</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-get-your-game-on-top-10-websites-to-download-games/"><u>New In 2024, Get Your Game On Top 10 Websites to Download Games</u></a></li>
 </ul></div>
 

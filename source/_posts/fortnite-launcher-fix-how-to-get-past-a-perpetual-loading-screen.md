@@ -1,7 +1,7 @@
 ---
 title: "Fortnite Launcher Fix: How to Get Past a Perpetual Loading Screen"
-date: 2024-12-07T18:33:43.074Z
-updated: 2024-12-12T18:05:53.680Z
+date: 2024-12-18T21:12:08.023Z
+updated: 2024-12-20T18:35:23.223Z
 tags:
   - win11
   - win10
@@ -57,10 +57,6 @@ Make sure that Anthem is closed and not running in the background.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-926.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5) After ending all the tasks with Anthem and Origin, close Task Manager.
 
 #### Step 2: Move Anthem to anther drive
@@ -73,9 +69,17 @@ Make sure that Anthem is closed and not running in the background.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-859.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Right click**Anthem** , and click**Move game** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-927.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) File Explorer pops up and shows you the current drive that Anthem is saved in. Then choose another drive.  
  For instance, Anthem is saved in C drive, then you can move it to any other drive except for C drive.
@@ -87,7 +91,7 @@ Make sure that Anthem is closed and not running in the background.
 All good now? That’s great!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Solution 2: Repair Anthem in Origin
@@ -107,10 +111,6 @@ Here’s how to do it:
  4) Right click on**Anthem** , and click**Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-860.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Origin starts scanning and repairing. Follow the on-screen instructions to finish the process.
 
@@ -144,11 +144,19 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-857.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Once updated, restart your computer to take effect.
 
 Now launch Anthem on your computer, and your game should be loading.
 
  That’s a no go for you? Don’t worry. There are other fixes to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 4: Turn off Origin In-Game Overlay
 
@@ -161,7 +169,7 @@ Now launch Anthem on your computer, and your game should be loading.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-208.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the**Origin In-Game** tab.
@@ -189,7 +197,7 @@ Here’s what you need to do:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-861.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the**Compatibility** tab, and check the box for**Run this program as an administrator** . Then click**Apply** and**OK** .
@@ -197,16 +205,12 @@ Here’s what you need to do:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-863.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Re-launch your game and see if how it works.
 
  Anthem runs without any problem? That’s great! Or your problem still persist? Don’t give up hope.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Solution 6: Change your graphics settings
 
@@ -223,10 +227,6 @@ Here’s what you need to do:
  If the option is**Ultra** or**High** , change it to**Medium** or**Low** . If the option is**Medium** or**Low** , change it to**Ultra** or**High** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-929.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Save your changes.
 
@@ -252,20 +252,18 @@ Re-launch Anthem and see how it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-top-notch-tricks-to-nail-every-green-screen-shot/"><u>[Updated] 2024 Approved Top-Notch Tricks to Nail Every Green Screen Shot</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-the-elite-set-selecting-the-best-gaming-streamers-webcams/"><u>2024 Approved The Elite Set Selecting the Best Gaming Streamers Webcams</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/2024-approved-the-ultimate-list-of-flashy-discord-tags/"><u>2024 Approved The Ultimate List of Flashy Discord Tags</u></a></li>
-<li><a href="https://win-answers.techidaily.com/essential-tips-to-fix-continuous-malfunctioning-of-darkest-dungeon-2-for-windows-users/"><u>Essential Tips to Fix Continuous Malfunctioning of Darkest Dungeon 2 for Windows Users</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/explore-captivating-wallpapers-with-yl-software-high-quality-pictures-and-dynamic-graphics-collection/"><u>Explore Captivating Wallpapers with YL Software - High-Quality Pictures and Dynamic Graphics Collection</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-spark-10c-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Spark 10C</u></a></li>
-<li><a href="https://win-answers.techidaily.com/improve-chromes-velocity-effortlessly-tips-for-a-smoother-experience/"><u>Improve Chrome's Velocity Effortlessly - Tips for a Smoother Experience</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-unlocking-inshots-potential-with-your-own-songs/"><u>In 2024, Unlocking InShot's Potential with Your Own Songs</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/resolving-audio-device-problems-expert-guide-on-fixing-your-sound-card-yl-computing/"><u>Resolving Audio Device Problems: Expert Guide on Fixing Your Sound Card - YL Computing</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-frequent-valorant-pc-freezes-and-crashes-effectively/"><u>Resolving Frequent Valorant PC Freezes and Crashes Effectively</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723005885868-snowrunner-freezes-persistently-heres-what-you-need-to-know-to-fix-it/"><u>SnowRunner Freezes Persistently? Here's What You Need to Know to Fix It</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solved-overcoming-the-issue-of-far-cry-6-wont-boot-on-your-computer/"><u>Solved: Overcoming the Issue of Far Cry 6 Won't Boot on Your Computer</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/step-by-step-guide-restoring-accidentally-deleted-svg-graphics/"><u>Step-by-Step Guide: Restoring Accidentally Deleted SVG Graphics</u></a></li>
-<li><a href="https://os-tips.techidaily.com/understanding-iphone-screen-time-functions-and-steps-to-deactivate/"><u>Understanding iPhone Screen Time: Functions & Steps to Deactivate</u></a></li>
-<li><a href="https://win-answers.techidaily.com/warzone-optimization-unlocking-your-gpus-potential-on-windows-10/"><u>Warzone Optimization: Unlocking Your GPU's Potential on Windows 10</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-capture-cinematic-moments-seamlessly-across-pcs-and-smartphones/"><u>[Updated] Capture Cinematic Moments Seamlessly Across PCs & Smartphones</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-asgard-reborn-the-ragnarok-chronicles/"><u>2024 Approved Asgard Reborn The Ragnarök Chronicles</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-realme-c67-4g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Realme C67 4G to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/boosting-visual-fidelity-in-forza-horizon-5-update-guide-for-your-graphic-drivers/"><u>Boosting Visual Fidelity in Forza Horizon 5 - Update Guide for Your Graphic Drivers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/crash-free-gameplay-solutions-for-valorants-pc-malfunctions/"><u>Crash-Free Gameplay: Solutions for Valorant's PC Malfunctions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-on-preventing-discord-disconnects-for-smooth-broadcasting/"><u>Expert Advice on Preventing Discord Disconnects for Smooth Broadcasting</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-analysis-of-the-latest-video-show-app-24-release/"><u>In 2024, Expert Analysis of the Latest Video Show App '24 Release</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/online-czech-learning-made-simple-and-effective/"><u>Online Czech Learning Made Simple & Effective</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-users-struggle-with-launching-necromunda-hired-gun-game-troubleshooting-tips-inside/"><u>PC Users Struggle with Launching Necromunda: Hired Gun Game - Troubleshooting Tips Inside</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/scan-the-market-identifying-the-top-9-free-mp3-grabbers-for-android/"><u>Scan the Market Identifying the Top 9 Free MP3 Grabbers for Android</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723002510003-unable-to-access-doom-eternal-since-its-delayed-launch-find-remedies-and-get-gaming-now/"><u>Unable to Access DOOM Eternal Since Its Delayed Launch? Find Remedies and Get Gaming Now!</u></a></li>
+<li><a href="https://windows11.techidaily.com/uncomplicated-upgrade-the-essence-of-windows-11-installation/"><u>Uncomplicated Upgrade: The Essence of Windows 11 Installation</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/vishakha-singh-author-at-stellar-data-recovery-article-en/"><u>Vishakha Singh, Author at Stellar Data Recovery Article - En</u></a></li>
 </ul></div>
 

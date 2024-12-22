@@ -1,7 +1,7 @@
 ---
 title: "Diablo Immortal on PC: How to Stop Those Annoying Crashes - Expert Fix Strategies for Gamers of 2024"
-date: 2024-12-05T17:22:42.126Z
-updated: 2024-12-12T17:43:02.047Z
+date: 2024-12-14T18:10:40.852Z
+updated: 2024-12-20T18:45:22.880Z
 tags:
   - win11
   - win10
@@ -35,6 +35,10 @@ Delays and lags in-game are no doubt ruining the fun of the game. If that’s a 
 5. **[Adjust the proxy settings](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/)
 6. **[Clear Steam cache and cookies](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: End unwanted background programs
 
  Lags might occur if you’re running multiple applications on your computer, hogging network resources. If that’s the case for you, follow the instructions below to check for and turn off them:
@@ -47,6 +51,10 @@ Delays and lags in-game are no doubt ruining the fun of the game. If that’s a 
 **1)**  Right-click your taskbar and select **Start Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-763.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)** Click the **Processes** tab. Then, check your current **CPU and memory usage** to see what processes are consuming your resources most.  
 
@@ -70,6 +78,10 @@ Delays and lags in-game are no doubt ruining the fun of the game. If that’s a 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-805.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Right-click the resource-consuming process and select **End task** .
 
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
@@ -79,6 +91,10 @@ Delays and lags in-game are no doubt ruining the fun of the game. If that’s a 
 **4)** Relaunch Dota 2 to see if this has resolved your problem.
 
 If not, don’t worry. There are still 5 more fixes to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Rule out driver issues
 
@@ -98,21 +114,17 @@ If not, don’t worry. There are still 5 more fixes to try.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2020-11-10_17-45-18.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)** Right-click the driver and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2020-11-10_17-46-28.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Click**Roll Back Driver** , then click**Yes** to confirm the action if a Window pops up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2020-11-10_17-47-09.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6) Relaunch your game to test the issue.
 
@@ -140,10 +152,6 @@ If not, don’t worry. There are still 5 more fixes to try.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Configure in-game video settings
 
  Improper video setting can also cause Dota 2 to lag. If that’s the problem for you, you’ll need to optimize the video settings in Steam. Here is how to do it:
@@ -158,17 +166,9 @@ If not, don’t worry. There are still 5 more fixes to try.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-328.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)**  Modify the video settings following the screenshot below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-329.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **5)**  Click **APPLY** .
 
@@ -184,9 +184,17 @@ If not, don’t worry. There are still 5 more fixes to try.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-737.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Under **View by,** click **Large icons** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-720.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Select **Power Options.**
 
@@ -196,13 +204,13 @@ If not, don’t worry. There are still 5 more fixes to try.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-738.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **5)** Restart your computer, and then relaunch Dota 2 to test your problem.
 
  Dota 2 should be able to run smoothly after the reboot. If it still can’t work properly, try the fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Adjust the proxy settings
 
@@ -214,13 +222,13 @@ If not, don’t worry. There are still 5 more fixes to try.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-806.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)**  Click **Internet Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-807.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)**  Click the **Connections tab** , and then click **LAN settings** .
 
@@ -242,16 +250,12 @@ If not, don’t worry. There are still 5 more fixes to try.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-789.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)**  Click **Steam** , and then select **Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-788.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)**  Click**Web Browser** and click **DELETE WEB BROWSER CACHE** .
@@ -277,10 +281,6 @@ If not, don’t worry. There are still 5 more fixes to try.
 **8)**  Click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-780.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **9)** Restart your game to see if this resolved your problem.
 
@@ -308,24 +308,18 @@ If not, don’t worry. There are still 5 more fixes to try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-crafting-stories-excellence-among-8-film-categories/"><u>[New] In 2024, Crafting Stories Excellence Among 8 Film Categories</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-sync-systems-swiftly-fastest-file-methods/"><u>[New] Sync Systems Swiftly Fastest File Methods</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-total-inspection-samsungs-360-panorama-taker-for-2024/"><u>[New] Total Inspection Samsung’s 360° Panorama Taker for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-uncover-the-past-advanced-methods-for-instagram-image-retrieval-for-2024/"><u>[New] Uncover the Past Advanced Methods for Instagram Image Retrieval for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/comprehensive-troubleshooting-tips-for-msi-afterburners-gpu-detection-problem-on-windows-1110-platforms/"><u>Comprehensive Troubleshooting Tips for MSI Afterburner's GPU Detection Problem on Windows 11/10 Platforms</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/critical-factors-to-consider-top-three-privacy-dangers-linked-to-chatbot-technology/"><u>Critical Factors to Consider: Top Three Privacy Dangers Linked to Chatbot Technology</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-set-up-cameradriver-software-on-windows-11-10-8-or-7/"><u>Download & Set Up CameraDriver Software on Windows 11, 10, 8 or 7</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/engaging-viewers-with-personalized-vimeo-end-screens/"><u>Engaging Viewers with Personalized Vimeo End Screens</u></a></li>
-<li><a href="https://media-tips.techidaily.com/enhancing-streaming-and-video-on-demand-with-unique-value-added-functions/"><u>Enhancing Streaming & Video-On-Demand with Unique Value-Added Functions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-modern-substitutes-beyond-the-traditional-turing-assessment/"><u>Exploring Modern Substitutes: Beyond the Traditional Turing Assessment</u></a></li>
-<li><a href="https://win11.techidaily.com/fast-fighters-fixes-conquer-mouse-lags-in-star-wars-battlefront-2/"><u>Fast Fighter's Fixes: Conquer Mouse Lags in Star Wars Battlefront 2</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-critical-bug-causing-crashes-in-back-4-blood-ue4-the-ultimate-solution/"><u>Fixing the Critical Bug Causing Crashes in Back 4 Blood UE4: The Ultimate Solution</u></a></li>
-<li><a href="https://win-answers.techidaily.com/hogwarts-legacy-2024-performance-fixes-top-six-tips-for-flawless-gaming/"><u>Hogwarts Legacy 2024 Performance Fixes: Top Six Tips for Flawless Gaming!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-solve-qbittorrent-hang-ups-and-resume-downloading-effortlessly/"><u>How To Solve qBittorrent Hang-Ups and Resume Downloading Effortlessly</u></a></li>
-<li><a href="https://win-answers.techidaily.com/latest-fixes-for-optimizing-minecraft-performance-say-goodbye-to-lag/"><u>Latest Fixes for Optimizing Minecraft Performance: Say Goodbye to Lag</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solution-guide-eliminating-latency-problems-in-lol-gameplay/"><u>Solution Guide: Eliminating Latency Problems in LoL Gameplay</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-unresponsive-corsair-icue-on-latest-windows-versions/"><u>Troubleshooting Steps for Unresponsive Corsair iCUE on Latest Windows Versions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-to-overcoming-minecraft-pc-crashes-and-freezes-expert-advice-for-gamers-updated/"><u>Ultimate Guide to Overcoming Minecraft PC Crashes and Freezes - Expert Advice for Gamers (Updated )</u></a></li>
-<li><a href="https://win-answers.techidaily.com/unstuck-from-a-frozen-screen-restoring-your-nvidia-geforce-overlay-functionality/"><u>Unstuck From a Frozen Screen: Restoring Your Nvidia GeForce Overlay Functionality</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-capture-and-relive-essential-win10-game-techniques/"><u>[New] 2024 Approved Capture and Relive Essential Win10 Game Techniques</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-discover-best-deals-high-quality-budget-friendly-asmr-tech-secrets-for-2024/"><u>[New] Discover Best Deals - High-Quality, Budget-Friendly ASMR Tech Secrets for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-unraveling-the-new-dimensions-of-vegaspro-19/"><u>[New] In 2024, Unraveling the New Dimensions of VegasPro '19</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-unlocking-the-full-potential-of-pc-sound-capture/"><u>[Updated] 2024 Approved Unlocking the Full Potential of PC Sound Capture</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-seamlessly-sharing-your-style-macootd-tiktoks/"><u>[Updated] In 2024, Seamlessly Sharing Your Style MacOOTD TikToks</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/comprehensive-troubleshooting-getting-your-starfield-experience-stable-on-pc/"><u>Comprehensive Troubleshooting: Getting Your Starfield Experience Stable on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/eliminate-game-disruptions-solve-ready-or-not-stability-issues-on-pc/"><u>Eliminate Game Disruptions: Solve 'Ready or Not' Stability Issues on PC</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-motorola-moto-g-stylus-2023-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Motorola Moto G Stylus (2023) Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-preserve-your-display-win-os-snapshots-explained/"><u>In 2024, Preserve Your Display Win OS Snapshots Explained</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-the-windows-11-error-code-0xc19001e1-step-by-step-fixes/"><u>Resolving the Windows 11 'Error Code 0xC19001E1': Step-by-Step Fixes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/spotlight-on-deception-unveiling-the-truth-behind-misleading-advertisements/"><u>Spotlight on Deception: Unveiling the Truth Behind Misleading Advertisements</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723003863488-troubleshoot-and-fix-call-of-duty-wwiis-black-screen-trouble-in-windows-with-this-easy-solution/"><u>Troubleshoot and Fix Call of Duty: WWII's Black Screen Trouble in Windows with This Easy Solution</u></a></li>
 </ul></div>
 

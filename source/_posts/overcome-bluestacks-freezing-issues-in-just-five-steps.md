@@ -1,7 +1,7 @@
 ---
 title: Overcome BlueStacks Freezing Issues in Just Five Steps
-date: 2024-08-19T02:12:44.583Z
-updated: 2024-08-20T02:12:44.583Z
+date: 2024-12-17T20:25:46.693Z
+updated: 2024-12-20T18:16:21.917Z
 tags:
   - win11
   - win10
@@ -34,8 +34,18 @@ thumbnail: https://thmb.techidaily.com/1e40e68e85695875cbdf7c309b6e95c0f93def476
 1. Click the gear button on the lower right corner to open the**Settings** menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/settings.jpg)
 2. The **Settings**  page will appear with the **Engine** tab highlighted, as shown below.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/settings-engine.jpg)
 3. Please match the following settings to see if this works for you.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
    * **CPU** : 4 Cores  
    * **RAM** : 4 GB (this will require a restart, so you can leave it to the last step)  
    * **Graphics Engine** : Performance  
@@ -47,9 +57,6 @@ thumbnail: https://thmb.techidaily.com/1e40e68e85695875cbdf7c309b6e95c0f93def476
 
  Your Bluestacks will be restarted, and your game won’t be crashing again now. But if it does, please try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Update your graphics driver
 
  As BlueStacks Support suggests, you should always keep your driver updated. This is especially important if you haven’t done so for a long time. Graphics driver matters a lot to your gaming performance, so we recommend you keep your drivers up-to-date (at least your graphics driver).
@@ -74,9 +81,6 @@ There are mainly two ways for you to update the graphics driver:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/scan.png)
 3. Click **Update** next to your graphics card to download the latest driver, and then install it manually (you can do this in the Free version).  
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Or click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you get 30-day money back guarantee and full technical support.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
@@ -86,9 +90,6 @@ There are mainly two ways for you to update the graphics driver:
 
  Once the graphics driver is updated, you can restart your PC and launch your BlueStacks to check if the crashing issue has been resolved successfully.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ### Fix 3: Close other unnecessary programs
 
  Running a lot of programs can make your BlueStacks slow, lag, or even crash a lot, especially when you have allocated more RAM and CPU cores to BlueStacks. Therefore, you can close unwanted programs from Task Manager:
@@ -97,11 +98,16 @@ There are mainly two ways for you to update the graphics driver:
 2. Select the program you want to close and click**End Task** . Also, force close BlueStacks 5 and relaunch the program. Check to see if it’s working now.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/end-task.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now other programs stop consuming a high amount of RAM, you can launch BlueStacks again to check if the crashing problem is fixed.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Turn off antivirus
 
  It’s possible that your antivirus program will interfere with the BlueStacks. To check if this is causing your BlueStacks crashing issue, you can disable it or uninstall it temporarily because sometimes disabling it won’t work.
@@ -110,9 +116,6 @@ There are mainly two ways for you to update the graphics driver:
 2. Type**appwiz.cpl** and hit**Enter** .  
 ![uninstall app](https://images.drivereasy.com/wp-content/uploads/2021/01/appwiz.cpl_.jpg)
 3. Right-click your antivirus and choose**Uninstall** , and follow the on-screen instructions.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 4. Reboot your computer and launch BlueStacks to check if the issue persists.
 
 ### Fix 5: Enable Virtualization for BlueStacks
@@ -125,8 +128,9 @@ There are mainly two ways for you to update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/on.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If this feature is disabled, you should follow[this guide](https://support.bluestacks.com/hc/en-us/articles/115003174386) to turn it on in the BIOS settings. However, if everything seems alright but you still get the crashing issues, you can reinstall BlueStacks (be sure to remove all its files and then reinstall it again).
 
 * [Android](https://tools.techidaily.com/drivereasy/download/)
@@ -139,8 +143,6 @@ There are mainly two ways for you to update the graphics driver:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -148,4 +150,26 @@ There are mainly two ways for you to update the graphics driver:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-achieving-excellent-illumination-on-youtube-videos-for-2024/"><u>[New] Achieving Excellent Illumination on YouTube Videos for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-mastering-audio-file-transformation-srt-to-xmlssattml-for-2024/"><u>[New] Mastering Audio File Transformation SRT to XML/SSA/TTML for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-earning-estimates-for-youtube-creators-adsense-pay-out-per-1000-viewers/"><u>[Updated] 2024 Approved Earning Estimates for YouTube Creators AdSense Pay-Out per 1,000 Viewers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-peering-into-the-heart-of-4k-vision-with-benqs-ultra-hd-model-bl2711u/"><u>[Updated] 2024 Approved Peering Into the Heart of 4K Vision with BenQ’s Ultra HD Model, BL2711U</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-creating-convincing-news-final-buzzes/"><u>[Updated] In 2024, Creating Convincing News Final Buzzes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-the-boot-bug-effective-ways-to-start-outriders-on-pcs-this-year/"><u>Beat the Boot Bug: Effective Ways to Start Outriders on PCs This Year</u></a></li>
+<li><a href="https://win-answers.techidaily.com/biomutant-stability-hacks-and-fixes-top-troubleshooting-strategies-of-2024/"><u>Biomutant Stability Hacks & Fixes: Top Troubleshooting Strategies of 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/boosting-wireless-connectivity-a-detailed-look-at-the-netgear-ac1200-ex6200-repeater/"><u>Boosting Wireless Connectivity: A Detailed Look at the Netgear AC1200 (EX6200) Repeater</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/download-and-enjoy-new-update-allows-wonderfox-dvds-to-be-converted-for-cell-phone-viewing-on-ripper-v11/"><u>Download and Enjoy: New Update Allows WonderFox DVDs to Be Converted for Cell Phone Viewing on Ripper V1.1</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-on-overcoming-key-obstacles-for-startups-set-to-debut/"><u>Expert Advice on Overcoming Key Obstacles for Startups Set to Debut</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-for-smooth-play-overcoming-in-game-lags-and-fps-reductions-in-cod-black-ops-iv/"><u>Fixes for Smooth Play: Overcoming In-Game Lags & FPS Reductions in COD: Black Ops IV</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-get-itunes-to-acknowledge-your-iphone-on-the-newest-windows-11-platform/"><u>How to Get iTunes to Acknowledge Your iPhone on the Newest Windows 11 Platform</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-poco-m6-pro-5g-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Poco M6 Pro 5G Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/instant-fixes-tackle-fortnite-login-failures-in-no-time-with-our-step-by-step-solutions/"><u>Instant Fixes: Tackle Fortnite Login Failures in No Time with Our Step-by-Step Solutions</u></a></li>
+<li><a href="https://facebook.techidaily.com/metas-updated-privacy-practices-a-comprehensive-review/"><u>Meta's Updated Privacy Practices: A Comprehensive Review</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-how-to-fix-persistent-black-screen-problems/"><u>Resolved: How to Fix Persistent Black Screen Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-solution-for-fixing-the-nvidia-geforce-0x0003-glitch/"><u>Step-by-Step Solution for Fixing the Nvidia Geforce 0X0003 Glitch</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshoot-and-enhance-gameplay-with-simple-solutions-for-low-fps-problems-on-computers/"><u>Troubleshoot and Enhance Gameplay with Simple Solutions for Low FPS Problems on Computers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steam-solutions-for-helldivers-2-failure-to-start/"><u>Troubleshooting Steam: Solutions for Helldivers 2 Failure to Start</u></a></li>
+</ul></div>
 

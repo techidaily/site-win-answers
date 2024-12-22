@@ -1,7 +1,7 @@
 ---
 title: Fast and Easy Fixes for Your League of Legends Game Freezing Problems
-date: 2024-12-09T16:01:22.812Z
-updated: 2024-12-12T16:26:44.226Z
+date: 2024-12-13T17:19:37.095Z
+updated: 2024-12-20T16:44:19.856Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/8c3061c39eb85dd875af824e1d1149fd13be54628
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -91,6 +91,10 @@ thumbnail: https://thmb.techidaily.com/8c3061c39eb85dd875af824e1d1149fd13be54628
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee.
@@ -109,10 +113,6 @@ thumbnail: https://thmb.techidaily.com/8c3061c39eb85dd875af824e1d1149fd13be54628
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-62-1024x796.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
@@ -122,6 +122,10 @@ thumbnail: https://thmb.techidaily.com/8c3061c39eb85dd875af824e1d1149fd13be54628
 4) Restart Windows and run League of Legends again.
 
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted game files
 
@@ -133,21 +137,17 @@ thumbnail: https://thmb.techidaily.com/8c3061c39eb85dd875af824e1d1149fd13be54628
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Initiate Full Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click**Yes** to continue. This may take a while.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
 
@@ -163,13 +163,13 @@ thumbnail: https://thmb.techidaily.com/8c3061c39eb85dd875af824e1d1149fd13be54628
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Run League of Legends to see if you resolved this issue.
 
@@ -193,24 +193,22 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-answers.techidaily.com/comprehensive-guide-to-addressing-game-instability-in-total-war-warhammer-ii/"><u>Comprehensive Guide to Addressing Game Instability in Total War: Warhammer II</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-truecaller-software-evaluation-pros-and-cons/"><u>Comprehensive Truecaller Software Evaluation: Pros and Cons</u></a></li>
-<li><a href="https://win-answers.techidaily.com/defeat-the-annoying-black-screen-challenge-for-hitman-3-players-pc-fixes-unveiled/"><u>Defeat the Annoying Black Screen Challenge for Hitman 3 Players - PC Fixes Unveiled</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/download-youtube-audio-safely-and-legally-in-3-ways-for-2024/"><u>Download Youtube Audio Safely & Legally in 3 Ways for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/energetic-speaker-review-iteration-viii-for-2024/"><u>Energetic Speaker Review - Iteration VIII for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-cod-wwii-error-4128-issue-here-are-the-steps-you-need-to-know/"><u>Fixing CoD WWII 'Error 4128' Issue? Here Are the Steps You Need to Know!</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-the-latest-amd-rx-6900-xt-windows-drivers-compatible-with-win11win10win8win7/"><u>Get the Latest AMD RX 6900 XT Windows Drivers – Compatible with Win11/Win10/Win8/Win7</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-depth-exploration-of-razers-kiyo-cam-for-2024/"><u>In-Depth Exploration of Razer's Kiyo Cam for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/in-depth-troubleshooting-resolving-the-problem-of-red-dead-redemption-2-not-starting-properly/"><u>In-Depth Troubleshooting: Resolving the Problem of Red Dead Redemption 2 Not Starting Properly</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/-it-right-elevating-your-youtube-video-presence/"><u>Light It Right Elevating Your YouTube Video Presence</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mordhau-freezing-problems-discover-how-to-fix-them-now/"><u>Mordhau Freezing Problems? Discover How to Fix Them Now!</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/oppo-reno-10-pro-5g-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Reno 10 Pro 5G Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-ffxiv-update-issues-fixes-for-unsuccessful-version-checks/"><u>Overcoming FFXIV Update Issues – Fixes for Unsuccessful Version Checks</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-solution-to-rectify-minecrafts-sudden-crash-with-exit-code-0/"><u>Quick Solution to Rectify Minecraft's Sudden Crash with Exit Code 0</u></a></li>
-<li><a href="https://win-answers.techidaily.com/rocket-league-stability-hacks-overcoming-frequent-game-crashes/"><u>Rocket League Stability Hacks: Overcoming Frequent Game Crashes</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/-strategies-for-entrepreneurial-video-marketing/"><u>SMART Strategies for Entrepreneurial Video Marketing</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/top-12-movavi-4k-video-recorders-tailored-for-specific-devices/"><u>Top 12 Movavi 4K Video Recorders Tailored for Specific Devices</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-poco-x6-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Poco X6 | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-enhancing-gameplay-by-resolving-stutters-and-increasing-fps-on-the-ascent/"><u>Ultimate Guide: Enhancing Gameplay by Resolving Stutters & Increasing FPS on 'The Ascent'</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-slumber-screen-shows-story-insights-reviewed/"><u>[New] Slumber Screen Shows Story Insights Reviewed</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-transform-your-account-with-these-10-must-have-ig-tools/"><u>[Updated] Transform Your Account with These 10 Must-Have IG Tools</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-jumpstart-your-channel-key-hashtags-for-6-figure-impact/"><u>2024 Approved Jumpstart Your Channel Key Hashtags for 6-Figure Impact</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-what-separates-panoramic-from-immersion-filmmaking/"><u>2024 Approved What Separates Panoramic From Immersion Filmmaking?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-oppo-a59-5g-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Oppo A59 5G PC | Dr.fone</u></a></li>
+<li><a href="https://discover-best.techidaily.com/1726030418530-aviutl/"><u>効果的にAviUtlでビデオクリッピング方法をマスターする</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fast-solutions-overcoming-challenges-in-optimizing-shaders-for-star-wars-battlefront-ii/"><u>Fast Solutions: Overcoming Challenges in Optimizing Shaders for Star Wars Battlefront II</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-your-google-chrome-when-it-wont-launch-proven-solutions/"><u>Fix Your Google Chrome When It Won't Launch: Proven Solutions!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-issue-how-to-stop-microsoft-edge-from-crashing-on-windows-11/"><u>Fixing the Issue: How to Stop Microsoft Edge From Crashing on Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-avatar-frontiers-of-pandora-low-fps-and-stuttering/"><u>How to FIX Avatar: Frontiers of Pandora Low FPS and Stuttering</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-the-features-of-voice-recognition-in-gdoc/"><u>In 2024, Navigating the Features of Voice Recognition in GDoc</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-guide-to-resolving-lengthy-wait-times-for-fallout-4-startup/"><u>Quick Guide to Resolving Lengthy Wait Times for Fallout 4 Startup</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-battlefields-bfv-warzone-gameplay-interruption-fixing-the-infamous-50-and-31-disc-read-glitches-on-pc/"><u>Resolving Battlefield's BFV Warzone Gameplay Interruption: Fixing the Infamous [5.0] and [3.1] Disc Read Glitches on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-pc-crashes-in-granblue-fantasy-the-ultimate-guide-to-re-link-fix/"><u>Solving PC Crashes in Granblue Fantasy: The Ultimate Guide to Re-Link Fix</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-lava-yuva-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Lava Yuva 3 | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-when-cant-warframe-load/"><u>Troubleshooting Guide – When Can't Warframe Load</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-iphone-16-pro-the-ultimate-list-of-buzz-worthy-innovations-for-enthusiasts/"><u>Unveiling the iPhone 16 Pro: The Ultimate List of Buzz-Worthy Innovations for Enthusiasts</u></a></li>
 </ul></div>
 

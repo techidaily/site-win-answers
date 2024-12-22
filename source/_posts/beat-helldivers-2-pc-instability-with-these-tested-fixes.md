@@ -1,7 +1,7 @@
 ---
 title: Beat Helldivers 2 PC Instability with These Tested Fixes
-date: 2024-12-10T17:37:06.566Z
-updated: 2024-12-12T18:14:05.569Z
+date: 2024-12-17T20:29:09.429Z
+updated: 2024-12-20T17:15:48.872Z
 tags:
   - win11
   - win10
@@ -42,6 +42,10 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. [Download the latest patch](https://tools.techidaily.com/drivereasy/download/)
@@ -53,10 +57,6 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 
  If you haven’t been updated your game for a while, you can update your game. The official keeps releasing new patches, the latest version may solve the crashing issue.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Manage Virtual Memory
 
  If the game crashes happened in the loading screen, you can try this fix. By changing the setting of Virtual Memory, the crash should be gone.
@@ -66,21 +66,21 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/1-4.jpg)
 3. Under the**Advanced** tab, click**Settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2-4.jpg)
 4. Under**Virtual memory** , click**Change** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/3-2.jpg)
 5. Uncheck**Automatically manage paging file size for all drives** and make sure you’ve check**System managed size** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/4-2.jpg)
 6. Click**Set > OK** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7. Reboot your computer can check whether the crash will appear or not.
 
@@ -98,7 +98,7 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 5. Reboot your computer and check the issue is solved or not.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Underclock your clock speed
@@ -132,11 +132,11 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
-![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
  Thanks for reading. Hope this article meets your need. And you are welcome to leave comments below.
 
@@ -157,14 +157,21 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/everaging-edit-tools-for-youtube-videos-post-publishment-for-2024/"><u>[New] Leveraging Edit Tools for YouTube Videos Post-Publishment for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-unlock-the-power-to-create-personalized-whatsapp-alerts/"><u>[Updated] In 2024, Unlock the Power to Create Personalized WhatsApp Alerts</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fix-roblox-pc-issues-fast-top-6-solutions-for-uninterrupted-gaming/"><u>Fix Roblox PC Issues Fast: Top 6 Solutions for Uninterrupted Gaming</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-vivo-x90s-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Vivo X90S Devices</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-the-iphone-11-pro-max-sim-lock-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock The iPhone 11 Pro Max SIM Lock 4 Easy Methods</u></a></li>
-<li><a href="https://win-answers.techidaily.com/optimizing-system-settings-to-stop-crashes-in-total-war-raven-gear-pc-gameplay/"><u>Optimizing System Settings to Stop Crashes in Total War: RAVEN GEAR - PC Gameplay</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-stop-dota-2-from-keeping-you-down/"><u>Troubleshooting Guide: Stop Dota 2 From Keeping You Down!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-why-your-ds4-isnt-working-with-windows-and-what-to-do-next/"><u>Troubleshooting: Why Your DS4 Isn't Working With Windows and What To Do Next</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/yl-computing-jamie-millers-stunning-backgrounds-and-digital-wallpaper-collection-by-yl-software/"><u>YL Computing: Jamie Miller's Stunning Backgrounds & Digital Wallpaper Collection by YL Software</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-maximize-views-with-these-top-20-thumbnail-fonts/"><u>[New] 2024 Approved Maximize Views with These Top 20 Thumbnail Fonts</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-archive-hunt-accessing-yesteryears-facebook-stories-for-2024/"><u>[New] Archive Hunt Accessing Yesteryear's Facebook Stories for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/orldwide-rankings-top-10-youtube-influencers-by-subscription-counts-for-2024/"><u>[New] Worldwide Rankings Top 10 YouTube Influencers by Subscription Counts for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-vlc-capture-tool-assessment-for-2024/"><u>[Updated] VLC Capture Tool Assessment for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-instagrams-role-in-distributing-your-podcast-episodes/"><u>2024 Approved Instagram's Role in Distributing Your Podcast Episodes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-transformative-srt-editing-techniques-for-apple-devices/"><u>2024 Approved Transformative SRT Editing Techniques for Apple Devices</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-the-lags-enhancing-performance-on-avatar-frontiers-of-pandora/"><u>Beat the Lags: Enhancing Performance on 'Avatar: Frontiers of Pandora'</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cod-black-ops-cold-war-solving-the-elusive-pacific-crashing-glitches-for-a-smoother-gameplay-experience/"><u>COD: Black Ops Cold War – Solving the Elusive Pacific Crashing Glitches for a Smoother Gameplay Experience</u></a></li>
+<li><a href="https://driver-install.techidaily.com/compatibility-dilemma-queries/"><u>Compatibility Dilemma Queries</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-on-repairing-barcode-reader-errors/"><u>Expert Tips on Repairing Barcode Reader Errors</u></a></li>
+<li><a href="https://review-topics.techidaily.com/identify-missing-or-malfunctioning-your-drivers-with-windows-device-manager-in-windows-10-and-7-by-drivereasy-guide/"><u>Identify missing or malfunctioning your drivers with Windows Device Manager in Windows 10 & 7</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimizing-your-gaming-experience-overcoming-pc-frame-rate-decreases/"><u>Optimizing Your Gaming Experience: Overcoming PC Frame Rate Decreases</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-fixes-for-when-google-chrome-wont-launch/"><u>Resolved: Fixes for When Google Chrome Won't Launch</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solving-samsung-print-woes/"><u>Solving Samsung Print Woes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-persistent-crashes-of-warno-software-on-pcs/"><u>Troubleshooting Tips for Persistent Crashes of WARNO Software on PCs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unlock-flawless-gaming-tackle-baldurs-gate-performance-issues-with-6-key-tweaks/"><u>Unlock Flawless Gaming: Tackle Baldur's Gate Performance Issues With 6 Key Tweaks</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Stuttering Issues in Age of Empires IV
-date: 2024-12-05T16:11:51.617Z
-updated: 2024-12-12T19:15:25.796Z
+date: 2024-12-18T16:16:32.453Z
+updated: 2024-12-20T20:47:21.632Z
 tags:
   - win11
   - win10
@@ -50,19 +50,11 @@ thumbnail: https://thmb.techidaily.com/6cebc56dc292975b98a5a871193af627ed43dff47
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-585-1024x582.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3\. Wait until you see the following message. Then click**Close** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-586.png)
 
  4\. Run Apex Legends to see if you can pass the loading screen. If not, or there was no new game patch available, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your drivers
 
@@ -84,21 +76,21 @@ thumbnail: https://thmb.techidaily.com/6cebc56dc292975b98a5a871193af627ed43dff47
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-581.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3\. Click **Update** next to your device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-582.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Flush your DNS
 
@@ -108,11 +100,23 @@ thumbnail: https://thmb.techidaily.com/6cebc56dc292975b98a5a871193af627ed43dff47
 
 ![](https://www.supereasy.com/wp-content/uploads/2018/09/1-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2\. Type the command line **ipconfig /flushdns**  and press **Enter**  on your keyboard.
 
 ![](https://www.supereasy.com/wp-content/uploads/2018/09/Snap361-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3\. Launch Apex Legends to see if you resolved this issue. If not, don’t worry. Try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Unlink your Apex Legends account from your Steam account
 
@@ -127,7 +131,7 @@ thumbnail: https://thmb.techidaily.com/6cebc56dc292975b98a5a871193af627ed43dff47
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-584-1024x754.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4\. Click**Sign in through Steam** .
@@ -135,7 +139,7 @@ thumbnail: https://thmb.techidaily.com/6cebc56dc292975b98a5a871193af627ed43dff47
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-587-1024x754.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5\. On the Steam page, log into**the new steam account you created in step One** .  
@@ -154,6 +158,10 @@ thumbnail: https://thmb.techidaily.com/6cebc56dc292975b98a5a871193af627ed43dff47
  2\. Go to**My Game Library** , then**right-click** **Apex Legends** and select**Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-591-1024x582.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3\. Wait until the verifying process completes.
 
@@ -189,10 +197,6 @@ thumbnail: https://thmb.techidaily.com/6cebc56dc292975b98a5a871193af627ed43dff47
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-590.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 7: Reinstall Apex Legends
 
  If none of the fixes above works, you may need to try reinstalling Apex Legends. Here is how to do it:
@@ -202,10 +206,6 @@ thumbnail: https://thmb.techidaily.com/6cebc56dc292975b98a5a871193af627ed43dff47
  2\. Go to **My Game Library** , then **right-click** on **Apex Legends** and select **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-346-1024x728.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3\. Download and reinstall Apex Legends. Launch the game to see if you can pass the loading screen. If so, congratulations! You’ve resolved this issue.
 
@@ -228,22 +228,20 @@ thumbnail: https://thmb.techidaily.com/6cebc56dc292975b98a5a871193af627ed43dff47
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-visualize-your-workflow-top-free-screen-recorders-for-pc-and-mac/"><u>[New] In 2024, Visualize Your Workflow - Top Free Screen Recorders for PC & Mac</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/treamline-your-music-habits-with-these-15-high-quality-free-youtube-extractors-for-2024/"><u>[New] Streamline Your Music Habits with These 15 High-Quality, Free YouTube Extractors for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/our-gateway-to-success-with-a-bundle-of-50-free-adornments/"><u>[New] Your Gateway to Success with a Bundle of 50 FREE Adornments</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-streamlining-your-youtube-music-journey/"><u>[Updated] 2024 Approved Streamlining Your YouTube Music Journey</u></a></li>
-<li><a href="https://win-answers.techidaily.com/5-effective-tweaks-to-get-genshin-impact-up-and-running-again/"><u>5 Effective Tweaks to Get Genshin Impact Up and Running Again</u></a></li>
-<li><a href="https://win-answers.techidaily.com/elevating-your-gaming-experience-innovative-solutions-to-tackle-wows-frame-rate-hurdles-in-the-new-year/"><u>Elevating Your Gaming Experience: Innovative Solutions to Tackle WoW's Frame Rate Hurdles in the New Year</u></a></li>
-<li><a href="https://win-answers.techidaily.com/enhanced-stability-for-your-pc-playthrough-fnaf-free-from-breaching-issues/"><u>Enhanced Stability for Your PC Playthrough – FNAF Free From Breaching Issues!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-tips-for-a-smooth-dota-2-gaming-experience-overcoming-lags-in-2e24/"><u>Expert Tips for a Smooth Dota 2 Gaming Experience: Overcoming Lags in 2E24</u></a></li>
-<li><a href="https://win-answers.techidaily.com/guilty-gear-strive-release-delayed-exclusive-insights-and-updates/"><u>Guilty Gear Strive Release Delayed: Exclusive Insights and Updates</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-slow-frames-in-farming-simulator-22-when-played-on-a-pc/"><u>How to Fix Slow Frames in Farming Simulator 22 when Played on a PC?</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-cuddly-creatures-galore-best-android-wildlife-titles/"><u>In 2024, Cuddly Creatures Galore Best Android Wildlife Titles</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/quick-subscribe-does-it-really-amplify-watch-time-for-2024/"><u>Quick-Subscribe Does It Really Amplify Watch Time for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolution-steps-for-a-malfunctioning-discord-camera-feature/"><u>Resolution Steps for a Malfunctioning Discord Camera Feature</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/step-by-step-guide-reducing-the-frame-rate-of-hfr-content-with-ease/"><u>Step-by-Step Guide: Reducing the Frame Rate of HFR Content with Ease</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-non-functional-volume-buttons-in-windows-11-solved/"><u>Troubleshooting Non-Functional Volume Buttons in Windows 11 – Solved!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-getting-football-manager-2022-up-and-running-again/"><u>Troubleshooting Steps for Getting Football Manager 2022 Up and Running Again</u></a></li>
-<li><a href="https://techidaily.com/unlock-iphone-8-plus-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone 8 Plus</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-essential-guide-to-best-rated-vr-bike-games/"><u>[New] In 2024, Essential Guide to Best-Rated VR Bike Games</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-nativescreenvid-chrome-os-recording-tool-for-2024/"><u>[Updated] NativeScreenVid Chrome OS Recording Tool for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-single-frame-solo-shot-extracting-visual-elements-from-windows-10-videos/"><u>[Updated] Single Frame, Solo Shot Extracting Visual Elements From Windows 10 Videos</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-ultimate-game-changer-gear-on-youtube/"><u>[Updated] The Ultimate Game Changer - Gear on YouTube</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-poco-x6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cracking-resident-evil-villages-mouse-issues-a-comprehve-solution-guide/"><u>Cracking Resident Evil Village's Mouse Issues: A Comprehve Solution Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/get-your-ready-or-not-running-without-hiccups-pro-techniques-to-stop-pc-malfunctions/"><u>Get Your 'Ready or Not' Running Without Hiccups: Pro Techniques to Stop PC Malfunctions</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-full-tutorial-to-bypass-your-samsung-galaxy-a24-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Samsung Galaxy A24 Face Lock?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/mosaic-masterpieces-elevating-your-living-space-for-2024/"><u>Mosaic Masterpieces Elevating Your Living Space for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimize-farming-simulator-22-gameplay-on-pc-by-resolving-frame-per-second-drops/"><u>Optimize Farming Simulator 22 Gameplay on PC by Resolving Frame Per Second Drops</u></a></li>
+<li><a href="https://win-answers.techidaily.com/oxygen-not-included-game-crash-guide-fix-your-gaming-experience-now/"><u>Oxygen Not Included Game Crash Guide: Fix Your Gaming Experience Now!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-troubles-heres-how-to-fix-subnautica-below-zero-crashes/"><u>PC Troubles? Here's How to Fix Subnautica: Below Zero Crashes!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723006404737-troubleshoot-control-crashes-effortlessly-with-these-tips-and-tricks/"><u>Troubleshoot Control Crashes Effortlessly with These Tips & Tricks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/wwe-2k22-continuously-freezes-and-disconnects-solving-the-pc-gaming-nightmare/"><u>WWE 2K22 Continuously Freezes & Disconnects: Solving the PC Gaming Nightmare</u></a></li>
 </ul></div>
 

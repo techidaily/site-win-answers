@@ -1,7 +1,7 @@
 ---
 title: Football Manager 2023 Start-Up Issues Addressed - Guides and Fixes for Smooth Gameplay
-date: 2024-12-06T19:22:29.046Z
-updated: 2024-12-12T19:09:18.722Z
+date: 2024-12-13T20:06:47.680Z
+updated: 2024-12-20T18:11:33.612Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You may not try them all. Simply work your way down the list until you find the one that works for you.
@@ -37,6 +33,10 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 5. **[Set launch options](https://tools.techidaily.com/drivereasy/download/)**
 
  Before you continue to the following fixes, please make sure your PC specs meet the **[minimum requirements](https://www.footballmanager.com/games/football-manager-2021)**  to play Football Manager 2021.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1 – Update your graphics driver
 
@@ -52,7 +52,7 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 3. Click the**Update** button next to the flagged graphics card driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
@@ -71,14 +71,18 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-1-5.jpg)
 2. Right-click**Football Manager 2021** from the game list and click**Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Select**Local Files** and then click**Verify Integrity of Game Files** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-3-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Wait until the process finishes and relaunch FM 21 to test. If your issue persists, take a look at more fixes below.
 
@@ -95,6 +99,10 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 
 If this method doesn’t help, go ahead with the next fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4 – Delete the Preferences and Caches folder
 
  According to Sports Interactive, Football Manager 2021 crashing may be caused by the custom data, and the very solution is to remove the preferences and caches folder. Don’t worry as this will not affect your game progress.
@@ -109,6 +117,10 @@ If this method doesn’t help, go ahead with the next fix below.
 
 So does the crash go away now? If not, there is the last fix to try.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5 – Set launch options
 
  If you receive a specific DXGI\_ERROR\_DEVICE error message or an application error, the Football Manager 2021 crashing issue is related to your graphics card. That’s especially true if you’re using Intel GPUs. And you can launch the game with lower graphics settings and see how it works.
@@ -117,25 +129,13 @@ So does the crash go away now? If not, there is the last fix to try.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-1-5.jpg)
 2. Right-click**Football Manager 2021** and click**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Click**Set Launch Options** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-3.jpg)
 4. Type**–config very\_low** in the text field and click**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Such setting may render FM 2021 in lower performance, but it will mitigate the crashing effectively.
 
@@ -164,14 +164,21 @@ So does the crash go away now? If not, there is the last fix to try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-discover-the-prime-lineup-of-affordable-cutting-tools/"><u>[Updated] 2024 Approved Discover the Prime Lineup of Affordable Cutting Tools</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-the-gentle-art-of-reducing-audio-amplitude-in-logic-pro/"><u>2024 Approved The Gentle Art of Reducing Audio Amplitude in Logic Pro</u></a></li>
-<li><a href="https://win-answers.techidaily.com/dealing-with-download-issues-for-monster-hunter-stories-2-wings-of-ruin/"><u>Dealing with Download Issues for Monster Hunter Stories 2: Wings of Ruin</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-solutions-for-overcoming-live-server-connection-failure-errors/"><u>Effective Solutions for Overcoming 'Live Server Connection Failure' Errors</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-ensure-stable-play-of-dead-by-daylight-without-interruptions-2024-solutions/"><u>How to Ensure Stable Play of Dead By Daylight Without Interruptions - 2024 Solutions</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-infinix-smart-7-hd-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Infinix Smart 7 HD to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-tecno-spark-go-2023-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Tecno Spark Go (2023) to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-connection-issues-with-blizzard-games-a-step-by-step-guide/"><u>Resolving Connection Issues with Blizzard Games: A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-unleashing-video-popularity-leading-trackers-for-youtube/"><u>[Updated] 2024 Approved Unleashing Video Popularity Leading Trackers for YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-explore-the-best-free-youtube-video-editor-apps-for-android-for-2024/"><u>[Updated] Explore the Best Free YouTube Video Editor Apps for Android for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-strategizing-the-open-door-to-market-success/"><u>[Updated] Strategizing the Open Door to Market Success</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-nokia-c110-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Nokia C110</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-bio-link-addition-on-tiktok/"><u>2024 Approved Mastering Bio Link Addition on TikTok</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comparing-storage-media-dvd-blu-ray-or-digital-files-best-purchase-option/"><u>Comparing Storage Media: DVD, Blu-Ray, or Digital Files - Best Purchase Option?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-in-place-how-to-handle-your-steam-server-connections-successfully/"><u>Fixes in Place: How to Handle Your Steam Server Connections Successfully</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-issue-troubleshooting-a-non-functional-discord-webcam/"><u>Fixing the Issue: Troubleshooting a Non-Functional Discord Webcam</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-oneplus-nord-3-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016274074-laptop-audio-malfunction-here-are-effective-solutions/"><u>Laptop Audio Malfunction? Here Are Effective Solutions!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-gamers-rejoice-resolving-outriders-startup-problems/"><u>PC Gamers Rejoice: Resolving Outriders Startup Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/rage-against-the-machine-crash-effective-solutions-for-seamless-play/"><u>Rage Against the Machine (Crash): Effective Solutions for Seamless Play</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-to-overcoming-the-anticheat-module-disconnect-on-escape-from-tarkov/"><u>Step-by-Step Guide to Overcoming the ‘AntiCheat Module Disconnect’ on Escape From Tarkov</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/transform-your-visuals-instagram-video-borders/"><u>Transform Your Visuals Instagram Video Borders</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-smoothing-out-stutters-and-improving-fps-on-the-division-2/"><u>Troubleshooting Tips for Smoothing Out Stutters and Improving FPS on The Division 2</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-repairing-damaged-video-game-data-in-windows/"><u>Ultimate Guide: Repairing Damaged Video Game Data in Windows</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Say Goodbye to Crashes: Mastering Stable Play in WWE 2K22 on Your Desktop PC"
-date: 2024-08-19T02:11:42.637Z
-updated: 2024-08-20T02:11:42.637Z
+date: 2024-12-19T21:14:12.700Z
+updated: 2024-12-20T16:25:50.664Z
 tags:
   - win11
   - win10
@@ -44,17 +44,15 @@ thumbnail: https://thmb.techidaily.com/73087a990223851f6a7c5417d3512a4d93ddbbb6c
  If you don’t know how to check your computer specs, simply follow this guide:[How to find computer specs on Windows 10](https://tools.techidaily.com/drivereasy/download/) . If your machine isn’t up for the game, considering upgrading your PC first.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2 – Stop overclocking
 
  By overclocking your CPU and GPU, you may see a significant boost in the game performance. However, doing this can sometimes lead to problems like instability in the system and crashes your game. So if Diablo 2 Resurrected keeps crashing after an overclock, you may want to**turn off all the overclocking utilities** such as MSI Afterburner and**reset your processor to the default** .
 
 If this method doesn’t help, check out your graphics driver.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3 – Update your graphics driver
 
  The graphics driver is essential to a smooth gaming experience. If your graphics driver is faulty or outdated, Diablo 2 Resurrected crashing is more likely to occur. To fix it, you should update your graphics driver to the latest.
@@ -71,6 +69,10 @@ If this method doesn’t help, check out your graphics driver.
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-5700-xt-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -84,18 +86,21 @@ If this method doesn’t help, check out your graphics driver.
 2. Right-click the Diablo 2 Resurrected executable (.exe) file and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
 3. Navigate to the**Compatibility** tab. Then tick**Run this program as an administrator** and**Disable fullscreen optimizations** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-as-administrator-diablo-2-1.jpg)
 4. Click**OK** to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-as-administrator-diablo-2-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
  Relaunch Diablo 2 Resurrected to see if it runs properly. If not, there are a few more fixes to try below.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5 – Scan and repair corrupt game files
 
  It’s possible that there are corrupted or missing game files stopping your Diablo 2 Resurrected from functioning correctly, which therefore triggers the crashes. To repair the corrupt files, follow the steps below:
@@ -104,20 +109,15 @@ If this method doesn’t help, check out your graphics driver.
 2. At the bottom, click the**gear icon** next to the Play button and select**Scan and Repair** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-and-repair-corrupt-game-files.jpg)
 3. Click**Begin Scan** to process.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/D2R-begin-scan.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
  Wait a few minutes until the process completes, and restart your game to see if the problem is fixed. If not, try the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5 – Turn off overlays
 
  As many players reported, programs with an overlay like Discord or GeForce Experience can cause the Blizzard games to crash or get a black screen. To avoid an incompatibility issue like this, simply disable or uninstall it as follows:
@@ -134,15 +134,13 @@ No advertising on the website.
 1. Launch GeForce Experience. Then click the**cogwheel icon** at the upper right corner.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-1-1.jpg)
 2. Toggle off**In-game overlay** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2021/04/0-00.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/0-00.jpg)
+
  After all the overlay feature is disabled, your game should return to normal.
 
 ---
@@ -158,8 +156,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -167,4 +163,26 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-instantaneous-viewership-metering/"><u>[Updated] 2024 Approved Instantaneous Viewership Metering</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-maximizing-chances-to-engage-premier-filmmakers/"><u>[Updated] 2024 Approved Maximizing Chances to Engage Premier Filmmakers</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-pixellation-perfection-windows-and-macs-photo-to-animation-powerhouse/"><u>[Updated] 2024 Approved Pixellation Perfection Windows & Mac's Photo to Animation Powerhouse</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-crafting-your-perfect-minecraft-shelter/"><u>[Updated] In 2024, Crafting Your Perfect Minecraft Shelter</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ten-commandments-of-stream-undoing-on-twitch/"><u>2024 Approved Ten Commandments of Stream Undoing on Twitch</u></a></li>
+<li><a href="https://win-answers.techidaily.com/back-4-blood-not-working-solved-guide-for-proper-setup-on-different-windows-oses/"><u>Back 4 Blood Not Working? [Solved!] Guide for Proper Setup on Different Windows OSes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723001874277-chrome-lag-solved-boost-browsing-speeds-in-minutes/"><u>Chrome Lag Solved: Boost Browsing Speeds in Minutes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comparing-network-performance-a-closer-look-at-cat5-and-cat6-cabling/"><u>Comparing Network Performance: A Closer Look at Cat5 and Cat6 Cabling</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-continuous-minecraft-crashes-in-just-six-easy-steps/"><u>Fix Continuous Minecraft Crashes in Just Six Easy Steps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-broken-keyboard-letter-issue-on-pcs-with-windows-1011/"><u>How to Fix a Broken Keyboard Letter Issue on PCs with Windows 10/11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-and-prevent-the-errgfxstate-graphic-anomaly-in-your-red-dead-redemption-2-game/"><u>How to Fix and Prevent the ERR_GFX_STATE Graphic Anomaly in Your Red Dead Redemption 2 Game</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722994137869-how-to-resolve-forza-horizon-4-launch-issues-expert-tips-and-tricks/"><u>How to Resolve Forza Horizon 4 Launch Issues : Expert Tips & Tricks</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/meme-mastery-top-ten-designs-to-share-scream-and-chortle/"><u>Meme Mastery Top Ten Designs to Share, Scream & Chortle</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-guide-for-stabilizing-adobe-premiere-pro-on-windows-1110-systems/"><u>Solution Guide for Stabilizing Adobe Premiere Pro on Windows 11/10 Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-guide-handling-the-fatal-error-when-loading-steamuidll-on-steam-platform/"><u>Solution Guide: Handling the Fatal Error When Loading 'steamui.dll' On Steam Platform</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1727785892901-top-rated-magsafe-wallets-comprehensive-reviews-by-tech-experts/"><u>Top-Rated MagSafe Wallets - Comprehensive Reviews by Tech Experts</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steams-remote-play-issues-easy-solutions-inside/"><u>Troubleshooting Steam's Remote Play Issues - Easy Solutions Inside</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-techniques-for-correcting-steamvr-hitch-308-issues/"><u>Troubleshooting Techniques for Correcting SteamVR Hitch 308 Issues</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-easy-peasy-video-editing-top-15-free-software-for-beginners-for-2024/"><u>Updated Easy Peasy Video Editing Top 15 Free Software for Beginners for 2024</u></a></li>
+</ul></div>
 

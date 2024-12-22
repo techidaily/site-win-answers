@@ -1,7 +1,7 @@
 ---
 title: "Bypass Kodi's Connection Barrier: A Comprehensive Solution for the 'Directory Information Failure'"
-date: 2024-08-19T02:15:19.094Z
-updated: 2024-08-20T02:15:19.094Z
+date: 2024-12-13T16:25:12.847Z
+updated: 2024-12-20T21:17:06.364Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ Many Fortnite players are reporting that they get the error code 84, therefore t
 
 **PRO TIP:** To ensure an excellent gaming experience on PC, it’s recommended to keep your device drivers up to date, especially your graphics driver. But if you don’t have the time nor patience to update the driver manually, you can download **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  and let it do all the work for you. (The[**Pro version**](https://tools.techidaily.com/drivereasy/download/) comes with full support and a 30-day money back guarantee.)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. **[Check the status of Epic Games server](https://tools.techidaily.com/drivereasy/download/)**
@@ -27,6 +31,10 @@ Many Fortnite players are reporting that they get the error code 84, therefore t
 4. **[Change the lobby to Public](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Join friends using the](https://tools.techidaily.com/drivereasy/download/)** [Epic Games list](https://tools.techidaily.com/drivereasy/download/)
 6. [Reinstall the game](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1\. Check the status of Epic Games server
 
@@ -40,8 +48,9 @@ Many Fortnite players are reporting that they get the error code 84, therefore t
  The downtime always begins a few days before a major update. If the services for**Parties, Friends and Messaging** are under maintenance, you can just wait for the new release, or follow their[Twitter account](https://twitter.com/FortniteStatus) to get the live status of Fortnite.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2\. Submit a support ticket
 
  You may find this error code 84 annoying and want to join your friends as quickly as possible in Fortnite. If that’s your case, the quickest solution is to submit a support ticket to Epic Games.
@@ -55,9 +64,6 @@ Many Fortnite players are reporting that they get the error code 84, therefore t
 
  They may help you delete the client settings file and you can join a party again. If it’s too long for the customer service to respond, you can try these workarounds below.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3\. Change the skin
 
  Though it seems absurd to you, changing the skin has indeed fixed the error code 84 for some players when they can’t join their friends’ party.
@@ -69,9 +75,6 @@ Many Fortnite players are reporting that they get the error code 84, therefore t
 
  You can join a game and wait until you are in the lobby. Accept the invite to join the party and test if the error code 84 persists.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4\. Change the lobby to Public
 
  Another workaround you can try is to set your lobby to Public and then you can join without an invite.
@@ -80,14 +83,12 @@ Many Fortnite players are reporting that they get the error code 84, therefore t
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Screen-Shot-2021-04-13-at-4.59.16-PM-1200x521.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 You can always kick unwanted guests from your lobby.
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5\. Join friends using the Epic Games list
 
  If the invite system is down, you can bypass it by adding them to your friends’ list. This will help you get around this issue.
@@ -95,8 +96,9 @@ You can always kick unwanted guests from your lobby.
  But if the host of the lobby you’re trying to join is already on your friends’ list, you can skip this fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6\. Reinstall the game
 
  No matter where you play the game, reinstalling the game always does the trick for a few players. Consoles and mobile devices are closed systems, meaning there aren’t many troubleshooting options to fix issues you’re having. The most common fix is to reinstall Fortnite.
@@ -115,8 +117,6 @@ You can always kick unwanted guests from your lobby.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -124,4 +124,20 @@ You can always kick unwanted guests from your lobby.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/boost-brainpower-proven-techniques-to-master-studying-on-windows/"><u>Boost Brainpower: Proven Techniques to Master Studying on Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/defrost-your-digital-life-quick-fixes-for-a-computer-thats-too-cold/"><u>Defrost Your Digital Life: Quick Fixes for a Computer That's Too Cold</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/gopro-hero5-vs-yi-4k-the-ultimate-showdown-in-cam-tech/"><u>GoPro Hero5 Vs. Yi 4K The Ultimate Showdown in Cam Tech</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-icloud-on-iphone-6-smoothly-by-drfone-ios/"><u>How To Remove iCloud On iPhone 6 Smoothly</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-poco-f5-pro-5g-phone-without-password-by-drfone-android/"><u>How To Unlock Poco F5 Pro 5G Phone Without Password?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-soundscapes-of-apple-in-the-realm-of-vids/"><u>In 2024, Soundscapes of Apple in the Realm of Vids</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/jestjunction-tap-into-the-world-of-meme-magic/"><u>JestJunction Tap Into the World of Meme Magic</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-start-guide-overcoming-common-fortnite-loading-difficulties/"><u>Quick-Start Guide: Overcoming Common Fortnite Loading Difficulties</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-deployed-resolving-past-online-login-difficulties/"><u>Solution Deployed: Resolving Past Online Login Difficulties</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-error-code-0xc19001e1-on-windows-10-step-by-step-guide/"><u>Solving Error Code 0xC19001E1 on Windows 10: Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/mline-your-video-watch-with-borderless-youtube-for-2024/"><u>Streamline Your Video Watch with Borderless YouTube for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-to-resolve-constant-crashes-in-guilty-gear-strive-on-windows/"><u>Troubleshooting Steps to Resolve Constant Crashes in Guilty Gear Strive on Windows</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Samsung Galaxy A05s | Dr.fone</u></a></li>
+</ul></div>
 

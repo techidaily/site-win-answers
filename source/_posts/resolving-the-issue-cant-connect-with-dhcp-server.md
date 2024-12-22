@@ -1,7 +1,7 @@
 ---
 title: "Resolving the Issue: Can't Connect with DHCP Server"
-date: 2024-12-05T18:41:14.402Z
-updated: 2024-12-12T19:02:56.085Z
+date: 2024-12-17T20:30:07.272Z
+updated: 2024-12-20T21:14:00.556Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/9b1d54d7ae73d83b91bdfdadbf959717f77a8b021
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here are the solutions you can try. You shouldn’t have to do every single one. Just try each one in turn until everything’s working again.
@@ -38,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/9b1d54d7ae73d83b91bdfdadbf959717f77a8b021
 3. [**Update your printer driver**](https://tools.techidaily.com/drivereasy/download/)
 
  Note: All the screenshots below come from Windows 10, but the fixes also work on Windows 7 & Windows 8.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1\. Reinstall your printer
 
@@ -60,7 +60,7 @@ You should first uninstall the printer from your computer.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae155dae8d27.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3)**Confirm** to delete the printer.
@@ -75,9 +75,17 @@ Now you should reinstall your printer to your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae155061b9aa.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click**Add a printer** in the menu bar.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae16c4e6d68c.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Wait for your Windows to search your printer.
 
@@ -89,10 +97,6 @@ Now you should reinstall your printer to your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae16d03d720a.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6) Try to have a test print to see if your error disappears.
 
  This should resolve the issue. If not, we have something else you can try.
@@ -103,13 +107,13 @@ Now you should reinstall your printer to your computer.
 
  1) On your keyboard, press the **Windows logo key![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0b16974940.png)**  and**R** at the same time to invoke the Run box.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Type**devmgmt.msc** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae16dab47de2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Double click**Printers** to expand it, and right click on your printer (it may show as**Unknown device** ), and select**Uninstall device** .
 
@@ -118,10 +122,6 @@ Now you should reinstall your printer to your computer.
  4) Check the box next to**Delete the driver software for this device** if you’re prompted, and click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae17154337fb.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) After uninstalling, restart your computer and Windows will reinstall the printer driver for you.
 
@@ -147,15 +147,15 @@ Now you should reinstall your printer to your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdd74d18191.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update**   button next to the flagged printer device to automatically download the latest driver (you can do this with the **FREE**   version), then install it in your computer.
 
  Or click **Update**  **All**   to automatically download and install the all the latest correct drivers that is missing or outdated in your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . You will be prompted to upgrade when you click _**Update All**_ ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae1720acdb02.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Restart your computer, and try your printer to see if the error disappears.
 
@@ -178,22 +178,18 @@ Now you should reinstall your printer to your computer.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-in-2024-mastery-levels-of-quantum-hdr-applications/"><u>[New] In 2024, Mastery Levels of Quantum HDR Applications</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-essential-tips-for-smooth-youtube-content-trimming/"><u>[Updated] 2024 Approved Essential Tips for Smooth YouTube Content Trimming</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/a-guide-nokia-g42-5g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Nokia G42 5G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/call-of-duty-wwii-how-to-fix-black-screen-issues-on-a-windows-pc-solution/"><u>Call of Duty WWII - How to Fix Black Screen Issues on a Windows PC [SOLUTION]</u></a></li>
-<li><a href="https://win-answers.techidaily.com/double-impact-understanding-the-two-collisions-gaming-issue-on-windows-pcs/"><u>Double Impact: Understanding the 'Two Collisions' Gaming Issue on Windows PCs</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722994890660-easy-steps-for-a-smooth-mortal-kombat-11-experience-avoid-crashes-now/"><u>Easy Steps for a Smooth Mortal Kombat 11 Experience: Avoid Crashes Now</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ng-experience-workshop/"><u>Editing Experience Workshop</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixes-for-continuous-failures-tackling-pc-crashes-in-alien-fireteam-elite/"><u>Fixes for Continuous Failures: Tackling PC Crashes in Alien: Fireteam Elite</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/footage-frenzy-pro-vs-platinum-with-gopro-hero5-and-hero4-for-2024/"><u>Footage Frenzy Pro vs Platinum with GoPro Hero5 and Hero4 for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/get-unstuck-from-the-startup-loop-in-madden-nfl-22-expert-troubleshooting-tips-and-solutions/"><u>Get Unstuck From the Startup Loop in Madden NFL 22: Expert Troubleshooting Tips and Solutions</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-infinix-smart-7-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Infinix Smart 7</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-infinix-smart-8-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Infinix Smart 8</u></a></li>
-<li><a href="https://games-able.techidaily.com/is-add-on-feature-valuable-in-switch-gameplay/"><u>Is Add-On Feature Valuable in Switch Gameplay?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/master-the-art-of-compressing-videos-keep-quality-intact-cut-file-size-down-by-90/"><u>Master the Art of Compressing Videos: Keep Quality Intact, Cut File Size Down by 90%</u></a></li>
-<li><a href="https://win-answers.techidaily.com/master-the-fixes-ensuring-smooth-play-in-hearthstone-by-avoiding-pc-malfunctions/"><u>Master the Fixes: Ensuring Smooth Play in Hearthstone by Avoiding PC Malfunctions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcome-the-error-6-glitch-on-pc-for-call-of-duty-warzone-and-modern-warfare/"><u>Overcome the Error 6 Glitch on PC for Call of Duty Warzone and Modern Warfare</u></a></li>
-<li><a href="https://win-answers.techidaily.com/wwe-2k22-pc-version-continuous-crash-guide-solutions-and-fixes/"><u>WWE 2K22 PC Version Continuous Crash Guide – Solutions and Fixes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solved-how-to-fix-indivisible-crash-issues/"><u>[SOLVED] How to Fix Indivisible Crash Issues?</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-snapedit-a-beginners-guide-to-photo-mastery/"><u>[Updated] In 2024, Snapedit A Beginner's Guide to Photo Mastery</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-selection-elite-iphone-call-alerts/"><u>[Updated] Ultimate Selection Elite iPhone Call Alerts</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-realme-narzo-60-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Realme Narzo 60 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/chromes-elevated-cpu-drain-solution-and-prevention-tactics/"><u>Chrome's Elevated CPU Drain – Solution and Prevention Tactics</u></a></li>
+<li><a href="https://win-answers.techidaily.com/essential-tips-for-getting-your-corsair-icue-up-and-running-in-windows-1011/"><u>Essential Tips for Getting Your Corsair iCUE Up and Running in Windows 10/11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-runtime-error-424-object-required-error-in-excel-2007-by-stellar-guide/"><u>How to fix runtime error 424 object required error in Excel 2007</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-warframe-not-launching-dilemma-a-step-by-step-guide/"><u>Solving the 'Warframe Not Launching' Dilemma - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722985994652-stop-league-of-legends-crashing-effortless-troubleshooting-steps-inside/"><u>Stop League of Legends Crashing - Effortless Troubleshooting Steps Inside</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/ukrainian-russian-relations-through-language/"><u>Ukrainian-Russian Relations Through Language</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-fix-for-call-of-duty-warzone-dealing-with-developer-bug-6634/"><u>Ultimate Fix for Call of Duty Warzone - Dealing with Developer Bug 6634</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/unveiling-the-art-of-night-sky-captures-on-iphone/"><u>Unveiling the Art of Night Sky Captures on iPhone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-capture-the-speed-of-life-2-easy-ways-to-create-stunning-time-lapse-videos/"><u>Updated In 2024, Capture the Speed of Life 2 Easy Ways to Create Stunning Time Lapse Videos</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Untangling the Black Ops Cold War Hitch - Error Code 887a0005 Explained!
-date: 2024-12-10T18:36:10.665Z
-updated: 2024-12-12T16:47:25.416Z
+date: 2024-12-15T19:22:48.097Z
+updated: 2024-12-20T18:42:24.188Z
 tags:
   - win11
   - win10
@@ -36,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/e31aaa74ff016883ab8f84feb3b9453dbf2ea0039
 4. [**Disable HAGs (Hardware-accelerated GPU scheduling** )](https://www.drivereasy.com/knowledge/solved-black-ops-cold-war-error-code-887a0005/#fix4)
 5. **[Disable in-game Ray Tracing](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Scan and repair game files
 
  The 887a0005 error code could indicate**an integrity issue** **with your game files** . In that case, you’ll need to scan and repair all the corrupted or missing files.
@@ -48,13 +52,13 @@ Here’s a quick guide for that:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 You can now launch Black Ops Cold War and see if it crashes again.
 
 If this trick doesn’t help you, simply continue to the next one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -69,10 +73,14 @@ If this trick doesn’t help you, simply continue to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -80,10 +88,6 @@ If this trick doesn’t help you, simply continue to the next one.
  Once you’ve updated your graphics driver, restart your PC and check if the error code reoccurs.
 
  If updating the GPU driver doesn’t solve your problem, simply move on to the next solution.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Install all Windows updates
 
@@ -95,11 +99,11 @@ And it’s fairly easy to update:
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click **Check for updates** . Then wait for Windows to download and install all available updates.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
@@ -126,16 +130,12 @@ Here’s how:
 4. Turn off**Hardware-accelerated GPU scheduling** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/hags-off.jpg)
 
  If this method doesn’t fix your issue, simply check out the next one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Disable in-game Ray Tracing
 
@@ -169,24 +169,17 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-youtube-to-igtv-migration-step-by-step-guide/"><u>[New] In 2024, YouTube-to-IGTV Migration Step-by-Step Guide</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-effortless-video-streaming-on-your-facebook-page-for-2024/"><u>[Updated] Effortless Video Streaming on Your Facebook Page for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-fundamentals-of-animated-branding/"><u>[Updated] Fundamentals of Animated Branding</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-creating-flavorful-culinary-videos-top-7-techniques/"><u>[Updated] In 2024, Creating Flavorful Culinary Videos - Top 7 Techniques</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-enhance-visual-harmony-editing-for-instagram-standards/"><u>[Updated] In 2024, Enhance Visual Harmony Editing for Instagram Standards</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-eye-on-the-screen-youtube-journey-comparison-from-creator-to-competitor/"><u>2024 Approved Eye on the Screen YouTube Journey Comparison From Creator to Competitor</u></a></li>
-<li><a href="https://win-answers.techidaily.com/common-issues-and-fixes-for-playing-robocop-rogue-city-on-a-windows-or-mac-pc/"><u>Common Issues & Fixes for Playing 'RoboCop: Rogue City' On a Windows or Mac PC</u></a></li>
-<li><a href="https://driver-error.techidaily.com/driver-not-found-bcm20702a0/"><u>Driver Not Found: BCM20702A0</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-solutions-for-continuous-arcadegeddon-crashes-on-your-desktop-computer/"><u>Expert Solutions for Continuous Arcadegeddon Crashes on Your Desktop Computer</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fix-the-paladins-game-crashes-proven-strategies-and-updates/"><u>Fix the Paladins Game Crashes: Proven Strategies and Updates</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722992929290-football-manager-2019-stability-tips-no-more-sudden-shutdowns/"><u>Football Manager 2019 Stability Tips: No More Sudden Shutdowns</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guide-wirelessly-linking-your-laptop-and-tv-using-an-hdmi-cable/"><u>Guide: Wirelessly Linking Your Laptop and TV Using an HDMI Cable</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-samsung-galaxy-xcover-6-pro-tactical-edition-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Samsung Galaxy XCover 6 Pro Tactical Edition Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-successfully-install-minecraft-on-your-windows-11-system-troubleshooting-guide/"><u>How to Successfully Install Minecraft on Your Windows 11 System – Troubleshooting Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solve-your-apex-legends-network-troubles-a-comprehensive-walkthrough/"><u>Solve Your Apex Legends Network Troubles: A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-fixes-for-non-responsive-steam-titles-in-windows-11/"><u>Troubleshooting Guide: Fixes for Non-Responsive Steam Titles in Windows 11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-resolving-modern-warfare-2-failed-startup-issues/"><u>Troubleshooting Guide: Resolving 'Modern Warfare 2' Failed Startup Issues</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/upload-and-share-videos-on-twitter-made-easy-for-2024/"><u>Upload & Share Videos on Twitter Made Easy for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/yakuza-6-pc-version-errors-heres-your-ultimate-fixing-guide/"><u>Yakuza 6 (PC Version) Errors? Here's Your Ultimate Fixing Guide!</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-elevate-your-play-with-these-5-windows-11-recording-approaches/"><u>[New] Elevate Your Play with These 5 Windows 11 Recording Approaches</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-intense-evaluation-the-detailed-study-of-bublcam-360/"><u>[New] Intense Evaluation The Detailed Study of Bublcam 360</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-battle-of-the-cameras-hero5-black-vs-hero4-silver-showdown/"><u>[Updated] Battle of the Cameras HERO5 Black vs HERO4 Silver Showdown</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-explore-10-premium-youtube-to-webm-converter-tools/"><u>[Updated] Explore 10 Premium YouTube-to-WebM Converter Tools</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-photo-motion-enhancement-via-adobe-tools/"><u>2024 Approved Photo Motion Enhancement via Adobe Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unleash-creativity-10-top-rated-free-mac-art-software/"><u>2024 Approved Unleash Creativity 10 Top-Rated, FREE Mac Art Software</u></a></li>
+<li><a href="https://win-answers.techidaily.com/boost-your-gameplay-ultimate-guide-to-resolving-fallout-76s-frame-rate-issues/"><u>Boost Your Gameplay: Ultimate Guide to Resolving Fallout 76'S Frame Rate Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/dayz-frame-rate-woes-speedily-resolve-with-easy-to-follow-tips/"><u>DayZ Frame Rate Woes? Speedily Resolve with Easy-to-Follow Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-the-repeated-freezing-issue-in-the-new-world-game/"><u>How to Fix the Repeated Freezing Issue in the New World Game</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-xiaomi-redmi-12-5g-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Xiaomi Redmi 12 5G Phones</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-7-compelling-factors-that-justify-my-continued-use-of-traditional-television/"><u>Top 7 Compelling Factors That Justify My Continued Use of Traditional Television</u></a></li>
+<li><a href="https://win-answers.techidaily.com/warzone-wont-start-troubleshooting-and-solutions/"><u>Warzone Won't Start: Troubleshooting & Solutions</u></a></li>
 </ul></div>
 

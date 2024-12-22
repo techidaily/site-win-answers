@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Fixing Fallout 3 Game Crashes on Windows 11"
-date: 2024-12-10T18:33:15.812Z
-updated: 2024-12-12T17:55:32.949Z
+date: 2024-12-13T16:23:18.064Z
+updated: 2024-12-20T21:27:46.395Z
 tags:
   - win11
   - win10
@@ -72,6 +72,10 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your graphics card drivers
 
  Your crashing issue with PoE may be caused by outdated or corrupt graphics card drivers. To check if that’s the root cause, you should try updating your graphics driver to a relatively new and stable version first.
@@ -89,7 +93,7 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to a flagged driver (say your graphics card driver) to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -97,6 +101,10 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you have any problems using Driver Easy to update your driver, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
 
@@ -113,7 +121,7 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-16-1024x218.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Right-click **Path of Exile** and select **Properties** .
@@ -124,15 +132,15 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-18.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Once complete, exit Steam and reopen it. Run PoE and wait to see if it keeps crashing.
 
 In case this fix didn’t help, please move on to Fix 4.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Run RoE as an administrator
 
@@ -155,6 +163,10 @@ Still unable to solve the problem? If yes, proceed to the next fix.
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Change certain in-game configurations
 
  According to many players, turning off**Engine Multithreading** and**VSync** under Graphics settings has cleared up the crashing problem for them. Here’s how to do it:
@@ -163,27 +175,15 @@ Still unable to solve the problem? If yes, proceed to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-13.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) On the**Graphics** tab, disable**Engine Multithreading** and**VSync** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-14.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-15.png)
 
  3) Wait to see if the crashing issue reoccurs. If it does, maybe these two features should not be blamed for your trouble, and you can enable them later on.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Stop overclocking
 
@@ -213,22 +213,20 @@ Still unable to solve the problem? If yes, proceed to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-refreshed-array-of-podcast-interviews-to-attract-listeners/"><u>[New] Refreshed Array of Podcast Interviews to Attract Listeners</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-smile-slam-the-best-comedy-moments-on-social-media/"><u>[New] Smile Slam The Best Comedy Moments on Social Media</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-streamline-music-craft-with-our-high-quality-beat-detection-software/"><u>[New] Streamline Music Craft with Our High-Quality Beat Detection Software</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-bridging-the-gap-an-introduction-to-av1/"><u>[Updated] In 2024, Bridging the Gap An Introduction to AV1</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-expert-tips-to-enhance-your-live-fb-broadcast-quality-pcmac/"><u>[Updated] In 2024, Expert Tips to Enhance Your Live FB Broadcast Quality (PC/Mac)</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-top-6-pro-rated-gopro-head-straps-and-mastering-usage/"><u>[Updated] In 2024, Top 6 Pro-Rated GoPro Head Straps & Mastering Usage</u></a></li>
-<li><a href="https://win-answers.techidaily.com/astro-a50-headset-recognition-problems-fixes-for-astro-command-system-failures/"><u>Astro A50 Headset Recognition Problems: Fixes for Astro Command System Failures</u></a></li>
-<li><a href="https://win-answers.techidaily.com/baldurs-gate-3-6-effective-ways-to-optimize-cpu-use-in-the-latest-game-version/"><u>Baldur's Gate 3 - 6 Effective Ways to Optimize CPU Use in the Latest Game Version</u></a></li>
-<li><a href="https://win-answers.techidaily.com/cut-down-on-starfields-resource-hogging-behavior-advanced-tweaks-and-settings-adjustments-for-a-better-pc-gaming-experience/"><u>Cut Down on Starfield’s Resource Hogging Behavior: Advanced Tweaks and Settings Adjustments for a Better PC Gaming Experience</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-solutions-to-overcome-frontiers-crash-problems-on-a-computer-system/"><u>Effective Solutions to Overcome Frontier's Crash Problems on a Computer System</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/exploring-new-realms-a-detailed-jaunt-vr-review-for-2024/"><u>Exploring New Realms A Detailed Jaunt VR Review for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-crash-issue-how-to-play-fallout-3-smoothly-on-windows-11/"><u>Fixing the 'Crash' Issue: How to Play Fallout 3 Smoothly on Windows 11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-to-fixing-unwanted-shutdowns-in-your-halo-3-gaming-experience-on-computer/"><u>Step-by-Step Guide to Fixing Unwanted Shutdowns in Your Halo 3 Gaming Experience on Computer</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-solution-to-overcome-xbox-error-0xc0000005-in-call-of-duty-black-ops-cold-war/"><u>Step-by-Step Solution to Overcome Xbox Error 0xC0000005 in Call of Duty: Black Ops Cold War</u></a></li>
-<li><a href="https://win-answers.techidaily.com/stop-adobe-after-effects-from-causing-headaches-expert-fixes-for-windows-11-and-10-users/"><u>Stop Adobe After Effects From Causing Headaches: Expert Fixes for Windows 11 and 10 Users</u></a></li>
-<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-honor-x7b-frp-by-drfone-android/"><u>The Updated Method to Bypass Honor X7b FRP</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-expert-recommended-3d-video-creators-you-cant-miss/"><u>Updated 2024 Approved Expert-Recommended 3D Video Creators You Cant Miss</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-essential-tips-convert-and-download-vimeo-hd-to-mp4/"><u>[New] Essential Tips Convert and Download Vimeo HD to MP4</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-capture-spectacular-video-on-youtube-top-webcam-picks-for-2024/"><u>[Updated] Capture Spectacular Video on YouTube Top Webcam Picks for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-improving-remote-work-communications-with-4-strategies/"><u>2024 Approved Improving Remote Work Communications with #4 Strategies</u></a></li>
+<li><a href="https://win-answers.techidaily.com/baldurs-gate-3-troubleshooting-failed-startup-issues/"><u>Baldur's Gate 3: Troubleshooting Failed Startup Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-remedies-for-fixing-the-non-responsive-steelseries-gg-engine-on-windows-systems/"><u>Effective Remedies for Fixing the Non-Responsive SteelSeries GG Engine on Windows Systems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/essential-error-remedies-top-6-chatgpt-blunders-explained/"><u>Essential Error Remedies: Top 6 ChatGPT Blunders Explained</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-the-best-10-zero-ad-and-zip-cost-mobile-games/"><u>Explore the Best 10 Zero Ad & Zip Cost Mobile Games</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guide-to-fixing-persona-nought-failure-to-loadlaunch-in-version-3-reloaded/"><u>Guide to Fixing Persona Nought Failure to Load/Launch in Version 3 Reloaded</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-fortnites-video-memory-crash-issue-solutions-inside/"><u>How to Fix Fortnite's Video Memory Crash Issue - Solutions Inside!</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-enhance-your-photography-journey-adding-music-and-filters-in-windows-10-photos/"><u>In 2024, Enhance Your Photography Journey Adding Music and Filters in Windows 10 Photos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-quick-and-easy-creating-beautifully-detailed-slow-motion-videos-in-mobile-apps/"><u>In 2024, Quick and Easy Creating Beautifully Detailed Slow Motion Videos in Mobile Apps</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-inner-peace-chatgpt-for-continual-reflection/"><u>Navigating Inner Peace: ChatGPT for Continual Reflection</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-relink-not-launching-error-in-granblue-fantasy-a-step-by-step-guide/"><u>Solving the 'Relink Not Launching' Error in Granblue Fantasy – A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-gatekeepers-to-hell-the-devil-and-heaven-michael-both-have-their-own-music-when-they-appear-on-stage-and-michael-is-portrayed-with-a-halo-over-his-head-459/"><u>The Gatekeepers to Hell (the Devil) and Heaven (Michael); Both Have Their Own Music when They Appear on Stage, and Michael Is Portrayed with a Halo over His Head Like an Angelic Figure</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-helldivers-2-a-guide-to-fix-steam-installation-issues/"><u>Troubleshooting Helldivers 2: A Guide to Fix Steam Installation Issues</u></a></li>
 </ul></div>
 

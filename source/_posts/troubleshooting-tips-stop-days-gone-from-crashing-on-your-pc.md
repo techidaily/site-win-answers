@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Stop 'Days Gone' From Crashing on Your PC"
-date: 2024-12-11T19:14:06.666Z
-updated: 2024-12-12T17:49:43.610Z
+date: 2024-12-15T21:38:04.049Z
+updated: 2024-12-20T17:32:31.357Z
 tags:
   - win11
   - win10
@@ -53,13 +53,13 @@ _Hearts of Iron IV (HOI4)_ keeps crashing on your PC? Don’t worry. After readi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-212.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)**  Type **dxdiag**  and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-222.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)**  Check your **Operating System, Processor, Memory** and **DirectX Version** .
 
@@ -70,6 +70,10 @@ _Hearts of Iron IV (HOI4)_ keeps crashing on your PC? Don’t worry. After readi
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-132.png)
 
  If your computer meets the minimum requirements to run _HOI4_ , read on and check the fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: **Restart your computer**
 
@@ -94,6 +98,10 @@ _Hearts of Iron IV (HOI4)_ keeps crashing on your PC? Don’t worry. After readi
 **3)**  Click the **Compatibility tab** and check the box next to **Run this program as an administrator** . Then, click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)**  Relaunch Steam and _Hearts of Irons 4_ .
 
@@ -144,19 +152,11 @@ There are two ways you can get the right graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-203.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-201.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -179,18 +179,18 @@ To fix it, try verifying the integrity of your game files on Steam:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-133.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)**  Click the **LOCAL FILES**  tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-134.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Wait for the scans to be complete, then relaunch_HOI4_ to see if your problem has been resolved. If not, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Change your PC power settings
 
@@ -209,22 +209,14 @@ To fix it, try verifying the integrity of your game files on Steam:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-721.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Select **High Performance** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-738.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Restart your computer and your game to see if this worked for you. If your problem persists, try the fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 8: **Check for Windows Updates**
 
@@ -243,7 +235,7 @@ To fix it, try verifying the integrity of your game files on Steam:
  You can hopefully play the game without crashes now. If not, check the fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 9: Reinstall your game and/or Steam
@@ -260,6 +252,10 @@ To fix it, try verifying the integrity of your game files on Steam:
 **2)**  Click **LIBRARY** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-321.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)**  Right-click **Hearts of Iron IV**  and select **Uninstall.**
 
@@ -281,9 +277,17 @@ Relaunch your game to test your issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-359.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)**  Right-click the **steamapps**  folder and select **Copy** . Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-360.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)**  On your keyboard, press the **Windows logo**  key and type **control** . Then, click **Control Panel** .
 
@@ -302,10 +306,6 @@ Relaunch your game to test your issue.
 **7)** Right-click the **Steam icon** and select **Open file location** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-365.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **8)**  Move the backup **steamapps**  folder you create before to your current directory location.
 
@@ -336,24 +336,15 @@ Relaunch your game to test your issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-building-your-dream-4k-video-editing-studio-a-diy-blueprint/"><u>[New] In 2024, Building Your Dream 4K Video Editing Studio A DIY Blueprint</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-simplified-strategies-for-google-voice-call-records/"><u>[New] In 2024, Simplified Strategies for Google Voice Call Records</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-maximizing-engagement-with-youtube-on-facebook-platforms-for-2024/"><u>[New] Maximizing Engagement with YouTube on Facebook Platforms for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-transforming-pictures-reversed-color-method/"><u>[New] Transforming Pictures Reversed Color Method</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/affordable-learning-how-students-can-save-with-microsoft-products/"><u>Affordable Learning: How Students Can Save with Microsoft Products</u></a></li>
-<li><a href="https://win-answers.techidaily.com/assassins-creed-rogue-wont-launch-top-fixes-for-players-tips-and-tricks/"><u>Assassin's Creed Rogue Won't Launch? Top Fixes for Players - Tips & Tricks</u></a></li>
-<li><a href="https://win-answers.techidaily.com/discord-overload-master-the-art-of-reducing-cpu-use-comprehensive-strategies/"><u>Discord Overload? Master the Art of Reducing CPU Use - Comprehensive Strategies</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/en-ligne-transformez-facilement-votre-fichier-audio-wav-en-format-video-webm-gratuitement-grace-a-movavi/"><u>En Ligne: Transformez Facilement Votre Fichier Audio WAV en Format Vidéo WebM Gratuitement Grâce À Movavi!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723013979048-fixes-for-stuttering-and-lags-in-half-life-alyx-on-pc-revealed/"><u>Fixes for Stuttering and Lags in Half Life: Alyx on PC Revealed!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-overcome-network-issues-encountered-in-new-world/"><u>How to Overcome Network Issues Encountered in New World</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-optimizing-youtube-content-for-instagram-platforms/"><u>In 2024, Optimizing YouTube Content for Instagram Platforms</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-the-art-of-genshin-launch-fixes-simple-techniques-inside/"><u>Mastering the Art of Genshin Launch Fixes – Simple Techniques Inside</u></a></li>
-<li><a href="https://facebook.techidaily.com/negative-consequences-unpacking-social-network-effects/"><u>Negative Consequences: Unpacking Social Network Effects</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-the-unjoinable-party-glitch-a-guide-to-overcoming-fortnite-error-84/"><u>Resolving the Unjoinable Party Glitch: A Guide to Overcoming Fortnite Error 84</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-zoom-cannot-start-video-discover-these-5-effective-remedies/"><u>Solving 'Zoom Cannot Start Video': Discover These 5 Effective Remedies</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-enhancing-image-clarity-in-call-of-duty-warzone-for-windows-gaming/"><u>Step-by-Step Guide: Enhancing Image Clarity in Call of Duty: Warzone for Windows Gaming</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-and-resolving-helldivers-not-found-msvcr110dll-problem/"><u>Troubleshooting and Resolving HellDivers Not Found MSVCR110.dll Problem</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-tech-secrets-at-toms-hardware-your-trusted-guide/"><u>Unveiling Tech Secrets at Tom's Hardware - Your Trusted Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-ultimate-airflow-comprehensive-insights-into-id-coolings-new-royalty-the-frozn-a720-and-a-review-guide/"><u>Unveiling Ultimate Airflow: Comprehensive Insights Into ID-Cooling's New Royalty – The FROZN A720 and A # Review Guide</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-top-10-innovative-ai-based-podcast-name-generators-for-2024/"><u>[New] Top 10 Innovative AI-Based Podcast Name Generators for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-polity-playlists-the-premier-gamified-elections/"><u>[Updated] In 2024, Polity Playlists The Premier Gamified Elections</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-xs-max-to-others-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone XS Max to others devices? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-p55-5g-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Itel P55 5G Bootloader Easily</u></a></li>
+<li><a href="https://win-answers.techidaily.com/modern-warfare-2-wont-open-follow-these-steps-to-resolve-the-issue/"><u>Modern Warfare ^2 Won't Open? Follow These Steps to Resolve the Issue</u></a></li>
+<li><a href="https://win-answers.techidaily.com/red-dead-redemption-2-initialization-glitches-how-we-triumphed-and-launch-tips/"><u>Red Dead Redemption 2 Initialization Glitches - How We Triumphed & Launch Tips!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/say-goodbye-to-frustration-swift-fixes-for-persistent-kicks-in-the-pants-with-titanfall-2/"><u>Say Goodbye to Frustration: Swift Fixes for Persistent Kicks in the Pants with Titanfall 2!</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-motorola-moto-g84-5g-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Motorola Moto G84 5G</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-and-solutions-for-shader-compilation-problems-in-black-ops-cold-war-game/"><u>Troubleshooting and Solutions for Shader Compilation Problems in Black Ops Cold War Game</u></a></li>
 </ul></div>
 

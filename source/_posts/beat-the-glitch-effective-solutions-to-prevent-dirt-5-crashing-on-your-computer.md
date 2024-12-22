@@ -1,7 +1,7 @@
 ---
 title: "Beat the Glitch: Effective Solutions to Prevent Dirt 5 Crashing on Your Computer"
-date: 2024-08-19T02:14:12.617Z
-updated: 2024-08-20T02:14:12.617Z
+date: 2024-12-18T17:50:34.975Z
+updated: 2024-12-20T19:33:02.018Z
 tags:
   - win11
   - win10
@@ -43,6 +43,10 @@ Rock Star has finally launched[Red Dead Online](https://www.rockstargames.com/re
 
 **RECOMMENDED**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you. The first three are some basic troubleshooting steps, you can skip these fixes if you’ve already tried them.
@@ -54,9 +58,6 @@ Rock Star has finally launched[Red Dead Online](https://www.rockstargames.com/re
 5. **[Stop overclocking your GPU](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Install Graphic Tools](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 1: Verify game integrity
 
  The first thing to do when Red Dead Online crashes (or any game crashes) is to verify the game integrity. Corrupt or incomplete game files can cause your game to crash. To see if this is the culprit, here’s how:
@@ -68,8 +69,9 @@ Rock Star has finally launched[Red Dead Online](https://www.rockstargames.com/re
 5. Select the**Local files** tab and click the**Verify integrity of game files…** button.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-on-Steam-1.png)
 6. Steam will verify the game’s files – this process may take several minutes.
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If you’re on Rockstar game launcher, you can verify integrity by:
@@ -84,9 +86,6 @@ If you’re on Rockstar game launcher, you can verify integrity by:
 
  In addition, another possible cause of Red Dead Online crashing is your**antivirus software** . Disabling some of these services won’t always work. You can temporarily uninstall the software or add Red Dead Online to its exclusions.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Run Red Dead Online as admin
 
  Red Dead Online crashing can be caused by a lack of admin rights. So it’s recommended to run Red Dead Online as administrator.
@@ -95,15 +94,17 @@ If you’re on Rockstar game launcher, you can verify integrity by:
 2. Click the **Compatibility** tab, tick both **Run this Program as an Administrator** and **Disable Fullscreen Optimizations** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/drivereasy-run-as-admin.jpg)
 3. Click**Apply** \>**OK** and now you can run this game as administrator permanently.
+
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now launch Red Dead Online and see if the game crashes again. If running it as an administrator did not work, you can try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Update your graphics driver
 
  Graphics card manufacturers keep releasing new drivers to fix known bugs and add new features. Outdated or corrupt graphics drivers can cause your game to crash. For game players, it’s important to keep your graphics drivers (and sometimes sound card drivers) to make sure your game runs smoothly.
@@ -164,18 +165,20 @@ OR
 2. Click **Add a feature** .  
 ![add graphics tools](https://images.drivereasy.com/wp-content/uploads/2021/01/add-a-feature-1.jpg)
 3. Choose **Graphics Tools** from the results list.  
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/add-a-graphics-tool.jpg)
 4. Launch your game again to see if you can get rid of game crashes now.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. If not, you can go to**Graphics Settings** \>**Advanced Graphics** , and make sure**Graphics API** is set to**DirectX 12** .  
 ![change Vulkan to DX12](https://images.drivereasy.com/wp-content/uploads/2021/01/DX12.png)
 6. If changing it to DX12 didn’t help, you can try reverting it back to Vulkan.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -193,8 +196,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -202,4 +203,26 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-idea-to-execution-an-essential-guide-to-youtube-shorts-template-design/"><u>[New] 2024 Approved From Idea to Execution An Essential Guide to YouTube Shorts Template Design</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-persuasive-films-that-hook-and-hold-audiences/"><u>[New] 2024 Approved Persuasive Films That Hook and Hold Audiences</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-maximize-your-online-video-with-these-best-free-webm-tools/"><u>[New] Maximize Your Online Video with These Best Free WebM Tools</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-becoming-an-unboxing-star-strategies-for-viral-engaging-tiktok-videos/"><u>[Updated] Becoming an Unboxing Star Strategies for Viral, Engaging TikTok Videos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-clear-capture-top-microphones-for-cams/"><u>2024 Approved Clear Capture Top Microphones for Cams</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-unleash-potential-in-digital-art-top-10-android-drawing-app-reviews/"><u>2024 Approved Unleash Potential in Digital Art Top 10 Android Drawing App Reviews</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/isops3ps5/"><u>効率的にゲームISOを楽しむためのPS3からPS5までのプロセスガイド</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easy-fixes-to-re-establish-your-connection-with-fallout-76-on-a-windows-machine/"><u>Easy Fixes to Re-Establish Your Connection with Fallout 76 on a Windows Machine</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/find-the-ultimate-airtag-wallet-in-2n4-in-depth-analysis-and-expert-ratings/"><u>Find the Ultimate AirTag Wallet in 2N4: In-Depth Analysis & Expert Ratings</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-dark-display-issue-in-halo-infinite-simple-strategies-that-work/"><u>Fixing the Dark Display Issue in Halo Infinite: Simple Strategies That Work</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-oppo-reno-11-5g-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Oppo Reno 11 5G FRP</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-green-screen-mastery-on-youtube-ideas-unleashed/"><u>In 2024, Green Screen Mastery on YouTube - Ideas Unleashed!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/no-sound-struggle-heres-how-to-restore-voices-in-lost-ark/"><u>No Sound Struggle? Here's How to Restore Voices in Lost Ark</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-fixes-for-ghost-recon-wildlands-breaking-point-no-more-crashes/"><u>Quick Fixes for Ghost Recon: Wildlands Breaking Point - No More Crashes!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-the-cold-war-glitch-solutions-for-game-freezing-issue-on-pc-and-console/"><u>Resolving the Cold War Glitch: Solutions for Game Freezing Issue on PC & Console</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-critical-development-bug-in-call-of-dutys-modern-warfare-and-warzone-games/"><u>Solving the Critical Development Bug in Call of Duty's Modern Warfare and Warzone Games</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshoot-like-a-pro-effective-strategies-to-fix-last-epoch-crashes-on-pcs-updated-advice-tech-enthusiasts/"><u>Troubleshoot Like a Pro! Effective Strategies to Fix 'Last Epoch Crashes' On PCs - Updated Advice Tech Enthusiasts</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-frame-rate-reductions-in-farming-simulator-22-for-windows-users/"><u>Troubleshooting Frame Rate Reductions in Farming Simulator 22 for Windows Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/winning-strategies-for-resolving-call-of-dutys-battle-royale-pc-lag-issues/"><u>Winning Strategies for Resolving Call of Duty's Battle Royale PC Lag Issues</u></a></li>
+</ul></div>
 

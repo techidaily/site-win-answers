@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Halo Infinity: Solutions for the Undetected Data Center Connection Failure"
-date: 2024-12-08T18:34:45.212Z
-updated: 2024-12-12T16:43:48.467Z
+date: 2024-12-17T20:38:59.600Z
+updated: 2024-12-20T20:13:19.802Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ Make sure your PC meets the minimum requirement of NieR Replicant.
 | Graphics  | AMD Radeon R9 270X or NVIDIA GeForce GTX 960 |
 | Storage   | 42 GB available space                        |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -43,6 +47,10 @@ Make sure your PC meets the minimum requirement of NieR Replicant.
 4. [Update your drivers](https://tools.techidaily.com/drivereasy/download/)
 5. [Disable your antivirus software](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Edit username
 
  It may sound ridiculous, but some players have reported that their usernames are solely composed of characters in your platform’s text language can fix the NieR Replicant crash at startup.
@@ -51,10 +59,6 @@ Make sure your PC meets the minimum requirement of NieR Replicant.
 
 If this fix doesn’t work, move to the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Run as administrator
 
  Lack of administrative rights can also be the reason for Nier Replicant crashing issue.
@@ -62,10 +66,6 @@ If this fix doesn’t work, move to the next fix.
 1. Right-click on Nier Replicant’s exe and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/properties-1.jpg)
 2. In the**Compatibility** tab, check**Run this program as administrator** and hit**OK > Apply** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 3. Relaunch the game to check.
@@ -81,12 +81,12 @@ If this fix doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify-nier-1.jpg)
 3. In the left pane, select**LOCAL FILES** , then click**Verify integrity of game files….**  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify-nier-2.jpg)
 4. When the process is completed, relaunch NieR Replicant.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If this fix doesn’t bring luck, take a look at the next one below.
 
@@ -119,6 +119,10 @@ There are mainly two ways you can update the graphics driver:
 
  If the latest drivers doesn’t solve the issue, move to the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Disable your antivirus software
 
  It’s possible that your anti-virus/Windows Security is interfering with NieR Replicant. When they block part of game files, there’ll be crashes. Therefore, disable real-time protection temporarily or make an exception for the game in the antivirus software would fix the issue.
@@ -129,15 +133,11 @@ Here’s how to disable Windows Security temporarily.
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Select**Windows Security** in the left pane, and click**Virus & threat protection** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-2-5.jpg)
 3. Click**Manage settings** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-3-4.jpg)
@@ -168,14 +168,16 @@ Relaunch NieR Replicant and check if it’s running properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-stepwise-mastery-of-green-screen-techniques-in-kinemaster/"><u>[New] Stepwise Mastery of Green Screen Techniques in Kinemaster</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-11-tips-for-facebook-video-marketing-to-drive-more-traffic-for-2024/"><u>[Updated] 11 Tips for Facebook Video Marketing to Drive More Traffic for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/diagnosing-and-repairing-stability-issues-in-mass-effect-legendary-edition-for-both-pc-and-xbox-gamers/"><u>Diagnosing and Repairing Stability Issues in Mass Effect Legendary Edition for Both PC and Xbox Gamers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-game-lag-expert-advice-on-borderlands-3-performance-boost/"><u>Fixing Game Lag: Expert Advice on Borderlands 3 Performance Boost</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/is-it-possible-to-sideload-third-party-apps-on-your-iphone-legally-without-unlocking-the-device-techradar/"><u>Is It Possible to Sideload Third-Party Apps on Your iPhone Legally Without Unlocking the Device? | TechRadar</u></a></li>
-<li><a href="https://win-answers.techidaily.com/starfield-fixes-implemented-say-goodbye-to-sudden-silences-and-hiccups-in-your-soundtrack/"><u>Starfield Fixes Implemented: Say Goodbye to Sudden Silences and Hiccups in Your Soundtrack</u></a></li>
-<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-tecno-camon-20-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Tecno Camon 20 Unresponsive Screen | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-troubleshooting-guide-fixing-biomutant-pc-game-crashes/"><u>Ultimate Troubleshooting Guide: Fixing Biomutant PC Game Crashes</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Motorola Moto G13? | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-how-to-go-live-on-facebook/"><u>[Updated] In 2024, How to Go Live on Facebook?</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-mastering-slug-lines-for-effective-storytelling/"><u>[Updated] In 2024, Mastering Slug Lines for Effective Storytelling</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-podcasters-guide-to-premium-recorders/"><u>[Updated] Podcaster's Guide to Premium Recorders</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-vllevaluation-insight-into-app-quality-for-2024/"><u>[Updated] VLLEvaluation Insight Into App Quality for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-diagnose-and-repair-error-code-0xc19001e1-in-windows-11-for-smooth-operation/"><u>How to Diagnose and Repair 'Error Code 0xC19001E1' In Windows 11 for Smooth Operation</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-resolve-steelseries-gg-engine-problems-in-windows-operating-system/"><u>How to Resolve SteelSeries GG Engine Problems in Windows Operating System</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-xs-max-by-drfone-ios/"><u>How to Unlock iPhone XS Max?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-the-fix-for-doom-eternal-continuous-crashes-proven-techniques-inside/"><u>Mastering the Fix for DOOM Eternal Continuous Crashes - Proven Techniques Inside</u></a></li>
+<li><a href="https://blog-min.techidaily.com/quest-meta-glasses-evolve-closely-resembling-apples-vision-pro/"><u>Quest Meta Glasses Evolve Closely Resembling Apple's Vision Pro</u></a></li>
+<li><a href="https://win-answers.techidaily.com/say-goodbye-to-lag-optimizing-your-play-of-dying-light/"><u>Say Goodbye to Lag: Optimizing Your Play of Dying Light</u></a></li>
+<li><a href="https://win-answers.techidaily.com/star-wars-swtor-launch-errors-top-resolution-techniques-covered/"><u>Star Wars SWTOR Launch Errors – Top Resolution Techniques Covered</u></a></li>
 </ul></div>
 

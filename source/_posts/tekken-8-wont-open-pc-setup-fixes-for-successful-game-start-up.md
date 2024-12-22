@@ -1,7 +1,7 @@
 ---
 title: Tekken 8 Won't Open? PC Setup Fixes for Successful Game Start-Up
-date: 2024-12-09T17:13:33.086Z
-updated: 2024-12-12T18:14:47.645Z
+date: 2024-12-19T16:13:10.138Z
+updated: 2024-12-20T19:30:53.545Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ Game crashing issues can occur for a variety of reasons, such as a faulty graphi
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixes to try
 
@@ -73,21 +69,25 @@ Follow the instructions below to view your computer hardware information:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_10-47-36.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Check your**Display Memory** here.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_10-49-07.jpg)
 
  Make sure your computer meets the requirements, then read on and try the fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Restart your computer
 
  If you’re running multiple programs at the same time, hogging your system’s resources, that could cause your game to crash. In this case, try restarting your computer to end unwanted programs completely, then relaunch your game.
 
 If your problem still exists after the reboot, check Fix 3, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -120,7 +120,7 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-04-42.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)**  Click **Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
@@ -130,10 +130,6 @@ OR
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Verify the integrity of your game files
 
@@ -149,16 +145,12 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-06-02.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)** Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-06-07.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **5)**  Relaunch GMod.
@@ -182,10 +174,6 @@ OR
 **4)**  Click **SET LAUNCH OPTIONS.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-06-07-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **5)**  Remove any launch options currently shown.
 
@@ -214,10 +202,14 @@ Follow the instructions below to stop the automatic downloads:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-16-54.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Relaunch your game to check if this has resolved your issue. If not, try the fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Reinstall Steam
 
@@ -228,24 +220,28 @@ Follow the instructions below to stop the automatic downloads:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-17-46.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-17-53.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click**Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-17-57.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Under **View by** , select **Category** , then select **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-18-03.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)**  Right-click **Steam** , and then click **Uninstall** .
 
@@ -264,6 +260,10 @@ Follow the instructions below to stop the automatic downloads:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-18-37.jpg)
 
 **10)**  Relaunch Steam and your game.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 8:**Reseat PC components**
 
@@ -332,21 +332,22 @@ Follow the instructions below to stop the automatic downloads:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-bring-sound-effects-into-premiere-pro/"><u>[New] Bring Sound Effects Into Premiere Pro</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-decelerating-action-the-ultimate-guide-to-ig-reels-slow-motion-for-2024/"><u>[New] Decelerating Action The Ultimate Guide to IG Reels’ Slow Motion for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-optimizing-tiktok-video-batch-downloads/"><u>[New] In 2024, Optimizing TikTok Video Batch Downloads</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-top-15-youtube-recording-software-for-gamers/"><u>[New] Top 15 YouTube Recording Software for Gamers</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/1-easy-guide-importing-your-gopro-footage-to-ios-devices-a-step-by-step-process/"><u>1. Easy Guide: Importing Your GoPro Footage to iOS Devices - A Step-by-Step Process</u></a></li>
-<li><a href="https://win-answers.techidaily.com/achieve-seamless-gameplay-in-the-division-2-addressing-low-fps-and-stutter-issues-for-the-new-year/"><u>Achieve Seamless Gameplay in The Division 2 - Addressing LOW FPS & Stutter Issues for the New Year</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-for-coding-github-copilots-edge-over-chatgpt/"><u>AI for Coding: GitHub Copilot's Edge Over ChatGPT?</u></a></li>
-<li><a href="https://extra-information.techidaily.com/an-in-depth-look-at-movavis-video-edition-plus-for-2e24/"><u>An In-Depth Look at Movavi's Video Edition Plus for 2E24</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effortless-techniques-for-correcting-the-steam-corrupted-disk-issue/"><u>Effortless Techniques for Correcting the Steam Corrupted Disk Issue</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-stop-recurring-blender-program-failure-and-stability-issues-on-your-computer/"><u>How To Stop Recurring Blender Program Failure and Stability Issues On Your Computer</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-exploring-ai-face-generators-wondershare-virbo-glossary/"><u>New 2024 Approved Exploring AI Face Generators | Wondershare Virbo Glossary</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/overcome-the-hurdle-effective-solutions-to-prevent-subnautica-below-zero-pc-game-crashes/"><u>Overcome the Hurdle - Effective Solutions to Prevent Subnautica: Below Zero PC Game Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/pc-gaming-problems-solved-how-to-successfully-start-valorant-amidst-2024-glitches/"><u>PC Gaming Problems Solved: How to Successfully Start Valorant Amidst 2024 Glitches</u></a></li>
-<li><a href="https://win-answers.techidaily.com/speeding-up-ubisoft-connect-transfers-a-step-by-step-guide/"><u>Speeding Up Ubisoft Connect Transfers: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/steam-troubleshooting-unlocking-and-accessing-blocked-game-files/"><u>Steam Troubleshooting: Unlocking and Accessing Blocked Game Files</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-fixing-total-war-warhammer-iii-game-crashes-on-windows/"><u>Troubleshooting Tips: Fixing 'Total War: Warhammer III' Game Crashes on Windows</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-snap-happy-with-iphone-burst-mode-for-2024/"><u>[New] Snap-Happy with iPhone Burst Mode for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-your-guide-to-conquering-video-meetings-with-zoom-and-win10-for-2024/"><u>[New] Your Guide to Conquering Video Meetings with Zoom & WIN10 for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-perfect-your-youtube-experience-add-timestamps-efficiently/"><u>[Updated] 2024 Approved Perfect Your YouTube Experience Add Timestamps Efficiently</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-elevate-engagement-amplify-audience-youtube-marketing-for-2024/"><u>[Updated] Elevate Engagement, Amplify Audience (YouTube Marketing) for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhancing-gameplay-fixes-for-common-freezing-problems-in-rocket-league/"><u>Enhancing Gameplay - Fixes for Common Freezing Problems in Rocket League</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-your-state-of-decay-2-crashes-ultimate-troubleshooting-guide/"><u>Fix Your State of Decay 2 Crashes : Ultimate Troubleshooting Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/getting-to-the-bottom-of-borderlands-3-gameplay-hiccups-and-fixes-for-smooth-playing-experience/"><u>Getting to the Bottom of Borderlands #3 Gameplay Hiccups & Fixes for Smooth Playing Experience</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-unlocking-image-clarity-techniques-for-online-cropping/"><u>In 2024, Unlocking Image Clarity Techniques for Online Cropping</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/mastering-the-art-of-adding-external-subtitles-srt-to-your-mp4-videos-easily-and-quickly/"><u>Mastering the Art of Adding External Subtitles (SRT) to Your MP4 Videos Easily and Quickly!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-initial-boot-failure-in-elden-ring-a-players-handbook-for-the-dark-screen-error/"><u>Overcoming Initial Boot Failure in Elden Ring: A Player's Handbook for the Dark Screen Error</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-utorrent-unresponsive-problems-with-these-7-reliable-methods/"><u>Solving 'UTorrent Unresponsive' Problems with These 7 Reliable Methods</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-getting-tekken-8-running-on-your-pc-again/"><u>Step-by-Step Guide: Getting Tekken 8 Running on Your PC Again</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-3-methods-to-remove-ebooks-from-your-icloud-library-freeing-up-space/"><u>Top 3 Methods to Remove eBooks From Your iCloud Library, Freeing Up Space</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-fixing-the-crash-error-in-mount-and-blade-bannerlord-game/"><u>Troubleshooting Guide - Fixing the Crash Error in Mount & Blade ˈBannerlord Game</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-unsuccessful-csgo-startup/"><u>Troubleshooting Steps for Unsuccessful CS:GO Startup</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/unauthorized-activation-of-onedrive-sync-with-windows-11-revealed-what-you-need-to-know/"><u>Unauthorized Activation of OneDrive Sync with Windows 11 Revealed: What You Need to Know</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-honor-90-lite-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Honor 90 Lite</u></a></li>
 </ul></div>
 

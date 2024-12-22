@@ -1,7 +1,7 @@
 ---
 title: Enjoy Uninterrupted Fun with the Latest Secured Build of FNAF – PC Edition Fixed!
-date: 2024-12-11T16:40:09.079Z
-updated: 2024-12-12T19:21:13.767Z
+date: 2024-12-18T16:26:33.757Z
+updated: 2024-12-20T18:05:26.112Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/6612d7a6b7e8b44ce845a24c9c71af5e69ea9f37b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Here are 5 fixes that have helped many Kodi users get their Kodi working again. You don’t have to try them all. Just work your way down the list until you find the one that works for you.
@@ -38,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/6612d7a6b7e8b44ce845a24c9c71af5e69ea9f37b
 4. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
 5. [**Reinstall Kodi**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Update Kodi to the latest version
 
  If Kodi keeps crashing, it may be caused by software bugs. You should update Kodi to the latest version and see if this is causing your problem.
@@ -47,12 +47,16 @@ thumbnail: https://thmb.techidaily.com/6612d7a6b7e8b44ce845a24c9c71af5e69ea9f37b
 2. Open the downloaded file and follow the on-screen instructions to install Kodi.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Launch Kodi and check if it now works properly. If not, try Fix 2, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Remove recently installed addons
 
@@ -64,19 +68,15 @@ thumbnail: https://thmb.techidaily.com/6612d7a6b7e8b44ce845a24c9c71af5e69ea9f37b
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc048ab00113.jpg)
 4. Double-click on the**addon\_data** folder, and select the add-on directory that you think might be causing Kodi to crash, and press**Del** to delete it.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc048c0c90e2.jpg)  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you’re not sure which one is the culprit, you can go back to the **userdata** folder to open the**Database** folder in it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc048d401e0e.jpg)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc048f70a8a4.jpg)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  then delete the **Addons27** file.
 5. Relaunch Kodi and check if your problem is resolved. If not, try the next Fix.
@@ -94,18 +94,22 @@ thumbnail: https://thmb.techidaily.com/6612d7a6b7e8b44ce845a24c9c71af5e69ea9f37b
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7aa6b255d47.jpg)
 3. In the bottom left corner, click the gear icon**three times** to change the mode from**Standard** to**Expert** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7aa72e13b88.jpg)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7aa7a1d4a61.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Highlight the **Video** tab, then on the right side, in the **Processing** section, turn off **Allow hardware acceleration -DXVA2** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7aa89e02e8f.jpg)
 5. Restart Kodi and check if Kodi now works. If not, try Fix 4, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -124,10 +128,6 @@ Fortunately, this is also one of the easiest problems to fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b94e4d9d8.jpg)
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This require the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee. )  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b95f34603.jpg)
 4. Restart your computer and check if Kodi now works properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Fix 5, below.
 
@@ -143,7 +143,7 @@ You can also try doing a clean install of Kodi:
     and **R**  key simultaneously to open the Run dialog, then type **control**  in the box, and click **OK**  .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
    2. In Control Panel, under**Programs** , click **Uninstall a program** .  
@@ -158,12 +158,12 @@ You can also try doing a clean install of Kodi:
    ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc04983b826b.jpg)  
    3. Select the**Kodi** folder, and press**Shift+Del** to delete the folder permanently.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
    ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc049984724f.jpg)
 3. **Restart** your PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. **Download** Kodi v17.6 “Krypton” from **[here](https://kodi.tv/download)**  .
 5. Open the downloaded file and follow the on-screen instructions to install Kodi.
@@ -192,20 +192,22 @@ That’s it.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-engagement-mastery-how-to-craft-instagrams-best-puzzles/"><u>[New] 2024 Approved Engagement Mastery How to Craft Instagram's Best Puzzles</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-showcasing-contributions-and-thought-leadership-for-2024/"><u>[New] Showcasing Contributions & Thought Leadership for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-the-art-of-rapid-navigation-fast-forwarding-made-simple-for-tiktokers-for-2024/"><u>[New] The Art of Rapid Navigation Fast Forwarding Made Simple for TikTokers for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-snickerscreen-composer/"><u>2024 Approved SnickerScreen Composer</u></a></li>
-<li><a href="https://win-answers.techidaily.com/discord-camera-malfunction-effective-solutions-and-troubleshooting-techniques/"><u>Discord Camera Malfunction: Effective Solutions & Troubleshooting Techniques</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effortless-ways-to-eliminate-stuttering-in-counter-strike-global-offensive/"><u>Effortless Ways to Eliminate Stuttering in Counter-Strike: Global Offensive</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722988010055-gta-5-freezing-problems-discover-effective-fixes-and-get-back-to-high-octane-action/"><u>GTA 5 Freezing Problems? Discover Effective Fixes and Get Back to High-Octane Action</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hassle-free-guide-to-finding-and-installing-lenovo-t430-drivers-for-pcs-with-windows-os/"><u>Hassle-Free Guide to Finding and Installing Lenovo T430 Drivers for PCs with Windows OS</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-it-nokia-105-classic-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Nokia 105 Classic Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-c65-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Poco C65 Phone without PIN</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-in-depth-audio-settings-in-windows-10/"><u>In 2024, In-Depth Audio Settings in Windows 10</u></a></li>
-<li><a href="https://win-answers.techidaily.com/maximize-fluidity-of-play-tips-to-combat-lag-and-boost-fps-on-watch-dogs-legion/"><u>Maximize Fluidity of Play - Tips to Combat Lag and Boost FPS on Watch Dogs: Legion</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-solutions-to-fix-league-of-legends-wont-open-issue/"><u>Step-by-Step Solutions to Fix League of Legends Won't Open Issue</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-audio-issues-how-to-get-your-minecraft-sounds-working-again-on-windowspc/"><u>Troubleshooting Audio Issues: How to Get Your Minecraft Sounds Working Again on Windows/PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/winning-the-fight-against-fortnites-frequent-shutdowns-on-desktops-expert-tips-for-2/"><u>Winning the Fight Against Fortnite's Frequent Shutdowns on Desktops: Expert Tips for 2</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-creative-workflows-made-easy-the-top-10-mac-screen-recorders/"><u>[New] 2024 Approved Creative Workflows Made Easy The Top 10 Mac Screen Recorders</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-increase-attendance-and-engagement-with-strategic-zoom-recordings-for-2024/"><u>[New] Increase Attendance and Engagement with Strategic Zoom Recordings for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-optimize-your-online-presence-incorporating-video-filters-in-zoom/"><u>2024 Approved Optimize Your Online Presence Incorporating Video Filters in Zoom</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/best-pricing-in-the-cloud-unveil-your-options-here-for-2024/"><u>Best Pricing in the Cloud? Unveil Your Options Here for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-system-errors-a-complete-solution-for-mass-effect-legendary-edition-on-playstation-xbox-and-pc/"><u>Fixing System Errors: A Complete Solution for Mass Effect Legendary Edition on PlayStation, Xbox & PC</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-eliminating-frame-discrepancies-in-obs-recordings/"><u>In 2024, Eliminating Frame Discrepancies in OBS Recordings</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-poco-c65-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Poco C65? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-the-fix-a-comprehensive-guide-to-restoring-your-steelseries-ggs-interactive-capabilities-in-windows-environments/"><u>Master the Fix: A Comprehensive Guide to Restoring Your SteelSeries GG's Interactive Capabilities in Windows Environments</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-outriders-expert-insights-on-eliminating-unwanted-lag-and-buffer-times/"><u>Mastering [Outriders]: Expert Insights on Eliminating Unwanted Lag and Buffer Times</u></a></li>
+<li><a href="https://games-able.techidaily.com/pc-gamers-dream-list-top-games-in-google-play-game-beta/"><u>PC Gamers’ Dream List - Top Games in Google Play Game Beta</u></a></li>
+<li><a href="https://win-answers.techidaily.com/say-goodbye-to-crashes-expert-fixes-for-stable-fifa-19-gameplay-on-desktop/"><u>Say Goodbye to Crashes: Expert Fixes for Stable FIFA 19 Gameplay on Desktop</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-updating-the-acer-speaker-driver-in-no-time/"><u>Step-by-Step Guide: Updating the Acer Speaker Driver in No Time</u></a></li>
+<li><a href="https://win-answers.techidaily.com/street-fighter-6-continuous-play-on-pc-made-easy-6-crash-preventing-tips/"><u>Street Fighter 6 Continuous Play on PC Made Easy - 6 Crash-Preventing Tips</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-verdict-on-gaomon-pd1560-pen-display-for-digital-illustrators/"><u>The Ultimate Verdict on Gaomon PD1560 Pen Display for Digital Illustrators</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-how-to-fix-cod-black-ops-cold-war-failure-to-start-on-pc/"><u>Troubleshooting Guide: How to Fix Cod: Black Ops Cold War Failure to Start on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-armored-core-6-pc-crashes/"><u>Troubleshooting Steps for Armored Core 6 PC Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-resolving-palworld-session-search-issues/"><u>Ultimate Guide: Resolving Palworld Session Search Issues</u></a></li>
 </ul></div>
 

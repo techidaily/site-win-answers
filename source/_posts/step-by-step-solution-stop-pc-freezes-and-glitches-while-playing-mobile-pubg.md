@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Solution: Stop PC Freezes and Glitches While Playing Mobile PUBG"
-date: 2024-12-09T17:34:01.522Z
-updated: 2024-12-12T17:06:55.528Z
+date: 2024-12-14T16:45:34.000Z
+updated: 2024-12-20T20:40:21.391Z
 tags:
   - win11
   - win10
@@ -26,10 +26,6 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Minimum system requirements for Fortnite
 
 | **Operating System** | **Windows 10/8/7**  |
@@ -41,10 +37,6 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 | **HDD Space**        | **16 GB**           |
 | **DirectX**          | **DirectX 11.0**    |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Recommended system requirements for Fortnite
 
 | **Operating System** | **Windows 10/8/7**                                           |
@@ -55,10 +47,6 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 | **Processor**        | **Core i5 2.8 Ghz**                                          |
 | **HDD Space**        | **20 GB**                                                    |
 | **DirectX**          | **DirectX 11.0**                                             |
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -79,6 +67,10 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2: Use compatibility mode
 
  Run Fortnite in compatibility mode is a way to solve many problems. This Fortnite black screen error may be caused by the incompatibility with the system. So change the compatibility mode may help you solve the issue.
@@ -93,7 +85,7 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method: Update your graphics card
@@ -128,13 +120,21 @@ OR
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Reboot your computer and run Fortnite to check the black screen issue will appear or not.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 4: Use your integrated graphics card
 
@@ -156,10 +156,6 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/display1.jpg)
 4. Reboot Fortnite and check whether this problem is resolved.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 6: Unblock the game from Windows Firewall
 
  It is possible that the Fortnite black screen issue is caused by Windows Firewall block. If the Windows Firewall blocks some features of Fortnite, this problem may appear and ruin your game experience. You can unblock Fortnite in Windows Firewall to solve the problem.
@@ -167,6 +163,10 @@ OR
 1. Type “firewall” in the search bar and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/firewall0.jpg)
 2. Click**Allow an app through firewall** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/firewall.jpg)
 3. Find Fortnite and check whether it has been blocked or not.
@@ -198,17 +198,17 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-discovering-easy-music-arrangement-in-magix-maker/"><u>[New] Discovering Easy Music Arrangement in Magix Maker</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-mastering-metaverse-access-top-8-vr-wearables/"><u>[New] In 2024, Mastering Metaverse Access Top 8 VR Wearables</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-spoofing-success-the-path-to-parody-proficiency/"><u>[New] In 2024, Spoofing Success The Path to Parody Proficiency</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-vita-experience-exhaustive-review-of-its-video-editor-2024/"><u>[Updated] The Ultimate Vita Experience Exhaustive Review of Its Video Editor, 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-prime-unlimited-space-service-catalogue/"><u>2024 Approved Prime Unlimited Space Service Catalogue</u></a></li>
-<li><a href="https://win-answers.techidaily.com/guide-overcoming-freezing-and-crashes-in-persona-4-golden-for-smooth-play/"><u>Guide: Overcoming Freezing and Crashes in Persona 4 Golden for Smooth Play</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-nokia-g42-5g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Nokia G42 5G in Minutes | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/master-tips-eliminating-delays-and-minimizing-ping-in-cs-2-for-seamless-play/"><u>Master Tips: Eliminating Delays and Minimizing Ping in CS 2 for Seamless Play</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-roblox-wont-start-errors-a-comprehensive-guide/"><u>Resolving Roblox Won't Start Errors : A Comprehensive Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-why-is-the-mass-effect-legendary-edition-failing-to-start/"><u>Troubleshooting: Why Is the Mass Effect Legendary Edition Failing to Start?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/upcoming-iphone-16-leak-new-features-include-advanced-spatial-recording-and-slimmer-edges-across-models-insights-from-zdnet/"><u>Upcoming iPhone 16 Leak: New Features Include Advanced Spatial Recording & Slimmer Edges Across Models - Insights From ZDNet</u></a></li>
-<li><a href="https://win-answers.techidaily.com/winning-the-battle-against-hp-security-suite-uninstall-error-1325-on-windows-7-a-comprehensive-solution/"><u>Winning the Battle Against HP Security Suite Uninstall Error 1325 on Windows 7 – A Comprehensive Solution</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-snapshot-styles-a-guide-to-using-old-school-vhs-in-modern-editing/"><u>[New] In 2024, Snapshot Styles A Guide to Using Old-School VHS in Modern Editing</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-stream-into-the-now-enjoying-real-time-broadcasts-with-roku-and-facebook-for-2024/"><u>[New] Stream Into The Now Enjoying Real-Time Broadcasts with Roku & Facebook for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/alan-wake-sequel-stuck-fixing-release-issues/"><u>Alan Wake Sequel Stuck: Fixing Release Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/diagnosing-the-issue-compatibility-and-fixes-for-pc-gamers-struggling-with-robocop-rogue-city/"><u>Diagnosing the Issue: Compatibility and Fixes for PC Gamers Struggling with RoboCop: Rogue City</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-overcome-the-nier-replicant-re-master-failure-to-launch-problems/"><u>How to Overcome the NieR Replicant Re-Master Failure to Launch Problems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-use-airplay-technology-to-project-your-mac-display-onto-any-tv/"><u>How to Use AirPlay Technology to Project Your Mac Display Onto Any TV</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/ideal-platforms-for-procuring-youtube-ringtone-files-for-2024/"><u>Ideal Platforms for Procuring YouTube Ringtone Files for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-best-oppo-frp-bypass-guide-by-drfone-android/"><u>In 2024, Best Oppo FRP Bypass Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/installation-rapide-et-facile-de-la-version-pro-convertisseur-video-mac-x-hd-sur-votre-ordinateur-sous-windows-achat-direct/"><u>Installation Rapide Et Facile De La Version Pro Convertisseur Vidéo Mac X HD Sur Votre Ordinateur Sous Windows - Achat Direct</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-windows-spotlight-failures-a-comprehensive-guide-for-windows-11-users/"><u>Overcoming Windows Spotlight Failures: A Comprehensive Guide for Windows 11 Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/persona-nigma-ultimate-guide-to-solving-the-black-screen-glitch-in-persona-5-strikers/"><u>Persona Nigma: Ultimate Guide to Solving the Black Screen Glitch in Persona 5 Strikers</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-motorola-moto-g73-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Motorola Moto G73 5G | Dr.fone</u></a></li>
 </ul></div>
 

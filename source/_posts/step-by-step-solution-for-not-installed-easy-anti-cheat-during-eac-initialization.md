@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solution for 'Not Installed' Easy Anti-Cheat During EAC Initialization
-date: 2024-12-11T17:16:53.532Z
-updated: 2024-12-12T17:22:13.581Z
+date: 2024-12-18T16:59:31.806Z
+updated: 2024-12-20T16:25:47.164Z
 tags:
   - win11
   - win10
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/e73bb44e853b64ea13a3dc6d94705befdc354ca8d
 6. **[Bonus tips: Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Restart your computer
@@ -53,12 +53,16 @@ If Fortnite still fails, don’t worry. Try the fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-02_12-03-47.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)**  Type**C:\\Program Files\\Epic Games\\Fortnite\\FortniteGame** in the address bar and press **Enter**  on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-02_12-03-56.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Highlight the**Binaries folder** and press the**Del** key on your keyboard.
@@ -70,7 +74,7 @@ If Fortnite still fails, don’t worry. Try the fix, below.
 If you still can’t open Fortnite, move on and try the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Verify your game files
@@ -84,7 +88,7 @@ If you still can’t open Fortnite, move on and try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-02_12-04-18.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Click**VERIFY** .
@@ -105,13 +109,13 @@ If you still can’t open Fortnite, move on and try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-02_12-04-42.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Right-click **EasyAntiCheat\_Setup.exe** , and then select **Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-02_12-05-01.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)**  Click **Repair Service** .
 
@@ -120,10 +124,6 @@ If you still can’t open Fortnite, move on and try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-02_12-05-17.jpg)
 
  After the process is complete, relaunch your game to check if your problem has been resolved. If not, read on and try the fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Reinstall Fortnite
 
@@ -135,13 +135,13 @@ If you still can’t open Fortnite, move on and try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-02_12-05-42.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**  Click **UNINSTALL.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-02_12-05-50.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4) Restart**  your computer and run the **Epic Games Launcher**  again to download and install Fortnite again.
 
@@ -160,6 +160,10 @@ If you still can’t open Fortnite, move on and try the next fix.
 OR
 
 **[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/solved-fortnite-entry-point-not-found-2019-tips/#e2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Option 1 – Download and install the driver manually**
 
@@ -185,10 +189,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-02_12-06-30.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  **If you like this post, use our creator code DRIVEREASY in the item shop to support us through [Epic’s Support A Creator](https://www.epicgames.com/affiliate/en-US/overview) .**
@@ -213,24 +213,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-top-5-budget-friendly-windows-screen-recorders-2023-edition/"><u>[New] 2024 Approved Top 5 Budget-Friendly Windows Screen Recorders – 2023 Edition</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-ps1-gaming-delighted-top-5-emulators/"><u>[New] PS1 Gaming Delighted? Top 5 Emulators</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-best-companionship-through-metaverse-adventures/"><u>2024 Approved Best Companionship Through Metaverse Adventures</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-google-pixel-8-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Google Pixel 8 | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/comprehensive-solutions-to-the-ntdlldll-crash-dilemma-on-modern-operating-systems-windows-11-and-10-tutorial/"><u>Comprehensive Solutions to the ntdll.dll Crash Dilemma on Modern Operating Systems: Windows 11 and 10 Tutorial</u></a></li>
-<li><a href="https://win-answers.techidaily.com/continuous-youtube-audios-intermittent-videos-fix-playback-hiccups-on-chrome-and-firefox/"><u>Continuous YouTube Audios, Intermittent Videos? Fix Playback Hiccups on Chrome and Firefox!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/cyberpunk-2077-graphics-optimization-unleashing-your-gpu-power-on-windows-10/"><u>Cyberpunk 2077 Graphics Optimization: Unleashing Your GPU Power on Windows 10</u></a></li>
-<li><a href="https://win-answers.techidaily.com/dragon-age-origins-crashing-woes-overcome-game-malfunctions-in-windows-10-easily/"><u>Dragon Age: Origins Crashing Woes? Overcome Game Malfunctions in Windows 10 Easily</u></a></li>
-<li><a href="https://fox-that.techidaily.com/elevate-your-iphones-battery-life-with-this-6-step-optimization-routine/"><u>Elevate Your iPhone’s Battery Life with This 6-Step Optimization Routine</u></a></li>
-<li><a href="https://win-answers.techidaily.com/enhancing-your-gameplay-experience-resolving-fps-drops-in-outriders-efficiently/"><u>Enhancing Your Gameplay Experience: Resolving FPS Drops in Outriders Efficiently</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-lock-apps-on-vivo-x100-pro-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Vivo X100 Pro to Protect Your Individual Information</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-a-guide-to-conveniently-documenting-your-gaming-victories/"><u>In 2024, A Guide to Conveniently Documenting Your Gaming Victories</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-integrating-real-time-collaboration-slack-and-filmoras-meeting-guide/"><u>In 2024, Integrating Real-Time Collaboration Slack & Filmora's Meeting Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/launch-troubles-behind-you-rainbow-six-siege-now-working-perfectly/"><u>Launch Troubles Behind You: Rainbow Six Siege Now Working Perfectly</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-video-rendering-in-mozilla-firefox-quick-tips-and-tricks/"><u>Mastering Video Rendering in Mozilla Firefox: Quick Tips & Tricks</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/nvidia-driver-update-tutorial-compatible-with-microsofts-surface-book-series/"><u>NVIDIA Driver Update Tutorial – Compatible with Microsoft's Surface Book Series</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-complete-no-more-freezes-in-fallout-4-on-pc/"><u>Troubleshooting Complete: No More Freezes in Fallout 4 on PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-slowdown-issues-in-avatar-frontiers-of-pandora-a-step-by-step-guide/"><u>Troubleshooting Slowdown Issues in 'Avatar: Frontiers of Pandora' - A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unleashing-fun-discover-the-top-6-must-play-super-mario-rpgs-for-desktop-gaming/"><u>Unleashing Fun: Discover the Top 6 Must-Play Super Mario RPGs for Desktop Gaming</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-amplify-youtube-visibility-crafting-effective-descriptions-and-tags/"><u>[New] 2024 Approved Amplify YouTube Visibility Crafting Effective Descriptions & Tags</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-internet-jesters-arsenal-for-2024/"><u>[New] Internet Jester's Arsenal for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-next-gen-peripherals-exploring-virtual-reality-accessories/"><u>[Updated] In 2024, Next-Gen Peripherals Exploring Virtual Reality Accessories</u></a></li>
+<li><a href="https://win-answers.techidaily.com/banish-lag-expert-tips-for-smooth-play-in-outriders-on-your-computer/"><u>Banish Lag: Expert Tips for Smooth Play in Outriders on Your Computer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/error-0xc19001e1-in-windows-11-explained-diagnosis-and-repair-techniques/"><u>Error 0xC19001E1 in Windows 11 Explained: Diagnosis and Repair Techniques</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-on-reducing-dota-2-lag-for-a-seamless-experience/"><u>Expert Advice on Reducing Dota 2 Lag for a Seamless Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-content-file-locked-error-on-steam-step-by-step-guide/"><u>Fixing the 'Content File Locked' Error on Steam: Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-overcome-maplestory-initialization-hiccups-game-is-flawlessly-operational-now/"><u>How to Overcome Maplestory Initialization Hiccups - Game Is Flawlessly Operational Now</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oneplus-nord-n30-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from OnePlus Nord N30 5G to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On OnePlus 12R? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/nba-2k24-troubleshooting-overcoming-error-code-727e66ac-expert-tips-and-solutions/"><u>NBA 2K24 Troubleshooting: Overcoming Error Code 727E66ac - Expert Tips & Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-resolve-system-call-problem-in-windows/"><u>Steps to Resolve 'System Call' Problem in Windows</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-10-techniques-for-integrating-chatgpt-into-your-visual-studio-code-workflow/"><u>Top 10 Techniques for Integrating ChatGPT Into Your Visual Studio Code Workflow</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-resolving-the-ultra-black-screen-issue-in-rainbow-six-siege-on-pc/"><u>Ultimate Guide: Resolving the Ultra-Black Screen Issue in Rainbow Six Siege on PC</u></a></li>
 </ul></div>
 

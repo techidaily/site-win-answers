@@ -1,7 +1,7 @@
 ---
 title: "Get Back Into the Action: Essential Fixes for Starting Fallout 3"
-date: 2024-12-05T17:11:46.363Z
-updated: 2024-12-12T18:55:51.187Z
+date: 2024-12-13T20:21:33.102Z
+updated: 2024-12-20T18:13:44.058Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/c097d4cbd7f38690c40368b7c00be742b01b3a584
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes…
@@ -73,20 +73,24 @@ If rebooting your PC doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ie-internet-options.png)
 3. Switch to the**Advanced** tab, then click**Reset** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/reset-1.png)
 4. Check the option of**Delete personal settings** , then click**Reset** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/delete-personal-settings.png)
 5. Restart your PC to let the changes take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now you can continue to use the browser of your choice and test the issue. If this doesn’t solve your problem, try the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 4: Check your proxy settings
@@ -102,14 +106,10 @@ If rebooting your PC doesn’t solve your problem, try the next fix.
 2. Make sure that**User setup script** and**Use a proxy server** are set to**off** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/proxy-settings.png)  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  For Windows 11 users, your screen will look slightly different.  
 
@@ -162,7 +162,7 @@ If this fix doesn’t help, there’s one more fix you can try.
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) For example, I want to update my graphics and network adapter driver here. Click the **Update**  button next to the flagged drivers to automatically download the correct version of them. Then you can manually install them (you can do this with the FREE version).
@@ -192,21 +192,17 @@ If this fix doesn’t help, there’s one more fix you can try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-fb-melody-cache-legally/"><u>[New] FB Melody Cache (Legally)</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-screensnap-sage-mastering-captures-technology-for-2024/"><u>[New] ScreenSnap Sage Mastering Captures Technology for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-undetectable-volume-variations-in-garageband-artistry-for-2024/"><u>[Updated] Undetectable Volume Variations in Garageband Artistry for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-introduction-to-plot-and-character-dynamics/"><u>2024 Approved Introduction to Plot and Character Dynamics</u></a></li>
-<li><a href="https://win-answers.techidaily.com/beat-the-bugs-expert-tips-and-tricks-to-resolve-assassins-creed-valhalla-crashes-on-windows-machines/"><u>Beat the Bugs: Expert Tips and Tricks to Resolve Assassin's Creed Valhalla Crashes on Windows Machines</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-and-online-safety-what-are-the-top-6-security-risks-to-watch-out-for/"><u>ChatGPT and Online Safety - What Are the Top 6 Security Risks to Watch Out For?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/chivalry-2-error-resolved-smooth-gaming-experience-restored/"><u>Chivalry 2 Error Resolved – Smooth Gaming Experience Restored</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-solutions-for-overcoming-error-code-421-in-genshin-impact/"><u>Effective Solutions for Overcoming Error Code 42지오1 in Genshin Impact</u></a></li>
-<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-honor-90-gt-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Honor 90 GT Phone | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-nvidia-geforce-experience-error-code-0x0003/"><u>How to Fix Nvidia GeForce Experience Error Code 0X0003</u></a></li>
-<li><a href="https://driver-install.techidaily.com/instant-setup-toolkit-epson-et-2650-printer-drivers/"><u>Instant Setup Toolkit: Epson ET-2650 Printer Drivers</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-htc-u23-pro-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on HTC U23 Pro – What Can I Do? | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolving-devastating-crashes-how-to-fix-fatal-errors-in-call-of-duty-modern-warfare-and-warzone/"><u>Resolving Devastating Crashes: How to Fix Fatal Errors in Call of Duty Modern Warfare & Warzone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-tips-to-resolve-biomutants-2024-crashes-on-your-computer-a-step-by-step-guide/"><u>Top Tips to Resolve Biomutant's 2024 Crashes on Your Computer: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/unstuck-playtime-7-strategies-to-bypass-the-stubborn-load-screen-in-forza-horizon-5/"><u>Unstuck Playtime: 7 Strategies to Bypass the Stubborn Load Screen in Forza Horizon 5</u></a></li>
-<li><a href="https://win-answers.techidaily.com/vrchat-stability-guide-eight-key-solutions-to-prevent-your-game-from-crashing-on-windows/"><u>VRChat Stability Guide: Eight Key Solutions to Prevent Your Game From Crashing on Windows</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-free-software-roundup-mac-compatible-tiktok-editors-for-2024/"><u>[New] Free Software Roundup Mac-Compatible TikTok Editors for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-speed-maximization-mastery-selecting-winning-converters-for-os-xwin-srt/"><u>[Updated] 2024 Approved Speed Maximization Mastery Selecting Winning Converters for OS X/Win SRT</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-expert-psd-text-framing/"><u>[Updated] In 2024, Expert PSD Text Framing</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-real-time-broadcasting-softwares-edge-over-gear/"><u>[Updated] Real-Time Broadcasting Software's Edge Over Gear?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/2022s-ultimate-guide-to-handling-valve-anti-cheat-glitches-on-dota-2/"><u>2022'S Ultimate Guide to Handling Valve Anti-Cheat Glitches on Dota 2</u></a></li>
+<li><a href="https://fox-access.techidaily.com/a-comprehensive-look-at-djis-quadcopter-standard-flight-for-2024/"><u>A Comprehensive Look at DJI's Quadcopter Standard Flight for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bypass-kodis-connection-barrier-a-comprehensive-solution-for-the-directory-information-failure/"><u>Bypass Kodi's Connection Barrier: A Comprehensive Solution for the 'Directory Information Failure'</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guilty-gear-strive-delayed-release-insights-into-games-future-timeline/"><u>Guilty Gear -Strive- Delayed Release: Insights Into Game's Future Timeline</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722974243200-latest-dell-wifi-driver-version-get-it-here-now/"><u>Latest Dell WiFi Driver Version - Get It Here Now</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/skyrocket-traffic-with-the-top-12-youtube-growth-methods-for-2024/"><u>Skyrocket Traffic with the Top 12 YouTube Growth Methods for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/successful-resolution-discords-recent-update-issues-now-fixed/"><u>Successful Resolution: Discord's Recent Update Issues Now Fixed</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-civ-6-installation-problems-in-windows-10-solutions-revealed/"><u>Troubleshooting Civ 6 Installation Problems in Windows 10: Solutions Revealed.</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mount & Blade II: Bannerlord Fixed – No More Freezing Issues"
-date: 2024-12-06T18:36:10.223Z
-updated: 2024-12-12T17:13:29.964Z
+date: 2024-12-17T19:37:28.435Z
+updated: 2024-12-20T17:46:57.479Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ Finally, Cyberpunk 2077 is released! But it could be very frustrating to encount
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You may not have to try them all. Just work your way down the list until you find the one that works for you.
@@ -36,10 +40,6 @@ Finally, Cyberpunk 2077 is released! But it could be very frustrating to encount
 4. **[Adjust your virtual memory](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Reinstall your game](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver
 
@@ -54,10 +54,6 @@ Finally, Cyberpunk 2077 is released! But it could be very frustrating to encount
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-57-32.jpg)
 3. Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[](https://tools.techidaily.com/drivereasy/download/) [Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-58-08.jpg)
 4. Relaunch Cyberpunk 2077 to check.
@@ -65,10 +61,6 @@ Finally, Cyberpunk 2077 is released! But it could be very frustrating to encount
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 If your issue continues to occur, you can move to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: End unnecessary programs
 
@@ -80,18 +72,14 @@ If your issue continues to occur, you can move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-03-45.jpg)
 2. Right-click the programs you want to close and select **End Task** . Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-07-59.jpg)
 3. Restart Cyberpunk 2077 to see if this fixed your issue.
 
- If this fix doesn’t help your case, simply take a look at the next one.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If this fix doesn’t help your case, simply take a look at the next one.
 
 ### Fix 3: Verify your game files
 
@@ -124,21 +112,29 @@ If your issue continues to occur, you can move to the next fix.
 3. Click the **Advanced**  tab, and then click **Change** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-31.jpg)
 4. Uncheck the box next to **Automatically manage paging file size for all drives** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-27-1.jpg)
 5. Click your **C drive** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-22.jpg)
 6. Click the option button next to **Custom size** , and then type **4096** in the text box next to **Initial size (MB)**  and **Maximum size (MB)** .Microsoft recommends that you set your virtual memory three times the size of your physical memory (RAM) or 4 GB (4096M), whichever is larger.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-16.jpg)
 7. Click **Set** , then **OK** .  
@@ -161,6 +157,10 @@ If your issue still exists, move to the next fix.
 
 If the issue continues to occur, go to the next solution.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Perform a clean boot
 
  A clean boot is basically starting your system with the most basic services and programs. In some cases, this can minimize the chances of software conflicts and reserve the most resources for your game.
@@ -171,18 +171,18 @@ You can follow these simple steps to do a clean boot:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig-clean-boot-1.jpg)
 2. In the pop-up window, navigate to the **Services**  tab and check the box before **Hide all Microsoft services** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your video card or sound card manufacturer, such as **Realtek** , **AMD** , **NVIDIA**  and **Intel** . Then click **OK**  to save the changes.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/msconfig-uncheck-services-clean-boot.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
@@ -212,21 +212,17 @@ You can follow these simple steps to do a clean boot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/64181337-new-in-2024-channel-elevation-strategy-quickly-reach-your-10k-view-quota/"><u>[New] In 2024, Channel Elevation Strategy – Quickly Reach Your 10K View Quota</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-seamless-mac-screen-record-with-audio-device/"><u>[New] In 2024, Seamless Mac Screen Record with Audio Device</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-the-elite-twitters-shortlist-of-top-tiktok-hits/"><u>[Updated] 2024 Approved The Elite Twitter's Shortlist of Top TikTok Hits</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-striking-the-balance-visual-strategies-for-podcast-identity/"><u>[Updated] In 2024, Striking the Balance Visual Strategies for Podcast Identity</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-swift-video-transformation-with-top-8-apps/"><u>[Updated] Swift Video Transformation with Top 8 Apps</u></a></li>
-<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-samsung-galaxy-z-fold-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Samsung Galaxy Z Fold 5? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/bypass-the-buffer-effective-fixes-for-hogwarts-legacys-frame-drops-and-hitches-updated-for-2hren/"><u>Bypass the Buffer: Effective Fixes for Hogwarts Legacy's Frame Drops & Hitches, Updated for 2Hren</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fix-your-elden-ring-lag-instantly-fast-solutions-for-enhanced-gaming-performance/"><u>Fix Your Elden Ring Lag Instantly: Fast Solutions for Enhanced Gaming Performance</u></a></li>
-<li><a href="https://win-answers.techidaily.com/improving-pc-game-performance-solutions-for-reducing-fps-drops/"><u>Improving PC Game Performance: Solutions for Reducing FPS Drops</u></a></li>
-<li><a href="https://win-answers.techidaily.com/monsanto-company-nd-glyphosate-general-information-retrieved-from-(httpswwwmonsantocomglyphosate-general-information)/"><u>Monsanto Company (N.d.). Glyphosate: General Information. Retrieved From <https://www.monsanto.com/glyphosate-general-information></u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcome-multiplayer-malfunctions-in-elden-ring-with-these-tips/"><u>Overcome Multiplayer Malfunctions in Elden Ring with These Tips</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-recurring-shutdowns-troubleshooting-age-of-wonders-planetfall-on-your-computer/"><u>Overcoming Recurring Shutdowns: Troubleshooting 'Age of Wonders: Planetfall' On Your Computer</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solution-guide-when-your-outlook-application-fails-to-start/"><u>Solution Guide: When Your Outlook Application Fails to Start</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2190087-9781780288475-the-occult/"><u>The Occult | Free Book</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-lighting-solutions-optimized-for-video-streaming-proven-techniques-by-experts-featured-on-zdnet/"><u>Top Lighting Solutions Optimized for Video Streaming - Proven Techniques by Experts, Featured on ZDNet</u></a></li>
-<li><a href="https://techidaily.com/vivo-s18e-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Vivo S18e Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
+<li><a href="https://win11.techidaily.com/a-practical-approach-to-revamping-group-policy-settings/"><u>A Practical Approach to Revamping Group Policy Settings</u></a></li>
+<li><a href="https://win-answers.techidaily.com/dragon-age-origins-woes-winning-the-battle-against-game-crashes-in-windows-11/"><u>Dragon Age: Origins Woes? Winning the Battle Against Game Crashes in Windows 11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/easy-start-in-vlogging-with-top-tech-tools/"><u>Easy Start in Vlogging with Top Tech Tools</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723006856393-experiencing-issues-with-the-ascent-on-computer-lets-fix-it/"><u>Experiencing Issues with The Ascent on Computer? Let's Fix It!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-4k-uxga-gaming-the-asus-mg28uq-explained/"><u>In 2024, 4K UXGA Gaming - The ASUS MG28UQ Explained</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-conquering-instagram-reels-like-an-elite-creator/"><u>In 2024, Conquering Instagram Reels Like an Elite Creator</u></a></li>
+<li><a href="https://win-answers.techidaily.com/persistent-valheim-crashes-on-windows-heres-how-you-can-fix-it/"><u>Persistent Valheim Crashes on Windows? Here’s How You Can Fix It!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-issue-when-avatars-frontiers-of-pandora-wont-start/"><u>Solving the Issue When Avatar's 'Frontiers of Pandora' Won't Start</u></a></li>
+<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-motorola-moto-e13-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Motorola Moto E13 FRP</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209785244-9781788173940-surrender/"><u>Surrender | Free Book</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-tecno-spark-20c-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-fixing-deathloops-failure-to-start/"><u>Troubleshooting Steps: Fixing Deathloop's Failure to Start</u></a></li>
 </ul></div>
 

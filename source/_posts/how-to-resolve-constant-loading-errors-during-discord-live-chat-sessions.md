@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Constant Loading Errors During Discord Live Chat Sessions
-date: 2024-08-19T02:12:49.118Z
-updated: 2024-08-20T02:12:49.118Z
+date: 2024-12-19T16:25:40.476Z
+updated: 2024-12-20T20:21:21.621Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ In general, the game **[Among Us](https://www.epicgames.com/store/en-US/p/among-
   
 ![verify integrity of game files Among Us](https://images.drivereasy.com/wp-content/uploads/2021/04/among-us-properties.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Select the**LOCAL FILES** tab and click on the**Verify integrity of game files…** button. And Steam will begin to verify your game files.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/among-us-verify-integrity-of-game-files.png)
@@ -39,6 +43,10 @@ In general, the game **[Among Us](https://www.epicgames.com/store/en-US/p/among-
  This will take several minutes. Simply wait for the process to complete. Once finished, click on the Play button and check if you can bypass the loading screen.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Update your graphics driver
 
@@ -74,17 +82,15 @@ Here’s how to update drivers with Driver Easy:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating drivers, restart your computer and launch Among Us to check if the problem is solved. If not, then proceed to the next fix below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ## 3\. Delete temp files
 
  As the name suggests, temporary files are the kind of files that store temporary data that is created by Windows itself or the programs that users use. They can take up a considerable amount of space and slow down your PC. This can also affect the responsiveness of your programs. To make sure you can run your system smoothly, you should delete those temporary files and it won’t cause any problems.
@@ -106,14 +112,15 @@ Here’s how to update drivers with Driver Easy:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/empty-recycle-bin.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  After deleting the temp files, click on the Play button and you should be able to get into the main screen instantly.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Disable firewall and antivirus software
 
  Windows firewall or antivirus software can help protect your computer from malware attacks. But sometimes they would block your game from launching or accessing the internet. Therefore, we would suggest you disable those antivirus software and Windows firewall temporarily before launching Among Us:
@@ -124,20 +131,18 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
   
 ![disable windows firewall](https://images.drivereasy.com/wp-content/uploads/2021/05/temporarily-disable-firewall.png)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) From the left menu, click **Turn Windows Defender Firewall on or off** .  
   
 ![disable windows firewall](https://images.drivereasy.com/wp-content/uploads/2021/05/turn-windows-features-on-or-off.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Select **Turn off Windows Defender Firewall (not recommended)**  for Domain network, Private Network and Public network. Then click **OK** .  
   
 ![disable windows firewall](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-firewall.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
  This may put you at greater risk for malware attacks. To be advised, don’t visit any unknown websites. If necessary, repeat the similar steps to turn on the firewall.
 
  Also, if you have any antivirus software installed on your system, make sure you click on the **up arrow icon** near the system tray, right-click on the program, and choose the option to disable or exit the program.
@@ -154,8 +159,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -163,4 +166,24 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-discover-7-premium-android-adblocking-tools/"><u>[New] 2024 Approved Discover 7 Premium Android AdBlocking Tools</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-perfect-your-video-pacing-with-these-snapchat-tips/"><u>[New] In 2024, Perfect Your Video Pacing with These Snapchat Tips</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-lgs-ultrafine-masterpiece-an-exhaustive-monitoring-guide/"><u>[Updated] LG's UltraFine Masterpiece An Exhaustive Monitoring Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-testimonials-on-screen-marketings-best-friend/"><u>[Updated] Testimonials on Screen Marketing's Best Friend</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-nokia-c300-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Nokia C300 Activity | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/alternative-online-course-sites-top-picks-beyond-udemy-for-lifelong-learners/"><u>Alternative Online Course Sites Top Picks - Beyond Udemy for Lifelong Learners</u></a></li>
+<li><a href="https://win-answers.techidaily.com/battlefield-2e42-pc-upgrades-solving-the-challenges-of-fps-dips-and-inconsistent-frame-drops/"><u>Battlefield 2E42 PC Upgrades: Solving the Challenges of FPS Dips and Inconsistent Frame Drops</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-for-repairing-your-itunes-sound-setup-errors-efficiently/"><u>Expert Tips for Repairing Your iTunes Sound Setup Errors Efficiently</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-compiling-shaders-errors-for-call-of-duty-black-ops-cold-war-now-solved/"><u>Fixing 'Compiling Shaders' Errors for Call of Duty Black Ops Cold War - Now Solved!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gain-instant-access-unveiling-openais-new-gpt-powered-retail-platform/"><u>Gain Instant Access: Unveiling OpenAI's New GPT-Powered Retail Platform</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-netiosys-blue-screen-errors-on-windows/"><u>How to Fix NETIO.SYS Blue Screen Errors on Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-overcome-persistent-dark-screens-during-zoom-calls-on-your-computer-latest-solutions-2024-edition/"><u>How to Overcome Persistent Dark Screens During Zoom Calls on Your Computer (Latest Solutions, 2024 Edition)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-successfully-start-fallout-3-latest-strategies-and-solutions/"><u>How to Successfully Start Fallout 3? Latest Strategies & Solutions</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/master-your-screen-time-discover-these-top-7-android-adblockers-for-2024/"><u>Master Your Screen Time Discover These Top 7 Android AdBlockers for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-mobility-the-ultimate-guide-to-using-portable-driver-easy/"><u>Mastering Mobility: The Ultimate Guide to Using Portable Driver Easy</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-and-repair-techniques-for-a-smooth-ring-of-elysium-experience/"><u>Troubleshooting and Repair Techniques for a Smooth 'Ring of Elysium' Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-hitman-3-connection-refused-problems/"><u>Troubleshooting Steps for Hitman 3 'Connection Refused' Problems</u></a></li>
+</ul></div>
 
