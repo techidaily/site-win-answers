@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Tips to Stop Assassin's Creed Odyssey From Crashing on PC Easily
-date: 2024-12-13T17:09:57.126Z
-updated: 2024-12-20T16:22:04.536Z
+date: 2024-12-22T16:06:25.648Z
+updated: 2024-12-27T16:19:36.442Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ Although[Assassin’s Creed Valhalla](https://www.epicgames.com/store/en-US/p/as
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fixes to try
 
  You may not try them all; simply work your way down the list until you find the one that solves your problem.
@@ -35,6 +31,10 @@ Although[Assassin’s Creed Valhalla](https://www.epicgames.com/store/en-US/p/as
 3. [**Run the game as an administrator**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Verify the integrity of your game files**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Reinstall Assassin’s Creed Valhalla](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1 – Check the minimum specs of Assassin’s Creed Valhalla
 
@@ -68,10 +68,6 @@ There are mainly two ways to update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-1-3.jpg)
 3. Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-2-4.jpg)
 
@@ -81,7 +77,7 @@ There are mainly two ways to update the graphics driver:
  Relaunch the game to check its performance with your newly-installed graphics driver. If the update doesn’t do the trick, go ahead with the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3 – Run the game as an administrator
@@ -98,17 +94,21 @@ There are mainly two ways to update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-4-2.jpg)
 4. Right-click the**ACValhalla.exe file** and click**Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-5.jpg)
 5. Navigate to the**Compatibility** tab. Then, tick**Run this program as an administrator** and click**OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-6-1.jpg)
 6. Launch the ACValhalla.exe file directly from the installation folder and see how it works.
 
 If the issue persists, head to the fixes below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4 – Verify the integrity of your game files
 
@@ -122,12 +122,16 @@ If the issue persists, head to the fixes below.
 3. Click**Verify files** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/3-2-2.jpg)
 
  After the process completes, relaunch the game to test. If this method doesn’t work, try the next one below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5 – Reinstall Assassin’s Creed Valhalla
 
@@ -139,10 +143,6 @@ If the issue persists, head to the fixes below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/6-1-2.jpg)
 3. Reinstall the game to the same location where your OS and Ubisoft Connect app are installed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The Assassin’s Creed Valhalla not launching issue should be resolved after the fresh reinstallation.
 
@@ -169,19 +169,24 @@ If the issue persists, head to the fixes below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-harnessing-the-power-of-luts-for-high-quality-video-output/"><u>[New] 2024 Approved Harnessing the Power of LUTs for High-Quality Video Output</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-exploring-inshot-is-it-the-pinnacle-of-editing-for-2024/"><u>[Updated] Exploring InShot Is It the Pinnacle of Editing for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-how-to-retrieve-flawless-copyright-free-images/"><u>[Updated] How to Retrieve Flawless, Copyright-Free Images</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-constructing-characters-settings-and-stories/"><u>[Updated] In 2024, Constructing Characters, Settings & Stories</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-turbocharge-your-fb-search-game/"><u>[Updated] In 2024, Turbocharge Your FB Search Game</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-nikon-d-500-4k-dslr-camera-review/"><u>[Updated] Nikon D 500 4K DSLR Camera Review</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/1-diagnosing-your-hard-drives-health-a-comprehensive-guide-by-yl-computing/"><u>1. Diagnosing Your Hard Drive's Health: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-a-comprehensible-approach-to-personal-branding-in-the-youtube-sphere/"><u>2024 Approved A Comprehensible Approach to Personal Branding in the YouTube Sphere</u></a></li>
-<li><a href="https://win-answers.techidaily.com/phasmophobia-performance-tips-reducing-spiked-cpu-use-during-gameplay/"><u>Phasmophobia Performance Tips: Reducing Spiked CPU Use During Gameplay</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/refresh-your-desktop-a-step-by-step-on-adding-customizable-weather-icons-in-windows-11/"><u>Refresh Your Desktop: A Step-by-Step on Adding Customizable Weather Icons in Windows 11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-effective-solutions-for-overcoming-lag-in-fortnite/"><u>Resolved: Effective Solutions for Overcoming Lag in Fortnite</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-upgrading-graphics-driver-for-optimal-performance-in-forza-horizon-5/"><u>Step-by-Step: Upgrading Graphics Driver for Optimal Performance in Forza Horizon 5</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshoot-making-your-steam-controller-work-again-under-windows-os/"><u>Troubleshoot: Making Your Steam Controller Work Again Under Windows OS</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-after-fixing-steam-server-connection-problems/"><u>Troubleshooting Steps After Fixing Steam Server Connection Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/tainted-grail-conquest-optimization-tips-for-enhanced-frame-per-seconds-fps/"><u>'Tainted Grail: Conquest' Optimization Tips for Enhanced Frame Per Seconds (FPS)</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-srgb-standardized-vs-traditional-rgb-spectrum/"><u>[New] 2024 Approved Srgb Standardized Vs Traditional Rgb Spectrum</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-dirt-5-keeps-crashing-on-pc/"><u>[SOLVED] Dirt 5 Keeps Crashing on PC</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-expert-psd-overhaul-techniques/"><u>[Updated] In 2024, Expert PSD Overhaul Techniques</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-digital-dialogue-preservation-guide/"><u>2024 Approved Digital Dialogue Preservation Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/effective-methods-for-draining-moisture-trapped-in-iphones-earpiece-and-ring-tone-coils/"><u>Effective Methods for Draining Moisture Trapped in iPhones Earpiece and Ring Tone Coils</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723001539471-fifa-21-initialization-error-solved-ready-to-play-now/"><u>FIFA 21 Initialization Error Solved – Ready to Play Now!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-black-ops-understanding-the-black-screen-and-error-code-0xc0000005/"><u>Fixing Black Ops: Understanding the 'Black Screen' And 'Error Code 0xC0000005'</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-glitches-seamless-gaming-experience-now-with-assassins-creed-valhalla-on-your-computer/"><u>Fixing the Glitches: Seamless Gaming Experience Now with Assassin's Creed: Valhalla on Your Computer</u></a></li>
+<li><a href="https://driver-install.techidaily.com/get-ready-for-a-galactic-celebration-on-may-warty-acemagic-introduces-the-x-wing-shaped-mini-gaming-pc/"><u>Get Ready for a Galactic Celebration on May Warty – AceMagic Introduces the X-Wing Shaped Mini Gaming PC</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/hack-your-way-to-speedy-youtube-video-processing/"><u>Hack Your Way to Speedy YouTube Video Processing</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-get-and-upgrade-ftdi-device-drivers-on-microsoft-windows-operating-systems/"><u>How To: Get & Upgrade FTDI Device Drivers on Microsoft Windows Operating Systems</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-realme-c53-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Realme C53 to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-issues-with-discords-launch-sequence-effectively/"><u>Overcoming Issues with Discord's Launch Sequence Effectively</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pathfinder-update-tackles-and-eliminates-pc-freezing-offering-players-uninterrupted-fun/"><u>Pathfinder Update Tackles & Eliminates PC Freezing, Offering Players Uninterrupted Fun!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-star-wars-battlefront-2-error-a-step-by-step-guide-to-overcome-issue-327/"><u>Resolving Star Wars Battlefront 2 Error - A Step-by-Step Guide to Overcome Issue 327</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-12-unique-presents-ideal-for-tech-savvy-individuals-a-guide-by-zdnet/"><u>Top 12 Unique Presents Ideal for Tech Savvy Individuals: A Guide by ZDNet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-fix-for-persistent-game-crashes-in-alien-fireteam-elite-on-windows-systems/"><u>Ultimate Fix for Persistent Game Crashes in Alien: Fireteam Elite on Windows Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-to-fixing-lag-and-stutter-in-naraka-bladepoint/"><u>Ultimate Guide to Fixing Lag and Stutter in Naraka: Bladepoint</u></a></li>
 </ul></div>
 

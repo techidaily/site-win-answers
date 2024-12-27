@@ -1,7 +1,7 @@
 ---
 title: "How to Fix the Critical WARNING(s): Memory Error 0-1766 in Call of Duty: Warzone on PC & Xbox"
-date: 2024-08-19T02:00:27.145Z
-updated: 2024-08-20T02:00:27.145Z
+date: 2024-12-26T16:01:08.167Z
+updated: 2024-12-27T16:09:41.593Z
 tags:
   - win11
   - win10
@@ -40,9 +40,6 @@ Call of Duty is a free-to-play first-person shooter game for everyone. It was re
 | Direct X     | DirectX 12.0 compatible system                              |
 | Video Memory | 2 GB                                                        |
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Update your graphics driver
 
  Make sure you have the latest driver for your graphic card. If you don’t have the latest graphics driver, then it can cause lots of problems. With outdated or wrong drivers, you may encounter game issues including crashing, stuttering, lagging, and more.
@@ -86,6 +83,10 @@ OR
 
  If this method doesn’t resolve the issue, you can restore the changes with the backup.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Change the in-game settings
 
  Lowering the in-game graphics settings might help fix Warzone Pacific crashing. The Modern Warfare program occupied too much virtual memory and it could cause the game to crash. To fix it, you can lower all graphic settings, including turning off on demand streaming textures.
@@ -105,19 +106,22 @@ If it fixes the issue then slowly increase your graphics settings.
 2. Type**control panel** and press the**Enter** key.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/2021-12-20_18-43-03.jpg)
 3. Set**View by Category** . Click**Uninstall the program** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/2021-12-20_18-43-17.jpg)
 4. Find MW and Battle.net. Right-click on it and click**Unistall/Change** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/2021-12-20_18-44-15.jpg)
 5. Follow the on-screen instructions to uninstall the software.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 6. Delete all the files.
 7. Go to the Warzone Pacific official website and download the game. Install it step-by-step.
 8. Relaunch the game.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Repair system files
 
@@ -129,19 +133,19 @@ If it fixes the issue then slowly increase your graphics settings.
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
@@ -155,8 +159,6 @@ If it fixes the issue then slowly increase your graphics settings.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -164,4 +166,22 @@ If it fixes the issue then slowly increase your graphics settings.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-expert-tips-to-enrich-virtual-meetings-with-screen-sharing-for-2024/"><u>[New] Expert Tips to Enrich Virtual Meetings with Screen Sharing for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-ideal-fullscreen-recorder-with-macpc-support/"><u>[Updated] In 2024, Ideal Fullscreen Recorder with Mac/PC Support</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-smooth-process-incorporating-igtv-in-stories/"><u>[Updated] In 2024, Smooth Process Incorporating IGTV in Stories</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-top-10-video-makers-choices-audio-enhancing-software/"><u>2024 Approved Top 10 Video Maker's Choices Audio Enhancing Software</u></a></li>
+<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-google-pixel-fold-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Google Pixel Fold to iPhone | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/boost-your-gaming-experience-eliminating-stutters-and-increasing-frame-rate/"><u>Boost Your Gaming Experience: Eliminating Stutters and Increasing Frame Rate</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/catchy-cadences-in-creative-snaps-and-videos/"><u>Catchy Cadences in Creative Snaps and Videos</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effortless-ways-to-correct-winwordexe-application-problems/"><u>Effortless Ways to Correct WINWORD.EXE Application Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-resolving-frequent-game-interruptions-during-thaumaturge-play/"><u>Expert Advice: Resolving Frequent Game Interruptions During Thaumaturge Play</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-recurring-crashes-in-multiversus-learn-these-8-proven-strategies/"><u>How to Fix Recurring Crashes in MultiVersus - Learn These 8 Proven Strategies</u></a></li>
+<li><a href="https://win-answers.techidaily.com/phasmophobias-latest-fault-fixes-a-comprehensive-guide-for-the-new-year/"><u>Phasmophobia's Latest Fault Fixes - A Comprehensive Guide for the New Year</u></a></li>
+<li><a href="https://win-answers.techidaily.com/robocop-rogue-city-overcoming-pc-performance-and-stability-issues/"><u>Robocop: Rogue City - Overcoming PC Performance and Stability Issues</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-rated-headphones-on-sale-in-march-2024-exclusive-offers-from-zdnet/"><u>Top Rated Headphones on Sale in March 2024: Exclusive Offers From ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlock-instant-memory-expansion-with-no-cost-upgrade-to-a-new-lg-gram-inspired-model-now/"><u>Unlock Instant Memory Expansion with No Cost: Upgrade to a New LG Gram Inspired Model Now!</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/user-manual/"><u>User Manual.</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Halo 3 No Longer Crashes: A Comprehensive Fix Guide"
-date: 2024-08-19T02:02:03.569Z
-updated: 2024-08-20T02:02:03.569Z
+date: 2024-12-25T16:06:52.220Z
+updated: 2024-12-27T16:04:56.183Z
 tags:
   - win11
   - win10
@@ -36,6 +36,10 @@ Players have been reported encountering an error**ERR\_GFX\_STATE** while trying
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 2: Clean update the graphics driver
 
  If downloading didn’t help, your faulty or outdated graphics driver may be the culprit and generate the ERR\_GFX\_STATE error. To fix it, you can try to do a clean update of the graphics card driver. To do so, DDU (Display Driver Uninstaller) is usually recommended, as it can do a pretty good job removing all the older or faulty display driver files on your computer.
@@ -52,14 +56,8 @@ To do a clean reinstallation of the display card driver with DDU:
 4. When in Safe Mode, go to the folder where you unzip the DDU execution file. Double-click to run**Display Driver Uninstaller** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/02/ddu-2.png)
 5. Select **GPU** and **your GPU manufacturer** on the right side. Then click **Clean and restart** .  
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2024/02/ddu-1.png)
 6. Your computer should restart when the old driver files for your graphics card are cleaned.
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 7. Double-click the setup file for the display card driver you’ve downloaded from step 1 to run the driver installation.
 8. Restart your computer afterward.
 
@@ -73,9 +71,6 @@ To do a clean reinstallation of the display card driver with DDU:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti.jpg)
@@ -96,8 +91,9 @@ To do a clean reinstallation of the display card driver with DDU:
 * **[Rockstar Games Launcher](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Epic Games Launcher
 
 To verify the game’s files on Epic Games Launcher:
@@ -107,7 +103,16 @@ To verify the game’s files on Epic Games Launcher:
 2. Click **Verify** to start verifying the game files.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-29.png)
 3. Wait for validation to complete. (It may take a while to verify all your files.)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. When the validation is done, run your Red Dead Redemption 2 again to see if the ERR\_GFX\_STATE error remains.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Steam
 
@@ -116,16 +121,19 @@ To verify the game’s files on Epic Games Launcher:
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-properties.jpg)
 3. Select the**Installed Files** tab and click on the**Verified integrity of game files** button.  
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
 4. Steam will verify the game’s files – this process may take several minutes.
+
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. When the verification is done, check to see if the Red Dead Redemption 2 still has the ERR\_GFX\_STATE error. If so, please move on to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Rockstar Games Launcher
 
@@ -133,9 +141,6 @@ To verify the game’s files on Epic Games Launcher:
 2. Click**SETTINGS** , then find Red Dead Redemption 2 in the**My installed game** list, and click the**VERIFY INTEGRITY** button next to the Verify game file integrity option.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/rstar.png)
 3. Wait for the process to finish.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. When the verification is done, check to see if the Red Dead Redemption 2 still has the ERR\_GFX\_STATE error. If so, please move on to the next fix.
 
 ---
@@ -149,14 +154,13 @@ To verify the game’s files on Epic Games Launcher:
 2. Right-click the**system.xml** file and open it with an editor. Here, we use Visual Studio Code, but you can go with Notepad, Notepad++ or any other similar editor.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/rdr2-settings-edit.png)
 3. Change the API Settings from**Vulkan** to**DX12** .  
+
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/api-vulkan.png)  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/api-dx12.png)
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 4. Save the change.
 
  See if the ERR\_GFX\_STATE error in Red Dead Redemption 2 remains. If so, please move on.
@@ -164,8 +168,9 @@ To verify the game’s files on Epic Games Launcher:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 5: Delete SGA files
 
  Files with the extension**SGA** are created for the game. They are compressed files often containing maps or large groups of related files. But there are situations that these files cause crashing or other errors in your game. So to fix it, you should delete them. To do so, simply follow the instructions below:
@@ -174,6 +179,10 @@ To verify the game’s files on Epic Games Launcher:
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/rdr2-settings.png)
 2. Now you can see three files that begin with**sga** . These are the files that cause the error. So you need to delete them. And your game would not crash again.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/files-that-begin-with-sga.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If deleting these files didn’t work for you, you can alternatively create three empty text files of size 0B and make those files read-only. Also, change the names to**sga\_xxx** accordingly. This might be very specific to your setup and the true root cause you’re having.
 
@@ -189,9 +198,6 @@ To verify the game’s files on Epic Games Launcher:
 * [**Epic Games Launcher**](https://tools.techidaily.com/drivereasy/download/)
 * [**Steam**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Rockstar Games Launcher
 
 1. Open your Rockstar Games Launcher and select**Settings** .
@@ -200,9 +206,6 @@ To verify the game’s files on Epic Games Launcher:
 3. Scroll down to**Launch arguments** . In the text box, add**\-ignorpipelinecache** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/11/command-line-arguments.jpg)
 4. Now launch your game to check if it did the trick.
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 
 ### Epic Games Launcher
 
@@ -212,8 +215,9 @@ To verify the game’s files on Epic Games Launcher:
 4. Return to the Main Menu and launch your game to check if it did the trick.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Steam Launcher
 
 1. Open your Steam client. Under**LIBRARY** , right-click on**Red Dead Redemption 2** and select**Properties** .  
@@ -221,9 +225,6 @@ To verify the game’s files on Epic Games Launcher:
 2. Under the launch options, add **\-ignorepipelinecache** . Then save and try to launch Red Dead Redemption 2 to see if the error remains.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/steam-launch.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ---
 
  To conclude, there are different bugs that cause this same error message. It can happen if your GPU is overclocked, it can happen if your RAM is overclocked. Players can get it randomly. It appears to just be a generic message and that’s why there are so many solutions that only work for a small number of people. But I hope the fixes in this post can help you resolve the problem and you can play your game smoothly.
@@ -236,8 +237,6 @@ To verify the game’s files on Epic Games Launcher:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -245,4 +244,21 @@ To verify the game’s files on Epic Games Launcher:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-expert-insights-where-to-invest-in-youtube-creator-revenue/"><u>[Updated] 2024 Approved Expert Insights Where to Invest in YouTube Creator Revenue</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-mastery-of-youtube-policy-for-successful-channels-for-2024/"><u>[Updated] Mastery of YouTube Policy for Successful Channels for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-ultimate-selection-of-8-instagram-schedulers-for-phones/"><u>[Updated] The Ultimate Selection of 8 Instagram Schedulers for Phones</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/best-of-the-best-top-12-tycoon-games-for-epic-victories/"><u>Best of the Best Top 12 Tycoon Games for Epic Victories</u></a></li>
+<li><a href="https://win-answers.techidaily.com/five-troubleshooting-techniques-to-stop-bluestacks-from-freezing-and-crashing/"><u>Five Troubleshooting Techniques to Stop BlueStacks From Freezing and Crashing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-implemented-for-continuous-game-crashes-in-insurgency-sandstorm/"><u>Fixes Implemented for Continuous Game Crashes in 'Insurgency: Sandstorm'</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-remnant-from-the-ashes-game-crash-problems-a-solution-guide/"><u>Fixing 'Remnant: From the Ashes' Game Crash Problems - A Solution Guide</u></a></li>
+<li><a href="https://ai-video.techidaily.com/in-2024-5-best-apps-for-voice-translation-from-english-to-bangla/"><u>In 2024, 5 Best Apps for Voice Translation From English to Bangla</u></a></li>
+<li><a href="https://win-answers.techidaily.com/preventing-constant-disruptions-solutions-for-outlooks-continual-closure/"><u>Preventing Constant Disruptions: Solutions for Outlook's Continual Closure</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-outpost-infinity-siege-pc-freezing-issue-easy-guide/"><u>Solving the Outpost: Infinity Siege PC Freezing Issue - Easy Guide</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/troubleshoot-windows-10-criticalprocessdied-master-the-issue-using-our-7-step-by-step-solutions-and-bonus-expert-advice/"><u>Troubleshoot Windows 10 'CRITICAL_PROCESS_DIED': Master the Issue Using Our 7 Step-by-Step Solutions & Bonus Expert Advice</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/troubleshooting-broken-hyperlinks-in-your-html-based-ebooks-made-using-flipbuilder-technology/"><u>Troubleshooting Broken Hyperlinks in Your HTML-Based Ebooks Made Using FlipBuilder Technology</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-obs-why-is-my-screen-recording-no-longer-working/"><u>Troubleshooting OBS: Why Is My Screen Recording No Longer Working?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/unleashing-instagram-success-through-precision-metrics-monitoring/"><u>Unleashing Instagram Success Through Precision Metrics Monitoring</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Solution: Stop PC Freezes and Glitches While Playing Mobile PUBG"
-date: 2024-12-16T00:17:42.490Z
-updated: 2024-12-22T01:17:36.654Z
+date: 2024-12-26T16:10:19.550Z
+updated: 2024-12-27T16:14:23.877Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Minimum system requirements for Fortnite
 
 | **Operating System** | **Windows 10/8/7**  |
@@ -37,10 +41,6 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 | **HDD Space**        | **16 GB**           |
 | **DirectX**          | **DirectX 11.0**    |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Recommended system requirements for Fortnite
 
 | **Operating System** | **Windows 10/8/7**                                           |
@@ -51,6 +51,10 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 | **Processor**        | **Core i5 2.8 Ghz**                                          |
 | **HDD Space**        | **20 GB**                                                    |
 | **DirectX**          | **DirectX 11.0**                                             |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -64,10 +68,6 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 6. [**Unblock the game from Windows Firewall**](https://tools.techidaily.com/drivereasy/download/)
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 1: Lower graphics settings
 
@@ -84,13 +84,13 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/com.jpg)
 3. Click **OK** then run Fortnite to check.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If this method doesn’t help, don’t worry, move to the next one.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method: Update your graphics card
 
@@ -124,17 +124,17 @@ OR
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Reboot your computer and run Fortnite to check the black screen issue will appear or not.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 4: Use your integrated graphics card
 
@@ -143,10 +143,6 @@ OR
  If everything works fine using the integrated graphics, you might need to check your graphics processor or PSU (computer power supply unit) are faulting. The way to test your GPU is using another graphics card on your PC or try this card in another PC.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 5: Change scale and layout limit
 
@@ -167,6 +163,10 @@ OR
 1. Type “firewall” in the search bar and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/firewall0.jpg)
 2. Click**Allow an app through firewall** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/firewall.jpg)
 3. Find Fortnite and check whether it has been blocked or not.
@@ -198,17 +198,22 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-chuckle-on-the-go-best-comedy-tone-sites-for-2024/"><u>[New] Chuckle on the Go Best Comedy Tone Sites for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1717726008656-new-how-to-upload-videos-to-youtube-a-step-by-step-guide-for-2024/"><u>[New] How To Upload Videos to YouTube A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-best-value-screen-recorder-apps-under-50/"><u>[New] In 2024, Best Value Screen Recorder Apps Under $50</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-transforming-flat-text-into-sculptable-3d-characters/"><u>[Updated] In 2024, Transforming Flat Text Into Sculptable 3D Characters</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/entrance-to-follow-creating-a-user-friendly-subscribe-link-for-2024/"><u>Easy Entrance to Follow Creating a User-Friendly Subscribe Link for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/face-unlock-tech-iphone-xs-face-id-versus-samsung/"><u>Face Unlock Tech IPhone X's Face ID Versus Samsung'</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fix-your-gameplay-eliminating-slow-response-times-in-back-4-blood/"><u>Fix Your Gameplay: Eliminating Slow Response Times in 'Back 4 Blood'</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-issues-troubleshooting-cataclysms-tribes-of-midgard/"><u>Fixing Issues: Troubleshooting Cataclysm's Tribes of Midgard</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-overcome-the-12707-memory-error-in-modern-warfare-3-for-smooth-gaming-experience/"><u>How to Overcome the '12707 Memory Error' In Modern Warfare 3 for Smooth Gaming Experience</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/troubleshooting-sound-card-problems-understanding-audio-distortions-and-noise-expert-advice-by-yl-software/"><u>Troubleshooting Sound Card Problems: Understanding Audio Distortions and Noise - Expert Advice by YL Software</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/understanding-email-bounce-dynamics-with-massmail-solutions/"><u>Understanding Email Bounce Dynamics with MassMail Solutions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/why-wont-my-games-sync-fixing-common-issues-with-steam-cloud-services/"><u>Why Won't My Games Sync? Fixing Common Issues with Steam Cloud Services.</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-advanced-mp4-encoder-for-social-sharing-for-2024/"><u>[Updated] Advanced MP4 Encoder for Social Sharing for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-budget-friendly-methods-for-youtube-card-creation/"><u>2024 Approved Budget-Friendly Methods for YouTube Card Creation</u></a></li>
+<li><a href="https://win-answers.techidaily.com/call-of-duty-warzone-pc-issues-stop-game-crashes-with-these-solutions/"><u>Call of Duty: Warzone PC Issues - Stop Game Crashes with These Solutions!</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/comment-numeriser-avec-succes-vos-donnees-sur-un-hdd-externe-a-laide-dun-cable-ethernet-methode-la-plus-facile-a-adoption/"><u>Comment Numériser Avec Succès Vos Données Sur Un HDD Externe À L'aide D'un Câble Ethernet : Méthode La Plus Facile À Adoption</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/discover-professional-video-production-with-ben-jacklin-at-movavi/"><u>Discover Professional Video Production with Ben Jacklin at Movavi</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-for-persistent-lags-and-stalls-in-fall-guys-when-played-on-pc/"><u>Fixes for Persistent Lags and Stalls in Fall Guys When Played on PC</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/forgotten-passcode-complete-instructions-on-how-to-erase-and-reboot-your-iphone-expert-advice-from-stellar/"><u>Forgotten Passcode? Complete Instructions on How to Erase and Reboot Your iPhone | Expert Advice From Stellar.</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guide-for-repairing-corsair-icue-connectivity-problems-on-latest-windows-operating-systems/"><u>Guide for Repairing Corsair iCUE Connectivity Problems on Latest Windows Operating Systems</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/lock-your-tecno-spark-20-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Tecno Spark 20 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://win-answers.techidaily.com/nba-2k21-unsticking-from-the-black-loading-screen-tips-release/"><u>NBA 2K21 - Unsticking From the Black Loading Screen: Tips Release</u></a></li>
+<li><a href="https://win-answers.techidaily.com/perfect-playtime-essential-fixes-for-a-smooth-gaming-experience-with-pacific-drive-on-pc/"><u>Perfect Playtime: Essential Fixes for a Smooth Gaming Experience with Pacific Drive on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/professional-hacks-increase-frame-rate-on-escape-from-tarkov/"><u>Professional Hacks: Increase Frame Rate on 'Escape From Tarkov'</u></a></li>
+<li><a href="https://discover-great.techidaily.com/reducing-file-sizes-a-step-by-step-guide-to-compress-videos-using-windows-media-player/"><u>Reducing File Sizes: A Step-by-Step Guide to Compress Videos Using Windows Media Player</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solutions-to-fix-monster-hunter-rise-installation-issues/"><u>Solutions to Fix Monster Hunter Rise Installation Issues</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/strategic-geniuses-unearthing-the-best-7-total-war-masterpieces-for-2024/"><u>Strategic Geniuses Unearthing the Best 7 Total War Masterpieces for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/what-does-a-blue-icon-signify-on-fb-messenger-in-2024/"><u>What Does a Blue Icon Signify on FB Messenger, In 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/youtube-buffering-dilemma-how-to-enjoy-uninterrupted-sound-in-chromefirefox-amidst-video-glitches/"><u>YouTube Buffering Dilemma: How to Enjoy Uninterrupted Sound in Chrome/Firefox Amidst Video Glitches</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Enhancing Stability in Diablo Immortal on Your Computer (Updated)"
-date: 2024-12-17T16:39:37.621Z
-updated: 2024-12-20T18:03:36.901Z
+date: 2024-12-23T16:20:00.610Z
+updated: 2024-12-27T16:15:16.033Z
 tags:
   - win11
   - win10
@@ -34,10 +34,6 @@ Recently, many players have reported that**A Total War Saga: Troy keeps crashing
 6. [Repair Epics Games launcher](https://tools.techidaily.com/drivereasy/download/)
 7. [Add the game folder to the exceptions list of your 3rd party antivirus software](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Verify the game files
 
  One of the common causes of A Total War Saga: Troy crashing issue is the corrupted game files. If it’s the case, you need to verify the game files. Here’s how to do it:
@@ -48,11 +44,11 @@ Recently, many players have reported that**A Total War Saga: Troy keeps crashing
 3. Launch the game after the verifying process completed to see if it would crash again. If the game still crashes, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 2: Update graphics driver
@@ -101,6 +97,10 @@ Or
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  You need to restart your PC after you finished updating your graphics driver.
@@ -109,6 +109,10 @@ Or
 
  If the latest graphics driver fails to stop the crash, just read on to try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 3: Install the latest game patch
 
  The game developers release regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -116,10 +120,6 @@ Or
  If a patch is available, it will be detected by Epic Games launcher, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Launch A Total War Saga: Troy to check whether the game crash issue has been resolved. If it hasn’t, or there was no new game patch available, move on to next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Install the latest DirectX files
 
@@ -145,7 +145,7 @@ Or
  If this issue persists after you stopped overclocking, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 6: Repair Epics Games launcher
@@ -161,7 +161,7 @@ Or
 ![how to repair Epics Games launcher](https://images.drivereasy.com/wp-content/uploads/2021/03/how-to-repair-Epics-Games-launcher.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After Windows repaired Epics Games launcher, launch A Total War Saga: Troy to see if it will crash. If it still crashes, try the next fix, below.
@@ -199,21 +199,17 @@ Or
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-quickcapture-for-windows-ultimate/"><u>[New] QuickCapture for Windows Ultimate</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-authority-list-top-10-sports-and-football-streaming-applications-cutting-edge/"><u>[Updated] Authority List Top 10 Sports & Football Streaming Applications, Cutting Edge</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-submerged-splendor-top-underwater-video-techniques-with-gopro/"><u>[Updated] In 2024, Submerged Splendor Top Underwater Video Techniques with GoPro</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-mastering-the-art-of-shopping-spree-videography/"><u>[Updated] Mastering the Art of Shopping Spree Videography</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/bluetooth-obd-adapter-reveals-car-codes-the-smart-way-to-fix-your-check-engine-light/"><u>Bluetooth OBD Adapter Reveals Car Codes - The Smart Way to Fix Your Check Engine Light</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-vivo-y02t-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Vivo Y02T Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-your-arduino-mega-2560-driver-today-effortless-installation-steps-inside/"><u>Download Your Arduino Mega 2560 Driver Today - Effortless Installation Steps Inside</u></a></li>
-<li><a href="https://win-answers.techidaily.com/easy-fix-for-kernelbasedll-problems-quick-results-guaranteed/"><u>Easy Fix for KernelBase.dll Problems: Quick Results Guaranteed</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-fixes-for-persistent-watch-dogs-legion-stability-issues-on-personal-computers/"><u>Effective Fixes for Persistent Watch Dogs Legion Stability Issues on Personal Computers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723008851137-fallout-4-black-screen-glitch-discover-simple-fixes-to-get-you-back-in-action/"><u>Fallout 4 Black Screen Glitch? Discover Simple Fixes to Get You Back in Action!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-ark-survival-evolved-pc-game-crashes-discover-the-top-9-solutions/"><u>Fixing ARK: Survival Evolved PC Game Crashes – Discover the Top 9 Solutions!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-resolve-the-msodll-file-cannot-be-found-issue/"><u>How to Resolve the 'Mso.Dll File Cannot Be Found' Issue</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-solution-to-fifa-20-stability-issues-and-freezing-problems-on-pc/"><u>Step-by-Step Solution to FIFA 20 Stability Issues and Freezing Problems on PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/subnautica-beneath-stars-version-zero-stability-fixes-for-personal-computers/"><u>Subnautica Beneath Stars Version Zero Stability Fixes for Personal Computers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/tf2-struggles-essential-fixes-to-get-you-back-into-the-game-quickly/"><u>TF2 Struggles? Essential Fixes to Get You Back Into the Game Quickly</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-checklist-what-you-need-to-know-before-investing-in-a-smart-tv/"><u>The Ultimate Checklist: What You Need to Know Before Investing in a Smart TV</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-cross-platform-strategies-to-boost-youtube-presence/"><u>2024 Approved Cross-Platform Strategies to Boost YouTube Presence</u></a></li>
+<li><a href="https://win-answers.techidaily.com/boost-your-gameplay-ultimate-tips-to-enhance-fps-and-eliminate-stutters-in-valorant/"><u>Boost Your Gameplay: Ultimate Tips to Enhance FPS & Eliminate Stutters in Valorant</u></a></li>
+<li><a href="https://win-answers.techidaily.com/crusader-kings-2-wont-start-heres-how-to-resolve-the-problem/"><u>Crusader Kings 2 Won't Start? Here's How to Resolve the Problem</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/guide-to-flourishing-freeconversations-windows-edition/"><u>Guide to Flourishing FreeConversations: Windows Edition</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-to-combat-sudden-facebook-sign-outs/"><u>How to Combat Sudden Facebook Sign-Outs</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-mobile-methods-to-archive-snapchat-content/"><u>In 2024, Mobile Methods to Archive Snapchat Content</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-proper-placement-of-external-webpages-in-insta-content/"><u>In 2024, Proper Placement of External Webpages in Insta Content</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722973502715-lighter-than-air-craft/"><u>Lighter than Air Craft.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-the-windows-credential-maze/"><u>Master the Windows Credential Maze</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-the-hurdle-get-wow-running-again-on-your-desktop-computer/"><u>Overcoming the Hurdle - Get WoW Running Again on Your Desktop Computer!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-method-to-restore-sharp-imagery-and-reduce-blur-in-cod-warzone-on-personal-computers/"><u>Step-by-Step Method to Restore Sharp Imagery and Reduce Blur in COD: Warzone on Personal Computers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722994412673-ultimate-tricks-to-minimize-latency-and-maximize-frame-rates-in-the-fun-filled-world-of-fall-guys/"><u>Ultimate Tricks to Minimize Latency & Maximize Frame Rates in the Fun-Filled World of Fall Guys</u></a></li>
 </ul></div>
 
