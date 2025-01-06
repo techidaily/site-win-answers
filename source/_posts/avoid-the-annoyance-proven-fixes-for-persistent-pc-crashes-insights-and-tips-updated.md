@@ -1,7 +1,7 @@
 ---
 title: "Avoid the Annoyance: Proven Fixes for Persistent PC Crashes - Insights & Tips (Updated )"
-date: 2024-12-26T16:12:28.300Z
-updated: 2024-12-27T16:10:27.458Z
+date: 2024-12-30T18:24:53.688Z
+updated: 2025-01-06T00:48:04.057Z
 tags:
   - win11
   - win10
@@ -42,6 +42,10 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. [Download the latest patch](https://tools.techidaily.com/drivereasy/download/)
@@ -65,15 +69,23 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2-4.jpg)
 4. Under**Virtual memory** , click**Change** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/3-2.jpg)
 5. Uncheck**Automatically manage paging file size for all drives** and make sure you’ve check**System managed size** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/4-2.jpg)
 6. Click**Set > OK** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7. Reboot your computer can check whether the crash will appear or not.
 
@@ -89,14 +101,10 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 4. Navigate to the save folder, delete Data(999).sav & Data(999).bak.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Reboot your computer and check the issue is solved or not.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Underclock your clock speed
 
@@ -129,15 +137,7 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Thanks for reading. Hope this article meets your need. And you are welcome to leave comments below.
 
@@ -158,22 +158,14 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-subscriber-supremacy-youtubes-front-runners/"><u>[New] 2024 Approved Subscriber Supremacy YouTube's Front-Runners</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-exploring-the-most-reliable-free-srt-translation-services/"><u>[New] Exploring the Most Reliable Free SRT Translation Services</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-how-to-activatedeactivate-pip-in-ios-web-experience/"><u>[New] In 2024, How to Activate/Deactivate PIP in iOS Web Experience</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-breakthrough-beginnings-in-panzoids/"><u>[Updated] Breakthrough Beginnings in Panzoids</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723000048537-anno-1800-and-directx-compatibility-solving-the-game-breaking-glitch/"><u>Anno 1800 & DirectX Compatibility: Solving the Game-Breaking Glitch</u></a></li>
-<li><a href="https://win-answers.techidaily.com/defeat-the-problem-of-dauntless-crashing-during-playtime-on-desktop/"><u>Defeat the Problem of Dauntless Crashing During Playtime on Desktop</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/easy-96-car-tech-upgrade-add-a-lane-departure-and-reverse-camera-without-breaking-the-bank-zdnets-guide/"><u>Easy $96 Car Tech Upgrade: Add a Lane Departure and Reverse Camera Without Breaking the Bank - ZDNET's Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723004149140-free-solution-to-call-of-duty-vanguard-freezing-learn-how-today/"><u>Free Solution to Call of Duty: Vanguard Freezing – Learn How Today!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-audio-problems-with-dolby-atmos-on-windows-operating-systems/"><u>How to Fix Audio Problems with Dolby Atmos on Windows Operating Systems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-high-cpu-consumption-by-google-chrome/"><u>How to Fix High CPU Consumption by Google Chrome</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-revolutionizing-gaming-with-funimate/"><u>In 2024, Revolutionizing Gaming with Funimate</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/no-sound-from-laptop-speakers-diagnose-and-solve-this-common-issue-easily/"><u>No Sound From Laptop Speakers - Diagnose and Solve This Common Issue Easily</u></a></li>
-<li><a href="https://win-answers.techidaily.com/pc-gamers-unite-how-to-get-days-gone-up-and-running-without-hitches/"><u>PC Gamers Unite! How to Get 'Days Gone' Up & Running Without Hitches</u></a></li>
-<li><a href="https://win-answers.techidaily.com/pc-gaming-help-saints-row-wont-start-heres-what-you-can-do/"><u>PC Gaming Help - Saints Row Won't Start? Here’s What You Can Do!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-to-stop-thaumaturge-from-freezing-your-pc-during-gameplay/"><u>Troubleshooting Tips to Stop Thaumaturge From Freezing Your PC During Gameplay</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-top-5-essential-linux-based-audio-capture-tools-and-practical-recording-techniques-for-2024/"><u>Updated Top 5 Essential Linux-Based Audio Capture Tools & Practical Recording Techniques for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/vn-video-editor-pro-review-can-it-replace-your-go-to-video-editor-for-2024/"><u>VN Video Editor Pro Review Can It Replace Your Go-To Video Editor for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-top-5-video-editors-for-macos-sierra/"><u>[New] Top 5 Video Editors for macOS Sierra</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-reflection-photography-tips-for-iphone/"><u>[Updated] 2024 Approved Reflection Photography Tips for iPhone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-stepwise-approach-implementing-luts-in-adobes-premiere-suite/"><u>[Updated] Stepwise Approach Implementing LUTs in Adobe's Premiere Suite</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-swift-image-adaptation-techniques-for-iphone-users/"><u>[Updated] Swift Image Adaptation Techniques for iPhone Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-the-bug-blitz-in-call-of-duty-warzone-troubleshooting-disc-read-errors-for-optimal-gaming-experience-versions-50-and-31/"><u>Beat the Bug Blitz in Call of Duty Warzone: Troubleshooting Disc Read Errors for Optimal Gaming Experience (Versions 5.0 and 3.1)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/did-your-apple-iphone-12-pro-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your Apple iPhone 12 Pro Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-overcoming-problems-with-starting-davinci-resolve-on-windows-systems/"><u>Expert Tips: Overcoming Problems with Starting DaVinci Resolve on Windows Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-a-sluggish-chrome-browser-fast-simple-solutions/"><u>Fix a Sluggish Chrome Browser Fast: Simple Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-fixing-the-security-breach-alert-in-online-games/"><u>Resolved: Fixing the 'Security Breach' Alert in Online Games</u></a></li>
 </ul></div>
 

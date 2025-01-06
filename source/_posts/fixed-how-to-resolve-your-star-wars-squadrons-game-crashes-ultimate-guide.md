@@ -1,7 +1,7 @@
 ---
 title: "Fixed! How to Resolve Your Star Wars: Squadrons Game Crashes | Ultimate Guide"
-date: 2024-12-18T17:58:26.451Z
-updated: 2024-12-20T16:59:06.898Z
+date: 2025-01-01T22:54:11.081Z
+updated: 2025-01-05T23:31:22.988Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/0cf9688fb864217953ed20bc37cbae8628a2ed0f2
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -55,10 +59,6 @@ thumbnail: https://thmb.techidaily.com/0cf9688fb864217953ed20bc37cbae8628a2ed0f2
 | **Graphics**             | NVIDIA GeForce GTX 960 or AMD Radeon RX 470                     | NVIDIA GeForce GTX 1060 or AMD Radeon RX 580 | NVIDIA GeForce RTX 2070/RTX 3060 Ti or AMD Radeon RX 5700XT | NVIDIA GeForce RTX 3080 or AMD Radeon RX 6800 XT |
 | **High-Rez asset cache** | Up to 32 GB                                                     | Up to 32 GB                                  | Up to 32 GB                                                 | Up to 64 GB                                      |
 | **Video memory**         | 2 GB                                                            | 4 GB                                         | 8 GB                                                        | 10 GB                                            |
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 1: Close background applications
 
@@ -124,10 +124,6 @@ If Vanguard still freezes randomly on your PC, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
  If you’re still experiencing random freezes while playing Vanguard, try the next fix.
@@ -144,24 +140,24 @@ If Vanguard still freezes randomly on your PC, try the next fix.
 2. Windows will scan for any available updates. If there are_no_ available updates, you’ll get a**You’re up to date** sign. You could also click**View all optional updates** and install them if needed.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/up-to-date.png)
 3. If there are available updates, Windows will automatically download them for you. Follow instructions to complete the installation if needed.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/windows-update.jpg)
 4. Restart your PC to let it take effect.
 
-If this doesn’t solve your problem, try the next fix.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+If this doesn’t solve your problem, try the next fix.
 
 ## Fix 7: Check your antivirus software
 
@@ -173,10 +169,6 @@ If this doesn’t solve your problem, try the next fix.
 
 If the freezing issue persists, there’s one more fix you can try.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 8: Increase your virtual memory
 
  According to the system requirements, you need to have at least 8 GB RAM to run Call of Duty: Vanguard. If your PC is running out of memory, the game performance may be impacted and you may experience random freezes. If that’s the case, you can check your virtual memory and then increase it if needed:
@@ -186,18 +178,26 @@ If the freezing issue persists, there’s one more fix you can try.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-sysdm.cpl-.jpg)
 3. Go to the **Advanced** tab, under the Performance section, click **Settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/advanced-performance-settings.jpg)
 4. Again switch to the **Advanced** tab, under the Virtual memory section, click **Change** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/virtual-memory-change.jpg)
 5. Uncheck the box of **Automatically manage paging file size for all drives** , then select **Custom size** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-10_11-54-55.jpg)
 6. Use the below formulas to calculate the values you should set:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _**1GB = 1024 MB**_  
  _**Initial size (MB) = 1.5 \* the amount of RAM (GB) on your PC**_  
@@ -206,12 +206,12 @@ _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-msinfo32.jpg)
 8. Calculate and fill in the **Initial size and Maximum size** , click **Set** then click **OK** . For example, I have 8 GB RAM, so my initial size would be 8\*1024\*1.5=12,288 MB, and my maximum size would be 8\*1024\*3=24576 MB  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/custom-size.jpg)
 9. Reboot your PC to see if Vanguard still freezes on your PC.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -232,22 +232,21 @@ _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-elite-8-cybernetic-photograph-assembly-suite/"><u>[New] Elite 8 Cybernetic Photograph Assembly Suite</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-how-to-edit-the-length-of-a-video-on-youtube/"><u>[New] In 2024, How to Edit the Length of a Video on YouTube</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ace-your-admin-duties-5-innovative-prompts-for-expedited-hr-tasks-using-conversational-ai/"><u>Ace Your Admin Duties: 5 Innovative Prompts for Expedited HR Tasks Using Conversational AI</u></a></li>
-<li><a href="https://win-answers.techidaily.com/bicycle-becomes-bicycles/"><u>Bicycle Becomes Bicycles</u></a></li>
-<li><a href="https://win-answers.techidaily.com/football-manager-2020-how-to-fix-the-game-crash-issue/"><u>Football Manager 2020: How to Fix the Game Crash Issue</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/hero5-mastery-a-comprehensive-guide-to-photo-and-video-excellence-for-2024/"><u>Hero5 Mastery A Comprehensive Guide to Photo and Video Excellence for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-eliminate-web-browsing-distractions-a-step-by-step-guide-to-stop-chromiums-erratic-behavior-on-windows/"><u>How to Eliminate Web Browsing Distractions: A Step-by-Step Guide to Stop Chromium's Erratic Behavior on Windows</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-fix-intermittent-media-on-chrome-browser/"><u>In 2024, Fix Intermittent Media on Chrome Browser</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-realme-11x-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Realme 11X 5G FRP Bypass</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/optimize-iphone-call-volume-uncover-the-best-fixes-and-hacks-today/"><u>Optimize iPhone Call Volume – Uncover the Best Fixes and Hacks Today!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-rainbow-six-siege-startup-issues-now-fixed/"><u>Resolved: Rainbow Six Siege Startup Issues Now Fixed</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-how-to-stop-sony-vegas-media-studio-from-crashing/"><u>Resolved! How to Stop Sony Vegas Media Studio From Crashing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-operation-issues-on-modern-windows-pcs/"><u>Resolving Operation Issues on Modern Windows PCs</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/the-ultimate-troubleshooting-guide-for-installing-idt-high-quality-sound-card-drivers-on-windows-10-pcs/"><u>The Ultimate Troubleshooting Guide for Installing IDT High-Quality Sound Card Drivers on Windows 10 PCs</u></a></li>
-<li><a href="https://win-answers.techidaily.com/total-war-three-kingdoms-stability-guide-resolving-the-game-crash-dilemma/"><u>Total War: Three Kingdoms Stability Guide: Resolving the Game Crash Dilemma</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-persistent-crashes-of-the-content-warning-tool-on-desktop-systems/"><u>Troubleshooting Persistent Crashes of the Content Warning Tool on Desktop Systems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-to-finding-solutions-for-pc-instances-of-slime-rancher-ncrashes-and-stalls/"><u>Ultimate Guide to Finding Solutions for PC Instances of Slime Rancher nCrashes and Stalls</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-grandiose-photographic-epic-weaver/"><u>[New] Grandiose Photographic Epic Weaver</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-winning-gameplay-capture-with-fbx/"><u>[New] Winning Gameplay Capture with FBX</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-a-visual-journey-in-filmmaking-insights-from-filmora-expertise/"><u>[Updated] 2024 Approved A Visual Journey in Filmmaking Insights From Filmora Expertise</u></a></li>
+<li><a href="https://win-hot.techidaily.com/assessing-risk-factors-in-cryptocurrency-trading-yl-software-expert-analysis/"><u>Assessing Risk Factors in Cryptocurrency Trading - YL Software Expert Analysis</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-vivo-y100t-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Vivo Y100t FRP Locks</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-correctly-address-the-class-not-registered-problem-in-your-windows-10-system/"><u>How to Correctly Address the 'Class Not Registered' Problem in Your Windows 10 System</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-samsung-galaxy-a34-5g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Samsung Galaxy A34 5G to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/raphic-analysis-the-hottest-2023-trends-for-2024/"><u>Infographic Analysis The Hottest 2023 Trends for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/rapid-video-conversion-with-winx-pro-dvd-rip-securely-tranform-your-dvds-into-hd-h264hevc-mp4-files-in-half-an-hour/"><u>Rapid Video Conversion with WinX Pro DVD Rip: Securely Tranform Your DVDs Into HD H.264/HEVC MP4 Files in Half an Hour</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-on-free-oga-to-wav-file-transformation/"><u>Step-by-Step Guide on FREE OGA to WAV File Transformation</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-tutorial-for-seamlessly-changing-wrf-to-mp4-with-leading-video-conversion-tools/"><u>Step-by-Step Tutorial for Seamlessly Changing WRF to MP4 with Leading Video Conversion Tools</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-rated-video-editing-software-for-windows-the-ultimate-guide/"><u>Top Rated Video Editing Software for Windows: The Ultimate Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-replacement-options-when-the-official-kodil-repository-is-unavailable-download-alternate-addon-packages/"><u>Top Replacement Options When the Official Kodil Repository Is Unavailable - Download Alternate Addon Packages</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-dvd-ripper-accelerate-your-video-and-dvd-conversions-with-wonderfox/"><u>Ultimate DVD Ripper: Accelerate Your Video & DVD Conversions with WonderFox</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-to-tweaking-dat-video-playback-for-enhanced-quality/"><u>Ultimate Guide to Tweaking DAT Video Playback for Enhanced Quality</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-safe-methods-to-rip-burn-and-duplicate-your-dvdcd-content/"><u>Ultimate Guide: Safe Methods to Rip, Burn & Duplicate Your DVD/CD Content</u></a></li>
 </ul></div>
 

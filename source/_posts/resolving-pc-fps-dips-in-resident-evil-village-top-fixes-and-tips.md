@@ -1,7 +1,7 @@
 ---
 title: Resolving PC FPS Dips in Resident Evil Village – Top Fixes and Tips
-date: 2024-12-24T16:03:58.708Z
-updated: 2024-12-27T16:05:33.876Z
+date: 2024-12-29T19:22:24.664Z
+updated: 2025-01-05T21:22:01.128Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ The long awaited horror game**Resident Evil Village** (RE8) is finally out now. 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix Resident Evil Village Crashing on PC
 
  Here are ten fixes that have helped other players resolve the Resident Evil Village crashing on PC problem. You may not have to try them all; just work your way down the list until you find the one that does the trick for you.
@@ -36,6 +40,10 @@ The long awaited horror game**Resident Evil Village** (RE8) is finally out now. 
 8. **[Install the latest patch](https://tools.techidaily.com/drivereasy/download/)**
 9. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 10. **[Reinstall Resident Evil Village and Steam](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1:   **Make sure your PC meets the minimum specifications for Resident Evil Village**
 
@@ -59,15 +67,15 @@ To check the specs of your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/dxdiag-Run-box.png)
 2. Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/dxdiag-diagnostic-tool-1.png)
 3. Select the **Display** tab, and you’ll be presented with the information about your **graphics card** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/display-1.png)
 4. Close DirectX.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If your PC specs have been up to the mark but Resident Evil Village still crashes, please move on to **Fix 2** , below to begin troubleshooting.
 
@@ -87,10 +95,6 @@ To check the specs of your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/5-3.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Restart your computer for the changes to take effect.
 5. Launch Resident Evil Village and check to see if crashing issue has been resolved. If yes, then great! If the issue persists, please try **Fix 3** , below.
 
@@ -108,15 +112,11 @@ You can disable Steam overlay with the following steps:
 3. In the **GENERAL** section, uncheck the **Enable Steam Overlay while in-game** box.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/Disable-the-Steam-Overlay-for-Resident-Evil-Village-2.jpg)
 4. Run Resident Evil Village to see if the crashing problem is fixed. If it doesn’t cut it, please try**Fix 4** , below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Run Steam as administrator
 
@@ -129,10 +129,6 @@ Here’s how:
 2. Click **Yes**  when UAC prompts for permissions to proceed.
 
  After that, launch Resident Evil Village game and see if the crashing problem still occurs. If it doesn’t, then great! If the issue persists, please try **Fix 5** , below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Verify game integrity on Steam
 
@@ -151,6 +147,10 @@ The steps are pretty easy:
 
 6. Re-launch Resident Evil Village to see if it can be played properly. If yes, then congrats! If it’s still no joy, please try **Fix 6** , below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Close background apps
 
  Having too many apps running in the background at the same time may also cause your game to crash. These apps compete for CPU, memory and even induce instability issues. So it makes sense that while you’re playing the game, you close these resources hungry applications and services.
@@ -162,14 +162,10 @@ Here’s how to close background apps:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/123.png)
 3. Restart your computer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  RE8 still crashes? Don’t worry – there’s a couple more fixes for you to try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 7: Disable HDR in RE 8 and Windows
@@ -185,6 +181,10 @@ Here’s how to close background apps:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/Resident-Evil-Village-steam-properties-1.png)
 3. Click**Local** \>**Browse…** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Open the**Config** file and set**HDRMode-false** .
 
 **How to turn off HDR in Windows (if your monitor supports HDR)**
@@ -194,7 +194,7 @@ Here’s how to close background apps:
 2. Scroll to the Windows HD Color section and turn the toggle for**Play HDR games and apps** to**Of** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/windows-hdr-off.png)
@@ -229,7 +229,7 @@ Here are the steps to perform a clean boot:
    * **If Resident Evil Village still crashes** , please continue to **Fix 10** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 10: **Reinstall Resident Evil Village and Steam**
@@ -258,24 +258,16 @@ Here are the steps to perform a clean boot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-mastering-zoom-audio-high-fidelity-and-unmuted-channels-for-2024/"><u>[New] Mastering Zoom Audio High Fidelity & Unmuted Channels for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solved-naraka-bladepoint-crashing/"><u>[SOLVED] Naraka: Bladepoint Crashing</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-powerpoint-to-video-best-practices-with-webcams-now/"><u>[Updated] PowerPoint to Video Best Practices with Webcams, Now</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1-top-30-no-cost-websites-for-enjoying-manga-anytime-anywhere/"><u>1. Top 30 No-Cost Websites for Enjoying Manga Anytime, Anywhere</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-explaining-the-freeze-photo-booth-film-flow/"><u>2024 Approved Explaining the Freeze Photo Booth Film Flow</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-top-3-strategies-for-clear-online-interaction-4/"><u>2024 Approved Top 3 Strategies for Clear Online Interaction (#4)</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-oppo-reno-11-5g-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Oppo Reno 11 5G</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ensure-the-anagram-does-not-exceed-12-characters-and-retains-at-least-one-character-from-the-original-proper-noun-in-its-original-position-within-the-word-e563/"><u>Ensure the Anagram Does Not Exceed 12 Characters and Retains at Least One Character From the Original Proper Noun in Its Original Position Within the Word (E.g., 'R' Remains as the Second Letter).</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-tips-for-fixing-and-optimizing-call-of-duty-mw3-when-it-wont-start-a-comprehensive-guide/"><u>Expert Tips for Fixing and Optimizing 'Call of Duty: MW3' When It Won't Start - A Comprehensive Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-solve-corsair-icue-compatibility-problems-on-windows-11/"><u>How to Solve Corsair iCUE Compatibility Problems on Windows 11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-stop-your-game-solving-war-thunders-constant-crashing-issues/"><u>How to Stop Your Game: Solving War Thunder's Constant Crashing Issues</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/iphone-15-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>iPhone 15 Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/mobile-and-desktop-techniques-for-youtube-short-video-submission/"><u>Mobile & Desktop Techniques for YouTube Short Video Submission</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-p3s-pc-game-crashes-no-more/"><u>Resolved: P3S PC Game Crashes No More</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-the-mystery-of-mass-effect-trilogy-crashes-on-pc-and-xbox/"><u>Solving the Mystery of Mass Effect Trilogy Crashes on PC and Xbox</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-silent-pc-issues-in-minecraft-a-step-by-step-guide/"><u>Troubleshooting Silent PC Issues in Minecraft: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-to-avoid-interruptions-in-playing-metro-exodus-pc-upgrade/"><u>Troubleshooting Tips to Avoid Interruptions in Playing Metro Exodus PC Upgrade</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unlocking-the-world-through-360-degree-fisheye-imaging/"><u>Unlocking the World Through 360 Degree Fisheye Imaging</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/virtual-shopfront-user-testing-for-2024/"><u>Virtual Shopfront User Testing for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-10-best-online-video-call-free-to-use/"><u>[New] 10 Best Online Video Call (Free to Use)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1-sonos-roam-2-the-enhanced-smart-speaker-with-refined-elegance/"><u>1. Sonos Roam 2: The Enhanced Smart Speaker with Refined Elegance</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-new-laptop-features-with-m1-max-clips/"><u>2024 Approved Navigating New Laptop Features with M1 Max Clips</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-smart-image-management-on-ios-devices/"><u>2024 Approved Smart Image Management on iOS Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effective-strategies-reacting-to-faulty-windows-11-tools/"><u>Effective Strategies: Reacting to Faulty Windows 11 Tools</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-unreal-process-error-on-outriders-say-goodbye-to-ue4-madness/"><u>Fixing the Unreal Process Error on Outriders: Say Goodbye to UE4 Madness</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/masterclass-naming-your-podcast-and-top-50plus-name-suggestions-for-inspiration-for-2024/"><u>Masterclass Naming Your Podcast & Top 50+ Name Suggestions for Inspiration for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimize-warzone-gaming-experience-with-correct-gpu-handling-in-windows-10/"><u>Optimize Warzone Gaming Experience with Correct GPU Handling in Windows 10</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/premium-zero-cost-switch-gaming-experience/"><u>Premium Zero Cost Switch Gaming Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723013338491-resolved-overcome-fortnite-login-issues-instantly-and-simply/"><u>Resolved: Overcome Fortnite Login Issues Instantly and Simply!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-strategies-for-fixing-pc-freezing-issues-in-fortnite/"><u>Top Strategies for Fixing PC Freezing Issues in Fortnite</u></a></li>
 </ul></div>
 

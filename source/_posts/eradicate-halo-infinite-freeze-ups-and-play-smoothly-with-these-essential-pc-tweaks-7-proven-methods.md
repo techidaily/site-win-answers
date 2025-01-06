@@ -1,7 +1,7 @@
 ---
 title: Eradicate Halo Infinite Freeze-Ups and Play Smoothly with These Essential PC Tweaks (7 Proven Methods)
-date: 2024-12-24T16:10:54.504Z
-updated: 2024-12-27T16:10:57.358Z
+date: 2025-01-04T20:02:56.059Z
+updated: 2025-01-06T01:57:25.194Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ Many players are complaining about the Escape from Tarkov low FPS since the rece
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes to try
 
  Here are 6 tried-and-true fixes for**Escape from Tarkov low FPS** . You may not try them all. Just work your way down the list until you find the one that does the trick.
@@ -34,7 +38,7 @@ Many players are complaining about the Escape from Tarkov low FPS since the rece
 6. **[Configure your graphics card settings](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1 – Update your graphics driver
@@ -51,7 +55,7 @@ Many players are complaining about the Escape from Tarkov low FPS since the rece
 3. Click**Update** **All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update** **All** ). Or you can click**Update** to update the graphics driver for free, but it’s partly manual.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/amd-6800xt.jpg)
@@ -75,7 +79,7 @@ Many players are complaining about the Escape from Tarkov low FPS since the rece
  If no programs are consuming your CPU or GPU but FPS drops reoccur, try the third fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3 – Change the PC power plan
@@ -89,7 +93,7 @@ Many players are complaining about the Escape from Tarkov low FPS since the rece
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-power-plan-2-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you’re on a high-end PC, the**Ultimate Performance** mode may help you fully unleash the potential of your machine. Here’s how to enable this mode.
@@ -120,6 +124,10 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/disable-fullscreen-optimizations-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Launch EFT to check the game performance. If this gives you no luck, there are two more fixes to try.
 
 ### Fix 5 – Adjust the in-game graphics settings
@@ -131,22 +139,18 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/tarkov-settings-1.jpg)
 3. Scroll down to turn on**Mip Streaming** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Navigate to the**GAME** tab and uncheck**Always show interface elements** ,**Auto RAM Cleaner** as well as**Use only the physical cores** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/tarkov-settings-2.jpg)
 5. Select the**POSTFX** tab, and make sure to**untick Enable PostFX** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/tarkov-settings-3.jpg)
 6. Click**Save** to apply the changes.
 
  Test the issue again. If you’re still facing low FPS in Escape from Tarkov, continue to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6 – Configure the graphics card settings
 
@@ -161,15 +165,11 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-2-1.jpg)
 3. Navigate to the**Program Settings** and select the**EscapeFromTarkov.exe file** from the drop-down list.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/nvidia-settings.jpg)
 4. Modify the settings as below:  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _Anisotropic filtering_ :**Application-controlled**  
@@ -192,7 +192,7 @@ _Vertical sync_ :**Off**
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/amd-graphics-card-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Restart the game to test, and you should find the FPS increases now.
@@ -219,18 +219,24 @@ Restart the game to test, and you should find the FPS increases now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-hunt-for-best-ringtone-deals-on-pixel-phones/"><u>[Updated] Hunt for Best Ringtone Deals on Pixel Phones</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/bringing-beats-integrating-music-in-inshot-editor-for-2024/"><u>Bringing Beats Integrating Music in InShot Editor for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/code-vein-freezing-glitches-heres-how-you-can-fix-them/"><u>Code Vein Freezing Glitches? Here's How You Can Fix Them</u></a></li>
-<li><a href="https://win-answers.techidaily.com/eliminate-the-mystery-resolving-discord-screen-sharing-display-errors/"><u>Eliminate the Mystery: Resolving Discord Screen Sharing Display Errors</u></a></li>
-<li><a href="https://win-answers.techidaily.com/god-of-war-not-working-overcome-inadequate-memory-error-here/"><u>God of War Not Working? Overcome 'Inadequate Memory' Error Here!</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-honor-x50-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Honor X50 | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-handle-illegal-game-entry-error-messages-successfully/"><u>How to Handle 'Illegal Game Entry' Error Messages Successfully</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mlb-the-show-21-online-experience-improved-no-more-servers-down/"><u>MLB The Show 21 Online Experience Improved - No More Servers Down!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-fixing-the-blackout-how-to-overcome-screen-sharing-issues-on-discord/"><u>Resolved: Fixing the Blackout - How to Overcome Screen Sharing Issues on Discord</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/revolutionize-customer-interaction-using-cookiebot-features/"><u>Revolutionize Customer Interaction Using Cookiebot Features</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/struggle-with-mspm-installer-win-fix-guide-needed/"><u>Struggle with MSPM Installer? Win-Fix Guide Needed</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-comprehensive-tech-companion-unlocking-secrets-with-toms-hardware-know-how/"><u>The Comprehensive Tech Companion: Unlocking Secrets with Tom's Hardware Know-How</u></a></li>
-<li><a href="https://win-updates.techidaily.com/wavmp43/"><u>WAVからMP4へ変換するための3つの最新方法とアプリケーションをご紹介</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-alternatives-spotlighted-by-az-screen-recorder/"><u>[New] Alternatives Spotlighted by AZ Screen Recorder</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/1715939476902-new-how-to-record-lol-gameplay3-methods-for-2024/"><u>[New] How to Record LOL Gameplay?(3 Methods) for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/complete-tutorial-resolving-app-disintegration-issues/"><u>Complete Tutorial: Resolving App Disintegration Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cost-effective-ssl-picks-efficiency-check/"><u>Cost-Effective SSL Picks: Efficiency Check</u></a></li>
+<li><a href="https://win-answers.techidaily.com/diagnosing-and-correcting-crashes-in-thaumaturge-while-playing-on-personal-computer/"><u>Diagnosing and Correcting Crashes in Thaumaturge While Playing on Personal Computer</u></a></li>
+<li><a href="https://win-blog.techidaily.com/disco-las-herramientas-de-visualizacion-libre-para-dvd-en-windows-11-y-mac/"><u>Disco Las Herramientas De Visualización Libre Para DVD en Windows 11 Y Mac</u></a></li>
+<li><a href="https://solve-help.techidaily.com/enhance-your-broadcasts-using-manycams-advanced-webcam-integration-techniques/"><u>Enhance Your Broadcasts Using ManyCam's Advanced Webcam Integration Techniques</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-guide-addressing-problems-with-the-corsair-icue-interface-on-recent-windows-versions/"><u>Fix Guide: Addressing Problems with the Corsair iCUE Interface on Recent Windows Versions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-pc-problems-how-to-prevent-no-rest-for-the-wicked-from-constant-interruptions-during-gameplay/"><u>Fixing PC Problems: How to Prevent 'No Rest for the Wicked' From Constant Interruptions During Gameplay</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/flashmjpeg/"><u>Flash動画MJPEGファイルのお金を払わずに自由に変換 - ムーヴェイビ</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-samsung-galaxy-a05-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Samsung Galaxy A05 Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-microsoft-flight-simulator-202n-from-frequently-crashing-on-your-computer/"><u>How to Stop Microsoft Flight Simulator 202N From Frequently Crashing on Your Computer</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-premium-vfx-setup-options/"><u>In 2024, Premium VFX Setup Options</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-swiftly-restoring-eliminated-reddit-content/"><u>In 2024, Swiftly Restoring Eliminated Reddit Content</u></a></li>
+<li><a href="https://win-answers.techidaily.com/maximize-frames-per-second-in-borderlands-3-proven-optimization-techniques-for-playstation-enthusiasts/"><u>Maximize Frames per Second in Borderlands 3: Proven Optimization Techniques for PlayStation Enthusiasts</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/the-ultimate-tutorial-on-downloading-youtube-content-for-editing-in-windows-movie-maker/"><u>The Ultimate Tutorial on Downloading YouTube Content for Editing in Windows Movie Maker</u></a></li>
+<li><a href="https://win-answers.techidaily.com/trouble-with-final-fantasy-xivs-update-verification-process/"><u>Trouble with Final Fantasy XIV's Update Verification Process</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-the-secrets-to-llama-2-strategies-and-techniques-for-effective-use/"><u>Unlocking the Secrets to LLAMA 2: Strategies and Techniques for Effective Use</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722999519161-valorant-performance-optimization-eliminate-stutters-and-increase-frame-rates/"><u>Valorant Performance Optimization: Eliminate Stutters & Increase Frame Rates!</u></a></li>
 </ul></div>
 

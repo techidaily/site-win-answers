@@ -1,7 +1,7 @@
 ---
 title: "Beat the Crashes: Ultimate Guide to Running Hearts of Iron IV Stably"
-date: 2024-12-20T16:10:25.222Z
-updated: 2024-12-27T16:07:05.840Z
+date: 2025-01-01T16:12:52.333Z
+updated: 2025-01-05T20:32:08.769Z
 tags:
   - win11
   - win10
@@ -47,14 +47,18 @@ thumbnail: https://thmb.techidaily.com/f5c71e67a7e48026b76caae61fa224d5139bed717
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/force-windowed-mode-1.jpg)
 2. Click the**gear icon** next to the Play button and click**Game Settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/force-windowed-mode-2.jpg)
 3. Tick**Additional command line arguments** . Then type**\-w** in the field and click**Done** at the bottom right corner.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/force-windowed-mode-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now that you’ve applied the changes, relaunch the game to test the issue. If the crashes persist, move on to the third fix below.
 
@@ -69,7 +73,7 @@ thumbnail: https://thmb.techidaily.com/f5c71e67a7e48026b76caae61fa224d5139bed717
  Check if the game works normally now. If not, revert the folder’s name and try the next method.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4 – Update your graphics driver
@@ -89,10 +93,14 @@ thumbnail: https://thmb.techidaily.com/f5c71e67a7e48026b76caae61fa224d5139bed717
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/amd-6800xt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When the update finishes, reboot your computer for the changes to take effect. The game should be running more smoothly with better performance. If not, take a look at the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5 – Scan and repair game files
 
@@ -105,11 +113,11 @@ thumbnail: https://thmb.techidaily.com/f5c71e67a7e48026b76caae61fa224d5139bed717
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/scan-game-files-2-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The scanning will start immediately, followed by a repair update if missing or corrupt files are found. Once done, restart the game and see how it works. Still no luck? There is one more fix to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6 – Disable Discord overlay
 
@@ -120,15 +128,7 @@ thumbnail: https://thmb.techidaily.com/f5c71e67a7e48026b76caae61fa224d5139bed717
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/7-2-1-1.jpg)
 3. Select**Game Overlay** from the left pane and**toggle off** the button for**Enable in-game overlay** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/7-2-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Close Discord and relaunch your game. If the crashes occur again, you may need to contact Blizzard support for specific assistance.
 
@@ -154,20 +154,17 @@ thumbnail: https://thmb.techidaily.com/f5c71e67a7e48026b76caae61fa224d5139bed717
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-dive-into-youtubes-best-practices-for-playlist-design/"><u>[New] In 2024, Dive Into Youtube's Best Practices for Playlist Design</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-comprehensive-guide-to-metaverse-promotion/"><u>[New] The Comprehensive Guide to Metaverse Promotion</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-simplifying-speech-integration-into-instagram-content/"><u>[Updated] 2024 Approved Simplifying Speech Integration Into Instagram Content</u></a></li>
-<li><a href="https://win-answers.techidaily.com/current-status-of-xbox-live-is-the-service-running-smoothly/"><u>Current Status of Xbox Live: Is the Service Running Smoothly?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ensure-successful-modern-warfare-launch-on-pc-2024-error-fixes-and-advice-this-title-emphasizes-a-successful-launch-outcome-ensure-success/"><u>Ensure Successful Modern Warfare Launch on PC: 2024 Error Fixes and Advice - This Title Emphasizes a Successful Launch Outcome (Ensure Success</u></a></li>
-<li><a href="https://win-answers.techidaily.com/guide-activating-the-group-policy-editor-on-windows-home-computers/"><u>Guide: Activating the Group Policy Editor on Windows Home Computers</u></a></li>
-<li><a href="https://fox-info.techidaily.com/harnessing-the-power-of-gratuitous-text-animations/"><u>Harnessing the Power of Gratuitous Text Animations</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-crashing-far-cry-6-on-your-windows-computer/"><u>How to Fix Crashing Far Cry 6 on Your Windows Computer</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-get-your-paradox-game-launcher-running-again-quick-fixes-inside/"><u>How To Get Your Paradox Game Launcher Running Again - Quick Fixes Inside</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-vivo-v30-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Vivo V30 Devices</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-infinix-note-30-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Infinix Note 30 Android SIM Unlock APK</u></a></li>
-<li><a href="https://win-answers.techidaily.com/no-more-crashes-stabilizing-fallout-3-gameplay-on-windows-10-systems/"><u>No More Crashes: Stabilizing Fallout 3 Gameplay on Windows 10 Systems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-to-stop-starfield-from-closing-unexpectedly-on-your-desktop/"><u>Step-by-Step Guide to Stop Starfield From Closing Unexpectedly on Your Desktop</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-itel-s23plus-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Itel S23+ | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722995647070-why-is-my-amazon-prime-streaming-service-unresponsive-solutions-inside/"><u>Why Is My Amazon Prime Streaming Service Unresponsive? Solutions Inside!</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-expert-techniques-to-masterboard-use-during-remote-collaborations-across-various-operating-systems/"><u>[New] 2024 Approved Expert Techniques to Masterboard Use During Remote Collaborations Across Various Operating Systems</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-apex-recommendations-exquisite-iphone-ringtone-designers/"><u>[New] Apex Recommendations Exquisite iPhone Ringtone Designers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-branding-in-videos-incorporating-logoswatermarks-for-youtube-content/"><u>[Updated] 2024 Approved Branding in Videos Incorporating Logos/Watermarks for YouTube Content</u></a></li>
+<li><a href="https://win-answers.techidaily.com/2024s-persistent-loading-problem-on-phasmophobia-strategies-to-surpass-90/"><u>2024'S Persistent Loading Problem on Phasmophobia - Strategies to Surpass 90%</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-nubia-red-magic-9-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Nubia Red Magic 9 Pro without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leveraging-chatgpt-for-smart-health-focused-meal-prep-strategies/"><u>Leveraging ChatGPT for Smart, Health-Focused Meal Prep Strategies</u></a></li>
+<li><a href="https://win-answers.techidaily.com/no-more-freezes-effective-strategies-to-fix-your-steam-clients-unresponsiveness-updated/"><u>No More Freezes: Effective Strategies to Fix Your Steam Client's Unresponsiveness (Updated )</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-windows-11-mails-default-html-email-formatting-problems/"><u>Tackling Windows 11 Mail's Default HTML Email Formatting Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-resolving-csgo-launch-issues/"><u>Troubleshooting Steps for Resolving CS:GO Launch Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unstuck-rust-applications-advanced-troubleshooting-techniques/"><u>Unstuck Rust Applications: Advanced Troubleshooting Techniques</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/unveiling-the-art-of-podcast-rss-mastery-for-2024/"><u>Unveiling the Art of Podcast RSS Mastery for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/valorant-stability-improved-how-to-fix-constant-disruptions-and-game-crashes-on-your-pc/"><u>Valorant Stability Improved - How to Fix Constant Disruptions & Game Crashes on Your PC</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Mongolia
-date: 2024-12-21T16:02:32.451Z
-updated: 2024-12-27T16:07:37.885Z
+date: 2024-12-30T23:26:47.108Z
+updated: 2025-01-05T23:17:28.474Z
 tags:
   - win11
   - win10
@@ -54,7 +54,7 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
  If you haven’t been updated your game for a while, you can update your game. The official keeps releasing new patches, the latest version may solve the crashing issue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Manage Virtual Memory
@@ -66,22 +66,26 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/1-4.jpg)
 3. Under the**Advanced** tab, click**Settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2-4.jpg)
 4. Under**Virtual memory** , click**Change** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/3-2.jpg)
 5. Uncheck**Automatically manage paging file size for all drives** and make sure you’ve check**System managed size** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/4-2.jpg)
 6. Click**Set > OK** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7. Reboot your computer can check whether the crash will appear or not.
 
@@ -98,13 +102,13 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 
 5. Reboot your computer and check the issue is solved or not.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4: Underclock your clock speed
 
  The game is built with an old Unreal Engine version. This may be the reason for the random crashes. You can underclock your CPU speed by 100 MHz or 150 MHz to see whether it helps or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus: Update your drivers
 
@@ -133,10 +137,6 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
  Thanks for reading. Hope this article meets your need. And you are welcome to leave comments below.
@@ -158,20 +158,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-is-there-a-science-to-youtubes-quick-subscribe-tactic/"><u>[New] Is There a Science to YouTube's Quick Subscribe Tactic?</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/hield-against-random-youtube-video-plays-for-2024/"><u>[New] Shield Against Random YouTube Video Plays for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-experts-guide-to-360-video-conversion-and-youtube-sharing/"><u>[Updated] The Expert's Guide to 360 Video Conversion and YouTube Sharing</u></a></li>
-<li><a href="https://driver-error.techidaily.com/driver-load-error-device-event-no-219/"><u>Driver Load Error - Device Event No. 219</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-phoenix-point-game-crash-a-complete-guide/"><u>Fixing the 'Phoenix Point' Game Crash: A Complete Guide</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Tecno Pop 7 Pro? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/microphone-malfunction-no-more-discover-the-best-solutions-of-2024/"><u>Microphone Malfunction No More! Discover the Best Solutions of 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-the-hurdles-of-initializing-funded-diablo-ii-reimagined-edition/"><u>Overcoming the Hurdles of Initializing [FUNDED] Diablo II: Reimagined Edition</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-connectivity-issues-corsair-icue-on-new-microsoft-operating-system-windows-11/"><u>Resolving Connectivity Issues: Corsair iCUE on New Microsoft Operating System (Windows 11)</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/step-by-step-guide-building-a-surface-recovery-partition-using-an-external-pc/"><u>Step-by-Step Guide: Building a Surface Recovery Partition Using an External PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/stop-mordhau-from-crashing-essential-solutions-for-a-smooth-gaming-experience/"><u>Stop Mordhau From Crashing: Essential Solutions for a Smooth Gaming Experience</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/top-11-cost-free-video-title-creator-tools-online/"><u>Top 11 Cost-Free Video Title Creator Tools Online</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-5-benefits-of-using-chatgpt-in-your-cryptocurrency-investment-strategy/"><u>Top 5 Benefits of Using ChatGPT in Your Cryptocurrency Investment Strategy</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-constant-collapses-in-remnant-the-definitive-edition/"><u>Troubleshooting Constant Collapses in 'Remnant: The Definitive Edition</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722994250745-utorrent-freezing-up-here-are-7-effective-solutions/"><u>Utorrent Freezing Up? Here Are 7 Effective Solutions!</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-journey-through-simulated-realities-vr-basics/"><u>[New] 2024 Approved Journey Through Simulated Realities VR Basics</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-how-to-find-uplifting-faith-songs-for-smartphone-alerts/"><u>[Updated] 2024 Approved How to Find Uplifting Faith Songs for Smartphone Alerts</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-the-battle-of-broadcads-vimeo-and-youtubes-face-off/"><u>[Updated] In 2024, The Battle of Broadcads Vimeo & YouTube's Face-Off</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-unveiling-yourself-instagram-live-basics/"><u>[Updated] Unveiling Yourself Instagram Live Basics</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/boost-your-dayz-gaming-experience-with-fast-fps-recovery-tips/"><u>Boost Your DayZ Gaming Experience with Fast FPS Recovery Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-strategies-for-fixing-the-persistent-anticheat-connection-failed-problem-in-escape-from-tarkov/"><u>Expert Strategies for Fixing the Persistent 'Anticheat Connection Failed' Problem in Escape From Tarkov</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-startup-problem-in-call-of-duty-modern-warfare-2/"><u>Fixing the Startup Problem in Call of Duty: Modern Warfare 2</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fortnite-sign-in-issues-resolved-fast-and-simple-fixes/"><u>Fortnite Sign-In Issues Resolved: Fast & Simple Fixes</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-extended-review-easy-dynamic-range-explained/"><u>In 2024, Extended Review Easy Dynamic Range Explained</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-final-cut-pro-x-basics-how-to-resize-and-crop-images/"><u>New In 2024, Final Cut Pro X Basics How to Resize and Crop Images</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-common-screen-sharing-hurdles-on-zoom-a-2024-guide/"><u>Overcoming Common Screen Sharing Hurdles on Zoom: A 2024 Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-ultimate-guide-to-restoring-pc-game-integrity-solutions-for-corrupted-files/"><u>The Ultimate Guide to Restoring PC Game Integrity - Solutions for Corrupted Files</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-microsoft-edge-exe-malfunction-on-windows-tips-and-solutions/"><u>Troubleshooting Microsoft Edge .exe Malfunction on Windows - Tips & Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-unfreezing-path-of-exile-on-your-pcmac/"><u>Troubleshooting Steps for Unfreezing Path of Exile on Your PC/Mac</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723002130773-wwe-2k22-resolving-your-pcs-stuttering-and-freezing-issues-expert-tips/"><u>WWE 2K22 - Resolving Your PC's Stuttering and Freezing Issues | Expert Tips</u></a></li>
 </ul></div>
 

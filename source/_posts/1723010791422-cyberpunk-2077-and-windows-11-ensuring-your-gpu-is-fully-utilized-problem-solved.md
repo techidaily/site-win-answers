@@ -1,7 +1,7 @@
 ---
 title: "Cyberpunk 2077 and Windows 11: Ensuring Your GPU Is Fully Utilized - Problem Solved"
-date: 2024-12-23T16:07:25.430Z
-updated: 2024-12-27T16:18:40.190Z
+date: 2025-01-02T16:54:14.260Z
+updated: 2025-01-06T00:12:56.574Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ It seems that strings of bugs come along with the release of[Cyberpunk 2077](htt
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -42,10 +42,6 @@ It seems that strings of bugs come along with the release of[Cyberpunk 2077](htt
  You also need to make sure that the video output comes from your dedicated graphics card. That means your monitor should be connected with your graphics card.
 
  If you’re sure that your CPU comes with integrated graphics, check out the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -85,6 +81,10 @@ To do so, first visit the website of your graphics card manufacturer:
 
  If updating the graphics driver doesn’t help you, take a look at the next method below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Change Graphics performance preference
 
  Window 10 allows you to customize GPU settings for specific programs, by using a feature called**Graphics performance preference** . If the tricks above don’t give your luck, you can try to**force Cyberpunk 2077 to run on your dedicated GPU** .
@@ -96,15 +96,11 @@ Here’s how:
 2. Under the **Multiple displays** section, click **Graphics settings** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Click **Browse**  to specify the file location of the Cyberpunk 2077 launcher.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/among-us-change-gpu.jpg)
 4. Click **Options** .  
@@ -112,9 +108,17 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-1.jpg)
 5. Select **High performance** and click **Save** . Then test the gameplay in Cyberpunk 2077.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-2.jpg)
 
  If this trick doesn’t solve your problem, you can continue to the next one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Install all Windows updates
 
@@ -127,10 +131,6 @@ And it’s quite easy to check for updates:
 2. Click **Check for updates** . Then wait for Windows to download and install the available system updates.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once you’ve installed all the system updates, do a reboot and test the gameplay in Cyberpunk 2077.
 
@@ -155,20 +155,22 @@ And it’s quite easy to check for updates:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-premiere-pros-shadowy-showdown/"><u>[New] 2024 Approved Premiere Pro's Shadowy Showdown</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-tackling-muted-frames-on-snapchat-videos-the-ultimate-solution/"><u>[New] 2024 Approved Tackling Muted Frames on Snapchat Videos - The Ultimate Solution</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-convert-with-confidence-best-apps-to-turn-spotify-into-youtube-channels/"><u>[New] In 2024, Convert with Confidence Best Apps to Turn Spotify Into YouTube Channels</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-premier-promises-the-art-of-the-podcast-prelude/"><u>[New] Premier Promises The Art of the Podcast Prelude</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-central-points-for-virtual-world-engagement-for-2024/"><u>[Updated] Central Points for Virtual World Engagement for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-smile-stashers-the-ultimate-list-of-meme-makers/"><u>[Updated] In 2024, Smile Stashers The Ultimate List of Meme Makers</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/choosing-between-bandicam-and-camtasia-for-video-capture/"><u>Choosing Between Bandicam and Camtasia for Video Capture</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722992127345-discord-and-javascript-woes-heres-how-to-fix-them/"><u>Discord and JavaScript Woes? Here’s How to Fix Them</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/how-much-footage-does-instagram-allow/"><u>How Much Footage Does Instagram Allow?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-stop-cyberpunk-2n77-from-crashing-on-your-pc-solutions-inside/"><u>How to Stop Cyberpunk 2N77 From Crashing on Your PC - Solutions Inside!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcome-firefox-stutter-and-freeze-expert-advice-for-smooth-browsing/"><u>Overcome Firefox Stutter and Freeze: Expert Advice for Smooth Browsing</u></a></li>
-<li><a href="https://win-answers.techidaily.com/proven-techniques-for-a-smooth-city-skylines-gaming-experience-amidst-2ebrs-technical-hurdles/"><u>Proven Techniques for a Smooth City Skylines Gaming Experience Amidst 2Ebr's Technical Hurdles</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-the-missing-msvcr110dll-issue-in-helldivers-2/"><u>Resolving the Missing MSVCR110.DLL Issue in Helldivers 2</u></a></li>
-<li><a href="https://win-answers.techidaily.com/starcraft-2-pc-compatibility-fixing-instances-of-the-game-shutting-down-unexpectedly/"><u>Starcraft 2 PC Compatibility: Fixing Instances of the Game Shutting Down Unexpectedly</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96368447-9781446350034-tales-of-haunted-places/"><u>Tales of Haunted Places | Free Book</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-ultimate-gear-guide-for-streaming-sensations/"><u>[New] In 2024, Ultimate Gear Guide for Streaming Sensations</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-virtual-excellence-in-depth-review-of-premium-rift-models-for-2024/"><u>[New] Virtual Excellence In-Depth Review of Premium Rift Models for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-times-up-rapid-tiktok-video-extraction-techniques/"><u>[Updated] Time's Up Rapid TikTok Video Extraction Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-10-download-snapchat-ringtones-websites/"><u>[Updated] Top 10 Download Snapchat Ringtones Websites</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-follow-your-favorites-top-6-mobile-apps-for-downloading-youtube-beats/"><u>2024 Approved Follow Your Favorites Top 6 Mobile Apps for Downloading YouTube Beats</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-in-depth-look-at-camstudios-capturing-capabilities/"><u>2024 Approved In-Depth Look at CamStudio's Capturing Capabilities</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-the-unsung-heroes-key-contributions-of-each-cinematic-craftsperson/"><u>2024 Approved The Unsung Heroes Key Contributions of Each Cinematic Craftsperson</u></a></li>
+<li><a href="https://win-answers.techidaily.com/csgo-performance-boosted-resolving-your-games-fps-dip-issue/"><u>CS:GO Performance Boosted - Resolving Your Game's FPS Dip Issue</u></a></li>
+<li><a href="https://win-answers.techidaily.com/decoding-the-problems-that-caused-lords-of-mayhem-to-miss-its-release-window/"><u>Decoding the Problems that Caused 'Lords of Mayhem' To Miss Its Release Window</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/detailed-dissection-what-makes-obs-a-top-recorder-for-2024/"><u>Detailed Dissection What Makes OBS a Top Recorder for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enjoy-seamless-gaming-with-tiny-tinas-open-world-essential-steps-and-solutions-for-pc-setup-and-launches/"><u>Enjoy Seamless Gaming with Tiny Tina's Open World - Essential Steps & Solutions for PC Setup and Launches</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Tecno Camon 20 | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-how-to-successfully-install-and-play-wrc-10-for-windows-users/"><u>Resolved: How to Successfully Install and Play WRC 10 for Windows Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-solutions-for-restored-playability-correcting-compromised-game-data-in-windows-pcs/"><u>Step-by-Step Solutions for Restored Playability: Correcting Compromised Game Data in Windows PCs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/steps-to-optimize-call-of-duty-mw2-running-addressing-frame-rate-fluctuations-and-stutter/"><u>Steps to Optimize Call of Duty: MW2 Running – Addressing Frame Rate Fluctuations & Stutter</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stop-grounded-from-dropping-out-on-your-pc-top-fixes-of-202n4/"><u>Stop Grounded From Dropping Out on Your PC - Top Fixes of 202N4</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-the-game-solutions-for-minecrafts-crossbow-issue/"><u>Troubleshooting the Game: Solutions for Minecraft's Crossbow Issue</u></a></li>
 </ul></div>
 

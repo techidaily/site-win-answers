@@ -1,7 +1,7 @@
 ---
 title: "Overcoming FPS Drops in Counter-Strike 2: Essential Tweaks for a Smooth PC Gaming Experience"
-date: 2024-12-24T16:08:40.086Z
-updated: 2024-12-27T16:06:04.956Z
+date: 2024-12-30T04:04:12.193Z
+updated: 2025-01-05T19:12:42.284Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/e9e9b7ca60047014bff6bb18f8c482a86a228fe45
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here are 6 fixes that have helped other gamers with_Warzone dev error 6328_ . You don’t have to try them all. Just work your way down the list until you find the one that does the trick.
@@ -43,10 +47,6 @@ thumbnail: https://thmb.techidaily.com/e9e9b7ca60047014bff6bb18f8c482a86a228fe45
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/modem.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 modem
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/router.png)
@@ -54,10 +54,6 @@ modem
 wireless router
 
  Now check if the error goes away. If not, take a look at the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2 – Update your graphics driver
 
@@ -84,10 +80,6 @@ wireless router
 
  Check how Warzone works. If the driver update doesn’t give you luck, move on to the third solution.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3 – Run Warzone on DirectX 11
 
  If Warzone dev error 6328 constantly occurs and the game keeps crashing, you could switch to the DirectX 11 mode, which, as other users reported, gives a smoother gameplay. Here is how to do this:
@@ -100,11 +92,11 @@ wireless router
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/12.jpg)
 4. Click**Done** to confirm.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Restart Warzone for the changes to take effect. See if you could get rid of the 6328 error now. If the problem persists, there are a few more fixes to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4 – Increase virtual memory
 
@@ -114,15 +106,15 @@ wireless router
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-1.jpg)
 2. Click**Settings** under the Performance section.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-2.jpg)
 3. Select the**Advanced** tab and click**Change** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-3-1.jpg)
 4. Untick**Automatically manage paging file size for all drives** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-4-1.jpg)
 5. Select**C drive** and check **Custom size** .  
@@ -132,6 +124,10 @@ wireless router
 
  Microsoft recommends you set the virtual memory no less than **1.5 times** and no more than **3 times** the amount of RAM on your computer. Here is a guide on [how to check RAM on your computer](https://tools.techidaily.com/drivereasy/download/) .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-6-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5 – Delete the game cache files
 
@@ -157,6 +153,10 @@ wireless router
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Save the changes and restart Warzone to test. Then the game should be running perfectly without the 6328 error code.
 
 ---
@@ -181,19 +181,17 @@ wireless router
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-answers.techidaily.com/call-of-duty-modern-warfare-2-how-to-address-and-correct-frame-rate-drops-and-stuttering-on-pc-platforms-for-ultimate-gaming-experience/"><u>'Call of Duty: Modern Warfare 2': How to Address and Correct Frame Rate Drops and Stuttering on PC Platforms for Ultimate Gaming Experience</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-best-10-virtual-reality-headgear-for-smartphones/"><u>[Updated] In 2024, Best 10 Virtual Reality Headgear for Smartphones</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-depth-review-vrs-winning-features-and-faults/"><u>[Updated] In-Depth Review VR's Winning Features & Faults</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-orbiting-imagery-advanced-methods-for-drone-video-editing/"><u>[Updated] Orbiting Imagery Advanced Methods for Drone Video Editing</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-photo-enhancers-blurring-removal-online-edition/"><u>[Updated] Top Photo Enhancers Blurring Removal Online Edition</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/clash-of-titans-a-comprehensive-look-at-the-differences-between-iphone-15-pro-max-and-samsung-s24-ultra/"><u>Clash of Titans: A Comprehensive Look at the Differences Between iPhone 15 Pro Max and Samsung S24 Ultra</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effortless-gameplay-tips-for-addressing-lag-issues-on-avatar-frontiers-of-pandora/"><u>Effortless Gameplay: Tips for Addressing Lag Issues on Avatar: Frontiers of Pandora</u></a></li>
-<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-lava-blaze-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Lava Blaze 2 | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-scavengers-crashes-on-your-windows-pc/"><u>How To Fix Scavengers Crashes on Your Windows PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-restore-functionality-of-logitech-devices-using-the-options-app-in-windows/"><u>How to Restore Functionality of Logitech Devices Using the Options App in Windows</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-nokia-c02-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Nokia C02 | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/phasmophobia-downloads-with-improved-stability-latest-fixes-and-patch-notes-releases/"><u>Phasmophobia Downloads with Improved Stability: Latest Fixes & Patch Notes Releases</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/top-7-standing-desks-of-2023-the-ultimate-list-from-zdnet/"><u>Top 7 Standing Desks of 2023: The Ultimate List From ZDNet</u></a></li>
-<li><a href="https://fox-links.techidaily.com/ultimate-guide-securely-integrating-tiktok-profile-links/"><u>Ultimate Guide Securely Integrating TikTok Profile Links</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-optimizing-visual-engagement-in-google-meet-sessions/"><u>[New] 2024 Approved Optimizing Visual Engagement in Google Meet Sessions</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/s-youtubes-monetization-routine-in-2024/"><u>[New] Is YouTube’s Monetization Routine, In 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-pro-photographys-selections-the-creme-de-la-4k-dslrs/"><u>[New] Pro Photography's Selections The Crème De La 4K DSLRs</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-multi-channel-mastery-coordinated-content-consumption/"><u>[Updated] In 2024, Multi-Channel Mastery Coordinated Content Consumption</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-free-mobile-live-stream-apps-essentials-for-smartphones/"><u>2024 Approved Free Mobile Live Stream Apps Essentials for Smartphones</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-setting-up-any-filter-you-need-in-gmail/"><u>Comprehensive Guide: Setting Up Any Filter You Need in Gmail</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/crafting-your-instagram-business-blueprint-for-2024/"><u>Crafting Your Instagram Business Blueprint for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-correctly-repair-a-malfunctioning-clownfish-vocal-transformer/"><u>How to Correctly Repair a Malfunctioning Clownfish Vocal Transformer</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-realme-10t-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Realme 10T 5G | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-star-citizen-from-suddenly-exiting-on-your-windows-machine/"><u>How to Stop Star Citizen From Suddenly Exiting on Your Windows Machine</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-release-announcement-god-of-war-first-person-shooter-is-out-now/"><u>PC Release Announcement: 'God of War' First-Person Shooter Is Out Now</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolve-minecraft-loading-problems-expert-tips-and-tricks/"><u>Resolve Minecraft Loading Problems: Expert Tips and Tricks</u></a></li>
 </ul></div>
 

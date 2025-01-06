@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Dark Void: Resolving Black Screen Issues in Fortnite on PC"
-date: 2024-12-23T16:07:03.178Z
-updated: 2024-12-27T16:09:10.779Z
+date: 2025-01-03T19:59:20.602Z
+updated: 2025-01-05T21:18:49.445Z
 tags:
   - win11
   - win10
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/79f38eb573cc99e5f54bf7180a8b2f400aa646add
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -41,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/79f38eb573cc99e5f54bf7180a8b2f400aa646add
 3. [**Update your graphics card driver**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Run Fortnite as administrator**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Check for account issues**](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: If you use a Nvidia graphics card, close all Nvidia programs in Task Manager
 
@@ -54,10 +58,6 @@ thumbnail: https://thmb.techidaily.com/79f38eb573cc99e5f54bf7180a8b2f400aa646add
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bea4de7be1a0.jpg)
 3. Relaunch Fortnite and see if your Fortnite not loading problem is resolved. If not, try Fix 2, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
 
 ### Fix 2: If you use Geforce Experience, turn off the share in-game overlay
@@ -68,16 +68,8 @@ thumbnail: https://thmb.techidaily.com/79f38eb573cc99e5f54bf7180a8b2f400aa646add
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bea6be4696a8.png)
 2. From the**GENERAL** panel,**toggle off** the**SHARE** feature.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bea6c4a17b8a.jpg)
 3. Run Fortnite and test if it loads properly. If not, try Fix 3, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -100,12 +92,12 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bea4c9c13ba1.jpg)
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee.)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bea4d0c0cbac.jpg)
 4. Restart your computer and check if Fortnite now runs properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Fix 4, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -118,9 +110,17 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bea7ba318699.jpg)
 3. Click**Yes** if prompted by User Account Control for confirmation.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Test if the problem is resolved. If not, try the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Check for account issues
 
@@ -155,22 +155,24 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-dslrmirrorless-guide-top-ten-gimbal-choices/"><u>[New] In 2024, DSLR/Mirrorless Guide Top Ten Gimbal Choices</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-step-by-step-selection-of-tiktok-screenshots/"><u>[New] Step-by-Step Selection of TikTok Screenshots</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-classic-film-aesthetics-masterclass-in-video-production/"><u>[Updated] In 2024, Classic Film Aesthetics Masterclass in Video Production</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/captivating-hd-wallpaper-collection-for-your-device-featuring-the-elegant-bmw-x2-by-yl-computings-digital-artistry/"><u>Captivating HD Wallpaper Collection for Your Device: Featuring the Elegant BMW X2 by YL Computing's Digital Artistry</u></a></li>
-<li><a href="https://win-answers.techidaily.com/get-dota-2-running-smoothly-again-fix-crash-errors-with-these-tips/"><u>Get Dota 2 Running Smoothly Again - Fix Crash Errors with These Tips</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723011374315-heterocyclic-compounds-can-be-aromatic-if-they-follow-huckels-rule-even-with-heteroatoms-like-nitrogen-or-oxygen-in-the-ring-structure/"><u>Heterocyclic Compounds Can Be Aromatic if They Follow Hückel's Rule, Even with Heteroatoms Like Nitrogen or Oxygen in the Ring Structure</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-poco-f5-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Poco F5 5G to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-14-plus-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 14 Plus without Losing Any Data? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723007151760-pc-gaming-troubles-heres-how-to-fix-fortnites-performance-hiccups/"><u>PC Gaming Troubles? Here's How to Fix Fortnite's Performance Hiccups!</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-honor-x7b-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Honor X7b to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-how-to-unstick-a-lagging-discord-livestream/"><u>Resolved: How to Unstick a Lagging Discord Livestream</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-error-4201-in-genshin-impact-a-step-by-step-guide/"><u>Resolving Error 4201 in Genshin Impact: A Step-by-Step Guide</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/revolutionize-your-workflow-with-lenovos-screen-capture-tools-for-2024/"><u>Revolutionize Your Workflow with Lenovo's Screen Capture Tools for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/stop-league-of-legends-crashing-effortless-troubleshooting-steps-inside/"><u>Stop League of Legends Crashing - Effortless Troubleshooting Steps Inside!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-persistent-loading-issues-on-fortnite-solutions-for-seamless-gaming/"><u>Troubleshooting Persistent Loading Issues on Fortnite – Solutions for Seamless Gaming</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-preventing-and-fixing-the-notorious-rocket-league-freeze/"><u>Ultimate Guide: Preventing and Fixing the Notorious Rocket League Freeze</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/ultimate-tutorial-how-to-seamlessly-burn-a-cd-using-windows-11-features/"><u>Ultimate Tutorial: How to Seamlessly Burn a CD Using Windows 11 Features</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-youtube-shorts-profits-and-content-creator-payments/"><u>[New] In 2024, YouTube Shorts Profits & Content Creator Payments</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-harmonizing-your-android-device-a-guide-to-personalized-ringtone-and-sound-configurations/"><u>2024 Approved Harmonizing Your Android Device A Guide to Personalized Ringtone and Sound Configurations</u></a></li>
+<li><a href="https://win-answers.techidaily.com/comprehensive-steps-to-get-rainbow-six-siege-up-and-running-again/"><u>Comprehensive Steps to Get Rainbow Six Siege Up and Running Again</u></a></li>
+<li><a href="https://win-answers.techidaily.com/doom-eternals-release-postponed-get-ready-with-this-must-know-fix-for-gamers/"><u>DOOM Eternal's Release Postponed? Get Ready with This Must-Know Fix for Gamers</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-implemented-unlocking-all-levels-in-mass-effect-trilogy-fps-enhancements/"><u>Fixes Implemented: Unlocking All Levels in Mass Effect Trilogy - FPS Enhancements</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/fixing-problems-with-recorded-video-playback/"><u>Fixing Problems with Recorded Video Playback</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-augmented-reality-on-android-a-step-towards-future-viewing/"><u>In 2024, Augmented Reality on Android - A Step Towards Future Viewing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/launch-issues-on-far-cry-5-effective-methods-to-get-past-a-halted-screen/"><u>Launch Issues on Far Cry 5: Effective Methods to Get Past a Halted Screen</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-rocket-league-stability-avoid-game-crashes-with-these-tips-for-2er-4/"><u>Master Rocket League Stability: Avoid Game Crashes with These Tips for 2Er-4</u></a></li>
+<li><a href="https://games-able.techidaily.com/masterful-headphones-on-switch-platform/"><u>Masterful Headphones on Switch Platform</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-issues-in-star-wars-jedi-fallen-order-for-windows-users/"><u>Resolved Issues in Star Wars Jedi: Fallen Order for Windows Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-pc-users-experience-no-more-interruptions-in-hyper-scape-multiplayer-arena/"><u>Resolved: PC Users Experience No More Interruptions in Hyper Scape Multiplayer Arena</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-found-troubleshooting-google-chrome-when-it-wont-start-up/"><u>Solution Found: Troubleshooting Google Chrome When It Won't Start Up</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-guide-overcoming-issues-with-obs-and-screen-recording/"><u>Solution Guide: Overcoming Issues with OBS and Screen Recording</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/by-step-guide-distribute-your-youtube-collection/"><u>Step-by-Step Guide Distribute Your YouTube Collection</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Vivo S17? | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/top-scripts-across-all-eight-film-categories/"><u>Top Scripts Across All Eight Film Categories</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unveiling-the-secrets-exploring-the-concept-of-perpetual-rebirth-in-black-life/"><u>Unveiling the Secrets: Exploring the Concept of 'Perpetual Rebirth in Black Life'</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-free-mov-video-concatenation-5-best-tools-to-get-the-job-done/"><u>Updated In 2024, Free MOV Video Concatenation 5 Best Tools to Get the Job Done</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Play Disruptions: Fixing Continuous Overwatch 2 PC Crashes"
-date: 2024-12-20T16:02:03.834Z
-updated: 2024-12-27T16:20:13.218Z
+date: 2025-01-03T01:42:07.921Z
+updated: 2025-01-05T20:25:27.429Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ We know how annoying it can be when you’re facing crashing issues in FIFA 19 g
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here are 8 fixes that have proved helpful for many users to solve the FIFA 19 crashing issues. You may not need to try them all; just work your way down the list until you find the one that works for you.
@@ -37,6 +41,10 @@ We know how annoying it can be when you’re facing crashing issues in FIFA 19 g
 7. **[Run System File Checker to repair your files](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) **[to check for conflicting programs](https://tools.techidaily.com/drivereasy/download/)**
 9. [**Create TileDatalayer and Database folder**](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1 Run Origin and FIFA 19 as administrator
 
@@ -63,7 +71,7 @@ If you still have the issue, you can try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-Disable-overlay-1200x685.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the**Advanced** tab and turn off**Hardware Acceleration** . Your Discord will be restarted.
@@ -74,10 +82,6 @@ Then you can see if the crashing issue reoccurs when playing FIFA.
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3 Allow FIFA 19 to run through the Firewall
 
  Temporarily disable your Anti-virus software or add your FIFA 19 as an exception to your third-party antivirus application. (Please consult your antivirus documentation for instructions if you don’t know how to do it.)
@@ -85,6 +89,10 @@ Then you can see if the crashing issue reoccurs when playing FIFA.
  Be extra careful about what sites you visit, what emails you open, and what files you download when your antivirus is disabled.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4 Update your device drivers
 
@@ -108,10 +116,6 @@ Then you can see if the crashing issue reoccurs when playing FIFA.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/scan-now.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to a flagged driver to automatically download the correct version of this driver, and then you can manually install it (you can do this with the FREE version).
 
 OR
@@ -120,10 +124,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/driver-update.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 4) Restart your computer for the changes to take effect.
@@ -131,10 +131,6 @@ OR
  If updating drivers fails to solve your FIFA 19 crashing issue, there might be some configuration problems. You can go on and try the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5 Rollback to DirectX11
 
@@ -164,6 +160,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/force-V-Sync-On.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  For AMD users:  
 
  1) Type**Catalyst control center** in the search bar, and press Enter.  
@@ -175,7 +175,7 @@ OR
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 7**Run System File Checker** to repair corrupt files
@@ -191,10 +191,6 @@ OR
  2) Copy & paste**sfc /scannow** into the box and hit**Enter** . This takes about 3-5 min.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/scannow.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) You may receive something like the following messages after the verification.
 
@@ -268,7 +264,7 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/disable-all-services.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the**Startup** tab, then**Open Task Manager** .
@@ -289,6 +285,10 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
  Once you find the problematic software, you need to uninstall it to avoid running into the same issue in the future.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 9 Create TileDatalayer and Database folder
 
  Some users find creating TileDatalayer and Database folders in Appdata/Local helps solve Fifa 19 crashing issues. Here’s how you can do it by running a single command:
@@ -300,7 +300,7 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/power-shell.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you’re on Windows 11, it will be**Terminal (Admin)** .
@@ -340,18 +340,15 @@ mkdir Database
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-is-itops-feature-set-enough-to-justify-usage/"><u>[New] 2024 Approved Is ITop's Feature Set Enough to Justify Usage?</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-convert-with-precision-10-leading-tools-from-flv-to-youtube-platforms-for-2024/"><u>[New] Convert with Precision 10 Leading Tools From Flv to YouTube Platforms for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-comparing-av1-and-vp9-which-is-more-advanced-in-2024/"><u>[Updated] Comparing AV1 & VP9 Which Is More Advanced, In 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-transformative-tinsel-a-journey-from-box-to-joy/"><u>[Updated] Transformative Tinsel A Journey From Box to Joy</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/1728471772586-windows-114/"><u>如何快速修正Windows 11無限再次開機錯誤？4位方法加一項重要提示</u></a></li>
-<li><a href="https://techtrends.techidaily.com/affordable-entertainment-your-complete-guide-to-student-pricing-for-youtube-premium/"><u>Affordable Entertainment: Your Complete Guide to Student Pricing for YouTube Premium</u></a></li>
-<li><a href="https://win-answers.techidaily.com/beat-cant-start-maplestory-essential-solutions-to-get-your-favorite-game-running-smoothly-again/"><u>Beat 'Can't Start Maplestory': Essential Solutions to Get Your Favorite Game Running Smoothly Again</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/capture-and-store-every-sound-on-pc-download-x-recorder/"><u>Capture & Store Every Sound on PC - Download X-Recorder</u></a></li>
-<li><a href="https://win-answers.techidaily.com/five-effective-techniques-to-repair-a-malfunctioning-touchscreen-on-windows-10/"><u>Five Effective Techniques to Repair a Malfunctioning Touchscreen on Windows 10</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/indirect-interactions-via-shared-resources-illustrate-how-the-presence-and-actions-of-one-species-can-affect-others-through-a-common-dependence-on-resources151/"><u>Indirect Interactions via Shared Resources Illustrate How the Presence and Actions of One Species Can Affect Others Through a Common Dependence on Resources Like Prey.</u></a></li>
-<li><a href="https://win-answers.techidaily.com/no-more-freezes-troubleshoot-your-google-chrome-for-smooth-browsing/"><u>No More Freezes: Troubleshoot Your Google Chrome for Smooth Browsing</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-resolving-launch-issues-with-tekken-8-on-your-pc/"><u>Troubleshooting Steps: Resolving Launch Issues with Tekken 8 on Your PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-2024-solution-how-to-quickly-resolve-your-battlefield-5-launch-problems/"><u>Ultimate 2024 Solution: How to Quickly Resolve Your Battlefield 5 Launch Problems</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-expert-tips-for-crafting-immersive-soundscapes-in-youtube/"><u>[New] Expert Tips for Crafting Immersive Soundscapes in YouTube</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-picture-perfection-with-background-ipod-sounds/"><u>[Updated] Picture Perfection with Background iPod Sounds</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/busting-common-gpt-3-misconceptions-and-fixes-for-a-smooth-experience/"><u>Busting Common GPT-3 Misconceptions & Fixes for a Smooth Experience</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chagpt-for-smartphone-users-a-compreenasive-guide/"><u>ChaGPT for Smartphone Users: A Compreenasive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cyberpunk-2077-update-overcome-previous-lag-and-frame-rate-hiccups/"><u>Cyberpunk 2077 Update: Overcome Previous Lag and Frame Rate Hiccups</u></a></li>
+<li><a href="https://win-answers.techidaily.com/experiencing-reduced-fps-understanding-the-causes-behind-farmers-dilemma-22/"><u>Experiencing Reduced FPS? Understanding the Causes Behind Farmer's Dilemma 22</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-constant-crashes-in-total-war-warhammer-3-game-on-your-computer/"><u>How to Fix Constant Crashes in Total War: Warhammer 3 Game on Your Computer</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/killer-network-driver-free-download-and-update-in-windows-1187/"><u>Killer Network Driver Free Download & Update in Windows 11/8/7</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-issues-when-elite-gaming-or-productivity-programs-make-your-computer-unresponsive/"><u>Resolving Issues When Elite Gaming or Productivity Programs Make Your Computer Unresponsive</u></a></li>
 </ul></div>
 

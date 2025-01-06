@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Steps: Resolving 'Lost Ark' Game Crashes"
-date: 2024-12-21T16:05:23.876Z
-updated: 2024-12-27T16:09:24.596Z
+date: 2025-01-04T19:34:06.770Z
+updated: 2025-01-06T00:00:31.970Z
 tags:
   - win11
   - win10
@@ -48,13 +48,13 @@ Recently we have seen a lot of Gears 5 players reporting that**Gears Of War cras
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-285.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -63,10 +63,6 @@ Recently we have seen a lot of Gears 5 players reporting that**Gears Of War cras
 5) Launch Gears of War and check to see if the crash problem is resolved. If yes, then congrats and enjoy the game! If the issue remains, please move on to **Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: **Disable gaming overlay**
 
@@ -79,7 +75,7 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-132.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) In **Game bar** , toggle **off** the switch for **Record game clips, screenshots,broadcast using Game bar** .
@@ -94,10 +90,6 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-139.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5) Exit the window.
 
 6) Run Gears of War 5 to see if the crashing issue still happens. If no, then you’ve solved the issue! If yes – the crashing issue still occurs, please move on to **Fix 3** , below.
@@ -105,6 +97,10 @@ Here is how to do it:
 **If you have other game overlaying programs on** , such as Nvidia Shadowplay, Xbox game bar, please make sure you have turned them off as well.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3:   **Reset the Microsoft Store cache**
 
@@ -114,6 +110,10 @@ Here is how to reset the Microsoft Store cache:
 
  1) On your keyboard, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and type **R** at the same time, then type **wsreset.exe** and press **Enter** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-127.png)
 
 2) Wait until the whole Windows store cache reset process finishes.
@@ -121,12 +121,16 @@ Here is how to reset the Microsoft Store cache:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-128.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Once completed, Windows Store will pop open.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-129-1024x796.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -144,16 +148,12 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-141.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) In Windows Update, click **Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-140.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Wait for the system to check online for available updates for the game.
@@ -208,20 +208,24 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-experts-choice-top-8-proven-video-marketing-actions-for-2024/"><u>[New] Expert's Choice Top 8 Proven Video Marketing Actions for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-crafting-clear-and-consistent-slug-lines/"><u>[New] In 2024, Crafting Clear and Consistent Slug Lines</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/about-vivo-x100-frp-bypass-by-drfone-android/"><u>About Vivo X100 FRP Bypass</u></a></li>
-<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-huawei-nova-y91-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Huawei Nova Y91 to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/detailed-process-of-integrating-subtitles-into-mp4-videos/"><u>Detailed Process of Integrating Subtitles Into MP4 Videos</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/direct-endorsements-client-produced-reviews/"><u>Direct Endorsements: Client-Produced Reviews</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dive-deep-the-ultimate-win11-mouse-properties-guide/"><u>Dive Deep: The Ultimate Win11 Mouse Properties Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-stop-death-stranding-from-freezing-on-your-computer-a-complete-fix-guide/"><u>How to Stop Death Stranding From Freezing on Your Computer - A Complete Fix Guide</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/inject-photos-with-focal-spread-outer-radius-adobe-psx-for-2024/"><u>Inject Photos with Focal Spread Outer Radius Adobe PSX for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-solutions-for-resolving-playstation-4-hang-ups/"><u>Step-by-Step Solutions for Resolving PlayStation 4 Hang-Ups</u></a></li>
-<li><a href="https://win-answers.techidaily.com/the-complete-2024-solution-manual-for-overcoming-battlenet-startup-problems/"><u>The Complete 2024 Solution Manual for Overcoming Battle.net Startup Problems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-fixes-why-your-pc-doesnt-recognize-a-steam-controller-in-windows/"><u>Troubleshooting Fixes: Why Your PC Doesn't Recognize a Steam Controller in Windows</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-overcoming-lag-in-the-elder-scrolls-online-blackwood-edition/"><u>Troubleshooting Tips: Overcoming Lag in 'The Elder Scrolls Online' - Blackwood Edition</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-guide-to-setting-up-auto-gpt-on-ubuntu-systems/"><u>Ultimate Guide to Setting Up Auto-GPT on Ubuntu Systems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/what-to-do-when-you-cant-play-the-latest-robocop-rogue-city-game-on-your-desktop-computer/"><u>What to Do When You Can't Play the Latest 'RoboCop: Rogue City' Game on Your Desktop Computer</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-recollection-runway-your-easy-path-to-story-archives/"><u>[New] 2024 Approved Recollection Runway Your Easy Path to Story Archives</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-stability-essentials-for-online-videography/"><u>[New] 2024 Approved Stability Essentials for Online Videography</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-designing-your-digital-persona-for-the-metaverse-for-2024/"><u>[New] Designing Your Digital Persona for the Metaverse for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-funniest-punchlines-reddit-vs-twitter-memes/"><u>[New] Funniest Punchlines Reddit Vs. Twitter Memes</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-dynamic-imagery-illustrator-motion-blur-techniques/"><u>[New] In 2024, Dynamic Imagery Illustrator Motion Blur Techniques</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-assassins-creed-valhalla-keeps-crashing-on-pc/"><u>[SOLVED] Assassin's Creed: Valhalla Keeps Crashing on PC</u></a></li>
+<li><a href="https://win-community.techidaily.com/a-step-by-step-guide-identifying-and-resolving-computer-hardware-issues-with-insights-from-yl-software/"><u>A Step-by-Step Guide: Identifying & Resolving Computer Hardware Issues with Insights From YL Software</u></a></li>
+<li><a href="https://win-answers.techidaily.com/escalate-unresolved-issues-or-escalated-concerns-promptly-and-effectively-using-the-appropriate-internal-channels-within-our-organization-eg-technical-suppo394/"><u>Escalate Unresolved Issues or Escalated Concerns Promptly and Effectively Using the Appropriate Internal Channels Within Our Organization (E.g., Technical Support Team, Management).</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723013840537-farewell-to-frustration-hitman-3s-previous-pc-launch-issues-now-defeated/"><u>Farewell to Frustration: Hitman 3'S Previous PC Launch Issues Now Defeated</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-broken-taskbar-on-your-windows-11-pc/"><u>Fixing the Broken Taskbar on Your Windows 11 PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-successfully-tackle-rainbow-six-siege-server-connection-glitches/"><u>How to Successfully Tackle Rainbow Six Siege Server Connection Glitches</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-how-to-create-cinematic-look-video-with-final-cut-pro-x/"><u>In 2024, How to Create Cinematic Look Video with Final Cut Pro X</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-palworld-search-session-error-proven-techniques-for-a-smoother-experience/"><u>Solving the 'Palworld Search Session Error': Proven Techniques for a Smoother Experience</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/step-by-step-guide-unlocking-the-power-of-mirallis-action/"><u>Step-by-Step Guide: Unlocking the Power of Mirallis Action!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-repair-for-microsoft-edges-msedgeexe-application-faults/"><u>Step-by-Step Repair for Microsoft Edge's msedge.exe Application Faults</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-preventing-game-crashes-in-final-fantasy-xv-on-windows/"><u>Troubleshooting Steps for Preventing Game Crashes in Final Fantasy XV on Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-effective-strategies-for-winword-exe-mishaps/"><u>Troubleshooting Tips: Effective Strategies for WINWORD EXE Mishaps</u></a></li>
+<li><a href="https://solve-news.techidaily.com/ultimate-guide-to-swiftly-transferring-your-iphone-content-onto-a-pc-discover-7-effective-techniques/"><u>Ultimate Guide to Swiftly Transferring Your iPhone Content Onto a PC - Discover 7 Effective Techniques</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-bring-your-ideas-to-life-top-online-stop-motion-tools/"><u>Updated Bring Your Ideas to Life Top Online Stop Motion Tools</u></a></li>
 </ul></div>
 

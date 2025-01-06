@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Modern Warfare Dev Error 6Aster: Solutions for PlayStation, Xbox, & PC Gamers"
-date: 2024-12-16T19:47:38.489Z
-updated: 2024-12-20T18:34:44.051Z
+date: 2025-01-04T20:05:47.859Z
+updated: 2025-01-05T16:53:06.298Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ A recent update of Warzone triggered a surge in reports of the**Dev Error 6034**
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixes to try
@@ -34,6 +34,10 @@ A recent update of Warzone triggered a surge in reports of the**Dev Error 6034**
 2. [**Remove broken game files (PC)**](https://www.drivereasy.com/knowledge/how-to-fix-dev-error-6034-in-warzone-pc-xbox/#fix2)
 3. **[Remove Multiplayer game packs (Xbox)](https://www.drivereasy.com/knowledge/how-to-fix-dev-error-6034-in-warzone-pc-xbox/#fix3)**
 4. **[Reinstall Warzone](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver (PC)
 
@@ -86,14 +90,10 @@ To do so, first visit the website of your GPU manufacturer:
 4. Wait for the process to complete. Then launch Warzone and check if it’s working now.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If this method doesn’t do the trick, you can take a look at the next one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Remove Multiplayer game packs
 
@@ -104,18 +104,18 @@ To do so, first visit the website of your GPU manufacturer:
 2. Select**Call of Duty: Modern Warfare** . (You might also need to select**Manage installation on External drive** .)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-2.jpg)
 3. Scroll down and unselect**MP2 Pack** and**Multiplayer Pack 3.** Then select**Save changes** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-3.jpg)
 4. Now restart your Xbox and check if Warzone is working now.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If this trick doesn’t help you, simply check out the next one.
 
@@ -144,21 +144,20 @@ If this trick doesn’t help you, simply check out the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-enhancing-aural-experience-fading-techniques-in-lumafusion/"><u>[New] Enhancing Aural Experience Fading Techniques in Lumafusion</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-transforming-ordinary-to-extraordinary-edit-tiktok-vids-on-mac/"><u>[Updated] 2024 Approved Transforming Ordinary to Extraordinary Edit TikTok Vids on Mac</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-effective-strategies-for-ppt-screen-recordings/"><u>[Updated] Effective Strategies for PPT Screen Recordings</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-best-8-mirrorless-cameras-to-elevate-your-vlogging-game/"><u>2024 Approved Best 8 Mirrorless Cameras to Elevate Your Vlogging Game</u></a></li>
-<li><a href="https://win-answers.techidaily.com/boosting-your-frame-rate-and-reducing-lag-in-watch-dogs-legion-a-comprehensive-guide/"><u>Boosting Your Frame Rate & Reducing Lag in Watch Dogs: Legion - A Comprehensive Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ensuring-seamless-gameplay-in-cities-skylines-2-a-guide-to-prevent-pc-issues-and-crashes/"><u>Ensuring Seamless Gameplay in Cities: Skylines 2 - A Guide to Prevent PC Issues and Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-i-fixed-my-steam-server-connectivity-woes-read-on-for-solutions/"><u>How I Fixed My Steam-Server Connectivity Woes – Read On for Solutions</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-2022-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>In 2024, How To Unlock iPhone SE (2022) Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-instrument-innovations-see-the-top-15-music-tech-tutorials-on-youtube/"><u>In 2024, Instrument Innovations See the Top 15 Music Tech Tutorials on YouTube</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-through-your-chatgpt-block-the-4-major-factors-and-how-to-correct-them/"><u>Navigating Through Your ChatGPT Block – The 4 Major Factors and How to Correct Them</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-dolby-advanced-audio-difficulties-a-guide-to-enabling-the-dolby-driver-in-windows-11/"><u>Overcoming Dolby Advanced Audio Difficulties: A Guide to Enabling the Dolby Driver in Windows 11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-how-to-play-wolcen-lords-of-mayhem-when-initial-launch-fails/"><u>Resolved: How to Play 'Wolcen: Lords of Mayhem' When Initial Launch Fails</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/solutions-when-your-scanning-device-fails-to-locate-printer-drivers-expert-advice-from-yl-computing/"><u>Solutions When Your Scanning Device Fails To Locate Printer Drivers - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://win-answers.techidaily.com/stable-playtime-preventing-dead-by-daylight-game-crashes/"><u>Stable Playtime: Preventing Dead by Daylight Game Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ubisoft-connect-error-solved-tips-and-tricks-for-a-smooth-gaming-experience-2024-edition/"><u>Ubisoft Connect Error Solved: Tips and Tricks for a Smooth Gaming Experience, 2024 Edition.</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-fixes-for-pc-players-stop-slime-rancher/"><u>Ultimate Fixes for PC Players: Stop Slime Rancher</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-final-cut-pros-essential-effect-enhancers-the-top-10-selection/"><u>[New] In 2024, Final Cut Pro’s Essential Effect Enhancers The Top 10 Selection</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-smartphone-photographers-must-have-app-list/"><u>[New] Smartphone Photographers' Must-Have App List</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-social-media-content-conundrums-finding-elusive-vids/"><u>[New] Social Media Content Conundrums Finding Elusive Vids</u></a></li>
+<li><a href="https://win-answers.techidaily.com/54sh44oq44oz44kv44gu5a6j5bplusd44gn44on44od44oi5lik44gu5yuv55s75zyn57iu44k144o844ot44k544ks6yg444g25pa55rov/"><u>無リンクの安心でネット上の動画圧縮サービスを選ぶ方法</u></a></li>
+<li><a href="https://win-answers.techidaily.com/best-10-replacement-tools-for-screenpal-on-pc-and-mac-platforms/"><u>Best 10 Replacement Tools for ScreenPal on PC & Mac Platforms</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-oneplus-nord-ce-3-lite-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 OnePlus Nord CE 3 Lite 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/best-free-dvd-creation-tools-of-2024-top-picks-for-quick-and-easy-use-on-windows-11/"><u>Best Free DVD Creation Tools of 2024: Top Picks for Quick & Easy Use on Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/buy-wonderfoxs-top-rated-nokia-video-transcoder-software-factory-pro-edition/"><u>Buy WonderFox's Top-Rated Nokia Video Transcoder Software – Factory Pro Edition</u></a></li>
+<li><a href="https://win-answers.techidaily.com/capturing-live-webcast-audio-in-windows-10-a-step-by-step-guide/"><u>Capturing Live Webcast Audio in Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/comprehensive-guide-on-isolating-and-saving-audio-tracks-from-youtube-content/"><u>Comprehensive Guide on Isolating and Saving Audio Tracks From YouTube Content</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/o-confirm-your-youtube-account-securely-in-2024/"><u>How to Confirm Your YouTube Account Securely, In 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Vivo S18e? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Xiaomi Redmi Note 12 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-tips-for-recording-and-saving-google-voice-interactions/"><u>In 2024, Tips for Recording and Saving Google Voice Interactions</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-best-free-avi-video-rotators-multi-platform-solutions-compared/"><u>New 2024 Approved Best Free AVI Video Rotators Multi-Platform Solutions Compared</u></a></li>
 </ul></div>
 

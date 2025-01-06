@@ -1,7 +1,7 @@
 ---
 title: "Cyberpunk Ebunk2077 Performance Optimized: Eliminating Input Lag for a Smoother Experience"
-date: 2024-08-13T12:27:48.098Z
-updated: 2024-08-14T12:27:48.098Z
+date: 2025-01-05T04:10:29.354Z
+updated: 2025-01-06T02:32:28.811Z
 tags:
   - win11
   - win10
@@ -27,9 +27,6 @@ Don’t worry, here’re fixes may help you solve the issue.
 2. [Change the mouse setting](https://tools.techidaily.com/drivereasy/download/)
 3. [Update the device driver](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Change the in-game settings
 
  Change the in-game setting can help you fix the input lagging issue. If you’re not using controllers, change[Graphics settings](https://tools.techidaily.com/drivereasy/download/) would also help.
@@ -43,8 +40,9 @@ Don’t worry, here’re fixes may help you solve the issue.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-48-52.jpg)
 4. In the open section, change**Response Curve** to**Raw** , and set**Horizontal Turning Bonus** and**Vertical Turning Bonus** to**0** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-50-02.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### For mouse/keyboard users
@@ -55,20 +53,23 @@ If you’re not using the controller, check the below settings.
 2. Go to the**VIDEO** tab, turn**off** the**VSync** .
 3. Make sure the Resolution matches the resolution of your monitor.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-53-01.jpg)
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. If you need to lower your graphic resolution, move to the**GRAPHICS** tab.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Scroll down to find the**Resolution Scaling** section.
 6. Set the**Static FidelityFX CAS** to**ON** and lower the Resolution Scaling.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-59-50.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 
  Some users have reported that by disabling all the aim assist options in settings, the issue has been improved a lot.
 
 If this fix doesn’t work, move to the next one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Change the mouse setting
 
@@ -79,18 +80,17 @@ If this fix doesn’t work, move to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_16-46-09.jpg)
 3. Go to the**Mouse** tab, click**Additional mouse options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_16-00-50.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Make sure you uncheck the**Enhance pointer precision** . Click**Apply > OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_16-01-18.jpg)
 5. Launch the game and check.
 
 If it doesn’t work, move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Update the device driver
 
  One reason for input lagging is faulty or outdated drivers. Update your device with the latest driver may help you fix the issue. However, Windows 10 doesn’t always give you the latest version.  
@@ -117,12 +117,13 @@ OR
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -138,8 +139,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,4 +146,26 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-top-10-strategies-for-youtube-musicians-make-the-perfect-reaction-video/"><u>[New] 2024 Approved Top 10 Strategies for YouTube Musicians Make the Perfect Reaction Video</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-integrate-soundtracks-into-instagram-storytelling/"><u>[New] In 2024, Integrate Soundtracks Into Instagram Storytelling</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-revamping-images-with-advanced-features/"><u>[New] Revamping Images with Advanced Features</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-teachers-choice-top-recording-applications/"><u>2024 Approved Teachers' Choice Top Recording Applications</u></a></li>
+<li><a href="https://extra-information.techidaily.com/comprehensive-exploration-of-vsco-image-processing-for-2024/"><u>Comprehensive Exploration of VSCO Image Processing for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-guide-to-repairing-the-malfunctioning-msi-enchantment-light-on-pcs/"><u>Expert Guide to Repairing the Malfunctioning MSI Enchantment Light on PCs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fast-solutions-overcoming-challenges-in-optimizing-shaders-for-star-wars-battlefront-ii/"><u>Fast Solutions: Overcoming Challenges in Optimizing Shaders for Star Wars Battlefront II</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-outriders-freezing-and-stuttering-on-pc/"><u>How to Fix Outriders Freezing & Stuttering on PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-fn-key-malfunctions-in-asus-laptop-models/"><u>How to Repair FN Key Malfunctions in ASUS Laptop Models</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-masterful-instagram-reel-editors-the-ultimate-top-10-list/"><u>In 2024, Masterful Instagram Reel Editors The Ultimate Top 10 List</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-game-continuity-fixing-frequent-pc-crashes-in-manor-lords/"><u>Mastering Game Continuity: Fixing Frequent PC Crashes in Manor Lords</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimized-solution-for-high-memory-usage-by-google-chrome-now-solved/"><u>Optimized Solution for High Memory Usage by Google Chrome Now Solved</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-guide-to-resolving-lengthy-wait-times-for-fallout-4-startup/"><u>Quick Guide to Resolving Lengthy Wait Times for Fallout 4 Startup</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-battlefields-bfv-warzone-gameplay-interruption-fixing-the-infamous-50-and-31-disc-read-glitches-on-pc/"><u>Resolving Battlefield's BFV Warzone Gameplay Interruption: Fixing the Infamous [5.0] and [3.1] Disc Read Glitches on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-city-skylines-2-pc-crashes-troubleshooting-guide/"><u>Resolving City Skylines 2 PC Crashes – Troubleshooting Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-when-cant-warframe-load/"><u>Troubleshooting Guide – When Can't Warframe Load</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-correcting-iphoneipad-detection-failures-in-icue/"><u>Troubleshooting Guide: Correcting iPhone/iPad Detection Failures in ICUE</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unifying-recurring-subject-images-into-one-album-for-easy-access-on-iphone-or-mac/"><u>Unifying Recurring Subject Images Into One Album for Easy Access on iPhone or Mac</u></a></li>
+</ul></div>
 

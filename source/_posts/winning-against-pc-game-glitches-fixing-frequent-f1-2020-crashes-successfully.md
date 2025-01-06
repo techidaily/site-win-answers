@@ -1,7 +1,7 @@
 ---
 title: "Winning Against PC Game Glitches: Fixing Frequent F1 2020 Crashes Successfully"
-date: 2024-12-20T16:06:31.279Z
-updated: 2024-12-27T16:02:25.789Z
+date: 2024-12-31T02:39:26.284Z
+updated: 2025-01-06T04:11:03.157Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 * [Fix 1: Restart your computer](https://tools.techidaily.com/drivereasy/download/)
@@ -34,19 +38,11 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 * [Fix 8: Disable fullscreen optimizations](https://tools.techidaily.com/drivereasy/download/)
 * [Fix 9: Try Phasmophobia beta version](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Restart your computer
 
  If you haven’t done this yet, give it a shot. A simple restart will reset your software and desktop environment and can often fix software glitches like this.
 
  If you encounter the crashing issue again when playing Phasmophobia, move on to the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Verify the integrity of game files
 
@@ -58,20 +54,20 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-properties.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Under the**Installed Files** tab, click**Verify integrity of game files** .
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Restart the game after the process is complete.
 
 If Phasmophobia still crashes, move on to the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Delete corrupted game files
@@ -86,6 +82,10 @@ Game crashing issues might happen when your game files are corrupted.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-02_18-19-47.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Delete everything except these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-02_18-44-34.png)
@@ -93,6 +93,10 @@ Game crashing issues might happen when your game files are corrupted.
 5) Relaunch the game to test the issue.
 
 If the game still crashes, try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -117,10 +121,6 @@ If the game still crashes, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-58-08.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -129,10 +129,6 @@ If the game still crashes, try the next fix below.
 4) Relaunch the game to test your issue.
 
 If the crash still occurs, go ahead with the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Lower your graphics settings
 
@@ -159,7 +155,7 @@ If the crash still occurs, go ahead with the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-22_16-23-03.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Launch the game to see if your problem has been resolved.
@@ -198,6 +194,10 @@ If the problem still exists, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-23_15-19-31.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Hopefully, this article has solved your problem! Please feel free to leave a comment if you have any questions or suggestions.
 
 * [game crash](https://tools.techidaily.com/drivereasy/download/)
@@ -217,20 +217,17 @@ If the problem still exists, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-gear-up-with-our-12-tycoon-titles-your-gaming-passport-to-success/"><u>[New] Gear Up with Our #12 Tycoon Titles - Your Gaming Passport to Success</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-navigating-the-world-of-video-screen-capture/"><u>[New] In 2024, Navigating the World of Video Screen Capture</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solved-devil-may-cry-5-crash-quickly-and-easily/"><u>[Solved] Devil May Cry 5 Crash | Quickly & Easily</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-the-complete-manual-for-background-banishment-in-figma/"><u>[Updated] The Complete Manual for Background Banishment in Figma</u></a></li>
-<li><a href="https://win-answers.techidaily.com/boost-your-gameplay-solving-forza-horizon-5-frame-drops-on-pc/"><u>Boost Your Gameplay: Solving Forza Horizon 5 Frame Drops on PC</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/complete-tutorial-building-an-unrestricted-chatgpt-version-on-windows-with-the-help-of-freedomgpt/"><u>Complete Tutorial: Building an Unrestricted ChatGPT Version on Windows with the Help of FreedomGPT</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-solutions-to-stop-palworld-from-continuously-crashing-on-desktops/"><u>Effective Solutions to Stop Palworld From Continuously Crashing on Desktops</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-pacific-drive-errors-on-windows-expert-tips-and-solutions/"><u>Fixing Pacific Drive Errors on Windows: Expert Tips & Solutions</u></a></li>
-<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-motorola-defy-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Motorola Defy 2 | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-the-puzzling-black-screen-in-far-cry-6-gameplay/"><u>How to Fix the Puzzling Black Screen in Far Cry 6 Gameplay</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-maximizing-impact-with-reddit-essential-tips-revealed/"><u>In 2024, Maximizing Impact with Reddit - Essential Tips Revealed</u></a></li>
-<li><a href="https://win-answers.techidaily.com/kofxv-no-longer-crashes-solutions-and-tips-for-a-seamless-gaming-experience-on-your-computer/"><u>KOFXV No Longer Crashes: Solutions and Tips for a Seamless Gaming Experience on Your Computer</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-compatibility-hurdles-in-madden-20-on-windows-troubleshooting-tips/"><u>Overcoming Compatibility Hurdles in Madden 20 on Windows - Troubleshooting Tips</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolve-microphone-problems-in-google-hangouts-effortlessly-step-by-step-tips/"><u>Resolve Microphone Problems in Google Hangouts Effortlessly – Step-by-Step Tips</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-fixing-xcom-2-game-crashes-on-pc-with-windows-os/"><u>Troubleshooting Guide: Fixing XCOM 2 Game Crashes on PC with Windows OS</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guide-stop-halo-3-from-suddenly-closing-pc-gaming-fixes-at-hand/"><u>[Guide] Stop Halo 3 From Suddenly Closing – PC Gaming Fixes at Hand</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-selective-software-optimal-blu-ray-players-free-to-pay/"><u>[New] Selective Software Optimal Blu-Ray Players (Free to Pay)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-forza-horizon-5-fps-drops-on-pc/"><u>[SOLVED] Forza Horizon 5 FPS Drops on PC</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-the-seamless-path-integrating-your-social-photos-into-device-storage-for-2024/"><u>[Updated] The Seamless Path Integrating Your Social Photos Into Device Storage for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/five-simple-steps-to-correct-microsoft-words-common-execution-error/"><u>Five Simple Steps to Correct Microsoft Word's Common Execution Error</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fortnite-access-issue-how-to-fix-entry-point-unavailable-error/"><u>Fortnite Access Issue: How to Fix 'Entry Point Unavailable' Error</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-and-prevent-final-fantasy-xv-from-crashing-on-your-pc/"><u>How to Fix and Prevent Final Fantasy XV From Crashing on Your PC</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-narzo-n53-phone-without-pin-by-drfone-android/"><u>How to Unlock Realme Narzo N53 Phone without PIN</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/is-your-facebook-video-more-engaging-in-a-vertical-format/"><u>Is Your Facebook Video More Engaging in a Vertical Format?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/take-command-streamlining-windows-operations-with-hotkeys/"><u>Take Command: Streamlining Windows Operations with Hotkeys</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-ultimate-portable-wireless-speaker-impeccably-pure-sound-for-any-occasion-gadgetguide/"><u>Unveiling the Ultimate Portable Wireless Speaker: Impeccably Pure Sound for Any Occasion | GadgetGuide</u></a></li>
 </ul></div>
 

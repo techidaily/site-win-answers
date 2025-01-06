@@ -1,7 +1,7 @@
 ---
 title: "EverQuest II Stalling on Windows: Troubleshooting Techniques for Smooth Play"
-date: 2024-12-14T16:10:07.286Z
-updated: 2024-12-20T21:08:38.493Z
+date: 2024-12-30T18:47:42.509Z
+updated: 2025-01-05T21:00:10.216Z
 tags:
   - win11
   - win10
@@ -31,7 +31,7 @@ Halo Infinite is available now and some gamers have noticed that the game has be
 5. [Change NVIDIA resolution](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 1: Check the minimum system requirement
@@ -50,6 +50,10 @@ Halo Infinite is available now and some gamers have noticed that the game has be
 
 You can fix it by uninstalling the multiplayer HD texture packs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 2: Update your graphic driver
 
  Halo Infinite stuttering or lagging problem is usually related to the graphic driver. Make sure your GPU is fully up to date, the older GPU drivers can lead to poor performance and micro stutter.
@@ -65,6 +69,10 @@ There are mainly two ways you can update the graphics driver:
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 4. Relaunch Halo Infinite and check if it fixes the stuttering issue.
@@ -73,10 +81,6 @@ There are mainly two ways you can update the graphics driver:
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  If updating the graphics driver doesn’t work, you can move to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 3: Change in-game settings
 
@@ -94,6 +98,10 @@ There are mainly two ways you can update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-31-1200x580.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Set**TEXTURE FILTERING** to**Ultra** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-32.png)
@@ -101,10 +109,6 @@ There are mainly two ways you can update the graphics driver:
  6) Many people suggest turning off**ASYNC COMPUTE** but if you’re running an AMD graphics card, you’d better turn it on. Because you can get at least 10FPS extra on average with it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-34.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7) Run the game to check.
 
@@ -120,14 +124,10 @@ If it’s not working, move to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-29.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Turn off all the background apps then run Halo Infinite to check if the issue persists.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 5: Change NVIDIA resolution
@@ -155,22 +155,22 @@ If it’s not working, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-relaxation-station-leisurely-phone-game-guide/"><u>[Updated] 2024 Approved Relaxation Station Leisurely Phone Game Guide</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-secrets-to-high-quality-sims-4-gameplay-recordings/"><u>[Updated] 2024 Approved Secrets to High-Quality Sims 4 Gameplay Recordings</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-how-to-effortlessly-access-and-apply-instagrams-best-filters-for-2024/"><u>[Updated] How to Effortlessly Access and Apply Instagram's Best Filters for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-new-developments-in-facebook-2023-edition-for-2024/"><u>[Updated] New Developments in Facebook - 2023 Edition for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-the-detailed-breakdown-of-fbm-transcription-techniques-for-2024/"><u>[Updated] The Detailed Breakdown of FBM Transcription Techniques for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-9-best-free-and-easy-editing-apps-you-should-know/"><u>2024 Approved 9 Best Free and Easy Editing Apps You Should Know</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723005130212-anno-1800-and-directx-troubleshooting-solutions-unveiled/"><u>Anno 1800 and DirectX Troubleshooting - Solutions Unveiled</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-tips-to-stop-constant-crashes-of-thunder-tier-1-while-playing-on-your-pc/"><u>Expert Tips to Stop Constant Crashes of Thunder Tier 1 While Playing on Your PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-pc-issues-in-euro-truck-simulator-2-a-comprehve-solutions-compilation/"><u>Fixing PC Issues in Euro Truck Simulator 2 - A Comprehve Solutions Compilation</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/reversing-auto-repost-actions-on-tiktok-what-you-need-to-know/"><u>Reversing Auto-Repost Actions on TikTok - What You Need to Know</u></a></li>
-<li><a href="https://win-latest.techidaily.com/revolutionizing-cybersecurity-how-windows-11-delivers-immediate-protection-insights-for-it-pros-securetech-news/"><u>Revolutionizing Cybersecurity: How Windows 11 Delivers Immediate Protection - Insights for IT Pros | SecureTech News</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-the-anthem-load-screen-glitch-once-and-for-all/"><u>Solving the Anthem Load Screen Glitch Once and for All</u></a></li>
-<li><a href="https://win-answers.techidaily.com/tackling-elevated-cpu-demands-on-your-new-computer-system-a-guide/"><u>Tackling Elevated CPU Demands on Your New Computer System: A Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshoot-like-a-pro-how-to-solve-minecrafts-stubborn-launch-issues/"><u>Troubleshoot Like a Pro: How To Solve Minecraft's Stubborn Launch Issues</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-deadly-software-issues-in-activisions-battle-royale-titles/"><u>Troubleshooting Deadly Software Issues in Activision's Battle Royale Titles</u></a></li>
-<li><a href="https://win-forum.techidaily.com/ultimate-troubleshooting-steps-for-managing-maxed-out-disk-space-in-windows-11/"><u>Ultimate Troubleshooting Steps for Managing Maxed-Out Disk Space in Windows 11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/understanding-the-reasons-behind-diablo-ii-resurrecteds-unavailability/"><u>Understanding the Reasons Behind Diablo II: Resurrected's Unavailability</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/hannel-catalysts-affiliates-aiding-budgeted-buzzers/"><u>[New] Channel Catalysts Affiliates Aiding Budgeted Buzzers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-ordinary-to-outstanding-crafting-unique-shorts-thumbnails-for-2024/"><u>[New] From Ordinary to Outstanding Crafting Unique Shorts Thumbnails for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/a-day-by-day-guide-through-the-korean-lifecycle/"><u>A Day-By-Day Guide Through the Korean Lifecycle</u></a></li>
+<li><a href="https://win-answers.techidaily.com/create-a-gif-from-your-mkv-files-easy-conversion-tutorial/"><u>Create a GIF From Your MKV Files - Easy Conversion Tutorial</u></a></li>
+<li><a href="https://win-answers.techidaily.com/dvd-conversion-with-wonderfox/"><u>DVD Conversion with WonderFox - ディスクから抜き取るためのプログラム</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easy-steps-to-mastering-screen-recording-on-a-pc-with-windows-os/"><u>Easy Steps to Mastering Screen Recording on a PC with Windows OS</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effortless-conversion-guide-switching-from-h265-to-avi-video-files-fast/"><u>Effortless Conversion Guide: Switching From H.265 To AVI Video Files Fast</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fast-conversion-techniques-transforming-flac-files-into-ac3-format/"><u>Fast Conversion Techniques: Transforming FLAC Files Into AC3 Format</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-easily-set-up-and-run-kodi-on-android-a-comprehensive-picture-guided-guide/"><u>How to Easily Set Up and Run Kodi on Android: A Comprehensive Picture-Guided Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-record-your-favorite-tiktoks-a-cross-platform-method-for-ios-android-and-pc/"><u>How to Record Your Favorite TikToks: A Cross-Platform Method for iOS, Android & PC</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-recommended-6-online-apps-to-delete-background-perfectly/"><u>In 2024, Expert-Recommended 6 Online Apps to Delete Background Perfectly</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-finding-legal-music-a-producers-manual/"><u>In 2024, Finding Legal Music A Producer's Manual</u></a></li>
+<li><a href="https://win-answers.techidaily.com/is-it-possible-to-transcode-prores-videos-using-handbrake-software/"><u>Is It Possible to Transcode ProRes Videos Using HandBrake Software?</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/menjalankan-prosedur-langsung-untuk-memindahkan-hard-disk-besar-hdd-ke-ssd-bebas-perlu-menyalin-ulang-opsi-operasi-windows-tutorial-terlengkap/"><u>Menjalankan Prosedur Langsung Untuk Memindahkan Hard Disk Besar (HDD) Ke SSD, Bebas Perlu Menyalin Ulang Opsi Operasi Windows: Tutorial Terlengkap!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/solving-the-issue-of-missing-audio-in-streamlabs-pc-broadcasts/"><u>Solving the Issue of Missing Audio in Streamlabs PC Broadcasts</u></a></li>
+<li><a href="https://win-trending.techidaily.com/trouble-free-vmware-management-strategies-for-commencing-and-resolving-vcenters-urgent-sessions/"><u>Trouble-Free VMware Management: Strategies for Commencing and Resolving vCenter’s Urgent Sessions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/windowsno12/"><u>マイク録音用Windows専用ソフト:おすすめのNo.12選考リスト</u></a></li>
 </ul></div>
 

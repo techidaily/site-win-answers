@@ -1,7 +1,7 @@
 ---
 title: "Essential Guide: Getting Your Phasmophobia VR Experience Back on Track"
-date: 2024-12-17T19:59:47.459Z
-updated: 2024-12-20T20:59:06.892Z
+date: 2024-12-31T16:58:22.540Z
+updated: 2025-01-05T16:40:28.933Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ Is your Borderlands 3 so laggy that it’s all but unplayable? If yes, don’t l
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What sort of “lag” issues I’m having?
 
  Do you know that “lag issue” typically refers to network-related problems? For example, major lag spikes. This is one of the most common problems among online games, such as LOL, Fortnite, and Apex Legends. Obviously you can play Borderlands 3 either online or offline, so if your issue only occurs in online mode (for example, when you’re playing online multiplayer), then there’s no doubt that you’re having a real lag issue. In this case, take note of your network condition and find some ways to improve it.
@@ -33,6 +29,10 @@ Is your Borderlands 3 so laggy that it’s all but unplayable? If yes, don’t l
  If your Borderlands 3 seems laggy even in offline mode, then you’re very likely having a frame rate problem (e.g., having low FPS because your computer can barely handle the game). There’s also an outside chance that the game per se has some unforeseen bugs, so you could only wait for new patches to fix them.
 
  Now, after figuring out what sort of “lag” issues you have, read on and find possible fixes for your problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixes for Borderlands 3 lag issues
 
@@ -44,6 +44,10 @@ Jump ahead to the section that best suits your needs:
 * **[I’m having frame rate problems](https://tools.techidaily.com/drivereasy/download/)**
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **I’m having network problems**
 
@@ -119,31 +123,47 @@ ipconfig /flushdns
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-626.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Expand **View by:** and select **Category** . Then, click **View network status and tasks** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-627.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) In the next window, click **Change adapter settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-628.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Right-click on your network and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-629.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Double-click **Internet Protocol Version 4 (TCP/IPv4)**  to view its properties.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-483.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6) In the pop-up window, select these two options: **Obtain an IP address automatically** and **Use the following DNS server addresses** .
 
  For the **Preferred DNS server** , enter **8.8.8.8**  to replace the primary IP address; for the **Alternate DNS server** , enter **8.8.4.4** . Then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-484.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you want to restore your DNS server addresses, simply change **Use the following DNS server addresses** to **Obtain DNS server address automatically** and then restart your network adapter.
 
@@ -161,21 +181,17 @@ ipconfig /flushdns
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-482.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) **Right-click** on the process that you want to disable and select **End Process** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-621.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) If prompted for permission, click **End process** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-508.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Exercise caution with Step 3 and 4.**DO NOT** close any unfamiliar processes in case you mistakenly end some of the crucial ones (often related to your system), such as sychost.exe.
 
@@ -212,10 +228,6 @@ If this fix didn’t work, take a stab at the next one.
  Hopefully the 6 fixes above helped you resolve the lag issues with Borderlands 3\. Now it’s time for the next part – how to tackle “lag” issues related to low FPS.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **I’m having frame rate problems**
 
@@ -285,10 +297,6 @@ Now I’ll list three of the fixes included:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-558.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5) Next up:
 
 * Shadows: **Medium/Low**
@@ -302,6 +310,10 @@ Now I’ll list three of the fixes included:
 * Screen Space Reflections: **Off**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-561.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you see instant improvements in FPS, you can either stop here or go on to try the next fix.
 
@@ -318,17 +330,9 @@ Now I’ll list three of the fixes included:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-414.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) In the Borderlands 3 Properties window, on the **Compatibility** tab, select the **Disable fullscreen optimizations** check box. Then, click **Change high DPI settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-419.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Check the **Override high DPI scaling behavior** box. Then click **OK** .
 
@@ -337,10 +341,6 @@ Now I’ll list three of the fixes included:
  5) Click **Apply > OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-421.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -363,20 +363,22 @@ Now I’ll list three of the fixes included:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/updated-the-great-video-app-race-will-likeeclipses-tiktoks-dominance-in-2024/"><u>[Updated] The Great Video App Race Will LikeEclipses TikTok’s Dominance, In 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/capturing-the-skies-an-in-depth-look-at-the-cutting-edge-dji-mavic-3-technology/"><u>Capturing the Skies: An In-Depth Look at the Cutting-Edge DJI Mavic 3 Technology</u></a></li>
-<li><a href="https://win-dash.techidaily.com/hassle-free-driver-updates-compatible-brother-mfc-7360n-drivers-for-all-your-windows-platforms/"><u>Hassle-Free Driver Updates: Compatible Brother MFC-7360N Drivers for All Your Windows Platforms</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-recurring-system-errors-when-using-moon-client-on-personal-computers/"><u>How to Fix Recurring System Errors When Using Moon Client on Personal Computers</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Realme C33 2023 | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-a-how-to-guide-on-bypassing-apple-iphone-xs-max-icloud-activation-lock-by-drfone-ios/"><u>In 2024, A How-To Guide on Bypassing Apple iPhone XS Max iCloud Activation Lock</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Realme C67 5G | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-vivo-x100-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Vivo X100? Here Is the Answer | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-fixes-for-smooth-play-improve-your-frames-per-second-fps-on-elden-ring/"><u>Quick Fixes for Smooth Play: Improve Your Frames Per Second (FPS) on Elden Ring</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-fixes-restoring-voice-chat-functionality-in-your-amidst-of-adventure-game-on-pc/"><u>Quick Fixes: Restoring Voice Chat Functionality in Your Amidst of Adventure Game on PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solve-persistent-lag-in-serious-sam-4-debugging-and-optimizing-gameplay-on-pc-systems/"><u>Solve Persistent Lag in Serious Sam 4: Debugging & Optimizing Gameplay on PC Systems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-solution-for-steam-content-encryption-barrier-fixes/"><u>Step-by-Step Solution for Steam Content Encryption Barrier Fixes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-tutorial-to-eliminate-lag-in-street-fighter-6-for-enhanced-pc-play-experience/"><u>Step-by-Step Tutorial to Eliminate Lag in Street Fighter 6 for Enhanced PC Play Experience</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-and-repairing-dauntless-pc-crashes-effectively/"><u>Troubleshooting and Repairing Dauntless PC Crashes Effectively</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-toms-electronics-breakdown/"><u>Unveiling the Latest in Tom's Electronics Breakdown</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-explore-polarr-photo-editor-features-in-detail-for-2024/"><u>[New] Explore Polarr Photo Editor Features in Detail for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-ultimate-screen-recorder-companion-for-windows-10-for-2024/"><u>[Updated] Ultimate Screen Recorder Companion for Windows 10 for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unveiling-the-mystery-scriptwriting-for-documentaries/"><u>[Updated] Unveiling the Mystery Scriptwriting for Documentaries</u></a></li>
+<li><a href="https://win-answers.techidaily.com/lets-note/"><u>「瞬時にLet's Noteでスクリーン記録の迅速ガイド」</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-on-correcting-missing-or-lost-wpcapdll-errors/"><u>Comprehensive Guide on Correcting Missing or Lost Wpcap.dll Errors</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easy-video-trimming-techniques-using-the-vlc-media-player/"><u>Easy Video Trimming Techniques Using the VLC Media Player</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-strategies-for-converting-ts-video-files-to-mkv-using-top-free-tools/"><u>Effective Strategies for Converting TS Video Files to MKV Using Top Free Tools</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effortless-methods-for-transforming-high-quality-flac-tracks-into-mp3-format-with-audacity-tools/"><u>Effortless Methods for Transforming High-Quality FLAC Tracks Into MP3 Format with Audacity Tools</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-honor-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Honor Pattern Lock Screen</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-top-choice-vr-game-engines-update-march-2023/"><u>In 2024, Top Choice VR Game Engines Update - March 2023</u></a></li>
+<li><a href="https://win-answers.techidaily.com/m4aogg/"><u>M4A形式へのOggファイル複数同時変換方法：最新ガイド</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-avi-videos-in-vlc-a-guide-to-smooth-playback-and-issue-resolution/"><u>Mastering AVI Videos in VLC: A Guide to Smooth Playback and Issue Resolution</u></a></li>
+<li><a href="https://win-answers.techidaily.com/movmp4adobe-premiere-pro/"><u>MOV形式からMP4に変更:Adobe Premiere Proで効率よく行う方法</u></a></li>
+<li><a href="https://win11.techidaily.com/phoenix-rise-revive-gaming-pcs-with-atlasos/"><u>Phoenix Rise: Revive Gaming PCs with AtlasOS</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-guide-on-converting-voice-messages-into-high-quality-mp3-audio/"><u>Quick Guide on Converting Voice Messages Into High-Quality MP3 Audio</u></a></li>
+<li><a href="https://blog-min.techidaily.com/the-ultimate-comparison-of-imo-recording-apps-for-cross-platform-use-on-mobile-and-desktop/"><u>The Ultimate Comparison of IMO Recording Apps for Cross-Platform Use on Mobile and Desktop</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/try-our-premium-ipad-film-editor-software-for-free-and-complete-your-purchase-safely-after-testing/"><u>Try Our Premium iPad Film Editor Software for Free and Complete Your Purchase Safely After Testing</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Yakuza 3 Reimagined: Fixed PC Version No Longer Prone to Crashes"
-date: 2024-12-16T20:27:39.384Z
-updated: 2024-12-20T17:53:14.940Z
+date: 2025-01-02T18:58:13.450Z
+updated: 2025-01-06T00:28:06.814Z
 tags:
   - win11
   - win10
@@ -38,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/72f83f594e8347a65931f8cd6726d7752e9fa455e
 
 [6: Use a VPN](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Check the server status
 
  The first thing you can do is to check the server status. If there’s an outage or the game is currently under maintenance, you’ll be able to get notifications from[Halo Support Twitter](https://twitter.com/HaloSupport) . Or you can head to[Halo Infinite Steam forum](https://steamcommunity.com/app/1240440/discussions/) or[Reddit](https://www.reddit.com/r/halo/) to see if there’s any news from fellow players.
@@ -66,11 +70,15 @@ thumbnail: https://thmb.techidaily.com/72f83f594e8347a65931f8cd6726d7752e9fa455e
 3. Under the**local files** tab, click**Verify integrity of game files** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/verify-game-files-1.jpg)
 4. This process may take a while. Once the scan is complete, restart the game to see if you still get the error.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If the error returns, try the next fix.
 
@@ -88,6 +96,10 @@ If the error returns, try the next fix.
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the flagged network adapter driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
@@ -97,6 +109,10 @@ If the error returns, try the next fix.
 
  Restart your PC for the new drivers to take effect. If updating your network driver doesn’t help, try the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 5: Configure DNS settings
 
  Corrupted DNS caches may cause random connection issues. If the fixes above didn’t work for you, you may want to give this fix a try and configure your DNS settings. There are two things you can do:
@@ -104,10 +120,6 @@ If the error returns, try the next fix.
 [1: Flush your DNS](https://tools.techidaily.com/drivereasy/download/)
 
 [2: Switch to a public DNS server](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1: Flush your DNS
 
@@ -118,21 +130,13 @@ If the error returns, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/run-cmd.png)
 3. Copy**ipconfig /flushdns** , and paste it in the pop-up window. Then press**Enter** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/flushdns的副本.png)
 4. Your DNS cache is successfully cleared.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2: Switch to a public DNS server
@@ -149,21 +153,17 @@ If the error returns, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If changing the DNS settings doesn’t solve your problem, there’s one more fix you can try.
 
@@ -198,17 +198,19 @@ If the error returns, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-depth-look-nikon-d7500-specifications/"><u>[Updated] In-Depth Look Nikon D7500 Specifications</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-get-ready-to-save-space-with-these-38-exceptional-android-compressor-apps/"><u>2024 Approved Get Ready to Save Space with These 38 Exceptional Android Compressor Apps</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-top-6-online-communities-catering-to-the-commercial-world/"><u>2024 Approved Top 6 Online Communities Catering to the Commercial World</u></a></li>
-<li><a href="https://win-answers.techidaily.com/best-practices-resolving-minecrafts-stuttering-problem-on-your-computer/"><u>Best Practices: Resolving Minecraft's Stuttering Problem on Your Computer</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/earning-estimates-for-youtube-creators-adsense-pay-out-per-1000-viewers/"><u>Earning Estimates for YouTube Creators AdSense Pay-Out per 1,000 Viewers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-fixes-to-eliminate-lag-spikes-and-optimize-ping-for-bless-unleashed-gamers/"><u>Effective Fixes to Eliminate Lag Spikes and Optimize Ping for Bless Unleashed Gamers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/enhancing-gameplay-quality-by-resolving-framerate-drops-and-stuttering-issues/"><u>Enhancing Gameplay Quality by Resolving Framerate Drops & Stuttering Issues</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-motorola-moto-g23-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Motorola Moto G23</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-best-11-tools-for-perfecting-your-fb-profile-pics/"><u>In 2024, Best 11 Tools For Perfecting Your FB Profile Pics</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-lava-storm-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Lava Storm 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210123412-9780744043044-tarot/"><u>Tarot | Free Book</u></a></li>
-<li><a href="https://win-answers.techidaily.com/unraveling-destiny-2s-202e-fix-for-the-infamous-broccoli-crash-error/"><u>Unraveling Destiny 2'S 202E Fix for The Infamous Broccoli Crash Error</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-seamless-acquisition-of-everyday-online-footage-fb-status-videos-for-2024/"><u>[Updated] Seamless Acquisition of Everyday Online Footage FB Status Videos for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1726028582576-and/"><u>「さまざまなビデオ&オーディオコーデック間でのフォーマット変換技術に関するガイド」</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1726027654580-and/"><u>「セキュリティ確保のもとで安心してエロコンテンツダウンロード&保管術」</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-a-step-by-step-guide-through-youtubes-aspect-ratio-landscapes/"><u>2024 Approved A Step-by-Step Guide Through YouTube's Aspect Ratio Landscapes</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/groundbreaking-bitcoin-etf-hits-15b-mark-as-discount-aligns-with-surge-to-69k-btc-value-analysis-from-yl-software-solutions/"><u>Groundbreaking Bitcoin ETF Hits $1.5B Mark as 'Discount' Aligns with Surge to $69K BTC Value – Analysis From YL Software Solutions</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-infinix-note-30-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Infinix Note 30 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/official-downloads-installing-logitechs-gaming-mouse-driver-on-windows-operating-systems/"><u>Official Downloads: Installing Logitech's Gaming Mouse Driver on Windows Operating Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1726028165521-swfmp4/"><u>SWFからMP4に変換方法・失敗した原因と解決策</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/the-essential-audio-interface-for-your-podcaster-for-2024/"><u>The Essential Audio Interface for Your Podcaster for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-budget-friendly-portable-chargers-comprehensive-expert-reviews-by-zdnet/"><u>Top-Rated Budget-Friendly Portable Chargers : Comprehensive Expert Reviews by ZDNet</u></a></li>
+<li><a href="https://extra-information.techidaily.com/videoapp-insight-a-comprehensive-evaluation/"><u>VideoApp Insight A Comprehensive Evaluation</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1726027231009-vlc/"><u>VLCメディアプレーヤーで効果的なスクリーン録画・キャプチャ技術：詳細ガイド</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1726027840920-youtube/"><u>YouTubeで動画の背景から再生可能にするコツ</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1726028992510-5/"><u>ゲームライブ撮影ソフトウェア 最新無料版5選！初心者も使いやすい編集ツールの完全ガイド</u></a></li>
 </ul></div>
 

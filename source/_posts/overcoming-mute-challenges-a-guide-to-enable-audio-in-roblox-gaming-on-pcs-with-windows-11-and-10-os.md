@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Mute Challenges: A Guide to Enable Audio in Roblox Gaming on PCs with Windows 11 and 10 OS"
-date: 2024-12-19T17:50:00.529Z
-updated: 2024-12-20T17:52:52.807Z
+date: 2024-12-30T19:55:17.102Z
+updated: 2025-01-06T04:03:26.950Z
 tags:
   - win11
   - win10
@@ -58,7 +58,7 @@ thumbnail: https://thmb.techidaily.com/5078b6aad02ae129a31526ccfe9c91c4fe1b8842e
  After you switched to CPU for fast previews, After Effects may take more time for fast previews, but it would reduce the possibilities of random crashes. If this fix doesn’t work for you, don’t worry. Try the next fix below to update your graphics driver.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
@@ -78,7 +78,7 @@ thumbnail: https://thmb.techidaily.com/5078b6aad02ae129a31526ccfe9c91c4fe1b8842e
 There’re mainly two ways you can update your graphics drivers:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 1: Manually
@@ -98,7 +98,7 @@ There’re mainly two ways you can update your graphics drivers:
 **Or**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 2: Automatically (Recommended)
@@ -118,12 +118,12 @@ There’re mainly two ways you can update your graphics drivers:
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Pro version of Driver Easy comes with full technical support. If you need assistance, please contact Driver Easy’s support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -144,10 +144,6 @@ There’re mainly two ways you can update your graphics drivers:
 ![Purge all memory and disk cache 1](https://images.drivereasy.com/wp-content/uploads/2021/03/Purge-all-memory-and-disk-cache-1.jpg)
 3. Launch After Effects again to see if it crashes or not. If it still crashes, try the next fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If After Effects works well after you purged memory and disk cache, it may suggests that currently your computer doesn’t has sufficient RAM or storage for After Effects to run properly and you may need to upgrade the memory or storage to prevent crashes due to insufficient resources in the future.
 
  The mechanical hard drive may also be the culprit of the crashing issue. As we all know, the mechanical hard drive is prone to damage. Bad sectors may corrupt the files stored on it and cause crashing. If it is the case, you may want to replace the mechanical hard drive to a solid-state drive (SSD).
@@ -162,7 +158,15 @@ There’re mainly two ways you can update your graphics drivers:
 ![Delete the temp folder of After Effects](https://images.drivereasy.com/wp-content/uploads/2021/03/Delete-the-temp-folder-of-After-Effects.jpg)
 4. Launch After Effects to see if this issue persists.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If After Effects still crashes, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Reinstall codecs and plugins
 
@@ -170,16 +174,12 @@ If After Effects still crashes, try the next fix, below.
 
  Some incompatible plugins would also crash After Effects. Before installing a 3rd party plugin, you need ensure it is 100% compatible with both your version of After Effects and other plugins. If you’ve installed a new plugin recently, try deactivating it to see if it is the crashing culprit. If it doesn’t help, you may need to reinstall After Effects.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 6: Update / reinstall After Effects
 
  If none of the fixes above helped you resolve the crashing issue, try updating / reinstalling After Effects. Normally, after updating After Effects to the latest version, or reinstalling it, you’ll fix the crashing issue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -210,20 +210,21 @@ If After Effects still crashes, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-maintaining-creative-commons-on-youtube-for-greater-exposure/"><u>[New] In 2024, Maintaining Creative Commons on YouTube for Greater Exposure</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-earn-big-on-youtube-shorts-tips-for-profitable-content-creation/"><u>[Updated] 2024 Approved Earn Big on YouTube Shorts Tips for Profitable Content Creation</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-sell-your-brand-through-innovative-youtuber-collaborations/"><u>2024 Approved How To Sell Your Brand Through Innovative YouTuber Collaborations</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/experience-elegant-ergonomics-with-the-flexispot-theodore-adjustable-standing-desk-review/"><u>Experience Elegant Ergonomics with the Flexispot Theodore Adjustable Standing Desk Review</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-vivo-y78-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Vivo Y78 5G Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-pcmobile-mkv-viewer/"><u>In 2024, Ultimate PC/Mobile MKV Viewer</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mark-your-calendars-the-exact-date-for-samsung-unveils-galaxy-s2/"><u>Mark Your Calendars! The Exact Date for Samsung Unveils Galaxy S2</u></a></li>
-<li><a href="https://win-answers.techidaily.com/rainbow-six-extraction-crash-fix-optimizing-gameplay-on-your-computer-system/"><u>Rainbow Six Extraction Crash Fix - Optimizing Gameplay on Your Computer System</u></a></li>
-<li><a href="https://win-answers.techidaily.com/respiratory-protection/"><u>Respiratory Protection</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210676582-9781958921043-shamanism/"><u>Shamanism | Free Book</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-the-new-world-connection-issue-a-comprehensive-guide/"><u>Solving the New World Connection Issue: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/tips-and-tricks-to-prevent-freezing-optimizing-your-path-of-exile-experience/"><u>Tips and Tricks to Prevent Freezing: Optimizing Your Path of Exile Experience</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/top-video-meeting-applications-excluding-zoom/"><u>Top Video Meeting Applications Excluding Zoom</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-resolving-the-issue-when-humankind-app-wont-start/"><u>Troubleshooting Steps: Resolving the Issue When 'Humankind' App Won't Start</u></a></li>
-<li><a href="https://win-answers.techidaily.com/understanding-wsappx-causes-and-solutions-for-excessive-memory-and-processor-consumption/"><u>Understanding WSAPPX: Causes & Solutions for Excessive Memory and Processor Consumption</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-auto-arcade-adventures-for-kids/"><u>[New] 2024 Approved Auto Arcade Adventures for Kids</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/iscovering-your-youtube-comments-on-various-devices/"><u>[New] Discovering Your YouTube Comments on Various Devices</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-experts-list-of-lightweight-easy-carrying-viewers/"><u>[New] Expert's List of Lightweight, Easy-Carrying Viewers</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-key-elements-to-successful-mobile-app-design/"><u>[New] In 2024, Key Elements to Successful Mobile App Design</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-sound-design-strategies-integrating-youtube-music-into-visual-media/"><u>[New] Sound Design Strategies Integrating YouTube Music Into Visual Media</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-a-detailed-analysis-djis-raptor-4-vr-goggle-features/"><u>[Updated] A Detailed Analysis DJi's Raptor 4 VR Goggle Features</u></a></li>
+<li><a href="https://win-answers.techidaily.com/movand6/"><u>無料でMOVファイルのコンプレッションに最適！フリーウェア&オンライン圧縮ツールベスト6選</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-play-and-fix-issues-with-ifo-file-format-in-202/"><u>How to Play and Fix Issues with 'IFO File' Format in 202</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/kidizoom-cam-series-joyful-exploration/"><u>Kidizoom Cam Series: Joyful Exploration</u></a></li>
+<li><a href="https://win-answers.techidaily.com/konvertieren-von-midi-dateien-in-waveform-fur-windows-10-kostenlos-mit-open-source-tools/"><u>Konvertieren Von Midi-Dateien in Waveform (Für Windows 10) Kostenlos Mit Open Source Tools</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-drivers-for-your-amd-vega-64-graphics-card-compatible-with-windows-systems/"><u>Latest Drivers for Your AMD Vega 64 Graphics Card - Compatible with Windows Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-data-transfer-ultimate-techniques-for-dvd-and-cd-copying-and-burning-processes/"><u>Mastering Data Transfer: Ultimate Techniques for DVD and CD Copying and Burning Processes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mp4itunes/"><u>MP4ファイルがiTunesに認識されない時の対策手順：ホットスポット解析</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-guide-on-converting-youtube-footage-into-high-quality-mp4/"><u>Quick Guide on Converting YouTube Footage Into High-Quality MP4</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-guide-how-to-speedily-save-prolonged-youtube-videos-for-offline-viewing/"><u>Quick Guide: How To Speedily Save Prolonged YouTube Videos For Offline Viewing</u></a></li>
+<li><a href="https://blog-min.techidaily.com/transform-your-scratches-into-script-microsoft-onenotes-new-handwriting-enhancement-feature/"><u>Transform Your Scratches Into Script: Microsoft OneNote's New Handwriting Enhancement Feature</u></a></li>
 </ul></div>
 

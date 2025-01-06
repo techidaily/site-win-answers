@@ -1,7 +1,7 @@
 ---
 title: "Resolved: FPS Fluctuations in Resident Evil Village on PC - A Detailed Analysis"
-date: 2024-12-19T18:36:35.069Z
-updated: 2024-12-20T16:53:50.373Z
+date: 2025-01-02T21:32:21.648Z
+updated: 2025-01-06T00:41:30.549Z
 tags:
   - win11
   - win10
@@ -43,7 +43,7 @@ Immortals Fenyx Rising, the latest action-adventure game released by Ubisoft, is
  Relaunch Immortals Fenyx Rising and it should be working properly. If this method doesn’t help, there are more fixes to try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2 – Run the game as an administrator
@@ -57,11 +57,11 @@ Immortals Fenyx Rising, the latest action-adventure game released by Ubisoft, is
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/im-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Run the game again to check if your problem gets fixed. If not, continue to the third method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3 – Update your graphics driver
 
@@ -91,12 +91,20 @@ There are mainly two ways you can do this:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/im-1.jpg)
 3. Click**Verify files** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Wait until the scan and repair process completes, and restart your game to test. If the not launching problem persists, keep reading the last fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5 – Use dedicated graphics card
@@ -111,7 +119,7 @@ There are mainly two ways you can do this:
 3. Click the**Program Settings** tab and then click**Add** to include the Immortals Fenyx Rising.exe file.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-3-1.jpg)
@@ -121,7 +129,7 @@ There are mainly two ways you can do this:
  Note: If you have an AMD graphics card, you could refer to this guide: **[How to Configure Switchable Graphics using Radeon Settings](https://www.amd.com/en/support/kb/faq/dh-017)**  .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Type**graphics** in the Windows search bar, and click**Graphics settings** .  
@@ -131,16 +139,8 @@ There are mainly two ways you can do this:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-7.jpg)
 7. After the game is added, select it and click**Options** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-8.jpg)
 8. On the pop-up menu, click**High performance** and click**Save** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now check if Immortals Fenyx Rising is able to launch. If all the methods above fail to get your game working, try contacting **[Ubisoft support](https://support.ubisoft.com/en-US)**  for further assistance.
 
@@ -165,24 +165,14 @@ There are mainly two ways you can do this:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-vimeo-to-mp4-conversion-made-simple-for-2024/"><u>[New] Vimeo to MP4 Conversion Made Simple for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-blitz-30-second-guide-to-fast-thumbnails/"><u>[Updated] 2024 Approved Blitz 30-Second Guide to Fast Thumbnails</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/discovering-digital-dialogues-facebook-video-exchange-for-2024/"><u>Discovering Digital Dialogues Facebook Video Exchange for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/elevate-your-smart-home-experience-this-labor-day-save-big-on-echo-show-8-with-an-exclusive-30-discount/"><u>Elevate Your Smart Home Experience This Labor Day - Save Big on Echo Show 지 8 with an Exclusive 30% Discount!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/five-easy-tricks-for-addressing-launch-delays-in-genshin-impact/"><u>Five Easy Tricks for Addressing Launch Delays in Genshin Impact</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-persistent-crashes-in-king-of-fighters-xv-tips-for-a-smooth-gaming-experience-on-your-computer/"><u>Fixing the Persistent Crashes in 'King of Fighters XV': Tips for a Smooth Gaming Experience on Your Computer</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-resolve-issues-when-tribes-of-midgard-freezes-or-crashes/"><u>How to Resolve Issues When Tribes of Midgard Freezes or Crashes</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-apple-iphone-xs-max-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone XS Max Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-master-the-art-of-technological-advancement-with-this-guide/"><u>In 2024, Master the Art of Technological Advancement with This Guide</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-tecno-spark-20-pro-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Tecno Spark 20 Pro for Parents | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723008618658-itunes-audio-issue-resolved-optimize-playback-today/"><u>ITunes Audio Issue Resolved - Optimize Playback Today</u></a></li>
-<li><a href="https://change-location.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/perfect-sitters-top-choices-for-heightened-gamers/"><u>Perfect Sitters: Top Choices for Heightened Gamers</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/pioneering-progress-in-insurance-strategies-for-success-with-future-focused-solutions/"><u>Pioneering Progress in Insurance: Strategies for Success with Future-Focused Solutions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-red-dead-online-pc-game-crashes-tips-and-tricks/"><u>Resolving Red Dead Online PC Game Crashes – Tips and Tricks</u></a></li>
-<li><a href="https://win-answers.techidaily.com/tackling-the-launch-delay-fixes-for-football-manager-2021s-stalled-startup-sequence/"><u>Tackling the Launch Delay: Fixes for Football Manager 2021'S Stalled Startup Sequence</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-frame-rate-issues-and-connectivity-spikes-in-cod-black-ops-iv/"><u>Troubleshooting Frame Rate Issues & Connectivity Spikes in COD: Black Ops IV</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-fix-resolving-scavengers-game-crashes-in-windows-1011/"><u>Ultimate Fix: Resolving 'Scavengers' Game Crashes in Windows 10/11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/win11-specific-solutions-for-resolving-minecraft-installation-problems/"><u>Win11 Specific Solutions for Resolving Minecraft Installation Problems</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-barebones-calm-music-selection/"><u>[New] In 2024, Barebones Calm Music Selection</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-elevate-your-gaming-experience-with-these-5-techniques-on-windows-11/"><u>[Updated] In 2024, Elevate Your Gaming Experience with These 5 Techniques on Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/usb/"><u>「車内でUSBから音楽が流せませんか？」 - 車用音楽プレイヤーのセットアップガイド</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1-speeding-up-video-conversion-harnessing-the-power-of-gpus/"><u>1. Speeding Up Video Conversion: Harnessing the Power of GPUs</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-cutting-edge-converter-elevate-your-screen-viewing/"><u>2024 Approved Cutting Edge Converter Elevate Your Screen Viewing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/wavmp3mp4/"><u>音楽を分離してWAVやMP3に変換する：MP4から始める手順</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-nubia-red-magic-9-pro-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Nubia Red Magic 9 Pro Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-top-9-online-movie-makers-to-make-movie-online-for-free/"><u>New In 2024, Top 9 Online Movie Makers to Make Movie Online for Free</u></a></li>
+<li><a href="https://win-answers.techidaily.com/windows-1111/"><u>スチームゲームをWindows 11/11で記録・動画撮影する詳細ガイド</u></a></li>
 </ul></div>
 

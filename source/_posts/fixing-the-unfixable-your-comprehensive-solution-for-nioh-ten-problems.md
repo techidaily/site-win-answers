@@ -1,7 +1,7 @@
 ---
 title: Fixing the Unfixable? Your Comprehensive Solution for Nioh ˈt͡ʃeɪnɪŋ Problems
-date: 2024-12-21T16:07:59.155Z
-updated: 2024-12-27T16:11:41.938Z
+date: 2025-01-05T02:44:03.310Z
+updated: 2025-01-05T22:52:16.102Z
 tags:
   - win11
   - win10
@@ -46,7 +46,7 @@ Here’s how you can check the file integrity on Steam:
 2. In the left menu, select**LOCAL FILES** . Then click**Verify integrity of game files** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/re5-verify-2.jpg)
@@ -68,10 +68,6 @@ Here’s how you can check the file integrity on Steam:
  (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your PC and check if Resident Evil 5 launches now.
@@ -79,7 +75,7 @@ Here’s how you can check the file integrity on Steam:
  If the latest video driver doesn’t help you, check out the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Install all Windows updates
@@ -90,11 +86,11 @@ Here’s how you can check the file integrity on Steam:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-1.jpg)
 2. Click**Check for updates** . Windows will then check for available updates. (Or click Restart now if it prompts “Restart required”)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After installing all the updates, restart your computer and check if you can launch Resident Evil 5 now.
 
@@ -117,12 +113,12 @@ Here’s how you can check the file integrity on Steam:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/patch-1.jpg)
 3. Open the Resident Evil 5 folder and paste the patch files.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/patch-2.jpg)
 4. Now check if Resident Evil 5 can launch normally.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Check for corrupted system files
 
@@ -135,10 +131,14 @@ Here’s how you can check the file integrity on Steam:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
@@ -162,21 +162,21 @@ Here’s how you can check the file integrity on Steam:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-17-best-lights-and-lighting-equipment-for-youtube-videos/"><u>[New] In 2024, 17 Best Lights and Lighting Equipment for YouTube Videos</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-the-sideways-surprise-decoding-instagram-video-strange-behavior-for-2024/"><u>[New] The Sideways Surprise Decoding Instagram Video Strange Behavior for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-elevate-your-channel-game-tubebuddy-insights/"><u>[Updated] In 2024, Elevate Your Channel Game - TubeBuddy Insights</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-select-best-online-outlets-for-downloading-youtube-tones/"><u>[Updated] Select Best Online Outlets for Downloading Youtube Tones</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-assessing-instagrams-limits-on-posted-videos/"><u>2024 Approved Assessing Instagram's Limits on Posted Videos</u></a></li>
-<li><a href="https://win-answers.techidaily.com/bypassing-the-persistent-launch-hurdle-in-far-cry-5/"><u>Bypassing the Persistent Launch Hurdle in Far Cry 5</u></a></li>
-<li><a href="https://win11.techidaily.com/enabling-telnet-three-steps-for-win-1011/"><u>Enabling Telnet: Three Steps for Win 10/11</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-excessive-disk-consumption-caused-by-compatibility-telemetry-in-windows-11/"><u>How to Fix Excessive Disk Consumption Caused by Compatibility Telemetry in Windows 11</u></a></li>
-<li><a href="https://extra-information.techidaily.com/initiate-insight-an-entryway-guide-to-online-product-critique-channels/"><u>Initiate Insight An Entryway Guide to Online Product Critique Channels</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-stability-issues-in-rainbow-six-extraction-on-your-computer/"><u>Resolving Stability Issues in Rainbow Six Extraction on Your Computer</u></a></li>
-<li><a href="https://win-answers.techidaily.com/revamped-graphics-how-fixing-blurry-visuals-enhanced-the-gameplay-of-outriders/"><u>Revamped Graphics: How Fixing Blurry Visuals Enhanced the Gameplay of Outriders</u></a></li>
-<li><a href="https://win-answers.techidaily.com/the-complete-guide-to-understanding-the-destiny-2-veggie-collision-update-broccoli-crash-2024-version/"><u>The Complete Guide to Understanding the Destiny 2 Veggie Collision Update (Broccoli Crash) - 2024 Version</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/top-picks-for-windows-graphics-cards-a-comprehensive-guide-by-experts-at-yl-software/"><u>Top Picks for Windows Graphics Cards: A Comprehensive Guide by Experts at YL Software</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-common-issues-fixes-for-serious-sam-4-lag-and-freezing/"><u>Troubleshooting Common Issues: Fixes for Serious Sam 4 Lag and Freezing</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-how-to-resolve-discord-not-responding-issues/"><u>Troubleshooting Steps: How to Resolve 'Discord Not Responding' Issues</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-techniques-for-unstable-outlook-performance-and-crashes/"><u>Troubleshooting Techniques for Unstable Outlook Performance and Crashes</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-crafting-the-perfect-virtual-space-with-zooms-features/"><u>[New] Crafting the Perfect Virtual Space with Zoom's Features</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-how-to-add-divine-chant-to-smartphone-notifications/"><u>[Updated] 2024 Approved How to Add Divine Chant to Smartphone Notifications</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-enhancing-visual-storytelling-with-impeccable-voice-over-for-2024/"><u>[Updated] Enhancing Visual Storytelling with Impeccable Voice Over for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-5-essential-steps-to-create-viral-titles-online/"><u>2024 Approved 5 Essential Steps to Create Viral Titles Online</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-realme-narzo-60-5g-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Realme Narzo 60 5G FRP</u></a></li>
+<li><a href="https://win-answers.techidaily.com/align-audio-with-video-playback-on-youtube-in-firefox-and-chrome-step-by-step-fix-guide/"><u>Align Audio with Video Playback on YouTube in Firefox and Chrome: Step-by-Step Fix Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-guide-to-updating-and-installing-software-for-toshiba-satellite-dynaedge-dock-on-windows-machines/"><u>Easy Guide to Updating & Installing Software for Toshiba Satellite DynaEdge Dock on Windows Machines</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhancing-efficiency-addressing-2022-spotify-web-player-delays-proven-strategies-for-a-better-listening-experience/"><u>Enhancing Efficiency: Addressing 2022 Spotify Web Player Delays - Proven Strategies for a Better Listening Experience</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-tips-mastering-the-art-of-sending-voicemail-via-ios-devices/"><u>Expert Tips: Mastering the Art of Sending Voicemail via iOS Devices</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-genshin-impact-issue-understanding-error-4201/"><u>Fixing Genshin Impact Issue: Understanding Error 4201</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722993761577-fixing-offline-origin-problem-it-works-again/"><u>Fixing Offline Origin Problem – It Works Again!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-meizu-21-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Meizu 21 Pattern Lock Screen</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-gamepad-and-mouse-gripes-in-resident-evil-village/"><u>How to Fix Gamepad and Mouse Gripes in Resident Evil Village</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-tasty-trailblazers-culinary-youtube-icons/"><u>In 2024, Tasty Trailblazers Culinary YouTube Icons</u></a></li>
+<li><a href="https://win-answers.techidaily.com/rocket-league-stability-hacks-advanced-solutions-to-end-game-crashes/"><u>Rocket League Stability Hacks: Advanced Solutions to End Game Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-frame-rate-dip-in-age-of-empires-iv-troubleshooting-guide/"><u>Solving the Frame Rate Dip in Age of Empires IV: Troubleshooting Guide</u></a></li>
 </ul></div>
 

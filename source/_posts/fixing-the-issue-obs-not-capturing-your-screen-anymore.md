@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: OBS Not Capturing Your Screen Anymore"
-date: 2024-12-26T16:04:18.859Z
-updated: 2024-12-27T16:08:29.631Z
+date: 2024-12-31T03:36:23.894Z
+updated: 2025-01-06T00:13:58.043Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ If you’re presented with the**Graphics Driver Crashed** error on Valorant and 
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -52,10 +56,6 @@ If you’re presented with the**Graphics Driver Crashed** error on Valorant and 
 
 **Note:** Please uninstall the graphics driver first to make sure you’re using the right driver when you update a driver manually.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Option 2 – Automatically
 
  Manual updating a driver is always time-consuming. Fortunately, though, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . You can update the driver either with the FREE or the Pro version of Driver Easy.
@@ -68,10 +68,14 @@ If you’re presented with the**Graphics Driver Crashed** error on Valorant and 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/Update-all-drivers.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If updating to the latest driver didn’t do the trick, you can also perform a Windows Update since the latest graphics driver is designed for the latest Windows version.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 2: Roll back the graphics driver
@@ -87,10 +91,6 @@ If you’re presented with the**Graphics Driver Crashed** error on Valorant and 
 * **[Intel](https://downloadcenter.intel.com/product/80939/Graphics)**  
   * Select the product model and the operating system. Then scroll down the list and download an older driver.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 3: Update DirectX
 
  This error might happen if you’re using an outdated version of DirectX, which causes problems when your Valorant is interacting with your graphics card. Here’s how to check if you’re using the latest DirectX:
@@ -105,6 +105,10 @@ If you’re presented with the**Graphics Driver Crashed** error on Valorant and 
 
  To upgrade your DirectX version, you’ll need to upgrade to the highest level of Windows version. So make sure you’ve performed a full Windows Update.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 4: Reset your graphics card software
 
  NVIDIA comes with the NVIDIA Control Panel and AMD comes with the Catalyst Control Center. Both of these programs allow users to set up graphics profiles that can override application settings and sometimes interfere with VALORANT as a result.
@@ -117,19 +121,11 @@ To fix this, you can try resetting the software to default:
 * Select **Manage 3D Settings** .
 * Click on **Restore Defaults** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### CATALYST Control Center
 
 * Right-click on your **Desktop** and select **Catalyst Control Center** (also called **VISION** center).
 * Select **Preferences** .
 * Click on **Restore Factory Defaults** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 5: Play Valorant in windowed mode
 
@@ -139,12 +135,16 @@ To fix this, you can try resetting the software to default:
 
 2) On the loading screen, press**Alt** +**Enter** to set the game to windowed mode.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 6: Stop overclocking
 
  Your device is not that sensitive to overclocking, but the game is, especially when you’re using third-party tools such as MSI Afterburner. This may not fix this error permanently, but it allows you to play the game with fewer crashes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 7: Close all background apps
@@ -212,22 +212,22 @@ To fix this, you can try resetting the software to default:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-in-depth-assessment-photo-editing-tool-for-creatives/"><u>[New] In-Depth Assessment Photo Editing Tool for Creatives</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-unlock-new-dimensions-of-sound-best-free-valorant-audio-alterer-revealed/"><u>[New] Unlock New Dimensions of Sound Best Free Valorant Audio Alterer Revealed</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-choosing-your-best-vr-camera-insights/"><u>[Updated] Choosing Your Best VR Camera Insights</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-a-beginners-primer-on-virtual-reality-concepts/"><u>2024 Approved A Beginner's Primer on Virtual Reality Concepts</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/all-you-need-to-know-about-mega-greninja-for-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Realme 11X 5G | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/back-4-blood-not-working-solved-guide-for-proper-setup-on-different-windows-oses/"><u>Back 4 Blood Not Working? [Solved!] Guide for Proper Setup on Different Windows OSes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723001874277-chrome-lag-solved-boost-browsing-speeds-in-minutes/"><u>Chrome Lag Solved: Boost Browsing Speeds in Minutes</u></a></li>
-<li><a href="https://driver-download.techidaily.com/effortless-update-methods-for-your-amd-video-cards-proprietary-software/"><u>Effortless Update Methods for Your AMD Video Card's Proprietary Software</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fix-continuous-minecraft-crashes-in-just-six-easy-steps/"><u>Fix Continuous Minecraft Crashes in Just Six Easy Steps</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/fixing-the-blues-simple-solutions-to-stop-your-windows-11-system-from-crashing/"><u>Fixing the Blues: Simple Solutions to Stop Your Windows 11 System From Crashing</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-and-prevent-the-errgfxstate-graphic-anomaly-in-your-red-dead-redemption-2-game/"><u>How to Fix and Prevent the ERR_GFX_STATE Graphic Anomaly in Your Red Dead Redemption 2 Game</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722994137869-how-to-resolve-forza-horizon-4-launch-issues-expert-tips-and-tricks/"><u>How to Resolve Forza Horizon 4 Launch Issues : Expert Tips & Tricks</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-samsung-galaxy-a34-5g-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Samsung Galaxy A34 5G FRP?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solution-guide-for-stabilizing-adobe-premiere-pro-on-windows-1110-systems/"><u>Solution Guide for Stabilizing Adobe Premiere Pro on Windows 11/10 Systems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solution-guide-handling-the-fatal-error-when-loading-steamuidll-on-steam-platform/"><u>Solution Guide: Handling the Fatal Error When Loading 'steamui.dll' On Steam Platform</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/the-ultimate-guide-to-8-invaluable-sound-effects-from-the-gaming-realm-for-2024/"><u>The Ultimate Guide to 8 Invaluable Sound Effects From the Gaming Realm for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steams-remote-play-issues-easy-solutions-inside/"><u>Troubleshooting Steam's Remote Play Issues - Easy Solutions Inside</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-the-art-of-bio-storytelling-on-social-media-platforms/"><u>[New] 2024 Approved The Art of Bio Storytelling on Social Media Platforms</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-how-to-solve-fatal-error-ark/"><u>[Solved] How to Solve Fatal Error Ark</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-top-10-facebook-video-downloader-for-android-updated-for-2024/"><u>[Updated] Top 10 Facebook Video Downloader for Android - Updated for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/ancestry-unveiled-7-enduring-features-of-windows-11/"><u>Ancestry Unveiled: 7 Enduring Features of Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/best-8-complimentary-music-apps-for-your-iphone-discover-them-here/"><u>Best 8 Complimentary Music Apps for Your iPhone – Discover Them Here!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-xiaomi-redmi-12-5g-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Xiaomi Redmi 12 5G Fingerprint Lock</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cutting-down-new-world-game-cpu-consumption-expert-advice-and-tips/"><u>Cutting Down 'New World' Game CPU Consumption: Expert Advice & Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/harmonious-solution-to-laptop-headphones-disconnect/"><u>Harmonious Solution to Laptop-Headphones Disconnect</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-your-game-from-freezing-top-solutions-for-warcraft-e-3-reforged-on-pc/"><u>How to Stop Your Game From Freezing: Top Solutions for Warcraft E 3 Reforged on PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/instantly-restore-sound-on-your-laptop-simple-solutions-inside/"><u>Instantly Restore Sound on Your Laptop: Simple Solutions Inside</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimizing-lost-arks-performance-no-more-frustrating-speed-dips/"><u>Optimizing Lost Ark's Performance: No More Frustrating Speed Dips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-major-league-baseball-the-show-21-servers-back-online/"><u>Resolved: Major League Baseball The Show 21 Servers Back Online</u></a></li>
+<li><a href="https://os-tips.techidaily.com/simple-steps-for-clearing-out-songs-on-any-ipod-model/"><u>Simple Steps for Clearing Out Songs on Any iPod Model</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-found-for-launching-failed-in-star-wars-jedi-fallen-order-gameplay/"><u>Solution Found for 'Launching Failed' In Star Wars Jedi: Fallen Order Gameplay</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solve-roblox-pc-error-code-277-swiftly-with-these-proven-techniques-in-2n24/"><u>Solve Roblox PC Error Code 277 Swiftly with These Proven Techniques in 2N24</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-resolving-launch-issues-with-the-elder-scrolls-online/"><u>Troubleshooting Tips: Resolving Launch Issues with The Elder Scrolls Online</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/1726027219854-youtube/"><u>YouTube動画のサブタイトル取得手順ガイド</u></a></li>
 </ul></div>
 

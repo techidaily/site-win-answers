@@ -1,7 +1,7 @@
 ---
 title: "Expert Tips on Fixing Error 327 for Star Wars: Battlefront II Enthusiasts"
-date: 2024-12-21T16:09:35.877Z
-updated: 2024-12-27T16:06:24.486Z
+date: 2025-01-04T00:22:47.888Z
+updated: 2025-01-05T23:11:53.442Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Before getting started
 
  Before you head on to the following fixes, make sure your PC ([how to check my PC specs?](https://tools.techidaily.com/drivereasy/download/) ) meets the**minimum requirements for Star Wars: Battlefield 2** .
@@ -36,7 +40,7 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 | **Storage**   | 60 GB available space                               | 60 GB available space                               |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -53,7 +57,7 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 8. **[Disable Discord In-Game Overlay](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 1: Repair your game
@@ -89,6 +93,10 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/properties.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Select**LOCAL FILES** tab and click**VERIFY INTEGRITY OF GAME FILES** … button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify.png)
@@ -115,13 +123,13 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Update** button next to the flagged graphics card driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **OR**
 
@@ -143,6 +151,10 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 3) Play Battlefront 2 again to test the issue.
 
  This fix works for most PC users, but if this doesn’t work for your case, don’t worry. There’re a few more fixes you can try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Revert back to DX11
 
@@ -174,6 +186,10 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 
  This works for many PC players, but if it doesn’t do the trick for you, don’t be upset.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Disable antivirus software temporarily
 
  Since Battlefront 2 consumes a lot of memory and CPU usage when it’s running, many third-party antivirus applications may regard it as a potential threat and cause Battlefront 2 crashing issues.
@@ -193,10 +209,6 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 
 If the game keeps crashing, you can try the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 7: Perform a clean boot
 
  There might be some other conflicting services that stop your Battlefront 2 from working normally. To check if this is your issue, you’ll need to perform a clean boot.
@@ -207,33 +219,21 @@ If the game keeps crashing, you can try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/msconfig.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Go to the **Services** tab and check the **Hide all Microsoft services** box. Then click **Disable all** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/disable-all.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Select the **Startup** tab and click **Open Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/image-1003.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Under the **Startup** tab, select **each** startup item and then click **Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/disable-start-up-item-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  6) Go back to **System Configuration** , then click **OK** .
 
@@ -297,22 +297,20 @@ If the game keeps crashing, you can try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-enhancing-your-stream-5-key-techniques-for-gamers/"><u>[New] 2024 Approved Enhancing Your Stream 5 Key Techniques for Gamers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-funding-fantasies-or-fiscal-facts-for-2024/"><u>[Updated] Funding Fantasies or Fiscal Facts for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-harnessing-the-full-potential-of-luts-in-adobe-premiere-pro/"><u>[Updated] In 2024, Harnessing the Full Potential of LUTs in Adobe Premiere Pro</u></a></li>
-<li><a href="https://fox-that.techidaily.com/easy-fixes-for-oversized-photos-in-whatsapp-chat/"><u>Easy Fixes for Oversized Photos in WhatsApp Chat</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/exploring-social-boundaries-sign-up-for-a-facebook-profile-for-2024/"><u>Exploring Social Boundaries Sign Up for a Facebook Profile for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fallout-groovy-76-optimization-tips-eliminating-gameplay-hitches-and-hiccups/"><u>Fallout Groovy 76 Optimization Tips: Eliminating Gameplay Hitches and Hiccups</u></a></li>
-<li><a href="https://games-able.techidaily.com/fast-resume-feature-boost-or-bust-for-xbox-sx/"><u>Fast Résumé Feature - Boost or Bust for Xbox S/X?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-crashing-problems-within-naraka-bladepoint-gaming-experience/"><u>Fixing the Crashing Problems Within Naraka: Bladepoint Gaming Experience</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721402584696-gpt-4-universally-accessible-6-reasons-to-persist-with-platinum-plan/"><u>GPT-4 Universally Accessible; 6 Reasons to Persist with Platinum Plan.</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-overcome-anthems-never-ending-launch-sequence-challenge/"><u>How to Overcome Anthem's Never-Ending Launch Sequence Challenge</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-resolve-severe-developer-bugs-in-cods-modern-warfare-and-warzone/"><u>How to Resolve Severe Developer Bugs in CoD's Modern Warfare and Warzone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-stop-your-video-game-from-freezing-or-crashing-on-windows-11-and-10-systems/"><u>How to Stop Your Video Game From Freezing or Crashing on Windows 11 and 10 Systems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/improving-play-in-grand-theft-auto-v-strategies-to-fix-persistent-freezing-and-jittering-issues/"><u>Improving Play in Grand Theft Auto V - Strategies to Fix Persistent Freezing and Jittering Issues</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-and-resolving-frame-rate-issues-within-dying-light-game/"><u>Troubleshooting and Resolving Frame Rate Issues Within Dying Light Game</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-overcoming-applicationexe-halted-errors/"><u>Troubleshooting Tips: Overcoming 'Application.Exe' Halted Errors</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-fixing-no-output-from-camera-on-your-snap-device/"><u>Troubleshooting: Fixing 'No Output From Camera' On Your Snap Device</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-top-8-live-selling-platforms-and-beginners-tool-suggestion-for-2024/"><u>Updated Top 8 Live Selling Platforms & Beginners Tool Suggestion for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-20-essential-youtube-groups-navigating-stocks-for-2024/"><u>[New] 20 Essential YouTube Groups Navigating Stocks for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ehind-the-scenes-of-carminatis-youtube-earnings/"><u>[New] Behind the Scenes of Carminati’s YouTube Earnings</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-capture-selfie-snap-shots-with-vintage-iphone-x/"><u>[New] In 2024, Capture Selfie Snap Shots with Vintage iPhone X</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-seamless-sharing-twitch-links-on-your-fb-page/"><u>[Updated] In 2024, Seamless Sharing Twitch Links on Your FB Page</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/conquer-business-the-top-12-tycoon-games-for-leaders-in-training/"><u>Conquer Business The Top 12 Tycoon Games for Leaders-in-Training</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-canon-mg36n-driver-version-free-downloads-available-here/"><u>Get the Latest Canon MG36n Driver Version - Free Downloads Available Here</u></a></li>
+<li><a href="https://article-helps.techidaily.com/immerse-in-fun-the-top-samsung-gear-vr-games/"><u>Immerse in Fun The Top Samsung Gear VR Games</u></a></li>
+<li><a href="https://win-answers.techidaily.com/microsoft-reintroduces-recall-feature-in-latest-windows-11-update/"><u>Microsoft Reintroduces Recall Feature in Latest Windows 11 Update</u></a></li>
+<li><a href="https://win-answers.techidaily.com/microsoft-revamps-unpopular-recall-feature-in-windows-a-user-friendly-update-coming-soon/"><u>Microsoft Revamps Unpopular Recall Feature in Windows - A User-Friendly Update Coming Soon!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/navigating-your-pcs-bios-options-essential-tweaks-for-optimal-performance/"><u>Navigating Your PC's BIOS Options: Essential Tweaks for Optimal Performance</u></a></li>
+<li><a href="https://win-answers.techidaily.com/nvidia-streamlines-pc-application-suite-for-enhanced-user-experience/"><u>NVIDIA Streamlines PC Application Suite for Enhanced User Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimizing-pc-performance-avoid-gaming-disruptions-with-windows-altplustab-and-sticky-keys/"><u>Optimizing PC Performance: Avoid Gaming Disruptions with Windows, Alt+Tab & Sticky Keys</u></a></li>
+<li><a href="https://win-answers.techidaily.com/protect-your-data-effective-strategies-against-onedrive-vulnerabilities/"><u>Protect Your Data: Effective Strategies Against OneDrive Vulnerabilities</u></a></li>
+<li><a href="https://win-answers.techidaily.com/random-shutdowns-on-your-windows-machine-here-are-8-common-reasons-and-fixes/"><u>Random Shutdowns on Your Windows Machine? Here Are 8 Common Reasons and Fixes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolved-how-to-install-missing-drivers-on-your-windows-10-8-or-7-machine/"><u>Resolved: How to Install Missing Drivers on Your Windows 10, 8 or 7 Machine</u></a></li>
 </ul></div>
 

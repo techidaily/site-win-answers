@@ -1,7 +1,7 @@
 ---
 title: "Resolve Fortnite's Video Memory Issues: A Step-by-Step Guide"
-date: 2024-12-23T16:08:31.768Z
-updated: 2024-12-27T16:10:22.517Z
+date: 2025-01-01T04:03:50.443Z
+updated: 2025-01-06T02:15:27.561Z
 tags:
   - win11
   - win10
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
 * [Fix 5: Enable low spec mode](https://tools.techidaily.com/drivereasy/download/)
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your PC meets meets the system requirements for League of Legends
 
@@ -91,6 +87,10 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee.
@@ -109,23 +109,19 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-62-1024x796.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Wait until Windows downloaded and installed all the updates.
 
 4) Restart Windows and run League of Legends again.
 
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted game files
 
@@ -137,17 +133,21 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Initiate Full Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
 
- 4) Click**Yes** to continue. This may take a while.
-
-![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
-
 <!-- affiliate ads begin -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ 4) Click**Yes** to continue. This may take a while.
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
 
@@ -163,13 +163,13 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Run League of Legends to see if you resolved this issue.
 
@@ -193,17 +193,24 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-androids-facetime-essentials-explained-for-2024/"><u>[New] Android's FaceTime Essentials Explained for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-file-sync-up-the-5-fundamental-ways-for-your-computer-upload/"><u>[New] In 2024, File Sync-Up The 5 Fundamental Ways for Your Computer Upload</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-the-path-to-becoming-a-lut-connoisseur/"><u>[Updated] 2024 Approved The Path to Becoming a LUT Connoisseur</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/1-comprehensive-tutorial-disabling-auto-sync-feature-in-itunes/"><u>1. Comprehensive Tutorial: Disabling Auto-Sync Feature in iTunes</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/a-critical-review-of-the-newest-vegaspro/"><u>A Critical Review of the Newest VegasPro</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/app-selection-guide-for-phones/"><u>ASMR App Selection Guide for Phones</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-advice-eradicating-ps4-halted-operations-with-simple-fixes/"><u>Expert Advice: Eradicating PS4 Halted Operations with Simple Fixes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/halo-infinite-audio-fixes-tips-and-tricks-to-improve-your-gaming-experience/"><u>Halo Infinite Audio Fixes: Tips and Tricks to Improve Your Gaming Experience</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-overcome-graphics-glitches-in-rust-a-step-by-step-guide/"><u>How to Overcome Graphics Glitches in Rust: A Step-by-Step Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-agni-2-5g-by-fonelab-android-recover-video/"><u>How to recover old videos from your Agni 2 5G</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Xiaomi Redmi 13C | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-techniques-to-prevent-maplestory-from-crashing-in-the-new-windows-11-environment/"><u>Top Techniques to Prevent MapleStory From Crashing in the New Windows 11 Environment</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-10-key-tips-on-how-to-design-podcast-cover-art/"><u>[New] 2024 Approved 10 Key Tips on How to Design Podcast Cover Art</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-fortnite-entry-point-not-found/"><u>[Solved] Fortnite Entry Point Not Found</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-exploring-the-expense-of-youtube-channel-growth-for-2024/"><u>[Updated] Exploring the Expense of YouTube Channel Growth for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-high-quality-vector-graphics-top-10-sources-for-2024/"><u>[Updated] High-Quality Vector Graphics Top 10 Sources for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-brief-basslines-and-rhythms-video-soundscapes/"><u>[Updated] In 2024, Brief Basslines & Rhythms Video Soundscapes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/8-crucial-fixes-to-avoid-marvels-guardians-of-the-galaxy-game-crashing-on-pc-platforms/"><u>8 Crucial Fixes to Avoid Marvel's 'Guardians of the Galaxy' Game Crashing on PC Platforms</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-solution-for-update-failures-in-minecrafts-original-launcher-platform/"><u>Comprehensive Solution for Update Failures in Minecraft's Original Launcher Platform</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cracking-the-code-on-persistent-frostpunk-crashes-a-comprehensive-fix-guide/"><u>Cracking the Code on Persistent Frostpunk Crashes - A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-to-fix-launch-problems-with-overwatch-2-in-202n4-top-7-hacks/"><u>Expert Tips to Fix Launch Problems with Overwatch 2 in 202N4 - Top 7 Hacks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-successfully-start-your-mass-effect-legendary-journey-tips-and-solutions/"><u>How to Successfully Start Your Mass Effect Legendary Journey - Tips & Solutions</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-oppo-reno-10-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Oppo Reno 10 5G to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-investing-in-a-dual-sim-smartphone-a-smart-choice/"><u>Is Investing in a Dual-SIM Smartphone a Smart Choice?</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/mastering-troubleshooting-techniques-for-keyboards-and-mice-insights-from-yl-computings-experts/"><u>Mastering Troubleshooting Techniques for Keyboards & Mice - Insights From YL Computing’s Experts</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-troubleshooting-for-starfield-how-to-prevent-freezing-and-crashes/"><u>PC Troubleshooting for Starfield: How to Prevent Freezing & Crashes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/reimagining-time-flow-a-thorough-2024-app-review/"><u>Reimagining Time Flow A Thorough 2024 App Review</u></a></li>
+<li><a href="https://win-answers.techidaily.com/success-story-correctly-installing-the-ds4-driver-for-windows-and-enjoying-uninterrupted-gameplay/"><u>Success Story: Correctly Installing the DS4 Driver for Windows and Enjoying Uninterrupted Gameplay</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-your-clownfish-microphone-mod-kit-solutions-to-audio-malfunctions/"><u>Troubleshooting Your Clownfish Microphone Mod Kit: Solutions to Audio Malfunctions</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-byb-e430-led-spotlights-premium-swing-arms-in-focus-thorough-lamp-assessment/"><u>Unveiling the BYB E430 LED Spotlights: Premium Swing Arms in Focus - Thorough Lamp Assessment</u></a></li>
+<li><a href="https://win-answers.techidaily.com/yakuza-nremastered-for-pc-troubleshooting-steps-to-stop-game-crashes/"><u>Yakuza N_Remastered for PC - Troubleshooting Steps to Stop Game Crashes</u></a></li>
 </ul></div>
 

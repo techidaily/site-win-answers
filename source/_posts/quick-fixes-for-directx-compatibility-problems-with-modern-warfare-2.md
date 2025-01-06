@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for DirectX Compatibility Problems with Modern Warfare 2
-date: 2024-12-24T16:14:19.309Z
-updated: 2024-12-27T16:00:50.593Z
+date: 2024-12-30T19:35:48.548Z
+updated: 2025-01-05T21:10:11.276Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/71cc290356f3f99c9cda8196a719a0c6248025904
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to fix WWE 2K20 Crash
 
@@ -59,13 +55,13 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-17.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Play the game again to see if the game runs smoothly. If yes, then great! If the crashing issue still occurs, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Verify game integrity
 
@@ -75,6 +71,10 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-119.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click **the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/Steam-verify-the-game-file-2.jpg)
@@ -82,6 +82,10 @@ Here is how to do it:
  3) Launch WWE 2K20 again after you verify the integrity of the game files. If this issue persists, please try**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -97,13 +101,13 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-285.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to a flagged graphics river to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -112,7 +116,7 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Disable your antivirus program
@@ -139,21 +143,17 @@ WWE 2K20 still crashes? Don’t worry, you have one more fix to try.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Control-panel-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/nvidia-1024x607.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) In Nvidia Control Panel, click **Manage 3D Settings** \> **Program Settings** \> **Add** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/add.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) In the window that opens, choose**WWE2K20\_x64** , then click**Add Selected Program** .
 
@@ -186,22 +186,20 @@ WWE 2K20 still crashes? Don’t worry, you have one more fix to try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-hushing-up-unwanted-noise-on-skype/"><u>[New] 2024 Approved Hushing Up Unwanted Noise on Skype</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-dive-into-action-4-easy-steps-for-audience-captivating-instagram-loops-for-2024/"><u>[New] Dive Into Action 4 Easy Steps for Audience-Captivating Instagram Loops for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723003650181-solved-sid-meiers-civilization-vi-crashing-issue/"><u>[Solved] Sid Meier's Civilization VI Crashing Issue</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-simplified-guide-to-google-meet-on-youtube-broadcasting/"><u>[Updated] Simplified Guide to Google Meet on YouTube Broadcasting</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/advanced-ai-systems-mastering-internet-information-retrieval/"><u>Advanced AI Systems Mastering Internet Information Retrieval</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723014156726-assassins-creed-odyssey-on-pc-say-goodbye-to-crashes-and-hello-to-uninterrupted-epic-quests/"><u>Assassin's Creed Odyssey on PC: Say Goodbye to Crashes and Hello to Uninterrupted Epic Quests</u></a></li>
-<li><a href="https://fox-http.techidaily.com/capturing-every-corner-our-top-picks-for-best-11-bridge-cameras-for-2024/"><u>Capturing Every Corner Our Top Picks for Best 11 Bridge Cameras for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/cyberpunk-2077-pc-freezing-woes-heres-how-to-get-a-smooth-gaming-experience/"><u>Cyberpunk 2077 PC Freezing Woes? Here's How to Get a Smooth Gaming Experience!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/enjoy-a-seamless-gaming-adventure-with-the-updated-flaw-free-yakuza-3-on-pc/"><u>Enjoy a Seamless Gaming Adventure with the Updated, Flaw-Free Yakuza 3 on PC</u></a></li>
-<li><a href="https://blog-min.techidaily.com/gif-wmvrgba/"><u>GIFへの変換: WMVファイルができるだけスムーズにRGBA形式に。</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-poco-f5-pro-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Poco F5 Pro 5G Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/latest-fixes-how-to-keep-your-maplestory-game-running-smoothly-on-win-10-2023-edition/"><u>Latest Fixes: How to Keep Your MapleStory Game Running Smoothly on Win 10, 2023 Edition</u></a></li>
-<li><a href="https://win-answers.techidaily.com/metal-gear-solid-v-cold-war-launch-issues-on-consoles-and-computers-a-comprehensive-guide/"><u>Metal Gear Solid V: Cold War Launch Issues on Consoles and Computers – A Comprehensive Guide</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/rip-and-add-subtitles-to-dvd-a-comprehensive-walkthrough-for-beginners/"><u>Rip and Add Subtitles to DVD: A Comprehensive Walkthrough for Beginners</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95782578-9781594778414-tan-tien-chi-kung-2nd-ed/"><u>Tan Tien Chi Kung (2nd ed.) | Free Book</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-call-of-duty-vanguard-solutions-for-game-lag-and-stuttering-issues/"><u>Troubleshooting Call of Duty: Vanguard - Solutions for Game Lag and Stuttering Issues</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-resolving-fortnite-error-84-cannot-connect-to-parties/"><u>Troubleshooting Steps for Resolving Fortnite Error 84: Cannot Connect to Parties</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-to-crypto-conversion-best-generator-list/"><u>[New] The Ultimate Guide to Crypto Conversion – Best Generator List</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-top-corporate-cloud-storage-platforms-for-2024/"><u>[New] Top Corporate Cloud Storage Platforms for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-faceoff-assessing-the-superiority-between-llama-3-and-microsofts-gpt-4/"><u>AI Faceoff: Assessing the Superiority Between Llama 3 and Microsoft's GPT-4</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-overcoming-pc-installation-obstacles-in-battlefield-4-gameplay/"><u>Expert Tips: Overcoming PC Installation Obstacles in Battlefield 4 Gameplay</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-for-fixing-gta-5-startup-issues/"><u>Fixes for Fixing GTA 5 Startup Issues</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-life360-on-windows-pc-for-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Oppo A59 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Lava Yuva 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-the-fixes-to-get-logitech-devices-working-perfectly-on-windows-systems/"><u>Mastering the Fixes to Get Logitech Devices Working Perfectly on Windows Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-windows-11-barriers-effective-solutions-for-running-minecraft/"><u>Overcome Windows 11 Barriers: Effective Solutions for Running Minecraft</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solve-the-dreaded-error-code-0xc19001e1-a-comprehensive-guide-for-windows-11-users/"><u>Solve the Dreaded Error Code 0Xc19001e1: A Comprehensive Guide for Windows 11 Users</u></a></li>
+<li><a href="https://extra-information.techidaily.com/thorough-evaluation-hero4-black-innovations/"><u>Thorough Evaluation Hero4 Black Innovations</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-for-resolving-steam-and-xbox-launch-errors-in-stardew-valley/"><u>Troubleshooting Guide for Resolving Steam and Xbox Launch Errors in Stardew Valley</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-why-your-chrome-browser-cant-load-websites/"><u>Troubleshooting: Why Your Chrome Browser Can't Load Websites</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-wont-apples-latest-ai-innovations-upgrade-your-iphone-the-high-price-tag-explained-insights-by-zdnet/"><u>Why Won't Apple's Latest AI Innovations Upgrade Your iPhone? The High Price Tag Explained | Insights by ZDNET</u></a></li>
 </ul></div>
 

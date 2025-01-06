@@ -1,7 +1,7 @@
 ---
 title: Guide to Fixing The Elder Scrolls Online Loading Errors Quickly
-date: 2024-12-23T16:17:56.561Z
-updated: 2024-12-27T16:12:40.944Z
+date: 2024-12-31T04:05:06.471Z
+updated: 2025-01-06T00:29:59.704Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ If you launch the Elder Scrolls Online but get stuck on the loading screen befor
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -34,10 +30,6 @@ If you launch the Elder Scrolls Online but get stuck on the loading screen befor
 2. [Delete the program data](https://tools.techidaily.com/drivereasy/download/)
 3. [Repair the launcher](https://tools.techidaily.com/drivereasy/download/)
 4. [Update your driver](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Add ESO into exception
 
@@ -51,6 +43,10 @@ Here’s how to allow the ESO launcher through the firewall.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/image-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click the **Allow an app or feature through Windows Defender Firewall** from the left panel.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/image-8.png)
@@ -59,10 +55,14 @@ Here’s how to allow the ESO launcher through the firewall.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/image-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click **OK**  button to save changes. Then reboot the game to check the issue persists or not.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Delete the program data
@@ -87,7 +87,7 @@ Here’s how to allow the ESO launcher through the firewall.
 5. Relaunch the game and check to see if the issue persists.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Update your driver
@@ -119,7 +119,7 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/DE-PRO-VEGA-KILLER-NETWORKING.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -144,22 +144,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-answers.techidaily.com/solved-anno-1800-directx-error/"><u>[SOLVED] Anno 1800 Directx Error</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-perfecting-ephemeral-fades-in-digital-recording-software-audacity/"><u>[Updated] In 2024, Perfecting Ephemeral Fades in Digital Recording Software Audacity</u></a></li>
-<li><a href="https://win-hot.techidaily.com/como-duplicar-tu-sistema-operativo-windows-7-directamente-desde-el-disco-duro-mediante-una-copia-de-seguridad-sencilla-4-fases-claves-para-empezar-ahora/"><u>Cómo Duplicar Tu Sistema Operativo Windows 7 Directamente Desde El Disco Duro Mediante Una Copia De Seguridad Sencilla - 4 Fases Claves Para Empezar Ahora</u></a></li>
-<li><a href="https://win-answers.techidaily.com/complete-guide-to-mastering-social-media-links-facebook-linkedin-and-youtube-navigation/"><u>Complete Guide to Mastering Social Media Links: Facebook, LinkedIn & YouTube Navigation</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effortless-site-navigation-enhance-user-experience-with-easy-access-to-top-and-social-media-platforms/"><u>Effortless Site Navigation: Enhance User Experience with Easy Access to Top and Social Media Platforms</u></a></li>
-<li><a href="https://win-answers.techidaily.com/finding-files-on-windows-11-mastering-content-search-using-copernic/"><u>Finding Files on Windows 11: Mastering Content Search Using Copernic</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-copernic-makes-remote-working-simpler-a-look-at-five-key-benefits/"><u>How Copernic Makes Remote Working Simpler: A Look at Five Key Benefits</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-oppo-find-x7-ultra-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Oppo Find X7 Ultra</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-troubleshooting-guide-for-fifa-19s-directx-errors/"><u>Quick Troubleshooting Guide for FIFA 19'S DirectX Errors</u></a></li>
-<li><a href="https://win-net.techidaily.com/resolving-windows-11s-corrupt-c-drive-issues-identifying-causes-and-implementing-repairs/"><u>Resolving Windows 11'S Corrupt C Drive Issues: Identifying Causes and Implementing Repairs</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-your-rec-room-mic-on-pc-expert-tips-and-fixes-players/"><u>Reviving Your Rec Room Mic on PC - Expert Tips and Fixes Players</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/secure-your-privacy-post-ios-upgrade-tips-on-keeping-your-iphone-invisible-to-others-zdnet/"><u>Secure Your Privacy Post-iOS Upgrade: Tips On Keeping Your iPhone Invisible to Others | ZDNet</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/stepping-up-your-game-understanding-mcns-and-their-impact-on-creators-for-2024/"><u>Stepping Up Your Game Understanding MCNs and Their Impact on Creators for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/tailoring-your-approach-to-safe-windows-11-service-turn-offs/"><u>Tailoring Your Approach to Safe Windows 11 Service Turn-Offs</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-fortnites-out-of-video-memory-issue-a-complete-guide/"><u>Troubleshooting Fortnite's 'Out of Video Memory' Issue – A Complete Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-troubleshooting-guide-solving-new-world-connectivity-problems/"><u>Ultimate Troubleshooting Guide: Solving 'New World' Connectivity Problems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/yielding-insights-into-cryptocurrency-through-ai/"><u>Yielding Insights Into Cryptocurrency Through AI</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-twitter-live-sound-solving-partially-muted-audio-issues/"><u>[New] 2024 Approved Twitter Live Sound Solving Partially Muted Audio Issues</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-superior-select-ringtone-makers-guidebook-for-2024/"><u>[New] Superior Select Ringtone Makers' Guidebook for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-effortless-youtube-playback-downloading-content-to-idevices-for-2024/"><u>[Updated] Effortless Youtube Playback Downloading Content to iDevices for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-multi-screen-mastery-review-splits-best-cam-for-2024/"><u>[Updated] Multi-Screen Mastery Review Splits Best Cam for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/balancing-primary-and-b-footage-for-dynamic-video-production-for-2024/"><u>Balancing Primary & B-Footage for Dynamic Video Production for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-corsair-k70-software-and-driver-for-optimal-performance/"><u>Get the Latest Corsair K70 Software and Driver for Optimal Performance</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-capture-every-pixel-of-pc-gaming-bliss-6-ways/"><u>In 2024, Capture Every Pixel of PC Gaming Bliss (6 Ways)</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Honor X9a? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-tips-successfully-starting-up-your-persona-3-journey-without-glitches/"><u>Master Tips: Successfully Starting Up Your Persona 3 Journey Without Glitches</u></a></li>
+<li><a href="https://win-answers.techidaily.com/maximize-your-cs-2-performance-strategies-to-fix-fps-dips-and-stutters-during-play/"><u>Maximize Your CS 2 Performance: Strategies to Fix FPS Dips & Stutters During Play</u></a></li>
+<li><a href="https://win-answers.techidaily.com/maximize-your-gaming-experience-by-correcting-lag-in-cyberpunk-2077-v-rising/"><u>Maximize Your Gaming Experience by Correcting Lag in Cyberpunk 2077 (V Rising)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-intrusion-detected-problem-a-guide-for-secure-gaming/"><u>Solving the 'Intrusion Detected' Problem: A Guide for Secure Gaming</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-problem-of-a-non-responsive-nvidia-control-panel-a-step-by-step-guide/"><u>Solving the Problem of a Non-Responsive Nvidia Control Panel: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-tutorial-to-solve-constant-palworld-breakdowns-on-personal-computers/"><u>Step-by-Step Tutorial to Solve Constant Palworld Breakdowns on Personal Computers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-and-fixing-your-football-manager-2020-stability-problems/"><u>Troubleshooting and Fixing Your Football Manager 2020 Stability Problems</u></a></li>
 </ul></div>
 

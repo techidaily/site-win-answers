@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Fixing Fallout 3 Game Crashes on Windows 11"
-date: 2024-12-23T16:01:54.066Z
-updated: 2024-12-27T16:15:49.653Z
+date: 2024-12-29T17:36:23.446Z
+updated: 2025-01-05T19:09:11.900Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6 Fixes for Path of Exile Crashing
 
  There you go – 6 fixes that could help you resolve PoE crashing. You can try any of them selectively, or try them one by one; just work your way down the list until you find the one that does the trick for you.
@@ -39,10 +43,6 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
 **[Fix 6: Stop overclocking](https://tools.techidaily.com/drivereasy/download/)**
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Verify if your PC meets the system requirements for PoE
 
@@ -76,10 +76,6 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Update your graphics card drivers
 
  Your crashing issue with PoE may be caused by outdated or corrupt graphics card drivers. To check if that’s the root cause, you should try updating your graphics driver to a relatively new and stable version first.
@@ -109,7 +105,7 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Verify the integrity of game files
@@ -121,7 +117,7 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-16-1024x218.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Right-click **Path of Exile** and select **Properties** .
@@ -154,7 +150,7 @@ In case this fix didn’t help, please move on to Fix 4.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-19.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now you should be able to run RoE under administrator privileges permanently. If you want to revert this configuration, simply uncheck **Run this program as an administrator** .
@@ -172,7 +168,7 @@ Still unable to solve the problem? If yes, proceed to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-13.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) On the**Graphics** tab, disable**Engine Multithreading** and**VSync** .
@@ -184,6 +180,10 @@ Still unable to solve the problem? If yes, proceed to the next fix.
  3) Wait to see if the crashing issue reoccurs. If it does, maybe these two features should not be blamed for your trouble, and you can enable them later on.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Stop overclocking
 
@@ -213,20 +213,20 @@ Still unable to solve the problem? If yes, proceed to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-become-a-social-butterfly-engage-in-fb-live-on-your-roku-box/"><u>[Updated] 2024 Approved Become a Social Butterfly Engage in FB Live on Your Roku Box</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-escape-from-ennui-with-humor-top-20-funny-faces-in-social-media-jail/"><u>[Updated] 2024 Approved Escape From Ennui with Humor Top 20 Funny Faces in Social Media Jail</u></a></li>
-<li><a href="https://win-answers.techidaily.com/comprehensive-troubleshooting-guide-to-fixing-manor-lords-pc-performance-problems/"><u>Comprehensive Troubleshooting Guide to Fixing 'Manor Lords' PC Performance Problems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723005811813-fix-your-amazon-prime-video-glitches-expert-guidance-inside/"><u>Fix Your Amazon Prime Video Glitches - Expert Guidance Inside!</u></a></li>
-<li><a href="https://windows11.techidaily.com/guiding-steps-for-ms-office-installation-on-windows-1011/"><u>Guiding Steps for MS Office Installation on Windows 10/11</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-realme-narzo-n53-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Realme Narzo N53 using Video Repair Utility on Mac?</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-itel-a60-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Itel A60 Phones with/without a PC</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-itel-p55-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Itel P55 To Phone | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-science-spheres-finest-15-youtube-picks/"><u>In 2024, Science Sphere's Finest 15 YouTube Picks</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/on-site-ai-management-via-agentgpt/"><u>On-Site AI Management via AgentGPT</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-errors-with-quick-fixes-for-a-malfunctioning-paradox-launcher/"><u>Overcoming Errors with Quick Fixes for a Malfunctioning Paradox Launcher</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-how-to-fix-the-ue4-madness-unreal-engine-crash-in-outriders/"><u>Resolved: How to Fix the 'UE4-Madness' Unreal Engine Crash in Outriders</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-the-starfield-games-excessive-cpu-drain-top-strategies/"><u>Resolving the Starfield Game's Excessive CPU Drain : Top Strategies</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-fixing-compiling-shaders-issue-in-call-of-duty-black-ops-cold-war/"><u>Troubleshooting: Fixing 'Compiling Shaders' Issue in Call of Duty: Black Ops Cold War</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-samsung-galaxy-a23-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Samsung Galaxy A23 5G without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-scrutinizing-vidmas-latest-screen-recording-tech/"><u>[New] In 2024, Scrutinizing Vidma’s Latest Screen Recording Tech</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723011586544-solved-biomutant-crash-on-pc-2024-tips/"><u>[SOLVED] Biomutant Crash on PC – 2024 Tips</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-a-collection-of-the-most-engrossing-amusing-ig-accounts/"><u>[Updated] In 2024, A Collection of The Most Engrossing, Amusing IG Accounts</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-remedying-pauses-in-online-video-sessions-fb/"><u>[Updated] Remedying Pauses in Online Video Sessions (FB)</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-earning-in-the-e-commerce-arena-via-engaging-reviews/"><u>2024 Approved Earning in the E-Commerce Arena via Engaging Reviews</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-streamlining-design-with-new-fonts-in-after-effects/"><u>2024 Approved Streamlining Design with New Fonts in After Effects</u></a></li>
+<li><a href="https://win-answers.techidaily.com/comprehensive-tips-for-overcoming-the-dark-screen-challenge-in-mtg-arena/"><u>Comprehensive Tips for Overcoming the Dark Screen Challenge in MtG Arena</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ng-edge-computers-notebook-recommendations-for-editors/"><u>Cutting-Edge Computers Notebook Recommendations for Editors</u></a></li>
+<li><a href="https://win-answers.techidaily.com/epic-games-update-log-how-season-8-is-revolutionizing-fortnites-graphics-and-performance/"><u>Epic Games Update Log: How Season 8 Is Revolutionizing Fortnite's Graphics and Performance</u></a></li>
+<li><a href="https://win-answers.techidaily.com/house-flipper-s-pc-malfunctions-heres-how-to-stabilize-and-fix-it/"><u>House Flipper S PC Malfunctions? Here's How to Stabilize and Fix It!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/master-the-art-of-movie-marathon-with-the-matrix-series/"><u>Master the Art of Movie Marathon With The Matrix Series</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-the-art-of-preventing-minecraft-from-crashing-a-simple-guide/"><u>Master the Art of Preventing Minecraft From Crashing - A Simple Guide!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/red-dead-redemption-abortion-2-stuck-on-startup-solutions-to-get-you-playing-again/"><u>Red Dead Redemption Abortion 2 Stuck on Startup? Solutions to Get You Playing Again</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-picks-for-cutting-edge-websites-of-text-styling-tools/"><u>Top Picks for Cutting-Edge Websites of Text Styling Tools</u></a></li>
 </ul></div>
 
