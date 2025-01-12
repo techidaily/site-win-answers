@@ -1,7 +1,7 @@
 ---
 title: "Resolved: TESO's Blackwood Region - Addressing Delays and Slowdowns"
-date: 2025-01-02T18:41:28.549Z
-updated: 2025-01-05T21:37:59.202Z
+date: 2025-01-05T19:20:00.129Z
+updated: 2025-01-12T19:30:38.069Z
 tags:
   - win11
   - win10
@@ -47,7 +47,7 @@ Sifu
  Launch Sifu and check if the in-game FPS is back to normal. If the FPS still drops, or if there are no new game patch available, move on to next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Update your graphics driver
@@ -67,12 +67,12 @@ There are mainly two methods for you to update the graphics driver:
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
 4. Once the driver is updated, reboot your PC for the changes to take effect.
@@ -108,7 +108,7 @@ There are mainly two methods for you to update the graphics driver:
  Launch Sifu after you modified the in-game graphics settings and see if its FPS still drops, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Modify graphics card settings
@@ -134,6 +134,10 @@ There are mainly two methods for you to update the graphics driver:
 2. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Launch Sifu and see if the in-game FPS increases. If not, move on to the next fix, below.
 
 ## Change Windows power plan
@@ -145,7 +149,7 @@ There are mainly two methods for you to update the graphics driver:
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
@@ -168,10 +172,6 @@ There are mainly two methods for you to update the graphics driver:
 
  If you’ve enabled overlays while playing Sifu, try disabling it. Then launch Sifu again and see if the in-game FPS improves. If this issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Disable background recording and Xbox Game Bar
 
  The background recording and Xbox Game Bar feature in Windows 10 / 11 would constantly run in the background once enabled, hogging tons of resources. To gain a better FPS, you may need to disable them. Here is how to do it:
@@ -183,11 +183,11 @@ There are mainly two methods for you to update the graphics driver:
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Launch Sifu to see you can play it smoothly.
 
@@ -214,20 +214,20 @@ Launch Sifu to see you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-discover-the-power-of-nikon-1j5s-4k-video/"><u>[Updated] In 2024, Discover the Power of Nikon 1J5's 4K Video</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-how-to-smoothly-manipulate-video-speed-in-snapchat/"><u>[Updated] In 2024, How to Smoothly Manipulate Video Speed in Snapchat</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-richest-rewarded-creators-on-youtube-for-2024/"><u>[Updated] The Richest Rewarded Creators on YouTube for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-yogi-essentials-top-ten-web-channels-for-exercise/"><u>[Updated] Yogi Essentials Top Ten Web Channels for Exercise</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-an-all-inclusive-guide-to-initiate-multiplatform-communication-via-skype-groups/"><u>2024 Approved An All-Inclusive Guide to Initiate Multiplatform Communication via Skype Groups</u></a></li>
-<li><a href="https://win-answers.techidaily.com/baldurs-gate-performance-optimization-six-strategies-to-eliminate-hitching-and-halts/"><u>Baldur's Gate Performance Optimization: Six Strategies to Eliminate Hitching & Halts</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-techniques-to-correct-peer-connectivity-and-download-malfunctions-in-utorrent/"><u>Effective Techniques to Correct Peer Connectivity & Download Malfunctions in uTorrent</u></a></li>
-<li><a href="https://win-answers.techidaily.com/get-a-smooth-experience-how-to-prevent-red-dead-redemption-2-from-freezing-on-pc/"><u>Get a Smooth Experience: How to Prevent Red Dead Redemption 2 From Freezing on PC</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-motorola-razr-40-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Motorola Razr 40 Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-reel-them-in-a-step-by-step-approach-to-livestreaming-on-youtube/"><u>In 2024, Reel Them In A Step-by-Step Approach to Livestreaming on Youtube</u></a></li>
-<li><a href="https://win-answers.techidaily.com/professional-response/"><u>Professional Response</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-pc-issues-how-to-stop-elite-dangerous-from-crashing-on-your-computer/"><u>Resolving PC Issues - How to Stop Elite Dangerous From Crashing on Your Computer</u></a></li>
-<li><a href="https://solve-info.techidaily.com/revolutionizing-document-automation-through-abbyy-vance-harnessing-power-of-computer-vision-and-large-language-models/"><u>Revolutionizing Document Automation Through ABBYY Vance - Harnessing Power of Computer Vision and Large Language Models</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solution-found-how-to-overcome-problems-with-steam-server-connections/"><u>Solution Found: How to Overcome Problems with Steam Server Connections</u></a></li>
-<li><a href="https://common-error.techidaily.com/winning-the-battle-against-disk-read-failures-in-windows-10/"><u>Winning the Battle Against Disk Read Failures in Windows 10</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-masterclass-selection-top-7-precision-games/"><u>[New] 2024 Approved Masterclass Selection Top 7 Precision Games</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-what-drives-youtubes-content-creator-hub-for-2024/"><u>[Updated] What Drives YouTube's Content Creator Hub for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-unveiling-the-ultimate-editor-sets-for-macos-sierra-users/"><u>2024 Approved Unveiling the Ultimate Editor Sets for macOS Sierra Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/achieving-buttery-smooth-gaming-how-to-overcome-stuttering-challenges-s-high-fps-titles/"><u>Achieving Buttery-Smooth Gaming: How to Overcome Stuttering Challenges 'S High FPS Titles</u></a></li>
+<li><a href="https://win-answers.techidaily.com/comprehensive-solutions-for-correcting-graphic-driver-failures/"><u>Comprehensive Solutions for Correcting Graphic Driver Failures</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-motorola-defy-2-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Motorola Defy 2 FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/evaluating-the-aesthetic-and-functionality-of-taotronics-tt-dl16-modern-led-lamp-reviewed/"><u>Evaluating the Aesthetic & Functionality of TaoTronic's TT-DL16 Modern LED Lamp - Reviewed</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-correct-life-threatening-software-glitches-in-modern-warfare-and-warzone-games/"><u>How to Correct Life-Threatening Software Glitches in Modern Warfare and Warzone Games</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-continuous-crashing-issues-in-the-discord-platform/"><u>How to Fix Continuous Crashing Issues in the Discord Platform</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-resolve-directdraw-problems-efficiently-solutions-inside/"><u>How to Resolve DirectDraw Problems Efficiently - Solutions Inside!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-realme-narzo-60x-5g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Realme Narzo 60x 5G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/instant-downloads-for-hp-stream-display-adapters/"><u>Instant Downloads for HP Stream Display Adapters</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimizing-performance-how-to-address-low-fps-in-new-world/"><u>Optimizing Performance: How To Address Low FPS in New World</u></a></li>
+<li><a href="https://win-answers.techidaily.com/reviving-your-logitech-c920-webcam-essential-fixes-for-a-seamless-streaming-experience/"><u>Reviving Your Logitech C920 Webcam - Essential Fixes for a Seamless Streaming Experience</u></a></li>
+<li><a href="https://techtrends.techidaily.com/riporta-immagini-jp2-a-formato-jpeg-fatto-in-casa-metodo-libero-e-facile-movavi/"><u>Riporta Immagini JP2 a Formato JPEG Fatto in Casa: Metodo Libero E Facile - Movavi</u></a></li>
 </ul></div>
 

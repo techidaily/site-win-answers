@@ -1,7 +1,7 @@
 ---
 title: "Diablo Immortal on PC: How to Stop Those Annoying Crashes - Expert Fix Strategies for Gamers of 2024"
-date: 2025-01-04T00:44:52.399Z
-updated: 2025-01-06T01:10:35.475Z
+date: 2025-01-09T20:00:06.588Z
+updated: 2025-01-12T19:55:42.065Z
 tags:
   - win11
   - win10
@@ -48,15 +48,27 @@ Delays and lags in-game are no doubt ruining the fun of the game. If that’s a 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-763.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Click the **Processes** tab. Then, check your current **CPU and memory usage** to see what processes are consuming your resources most.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-794.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Right-click the resource-consuming process and select **End Process Tree** .
 
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-809.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After you close unwanted programs, restart your game to test your problem. If your problem still exists, try[**fix 2**](https://tools.techidaily.com/drivereasy/download/) , below.
 
@@ -71,7 +83,7 @@ Delays and lags in-game are no doubt ruining the fun of the game. If that’s a 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-805.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)**  Right-click the resource-consuming process and select **End task** .
@@ -83,10 +95,6 @@ Delays and lags in-game are no doubt ruining the fun of the game. If that’s a 
 **4)** Relaunch Dota 2 to see if this has resolved your problem.
 
 If not, don’t worry. There are still 5 more fixes to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Rule out driver issues
 
@@ -106,21 +114,21 @@ If not, don’t worry. There are still 5 more fixes to try.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2020-11-10_17-45-18.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)** Right-click the driver and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2020-11-10_17-46-28.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **5)** Click**Roll Back Driver** , then click**Yes** to confirm the action if a Window pops up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2020-11-10_17-47-09.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6) Relaunch your game to test the issue.
 
@@ -144,10 +152,6 @@ If not, don’t worry. There are still 5 more fixes to try.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-358.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -161,6 +165,10 @@ If not, don’t worry. There are still 5 more fixes to try.
 **2)**  Click the **Settings** **button** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-327.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)**  Click the **VIDEO**  tab.
 
@@ -192,17 +200,9 @@ If not, don’t worry. There are still 5 more fixes to try.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-721.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)** Select **High Performance** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-738.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **5)** Restart your computer, and then relaunch Dota 2 to test your problem.
 
@@ -217,6 +217,10 @@ If not, don’t worry. There are still 5 more fixes to try.
 **1)** On your keyboard, press the **Windows logo** key and type **internet options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-806.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)**  Click **Internet Options** .
 
@@ -246,17 +250,9 @@ If not, don’t worry. There are still 5 more fixes to try.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-788.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**  Click**Web Browser** and click **DELETE WEB BROWSER CACHE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-787.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Click **OK** .
 
@@ -265,6 +261,10 @@ If not, don’t worry. There are still 5 more fixes to try.
 **5)**  Click **DELETE ALL BROWSER COOKIES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-785.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **6)** Click **OK.**
 
@@ -275,7 +275,7 @@ If not, don’t worry. There are still 5 more fixes to try.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-781.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **8)**  Click **OK** .
@@ -308,24 +308,21 @@ If not, don’t worry. There are still 5 more fixes to try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-zoom-into-action-capturing-your-desktop-ezvide-style/"><u>[New] 2024 Approved Zoom Into Action Capturing Your Desktop, EZvide Style</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-thanks-for-curating-premium-and-free-outro-themes/"><u>[New] In 2024, Thanks for Curating Premium & Free Outro Themes</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-perfect-your-focus-a-guide-to-roblox-tight-scopes/"><u>[New] Perfect Your Focus A Guide to Roblox Tight Scopes</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-pro-tips-for-using-filters-on-zoom-for-crystal-clear-calls/"><u>[New] Pro Tips for Using Filters on Zoom for Crystal Clear Calls</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-unveiling-the-1-to-5-of-windows-free-screen-capture-apps/"><u>[Updated] Unveiling the #1 to #5 of Windows Free Screen Capture Apps</u></a></li>
-<li><a href="https://win-special.techidaily.com/apowersoft-unveils-upgraded-screencapture-pro-v11-features-for-efficient-screenshots-and-recording/"><u>Apowersoft Unveils Upgraded ScreenCapture Pro v1.1 Features for Efficient Screenshots and Recording</u></a></li>
-<li><a href="https://win-answers.techidaily.com/beat-the-freeze-comprehensive-solutions-for-steam-malfunctions/"><u>Beat the Freeze: Comprehensive Solutions for Steam Malfunctions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-relink-launch-problems-in-your-favorite-rpg-granblue-fantasy/"><u>Fixing Relink Launch Problems in Your Favorite RPG, Granblue Fantasy</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/from-camera-to-feed-ig-photo-tutorial-for-2024/"><u>From Camera to Feed IG Photo Tutorial for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-capturing-history-securely-saving-old-printed-images/"><u>In 2024, Capturing History Securely Saving Old Printed Images</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-iphone-xr-drfone-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your iPhone XR | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/lifewire-complete-ai-course-list-top-15-self-directed-gratis-web-classes/"><u>Lifewire Complete AI Course List: Top 15 Self-Directed, Gratis Web Classes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-smooth-playback-addressing-delay-concerns-in-obs-recordingstreaming/"><u>Mastering Smooth Playback: Addressing Delay Concerns in OBS Recording/Streaming</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-problems-when-attempting-to-update-the-minecraft-launcher-platform/"><u>Overcoming Problems When Attempting to Update the Minecraft Launcher Platform</u></a></li>
-<li><a href="https://win-answers.techidaily.com/pc-gamers-guide-troubleshooting-and-fixing-frequent-fps-decreases-during-gameplay/"><u>PC Gamers' Guide: Troubleshooting & Fixing Frequent FPS Decreases During Gameplay</u></a></li>
-<li><a href="https://win-answers.techidaily.com/say-goodbye-to-diablo-3-crashes-effective-troubleshooting-steps/"><u>Say Goodbye to Diablo 3 Crashes: Effective Troubleshooting Steps</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-preventing-pc-issues-with-frontier/"><u>Troubleshooting Tips for Preventing PC Issues with 'Frontier'</u></a></li>
-<li><a href="https://win-answers.techidaily.com/war-thunder-crashes-continuously-top-fixes-and-strategies-for-stability/"><u>War Thunder Crashes Continuously? Top Fixes & Strategies for Stability</u></a></li>
-<li><a href="https://win-answers.techidaily.com/why-isnt-my-amazon-prime-video-working-expert-solutions-inside/"><u>Why Isn't My Amazon Prime Video Working? Expert Solutions Inside!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723000612111-new-worlds-recurring-freeze-problem-the-solution-unveiled/"><u>'New World's' Recurring Freeze Problem: The Solution Unveiled</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-seconds-needed-to-watch-an-hd-20mb-video/"><u>[New] Seconds Needed to Watch an HD 20MB Video</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-smoothly-alter-color-grades-with-luts-abroad/"><u>[New] Smoothly Alter Color Grades with LUTs, Abroad</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-step-by-step-guide-to-creating-engaging-trendy-fb-reels/"><u>[New] Step-by-Step Guide to Creating Engaging, Trendy FB Reels</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-breaking-the-monotony-innovative-yt-playlist-shuffling/"><u>[Updated] 2024 Approved Breaking the Monotony Innovative YT Playlist Shuffling</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-the-most-engaging-sandbox-gaming-titles/"><u>[Updated] 2024 Approved The Most Engaging Sandbox Gaming Titles</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-ideal-frequencies-in-podcast-launches/"><u>[Updated] Ideal Frequencies in Podcast Launches</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-right-tools-for-your-youtube-journey-camera-lenses-explained/"><u>[Updated] The Right Tools For Your YouTube Journey - Camera Lenses Explained</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-thoroughly-assessing-the-performance-of-theta-s/"><u>2024 Approved Thoroughly Assessing the Performance of Theta S</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-on-overcoming-directdraw-graphics-errors/"><u>Expert Advice on Overcoming DirectDraw Graphics Errors</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fast-solutions-to-overcome-lag-issues-in-assassins-creed-valhalla/"><u>Fast Solutions to Overcome Lag Issues in Assassin's Creed: Valhalla</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-silent-troubles-solving-evil-genius-2-audio-issues/"><u>Fixing Silent Troubles: Solving 'Evil Genius 2' Audio Issues</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-pause-life360-location-sharing-for-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Tecno Spark 20 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-the-issue-decode-and-correct-error-code-a005887-in-black-ops-cold-war/"><u>Resolving the Issue: Decode and Correct Error Code A005887 in Black Ops Cold War</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-steps-for-addressing-dev-error-5573-in-call-of-duty-vanguard/"><u>Solution Steps for Addressing Dev Error 5573 in Call of Duty Vanguard</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unlock-the-full-potential-of-forza-horizon-4-ultimate-troubleshooting-hacks-for-seamless-execution/"><u>Unlock the Full Potential of Forza Horizon 4: Ultimate Troubleshooting Hacks for Seamless Execution</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Crack Down on Lag Spikes and Optimize Performance in Cod: Black Ops 4"
-date: 2024-12-30T17:19:52.443Z
-updated: 2025-01-05T18:09:08.383Z
+date: 2025-01-11T17:14:48.510Z
+updated: 2025-01-12T18:11:13.432Z
 tags:
   - win11
   - win10
@@ -35,6 +35,10 @@ You may not have to try them all. Just choose the one you need.
  **What is FPS?**
  FPS stands for**frames per second** . Basically, it measures how many images a GPU can render and how many images it can display in a second as well. The higher the FPS, the better the graphics and in-game transitions are.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Optimize your in-game settings
 
  Improper game settings can lower your game’s FPS and undermine your gaming performance. In this case, optimizing your in-game settings can help. Here is how to do it:
@@ -45,17 +49,21 @@ You may not have to try them all. Just choose the one you need.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-26.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click the**Quality** tab, and then modify the settings following the screenshot below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-27-1024x558.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)** Click**Apply** , then relaunch your game.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-28-1024x558.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Update your graphics driver
 
@@ -89,15 +97,15 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-357.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-358.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -111,10 +119,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-737.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Under **View by,** click **Large icons** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-720.png)
@@ -124,21 +128,17 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-721.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Select **High Performance** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-738.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Restart your computer, and then relaunch your game to see if this worked for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 4: Configure your graphics settings
@@ -154,6 +154,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-46.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Click**Manage 3D settings** , then**Program Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-36.png)
@@ -165,10 +169,6 @@ OR
 **4)** Select**Ring of Elysium** , and then click**Add Selected Program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-38.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **5)** Modify the settings following the screenshot below.
 
@@ -189,7 +189,7 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-42-1024x459.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 5: Overclock your GPU
@@ -221,20 +221,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-effortlessly-record-time-lapses-on-apple-devices/"><u>[New] In 2024, Effortlessly Record Time-Lapses on Apple Devices</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-80plus-catchy-cooking-channel-names-to-attract-more-audience/"><u>[Updated] 80+ Catchy Cooking Channel Names to Attract More Audience</u></a></li>
-<li><a href="https://win-answers.techidaily.com/a-game-changer-for-mobile-pcs-microsoft-enhances-gaming-experience-with-arm-technology-in-windows-laptops/"><u>A Game Changer for Mobile PCs: Microsoft Enhances Gaming Experience with ARM Technology in Windows Laptops</u></a></li>
-<li><a href="https://win-answers.techidaily.com/accelerate-your-windows-11-experience-with-essential-keyboard-shortcuts-for-swift-app-launches/"><u>Accelerate Your Windows 11 Experience with Essential Keyboard Shortcuts for Swift App Launches</u></a></li>
-<li><a href="https://win-answers.techidaily.com/accelerate-your-windows-computer-solutions-to-boost-performance-post-update/"><u>Accelerate Your Windows Computer: Solutions to Boost Performance Post-Update</u></a></li>
-<li><a href="https://win-answers.techidaily.com/accessing-your-print-job-logs-steps-to-review-printed-document-records-on-windows-11/"><u>Accessing Your Print Job Logs: Steps to Review Printed Document Records on Windows 11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ai-powered-microsoft-edge-real-time-video-translation-now-a-reality/"><u>AI-Powered Microsoft Edge: Real-Time Video Translation Now a Reality!</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/best-video-making-smartphones-announced-here-for-2024/"><u>Best Video-Making Smartphones Announced Here for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/bring-back-the-retro-charm-restoring-original-sound-cues-in-windows-11/"><u>Bring Back the Retro Charm: Restoring Original Sound Cues in Windows 11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/bringing-back-objectdock-for-windows-11-embrace-the-ease-of-macs-interface/"><u>Bringing Back ObjectDock for Windows 11 - Embrace the Ease of Mac's Interface!</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-poco-m6-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Poco M6 5G Devices</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Oppo Reno 11 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-net.techidaily.com/spotting-promising-blockchain-initiatives-tips-by-yl-computing-and-yl-software/"><u>Spotting Promising Blockchain Initiatives: Tips by YL Computing and YL Software</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ing-social-media-platforms-an-in-depth-look-at-igtv-and-youtube-for-2024/"><u>Tackling Social Media Platforms An In-Depth Look at IGTV and YouTube for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-10-password-cracking-tools-for-lava-agni-2-5g-by-drfone-android/"><u>Top 10 Password Cracking Tools For Lava Agni 2 5G</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-elite-text-enhancement-tools-and-techniques/"><u>[New] 2024 Approved Elite Text Enhancement Tools & Techniques</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-vr-gear-top-10-pc-headsets-2023-edition/"><u>[Updated] In 2024, VR Gear Top 10 PC Headsets, 2023 Edition</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-10-best-hash-monitoring-apps-for-major-social-platforms-fbtwitterinsta/"><u>2024 Approved 10 Best Hash Monitoring Apps for Major Social Platforms (FB/Twitter/Insta)</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-a-new-era-of-visual-narratives-full-rotation/"><u>2024 Approved A New Era of Visual Narratives Full Rotation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-close-look-at-ai-dialogues-nine-major-issues-in-gpt/"><u>A Close Look at AI Dialogues: Nine Major Issues in GPT</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bypassing-the-error-code-0xc0000005-in-call-of-duty-black-ops-cold-war-gameplay/"><u>Bypassing the Error Code 0xC0000005 in Call of Duty Black Ops Cold War Gameplay</u></a></li>
+<li><a href="https://article-helps.techidaily.com/crossapple-windows-vmx-version-for-2024/"><u>CrossApple-Windows VMX Version for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-solutions-for-overcoming-error-code-421-in-genshin-impact/"><u>Effective Solutions for Overcoming Error Code 42지오1 in Genshin Impact</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/enhancing-heads-in-tiktok-videos-3-efficient-techniques-for-2024/"><u>Enhancing Heads in TikTok Videos 3 Efficient Techniques for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-xiaomi-14-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Xiaomi 14 via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/outriders-optimization-guide-overcoming-low-fps-challenges/"><u>Outriders Optimization Guide: Overcoming Low FPS Challenges</u></a></li>
+<li><a href="https://extra-support.techidaily.com/premium-accessible-stopwatch-services-for-2024/"><u>Premium Accessible Stopwatch Services for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/rogue-company-end-the-frustration-of-frequent-pc-game-disruptions-with-these-fixes/"><u>Rogue Company: End the Frustration of Frequent PC Game Disruptions with These Fixes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-definitive-fix-to-stop-overwatch-from-crashing-due-to-graphics-drivers/"><u>The Definitive Fix to Stop Overwatch From Crashing Due to Graphics Drivers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/vrchat-stability-guide-eight-key-solutions-to-prevent-your-game-from-crashing-on-windows/"><u>VRChat Stability Guide: Eight Key Solutions to Prevent Your Game From Crashing on Windows</u></a></li>
 </ul></div>
 

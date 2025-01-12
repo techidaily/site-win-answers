@@ -1,7 +1,7 @@
 ---
 title: "Fixing Silent Issues: How To Troubleshoot Lack of Audio During Your Live Broadcast"
-date: 2025-01-01T23:47:40.204Z
-updated: 2025-01-05T18:27:35.229Z
+date: 2025-01-08T17:02:34.993Z
+updated: 2025-01-12T18:11:37.028Z
 tags:
   - win11
   - win10
@@ -26,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/0a18a6b406ce9f21eda937adac64825b459ee3a87
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Here are some solutions you can try. You don’t have to try them all; just work you way down the list until your Fortnite is running again.
@@ -42,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/0a18a6b406ce9f21eda937adac64825b459ee3a87
 
  Note: the screenshots below come from Windows 10, and fixes also work on Windows 8 and Windows 7.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Reinstall Fortnite in your computer
 
  Since many technical problems can be resolved by restarting, it never hurts to**restart your device** , then open Fortnite again to see if it fixes the Fortnite not loading problem.
@@ -53,10 +53,6 @@ thumbnail: https://thmb.techidaily.com/0a18a6b406ce9f21eda937adac64825b459ee3a87
  Note: Be sure to meet the **[system requirements](https://tools.techidaily.com/drivereasy/download/)**  to install and play Fortnite in your computer, as the insufficient system resources will fail to load your Fortnite.
 
  If your problem still persists, don’t worry. There are other solutions.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Set your graphics settings to Low
 
@@ -97,10 +93,6 @@ To do so, follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be920abeeb8a.jpg)
 3. Click the**Update** button next to your device to automatically download the latest drivers (you can do this with the**FREE** version). Then install the drivers in your computer.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click**Update All** the automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be920cf0d891.jpg)
 4. Restart your computer to take effect.
@@ -108,10 +100,6 @@ To do so, follow these steps:
  Then launch Fortnite in your computer and see if it fixes your Fortnite not loading issues.
 
 Still no luck? Okay, there’s something else to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Run Fortnite as administrator
 
@@ -127,7 +115,7 @@ Still no luck? Okay, there’s something else to try.
 Check if your game can load properly.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Configure your computer settings
@@ -146,11 +134,15 @@ Below lists out some PC settings you can configure:
 3. Click the**Boot** tab, select your**Windows system** , and click**Advanced options** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be921b2b791d.jpg)
 4. Check the box next to**Number of processors** , and select the**highest number** available. In my case I have the highest number of 4, so I select**4** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be921cace95b.jpg)
 5. Click**OK** to save. Then click**Apply** and**OK** to finish.  
@@ -170,14 +162,22 @@ Below lists out some PC settings you can configure:
 3. Click**Advanced system settings** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be9228805808.jpg)
 4. The**System Properties** pane will pop up. Under the**Advanced** tab, click the**Settings** button in the**Performance** section.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be922bfef5f6.jpg)
 5. Click the**Advanced** tab, and make sure to select**Adjust for best performance of Programs** . Then click**Apply** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be9237d987ca.jpg)
 6. Click**Data Execution Prevention** , and make sure to choose **Turn on DEP for essential Windows programs and services only** . Then Click**Apply** and**OK** to save.  
@@ -209,19 +209,22 @@ Launch your Fortnite and see if it will load properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-dodge-digital-duplicates-to-increase-youtube-exposure/"><u>[New] Dodge Digital Duplicates to Increase YouTube Exposure</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-flavorful-frontier-groundbrenant-title-strategies-for-food-networks-for-2024/"><u>[Updated] Flavorful Frontier Groundbrenant Title Strategies for Food Networks for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-restoring-iphone-x-identity-check-reviving-face-recognition-for-2024/"><u>[Updated] Restoring iPhone X Identity Check Reviving Face Recognition for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-editors-guide-to-powerful-notebooks-and-more-for-2024/"><u>[Updated] The Editor's Guide to Powerful Notebooks and More for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fix-how-to-stop-beat-saber-from-continuously-crashing/"><u>Fix: How to Stop Beat Saber From Continuously Crashing</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-issue-why-your-forza-horizon-4-isnt-starting-top-tips-for-2n4/"><u>Fixing the Issue: Why Your Forza Horizon 4 Isn't Starting - Top Tips for 2N4</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-xiaomi-redmi-note-12r-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Xiaomi Redmi Note 12R to Outlook | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-honor-100-pro-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Honor 100 Pro FRP</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Xiaomi Redmi Note 13 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/in-depth-solutions-correcting-risk-of-rain-2-game-crash-errors/"><u>In-Depth Solutions: Correcting Risk of Rain 2 Game Crash Errors</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723007587059-serious-sam-npc-version-crashes-heres-how-to-enhance-stability-and-frame-rate/"><u>Serious Sam nPC Version Crashes? Here's How to Enhance Stability and Frame Rate!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-the-final-batch-error-essential-guide-to-preventing-last-epoch-crashes-in-your-pc/"><u>Solving the Final Batch Error: Essential Guide to Preventing 'Last Epoch' Crashes in Your PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/total-war-warhammer-iii-stability-issues-resolved-no-more-pc-freezes/"><u>TOTAL WAR: WARHAMMER III Stability Issues Resolved – No More PC Freezes!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unbeatable-deal-on-asus-vivobook-pro-save-300-today-on-amazonzdnets-exclusive-offer/"><u>Unbeatable Deal on Asus VivoBook Pro - Save $300 Today on Amazon![ZDNet's Exclusive Offer]</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-consolidating-zoom-schedules-on-android-ios-and-desktop-platforms-for-2024/"><u>[New] Consolidating Zoom Schedules on Android, iOS & Desktop Platforms for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-clear-up-audio-in-youtube-a-step-by-step-guide/"><u>[Updated] 2024 Approved Clear Up Audio in YouTube A Step-by-Step Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-create-video-ads-for-free-in-youtube-video-builder-for-2024/"><u>[Updated] How to Create Video Ads for Free in YouTube Video Builder for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-unlocking-visual-richness-switching-to-hdr-technology/"><u>[Updated] Unlocking Visual Richness Switching to HDR Technology</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/iueqhuinoplusobmeobueobjeoajoodluodreodgplusocrplusodroodmeodqplusodkoodgplusocrplusocouodgplusodlplusoajtrjgz3jga7ku5xntytjgbjgajmtlvnlkjmiyvpoiyi/"><u>理解すべき「ブロックレベルバックアップ」:その仕組みと活用手順</u></a></li>
+<li><a href="https://win-answers.techidaily.com/diagnosing-and-fixing-pc-crashes-during-stardew-valley-gameplay/"><u>Diagnosing and Fixing PC Crashes During Stardew Valley Gameplay</u></a></li>
+<li><a href="https://win-answers.techidaily.com/diy-fix-for-your-discord-coding-problems-targeting-javascript-hiccups/"><u>DIY Fix for Your Discord Coding Problems: Targeting JavaScript Hiccups</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-thoughts-in-journalistic-styling/"><u>Final Thoughts in Journalistic Styling</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-your-game-resolving-persistent-crashes-in-watch-dogs-legion-for-pc-users/"><u>Fix Your Game: Resolving Persistent Crashes in Watch Dogs: Legion for PC Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fortnite-freezing-woes-discover-the-latest-2024-fixes-to-keep-playing-seamlessly/"><u>Fortnite Freezing Woes? Discover the Latest 2024 Fixes to Keep Playing Seamlessly</u></a></li>
+<li><a href="https://facebook.techidaily.com/navigating-facebook-page-setup-the-admin-role/"><u>Navigating Facebook Page Setup - The Admin Role</u></a></li>
+<li><a href="https://win-answers.techidaily.com/successfully-setting-up-and-enjoying-tiny-tinas-wonderland-adventures-on-personal-computers-without-glitches/"><u>Successfully Setting Up and Enjoying Tiny Tina’s Wonderland Adventures on Personal Computers Without Glitches</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/thrifty-and-efficient-the-tp-link-archer-a9-under-100-router-comprehensive-review/"><u>Thrifty and Efficient: The TP-Link Archer A9 Under $100 Router - Comprehensive Review</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-nubia-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Nubia Android SIM Unlock APK</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-techniques-to-reduce-starfields-excessive-processor-use/"><u>Top Techniques to Reduce Starfield's Excessive Processor Use</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-fortnite-dealing-with-video-memory-shortages-solved/"><u>Troubleshooting Fortnite: Dealing with Video Memory Shortages (SOLVED)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/xcom-2-windows-stability-guide-how-to-resolve-and-prevent-game-crashes-efficiently/"><u>XCOM 2 Windows Stability Guide: How to Resolve and Prevent Game Crashes Efficiently</u></a></li>
 </ul></div>
 

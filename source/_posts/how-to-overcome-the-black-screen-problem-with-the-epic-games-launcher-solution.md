@@ -1,7 +1,7 @@
 ---
 title: How to Overcome the Black Screen Problem with the Epic Games Launcher (Solution)
-date: 2025-01-03T23:25:09.334Z
-updated: 2025-01-06T00:36:53.853Z
+date: 2025-01-06T18:05:46.843Z
+updated: 2025-01-12T19:53:36.060Z
 tags:
   - win11
   - win10
@@ -50,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/be34f09b3263dabe58e7e8e9b611840eed5d78451
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1047-1024x543.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Run Epic Games Launcher to see if you’ve resolved this issue.
@@ -58,10 +58,6 @@ thumbnail: https://thmb.techidaily.com/be34f09b3263dabe58e7e8e9b611840eed5d78451
  If Epic Games Launcher still won’t launcher, try the next fix, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Launch Epic Games Launcher from Start Menu
 
@@ -71,13 +67,13 @@ thumbnail: https://thmb.techidaily.com/be34f09b3263dabe58e7e8e9b611840eed5d78451
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1048.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  See if you can launch the program. If so, you should delete its shortcut on your desktop and create a new one. If it still won’t launch, don’t worry. Try the next fix, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your display settings
 
@@ -86,6 +82,10 @@ thumbnail: https://thmb.techidaily.com/be34f09b3263dabe58e7e8e9b611840eed5d78451
  1)**Right-click** **an empty area of the desktop** and select**Display settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1053.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) In the**Scale and layout** section, make sure it is set to**100%** .
 
@@ -110,7 +110,7 @@ thumbnail: https://thmb.techidaily.com/be34f09b3263dabe58e7e8e9b611840eed5d78451
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1071.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.
@@ -134,6 +134,10 @@ _You can do it for free if you like, but it’s partly manual._
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-496.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Under the**Shortcut** tab, locate the**Target:** field. Add_\-OpenGL_ to the end of the path filed. The contents of the Target field should look like the following:
 
 "C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe" -OpenGL
@@ -143,7 +147,7 @@ _You can do it for free if you like, but it’s partly manual._
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-497.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Run Epic Games Launcher again to see if this fix works.
@@ -151,10 +155,6 @@ _You can do it for free if you like, but it’s partly manual._
  If it won’t open, try the next fix to disable your antivirus software temporarily.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Add Epic Games Launcher as an exception to your third-party antivirus application
 
@@ -168,10 +168,6 @@ _You can do it for free if you like, but it’s partly manual._
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 7: Repair Epic Games Launcher
 
  Try repairing the Epic Games Launcher in the Control Panel to see if this fix works for you. Here’s how to do it:
@@ -180,19 +176,23 @@ _You can do it for free if you like, but it’s partly manual._
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1068.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2)**Right-click** on**Epic Games Launcher** and select**Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1069.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Launch Epic Games Launcher again when Windows completes the repair process.
 
  Run Epic Games Launcher to see if you can open it. If not, you may need to try the next fix to reinstall the program.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 8: Reinstall Epic Games Launcher
 
@@ -234,21 +234,24 @@ Normally, after you reinstall Epic Games Launcher, it should open.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-srt-power-play-transforming-macwindows-experience-for-2024/"><u>[New] SRT Power Play Transforming Mac/Windows Experience for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-captivating-comedy-crafted-step-by-step-meme-tutorial/"><u>2024 Approved Captivating Comedy Crafted Step-by-Step Meme Tutorial</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-comprehensive-analysis-of-bandicam-as-a-recording-tool/"><u>2024 Approved Comprehensive Analysis of Bandicam as a Recording Tool</u></a></li>
-<li><a href="https://win-answers.techidaily.com/beat-the-out-of-video-memory-error-in-fortnite-effective-solutions-explored/"><u>Beat the 'Out of Video Memory' Error in Fortnite: Effective Solutions Explored</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-newest-geforce-rtx-3080-ti-drivers-for-windows-11-8-and-7-now/"><u>Get the Newest GeForce RTX 지도 3080 Ti Drivers for Windows 11, 8 & 7 Now</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722994220210-how-to-fix-stuck-update-for-microsoft-flight-simulator-2020-now-resolved/"><u>How to Fix Stuck Update for Microsoft Flight Simulator 2020 – Now Resolved</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-vivo-y78plus-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Vivo Y78+ to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/installing-5kplayer-for-free-supports-both-32-bit-and-64-bit-architectures/"><u>Installing 5KPlayer for Free: Supports Both 32-Bit & 64-Bit Architectures</u></a></li>
-<li><a href="https://win-answers.techidaily.com/optimizing-fallout-3-performance-for-a-smooth-experience-on-windows-11-devices/"><u>Optimizing Fallout 3 Performance for a Smooth Experience on Windows 11 Devices</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcome-minecraft-crashes-effortlessly-in-just-6-steps/"><u>Overcome Minecraft Crashes Effortlessly in Just 6 Steps</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/szybkie-instalacja-windows-10-directly-on-new-ssd-disk-uczestnicy-w-sieci-i-bez-cd/"><u>Szybkie Instalacja Windows 10 Directly on New SSD Disk - Uczestnicy W Sieci I Bez CD</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshoot-the-latest-war-thunder-game-crashing-issues-essential-guide-for-players/"><u>Troubleshoot the Latest War Thunder Game Crashing Issues: Essential Guide for Players</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-organizing-with-7-family-planning-tools/"><u>Ultimate Guide to Organizing with 7 Family Planning Tools</u></a></li>
-<li><a href="https://win-answers.techidaily.com/unlocking-victory-solutions-to-stop-madden-22-from-being-stuck-on-loading-screen/"><u>Unlocking Victory: Solutions to Stop Madden 22 From Being Stuck on Loading Screen</u></a></li>
-<li><a href="https://win-answers.techidaily.com/valheim-starts-up-woes-heres-how-you-resolved-them-in-2nnd-year-of-the-game/"><u>Valheim Starts-Up Woes? Here's How You Resolved Them in 2Nnd Year of the Game!</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/wiederherstellung-von-daten-nach-einem-plattenausfall-professionelle-methoden-und-tipps/"><u>Wiederherstellung Von Daten Nach Einem Plattenausfall – Professionelle Methoden Und Tipps</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixed-madden-22-stuck-on-loading-screen/"><u>[FIXED] Madden 22 Stuck on Loading Screen</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-advanced-6-private-film-repositories/"><u>[New] 2024 Approved Advanced 6 Private Film Repositories</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-boost-your-creativity-top-50plus-tiktok-motivational-quotes-for-2024/"><u>[New] Boost Your Creativity Top 50+ TikTok Motivational Quotes for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/slr-or-mirrorless-the-ultimate-question-for-videographers-for-2024/"><u>[New] DSLR or Mirrorless? The Ultimate Question for Videographers for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-fight-like-a-warrior-5-intense-martial-arts-rpgs/"><u>[Updated] 2024 Approved Fight Like a Warrior 5 Intense Martial Arts RPGs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-quickest-quarter-mile-sochi-22/"><u>[Updated] The Quickest Quarter Mile - Sochi '22</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigate-and-watch-harnessing-netflixs-picture-in-picture-functionality/"><u>2024 Approved Navigate and Watch Harnessing Netflix's Picture-in-Picture Functionality</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-premium-flying-tech-available-right-now/"><u>2024 Approved Premium Flying Tech Available Right Now</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-ultimate-guide-to-charging-up-your-video-empire/"><u>2024 Approved The Ultimate Guide to Charging Up Your Video Empire</u></a></li>
+<li><a href="https://win-answers.techidaily.com/banish-that-puzzling-display-glitch-eliminate-unwanted-screen-tremors/"><u>Banish That Puzzling Display Glitch: Eliminate Unwanted Screen Tremors</u></a></li>
+<li><a href="https://win-answers.techidaily.com/banishing-shadows-in-battle-royale-resolving-windows-black-screen-glitch-in-fortnite/"><u>Banishing Shadows in Battle Royale: Resolving Windows Black Screen Glitch in Fortnite</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cod-modern-warfare-latest-first-person-shooter-release/"><u>COD: Modern Warfare - Latest First-Person Shooter Release</u></a></li>
+<li><a href="https://win-answers.techidaily.com/diagnosing-and-repairing-blue-screen-errors-in-hell-divers-version-2/"><u>Diagnosing and Repairing Blue Screen Errors in Hell Divers Version 2</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-fixes-for-constant-lagging-and-stalling-in-grand-theft-auto-5-a-comprehensive-approach/"><u>Expert Fixes for Constant Lagging & Stalling in Grand Theft Auto 5 - A Comprehensive Approach</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-infinix-hot-30-5g-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Infinix Hot 30 5G Photos An Easy Method Explained.</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-launch-issues-with-division-2-updated-tips-for-players/"><u>Solving Launch Issues with Division #2 - Updated Tips for Players</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/spotlight-on-the-samsung-galaxy-tab-a-2020-the-vital-component-thats-not-there/"><u>Spotlight on the Samsung Galaxy Tab A (2020) - The Vital Component That's Not There!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-6-solutions-to-prevent-street-fighter-6-from-freezing-or-crashing/"><u>Top 6 Solutions to Prevent Street Fighter 6 From Freezing or Crashing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-to-correct-your-pcs-warzone-game-disc-reading-error-on-versions-50-and-31/"><u>Troubleshooting Steps to Correct Your PC's Warzone Game Disc Reading Error on Versions 5.0 & 3.1</u></a></li>
 </ul></div>
 

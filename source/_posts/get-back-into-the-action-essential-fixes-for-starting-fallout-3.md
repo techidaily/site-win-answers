@@ -1,7 +1,7 @@
 ---
 title: "Get Back Into the Action: Essential Fixes for Starting Fallout 3"
-date: 2024-12-31T23:22:33.846Z
-updated: 2025-01-05T17:38:19.024Z
+date: 2025-01-07T18:06:59.698Z
+updated: 2025-01-12T19:56:38.125Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/c097d4cbd7f38690c40368b7c00be742b01b3a584
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes…
@@ -46,15 +46,15 @@ thumbnail: https://thmb.techidaily.com/c097d4cbd7f38690c40368b7c00be742b01b3a584
 
  Before we jump into anything advanced,[check the Roblox server status](https://status.roblox.com/) first. If the server is down, then you’ll have to wait until it’s fixed.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Restart your PC
 
  The first and easiest thing you should try is a restart of your PC. Many players are able to launch Roblox after they restart their computers, so it’s definitely worth trying.
 
 If rebooting your PC doesn’t solve your problem, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Check your browser
 
@@ -63,6 +63,10 @@ If rebooting your PC doesn’t solve your problem, try the next fix.
  In addition,**check if your browser is up-to-date** . If not, update it then test the issue. Some players are also able to launch Roblox after they**clear the browser’s cache** , so it’s definitely worth trying.
 
  If your browser doesn’t seem to be the reason for Roblox not working, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Reset your Internet options
 
@@ -81,17 +85,13 @@ If rebooting your PC doesn’t solve your problem, try the next fix.
 4. Check the option of**Delete personal settings** , then click**Reset** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/delete-personal-settings.png)
 5. Restart your PC to let the changes take effect.
 
  Now you can continue to use the browser of your choice and test the issue. If this doesn’t solve your problem, try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Check your proxy settings
 
@@ -104,10 +104,6 @@ If rebooting your PC doesn’t solve your problem, try the next fix.
 1. In the search bar next to your Start button (or in the Start menu), type**proxy** then click**Change proxy settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-proxy.png)
 2. Make sure that**User setup script** and**Use a proxy server** are set to**off** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/proxy-settings.png)  
 
@@ -132,6 +128,10 @@ If this fix doesn’t help, there’s one more fix you can try.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/programs-and-features.png)
 5. Find Roblox, right-click it then click**Uninstall** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### **To remove the Roblox folder:**
 
 1. Press the**Windows logo key** and**E** to open the File Explorer.
@@ -147,10 +147,6 @@ If this fix doesn’t help, there’s one more fix you can try.
 
  If the automatic installation fails to work, you can[download the Roblox app](https://www.roblox.com/Download) here.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Bonus: How to keep your PC at top condition and bring a better gaming experience
 
  One of the easiest PC maintenance tips is to keep your drivers up-to-date. Updating your drivers regularly helps prevent many random issues you may run into.
@@ -164,6 +160,10 @@ If this fix doesn’t help, there’s one more fix you can try.
  1) [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) For example, I want to update my graphics and network adapter driver here. Click the **Update**  button next to the flagged drivers to automatically download the correct version of them. Then you can manually install them (you can do this with the FREE version).
 
@@ -192,17 +192,20 @@ If this fix doesn’t help, there’s one more fix you can try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-achieving-professional-bokeh-on-mobile-phones/"><u>[Updated] 2024 Approved Achieving Professional Bokeh on Mobile Phones</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-streamlining-mov-files-on-windows-11-os-for-2024/"><u>[Updated] Streamlining MOV Files on Windows 11 OS for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/6-proven-ways-to-unlock-google-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Google Phone When You Forget the Password</u></a></li>
-<li><a href="https://win-answers.techidaily.com/avoid-setbacks-with-vanguard-meet-the-new-minimal-specs-for-seamless-performance/"><u>Avoid Setbacks with Vanguard - Meet the New Minimal Specs for Seamless Performance</u></a></li>
-<li><a href="https://win-answers.techidaily.com/black-screen-woes-no-more-effective-fixes-for-your-display-problems/"><u>Black Screen Woes No More: Effective Fixes for Your Display Problems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-solutions-to-restore-audio-on-an-unresponsive-acer-laptop/"><u>Expert Solutions to Restore Audio on an Unresponsive Acer Laptop</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-stop-your-game-console-destiny-from-freezing-or-crashing-on-your-desktop-computer/"><u>How to Stop Your Game Console: Destiny From Freezing or Crashing on Your Desktop Computer</u></a></li>
-<li><a href="https://discover-best.techidaily.com/maximizing-telegrams-file-limit-for-big-size-videos/"><u>Maximizing Telegram's File Limit for Big-Size Videos</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/problems-with-stellar-video-fix-consistency/"><u>Problems with Stellar Video Fix Consistency</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-halo-infinite-ping-not-sent-data-center-connection-issues/"><u>Resolving 'Halo Infinite: Ping Not Sent' - Data Center Connection Issues</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-successfully-solving-outlooks-connection-problems/"><u>Troubleshooting Successfully! Solving Outlook's Connection Problems</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-make-a-lasting-impression-top-10-free-animated-logo-makers/"><u>Updated In 2024, Make a Lasting Impression Top 10 Free Animated Logo Makers</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-cyberspace-screenplays-virtual-movie-journeys/"><u>[New] Cyberspace Screenplays Virtual Movie Journeys</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-economic-guide-to-capturing-virtual-learning-spaces/"><u>[New] Economic Guide to Capturing Virtual Learning Spaces</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-best-performing-8-recording-software-picks/"><u>[Updated] Best Performing 8 Recording Software Picks</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-integrating-apple-tunes-with-visual-media-for-2024/"><u>[Updated] Integrating Apple Tunes with Visual Media for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/addressing-civilization-xvi-launch-issues-under-windows-11-steps-for-a-smooth-start/"><u>Addressing Civilization XVI Launch Issues Under Windows 11 - Steps for a Smooth Start</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-on-correcting-problems-with-your-msi-dragon-center-performance/"><u>Expert Advice on Correcting Problems with Your MSI Dragon Center Performance</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-unable-to-access-live-config-servers-error-message/"><u>How to Fix Unable to Access Live Config Servers Error Message</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-asus-rog-phone-8-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Asus ROG Phone 8 Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723013808662-key-factors-influencing-performance-including-target-pollutant-properties-droplet-size-distribution-contact-time-solubility-and-scrubber-design/"><u>Key Factors Influencing Performance, Including Target Pollutant Properties, Droplet Size Distribution, Contact Time, Solubility, and Scrubber Design.</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-steam-vr-recognition-top-6-effective-methods-explored/"><u>Resolving Steam VR Recognition: Top 6 Effective Methods Explored</u></a></li>
+<li><a href="https://win-answers.techidaily.com/sifu-fps-performance-optimized-no-more-lag-or-stutters-on-windows-machines/"><u>Sifu FPS Performance Optimized - No More Lag or Stutters on Windows Machines</u></a></li>
+<li><a href="https://win-dash.techidaily.com/solve-your-3d-vision-issues-with-these-free-nvidia-drivers-for-windows-systems/"><u>Solve Your 3D Vision Issues with These Free Nvidia Drivers for Windows Systems</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-best-of-the-best-top-5-free-video-compression-apps-for-iphone-and-ipad-users/"><u>Updated 2024 Approved Best of the Best Top 5 Free Video Compression Apps for iPhone and iPad Users</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-unleash-your-creativity-12-top-rated-online-animation-tools/"><u>Updated Unleash Your Creativity 12 Top-Rated Online Animation Tools</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-which-video-editor-should-you-choose-sony-vegas-vs-adobe-premiere-pro-for-2024/"><u>Updated Which Video Editor Should You Choose? Sony Vegas vs Adobe Premiere Pro for 2024</u></a></li>
 </ul></div>
 

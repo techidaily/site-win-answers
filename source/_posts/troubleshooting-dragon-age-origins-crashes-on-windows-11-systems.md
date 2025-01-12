@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Dragon Age: Origins Crashes on Windows 11 Systems"
-date: 2024-12-30T00:45:42.675Z
-updated: 2025-01-05T19:08:05.972Z
+date: 2025-01-05T18:02:44.553Z
+updated: 2025-01-12T18:58:20.385Z
 tags:
   - win11
   - win10
@@ -37,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/528781abe64eff7e57733460b453c6895f2f9ec89
 
  If you have trouble updating the game, you might just need a simple reboot.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Verify the integrity of game files
 
  You can’t expect your game to work fine if there’re files missing or broken. So first you need to**run a scan of your game folder** .
@@ -48,10 +52,6 @@ Here’s how to do it on the Epic Games client:
 2. Click the**ellipses** at the bottom right corner of Sid Meier’s Civilization VI. Then select**Verify** and wait for the process to complete.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/civ-6-verify.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Now you can try again and see if Civ 6 launches.
 
@@ -69,14 +69,14 @@ If this doesn’t help, you can take a look at the next fix below.
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -84,10 +84,6 @@ If this doesn’t help, you can take a look at the next fix below.
  After updating your graphics driver, restart your computer and check if Civ 6 works now.
 
  If the latest graphics driver doesn’t do the charm, you can check out the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Install all Windows updates
 
@@ -98,10 +94,6 @@ If this doesn’t help, you can take a look at the next fix below.
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
@@ -126,12 +118,24 @@ If this solution doesn’t help, you can continue to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now you can try to launch Civ 6\. If it’s working this time, repeat these steps and disable only half of the services and programs to root out the offenders.
 
 If a clean boot doesn’t help, you can check out the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Install the latest Visual C++ redistributable
 
@@ -141,21 +145,17 @@ If a clean boot doesn’t help, you can check out the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/latest-c.jpg)
 2. Open the installer and follow the on-screen instructions to install.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can also uninstall all the Visual C++ redistributable in**Programs and Features** , then reinstall them one by one. Be sure to choose the latest 64-bit installer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Switch your DirectX version
 
  According to some,**running Civ 6 on another version of DirectX** might be a potential fix. Normally you’re prompted to select the DirectX version at startup. But you can also use the .exe file directly. By default, you can the .exe files in _C:\\Program Files (x86)\\Steam\\steamapps\\common\\Sid Meier’s Civilization VI\\Base\\Binaries\\Win64Steam_ . Use_CivilizationVI\_DX12.exe_ for DirectX 12 and_CivilizationVI.exe_ for DirectX 11.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/civ-6-directx.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -178,24 +178,20 @@ If a clean boot doesn’t help, you can check out the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-all-inclusive-list-best-downloader-software-for-vimeo-for-2024/"><u>[New] All-Inclusive List Best Downloader Software for Vimeo for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-behind-the-scenes-what-does-an-unlisted-video-mean/"><u>[New] In 2024, Behind the Scenes What Does an 'Unlisted' Video Mean?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1-enhancing-your-pc-navigation-ultimate-guide-to-improved-file-management-in-windows/"><u>1. Enhancing Your PC Navigation: Ultimate Guide to Improved File Management in Windows</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1-revitalizing-microsoft-top-5-strategies-to-bring-back-the-dominance-of-windows/"><u>1. Revitalizing Microsoft: Top 5 Strategies to Bring Back the Dominance of Windows</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/free-and-ai-powered-image-sharpening-on-windowsmac-os-an-ultimate-guide/"><u>Free and AI-Powered Image Sharpening on Windows/Mac OS: An Ultimate Guide</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-oppo-reno-10-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Oppo Reno 10 5G Devices</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-xiaomi-redmi-k70-pro-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Xiaomi Redmi K70 Pro Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Oppo A1 5G? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/ipogo-will-be-the-new-ispoofer-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Vivo V29e? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/overcoming-the-challenge-a-detailed-approach-to-handle-missing-openal32dll/"><u>Overcoming the Challenge: A Detailed Approach to Handle Missing openAL32.dll</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-obtaining-printed-copies-without-personal-access-to-a-printer/"><u>Step-by-Step Guide: Obtaining Printed Copies Without Personal Access to a Printer</u></a></li>
-<li><a href="https://win-answers.techidaily.com/transferring-and-modifying-android-pictures-on-windows-11-made-easy-learn-the-steps-now/"><u>Transferring & Modifying Android Pictures on Windows 11 Made Easy - Learn the Steps Now!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-sound-problems-in-windows-11-when-no-audio-device-is-detected/"><u>Troubleshooting Sound Problems in Windows 11 When No Audio Device Is Detected</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-cant-find-bluetooth-hardware-in-windows-device-manager/"><u>Troubleshooting: Can't Find Bluetooth Hardware in Windows Device Manager?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-mastering-the-art-of-forcibly-ending-unresponsive-programs-in-windows-11/"><u>Ultimate Guide: Mastering the Art of Forcibly Ending Unresponsive Programs in Windows 11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/unlocking-windows-11-installation-secrets-startup-success-without-your-microsoft-profile/"><u>Unlocking Windows 11 Installation Secrets: Startup Success Without Your Microsoft Profile</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/unveiling-how-the-chinese-civil-conflict-shaped-modern-china-an-analysis-by-yl-software/"><u>Unveiling How the Chinese Civil Conflict Shaped Modern China: An Analysis by YL Software</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-rising-stars-of-lego-animation-top-makers-for-2024/"><u>Updated Rising Stars of Lego Animation Top Makers for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/weekly-update-on-iphone-software-enhancements-and-product-recalls/"><u>Weekly Update on iPhone Software Enhancements & Product Recalls</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-expert-strategies-for-exceptional-live-thumbnail-appeal-for-2024/"><u>[New] Expert Strategies for Exceptional Live Thumbnail Appeal for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-hiring-guide-locating-excellent-film-capturers/"><u>[New] Hiring Guide Locating Excellent Film Capturers</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-revealed-the-10-most-reliable-android-and-ios-countdown-clocks-for-marriage-bliss/"><u>2024 Approved Revealed The 10 Most Reliable Android and iOS Countdown Clocks for Marriage Bliss</u></a></li>
+<li><a href="https://win-answers.techidaily.com/far-cry-6-no-more-blank-screens-ultimate-fix-guide/"><u>Far Cry 6 No More Blank Screens: Ultimate Fix Guide</u></a></li>
+<li><a href="https://discover-able.techidaily.com/how-to-determine-if-you-should-remove-unneeded-files-and-applications-tips-from-yl-computing/"><u>How to Determine If You Should Remove Unneeded Files & Applications - Tips From YL Computing</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-whatsapp-chat-history-from-iphone-12-mini-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How To Recover Whatsapp Chat History From iPhone 12 mini | Stellar</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-in-game-security-threat-warnings-a-comprehensive-guide/"><u>Overcoming 'In-Game Security Threat' Warnings: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-superb.techidaily.com/retrieve-missing-data-from-your-system-the-ultimate-tutorial-for-windows-11-users/"><u>Retrieve Missing Data From Your System: The Ultimate Tutorial for Windows 11 Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/roller-champs-multiplayer-mastery-2024-pc-adventure-top-tactics-and-insider-secrets-revealed/"><u>Roller Champs Multiplayer Mastery: 2024 PC Adventure - Top Tactics and Insider Secrets Revealed</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-found-get-past-the-persistent-loading-screen-in-madden-22/"><u>Solution Found! Get Past the Persistent Loading Screen in Madden 22</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-your-diablo-immortal-troubles-no-more-pc-freezes/"><u>Solving Your Diablo Immortal Troubles – No More PC Freezes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-to-fixing-developer-error-5573-in-call-of-duty-warzone-across-platforms/"><u>Step-by-Step Guide to Fixing 'Developer Error 5573' In Call of Duty Warzone Across Platforms</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-future-of-tech-meets-automotebility-uncovering-the-rumored-pricing-release-date-and-specs-of-the-tesla-phone/"><u>The Future of Tech Meets Automotebility: Uncovering the Rumored Pricing, Release Date, and Specs of the Tesla Phone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-how-to-repair-a-failed-load-of-steamuidll-in-steam-platform/"><u>Troubleshooting Guide: How to Repair a Failed Load of 'steamui.dll' In Steam Platform</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/ultimate-fixes-for-startech-driver-errors-across-windows-platforms-win7win8win10/"><u>Ultimate Fixes for StarTech Driver Errors Across Windows Platforms: Win7/Win8/Win10</u></a></li>
 </ul></div>
 

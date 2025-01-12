@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: How to Resolve Persistent Issues in Arcadegeddon for Windows Users"
-date: 2024-08-13T12:24:12.439Z
-updated: 2024-08-14T12:24:12.439Z
+date: 2025-01-11T16:32:54.316Z
+updated: 2025-01-12T19:00:12.209Z
 tags:
   - win11
   - win10
@@ -25,30 +25,29 @@ If you have GeForce Experience installed, and you find that you can’t record y
 ## 1: Restart NVIDIA Streamer service
 
 In some cases, the culprit is NVIDA Streamer service, especially when it’s off. You can restart this service: 1)On your keyboard, press the **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bf9799cbbba.png) and **R**  at the same time.  Type   **services.msc**  and press  **Enter** .  
+
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bf9b3de585a.png)
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 2) Right-click **NVIDIA Streamer Service**  and click **Restart**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c2314a11508.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) See if your Shadowplay can record now.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## 2: Reinstall NVIDIA Driver
 
 In some cases, GeForce Experience install programs that are not graphics driver on your PC. So you should reinstall NVIDIA display driver all over again. You can go to NVIDIA support website to search for and download the latest version of display driver available. Or you can update your video card driver via Device Manager or Windows Update. If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/). Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee): 1)[**Download**](https://tools.techidaily.com/drivereasy/download/)and install Driver Easy. 2) Run Driver Easy and click the**Scan Now**button. Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bf9a8fa563d.png)3) Click the**Update**button next to the flagged NVIDIA device to automatically download and install the correct version of its driver (you can do this with the FREE version). Or click**Update All**to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/)– you’ll be prompted to upgrade when you click Update All). ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bf9b0348294.jpg)4) Restart your PC for the change to take effect. See if Shadowplay works well.
+
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3: Upgrade GeForce Experience
@@ -56,9 +55,6 @@ In some cases, GeForce Experience install programs that are not graphics driver 
 Beta version of GeForce Experience could get you faulty driver or other faulty NVIDIA applications. If you haven’t upgrade it to the latest version, do it now: 1) On your keyboard, press the**Windows logo key**and**R**at the same time. Type**appwiz.cpl**in and press**Enter**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c23613857ca.png)
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 
 2) Right-click NVIDIA GeForce Experience and click**Uninstall**. Follow the on-screen instructions to uninstall it.
 
@@ -67,13 +63,18 @@ Beta version of GeForce Experience could get you faulty driver or other faulty N
 3) Go to NVIDIA support to download the latest version of GeForce Experience and install as instructed. 4) See if your Shadowplay not recording problem is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4: Enable desktop capture
 
 If desktop capture is disabled, Shadowplay won’t detect if you play the game full-screen. You can enable this feature for the recording to work again: 1) Open your Shadowplay. Click**Preference**. 2) Make sure the box for**Allow desktop capture**is ticked.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c238e4810b3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) See if your Shadowplay can record now.
 
@@ -85,8 +86,6 @@ If desktop capture is disabled, Shadowplay won’t detect if you play the game f
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -94,4 +93,23 @@ If desktop capture is disabled, Shadowplay won’t detect if you play the game f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-subtracting-text-srt-to-sub-transformation-tips/"><u>[New] 2024 Approved Subtracting Text SRT to SUB Transformation Tips</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-ultimate-ai-powered-image-editor-for-2024/"><u>[New] Ultimate AI-Powered Image Editor for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-xiaomi-14-ultra-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-meizu-21-pro-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Meizu 21 Pro FRP</u></a></li>
+<li><a href="https://win-answers.techidaily.com/decoding-the-puzzle-tips-for-fixing-black-ops-cold-wars-troublesome-error-code-883a-0005/"><u>Decoding the Puzzle: Tips for Fixing Black Ops Cold War's Troublesome Error CODE: 88^3A-0005</u></a></li>
+<li><a href="https://win-answers.techidaily.com/game-changing-fixes-for-mount-and-blade-2-bannerlords-persistent-crashes/"><u>Game-Changing Fixes for Mount & Blade 2: Bannerlord's Persistent Crashes</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-newest-hp-network-driver-updates-for-windows-101178-installs-beginner-friendly-guide/"><u>Get the Newest HP Network Driver Updates for Windows 10/11/7/8 Installs – Beginner-Friendly Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-with-my-htc-u23-pro-by-stellar-video-repair-mobile-video-repair/"><u>How to fix videos not playing with my HTC U23 Pro?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-samsung-galaxy-f14-5g-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Samsung Galaxy F14 5G to Mac? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723002911704-mastering-the-fix-for-doom-eternal-continuous-crashes-proven-techniques-inside/"><u>Mastering the Fix for DOOM Eternal Continuous Crashes - Proven Techniques Inside!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-windows-photos-with-shortcuts/"><u>Navigating Windows Photos with Shortcuts</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/quick-tips-to-resurrect-windows-photo-viewer-on-windows-11-for-2024/"><u>Quick Tips to Resurrect Windows Photo Viewer on Windows 11 for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723004124899-resolve-your-rainbow-six-siege-latency-problems-instantly/"><u>Resolve Your Rainbow Six Siege Latency Problems Instantly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/restoring-sounds-in-skyrim-fixes-for-muted-gameplay-experience/"><u>Restoring Sounds in Skyrim: Fixes for Muted Gameplay Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-lag-in-avatar-frontiers-of-pandora-techniques-to-enhance-gaming-experience/"><u>Troubleshooting Lag in 'Avatar: Frontiers of Pandora' – Techniques to Enhance Gaming Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-resolving-lost-ark-game-crashes/"><u>Troubleshooting Steps: Resolving 'Lost Ark' Game Crashes</u></a></li>
+</ul></div>
 

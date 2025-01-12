@@ -1,7 +1,7 @@
 ---
 title: Solve Your Red Dead Redemption 2 GFX Error with This Guide (ERR_GFX_STATE)
-date: 2024-12-30T16:50:45.995Z
-updated: 2025-01-05T20:59:34.418Z
+date: 2025-01-11T16:31:22.126Z
+updated: 2025-01-12T16:53:22.794Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/a848ca5db9b7c808865a38728eb2f3fa3f3cb8b72
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3 simple fixes to try
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -44,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/a848ca5db9b7c808865a38728eb2f3fa3f3cb8b72
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-373.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Type**inetcpl.cpl** , then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-358.png)
@@ -56,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/a848ca5db9b7c808865a38728eb2f3fa3f3cb8b72
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-360.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** If any items on this window are checked, uncheck them. Then, click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-363.png)
@@ -63,6 +59,10 @@ thumbnail: https://thmb.techidaily.com/a848ca5db9b7c808865a38728eb2f3fa3f3cb8b72
 **5)** Restart your computer and Steam to test your issue.
 
  If none of the boxes is checked, or if you still get the error code 130, then go ahead with the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your network adapter driver
 
@@ -113,20 +113,20 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-885.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-886.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-887.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Under **View by** , select **Category** .
 
@@ -137,20 +137,20 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-889.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **6)**  Right-click **Steam** , and then click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-890.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **7)**  Follow the on-screen instructions to uninstall Steam and wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-891.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  **8)[Download](https://store.steampowered.com/about/)**  Steam.
 
@@ -160,13 +160,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-892.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **11)**  Move the backup **steamapps folder**  you create before to your current directory location.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-893.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **12)**  Relaunch your Steam to test your issue.
 
@@ -194,24 +194,24 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-how-to-master-the-use-of-musical-emoji-features-on-instawow/"><u>[New] How to Master the Use of Musical Emoji Features on InstaWow</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-simple-setup-winning-the-art-of-fishy-voice-transformation-for-2024/"><u>[New] Simple Setup Winning the Art of Fishy Voice Transformation for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-transform-your-photos-removing-backdrops-with-ease/"><u>[Updated] 2024 Approved Transform Your Photos Removing Backdrops with Ease</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-digital-alchemy-for-artists-leading-generators-turned-into-nfts/"><u>[Updated] In 2024, Digital Alchemy for Artists Leading Generators Turned Into NFTs</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-powerful-techniques-including-yt-videos-in-slides-for-2024/"><u>[Updated] Powerful Techniques Including YT Videos in Slides for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-top-5-online-video-capture-tools-for-2024/"><u>[Updated] Top 5 Online Video Capture Tools for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/cyberpunk-2077-performance-enhancement-on-windows-n-the-gpu-factor/"><u>Cyberpunk 2077 Performance Enhancement on Windows N: The GPU Factor</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixes-for-fixing-battlefront-ii-crash-issues-on-windows-systems/"><u>Fixes for Fixing 'Battlefront II' Crash Issues on Windows Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-mythical-device-spec-error-in-windows-11/"><u>Fixing Mythical Device Spec Error in Windows 11</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-oneplus-11-5g-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on OnePlus 11 5G to Protect Your Individual Information</u></a></li>
-<li><a href="https://win-answers.techidaily.com/master-the-art-of-samurai-in-yakuza-like-a-dragon-now-flourishing-on-steam/"><u>Master the Art of Samurai in 'Yakuza: Like a Dragon' - Now Flourishing on Steam</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcome-mordhau-stalling-issues-with-these-proven-fix-techniques/"><u>Overcome Mordhau Stalling Issues with These Proven Fix Techniques</u></a></li>
-<li><a href="https://win-answers.techidaily.com/rapid-remedies-for-when-fortnite-wont-load-correctly/"><u>Rapid Remedies for When Fortnite Won't Load Correctly</u></a></li>
-<li><a href="https://fox-that.techidaily.com/revive-your-icloud-photo-library-effective-fixes-when-iphone-fails-to-update/"><u>Revive Your iCloud Photo Library: Effective Fixes When iPhone Fails to Update</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-alan-wake-2-freezing-issues-top-strategies-of-2024/"><u>Solving Alan Wake 2 Freezing Issues: Top Strategies of 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/the-ultimate-fix-for-when-minecraft-refuses-to-start-easy-solutions-unveiled/"><u>The Ultimate Fix for When Minecraft Refuses to Start: Easy Solutions Unveiled</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-picks-ultimate-savings-on-high-performance-gaming-pcs/"><u>Top Picks: Ultimate Savings on High-Performance Gaming PCs</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshoot-and-fix-sea-of-thieves-persistent-loading-screens-easily/"><u>Troubleshoot & Fix Sea of Thieves Persistent Loading Screens Easily</u></a></li>
-<li><a href="https://win-answers.techidaily.com/windows-11-users-rejoice-civ-6-launch-issues-resolved/"><u>Windows 11 Users Rejoice: Civ 6 Launch Issues Resolved</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-setting-pip-mode-in-the-youtube-app-for-mobile-viewing/"><u>[Updated] 2024 Approved Setting PIP Mode in the YouTube App for Mobile Viewing</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-legally-nurtured-viewership-growth-tips-for-youtubers/"><u>2024 Approved Legally Nurtured Viewership Growth Tips for YouTubers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-macs-as-music-makers-a-look-inside/"><u>2024 Approved Macs as Music Makers A Look Inside</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-essential-tutorial-for-adding-videos-to-youtube-plays/"><u>2024 Approved The Essential Tutorial for Adding Videos to YouTube Plays</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bypassing-the-chill-effective-fixes-for-cod-black-ops-cold-war-bug/"><u>Bypassing the Chill: Effective Fixes for CoD: Black Ops Cold War Bug</u></a></li>
+<li><a href="https://fox-info.techidaily.com/cutting-edge-techniques-for-captivating-readership-on-subreddits/"><u>Cutting-Edge Techniques for Captivating Readership on Subreddits</u></a></li>
+<li><a href="https://win-answers.techidaily.com/firefox-freezing-no-more-the-comprehensive-2024-guide-to-smooth-browsing/"><u>Firefox Freezing No More: The Comprehensive 2024 Guide to Smooth Browsing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-endless-loop-how-to-overcome-anthems-persistent-load-screen-issue/"><u>Fixing the Endless Loop: How to Overcome Anthem's Persistent Load Screen Issue</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Motorola Moto E13? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/instructional-path-to-windows-11-safe-hardware-dialog/"><u>Instructional Path to Windows 11 Safe Hardware Dialog</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/master-scan-troubleshooting-on-windows-with-tips-from-yl-computings-yl-software/"><u>Master Scan Troubleshooting on Windows with Tips From YL Computing's YL Software</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimizing-fallout-4-performance-for-lightning-fast-loads/"><u>Optimizing Fallout 4 Performance for Lightning-Fast Loads</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-your-obs-lag-issues-solutions-for-live-stream-and-record-functionality/"><u>Overcome Your OBS Lag Issues - Solutions for Live Stream & Record Functionality</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723012841855-perform-the-multiplication-on-both-sides/"><u>Perform the Multiplication on Both Sides</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resetting-techniques-for-faulty-resource-monitors-on-windows-11/"><u>Resetting Techniques for Faulty Resource Monitors on Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-far-cry-5s-perpetual-boot-loop-a-step-by-step-guide/"><u>Resolving Far Cry 5'S Perpetual Boot Loop - A Step-by-Step Guide</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-gionee-f3-pro-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Gionee F3 Pro</u></a></li>
+<li><a href="https://win-answers.techidaily.com/tips-and-hacks-how-to-prevent-continuous-crashes-of-hell-let-loose-on-your-computer/"><u>Tips & Hacks: How to Prevent Continuous Crashes of Hell Let Loose on Your Computer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-how-to-resolve-modern-warfare-3-mw3-startup-issues/"><u>Troubleshooting Steps: How to Resolve Modern Warfare 3 (MW3) Startup Issues</u></a></li>
 </ul></div>
 

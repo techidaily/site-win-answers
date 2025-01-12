@@ -1,7 +1,7 @@
 ---
 title: "How to Address and Solve CREATING ISSUES in Total War: Warhammer II"
-date: 2024-08-13T12:21:08.482Z
-updated: 2024-08-14T12:21:08.482Z
+date: 2025-01-09T18:23:19.327Z
+updated: 2025-01-12T16:06:49.871Z
 tags:
   - win11
   - win10
@@ -18,8 +18,9 @@ thumbnail: https://thmb.techidaily.com/7190f701d24b2bca2702a5bcd803eaeb74415822a
 Call of Duty: Modern Warfare randomly freezes on PC when you’re enjoying a furious battle, and you have no idea how to fix it? Don’t worry. Here is a full list of fixes to help you out.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8 Fixes for Modern Warfare Freezing
 
  You may not try them all, just work from the top down until you find the one that works for you.
@@ -53,31 +54,42 @@ Call of Duty: Modern Warfare randomly freezes on PC when you’re enjoying a fur
 **1)** On your keyboard, type the**Windows logo key** and**R** at the same time. Then, in the Run box, type**dxdiag** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/1-0.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Check the information about your**operating system** ,**processor** and**memory** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/1-1-1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Select the**Display** tab to see the video card’s information.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/1-2-1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Select the**Sound** tab to view the sound card’s information.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/1-3-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Click**Exit** .
 
  If your computer is above the required level to run Modern Warfare, move on to the second fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2 – Avoid PC overheating
 
@@ -88,9 +100,9 @@ Call of Duty: Modern Warfare randomly freezes on PC when you’re enjoying a fur
  If your game just freezes without any overheating symptoms, check the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3 – Close background applications
 
  When programs running in the background interfere with Modern Warfare or consume too much resource, freezing issues will occur. So before you start a match, try to shut down all unnecessary background applications. Here’s how to do this:
@@ -98,9 +110,6 @@ Call of Duty: Modern Warfare randomly freezes on PC when you’re enjoying a fur
 **1)** Right-click the taskbar and click**Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/3-1-5.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **2)** Right-click the application you want to close and click**End task** .
 
@@ -147,6 +156,10 @@ Call of Duty: Modern Warfare randomly freezes on PC when you’re enjoying a fur
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/6-2-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You could do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -154,9 +167,6 @@ Call of Duty: Modern Warfare randomly freezes on PC when you’re enjoying a fur
 
  If the freezing problem persists after you install the latest graphics driver, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5 – Scan and repair game files
 
  Missing or corrupted game files are also common culprits of game crashes or freezes, but it’s not difficult to repair them.
@@ -166,9 +176,6 @@ Here are the steps:
 **1)** Open the Battle.net app, and click**Call of Duty: Modern Warfare** on the left pane.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-0-0-1200x741.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 **2)** Click**Options** and select**Scan and Repair** .
 
@@ -193,9 +200,6 @@ Here are the steps:
 **3)** Disable**Sync Every Frame (V-Sync)** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/5-2-3.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 
 **4)** Scroll down to the**Details & Textures** tab, and configure the settings as below:
 
@@ -211,9 +215,6 @@ Here are the steps:
 
  If Modern Warfare still freezes no matter how you change the settings, turn to the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 7 – Disable in-game overlay
 
  Many gamers reported the overlay feature would lead to Modern Warfare freezing. So you should disable it on **[GeForce Experience](https://tools.techidaily.com/drivereasy/download/)**  and **[Discord](https://tools.techidaily.com/drivereasy/download/)**  to solve your problem.
@@ -225,9 +226,6 @@ Here are the steps:
 **2)** Click the**cogwheel icon** at the upper right corner.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/7-1-1-2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** Toggle off**In-game overlay** .
 
@@ -242,8 +240,9 @@ Here are the steps:
 **2)** Select the**Overlay** tab on the left pane, and toggle off**Enable in-game overlay** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/7-2-2-1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you want to disable the overlay feature just for Modern Warfare, navigate to the**Games** tab on the left pane, and click the**computer icon** next to Modern Warfare to**toggle off overplay** .
@@ -257,9 +256,6 @@ Here are the steps:
 **1)** Run Battle.net application, and click**Call of Duty: Modern Warfare** on the left pane.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/8-1-5-1200x741.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 **2)** Select**Options** and click**Uninstall Game** .
 
@@ -280,8 +276,6 @@ Here are the steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -289,4 +283,21 @@ Here are the steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-from-solitary-snaps-to-awe-inspiring-tiled-panoramas/"><u>[New] From Solitary Snaps to Awe-Inspiring Tiled Panoramas</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-unlock-facebook-slide-in-content-access-for-2024/"><u>[Updated] Unlock Facebook Slide-In Content Access for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-power-of-pixels-a-review-of-the-4k-cg318-4k-monitor/"><u>2024 Approved The Power of Pixels A Review of the 4K CG318-4K Monitor</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-tier-visual-data-vaults/"><u>2024 Approved Top-Tier Visual Data Vaults</u></a></li>
+<li><a href="https://win-dash.techidaily.com/movwmv/"><u>最新の自由版ツールを使って、スムーズにMOVファイルをWMV形式に変更する方法</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-solutions-to-stop-paladins-from-crashing-comprehensive-guide/"><u>Effective Solutions to Stop Paladins From Crashing - Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/eliminate-dreamlight-valley-freezing-problems-on-pc-using-our-top-customer-what-is-the-product-of-58-and-its-reciprocal/"><u>Eliminate Dreamlight Valley Freezing Problems on PC Using Our Top [Customer]: What Is the Product of $5/8$ and Its Reciprocal?</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/how-can-you-transfer-data-from-one-hdd-or-ssd-to-a-new-drives-using-simple-methods/"><u>How Can You Transfer Data From One HDD or SSD to a New Drives Using Simple Methods?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Infinix Zero 30 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-prevent-recurring-crashes-for-thunder-tier-one-gaming-experience-on-pcs/"><u>How to Prevent Recurring Crashes for Thunder: Tier One Gaming Experience on PCs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-gaming-dilemma-understanding-the-impact-of-doubled-fps-reduction/"><u>PC Gaming Dilemma: Understanding the Impact of Doubled FPS Reduction</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-final-epoch-error-effective-strategies-for-windows-users/"><u>Solving the Final Epoch Error: Effective Strategies for Windows Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-and-fixing-stuttering-problems-in-mass-effect-legendary-collection/"><u>Troubleshooting & Fixing Stuttering Problems In Mass Effect Legendary Collection</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-stream-apple-tv-shows-and-movies-on-firestick/"><u>Ultimate Guide: Stream Apple TV Shows and Movies on Firestick</u></a></li>
+</ul></div>
 

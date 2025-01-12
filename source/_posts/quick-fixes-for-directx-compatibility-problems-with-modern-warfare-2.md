@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for DirectX Compatibility Problems with Modern Warfare 2
-date: 2024-12-30T19:35:48.548Z
-updated: 2025-01-05T21:10:11.276Z
+date: 2025-01-09T16:54:27.737Z
+updated: 2025-01-12T19:12:11.983Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/71cc290356f3f99c9cda8196a719a0c6248025904
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to fix WWE 2K20 Crash
 
@@ -51,6 +55,10 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-14.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click the**Compatibility** tab, tick**the box** for**Run this program as an administrator** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-17.png)
@@ -60,7 +68,7 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Verify game integrity
@@ -71,10 +79,6 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-119.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click **the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/Steam-verify-the-game-file-2.jpg)
@@ -84,7 +88,7 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
@@ -101,10 +105,6 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-285.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to a flagged graphics river to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
@@ -114,10 +114,6 @@ Here is how to do it:
 5) Run the game again to see if the crashing issue is solved. If yes, then congrats! If it still crashes, please try**Fix 5** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Disable your antivirus program
 
@@ -152,7 +148,7 @@ WWE 2K20 still crashes? Don’t worry, you have one more fix to try.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/add.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) In the window that opens, choose**WWE2K20\_x64** , then click**Add Selected Program** .
@@ -162,6 +158,10 @@ WWE 2K20 still crashes? Don’t worry, you have one more fix to try.
  5) In**Select the preferred graphics processor for this program** , select**High-performance NVIDIA processor** . Then click**Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-13.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6) Launch WWE 2K20 and check to see if the crashing issue is fixed.
 
@@ -186,20 +186,20 @@ WWE 2K20 still crashes? Don’t worry, you have one more fix to try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-to-crypto-conversion-best-generator-list/"><u>[New] The Ultimate Guide to Crypto Conversion – Best Generator List</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-top-corporate-cloud-storage-platforms-for-2024/"><u>[New] Top Corporate Cloud Storage Platforms for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-faceoff-assessing-the-superiority-between-llama-3-and-microsofts-gpt-4/"><u>AI Faceoff: Assessing the Superiority Between Llama 3 and Microsoft's GPT-4</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-tips-overcoming-pc-installation-obstacles-in-battlefield-4-gameplay/"><u>Expert Tips: Overcoming PC Installation Obstacles in Battlefield 4 Gameplay</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixes-for-fixing-gta-5-startup-issues/"><u>Fixes for Fixing GTA 5 Startup Issues</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-use-life360-on-windows-pc-for-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Oppo A59 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Lava Yuva 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-the-fixes-to-get-logitech-devices-working-perfectly-on-windows-systems/"><u>Mastering the Fixes to Get Logitech Devices Working Perfectly on Windows Systems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcome-windows-11-barriers-effective-solutions-for-running-minecraft/"><u>Overcome Windows 11 Barriers: Effective Solutions for Running Minecraft</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solve-the-dreaded-error-code-0xc19001e1-a-comprehensive-guide-for-windows-11-users/"><u>Solve the Dreaded Error Code 0Xc19001e1: A Comprehensive Guide for Windows 11 Users</u></a></li>
-<li><a href="https://extra-information.techidaily.com/thorough-evaluation-hero4-black-innovations/"><u>Thorough Evaluation Hero4 Black Innovations</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-for-resolving-steam-and-xbox-launch-errors-in-stardew-valley/"><u>Troubleshooting Guide for Resolving Steam and Xbox Launch Errors in Stardew Valley</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-why-your-chrome-browser-cant-load-websites/"><u>Troubleshooting: Why Your Chrome Browser Can't Load Websites</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Lava Storm 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-wont-apples-latest-ai-innovations-upgrade-your-iphone-the-high-price-tag-explained-insights-by-zdnet/"><u>Why Won't Apple's Latest AI Innovations Upgrade Your iPhone? The High Price Tag Explained | Insights by ZDNET</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-creating-a-virtual-office-space-with-google-meet/"><u>[New] 2024 Approved Creating a Virtual Office Space with Google Meet</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-elevate-design-complimentary-cutting-edge-psd-texts/"><u>[New] 2024 Approved Elevate Design Complimentary, Cutting-Edge PSD Texts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-elevate-your-videos-with-complimentary-banners-here/"><u>[New] 2024 Approved Elevate Your Videos with Complimentary Banners, Here</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-elevating-your-images-with-words-step-by-step-guide-for-adding-text-on-pcmac/"><u>[Updated] In 2024, Elevating Your Images with Words Step-by-Step Guide for Adding Text on PC/Mac</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-essential-steps-for-elevating-wmm-content-on-vimeo-platform/"><u>[Updated] In 2024, Essential Steps for Elevating WMM Content on Vimeo Platform</u></a></li>
+<li><a href="https://win-answers.techidaily.com/elevating-your-gaming-experience-innovative-solutions-to-tackle-wows-frame-rate-hurdles-in-the-new-year/"><u>Elevating Your Gaming Experience: Innovative Solutions to Tackle WoW's Frame Rate Hurdles in the New Year</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhanced-stability-for-your-pc-playthrough-fnaf-free-from-breaching-issues/"><u>Enhanced Stability for Your PC Playthrough – FNAF Free From Breaching Issues!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-for-a-smooth-dota-2-gaming-experience-overcoming-lags-in-2e24/"><u>Expert Tips for a Smooth Dota 2 Gaming Experience: Overcoming Lags in 2E24</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guilty-gear-strive-release-delayed-exclusive-insights-and-updates/"><u>Guilty Gear Strive Release Delayed: Exclusive Insights and Updates</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-slow-frames-in-farming-simulator-22-when-played-on-a-pc/"><u>How to Fix Slow Frames in Farming Simulator 22 when Played on a PC?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-accelerate-conversion-srt-to-text-txt-in-minutes-only/"><u>In 2024, Accelerate Conversion SRT to Text (TXT) in Minutes Only</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-detailed-guide-on-removing-apple-iphone-12-pro-max-activation-lock-without-previous-owner-by-drfone-ios/"><u>In 2024, Detailed Guide on Removing Apple iPhone 12 Pro Max Activation Lock without Previous Owner?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-dive-deep-into-obs-advanced-techniques-for-game-capture/"><u>In 2024, Dive Deep Into OBS Advanced Techniques for Game Capture</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-latest-game-monitors-budget-essentials-to-high-end-curved-displays-with-g-sync/"><u>Navigating the Latest Game Monitors : Budget Essentials to High-End Curved Displays with G-Sync</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-guide-stop-thunder-tier-one-from-continuously-crashing-on-desktop-systems/"><u>Solution Guide: Stop Thunder Tier One From Continuously Crashing on Desktop Systems</u></a></li>
 </ul></div>
 

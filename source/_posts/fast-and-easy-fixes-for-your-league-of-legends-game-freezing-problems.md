@@ -1,7 +1,7 @@
 ---
 title: Fast and Easy Fixes for Your League of Legends Game Freezing Problems
-date: 2025-01-04T19:58:18.556Z
-updated: 2025-01-06T01:32:16.983Z
+date: 2025-01-07T16:58:40.951Z
+updated: 2025-01-12T18:08:08.855Z
 tags:
   - win11
   - win10
@@ -35,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/8c3061c39eb85dd875af824e1d1149fd13be54628
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Make sure your PC meets meets the system requirements for League of Legends
@@ -91,6 +91,10 @@ thumbnail: https://thmb.techidaily.com/8c3061c39eb85dd875af824e1d1149fd13be54628
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee.
@@ -98,7 +102,7 @@ thumbnail: https://thmb.techidaily.com/8c3061c39eb85dd875af824e1d1149fd13be54628
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-84.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
@@ -114,16 +118,12 @@ thumbnail: https://thmb.techidaily.com/8c3061c39eb85dd875af824e1d1149fd13be54628
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-62-1024x796.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3) Wait until Windows downloaded and installed all the updates.
 
@@ -149,10 +149,6 @@ thumbnail: https://thmb.techidaily.com/8c3061c39eb85dd875af824e1d1149fd13be54628
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
 
 ### Fix 5: Enable low spec mode
@@ -166,6 +162,10 @@ thumbnail: https://thmb.techidaily.com/8c3061c39eb85dd875af824e1d1149fd13be54628
 2) In the upper-right corner, click**the gear button**  to open the game settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
@@ -193,18 +193,22 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-discovering-picsarts-future-comprehensive-guide-and-review-update-for-2024/"><u>[New] Discovering PicsArt's Future - Comprehensive Guide and Review Update for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-nighttime-captures-elevating-iphone-photos/"><u>[Updated] In 2024, Nighttime Captures Elevating iPhone Photos</u></a></li>
-<li><a href="https://win-answers.techidaily.com/arcadegeddon-pc-crashes-troubleshooting-guide-what-you-need-to-know/"><u>Arcadegeddon PC Crashes Troubleshooting Guide - What You Need to Know!</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210003794-9781761034787-astrology/"><u>Astrology | Free Book</u></a></li>
-<li><a href="https://win-answers.techidaily.com/beat-the-lag-advanced-techniques-to-lower-ping-in-warzone-20-updated/"><u>Beat the Lag: Advanced Techniques to Lower Ping in Warzone 2.0 [Updated ]</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/default-scanning-parameters-how-to-return-your-scanner-back-to-original-configuration-tech-tips-by-yl-computing/"><u>Default Scanning Parameters: How To Return Your Scanner Back To Original Configuration - Tech Tips by YL Computing</u></a></li>
-<li><a href="https://win-answers.techidaily.com/detailed-walkthrough-fixing-error-6-for-pc-gamers-in-battlefield-v-and-modern-warfare/"><u>Detailed Walkthrough: Fixing Error 6 for PC Gamers in Battlefield V and Modern Warfare</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-the-revolutionary-compact-tracker-by-nomad-a-credit-card-sized-solution-for-precise-location-tracking/"><u>Discover the Revolutionary Compact Tracker by Nomad – A Credit Card-Sized Solution for Precise Location Tracking</u></a></li>
-<li><a href="https://win-answers.techidaily.com/get-your-forza-horizon-4-up-and-running-again-expert-hacks-for-launch-issues/"><u>Get Your Forza Horizon 4 Up and Running Again! Expert Hacks for Launch Issues</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-persistent-issues-with-nioh-2-complete-edition-on-windows/"><u>How to Fix Persistent Issues with Nioh 2 (Complete Edition) on Windows</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-cod-modern-warfare-insider-tips-on-fps-drops-and-enhanced-gaming-experience/"><u>Mastering COD: Modern Warfare - Insider Tips on FPS Drops and Enhanced Gaming Experience</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-fcpx-skin-enhancement-a-beginners-guide-to-airbrushed-results/"><u>Updated 2024 Approved FCPX Skin Enhancement A Beginners Guide to Airbrushed Results</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-revolutionize-your-video-content-high-quality-made-simple/"><u>Updated In 2024, Revolutionize Your Video Content High-Quality Made Simple</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/he-ultimate-strategy-for-top-tier-youtube-titles-and-tags/"><u>[New] The Ultimate Strategy for Top-Tier Youtube Titles & Tags</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-engaging-viewers-a-guide-to-interactive-livestreams-for-2024/"><u>[Updated] Engaging Viewers A Guide to Interactive Livestreams for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-hitting-high-notes-enhance-your-youtube-content-with-music-edits/"><u>[Updated] Hitting High Notes Enhance Your YouTube Content with Music Edits</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-contacts-from-apple-iphone-13-mini-to-iphone-quickly-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Contacts from Apple iPhone 13 mini to iPhone Quickly | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/assassins-creed-rogue-wont-launch-top-fixes-for-players-tips-and-tricks/"><u>Assassin's Creed Rogue Won't Launch? Top Fixes for Players - Tips & Tricks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bypass-battlefront-2024-dev-error-code-6068-in-mw3-warzone-expert-solutions/"><u>Bypass Battlefront 2024 Dev Error Code 6068 in MW3 Warzone: Expert Solutions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/chuckling-chords-crafting-top-tier-meme-content/"><u>Chuckling Chords Crafting Top-Tier Meme Content</u></a></li>
+<li><a href="https://win-answers.techidaily.com/essential-tips-successfully-fixing-the-saints-row-non-launch-situation-on-pc/"><u>Essential Tips: Successfully Fixing the Saints Row Non-Launch Situation on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/exhaustive-troubleshooting-for-non-functioning-hp-displays-a-comprehensive-fix/"><u>Exhaustive Troubleshooting for Non-Functioning HP Displays: A Comprehensive Fix</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-limited-memory-notifications-on-virtual-machines/"><u>Fixing 'Limited Memory' Notifications on Virtual Machines</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-get-the-rockstar-games-launcher-running-smoothly-again/"><u>How To Get The Rockstar Games Launcher Running Smoothly Again</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-hacks-to-dodge-digital-lessons-at-home/"><u>In 2024, Hacks to Dodge Digital Lessons at Home</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-the-race-track-without-interruptions-fixing-crash-issues-in-forza-horizon-5-on-desktops/"><u>Master the Race Track without Interruptions: Fixing Crash Issues in Forza Horizon 5 on Desktops</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-the-art-of-genshin-launch-fixes-simple-techniques-inside/"><u>Mastering the Art of Genshin Launch Fixes – Simple Techniques Inside</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/new-release-stellars-streamlined-and-improved-mac-data-solution/"><u>New Release: Stellar's Streamlined & Improved Mac Data Solution</u></a></li>
+<li><a href="https://common-error.techidaily.com/say-goodbye-to-computer-naps-troubleshoot-and-fix-now/"><u>Say Goodbye to Computer Naps: Troubleshoot and Fix Now!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-zoom-cannot-start-video-discover-these-5-effective-remedies/"><u>Solving 'Zoom Cannot Start Video': Discover These 5 Effective Remedies</u></a></li>
 </ul></div>
 

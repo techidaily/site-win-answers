@@ -1,7 +1,7 @@
 ---
 title: Solve League of Legends Crashes Quick and Hitch-Free - Your Guide to Uninterrupted Gameplay
-date: 2025-01-02T16:46:27.842Z
-updated: 2025-01-05T22:40:15.666Z
+date: 2025-01-06T18:29:17.134Z
+updated: 2025-01-12T18:44:08.851Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/0e72ae7670739d2aa724a5c1676e3ea5eb7af36bc
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -91,6 +87,10 @@ thumbnail: https://thmb.techidaily.com/0e72ae7670739d2aa724a5c1676e3ea5eb7af36bc
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee.
@@ -114,7 +114,7 @@ thumbnail: https://thmb.techidaily.com/0e72ae7670739d2aa724a5c1676e3ea5eb7af36bc
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Wait until Windows downloaded and installed all the updates.
@@ -122,10 +122,6 @@ thumbnail: https://thmb.techidaily.com/0e72ae7670739d2aa724a5c1676e3ea5eb7af36bc
 4) Restart Windows and run League of Legends again.
 
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted game files
 
@@ -137,6 +133,10 @@ thumbnail: https://thmb.techidaily.com/0e72ae7670739d2aa724a5c1676e3ea5eb7af36bc
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Initiate Full Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
@@ -145,15 +145,7 @@ thumbnail: https://thmb.techidaily.com/0e72ae7670739d2aa724a5c1676e3ea5eb7af36bc
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Enable low spec mode
 
@@ -167,9 +159,17 @@ thumbnail: https://thmb.techidaily.com/0e72ae7670739d2aa724a5c1676e3ea5eb7af36bc
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Run League of Legends to see if you resolved this issue.
 
@@ -193,24 +193,14 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-filmmaking-essentials-windows-11s-leading-edits-for-2024/"><u>[New] Filmmaking Essentials Windows 11'S Leading Edits for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-the-ultimate-instagram-accelerator-unveiling-the-fastest-path-to-follower-fortune-and-fanfare/"><u>[New] The Ultimate Instagram Accelerator Unveiling the Fastest Path to Follower Fortune & Fanfare</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-top-12-action-cams-with-precision-global-locating-systems-for-2024/"><u>[New] TOP 12 Action Cams with Precision Global Locating Systems for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-understanding-quantum-hdrs-impact-on-photography/"><u>2024 Approved Understanding Quantum HDR's Impact on Photography</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/a-guide-to-the-8-truly-effective-youtube-marketing-methods/"><u>A Guide to the 8 Truly Effective Youtube Marketing Methods</u></a></li>
-<li><a href="https://win-answers.techidaily.com/cod-warzone-error-code-6328-decoded-best-fixes-and-tips-for-gamers/"><u>Cod Warzone Error Code 6328 Decoded - Best Fixes and Tips for Gamers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723011045906-effortless-tricks-for-fixing-apex-legends-launch-errors-quickly/"><u>Effortless Tricks for Fixing Apex Legends Launch Errors Quickly!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-solutions-to-the-ais-objective-alignment-issue/"><u>Exploring Solutions to the AI's Objective Alignment Issue</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-lego-star-wars-the-skywalker-saga-pc-game-freezing/"><u>Fixing Lego Star Wars: The Skywalker Saga PC Game Freezing</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-anticheat-connection-failure-issue-in-escape-from-tarkov/"><u>Fixing the 'Anticheat Connection Failure' Issue in Escape From Tarkov</u></a></li>
-<li><a href="https://win-answers.techidaily.com/no-more-crashing-overcoming-overwatchs-graphics-driver-challenges/"><u>No More Crashing: Overcoming Overwatch's Graphics Driver Challenges 🎮</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-relinking-issues-in-granblue-fantasy-windows-pc-version/"><u>Resolving 'Relinking' Issues in Granblue Fantasy Windows PC Version</u></a></li>
-<li><a href="https://program-issues.techidaily.com/say-goodbye-to-game-interruptions-top-9-fixes-for-ark-survival-ascendeds-stability-issues-on-pc/"><u>Say Goodbye to Game Interruptions: Top 9 Fixes for ARK: Survival Ascended's Stability Issues on PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-slow-chrome-dilemmas-quick-wins-for-browsers/"><u>Solving Slow Chrome Dilemmas – Quick Wins for Browsers!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/successful-resolution-guide-eradicating-steam-error-code-130/"><u>Successful Resolution Guide: Eradicating Steam Error Code 130</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1567126-9781408823019-the-journey-home/"><u>The Journey Home | Free Book</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-pc-casings-of-2024-expertly-selected-options-for-an-optimal-gaming-rig/"><u>Top-Rated PC Casings of 2024: Expertly Selected Options for an Optimal Gaming Rig</u></a></li>
-<li><a href="https://win-answers.techidaily.com/update-brings-end-to-crusader-kings-3-crashes-on-personal-computers/"><u>Update Brings End to Crusader Kings 3 Crashes on Personal Computers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/urgent-security-alert-amds-sinkrate-flaw-compromises-global-processor-units-and-facilitates-data-breaches-immediate-fixes-underway-with-additional-measures-13/"><u>Urgent Security Alert: AMD's Sinkrate Flaw Compromises Global Processor Units & Facilitates Data Breaches – Immediate Fixes Underway with Additional Measures Coming</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-sleeper-strikers-top-10-undetected-fb-memes/"><u>[New] 2024 Approved Sleeper Strikers Top 10 Undetected FB Memes</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-mastering-video-best-practices-in-game-recording-and-streaming/"><u>[New] In 2024, Mastering Video Best Practices in Game Recording & Streaming</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/5-solutions-for-honor-magic5-ultimate-unlock-without-password-by-drfone-android/"><u>5 Solutions For Honor Magic5 Ultimate Unlock Without Password</u></a></li>
+<li><a href="https://win-answers.techidaily.com/accelerate-chrome-performance-with-easy-tricks/"><u>Accelerate Chrome Performance with Easy Tricks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/eliminating-continuous-crashes-expert-solutions-for-stable-blender-performance-on-your-computer/"><u>Eliminating Continuous Crashes: Expert Solutions for Stable Blender Performance on Your Computer</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Samsung Galaxy A23 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-choosing-androids-favorite-freepaid-video-tile-tools-8-ranked/"><u>In 2024, Choosing Android's Favorite Free/Paid Video Tile Tools #8 Ranked</u></a></li>
+<li><a href="https://win-answers.techidaily.com/navigating-and-resolving-fatal-issues-within-the-unreal-engine-for-tales-of-arise/"><u>Navigating and Resolving Fatal Issues Within the Unreal Engine for 'Tales of Arise'</u></a></li>
+<li><a href="https://win-answers.techidaily.com/speedy-solutions-unstick-your-shader-tweaks-in-star-wars-battlefront-ii/"><u>Speedy Solutions: Unstick Your Shader Tweaks in Star Wars Battlefront II</u></a></li>
 </ul></div>
 

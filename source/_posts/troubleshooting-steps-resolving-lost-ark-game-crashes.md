@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Steps: Resolving 'Lost Ark' Game Crashes"
-date: 2025-01-04T19:34:06.770Z
-updated: 2025-01-06T00:00:31.970Z
+date: 2025-01-05T19:01:20.077Z
+updated: 2025-01-12T19:16:41.623Z
 tags:
   - win11
   - win10
@@ -48,13 +48,13 @@ Recently we have seen a lot of Gears 5 players reporting that**Gears Of War cras
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-285.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -63,6 +63,10 @@ Recently we have seen a lot of Gears 5 players reporting that**Gears Of War cras
 5) Launch Gears of War and check to see if the crash problem is resolved. If yes, then congrats and enjoy the game! If the issue remains, please move on to **Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: **Disable gaming overlay**
 
@@ -75,12 +79,16 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-132.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) In **Game bar** , toggle **off** the switch for **Record game clips, screenshots,broadcast using Game bar** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-136.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click Captures, then toggle **off** the switch for **Record in the background while I’m playing a game** .
 
@@ -98,10 +106,6 @@ Here is how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3:   **Reset the Microsoft Store cache**
 
  Overtime, Windows caches downloads made through Windows Store. This can take up a lot of space and cause problems when downloads come to a halt. So you can reset the Microsoft Store cache to fix problems like this and see if it solves the Gear 5 crashes issue.
@@ -111,7 +115,7 @@ Here is how to reset the Microsoft Store cache:
  1) On your keyboard, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and type **R** at the same time, then type **wsreset.exe** and press **Enter** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-127.png)
@@ -120,16 +124,12 @@ Here is how to reset the Microsoft Store cache:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-128.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Once completed, Windows Store will pop open.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-129-1024x796.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
@@ -153,7 +153,7 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-140.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Wait for the system to check online for available updates for the game.
@@ -208,24 +208,24 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-recollection-runway-your-easy-path-to-story-archives/"><u>[New] 2024 Approved Recollection Runway Your Easy Path to Story Archives</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-stability-essentials-for-online-videography/"><u>[New] 2024 Approved Stability Essentials for Online Videography</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-designing-your-digital-persona-for-the-metaverse-for-2024/"><u>[New] Designing Your Digital Persona for the Metaverse for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-funniest-punchlines-reddit-vs-twitter-memes/"><u>[New] Funniest Punchlines Reddit Vs. Twitter Memes</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-dynamic-imagery-illustrator-motion-blur-techniques/"><u>[New] In 2024, Dynamic Imagery Illustrator Motion Blur Techniques</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solved-assassins-creed-valhalla-keeps-crashing-on-pc/"><u>[SOLVED] Assassin's Creed: Valhalla Keeps Crashing on PC</u></a></li>
-<li><a href="https://win-community.techidaily.com/a-step-by-step-guide-identifying-and-resolving-computer-hardware-issues-with-insights-from-yl-software/"><u>A Step-by-Step Guide: Identifying & Resolving Computer Hardware Issues with Insights From YL Software</u></a></li>
-<li><a href="https://win-answers.techidaily.com/escalate-unresolved-issues-or-escalated-concerns-promptly-and-effectively-using-the-appropriate-internal-channels-within-our-organization-eg-technical-suppo394/"><u>Escalate Unresolved Issues or Escalated Concerns Promptly and Effectively Using the Appropriate Internal Channels Within Our Organization (E.g., Technical Support Team, Management).</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723013840537-farewell-to-frustration-hitman-3s-previous-pc-launch-issues-now-defeated/"><u>Farewell to Frustration: Hitman 3'S Previous PC Launch Issues Now Defeated</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-broken-taskbar-on-your-windows-11-pc/"><u>Fixing the Broken Taskbar on Your Windows 11 PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-successfully-tackle-rainbow-six-siege-server-connection-glitches/"><u>How to Successfully Tackle Rainbow Six Siege Server Connection Glitches</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-how-to-create-cinematic-look-video-with-final-cut-pro-x/"><u>In 2024, How to Create Cinematic Look Video with Final Cut Pro X</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-the-palworld-search-session-error-proven-techniques-for-a-smoother-experience/"><u>Solving the 'Palworld Search Session Error': Proven Techniques for a Smoother Experience</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/step-by-step-guide-unlocking-the-power-of-mirallis-action/"><u>Step-by-Step Guide: Unlocking the Power of Mirallis Action!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-repair-for-microsoft-edges-msedgeexe-application-faults/"><u>Step-by-Step Repair for Microsoft Edge's msedge.exe Application Faults</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-preventing-game-crashes-in-final-fantasy-xv-on-windows/"><u>Troubleshooting Steps for Preventing Game Crashes in Final Fantasy XV on Windows</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-effective-strategies-for-winword-exe-mishaps/"><u>Troubleshooting Tips: Effective Strategies for WINWORD EXE Mishaps</u></a></li>
-<li><a href="https://solve-news.techidaily.com/ultimate-guide-to-swiftly-transferring-your-iphone-content-onto-a-pc-discover-7-effective-techniques/"><u>Ultimate Guide to Swiftly Transferring Your iPhone Content Onto a PC - Discover 7 Effective Techniques</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-bring-your-ideas-to-life-top-online-stop-motion-tools/"><u>Updated Bring Your Ideas to Life Top Online Stop Motion Tools</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-innovative-titling-techniques-to-explore/"><u>[New] 2024 Approved Innovative Titling Techniques to Explore</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-time-traveling-through-history-students-top-youtubes-to-watch/"><u>[New] 2024 Approved Time Traveling Through History Students' Top YouTubes To Watch</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-leading-the-pack-10-crucial-apps-for-insta-video-marketers/"><u>[New] In 2024, Leading the Pack 10 Crucial Apps for Insta Video Marketers</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-streamlining-your-video-creation-ootd-on-a-mac/"><u>[New] In 2024, Streamlining Your Video Creation OOTD on a Mac</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-ascending-with-expertise-mastering-the-art-and-science-of-asmr-production/"><u>[Updated] 2024 Approved Ascending with Expertise Mastering The Art & Science of ASMR Production</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-quick-guide-to-planning-google-meet-sessions/"><u>[Updated] 2024 Approved Quick Guide to Planning Google Meet Sessions</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/comprehensive-guide-to-the-lg-k92-beyond-the-hype-of-5g-technology/"><u>Comprehensive Guide to the LG K92: Beyond The Hype of 5G Technology</u></a></li>
+<li><a href="https://win-answers.techidaily.com/conquer-the-battlefield-expert-advice-on-resolving-dota-2-latency-problems/"><u>Conquer the Battlefield: Expert Advice on Resolving Dota 2 Latency Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cyberpunk-2077s-episode-2024-glitches-unraveling-the-mystery/"><u>Cyberpunk 2077'S Episode 2024 Glitches: Unraveling the Mystery</u></a></li>
+<li><a href="https://win-answers.techidaily.com/directx-compatibility-fixes-for-a-smooth-call-of-duty-modern-warfare-eb-gameplay-experience/"><u>DirectX Compatibility Fixes for a Smooth Call of Duty: Modern Warfare Eb Gameplay Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effortless-ways-to-correct-winwordexe-application-problems/"><u>Effortless Ways to Correct WINWORD.EXE Application Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-issue-how-to-stop-battlefront-ii-from-crashing-on-your-windows-machine/"><u>Fixing the Issue: How to Stop Battlefront II From Crashing on Your Windows Machine</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-no-watermark-video-merger-software-top-7-picks-for-2024/"><u>New No-Watermark Video Merger Software Top 7 Picks for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/phasmophobias-latest-fault-fixes-a-comprehensive-guide-for-the-new-year/"><u>Phasmophobia's Latest Fault Fixes - A Comprehensive Guide for the New Year</u></a></li>
+<li><a href="https://win-answers.techidaily.com/slash-your-computers-memory-load-with-these-chrome-optimization-tricks/"><u>Slash Your Computer's Memory Load with These Chrome Optimization Tricks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/tailored-ai-solutions-our-top-5-prompt-generator-lists/"><u>Tailored AI Solutions: Our Top 5 Prompt Generator Lists</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-vive-cosmos-unveiled-top-tier-virtual-reality-headset-with-tough-contenders/"><u>The Vive Cosmos Unveiled: Top-Tier Virtual Reality Headset with Tough Contenders</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-fixing-windows-11-error-0xc19001e1/"><u>Troubleshooting Guide: Fixing Windows 11 Error 0xC19001E1</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-how-to-solve-palworlds-eos-login-issues/"><u>Troubleshooting Steps: How to Solve Palworld's EOS Login Issues</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Keep Stardee's Quest Going Smoothly - Eliminating Crashes on Desktop
-date: 2024-12-30T02:13:37.238Z
-updated: 2025-01-05T20:35:07.241Z
+date: 2025-01-08T19:10:00.452Z
+updated: 2025-01-12T18:30:31.973Z
 tags:
   - win11
   - win10
@@ -36,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/a23ef58f3369824904efee9f97817b15b093c9dc4
 6. [**Disconnect and reconnect your Internet**](https://tools.techidaily.com/drivereasy/download/)
 7. [**Uninstall and reinstall Chrome**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your graphics card driver
 
  If your graphics card driver is corrupted after Windows 10 updates, it may stop Chrome from working properly. To better troubleshoot the problem, you should update your graphics card driver.
@@ -56,17 +60,13 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebeaa6e3f18.jpg)
 4. Restart your computer and check if Chrome now works properly.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Run System File Checker
@@ -77,18 +77,18 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebf26b5a09e.png)
 2. From the results, right-click**Command Prompt** , and select**Run as administrator** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebf2dea44e4.jpg)
 3. At Command Prompt, type **sfc /scannow** and press**Enter** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebf301acd5c.jpg)
 4. It should begin running a system scan, and will take some time. When it finishes, restart your computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Launch Chrome and check if the freezing issue is solved. If not, try Fix 3, below.
@@ -103,10 +103,6 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd67382c1b.jpg)
 2. From the**Basic** tab, set the**Time range** to**All time** , and select all the checkboxes below.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd6c593c29.jpg)
 3. From the**Advanced** tab, set the**Time range** to**All time** . Select **Browsing history** ,**Cookies and other site data** ,**Cache images and files** .  
 
@@ -116,10 +112,14 @@ OR
 5. When the data is cleared, type**chrome://restart** in the URL bar then press**Enter** to restart Chrome and check if the problem is resolved. If not, try Fix 4, below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd79e829e0.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Disable your extensions
@@ -135,6 +135,10 @@ OR
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Reset Chrome settings to default
 
  If Chrome conflicts with some other program on your computer, it may also cause Chrome to freeze. You can reset Chrome to its default settings to better troubleshoot the problem.
@@ -147,15 +151,11 @@ OR
 3. Under**Reset and cleanup** , click**Reset settings to their original defaults** \>**Reset Settings** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd8ccdaa7a.jpg)
 4. Relaunch Chrome and check. If the problem still exists, try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -197,17 +197,22 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-add-mp3-elements-to-ppt-display-panels/"><u>2024 Approved Add MP3 Elements to PPT Display Panels</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-masterpiece-models-best-of-the-computer-world/"><u>2024 Approved Masterpiece Models Best of the Computer World</u></a></li>
-<li><a href="https://win-forum.techidaily.com/discover-how-revouninstaller-pro-5-reinvents-efficient-software-management/"><u>Discover How RevoUninstaller Pro 5 Reinvents Efficient Software Management</u></a></li>
-<li><a href="https://win-answers.techidaily.com/essential-tips-for-getting-your-corsair-icue-up-and-running-in-windows-1011/"><u>Essential Tips for Getting Your Corsair iCUE Up and Running in Windows 10/11</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-xiaomi-redmi-note-12-proplus-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Xiaomi Redmi Note 12 Pro+ 5G to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-digital-photo-albums-acoustic-advancement/"><u>In 2024, Digital Photo Albums Acoustic Advancement</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-video-invitation-design-made-easy-top-apps-for-iphone-and-android/"><u>In 2024, Video Invitation Design Made Easy Top Apps for iPhone and Android</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/navigating-the-nuances-of-professional-voice-over-workflow/"><u>Navigating the Nuances of Professional Voice Over Workflow</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-the-warframe-not-launching-dilemma-a-step-by-step-guide/"><u>Solving the 'Warframe Not Launching' Dilemma - A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722985994652-stop-league-of-legends-crashing-effortless-troubleshooting-steps-inside/"><u>Stop League of Legends Crashing - Effortless Troubleshooting Steps Inside</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-walkthrough-for-safe-browsing-on-google-gemini/"><u>The Ultimate Walkthrough for Safe Browsing on Google Gemini</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-fix-for-call-of-duty-warzone-dealing-with-developer-bug-6634/"><u>Ultimate Fix for Call of Duty Warzone - Dealing with Developer Bug 6634</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-adhering-to-twitters-video-dimension-standards/"><u>[New] Adhering to Twitter's Video Dimension Standards</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-logo-magic-sprucing-up-your-podcasts-visual-appeal/"><u>2024 Approved Logo Magic Sprucing Up Your Podcast's Visual Appeal</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/beijings-frost-touched-games-highlights-from-2022/"><u>Beijing's Frost-Touched Games, Highlights From 2022</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722992956935-defeat-the-glitch-mastering-ring-of-elysiums-crash-problems-solutions-inside/"><u>Defeat the Glitch: Mastering Ring of Elysium's Crash Problems – Solutions Inside!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723006936152-end-the-crashing-problems-of-ghost-recon-breakpoint-fast-and-reliable-fixes-inside/"><u>End the Crashing Problems of Ghost Recon Breakpoint - Fast and Reliable Fixes Inside</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/expert-tips-on-protecting-your-mysql-database-free-backup-tools-and-strategies/"><u>Expert Tips on Protecting Your MySQL Database - Free Backup Tools & Strategies</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-and-improve-your-utorrent-download-speeds-a-comprehensive-guide/"><u>How to Fix & Improve Your uTorrent Download Speeds: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-resolve-performance-issues-with-the-2022-spotify-web-platform/"><u>How to Resolve Performance Issues with the 2022 Spotify Web Platform</u></a></li>
+<li><a href="https://win-answers.techidaily.com/improved-performance-alert-dying-light-2-overcomes-freezing-and-low-fps-problems-in-latest-patch-pc/"><u>Improved Performance Alert! Dying Light 2 Overcomes Freezing and Low FPS Problems in Latest Patch (PC)</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On ZTE Axon 40 Lite? | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-maximizing-game-capture-with-bandicam-essentials-for-the-year-2023/"><u>In 2024, Maximizing Game Capture with Bandicam - Essentials for the Year 2023</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723012847712-lost-arc-adventure-stuck-at-the-doorstep-heres-how-to-fix-it/"><u>Lost Arc Adventure Stuck at the Doorstep? Here's How to Fix It</u></a></li>
+<li><a href="https://win-answers.techidaily.com/minecraft-successfully-establishing-a-link-with-the-game-world-after-connection-failures/"><u>Minecraft: Successfully Establishing a Link with the Game World After Connection Failures</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-windows-app-problems-handling-libgdkwin3n2-20dll-not-found-error-effectively/"><u>Resolving Windows App Problems: Handling libgdk_win3n2-2.0.dll Not Found Error Effectively</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-to-resolve-star-wars-jedi-fallen-order-failed-launch-issue/"><u>Troubleshooting Steps to Resolve 'Star Wars Jedi: Fallen Order' Failed Launch Issue</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-best-celebrity-voice-generator-tools-you-cannot-miss/"><u>Updated 2024 Approved Best Celebrity Voice Generator Tools You Cannot Miss</u></a></li>
 </ul></div>
 

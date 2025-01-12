@@ -1,7 +1,7 @@
 ---
 title: "Expert Guide: Preventing Persistent Breakdowns in the Latest Formula 1 Racing Title on Desktop Systems"
-date: 2025-01-01T04:02:38.191Z
-updated: 2025-01-05T20:19:27.267Z
+date: 2025-01-05T17:40:10.390Z
+updated: 2025-01-12T19:01:59.239Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ Recently, we’ve seen many players reporting that**Dirt 5 keeps crashing** on t
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You don’t have to try them all, Just work your way through the list until you find the one that does the trick for you.
@@ -38,6 +34,10 @@ Recently, we’ve seen many players reporting that**Dirt 5 keeps crashing** on t
 4. **[Disable Steam overlay](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Set launch options on Steam](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Stop overclocking](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 1: Update your graphics driver
 
@@ -58,15 +58,15 @@ The outdated or broken graphics driver often crashes the game.
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click the **Update** button next to a device to automatically download the correct version of their driver, then you can manually install the driver (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 4. Restart your PC after you finished updating your graphics driver.
 
  See if the latest graphics driver stops the Dirt 5 from crashing. If not, don’t worry. Try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Verify the game files
 
@@ -76,13 +76,17 @@ The outdated or broken graphics driver often crashes the game.
 ![Steam->properties](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
 2. Click **the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![LOCAL FILES>VERIFY INTEGRITY OF GAME CACHE...](https://images.drivereasy.com/wp-content/uploads/2019/04/image-120.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  It may take some time to finish verifying the game files. Launch the game after the verifying process completed to see if this fix works. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Install the latest game patch
 
@@ -101,16 +105,12 @@ The outdated or broken graphics driver often crashes the game.
 2. Uncheck**Enable Steam Overlay while in-game** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Disable Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-Steam-Overlay.jpg)
 
  Launch Dirt 5 to see if the game crashes. If the issue persists, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 5: Set launch options on Steam
 
@@ -155,22 +155,19 @@ The outdated or broken graphics driver often crashes the game.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-exclusive-free-player-list-for-windowsmac-users-for-2024/"><u>[New] Exclusive Free Player List for Windows/Mac Users for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-how-to-craft-nfts-with-minimal-exertion/"><u>[New] How to Craft NFTs with Minimal Exertion</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-flight-in-depth-analysis-of-dji-phantom-4/"><u>2024 Approved Unveiling Flight In-Depth Analysis of DJI Phantom 4</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/3-ways-to-erase-apple-iphone-12-pro-max-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>3 Ways to Erase Apple iPhone 12 Pro Max When Its Locked Within Seconds | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/achieve-a-fresh-start-download-windows-11-without-cost/"><u>Achieve a Fresh Start: Download Windows 11 Without Cost</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1725285185722-dvd/"><u>DVDコピー技術の最新情報: デジアーティ公式ブログで学ぶ</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effortless-guide-refresh-your-windows-11-applications-with-ease/"><u>Effortless Guide: Refresh Your Windows 11 Applications with Ease</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Vivo S18 | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-microsoft-excel-a-comprehensive-guide-on-utilizing-and-understanding-the-outlier-feature/"><u>Mastering Microsoft Excel: A Comprehensive Guide on Utilizing and Understanding the Outlier Feature</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-picture-cropping-techniques-in-microsoft-office-2010-programs/"><u>Mastering Picture Cropping Techniques in Microsoft Office 2010 Programs</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-crafting-interdependent-combo-box-selections-within-ms-excel/"><u>Step-by-Step Guide: Crafting Interdependent Combo Box Selections Within MS Excel</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-efficiently-duplicating-formulas-across-cells-in-ms-excel/"><u>Step-by-Step Guide: Efficiently Duplicating Formulas Across Cells in MS Excel</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-eliminating-drop-down-menus-from-your-microsoft-excel-spreadsheet/"><u>Step-by-Step Guide: Eliminating Drop-Down Menus From Your Microsoft Excel Spreadsheet</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/stepwise-guide-to-convert-vimeo-media-to-mp3/"><u>Stepwise Guide to Convert Vimeo Media to MP3</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-prime-selection-superior-ai-driven-note-applications/"><u>The Prime Selection: Superior AI-Driven Note Applications</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-efficient-value-organization-techniques-in-ms-excel/"><u>Ultimate Guide: Efficient Value Organization Techniques in MS Excel</u></a></li>
-<li><a href="https://driver-error.techidaily.com/win10-disables-external-graphics-access/"><u>Win10 Disables External Graphics Access</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-audience-hooks-writing-captivating-podcast-descriptions/"><u>[Updated] 2024 Approved Audience Hooks Writing Captivating Podcast Descriptions</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-secrets-to-successful-vocal-sessions-for-video-content/"><u>[Updated] 2024 Approved Secrets to Successful Vocal Sessions for Video Content</u></a></li>
+<li><a href="https://win-answers.techidaily.com/destiny-2-launch-issues-on-pc-how-to-fix-and-get-back-in-action/"><u>Destiny 2 Launch Issues on PC: How to Fix and Get Back in Action</u></a></li>
+<li><a href="https://extra-information.techidaily.com/how-to-maintain-a-seamless-video-experience-by-removing-stickers/"><u>How to Maintain a Seamless Video Experience by Removing Stickers</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-from-your-iphone-8-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID From Your iPhone 8</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723012350331-imbalances-can-lead-to-soil-depletion-or-pest-outbreaks-a-balanced-ecosystem-promotes-healthy-crops-and-resilience-against-diseases/"><u>Imbalances Can Lead to Soil Depletion or Pest Outbreaks; a Balanced Ecosystem Promotes Healthy Crops and Resilience Against Diseases.</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-mini-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 13 mini without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-boundaries-of-gpt-chat-publicity/"><u>Navigating the Boundaries of GPT-Chat Publicity</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-gaming-troubleshooting-how-to-eliminate-the-v-runtime-lags-and-stutters/"><u>PC Gaming Troubleshooting: How to Eliminate the 'V' Runtime Lags & Stutters</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-overcoming-persistent-glitches-with-pc-version-of-gas-station-simulator/"><u>Resolved! Overcoming Persistent Glitches with PC Version of Gas Station Simulator</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/streamline-your-hotel-or-dorm-room-experience-with-roku-connectivity/"><u>Streamline Your Hotel or Dorm Room Experience with Roku Connectivity</u></a></li>
+<li><a href="https://win-help.techidaily.com/tres-metodos-simples-para-configurar-un-disco-duro-externo-de-arranque-en-windows-guia-paso-a-paso/"><u>Tres Métodos Simples Para Configurar Un Disco Duro Externo De Arranque en Windows: Guía Paso a Paso</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-crusader-kings-iii-pc-malfunction-solutions/"><u>Troubleshooting Guide: Crusader Kings III PC Malfunction Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-solving-the-black-screen-issue-in-league-of-legends/"><u>Ultimate Guide: Solving the Black Screen Issue in League of Legends</u></a></li>
 </ul></div>
 

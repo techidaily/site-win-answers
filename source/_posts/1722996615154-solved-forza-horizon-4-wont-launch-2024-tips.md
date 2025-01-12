@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Forza Horizon 4 Won’t Launch | 2024 Tips"
-date: 2025-01-03T01:50:10.047Z
-updated: 2025-01-06T03:32:20.855Z
+date: 2025-01-09T16:23:37.623Z
+updated: 2025-01-12T17:43:52.909Z
 tags:
   - win11
   - win10
@@ -77,9 +77,17 @@ Having trouble launching_Forza Horizon 4_ on your PC? You’re not alone! Many p
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_14-49-07.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_14-49-12.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -89,10 +97,6 @@ Having trouble launching_Forza Horizon 4_ on your PC? You’re not alone! Many p
 **4)** Try restarting your game to test your issue.
 
 If your issue persists, then move on and try the fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Disable ReadyBoost
 
@@ -105,24 +109,28 @@ If your issue persists, then move on and try the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_15-58-21-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Right-click your**USB’s name** and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_16-00-27.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click the**ReadyBoost tab** , then select**Do not use this device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_16-19-03.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Click**Apply > OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_16-19-03-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)** Disconnect**all USB devices** you don’t need from your PC.
 
@@ -147,7 +155,7 @@ Here is how to check and close programs you’re running:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_16-52-29.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Check your current **CPU and memory usage** to see what processes are consuming your resources most.
@@ -160,13 +168,13 @@ Here is how to check and close programs you’re running:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_16-52-42.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)** Try launching your game to test your issue.
 
 If your issue continues to occur, move on and try the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Check for Windows updates
 
@@ -184,10 +192,6 @@ If your issue continues to occur, move on and try the fix below.
 
 If your issue persists, move on to the fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 6: Reinstalling your game
 
 _Forza Horizon 4_ launching issues could happen when the game is not properly installed on your PC, or certain game files are corrupted or missing. In this case, reinstalling your game is very likely the solution to your issue:
@@ -195,10 +199,6 @@ _Forza Horizon 4_ launching issues could happen when the game is not properly in
 **1)** On your keyboard, press the**Windows logo key** and type**Forza Horizon 4** . Then, right-click**Forza Horizon 4** and select**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_16-54-16.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **2)** Click**Uninstall** .
 
@@ -229,15 +229,20 @@ _Forza Horizon 4_ launching issues could happen when the game is not properly in
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-comparing-video-tools-bandicam-and-camtasia-explored/"><u>[New] In 2024, Comparing Video Tools Bandicam & Camtasia Explored</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-mastering-ad-avoidance-stopping-fb-video-promos-for-2024/"><u>[New] Mastering Ad Avoidance Stopping FB Video Promos for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/dmmand2024/"><u>DMM動画のダウンロード&記録保存手順2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-realme-narzo-60-pro-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Realme Narzo 60 Pro 5G Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/navigating-through-double-fps-slumps-in-pc-gaming-a-comprehensive-guide-to-solutions/"><u>Navigating Through Double FPS Slumps in PC Gaming: A Comprehensive Guide to Solutions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/optimizing-your-jurassic-world-evolution-experience-overcoming-freezing-problems/"><u>Optimizing Your Jurassic World Evolution Experience: Overcoming Freezing Problems</u></a></li>
-<li><a href="https://games-able.techidaily.com/stepwise-process-for-clearing-out-ps5-user-info/"><u>Stepwise Process for Clearing Out PS5 User Info</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-performance-evaluation-linksys-wrt3200acm-leading-open-source-wifi-router/"><u>Top Performance Evaluation: Linksys WRT3200ACM - Leading Open-Source WiFi Router</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-resolve-your-nwstoreexe-system-issue-quickly/"><u>Troubleshooting Guide: Resolve Your nw_store.exe System Issue Quickly</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-resolving-issues-when-trying-to-start-the-witcher-3-wild-hunt/"><u>Troubleshooting Tips: Resolving Issues When Trying To Start The Witcher 3: Wild Hunt</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-free-video-credits-expertise-top-6-maker-guide/"><u>[New] 2024 Approved Free Video Credits Expertise - Top 6 Maker Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-top-notch-game-capture-applications-outshining-fbx-capabilities/"><u>[New] 2024 Approved Top-Notch Game Capture Applications Outshining FBX Capabilities</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-prime-venues-for-vr-entertainment/"><u>2024 Approved Prime Venues for VR Entertainment</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/achieving-health-goals-with-the-fitbit-versa-lite-an-insightful-product-review/"><u>Achieving Health Goals with the Fitbit Versa Lite: An Insightful Product Review</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/audio-recorder-performance-assessment/"><u>Audio Recorder Performance Assessment</u></a></li>
+<li><a href="https://win-answers.techidaily.com/eliminate-latency-woes-proven-techniques-for-optimal-performance-in-chivalry-2-new-age-solutions-2/"><u>Eliminate Latency Woes: Proven Techniques for Optimal Performance in Chivalry 2 (New-Age Solutions - 2</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-problems-when-your-pc-performance-tool-isnt-responding-correctly/"><u>Fixing Problems When Your PC Performance Tool Isn’t Responding Correctly</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-itel-p40-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Itel P40 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/improving-fps-lag-issues-for-a-smoother-outriders-journey/"><u>Improving FPS Lag Issues for a Smoother Outriders Journey</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimizing-your-pc-to-overcome-v-risings-gameplay-hiccups/"><u>Optimizing Your PC to Overcome V-Rising's Gameplay Hiccups</u></a></li>
+<li><a href="https://win-answers.techidaily.com/smooth-gaming-experience-restored-solving-sifus-pc-stutters-and-fps-issues/"><u>Smooth Gaming Experience Restored: Solving Sifu's PC Stutters & FPS Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solve-your-cant-open-discord-problem-with-these-easy-fixes/"><u>Solve Your 'Can't Open Discord' Problem with These Easy Fixes</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/songbookdb-advanced-digital-dj-notebook-and-guide-expert-insights/"><u>SongBookDB - Advanced Digital DJ Notebook & Guide | Expert Insights</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/streamlining-audio-dynamics-a-comprehensive-approach-to-volume-normalization-with-vlc-for-2024/"><u>Streamlining Audio Dynamics A Comprehensive Approach to Volume Normalization with VLC for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-r-type-final-2-for-pc-step-by-step-guide-to-stop-crashes/"><u>Troubleshooting R-Type Final 2 for PC: Step-by-Step Guide to Stop Crashes</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Overcoming Lag in 'The Elder Scrolls Online' - Blackwood Edition"
-date: 2024-08-13T12:18:18.328Z
-updated: 2024-08-14T12:18:18.328Z
+date: 2025-01-08T16:30:01.057Z
+updated: 2025-01-12T19:28:31.561Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/8b7337516e3ab4c7de40944c48ebe243474ab75d4
 
  While you’re browsing the Internet on your computer, your system starts freezing for a few seconds, then resumes normally and then again freezes. When you open Task Manager, it shows Google Chrome using a high percentage of your CPU. You may wonder how come Chrome is eating so much of your CPU — there’re many possible causes for Chrome high CPU usage, but there are also many possible solutions…
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  Here are 5 solutions that have helped many other users fix their Chrome high CPU usage problem. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -32,9 +29,6 @@ thumbnail: https://thmb.techidaily.com/8b7337516e3ab4c7de40944c48ebe243474ab75d4
 4. **[Update your device drivers](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Uninstall Chrome, delete its installation folder and reinstall Chrome](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Free up drive space
 
  If your C: drive is less than 2 GB, freeing space would help drop the CPU usage. As soon as the free space is more than 2 GB, you’ll see the difference. Click to learn[how to free up drive space](https://tools.techidaily.com/drivereasy/download/) .  
@@ -44,44 +38,45 @@ thumbnail: https://thmb.techidaily.com/8b7337516e3ab4c7de40944c48ebe243474ab75d4
 1. Open Chrome, and then press**Ctrl + Shift + Del** on your keyboard.
 2. From the**Basic** tab, set the**Time range** to**All time** , and select all the checkboxes below.![](https://www.drivereasy.com/wp-content/uploads/2018/11/chrome-Clear-cache1.jpg)
 3. From the**Advanced** tab, set the**Time range** to**All time** . Select the types of information you want to remove. Make sure **Cookies and other site data** ,**Cache images and files** are selected.![](https://www.drivereasy.com/wp-content/uploads/2018/11/chrome-Clear-cache-2.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Click**Clear data** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. When the data is cleared, type**chrome://restart** in the URL bar then press**Enter** to restart Chrome.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd79e829e0.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Check if the problem is resolved. If not, try Solution 2, below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ### Fix 2: Disable unnecessary extensions
 
  Chrome extensions are also known to cause Chrome high system resource usage, such as 100% CPU, memory or disk usage. If you’ve installed a number of Chrome extensions, they may be the culprit for Chrome high CPU usage. We recommend disabling or deleting them one by one. Then restart Chrome and see if Chrome high CPU usage is fixed.
 
 1. Type`**chrome://extensions**` in the URL bar and press**Enter** to open the Chrome extension manager, where Chrome extensions are installed.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bece0cbe3af4.png)
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. **Toggle off** all extensions to disable them.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2018/11/chrome-extension.jpg)
 3. Restart Chrome and test if the issue is fixed. If not, move on to Solution 3, below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Reset Chrome settings to default
 
  Resetting Chrome to its default settings is another useful solution to Chrome high CPU usage. This rules out all man-made causes. You can follow these steps to reset Chrome settings to default:
@@ -94,11 +89,12 @@ Check if the problem is resolved. If not, try Solution 2, below.
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/chrome-reset3.jpg)
 4. Relaunch Chrome and test. If the problem still exists, try Solution 4, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Update your device drivers
 
  If the steps above didn’t resolve your Chrome high CPU usage problem, it’s most likely caused by a device driver. You can update all your device drivers to the latest version to help fix the problem.
@@ -112,11 +108,12 @@ Check if the problem is resolved. If not, try Solution 2, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bec022d24e36.jpg)
 4. Restart your computer and check if Chrome high CPU usage is resolved. If not, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Solution 5, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Uninstall Chrome, delete its installation folder and reinstall Chrome
 
  If none of the above worked for you, reinstalling Chrome is also worth a try.
@@ -140,8 +137,6 @@ Check if the problem is resolved. If not, try Solution 2, below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -149,4 +144,26 @@ Check if the problem is resolved. If not, try Solution 2, below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-visualizing-stories-turning-your-favorite-vimeo-into-dynamic-gifs-for-2024/"><u>[New] Visualizing Stories Turning Your Favorite Vimeo Into Dynamic GIFs for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-leveraging-pip-for-multitasking-in-edge-browser/"><u>[Updated] 2024 Approved Leveraging PIP for Multitasking in Edge Browser</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-unlocking-the-top-5-virtual-title-designers/"><u>[Updated] 2024 Approved Unlocking the Top 5 Virtual Title Designers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-audio-perfection-achieved-expert-tips-without-a-microphone/"><u>[Updated] In 2024, Audio Perfection Achieved Expert Tips Without a Microphone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-prime-maker-of-free-fb-photovideo-content/"><u>2024 Approved Prime Maker of FREE FB Photo/Video Content</u></a></li>
+<li><a href="https://win-answers.techidaily.com/conquer-guilty-gear-strive-glitches-proven-solutions-to-prevent-pc-game-disruptions/"><u>Conquer Guilty Gear Strive Glitches: Proven Solutions to Prevent PC Game Disruptions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-to-overcome-guilty-gear-strike-eternal-crashing-problems-on-your-laptop/"><u>Expert Advice to Overcome Guilty Gear Strike Eternal Crashing Problems on Your Laptop</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-use-luts-in-photoshop-cc/"><u>In 2024, How to Use LUTs in PhotoShop CC</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-tecno-pop-8-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Tecno Pop 8? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/july-2024-exclusive-apple-discounts-find-the-best-deals-for-iphones-apple-watches-and-ipads-with-our-in-depth-analysis-zdnet/"><u>July 2024 Exclusive Apple Discounts: Find the Best Deals for iPhones, Apple Watches & iPads with Our In-Depth Analysis | ZDNet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-gameplay-interruptions-eliminating-stutters-and-glitches-in-pcs-fall-guys/"><u>Overcome Gameplay Interruptions: Eliminating Stutters and Glitches in PC's Fall Guys</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-steams-remote-play-hurdles-expert-guides-for-smooth-streaming-across-devices/"><u>Overcome Steam's Remote Play Hurdles: Expert Guides for Smooth Streaming Across Devices</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-startup-problems-with-humankind-expert-advice-for-gamers/"><u>Overcoming Startup Problems with Humankind - Expert Advice for Gamers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-solutions-resolve-chrome-freezing-issues-on-windows-10/"><u>Quick Solutions: Resolve Chrome Freezing Issues on Windows 10</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-critical-dev-errors-in-call-of-duty-modern-warfare-and-warzone/"><u>Resolving Critical Dev Errors in Call of Duty: Modern Warfare and Warzone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/steam-connections-mended-reconnect-with-friends-seamlessly/"><u>Steam Connections Mended: Reconnect with Friends Seamlessly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-resolving-minecraft-launch-issues/"><u>Troubleshooting Guide: Resolving Minecraft Launch Issues</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/tunefab-screen-recorder-review-for-2024/"><u>Tunefab Screen Recorder Review for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/video-editing-smackdown-adobe-premiere-pro-takes-on-after-effects/"><u>Video Editing Smackdown Adobe Premiere Pro Takes on After Effects</u></a></li>
+</ul></div>
 

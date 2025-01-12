@@ -1,7 +1,7 @@
 ---
 title: Effortless Remedies to Stop World of Warcraft From Freezing or Crashing
-date: 2025-01-02T19:09:38.119Z
-updated: 2025-01-06T03:41:32.910Z
+date: 2025-01-10T19:00:34.651Z
+updated: 2025-01-12T19:23:25.242Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/a874c93816ae423dda167fa7dc747b04dfff15b3d
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Fix WOW crashing?
 
  Here are some solutions that have helped people resolve the same problem. You don’t need to try them all; just work your way down the list until your game works again.
@@ -37,15 +41,15 @@ thumbnail: https://thmb.techidaily.com/a874c93816ae423dda167fa7dc747b04dfff15b3d
 
  Note: the screenshots below come from Windows 10, and fixes apply to Windows 8 and Windows 7.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Install the latest patch
 
  Since many technical problems can be resolved by restarting, it never hurts to restart your computer and your game. Often this will be enough to fix the error.
 
  Game developers always keep releasing patches to improve their games and fix any issues, so you should manually check for updates of your game. Then install the latest patch to keep it up to date. This can fix some issues like WOW crashing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics card driver
 
@@ -70,10 +74,6 @@ thumbnail: https://thmb.techidaily.com/a874c93816ae423dda167fa7dc747b04dfff15b3d
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b351ec11a.jpg)
 4. Restart your computer to take effect.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Open Word of Warcraft and see if the crashing issue has been resolved.
 
  If WOW keeps crashing, don’t worry. There is something else to try.
@@ -87,14 +87,18 @@ Open Word of Warcraft and see if the crashing issue has been resolved.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fa6c02c345.jpg)
 3. Click the**Options** button and select**Scan and Repair** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fa6fe36d60.jpg)
 4. Click**Begin Scan** , and follow the on-screen instructions to finish. It may take a while.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fa7275b199.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Once finish, restart your game and see if it works properly.
 
@@ -110,13 +114,13 @@ Here’s what you can do:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b3940d874.jpg)
 2. You’ll need to log into your Microsoft account if it’s the first time you open it. If that’s the case, enter your Microsoft account to log in.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Click the**Gear** button on the left to open**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b3bdbf4aa.jpg)
 4. Click the**Game DVR** tab, and turn it**off** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b3e5954b9.png)
 5. Restart your computer and open World of Warcraft to see if it stops crashing.
@@ -129,10 +133,6 @@ Here’s what you can do:
 2. Click the**Gaming** section.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fab18ae4d5.jpg)
 3. Click**Game DVR** on the left, and make sure to turn off**Record** **in the background while I’m playing a game** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b4223cc30.jpg)
 4. Restart your computer and launch World of Warcraft and see if it works.
@@ -159,22 +159,22 @@ Here’s what you can do:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-capturing-discords-magic-3-steps-for-ensuring-your-live-stream-stays-alive/"><u>[New] In 2024, Capturing Discord's Magic 3 Steps for Ensuring Your Live Stream Stays Alive</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-unleashing-virtual-reality-the-ultimate-iphone-experience/"><u>[New] Unleashing Virtual Reality The Ultimate IPhone Experience</u></a></li>
-<li><a href="https://win-answers.techidaily.com/addressing-launch-errors-in-amd-catalyst-control-center-expert-tips-and-tricks/"><u>Addressing Launch Errors in AMD Catalyst Control Center: Expert Tips and Tricks</u></a></li>
-<li><a href="https://techtrends.techidaily.com/choosing-an-iphone-for-games-the-best-options-reviewed-and-compared/"><u>Choosing an iPhone for Games: The Best Options Reviewed and Compared</u></a></li>
-<li><a href="https://win-answers.techidaily.com/defeating-the-graphics-glitch-eliminate-errgfxstate-on-your-rdr2-adventure/"><u>Defeating the Graphics Glitch: Eliminate ERR_GFX_STATE on Your RDR2 Adventure</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-the-ultimate-deal-exceptional-magsafe-compatible-wallet-thats-not-from-apple-or-anker-exclusive-zdnet-insight/"><u>Discover the Ultimate Deal: Exceptional MagSafe Compatible Wallet That's Not From Apple or Anker | Exclusive ZDNET Insight</u></a></li>
-<li><a href="https://android-frp.techidaily.com/easy-guide-to-sony-xperia-1-v-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Sony Xperia 1 V FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fix-your-state-of-decay-2-crashes-a-step-by-step-troubleshooting-guide/"><u>Fix Your State of Decay 2 Crashes : A Step-by-Step Troubleshooting Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/full-page-screen-grabs-failing-on-safari-heres-what-you-need-to-know/"><u>Full Page Screen Grabs Failing on Safari? Here's What You Need to Know!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/hassle-free-strategies-to-fix-discord-installation-issues-smoothly/"><u>Hassle-Free Strategies to Fix Discord Installation Issues Smoothly</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-the-outriders-not-starting-issue-on-pc/"><u>How to Fix the 'Outriders Not Starting Issue on PC '</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-screencast-strategies-unleashed-powerful-ideas-inside/"><u>In 2024, Screencast Strategies Unleashed Powerful Ideas Inside</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/macbook-showdown-detailed-comparison-of-macbook-pro-vs-macbook-air-to-find-your-ideal-apple-device/"><u>MacBook Showdown: Detailed Comparison of MacBook Pro Vs. MacBook Air to Find Your Ideal Apple Device</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-solutions-for-when-your-msi-mystic-light-wont-turn-on-in-windows/"><u>Step-by-Step Solutions for When Your MSI Mystic Light Won't Turn On in Windows</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-11-troubleshooting-steps-when-borderlands-e3-refuses-to-load/"><u>Top 11 Troubleshooting Steps When Borderlands E3 Refuses to Load</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-resolving-armored-core-vi-fires-of-rubicon-startup-issues/"><u>Troubleshooting Steps for Resolving 'Armored Core VI: Fires of Rubicon' Startup Issues</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/winxdvd-professionelle-losung-zum-entfernen-von-dvd-schutzmassnahmen-auf-mac-und-windows/"><u>WinXDVD: Professionelle Lösung Zum Entfernen Von DVD-Schutzmaßnahmen Auf Mac Und Windows</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-optimizing-edit-videos-with-m1-powered-macbook-air/"><u>[New] In 2024, Optimizing Edit Videos with M1 Powered MacBook Air</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/outube-thumbnails-top-20-font-selection-tips/"><u>[New] YouTube Thumbnails Top 20 Font Selection Tips</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-understanding-ffpm-in-firefox-today-for-2024/"><u>[Updated] Understanding FFPM in Firefox Today for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-for-dark-screen-glitch-on-discord-while-presenting-remotely-step-by-step-solutions/"><u>Fix for Dark Screen Glitch on Discord While Presenting Remotely: Step-by-Step Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fortnite-crashes-solve-your-video-memory-issues/"><u>Fortnite Crashes? Solve Your Video Memory Issues!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-players-fixing-constant-warzone-20-collapses-in-windows/"><u>How to Stop Players: Fixing Constant Warzone 2.0 Collapses in Windows</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-capture-brilliance-in-canon-photos-with-free-and-premium-luts/"><u>In 2024, Capture Brilliance in Canon Photos with Free and Premium LUTs</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/moments-of-quietude-top-idle-smartphone-games-for-2024/"><u>Moments of Quietude Top Idle Smartphone Games for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-new-horizons-in-business-search-solutions-the-evolution-post-copernic-era/"><u>Navigating New Horizons in Business Search Solutions - The Evolution Post-Copernic Era</u></a></li>
+<li><a href="https://win-answers.techidaily.com/nba-2k21-pc-crashes-heres-how-you-can-solve-the-problem/"><u>NBA 2K21 PC Crashes? Here's How You Can Solve the Problem</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stop-modern-warfare-3-from-crashing-on-your-pc-effective-solutions-and-tips/"><u>Stop Modern Warfare 3 From Crashing on Your PC: Effective Solutions & Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-call-of-duty-black-ops-4-overcoming-latency-spikes-and-decreased-fps/"><u>Troubleshooting Call of Duty: Black Ops 4 - Overcoming Latency Spikes and Decreased FPS</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-cold-war-load-issues-on-pc-and-gaming-consoles/"><u>Troubleshooting Cold War Load Issues on PC and Gaming Consoles</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/vimeos-lifesaver-for-free-video-editors/"><u>Vimeo's Lifesaver for Free Video Editors</u></a></li>
+<li><a href="https://win-answers.techidaily.com/what-if-doom-eternal-wont-launch-ultimate-troubleshooting-guide/"><u>What If DOOM Eternal Won’t Launch? Ultimate Troubleshooting Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Definitive Solution: Combat Pausing Problems & Unfreeze Your Warframe"
-date: 2024-08-13T12:21:28.619Z
-updated: 2024-08-14T12:21:28.619Z
+date: 2025-01-06T19:39:57.939Z
+updated: 2025-01-12T18:29:50.280Z
 tags:
   - win11
   - win10
@@ -20,8 +20,9 @@ Many Fortnite players are reporting that they get the error code 84, therefore t
 **PRO TIP:** To ensure an excellent gaming experience on PC, it’s recommended to keep your device drivers up to date, especially your graphics driver. But if you don’t have the time nor patience to update the driver manually, you can download **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  and let it do all the work for you. (The[**Pro version**](https://tools.techidaily.com/drivereasy/download/) comes with full support and a 30-day money back guarantee.)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. **[Check the status of Epic Games server](https://tools.techidaily.com/drivereasy/download/)**
@@ -31,9 +32,6 @@ Many Fortnite players are reporting that they get the error code 84, therefore t
 5. **[Join friends using the](https://tools.techidaily.com/drivereasy/download/)** [Epic Games list](https://tools.techidaily.com/drivereasy/download/)
 6. [Reinstall the game](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 1\. Check the status of Epic Games server
 
  Sometimes you run into error codes because the servers are down. This can be a temporary situation so you can check the status of servers before you try any of these workarounds below.
@@ -46,8 +44,9 @@ Many Fortnite players are reporting that they get the error code 84, therefore t
  The downtime always begins a few days before a major update. If the services for**Parties, Friends and Messaging** are under maintenance, you can just wait for the new release, or follow their[Twitter account](https://twitter.com/FortniteStatus) to get the live status of Fortnite.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2\. Submit a support ticket
 
  You may find this error code 84 annoying and want to join your friends as quickly as possible in Fortnite. If that’s your case, the quickest solution is to submit a support ticket to Epic Games.
@@ -62,8 +61,9 @@ Many Fortnite players are reporting that they get the error code 84, therefore t
  They may help you delete the client settings file and you can join a party again. If it’s too long for the customer service to respond, you can try these workarounds below.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3\. Change the skin
 
  Though it seems absurd to you, changing the skin has indeed fixed the error code 84 for some players when they can’t join their friends’ party.
@@ -75,10 +75,6 @@ Many Fortnite players are reporting that they get the error code 84, therefore t
 
  You can join a game and wait until you are in the lobby. Accept the invite to join the party and test if the error code 84 persists.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Fix 4\. Change the lobby to Public
 
  Another workaround you can try is to set your lobby to Public and then you can join without an invite.
@@ -86,17 +82,22 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  Simply head over to the lobby setting, and click the hamburger icon in the top-right, and set your**Party Privacy** to**Public** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Screen-Shot-2021-04-13-at-4.59.16-PM-1200x521.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 
 You can always kick unwanted guests from your lobby.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5\. Join friends using the Epic Games list
 
  If the invite system is down, you can bypass it by adding them to your friends’ list. This will help you get around this issue.
 
  But if the host of the lobby you’re trying to join is already on your friends’ list, you can skip this fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6\. Reinstall the game
 
@@ -116,8 +117,6 @@ You can always kick unwanted guests from your lobby.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -125,4 +124,19 @@ You can always kick unwanted guests from your lobby.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/updated-capturing-facetime-best-practices-unveiled-for-2024/"><u>[Updated] Capturing FaceTime Best Practices Unveiled for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-earning-edge-exploiting-youtube-studio-for-global-viewers-for-2024/"><u>[Updated] Earning Edge Exploiting YouTube Studio for Global Viewers for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-accelerate-footage-leading-android-apps/"><u>2024 Approved Accelerate Footage Leading Android Apps</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-techniques-to-stop-your-game-of-doom-eternal-from-keep-on-crashing/"><u>Effective Techniques to Stop Your Game of DOOM Eternal From Keep on Crashing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/find-the-perfect-hp-bargains-for-holidays-on-zdnets-expert-roundup-of-16-picks/"><u>Find the Perfect HP Bargains for Holidays on ZDNet's Expert Roundup of 16 Picks!</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-visualvault-review-highlighting-the-best-recording-tools/"><u>In 2024, VisualVault Review Highlighting the Best Recording Tools</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-youtube-music-a-guide-to-coherence/"><u>In 2024, YouTube Music A Guide to Coherence</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-fixes-to-boost-your-ubisoft-connect-download-speeds/"><u>Quick Fixes to Boost Your Ubisoft Connect Download Speeds</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/top-strategies-for-safely-archiving-essential-documents-on-windows-insights-by-yl-computing/"><u>Top Strategies for Safely Archiving Essential Documents on Windows - Insights by YL Computing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-artificnial-intelligence-the-need-and-entities-behind-its-regulation/"><u>Understanding Artificnial Intelligence: The Need and Entities Behind Its Regulation</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723003169530-why-are-my-chrome-pages-not-loading-find-out-and-solve-the-problem-now/"><u>Why Are My Chrome Pages Not Loading? Find Out and Solve the Problem Now!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/why-does-rogue-company-keep-freezing-on-your-computer-find-out-here/"><u>Why Does Rogue Company Keep Freezing on Your Computer? Find Out Here!</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "PC Gamers Rejoice: Playing God of War in an Exciting New FPS Mode!"
-date: 2024-08-13T12:20:45.568Z
-updated: 2024-08-14T12:20:45.568Z
+date: 2025-01-10T17:01:50.725Z
+updated: 2025-01-12T18:06:43.246Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/50f9fb85f30d6bdf30041380f63b78a3de31a8743
 ## Pacific Islanders' Flying Problem in Call of Duty: Warzone Now Fixed
 
 Call of Duty is a free-to-play first-person shooter game for everyone. It was relaunched as_Warzone: Pacific_ that has a brand new map for players to explore. However, players are facing all sorts of issues, consistently crashing has ruined patience and enthusiasm for the game. The Caldera map is fun for varied and interesting design, but it was tarnished with a bad launch.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -39,6 +43,10 @@ Call of Duty is a free-to-play first-person shooter game for everyone. It was re
 | GPU          | NVIDIA GeForce GTX 670 / GeForce GTX 1650 or Radeon HD 7950 |
 | Direct X     | DirectX 12.0 compatible system                              |
 | Video Memory | 2 GB                                                        |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -66,9 +74,6 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Relaunch Call of Duty: Warzone Pacific and check.
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
@@ -86,9 +91,6 @@ OR
 
  If this method doesn’t resolve the issue, you can restore the changes with the backup.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Change the in-game settings
 
  Lowering the in-game graphics settings might help fix Warzone Pacific crashing. The Modern Warfare program occupied too much virtual memory and it could cause the game to crash. To fix it, you can lower all graphic settings, including turning off on demand streaming textures.
@@ -107,10 +109,12 @@ If it fixes the issue then slowly increase your graphics settings.
 1. Press the Search button on the bottom of your screen.
 2. Type**control panel** and press the**Enter** key.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/2021-12-20_18-43-03.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 3. Set**View by Category** . Click**Uninstall the program** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/2021-12-20_18-43-17.jpg)
 4. Find MW and Battle.net. Right-click on it and click**Unistall/Change** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/2021-12-20_18-44-15.jpg)
@@ -119,9 +123,6 @@ If it fixes the issue then slowly increase your graphics settings.
 7. Go to the Warzone Pacific official website and download the game. Install it step-by-step.
 8. Relaunch the game.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ### Fix 6: Repair system files
 
  In some situations, corrupted or missing system files would cause the game crashing issue. Therefore, you can use a system repair tool to determine the cause of your PC.
@@ -131,18 +132,18 @@ If it fixes the issue then slowly increase your graphics settings.
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Fortect.
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
-![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
@@ -158,8 +159,6 @@ If it fixes the issue then slowly increase your graphics settings.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -167,4 +166,24 @@ If it fixes the issue then slowly increase your graphics settings.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-captivating-images-mastering-the-art-of-motion-blur-in-ps/"><u>[New] Captivating Images Mastering the Art of Motion Blur in PS</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722997679336-solved-world-of-warcraft-low-fps-2024-tips/"><u>[SOLVED] World of Warcraft Low FPS - 2024 Tips</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-unveiling-hidden-details-in-asmr-recordings/"><u>[Updated] 2024 Approved Unveiling Hidden Details in ASMR Recordings</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exploring-samsungs-photo-enhancing-tools/"><u>[Updated] Exploring Samsung’s Photo Enhancing Tools</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-how-to-seamlessly-incorporate-video-tracks-in-youtube-lists/"><u>[Updated] In 2024, How to Seamlessly Incorporate Video Tracks in YouTube Lists</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-maximize-video-impact-with-full-screen-settings-for-2024/"><u>[Updated] Maximize Video Impact with Full-Screen Settings for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-the-ultimate-tutorial-for-making-eye-catching-pfps-on-discord-for-2024/"><u>[Updated] The Ultimate Tutorial for Making Eye-Catching Pfps on Discord for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bypassing-the-hurdle-strategies-to-get-past-robloxs-loading-screen-problem/"><u>Bypassing the Hurdle: Strategies to Get Past Roblox's Loading Screen Problem</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cracking-the-frozen-code-cyberpunk-2077s-problem-solved/"><u>Cracking the Frozen Code: Cyberpunk 2077'S Problem Solved!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/getting-civilization-vi-up-and-running-in-the-world-of-windows-11-tips-and-fixes/"><u>Getting Civilization VI Up and Running in the World of Windows 11 - Tips & Fixes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guide-to-repairing-the-issue-when-razer-synapse-fails-to-load/"><u>Guide to Repairing the Issue When Razer Synapse Fails to Load</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-seamless-editing-removing-out-of-place-backgrounds/"><u>In 2024, Seamless Editing Removing Out-of-Place Backgrounds</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722991385888-overcome-multiversus-crashes-with-these-8-proven-fixes-problem-solved/"><u>Overcome MultiVersus Crashes with These 8 Proven Fixes - Problem Solved</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-the-problem-why-isnt-my-amazon-prime-video-playing/"><u>Resolving the Problem: Why Isn't My Amazon Prime Video Playing?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-steps-to-correct-not-found-avcodecdll-mishap/"><u>Troubleshooting Steps to Correct Not Found Avcodec.dll Mishap</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-enhancing-your-gameplay-by-increasing-frames-per-second-fps-in-ring-of-elysium/"><u>Ultimate Guide: Enhancing Your Gameplay by Increasing Frames Per Second (FPS) in Ring of Elysium</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>Why does the pokemon go battle league not available On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+</ul></div>
 

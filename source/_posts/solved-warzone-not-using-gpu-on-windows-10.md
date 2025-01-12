@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Warzone Not Using GPU on Windows 10"
-date: 2024-08-13T12:24:50.206Z
-updated: 2024-08-14T12:24:50.206Z
+date: 2025-01-08T17:10:44.937Z
+updated: 2025-01-12T19:49:13.804Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ Recently, we’ve seen many players reporting that**Dirt 5 keeps crashing** on t
 
  Here we’ve gathered the latest fixes that helped other players resolve the Dirt 5 crashing issue. Whether Dirt 5 crashes on startup or crashes in the middle of the game, you can find a fix to try in this article.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You don’t have to try them all, Just work your way through the list until you find the one that does the trick for you.
@@ -50,9 +47,6 @@ The outdated or broken graphics driver often crashes the game.
 1. [**Download**](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 3. Click the **Update** button next to a device to automatically download the correct version of their driver, then you can manually install the driver (you can do this with the FREE version).  
 
  Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
@@ -60,6 +54,10 @@ The outdated or broken graphics driver often crashes the game.
 4. Restart your PC after you finished updating your graphics driver.
 
  See if the latest graphics driver stops the Dirt 5 from crashing. If not, don’t worry. Try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Verify the game files
 
@@ -69,9 +67,6 @@ The outdated or broken graphics driver often crashes the game.
 ![Steam->properties](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
 2. Click **the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .  
 ![LOCAL FILES>VERIFY INTEGRITY OF GAME CACHE...](https://images.drivereasy.com/wp-content/uploads/2019/04/image-120.png)
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 
  It may take some time to finish verifying the game files. Launch the game after the verifying process completed to see if this fix works. If not, try the next fix, below.
 
@@ -89,13 +84,16 @@ The outdated or broken graphics driver often crashes the game.
 
 1. Launch Steam and navigate to **the LIBRARY tab** .**right-click** on _DIRT 5_ . Then select **Properties** .  
 ![Steam->properties](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 2. Uncheck**Enable Steam Overlay while in-game** .  
-![Disable Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-Steam-Overlay.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![Disable Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-Steam-Overlay.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Launch Dirt 5 to see if the game crashes. If the issue persists, try the next fix, below.
@@ -107,17 +105,20 @@ The outdated or broken graphics driver often crashes the game.
 1. Launch the Steam client and go to Steam **Library** .**Right-click on DIRT 5** and select **Properties** .
 2. In the**GENERAL** section, click **SET LAUNCH OPTIONS…**  
 ![Steam set launch options](https://images.drivereasy.com/wp-content/uploads/2021/04/Modify-Steam-set-launch-options.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 3. Copy and paste the commands below and click **OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `-useallavailablecores -high`
 
  Launch the game to see if it crashes again. If it still crashes, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 6: Stop overclocking
 
  Many players may try overclocking the CPU or turbo boost the graphics card to gain a better FPS. However, overclocking often crashes the game.
@@ -139,8 +140,6 @@ The outdated or broken graphics driver often crashes the game.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -148,4 +147,24 @@ The outdated or broken graphics driver often crashes the game.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/updated-expertise-in-cutting-edge-encoders-for-live-media/"><u>[Updated] Expertise in Cutting-Edge Encoders for Live Media</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-the-cutting-edge-of-food-on-tiktok/"><u>[Updated] The Cutting Edge of Food on TikTok</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722995690374-apex-legends-not-launching-discover-fast-track-fixes-here/"><u>Apex Legends Not Launching? Discover Fast-Track Fixes Here!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhancing-gaming-performance-techniques-for-eliminating-frame-rate-hiccups/"><u>Enhancing Gaming Performance: Techniques for Eliminating Frame Rate Hiccups</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-picks-for-high-performance-art-displays-best-of-2024/"><u>Expert Picks for High-Performance Art Displays, Best of 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fast-track-troubleshooting-ending-division-2-performance-issues-easily/"><u>Fast Track Troubleshooting: Ending Division 2 Performance Issues Easily</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-and-solutions-for-continuous-freezing-in-fallout-4-when-played-on-pc/"><u>Fixes & Solutions for Continuous Freezing in Fallout 4 When Played on PC</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/from-novice-to-expert-a-guide-for-effective-single-stream-livestreams-for-2024/"><u>From Novice to Expert A Guide for Effective Single-Stream Livestreams for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-lava-blaze-curve-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Lava Blaze Curve 5G Without Password | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-crafting-content-gold-youtube-studios-path-to-perfection/"><u>In 2024, Crafting Content Gold YouTube Studio's Path to Perfection</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-sculpt-your-vision-editing-videos-using-story-remix-and-windows-photos/"><u>In 2024, Sculpt Your Vision Editing Videos Using Story Remix and Windows Photos</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-repair-techniques-for-voice-chat-not-functioning-navigating-through-content-warning-glitches/"><u>Master Repair Techniques for 'Voice Chat Not Functioning': Navigating Through Content Warning Glitches</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/personal-coaching-elevated-by-chatgpt-technology/"><u>Personal Coaching Elevated by ChatGPT Technology</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-tips-and-tricks-to-eliminate-discord-network-lag-issues/"><u>Resolved: Tips & Tricks to Eliminate Discord Network Lag Issues</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/step-by-step-guide-installing-super-mario-run-app-on-your-iphone/"><u>Step-by-Step Guide: Installing Super Mario Run App on Your iPhone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-ultimate-troubleshooting-guide-for-resolving-call-of-duty-mw3-fps-drops-2024-edition/"><u>The Ultimate Troubleshooting Guide for Resolving Call of Duty MW3 FPS Drops - 2024 Edition</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-fixes-to-overcome-lag-and-stuttering-in-black-ops-cold-war/"><u>Ultimate Fixes to Overcome Lag and Stuttering in Black Ops Cold War</u></a></li>
+</ul></div>
 

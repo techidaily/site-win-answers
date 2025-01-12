@@ -1,7 +1,7 @@
 ---
 title: Resolve Steam's Error Code 130 with These Proven Solutions!
-date: 2025-01-01T16:26:36.790Z
-updated: 2025-01-05T22:04:54.742Z
+date: 2025-01-09T18:19:56.765Z
+updated: 2025-01-12T19:29:22.035Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/65c45785d0c2f42e9363c89b2d70455197811e675
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3 simple fixes to try
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -31,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/65c45785d0c2f42e9363c89b2d70455197811e675
 1. **[Adjust your proxy settings](https://tools.techidaily.com/drivereasy/download/)**
 2. **[Update your network adapter driver](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Reinstall Steam](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Adjust your proxy settings
 
@@ -56,12 +56,16 @@ thumbnail: https://thmb.techidaily.com/65c45785d0c2f42e9363c89b2d70455197811e675
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-363.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Restart your computer and Steam to test your issue.
 
  If none of the boxes is checked, or if you still get the error code 130, then go ahead with the fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your network adapter driver
@@ -113,7 +117,7 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-885.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.
@@ -121,20 +125,20 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-886.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-887.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)** Under **View by** , select **Category** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-888.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)** Select **Uninstall a program** .
 
@@ -149,7 +153,7 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-891.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  **8)[Download](https://store.steampowered.com/about/)**  Steam.
@@ -163,10 +167,6 @@ OR
 **11)**  Move the backup **steamapps folder**  you create before to your current directory location.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-893.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **12)**  Relaunch your Steam to test your issue.
 
@@ -194,22 +194,22 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-facebook-streaming-made-simple-tips-for-android-and-iphones/"><u>[New] In 2024, Facebook Streaming Made Simple Tips for Android & iPhones</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-beyond-illusion-the-three-pillars-of-virtual-immersion-vr-ar-and-mr/"><u>[Updated] 2024 Approved Beyond Illusion The Three Pillars of Virtual Immersion (VR, AR, & MR)</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-strategizing-to-spot-and-capture-youtubes-hidden-markets/"><u>[Updated] In 2024, Strategizing to Spot and Capture Youtube's Hidden Markets</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-the-importance-of-b-roll-diversity-in-filmmaking/"><u>[Updated] In 2024, The Importance of B-Roll Diversity in Filmmaking</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-pro-level-strategies-for-remote-audio-capture/"><u>2024 Approved Pro-Level Strategies for Remote Audio Capture</u></a></li>
-<li><a href="https://media-tips.techidaily.com/easy-steps-for-converting-aviwmv-videos-to-high-quality-mp4/"><u>Easy Steps for Converting AVI/WMV Videos to High-Quality MP4</u></a></li>
-<li><a href="https://win-answers.techidaily.com/get-your-pcs-minecraft-back-to-playing-smoothly-fix-common-freeze-problems-today/"><u>Get Your PC's Minecraft Back to Playing Smoothly - Fix Common Freeze Problems Today!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-prevent-and-solve-mir4-issues-on-your-windows-pc/"><u>How to Prevent and Solve MIR/4 Issues on Your Windows PC</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-how-to-reverse-a-tiktok-video-an-ultimate-guide-2023-update/"><u>New How to Reverse A TikTok Video An Ultimate Guide 2023 Update</u></a></li>
-<li><a href="https://win-answers.techidaily.com/optimizing-your-gameplay-experience-addressing-lag-in-dragons-dogma-2-fps-and-stutter-fix-guide/"><u>Optimizing Your Gameplay Experience: Addressing Lag in Dragon's Dogma ˹2˺ - FPS and Stutter Fix Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-tarkovs-trouble-a-step-by-step-guide-to-solving-error-103003/"><u>Resolving Tarkov's Trouble: A Step-by-Step Guide to Solving Error 103003</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-continuous-crashes-in-stardew-valley-for-windows-and-mac-users/"><u>Troubleshooting Continuous Crashes in Stardew Valley for Windows and Mac Users</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-crashes-in-the-division-2-simple-steps-for-smooth-gaming/"><u>Troubleshooting Crashes in The Division 2 - Simple Steps for Smooth Gaming</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/troubleshooting-guide-how-to-fix-scan-detection-failures-in-windows-environments-by-yl-computing/"><u>Troubleshooting Guide: How to Fix Scan Detection Failures in Windows Environments by YL Computing</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-why-is-my-obs-not-recording/"><u>Troubleshooting Guide: Why Is My OBS Not Recording?</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unihertz-atom-xl-evaluation-the-compact-yet-durable-device-that-packs-a-mighty-punch/"><u>Unihertz Atom XL Evaluation: The Compact yet Durable Device That Packs a Mighty Punch</u></a></li>
-<li><a href="https://win-answers.techidaily.com/why-your-pcs-frame-rate-drops-by-two-fps-explained/"><u>Why Your PC's Frame Rate Drops by Two FPS - Explained</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-virtual-escapades-you-cant-afford-to-miss-for-2024/"><u>[New] Virtual Escapades You Can't Afford to Miss for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-the-definitive-guide-to-screencast-editors/"><u>[Updated] 2024 Approved The Definitive Guide to Screencast Editors</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-brush-up-your-youtube-videos-with-color-correction/"><u>[Updated] Brush Up Your Youtube Videos with Color Correction</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-harnessing-creativity-with-new-features-in-magix-music-maker-2024/"><u>[Updated] Harnessing Creativity with New Features in Magix Music Maker 2024</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/aomei-pxe/"><u>AOMEI PXE ネットワーク ブートソフトウェア -最適化されたセットアップガイド</u></a></li>
+<li><a href="https://win-answers.techidaily.com/comprehensive-strategies-for-dealing-with-persistent-crashes-in-phoenix-point/"><u>Comprehensive Strategies for Dealing with Persistent Crashes in Phoenix Point</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722983140787-dark-souls-eboot-fixes-how-to-stop-game-crashes-once-and-for-all/"><u>Dark Souls Eboot Fixes: How to Stop Game Crashes Once and for All</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/debating-the-ethical-use-of-ai-for-security-risks/"><u>Debating the Ethical Use of AI for Security Risks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-zebra-gk420d-printer-driver-now-simple-steps/"><u>Download the Zebra GK420D Printer Driver Now - Simple Steps</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-fixes-for-msedgeexe-crashing-on-windows-pcs/"><u>Effective Fixes for 'msedge.exe' Crashing on Windows PCs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/escape-from-tarkov-pc-version-fix-the-continuous-crash-problem/"><u>Escape From Tarkov PC Version: Fix the Continuous Crash Problem</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/free-electronic-signature-for-xlsm-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>Free electronic signature - For .xlsm files</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-the-fix-for-not-found-entry-point-when-playing-fortnite-on-pc-or-console/"><u>Mastering the Fix for 'Not Found Entry Point' When Playing Fortnite on PC or Console</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-realme-11-5g-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Realme 11 5G | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-reactivate-your-camera-on-google-meets-easily/"><u>Solution: Reactivate Your Camera on Google Meets Easily</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-razer-synapse-opening-issues-and-solutions/"><u>Troubleshooting: Razer Synapse Opening Issues & Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/wolcen-lords-of-mayhem-reasons-behind-the-delayed-release/"><u>Wolcen: Lords of Mayhem - Reasons Behind the Delayed Release</u></a></li>
 </ul></div>
 

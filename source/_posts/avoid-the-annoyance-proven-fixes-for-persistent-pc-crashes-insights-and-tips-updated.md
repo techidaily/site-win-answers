@@ -1,7 +1,7 @@
 ---
 title: "Avoid the Annoyance: Proven Fixes for Persistent PC Crashes - Insights & Tips (Updated )"
-date: 2024-12-30T18:24:53.688Z
-updated: 2025-01-06T00:48:04.057Z
+date: 2025-01-06T18:20:52.022Z
+updated: 2025-01-12T17:28:44.279Z
 tags:
   - win11
   - win10
@@ -42,10 +42,6 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
 1. [Download the latest patch](https://tools.techidaily.com/drivereasy/download/)
@@ -53,9 +49,17 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 3. [Delete specific files from the save folder](https://tools.techidaily.com/drivereasy/download/)
 4. [Underclock your clock speed](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Download the latest patch
 
  If you haven’t been updated your game for a while, you can update your game. The official keeps releasing new patches, the latest version may solve the crashing issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Manage Virtual Memory
 
@@ -69,25 +73,21 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2-4.jpg)
 4. Under**Virtual memory** , click**Change** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/3-2.jpg)
 5. Uncheck**Automatically manage paging file size for all drives** and make sure you’ve check**System managed size** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/4-2.jpg)
 6. Click**Set > OK** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Reboot your computer can check whether the crash will appear or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Delete specific files from the save folder
 
@@ -99,10 +99,6 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 3. Choose**LOCAL FILES** and click**BROWSE LOCAL FILES** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/browse-2.jpg)
 4. Navigate to the save folder, delete Data(999).sav & Data(999).bak.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Reboot your computer and check the issue is solved or not.
 
@@ -137,6 +133,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
  Thanks for reading. Hope this article meets your need. And you are welcome to leave comments below.
@@ -158,14 +158,24 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-top-5-video-editors-for-macos-sierra/"><u>[New] Top 5 Video Editors for macOS Sierra</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-reflection-photography-tips-for-iphone/"><u>[Updated] 2024 Approved Reflection Photography Tips for iPhone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-stepwise-approach-implementing-luts-in-adobes-premiere-suite/"><u>[Updated] Stepwise Approach Implementing LUTs in Adobe's Premiere Suite</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-swift-image-adaptation-techniques-for-iphone-users/"><u>[Updated] Swift Image Adaptation Techniques for iPhone Users</u></a></li>
-<li><a href="https://win-answers.techidaily.com/beat-the-bug-blitz-in-call-of-duty-warzone-troubleshooting-disc-read-errors-for-optimal-gaming-experience-versions-50-and-31/"><u>Beat the Bug Blitz in Call of Duty Warzone: Troubleshooting Disc Read Errors for Optimal Gaming Experience (Versions 5.0 and 3.1)</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/did-your-apple-iphone-12-pro-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your Apple iPhone 12 Pro Passcode Change Itself? Unlock It Now</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-tips-overcoming-problems-with-starting-davinci-resolve-on-windows-systems/"><u>Expert Tips: Overcoming Problems with Starting DaVinci Resolve on Windows Systems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fix-a-sluggish-chrome-browser-fast-simple-solutions/"><u>Fix a Sluggish Chrome Browser Fast: Simple Solutions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-fixing-the-security-breach-alert-in-online-games/"><u>Resolved: Fixing the 'Security Breach' Alert in Online Games</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ssential-steps-for-mp3-streams-on-youtube/"><u>[New] Essential Steps for MP3 Streams on Youtube</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-unleash-the-power-of-zoom-with-these-tips-for-2024/"><u>[New] Unleash the Power of Zoom with These Tips for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-the-ultimate-digital-library-year-round-free-texts/"><u>[Updated] 2024 Approved The Ultimate Digital Library Year-Round Free Texts</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-unraveling-triller-its-distinctive-place-in-the-world-of-online-videos/"><u>[Updated] In 2024, Unraveling Triller Its Distinctive Place in the World of Online Videos</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-is-inshot-a-game-changer-in-video-editing-tools-in-2024/"><u>[Updated] Is InShot a Game Changer in Video Editing Tools, In 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-mastering-the-download-of-your-youtube-playlist-today-in-2024/"><u>[Updated] Mastering the Download of Your YouTube Playlist Today, In 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/discord-overload-master-the-art-of-reducing-cpu-use-comprehensive-strategies/"><u>Discord Overload? Master the Art of Reducing CPU Use - Comprehensive Strategies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/empowering-apples-community-introducing-the-latest-ai-education-initiative-for-thousands-of-alumni-and-students-discover-more-at-zdnet/"><u>Empowering Apple's Community: Introducing the Latest AI Education Initiative for Thousands of Alumni and Students - Discover More at Zdnet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723013979048-fixes-for-stuttering-and-lags-in-half-life-alyx-on-pc-revealed/"><u>Fixes for Stuttering and Lags in Half Life: Alyx on PC Revealed!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-overcome-network-issues-encountered-in-new-world/"><u>How to Overcome Network Issues Encountered in New World</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Xiaomi Redmi K70E | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-solving-the-problem-of-starcraft-2-suddenly-closing-on-windows-machines/"><u>Resolved: Solving the Problem of Starcraft 2 Suddenly Closing on Windows Machines</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/resolving-issues-with-incomplete-windows-registry-load-insights-from-yl-computing/"><u>Resolving Issues with Incomplete Windows Registry Load: Insights From YL Computing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-the-unjoinable-party-glitch-a-guide-to-overcoming-fortnite-error-84/"><u>Resolving the Unjoinable Party Glitch: A Guide to Overcoming Fortnite Error 84</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamless-transition-utilizing-gpt-4-within-todays-chatgpt-setup/"><u>Seamless Transition: Utilizing GPT-4 Within Today's ChatGPT Setup</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-found-eliminating-latency-for-a-smoother-lol-experience/"><u>Solution Found: Eliminating Latency for a Smoother LoL Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-enhancing-image-clarity-in-call-of-duty-warzone-for-windows-gaming/"><u>Step-by-Step Guide: Enhancing Image Clarity in Call of Duty: Warzone for Windows Gaming</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-and-fixing-pc-crash-errors-in-century-age-of-ashes-game/"><u>Troubleshooting and Fixing PC Crash Errors in Century: Age of Ashes Game</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-and-resolving-helldivers-not-found-msvcr110dll-problem/"><u>Troubleshooting and Resolving HellDivers Not Found MSVCR110.dll Problem</u></a></li>
 </ul></div>
 

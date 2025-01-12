@@ -1,7 +1,7 @@
 ---
 title: Untangling the Black Ops Cold War Hitch - Error Code 887a0005 Explained!
-date: 2025-01-02T17:28:13.168Z
-updated: 2025-01-05T23:08:45.502Z
+date: 2025-01-07T16:30:42.425Z
+updated: 2025-01-12T18:21:58.103Z
 tags:
   - win11
   - win10
@@ -47,22 +47,18 @@ Here’s a quick guide for that:
 2. Click **Options**  and select **Scan and Repair** from the drop-down menu. Wait until the checking finishes.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You can now launch Black Ops Cold War and see if it crashes again.
 
 If this trick doesn’t help you, simply continue to the next one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -79,15 +75,15 @@ If this trick doesn’t help you, simply continue to the next one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your PC and check if the error code reoccurs.
 
  If updating the GPU driver doesn’t solve your problem, simply move on to the next solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Install all Windows updates
 
@@ -99,10 +95,6 @@ And it’s fairly easy to update:
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click **Check for updates** . Then wait for Windows to download and install all available updates.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
@@ -112,7 +104,7 @@ And it’s fairly easy to update:
  If the updates don’t stop the crash, you can take a look at the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Disable HAGs (GeForce 10 series or later/Radeon 5600 or 5700 series)
@@ -129,6 +121,10 @@ Here’s how:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-02.jpg)
 3. Under the **Default settings** section, click **Change default graphics settings** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-3.jpg)
 4. Turn off**Hardware-accelerated GPU scheduling** .  
@@ -147,6 +143,10 @@ Here’s how:
 2. Navigate to the**GRAPHICS** tab. Under the**RAY TRACING** section, disable all three options.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-disable-ray-tracing.jpg)
 3. Restart the game and test the gameplay.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  None of these fixes can help you? Check out[this post](https://tools.techidaily.com/drivereasy/download/) for more advanced troubleshooting.
 
@@ -169,17 +169,24 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-exclusive-list-of-top-iphone-vr-game-hits-for-2024/"><u>[New] Exclusive List of Top iPhone VR Game Hits for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-cutting-edge-podcasting-garageband-edition/"><u>[New] In 2024, Cutting Edge Podcasting GarageBand Edition</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-overcome-the-invisibility-of-short-videos/"><u>[New] In 2024, Overcome The Invisibility of Short Videos</u></a></li>
-<li><a href="https://win-answers.techidaily.com/beat-the-buffering-fix-your-league-of-legends-lag-problem-today/"><u>Beat the Buffering: Fix Your League of Legends Lag Problem Today</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723009998732-how-to-resolve-madden-nfl-20-for-pc-stability-problems-solutions-inside/"><u>How to Resolve Madden NFL 20 for PC Stability Problems - Solutions Inside</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-8-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone 8 Without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-stable-sony-vegas-performance-tips-to-prevent-frequent-clashes/"><u>Mastering Stable Sony Vegas Performance: Tips to Prevent Frequent Clashes</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-update-issue-code-0x800f0845/"><u>Overcoming Update Issue: Code 0X800F0845</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-call-of-duty-vanguard-fixing-development-bug-5573/"><u>Resolving Call of Duty: Vanguard - Fixing Development Bug 5573</u></a></li>
-<li><a href="https://win-answers.techidaily.com/revamp-your-gameplay-experience-fixing-stutter-and-lag-in-cyberpunk-2077/"><u>Revamp Your Gameplay Experience: Fixing Stutter and Lag in Cyberpunk 2077</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-resolving-call-of-duty-vanguard-code-1338-pc-fixed/"><u>Troubleshooting Steps for Resolving Call of Duty Vanguard Code 1338 (PC) [FIXED]</u></a></li>
-<li><a href="https://article-tips.techidaily.com/understanding-magixs-acid-pro-and-its-market-rivals/"><u>Understanding Magix's ACID Pro and Its Market Rivals</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-attracting-eyes-with-these-6-video-genres-for-2024/"><u>[New] Attracting Eyes with These 6 Video Genres for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-the-ultimate-collection-of-film-scripts-by-genre/"><u>[New] The Ultimate Collection of Film Scripts by Genre</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-film-for-a-friendly-facebook-feature-for-2024/"><u>[Updated] Film for a Friendly Facebook Feature for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-from-basic-snaps-to-expertly-crafted-images-on-snapchat/"><u>[Updated] In 2024, From Basic Snaps to Expertly Crafted Images on Snapchat</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-cutting-edge-filmmaking-on-your-ios-device/"><u>2024 Approved Cutting-Edge Filmmaking on Your iOS Device</u></a></li>
+<li><a href="https://win-answers.techidaily.com/avatar-game-on-pc-now-running-smoothly-with-fixes-implemented/"><u>Avatar Game on PC - Now Running Smoothly with Fixes Implemented!</u></a></li>
+<li><a href="https://win-trending.techidaily.com/comment-reparer-la-table-de-partition-avec-ces-4-methodes-pratiques-sur-windows-101187/"><u>Comment Réparer La Table De Partition Avec Ces 4 Méthodes Pratiques Sur Windows 10/11/8/7</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/dex-3-and-hercules-inpulse-300-unite-enhanced-control-experience-for-pcdj-users-master-your-beats/"><u>DEX 3 & Hercules Inpulse 300 Unite: Enhanced Control Experience for PCDJ Users - Master Your Beats</u></a></li>
+<li><a href="https://win-answers.techidaily.com/five-troubleshooting-techniques-to-stop-bluestacks-from-freezing-and-crashing/"><u>Five Troubleshooting Techniques to Stop BlueStacks From Freezing and Crashing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-implemented-for-continuous-game-crashes-in-insurgency-sandstorm/"><u>Fixes Implemented for Continuous Game Crashes in 'Insurgency: Sandstorm'</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-remnant-from-the-ashes-game-crash-problems-a-solution-guide/"><u>Fixing 'Remnant: From the Ashes' Game Crash Problems - A Solution Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/inshot-unveiled-assessing-its-edge-over-other-editors-for-2024/"><u>InShot Unveiled Assessing Its Edge Over Other Editors for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-gpt-3-with-python-coding/"><u>Leveraging GPT-3 with Python Coding</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-the-hurdles-what-to-do-when-monster-hunter-s2-world-doesnt-open/"><u>Overcoming the Hurdles: What to Do When Monster Hunter S2 WoRLD Doesn’t Open</u></a></li>
+<li><a href="https://win-answers.techidaily.com/preventing-constant-disruptions-solutions-for-outlooks-continual-closure/"><u>Preventing Constant Disruptions: Solutions for Outlook's Continual Closure</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-outpost-infinity-siege-pc-freezing-issue-easy-guide/"><u>Solving the Outpost: Infinity Siege PC Freezing Issue - Easy Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-6-convertisseur-de-videos-en-mp4-gratuit-comment-choisir-le-plus-efficace/"><u>Top 6 Convertisseur De Vidéos en MP4 Gratuit : Comment Choisir Le Plus Efficace</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-nba-2k24-error-727e66ac-top-5-fixes-for-a-smoother-game/"><u>Troubleshooting NBA 2K24 Error 727E66AC - Top 5 Fixes for a Smoother Game</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-obs-why-is-my-screen-recording-no-longer-working/"><u>Troubleshooting OBS: Why Is My Screen Recording No Longer Working?</u></a></li>
 </ul></div>
 

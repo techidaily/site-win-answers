@@ -1,7 +1,7 @@
 ---
 title: "Diablo 2: Revisited - Fixes and Solutions for the Notorious Game Crash Issue"
-date: 2024-08-13T12:22:58.332Z
-updated: 2024-08-14T12:22:58.332Z
+date: 2025-01-06T18:41:59.067Z
+updated: 2025-01-12T18:01:39.363Z
 tags:
   - win11
   - win10
@@ -39,8 +39,9 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 | Storage       | 45 GB available space                                        |
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
  There’re 5 fixes that have helped many gamers solve their crash problem. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -59,6 +60,10 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 
  If this resolves your problem, you may need to replace your antivirus software or contact the vendor of the software for advice.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Verify your game cache
 
  If your game crashes on XCOM 2 startup, it’s possible that the installation of XCOM 2 is corrupted. Then you can use this fix to redownload files and fix crashes.
@@ -67,28 +72,18 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 2. In the**LIBRARY** tab, right-click on XCOM 2.
 3. Under the**LOCAL FILES** tab, click**Verify integrity of game cache** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/verify.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 4. After the process, relaunch the game and check the crash will appear or not.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Change your save files location
 
  If Fix 2 can’t solve your problem, the saved file could be the culprit. When you delete the save file with modded content, the crash can happen. You can transfer the save files into a different location for safekeeping.
 
  The save files should be located at: “C:\\Users\\YOUR USERNAME\\Documents\\my games\\XCOM2\\XComGame\\SaveData”. Copy files and move to elsewhere and then delete the original SaveData folder.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Disable Steam Overlay
 
  The Steam overlay is a piece of Steam user interface that can let users access friend list, web browser and in-game DLC purchasing. This feature is very useful but sometimes it can be the reason for game crash. You can disable it and check whether it could solve the crashes.
@@ -97,6 +92,10 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 2. Right-click on XCOM 2 and click**Properties** .
 3. In the **GENERAL**  tab, uncheck “**Enable the Steam Overlay while in-game** “.![](https://images.drivereasy.com/wp-content/uploads/2019/08/over.jpg)
 4. Relaunch the game and check whether the crash will appear or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Update your driver
 
@@ -119,14 +118,13 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
-![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Relaunch the game and check the crash will appear or not.
 
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -141,8 +139,6 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -150,4 +146,22 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-howtos.techidaily.com/2022-tips-how-to-fix-fallout-4-lag-issue/"><u>[2022 Tips] How to Fix Fallout 4 Lag Issue</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-unlocking-the-secrets-to-effective-screen-capturing-with-apeaksoft/"><u>[New] 2024 Approved Unlocking the Secrets to Effective Screen Capturing with Apeaksoft</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-from-novice-to-expert-learning-the-ins-and-outs-of-instagram-hashtags/"><u>[New] In 2024, From Novice to Expert Learning the Ins and Outs of Instagram Hashtags</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-identifying-deceptive-accounts-a-guide-for-marketers/"><u>[New] In 2024, Identifying Deceptive Accounts A Guide for Marketers</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-harmonic-hits-on-snapchat-videos-for-2024/"><u>[Updated] Harmonic Hits on Snapchat Videos for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/guide-switch-to-low-light-interface-on-facebook/"><u>Guide: Switch to Low-Light Interface on Facebook</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-enjoy-a-seamless-experience-of-baldurs-gate-3-without-system-crashes-pc-edition/"><u>How to Enjoy a Seamless Experience of Baldur's Gate 3 without System Crashes (PC Edition)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-your-lunar-client-from-constantly-crashing-solution-included/"><u>How to Stop Your Lunar Client From Constantly Crashing (Solution Included)</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782312-9781591438557-inner-child-cards-workbook/"><u>Inner Child Cards Workbook | Free Book</u></a></li>
+<li><a href="https://win-answers.techidaily.com/la-noire-pc-launch-issues-cleared-now-available-for-download/"><u>LA Noire PC Launch Issues Cleared: Now Available for Download</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-diablo-4-performance-eradicate-pc-ps5-and-xbox-interruptions-once-and-for-all/"><u>Master Diablo 4 Performance: Eradicate PC, PS5 & Xbox Interruptions Once & For All</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/microsoft-resolves-camera-issues-with-quick-patch-on-surface-pro-learn-more-inside-zdnet/"><u>Microsoft Resolves Camera Issues with Quick Patch on Surface Pro – Learn More Inside | ZDNet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/persistent-bugs-call-of-duty-vanguard-still-causing-crashes-for-windows-users/"><u>Persistent Bugs: Call of Duty Vanguard Still Causing Crashes for Windows Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-found-for-the-postponed-release-of-immortals-fenyx-rising-game/"><u>Solution Found for the Postponed Release of Immortals: Fenyx Rising Game</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-when-your-astro-a50-headset-is-unresponsive-in-the-game/"><u>Troubleshooting Steps When Your Astro A50 Headset Is Unresponsive in the Game</u></a></li>
+</ul></div>
 

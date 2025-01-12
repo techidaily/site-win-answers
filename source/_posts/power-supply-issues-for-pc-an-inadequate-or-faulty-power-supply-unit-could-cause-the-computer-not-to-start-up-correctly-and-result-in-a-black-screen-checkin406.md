@@ -1,7 +1,7 @@
 ---
 title: "Power Supply Issues (for PC): An Inadequate or Faulty Power Supply Unit Could Cause the Computer Not to Start up Correctly and Result in a Black Screen. Checking Your PSU for Issues May Help."
-date: 2024-08-13T12:18:25.785Z
-updated: 2024-08-14T12:18:25.785Z
+date: 2025-01-08T19:55:35.135Z
+updated: 2025-01-12T19:39:18.977Z
 tags:
   - win11
   - win10
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/da7734e84e246f918bdf5e60b91499ba1ad151293
 
 You bought the Vive for fun but when you start SteamVR, you received the error message “Error 308”. It’s not a pleasant experience. Don’t worry, you’re not alone. This post will show you how to fix the error and bring you back to the game.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -40,8 +36,9 @@ DbSchema database designer for all databases, schema design in the team, schema 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/s1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: End Steam and SteamVR tasks
 
  End Steam and SteamVR tasks then reboot them sound cliche but quite effective. It’s no harm to try such a fix.
@@ -52,8 +49,9 @@ DbSchema database designer for all databases, schema design in the team, schema 
 3. Restart Steam and SteamVR to check.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Fix SteamVR installation path
 
  When Steam was installed in a non-default folder and your SteamVR configuration path may be related to a non-existent path. This will cause you meet the SteamVR error 308\. You can fix it by correcting the installation path.
@@ -64,9 +62,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
  Navigate to “…Steam/steamapps/common/SteamVR/bin/win64” and run**vrpathtreg** to fix the path.
 3. Reboot Steam and SteamVR.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Update your driver
 
  The missing or outdated device drivers in your computer can result in issues. To rule it out as the cause for your problem, you should verify that your drivers are up to date, and update those that aren’t.
@@ -89,14 +84,20 @@ DbSchema database designer for all databases, schema design in the team, schema 
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Reinstall SteamVR
 
@@ -106,10 +107,12 @@ DbSchema database designer for all databases, schema design in the team, schema 
 2. Type**appwiz.cpl** and press the Enter key.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/s4.jpg)
 3. Right-click on**SteamVR** and click**Uninstall** .  
-![](https://images.drivereasy.com/wp-content/uploads/2020/01/s3.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/01/s3.jpg)
 4. Go to[Steam official website](https://store.steampowered.com/app/250820/SteamVR/) to download the latest version.
 5. Install and run the program to check.
 
@@ -122,8 +125,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -131,4 +132,21 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-pinnacle-platforms-alternatives-to-the-oldest-birdcalls-for-2024/"><u>[Updated] Pinnacle Platforms Alternatives to the Oldest Birdcalls for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-segment-screen-showdown-recorders-leader-status/"><u>2024 Approved Segment Screen Showdown Recorder's Leader Status</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-selection-high-quality-zero-price-free-luts/"><u>2024 Approved The Ultimate Selection High Quality, Zero Price Free LUTs</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-no-supported-software-for-amdintel-graphics-within-premiere-pro/"><u>Fixed: No Supported Software for AMD/Intel Graphics Within Premiere Pro</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-critical-bug-causing-crashes-in-back-4-blood-ue4-the-ultimate-solution/"><u>Fixing the Critical Bug Causing Crashes in Back 4 Blood UE4: The Ultimate Solution</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-solve-qbittorrent-hang-ups-and-resume-downloading-effortlessly/"><u>How To Solve qBittorrent Hang-Ups and Resume Downloading Effortlessly</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-vivo-y100t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-tecno-camon-20-pro-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Tecno Camon 20 Pro 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723009008108-resolved-starfield-sound-glitches-no-more-crackling-or-skipping/"><u>Resolved: Starfield Sound Glitches - No More Crackling or Skipping!</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-shift-how-meta-plans-to-kill-off-fbs-face-tech/"><u>The Shift: How Meta Plans to Kill Off FB’s Face Tech</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-resolving-stability-problems-in-horizon-zero-dawn-for-pc-gamers/"><u>Troubleshooting Guide: Resolving Stability Problems in Horizon Zero Dawn for PC Gamers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-unresponsive-corsair-icue-on-latest-windows-versions/"><u>Troubleshooting Steps for Unresponsive Corsair iCUE on Latest Windows Versions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-to-overcoming-minecraft-pc-crashes-and-freezes-expert-advice-for-gamers-updated/"><u>Ultimate Guide to Overcoming Minecraft PC Crashes and Freezes - Expert Advice for Gamers (Updated )</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unstuck-from-a-frozen-screen-restoring-your-nvidia-geforce-overlay-functionality/"><u>Unstuck From a Frozen Screen: Restoring Your Nvidia GeForce Overlay Functionality</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Solving Windows 11'S Malfunctioning Windows Spotlight Issues Step by Step
-date: 2025-01-04T17:33:17.867Z
-updated: 2025-01-06T00:10:29.367Z
+date: 2025-01-09T18:47:47.001Z
+updated: 2025-01-12T17:38:50.293Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ After a long wait, the[new Hitman installment](https://www.epicgames.com/store/e
 5. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Check if it’s a server issue](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Verify the integrity of your game files
 
  The game not launching problem could mean that some game files are missing or corrupted. In either cases, you can simply run an integrity check to get your game working:
@@ -43,7 +47,7 @@ After a long wait, the[new Hitman installment](https://www.epicgames.com/store/e
 3. Select**Verify** from the drop-down list. Then wait for the checking to complete.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/hitman-3-verify-2.jpg)
@@ -51,10 +55,6 @@ After a long wait, the[new Hitman installment](https://www.epicgames.com/store/e
 Now you can try to launch Hitman 3 using the Epic Games launcher.
 
  If verifying game files doesn’t help, you can take a look at the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Run Epic Games as administrator
 
@@ -66,11 +66,19 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-games-launcher-run-as-admin.jpg)
 2. Now try to launch Hitman 3\. If this trick works for you, continue to the next step to**always run Epic Games launcher as administrator** . Otherwise you can jump to the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. On your desktop, right-click**Epic Game launcher** and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-games-launcher-run-as-admin-2.jpg)
 4. Navigate to the**Compatibility** tab. Under the**Settings** section, check the box next to**Run this program as an administrator** . Click**OK** to save the changes.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-games-launcher-run-as-admin-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Launch Hitman 3 from game folder
 
@@ -123,32 +131,24 @@ Here’s how you can check for updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-gear-icon.jpg)
 2. Scroll down and select**Update & Security** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
  After getting all the system updates, restart your gaming rig and check if Hitman 3 works now.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Check if it’s a server issue
@@ -174,24 +174,21 @@ Here’s how you can check for updates manually:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-the-comprehensive-23-twee-tide-digest/"><u>[Updated] 2024 Approved The Comprehensive '23 Twee-Tide Digest</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-navigating-payment-options-for-youtube-tv/"><u>[Updated] In 2024, Navigating Payment Options for YouTube TV</u></a></li>
-<li><a href="https://program-issues.techidaily.com/battle-stray-application-crashes-on-your-computer-with-these-proven-fixes-pc/"><u>Battle Stray Application Crashes on Your Computer with These Proven Fixes (PC)</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/benefits-and-considerations-making-the-switch-to-ios-16-or-ios-17/"><u>Benefits and Considerations: Making the Switch to iOS 16 or iOS 17</u></a></li>
-<li><a href="https://win-answers.techidaily.com/diy-repair-steps-for-uninterrupted-play-in-diablo-2-resurrected/"><u>DIY Repair Steps for Uninterrupted Play in Diablo 2: Resurrected</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-advice-correcting-crashes-and-improving-play-for-pacific-drive-pc-users/"><u>Expert Advice: Correcting Crashes and Improving Play for Pacific Drive PC Users</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-problem-age-of-empires-4-launch-failure-explained/"><u>Fixing the Problem: Age of Empires 4 Launch Failure Explained</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/free-online-converter-convert-mov-files-into-high-quality-flac-format/"><u>Free Online Converter: Convert MOV Files Into High-Quality FLAC Format</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-the-lego-star-wars-the-skywalker-saga-game-crashing-problems-on-pc-solution-update-2vearyear/"><u>How to Fix the Lego Star Wars: The Skywalker Saga Game Crashing Problems on PC - Solution Update 2Vearyear</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-oppo-reno-11-pro-5g-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Oppo Reno 11 Pro 5G Phone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-standout-cinematography-experts/"><u>In 2024, Unveiling Standout Cinematography Experts</u></a></li>
-<li><a href="https://win-answers.techidaily.com/installing-the-newest-logitech-g403-software-on-your-computer/"><u>Installing the Newest Logitech G403 Software on Your Computer</u></a></li>
-<li><a href="https://win-answers.techidaily.com/master-the-fix-ultimate-guide-to-preventing-game-crashes-in-paladins-latest-updates/"><u>Master the Fix: Ultimate Guide to Preventing Game Crashes in Paladins - Latest Updates</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcome-compatibility-issues-with-helldivers-2-on-pc-top-troubleshooting-tips/"><u>Overcome Compatibility Issues with Helldivers 2 on PC: Top Troubleshooting Tips</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overheating-if-a-device-overheats-it-may-shut-down-to-protect-itself-from-damage-allowing-it-to-cool-before-restarting-can-sometimes-fix-a-black-screen-prob444/"><u>Overheating: If a Device Overheats, It May Shut Down to Protect Itself From Damage. Allowing It to Cool Before Restarting Can Sometimes Fix a Black Screen Problem.</u></a></li>
-<li><a href="https://win-best.techidaily.com/simple-and-secure-guide-resolving-the-phantom-windows-11-update-malware/"><u>Simple and Secure Guide: Resolving the Phantom Windows 11 Update Malware</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tw-th-crashing-problem-with-expert-guidance/"><u>Troubleshooting TW: TH Crashing Problem with Expert Guidance</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ched-smartphone-camera-apps-on-ios-and-android-devices/"><u>Unmatched Smartphone Camera Apps on iOS & Android Devices</u></a></li>
-<li><a href="https://techtrends.techidaily.com/upgrade-your-system-effortlessly-11-favorite-free-update-programs/"><u>Upgrade Your System Effortlessly: 11 Favorite Free Update Programs</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-making-money-from-youtube-shorts-key-elements-and-profit-possibilities/"><u>[Updated] In 2024, Making Money From YouTube Shorts Key Elements & Profit Possibilities</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-streamlining-creative-journey-uploading-imovie-videos-to-youtube-for-2024/"><u>[Updated] Streamlining Creative Journey Uploading iMovie Videos to YouTube for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-ultimate-guide-to-laughing-photo-editing-tools-iosandroid/"><u>2024 Approved Ultimate Guide to Laughing Photo Editing Tools (iOS/Android)</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/assessing-speed-and-stability-the-bulky-outlook-on-netgears-powerline-xb6-pro-1200/"><u>Assessing Speed and Stability: The Bulky Outlook on Netgear's Powerline XB6 Pro 1200</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhance-your-gaming-experience-fixing-world-of-tanks-blitzs-persistent-crashes/"><u>Enhance Your Gaming Experience: Fixing World of Tanks Blitz's Persistent Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-discord-overlay-issues-simple-solutions-you-can-apply-today/"><u>Fix Discord Overlay Issues: Simple Solutions You Can Apply Today!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-ghost-runner-crash-issue-in-windows-11-troubleshooting-guide/"><u>Fixing the 'Ghost Runner' Crash Issue in Windows 11 - Troubleshooting Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/house-flipper-two-stability-solutions-for-a-smooth-gaming-experience-on-pcs/"><u>House Flipper Two Stability Solutions for a Smooth Gaming Experience on PCs</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-play-7t-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Honor Play 7T Phone without Google Account?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/interactive-entertainment-pauses-pc-life/"><u>Interactive Entertainment Pauses PC Life</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/master-the-mix-incorporating-and-refining-music-into-canva-projects/"><u>Master the Mix Incorporating & Refining Music Into Canva Projects</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-the-2022-dota-2-vac-ban-issue-a-comprehensive-guide/"><u>Resolving the 2022 Dota 2 VAC Ban Issue: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/restoring-the-recycle-bin-on-your-desktop-with-windows-10-or-windows-11/"><u>Restoring the Recycle Bin on Your Desktop with Windows 10 or Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stabilize-your-among-us-gameplay-advanced-tips-to-eliminate-crashes-latest-update/"><u>Stabilize Your Among Us Gameplay: Advanced Tips to Eliminate Crashes (Latest Update)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/techniques-to-optimize-your-gaming-session-elevating-fps-while-cutting-down-lag-in-fall-guys/"><u>Techniques To Optimize Your Gaming Session: Elevating FPS While Cutting Down Lag in Fall Guys</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-process-for-ms-office-on-windows-1011/"><u>Unveiling the Process for MS Office on Windows 10/11</u></a></li>
 </ul></div>
 

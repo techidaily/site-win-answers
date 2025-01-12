@@ -1,7 +1,7 @@
 ---
 title: "Guide: Resolving Windows 10'S Critical Error Code 0xC1e1 - A Step-by-Step Approach"
-date: 2025-01-03T16:36:37.570Z
-updated: 2025-01-05T21:57:37.110Z
+date: 2025-01-08T19:11:08.972Z
+updated: 2025-01-12T19:15:18.679Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/80b6560d97681f28de9031de7e7f0da06668db1bd
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -46,10 +50,6 @@ Here’s how to do it on the Epic Games client:
 1. Open your Epic Games client and go to**Library** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-1-2.jpg)
 2. Click the**ellipses** at the bottom right corner of Sid Meier’s Civilization VI. Then select**Verify** and wait for the process to complete.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/civ-6-verify.jpg)
 
@@ -77,10 +77,6 @@ If this doesn’t help, you can take a look at the next fix below.
 
  If the latest graphics driver doesn’t do the charm, you can check out the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Install all Windows updates
 
  Civ 6 has been out for several years now, so it’s possible it’ll run into compatibility issues with the latest Windows 10\. Microsoft releases system updates for Windows 10 on a regular basis. It’s important to**make sure you install all the system updates** .
@@ -90,14 +86,10 @@ If this doesn’t help, you can take a look at the next fix below.
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
@@ -113,25 +105,33 @@ If this solution doesn’t help, you can continue to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig-clean-boot-1.jpg)
 2. In the pop-up window, navigate to the **Services**  tab and check the box next to **Hide all Microsoft services** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now you can try to launch Civ 6\. If it’s working this time, repeat these steps and disable only half of the services and programs to root out the offenders.
 
@@ -147,15 +147,15 @@ If a clean boot doesn’t help, you can check out the next fix.
 
  You can also uninstall all the Visual C++ redistributable in**Programs and Features** , then reinstall them one by one. Be sure to choose the latest 64-bit installer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 6: Switch your DirectX version
 
  According to some,**running Civ 6 on another version of DirectX** might be a potential fix. Normally you’re prompted to select the DirectX version at startup. But you can also use the .exe file directly. By default, you can the .exe files in _C:\\Program Files (x86)\\Steam\\steamapps\\common\\Sid Meier’s Civilization VI\\Base\\Binaries\\Win64Steam_ . Use_CivilizationVI\_DX12.exe_ for DirectX 12 and_CivilizationVI.exe_ for DirectX 11.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/civ-6-directx.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -178,24 +178,17 @@ If a clean boot doesn’t help, you can check out the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-dominance-in-video-landscape-mirrorless-vs-dslr-cameras/"><u>[New] In 2024, Dominance in Video Landscape Mirrorless vs DSLR Cameras</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-reclaim-your-spotlight-evading-tiktok-shadowbans/"><u>[New] Reclaim Your Spotlight Evading TikTok Shadowbans</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-discovering-easy-content-downloads-on-funimate-for-2024/"><u>[Updated] Discovering Easy Content Downloads on Funimate for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-how-to-choose-a-live-streaming-platform-with-10-tips-in-2024/"><u>[Updated] How to Choose a Live Streaming Platform with 10 Tips, In 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-2023-fb-link-collection-access-8-free-and-online-downloads/"><u>[Updated] In 2024, 2023 FB Link Collection Access 8 Free & Online Downloads</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/budget-deals-on-high-quality-gopros/"><u>Budget Deals on High-Quality GoPros</u></a></li>
-<li><a href="https://games-able.techidaily.com/clearing-roblox-problem-262/"><u>Clearing Roblox: Problem 262</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-advice-on-eliminating-crashing-issues-when-playing-battlefield-2042-on-your-computer/"><u>Expert Advice on Eliminating Crashing Issues When Playing Battlefield 2042 on Your Computer</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723003620051-fps-improvements-in-red-dead-redemption-2-overcoming-stuttering-issues-now-resolved/"><u>FPS Improvements in Red Dead Redemption 2: Overcoming Stuttering Issues - Now Resolved</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-a-non-launching-modern-warfare-3-mw3-a-comprehensive-guide/"><u>How to Fix a Non-Launching Modern Warfare 3 MW3: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/master-quick-reactions-with-zero-lag-optimizing-street-fighter-6-performance-on-your-gaming-rig/"><u>Master Quick Reactions with Zero Lag: Optimizing Street Fighter 6 Performance on Your Gaming Rig</u></a></li>
-<li><a href="https://win-answers.techidaily.com/pc-gaming-made-easy-fix-stuttering-and-lag-in-bloodhunt-today/"><u>PC Gaming Made Easy: Fix Stuttering and Lag in Bloodhunt Today!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-issues-with-compiling-shaders-in-call-of-duty-black-ops-cold-war/"><u>Resolved: Issues with Compiling Shaders in Call of Duty Black Ops Cold War</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-7-go-to-websites-for-upcoming-films-sneak-peeks-and-previews/"><u>Top 7 Go-To Websites for Upcoming Films Sneak Peeks and Previews</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-7-solutions-for-resolving-steams-dark-interface-issue/"><u>Top 7 Solutions for Resolving Steam's Dark Interface Issue</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-and-correcting-error-5573-on-your-call-of-duty-vanguard-gameplay/"><u>Troubleshooting and Correcting Error 5573 on Your Call of Duty Vanguard Gameplay</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-oneplus-12-frp-bypass-by-drfone-android/"><u>Ultimate Guide from OnePlus 12 FRP Bypass</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-solving-your-qbittorent-download-issues-when-its-unresponsive/"><u>Ultimate Guide: Solving Your qBittorent Download Issues When It's Unresponsive</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/unveiling-the-secrets-of-youtube-shorts-success-for-2024/"><u>Unveiling the Secrets of YouTube Shorts Success for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-methods-to-subtly-soften-audible-output-via-lumafusion/"><u>[New] Innovative Methods to Subtly Soften Audible Output via Lumafusion</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-instagram-reels-virality-unlocked-leveraging-tiktok-hacks/"><u>[Updated] In 2024, Instagram Reels Virality Unlocked Leveraging TikTok Hacks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/dealing-with-missing-inbound-emails-on-yahoo-accounts/"><u>Dealing with Missing Inbound Emails on Yahoo Accounts</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fast-track-your-phasmophobia-game-past-the-stubborn-90-load-screen-expert-hacks/"><u>Fast-Track Your Phasmophobia Game Past the Stubborn 90% Load Screen: Expert Hacks</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-mdm-from-iphone-se-2020-without-apple-id-by-drfone-ios-unlock-ios-unlock/"><u>How to Remove MDM from iPhone SE (2020) without Apple ID?</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722977381892-how-to-update-intel-graphics-drivers-easily/"><u>How to Update Intel Graphics Drivers. Easily</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-solutions-resolving-issues-when-starting-genshin-impact/"><u>Quick Solutions: Resolving Issues When Starting Genshin Impact</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-steps-to-fix-davinci-resolve-launch-failures-on-windows-pcs/"><u>Resolved: Steps to Fix DaVinci Resolve Launch Failures on Windows PCs</u></a></li>
+<li><a href="https://facebook.techidaily.com/silence-seekers-how-to-keep-your-posts-comment-free/"><u>Silence Seekers: How to Keep Your Posts Comment-Free</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/solved-move-from-realme-narzo-n53-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Realme Narzo N53 to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-shifting-window-bar-through-decades-1985-2023/"><u>The Shifting Window Bar Through Decades (1985-2023)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-and-fixing-game-crashes-ultimate-tips-for-jurassic-world-evolution/"><u>Troubleshooting and Fixing Game Crashes: Ultimate Tips for Jurassic World Evolution</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fixing Constant Mordhau Breakdowns: Expert Tips and Tricks to Enhance Gaming Experience"
-date: 2025-01-01T22:39:10.630Z
-updated: 2025-01-06T00:52:41.607Z
+date: 2025-01-11T18:50:19.706Z
+updated: 2025-01-12T17:10:05.262Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ Recently many Fallout 76 players have been plagued by the**Fallout 76 disconnect
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to fix Fallout 76 Disconnected From Server in Windows
 
@@ -48,15 +44,15 @@ Here is how to reset Winsock data:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-566.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) When prompted for permission, click**Yes** to run Command Prompt.
 
  3) In the Command Prompt, type **netsh winsock reset**  and hit **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap7-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Restart your computer.
 
@@ -75,6 +71,10 @@ Here is how to do it:
  2) Right-click on **a bandwidth hogging app** and click **End Task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1deba6c03f2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Repeat step **2)** on every other bandwidth hogging programs.
 
@@ -100,10 +100,6 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5af0deb80ba.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -122,12 +118,16 @@ Here is how to restart your network:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _modem_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap3-5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _wireless router_
@@ -140,10 +140,6 @@ _wireless router_
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Fix 5: Flush your DNS and Renew your IP**
 
  DNS and IP issues may also cause Fallout 76 to disconnect from the server. So you can flush your DNS and renew your IP to see if it solves the issue.
@@ -154,10 +150,6 @@ _wireless router_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-566.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) When prompted for permission, click**Yes** to run Command Prompt.
 
  3) Type**the following command line** and press **Enter**  on your keyboard.**ipconfig /flushdns**
@@ -165,7 +157,7 @@ _wireless router_
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap9-5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### To renew your IP
@@ -173,6 +165,10 @@ _wireless router_
  1) On your keyboard, press **the Windows Logo Key** and type **cmd** . Then right-click Command Prompt when it comes up as a result and select **Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-566.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) When prompted for permission, click**Yes** to run Command Prompt.
 
@@ -182,11 +178,19 @@ _wireless router_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Type**the following command line** and press **Enter**  on your keyboard.
 
 **ipconfig /renew**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap12-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5) Launch Fallout 76.
 
@@ -212,6 +216,10 @@ Here is how to switch the DNS server to Google Public DNS:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-612.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Right-click on**your current network** and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-613.png)
@@ -220,17 +228,9 @@ Here is how to switch the DNS server to Google Public DNS:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap21-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  6) Select **Obtain an IP address automatically** and **Use the following DNS server addresses** . For **the Preferred DNS server** , enter the Google Public DNS address: **8.8.8.8** ; **for the Alternative DNS server** , enter the Google Public DNS address: **8.8.4.4** . Then click **OK** to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-614.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7) Restart your computer for the changes to take effect.
 
@@ -267,18 +267,21 @@ Here is how to switch the DNS server to Google Public DNS:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-youtube-playback-tweaks-turn-off-auto-play-videos-for-2024/"><u>[New] YouTube Playback Tweaks Turn Off Auto-Play Videos for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-list-of-e-commerce-sites-for-one-of-a-kind-boxed-gifts/"><u>2024 Approved Exclusive List of E-Commerce Sites for One-of-a-Kind Boxed Gifts</u></a></li>
-<li><a href="https://win-answers.techidaily.com/bypass-errors-and-start-your-game-latest-solutions-to-play-last-epoch-on-pc-tips-and-tricks-2024/"><u>Bypass Errors and Start Your Game: Latest Solutions to Play Last Epoch on PC - Tips & Tricks 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/call-of-dutys-warzone-overcoming-common-screen-issues-with-expert-advice/"><u>Call of Duty's Warzone - Overcoming Common Screen Issues with Expert Advice</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/effective-strategies-to-resolve-non-launching-issues-in-fatal-companies-a-2024-guide/"><u>Effective Strategies to Resolve Non-Launching Issues in Fatal Companies: A 2024 Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-sims-4-graphics-glitch-a-comprehensive-guide/"><u>Fixing The Sims 4 Graphics Glitch: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/guide-to-overcome-compatibility-problems-and-stop-far-cry-6-from-stopping-on-your-pc/"><u>Guide To Overcome Compatibility Problems & Stop Far Cry 6 From Stopping On Your PC</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-cut-and-trim-videos-for-free-the-best-software/"><u>In 2024, Cut and Trim Videos for Free The Best Software</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-top-affordable-camcorders-with-full-rotational-coverage/"><u>In 2024, Top Affordable Camcorders with Full Rotational Coverage</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/install-updated-dell-network-driver-improve-your-wi-fi-speed/"><u>Install Updated Dell Network Driver - Improve Your Wi-Fi Speed</u></a></li>
-<li><a href="https://win-answers.techidaily.com/pubg-not-working-heres-how-to-tackle-game-freezes-and-lag-issues-on-pc/"><u>PUBG Not Working? Here’s How to Tackle Game Freezes and Lag Issues on PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-performance-issues-tips-to-resolve-pubg-pc-lag-and-unresponsiveness/"><u>Solving Performance Issues: Tips to Resolve PUBG PC Lag and Unresponsiveness</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-android-tablets-comprehensive-reviews-by-tech-gurus-zdnet/"><u>Top-Rated Android Tablets : Comprehensive Reviews by Tech Gurus | ZDNet</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-becoming-an-srt-creation-virtuoso-a-complete-manual/"><u>[New] In 2024, Becoming an SRT Creation Virtuoso A Complete Manual</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-setup-guide-connect-obs-and-streamlabs-on-your-mac/"><u>[Updated] Setup Guide Connect OBS and Streamlabs on Your Mac</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-the-complete-drone-equipment-collection-guide/"><u>[Updated] The Complete Drone Equipment Collection Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-transform-your-social-feed-to-full-screen/"><u>2024 Approved Transform Your Social Feed to Full Screen</u></a></li>
+<li><a href="https://extra-information.techidaily.com/crafting-compelling-narratives-with-spotify-ads/"><u>Crafting Compelling Narratives with Spotify Ads</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722994890660-easy-steps-for-a-smooth-mortal-kombat-11-experience-avoid-crashes-now/"><u>Easy Steps for a Smooth Mortal Kombat 11 Experience: Avoid Crashes Now</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhanced-fnaf-security-breach-experience-no-more-pc-game-crashes/"><u>Enhanced FNAF Security Breach Experience – No More PC Game Crashes</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-honor-90-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Honor 90 Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-s17t-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from S17t</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-the-fixes-ensuring-smooth-play-in-hearthstone-by-avoiding-pc-malfunctions/"><u>Master the Fixes: Ensuring Smooth Play in Hearthstone by Avoiding PC Malfunctions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimizing-the-spotify-browser-app-overcoming-lag-and-malfunction/"><u>Optimizing the Spotify Browser App: Overcoming Lag and Malfunction</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-the-error-6-glitch-on-pc-for-call-of-duty-warzone-and-modern-warfare/"><u>Overcome the Error 6 Glitch on PC for Call of Duty Warzone and Modern Warfare</u></a></li>
+<li><a href="https://win-docs.techidaily.com/top-8-creative-sparking-mind-mapping-books-enhance-ideas-and-unleash-innovation/"><u>Top 8 Creative Sparking Mind Mapping Books: Enhance Ideas and Unleash Innovation</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-low-frames-per-second-fps-in-avatars-pandoran-adventures/"><u>Troubleshooting Low Frames Per Second (FPS) in Avatar's Pandoran Adventures</u></a></li>
+<li><a href="https://article-tips.techidaily.com/unleashing-creativity-top-30-video-plans-for-2024/"><u>Unleashing Creativity Top 30 Video Plans for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/wwe-2k22-pc-version-continuous-crash-guide-solutions-and-fixes/"><u>WWE 2K22 PC Version Continuous Crash Guide – Solutions and Fixes</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix Madden 19 PC Instances of Unexpected Shutdowns and Glitches
-date: 2025-01-04T22:37:21.792Z
-updated: 2025-01-06T03:20:12.270Z
+date: 2025-01-10T18:27:02.868Z
+updated: 2025-01-12T16:02:20.229Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to fix Dark Souls 3 crashing
 
  Here are solutions to fix Dark Souls 3 crashing on PC. You shouldn’t have to try them all; just work your way down the list until everything’s working again.
@@ -38,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 4. [Set game options to LOW](https://tools.techidaily.com/drivereasy/download/)
 5. [Verify Integrity of Game Files](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Disable overlays for your game
 
  If there is any overlay software running when you play Dark Souls 3, it may cause game crashing on startup or freezing. It’s normal to use overlays for Steam games, but some games could be incompatible with overlay software.
@@ -49,7 +41,7 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 **Try disabling overlays for Dark Souls 3** and see if your game stops crashing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Run in Windowed mode
@@ -80,7 +72,7 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
  Your problem still persists, don’t worry. There are other solutions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your video driver
@@ -101,6 +93,10 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-706.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click_Update All_ ).
 
  Note: You can do it for free if you like, but it’s partly manual.
@@ -111,10 +107,6 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 
 Now launch Dark Souls 3 and see if it works.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4: Set game options to LOW
 
  If your game options are set High, this requires much more system resources and so Dark Souls 3 may crash. In that case, you should set game options to**_LOW_** so as to stop your game crashing.
@@ -123,6 +115,10 @@ Now launch Dark Souls 3 and see if it works.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-709.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If you can’t access the in-game settings, try this:
 
  1) On your keyboard, press the**Windows logo key** and**R** at the same time to open the Run box.
@@ -130,6 +126,10 @@ If you can’t access the in-game settings, try this:
  2) Type**_%appdata%_** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-710.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Open**DarkSouls3** folder.
 
@@ -144,6 +144,10 @@ If you can’t access the in-game settings, try this:
 Then play your game to see if it works properly.
 
  Still no luck? Don’t give up hope. There’s one more thing to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Verify Integrity of Game Files
 
@@ -162,10 +166,6 @@ Then play your game to see if it works properly.
  4) Click the**Local files** tab, and click**Verify Integrity Of Game Files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-705.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Steam will check your game files and fix any detected problems. Follow the on-screen instructions to finish the process.
 
@@ -192,24 +192,18 @@ Then play your game to see if it works properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-charting-a-course-through-creative-professions/"><u>[New] Charting a Course Through Creative Professions</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-swiftpodcasts-guide-for-iphone-users-download-made-simple/"><u>[New] In 2024, SwiftPodcasts Guide for iPhone Users - Download Made Simple</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-upward-perspectives-capturing-landscapes-from-your-phone/"><u>[New] In 2024, Upward Perspectives Capturing Landscapes From Your Phone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-step-into-virtuality-comparing-best-vr-treadmills/"><u>2024 Approved Step Into Virtuality Comparing Best VR Treadmills</u></a></li>
-<li><a href="https://win-answers.techidaily.com/defeat-the-glitches-handy-tips-for-stable-gameplay-on-your-valheim-pc-installation/"><u>Defeat the Glitches: Handy Tips for Stable Gameplay on Your Valheim PC Installation</u></a></li>
-<li><a href="https://win-answers.techidaily.com/diablo-3-troubleshooting-fix-the-persistent-game-crashes/"><u>Diablo 3 Troubleshooting: Fix the Persistent Game Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-pc-issues-how-to-prevent-darkest-dungeon-2-from-crashing/"><u>Fixing PC Issues: How to Prevent Darkest Dungeon 2 From Crashing</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-runtime-errors-a-guide-to-getting-robocop-rise-of-the-machines-running-smoothly-on-your-pc/"><u>Fixing Runtime Errors - A Guide to Getting Robocop: Rise of the Machines Running Smoothly on Your PC</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-motorola-razr-40-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Motorola Razr 40 Pattern Lock Screen</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-best-focus-effects-iphone-vs-android-photo-solutions/"><u>In 2024, Best Focus Effects IPhone vs Android Photo Solutions</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-election-enthusiasts-essentials-quintessential-voting-games/"><u>In 2024, Election Enthusiasts' Essentials Quintessential Voting Games</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-seo-excellence-transforming-podcast-discoverability/"><u>In 2024, SEO Excellence Transforming Podcast Discoverability</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcome-pc-issues-with-persona-abler-strikers-a-comprehensive-guide-to-resolving-game-crashes/"><u>Overcome PC Issues with Persona Abler Strikers: A Comprehensive Guide to Resolving Game Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/smooth-gaming-ahead-death-strandings-crash-woes-resolved-for-pc-users/"><u>Smooth Gaming Ahead: Death Stranding's Crash Woes Resolved for PC Users</u></a></li>
-<li><a href="https://win-answers.techidaily.com/steam-remote-play-malfunctions-heres-how-to-restore-full-functionality/"><u>Steam Remote Play Malfunctions? Here's How to Restore Full Functionality</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/trouble-with-apple-iphone-xr-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>Trouble with Apple iPhone XR Swipe-Up? Try These 11 Solutions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-your-pc-for-continuous-dirt-crashes-solutions-inside/"><u>Troubleshooting Your PC for Continuous Dirt ^_^ Crashes: Solutions Inside!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722993840337-unveiling-solutions-la-noires-pc-launch-hurdles-cleared/"><u>Unveiling Solutions: L.A. Noire's PC Launch Hurdles Cleared!</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/video-earnings-explored-in-depth-look-at-dm-and-yo-for-2024/"><u>Video Earnings Explored In-Depth Look at Dm & Yo for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-guffaws-galore-compiled-list-of-10-funniest-youtube-short-videos/"><u>[Updated] 2024 Approved Guffaws Galore Compiled List of 10 Funniest YouTube Short Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-camera-woes-ended-by-fix-obs/"><u>[Updated] In 2024, Camera Woes Ended by Fix - OBS</u></a></li>
+<li><a href="https://win-answers.techidaily.com/battlefield-2042-directx-troubleshooting-tips-and-solutions/"><u>Battlefield 2042 DirectX Troubleshooting: Tips and Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-logitech-g-hub-compatibility-issues-with-microsofts-operating-system/"><u>Fixing Logitech G Hub Compatibility Issues with Microsoft's Operating System</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-long-does-a-20mb-video-last-for-2024/"><u>How Long Does a 20MB Video Last for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-complete-guide-to-mastering-polarrs-image-precision/"><u>In 2024, The Complete Guide to Mastering Polarr's Image Precision</u></a></li>
+<li><a href="https://win-answers.techidaily.com/no-more-crashes-effortless-fixes-for-outriders-issues/"><u>No More Crashes: Effortless Fixes for Outriders Issues</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ps5s-unique-gaming-titles-a-comprehensive-guide/"><u>PS5's Unique Gaming Titles - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-guide-overcoming-qsurfaceformat-opengl-creation-failures/"><u>Solution Guide: Overcoming QSurfaceFormat OpenGL Creation Failures</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solve-your-gaming-woes-tips-to-stop-final-fantasy-from-freezing-on-desktop/"><u>Solve Your Gaming Woes: Tips to Stop 'Final Fantasy' From Freezing on Desktop</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-strategies-to-overcome-minecraft-frame-drops-on-desktop-updated-guide-for-202-cuckfingered-pc-players/"><u>Top Strategies to Overcome Minecraft Frame Drops on Desktop - Updated Guide for 202 Cuckfingered PC Players</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-resolving-maplestory-freezing-issues-on-windows-10-pcs/"><u>Ultimate Guide: Resolving MapleStory Freezing Issues on Windows 10 PCs</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-vivo-y36i-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Vivo Y36i? Here is How | Dr.fone</u></a></li>
 </ul></div>
 

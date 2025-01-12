@@ -1,7 +1,7 @@
 ---
 title: Fix Elden Ring's Lag Issues in Just 6 Swift Solutions
-date: 2025-01-03T04:15:00.828Z
-updated: 2025-01-05T20:13:33.704Z
+date: 2025-01-11T18:28:39.782Z
+updated: 2025-01-12T17:28:08.865Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ After Watch Dogs and Valhalla, Ubisoft recently released another sandbox title i
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down until you find the one that does the trick.
@@ -32,6 +36,10 @@ After Watch Dogs and Valhalla, Ubisoft recently released another sandbox title i
 2. [**Verify the integrity of game files**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Update your graphics driver**](https://tools.techidaily.com/drivereasy/download/)
 4. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your PC specs meet the requirements
 
@@ -72,17 +80,9 @@ Here’s how:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/ifr-verify-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once completed, launch Immortals Fenyx Rising and see if it crashes again.
 
 If this method doesn’t help, you can take a look at the next one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -108,11 +108,15 @@ If this method doesn’t help, you can take a look at the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -122,7 +126,7 @@ If this method doesn’t help, you can take a look at the next one.
  If updating your graphics driver doesn’t solve your problem, you can take a look at the next method below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Install all Windows updates
@@ -136,10 +140,6 @@ And here’s how you can make sure your system is the latest:
 2. Click **Check for updates** . Then wait for Windows to download and install available updates automatically.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
@@ -164,21 +164,22 @@ And here’s how you can make sure your system is the latest:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-dominating-the-index-youtube-seo-tools-that-work/"><u>[Updated] 2024 Approved Dominating the Index YouTube SEO Tools That Work</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-harnessing-the-power-of-video-the-most-effective-fb-ad-practices-for-2024/"><u>[Updated] Harnessing the Power of Video The Most Effective FB Ad Practices for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-zoom-strategy-for-videoleap-videos/"><u>[Updated] The Ultimate Zoom Strategy for Videoleap Videos</u></a></li>
-<li><a href="https://facebook.techidaily.com/big-tech-in-trouble-government-intervention-explained/"><u>Big Tech in Trouble? Government Intervention Explained</u></a></li>
-<li><a href="https://win-answers.techidaily.com/detroit-becoming-human-stability-improved-for-windows-gaming-experience/"><u>Detroit: Becoming Human - Stability Improved for Windows Gaming Experience</u></a></li>
-<li><a href="https://win-answers.techidaily.com/escape-from-tarkov-stability-issues-on-windows-solutions-at-hand/"><u>Escape From Tarkov Stability Issues on Windows - Solutions at Hand</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-unlock-your-boost-mobile-iphone-13-pro-before-the-plan-expires-by-drfone-ios/"><u>In 2024, Unlock Your Boost Mobile iPhone 13 Pro Before the Plan Expires</u></a></li>
-<li><a href="https://win-answers.techidaily.com/insight-into-football-manager-2022s-delayed-start-everything-you-need-to-know-now-sorted-out/"><u>Insight Into Football Manager 2022'S Delayed Start: Everything You Need to Know, Now Sorted Out!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/instant-remedies-to-fix-your-epic-games-launchers-failure-to-open-problem/"><u>Instant Remedies to Fix Your Epic Games Launcher's Failure to Open Problem</u></a></li>
-<li><a href="https://win-answers.techidaily.com/lego-star-wars-series-update-tackles-persistent-pc-freezing-problems-before-2024-launch/"><u>Lego Star Wars Series Update Tackles Persistent PC Freezing Problems Before 2024 Launch</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Honor 90 GT | Dr.fone</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/mastering-multimedia-techniques-for-incorporating-audio-in-after-effects-designs/"><u>Mastering Multimedia: Techniques for Incorporating Audio in After Effects Designs</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/premium-eco-conscious-video-recorders-how-to-use-for-2024/"><u>Premium Eco-Conscious Video Recorders How to Use for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/top-12-free-3d-animation-programs-of-2024-your-ultimate-comparison-guide/"><u>Top 12 Free 3D Animation Programs of 2024: Your Ultimate Comparison Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-quiet-sessions-restoring-roblox-sound-features-for-windows-users-xp-vista/"><u>Troubleshooting Quiet Sessions: Restoring Roblox Sound Features for Windows Users (XP, Vista)</u></a></li>
-<li><a href="https://win-answers.techidaily.com/utorrent-fixed-solutions-for-improved-peer-connection-and-torrent-downloading/"><u>UTorrent Fixed: Solutions for Improved Peer Connection and Torrent Downloading</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-free-fcp-downloading-what-you-need/"><u>[New] Free FCP Downloading - What You Need</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-top-8-private-video-downloaders/"><u>[Updated] 2024 Approved Top 8 Private Video Downloaders</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-increase-views-with-smart-igtv-title-and-summary-edits/"><u>[Updated] Increase Views with Smart IGTV Title and Summary Edits</u></a></li>
+<li><a href="https://fox-within.techidaily.com/1728484245140-iphone/"><u>电脑图片转移至iPhone的完全手册：七个有效战略</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/dialect-dynamics-ukrainian-vs-russian-conversations/"><u>Dialect Dynamics: Ukrainian Vs Russian Conversations</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-to-share-instagram-reels-to-facebook/"><u>How to Share Instagram Reels to Facebook</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-oppo-f25-pro-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Oppo F25 Pro 5G to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/immortals-of-the-fenyx-series-release-obstacles-overcome-and-launch-achieved/"><u>Immortals of the Fenyx Series – Release Obstacles Overcome & Launch Achieved</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-maplestory-performance-avoid-crashes-on-windows-11-with-our-latest-fixes/"><u>Mastering MapleStory Performance: Avoid Crashes on Windows 11 With Our Latest Fixes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-launch-errors-in-monster-hunter-stories-2-wings-of-ruin-step-by-step-solutions/"><u>Overcoming Launch Errors in Monster Hunter Stories 2: Wings of Ruin – Step-by-Step Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-call-of-duty-vanguard-stability-improvements-for-desktop-users/"><u>Resolved: Call of Duty Vanguard Stability Improvements for Desktop Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-recurring-war-thunder-breakdowns-for-a-smoother-gaming-experience-2024-tips/"><u>Resolving Recurring War Thunder Breakdowns for a Smoother Gaming Experience (2024 Tips)</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/strategies-dattenuation-et-de-prevention-pour-la-fausse-mise-a-jour-windows-11/"><u>Stratégies D'Atténuation Et De Prévention Pour La Fausse Mise À Jour Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transform-your-arw-images-into-jpgs-swiftly-across-pcs-and-macs-simple-4-step-procedure-revealed/"><u>Transform Your ARW Images Into JPGs Swiftly Across PCs and Macs – Simple 4-Step Procedure Revealed</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-fixing-nier-replicant-enhanced-edition-startup-issues/"><u>Troubleshooting: Fixing 'NieR Replicant Enhanced Edition' Startup Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unstick-your-adventure-in-sea-of-thieves-overcoming-the-endless-loading-phase/"><u>Unstick Your Adventure in Sea of Thieves – Overcoming the Endless Loading Phase</u></a></li>
+<li><a href="https://win-answers.techidaily.com/vanishing-visions-defeated-eliminating-resident-evil-villages-darkness-dilemma-for-a-seamless-pc-experience/"><u>Vanishing Visions Defeated: Eliminating Resident Evil Village's Darkness Dilemma for a Seamless PC Experience</u></a></li>
 </ul></div>
 
