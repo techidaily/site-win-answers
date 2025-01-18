@@ -1,7 +1,7 @@
 ---
 title: "Fixing Silent Blocks: Troubleshooting No Audio in Minecraft on Your Computer"
-date: 2024-08-13T12:10:06.737Z
-updated: 2024-08-14T12:10:06.737Z
+date: 2025-01-16T06:28:21.041Z
+updated: 2025-01-18T10:04:39.387Z
 tags:
   - win11
   - win10
@@ -34,6 +34,10 @@ The infinite world in Minecraft is waiting for you to explore, but you just can�
 
  Also make sure you have downloaded **[the latest Java version](https://java.com/en/download/manual.jsp)**  , which is important for your Minecraft to run smoothly. Note that you should download the Java file according to your operating system (32-bit or 64-bit).[How to check my computer specs?](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here are 6 fixes that proved very helpful for many users. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -45,9 +49,6 @@ The infinite world in Minecraft is waiting for you to explore, but you just can�
 5. **[Disable Mods](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reinstall your Minecraft](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Disable Discord Overlay
 
  Many users are reporting that Discord overlay can cause Minecraft not to respond. To fix it, you need to**disable Discord Overlay** or**close Discord completely** .
@@ -58,10 +59,11 @@ The infinite world in Minecraft is waiting for you to explore, but you just can�
 
  2) Select the**Overlay** tab, and turn off**Enable in-game overlay** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/discord-overlay.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Launch your Minecraft again.
 
@@ -69,9 +71,6 @@ The infinite world in Minecraft is waiting for you to explore, but you just can�
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Remove incompatible software
 
  Norton anti-virus software is known to cause issues with Minecraft. It can be a little too protective and will block things you don’t want to block even when you’ve disabled it. You can install the software or replace it to avoid bumping into the same problem.
@@ -83,9 +82,9 @@ The infinite world in Minecraft is waiting for you to explore, but you just can�
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Update your device drivers
 
  Minecraft not working can be caused by outdated or corrupt device drivers, especially your graphics card driver. Graphics driver allows your computer to display the game correctly.
@@ -113,10 +112,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-09-24_10-03-23-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the**Update** button next to your graphics driver to download the correct version of its driver, then you can manually install it.
 
@@ -146,9 +146,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  3) Select the**Compatibility** tab and check the box next to**Run this program as an administrator** . Click**Apply** and then**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/admin-1.jpg)
 
 4) Run Minecraft again to see if this works.
@@ -165,9 +162,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ### Fix 6: Reinstall your Minecraft
 
  If none of these fixes above works for you, you may need to try reinstalling the game to solve this problem.
@@ -178,14 +172,19 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/APP-uninstall.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Right-click**Minecraft** and select**Uninstall** .
 
  4) Press the Windows logo key and R again to open the Run box again, then type**%appdata%** and press**Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/appdata.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Right-click the**.minecraft** folder and select**Delete** to make sure you’ve deleted the related files.
 
@@ -210,8 +209,6 @@ Feel free to leave us a comment if you have any questions or suggestions.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -219,4 +216,21 @@ Feel free to leave us a comment if you have any questions or suggestions.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-capturing-the-essence-of-sims-gaming/"><u>[New] 2024 Approved Capturing the Essence of Sims Gaming</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-htc-vive-comfort-top-strategies-to-prevent-discomfort-for-2024/"><u>[New] HTC Vive Comfort Top Strategies to Prevent Discomfort for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-identifying-10-leading-vr-devices-for-your-pc/"><u>[New] Identifying 10 Leading VR Devices for Your PC</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-the-gopro-editors-blueprint-to-stunning-colored-images-for-2024/"><u>[New] The GoPro Editor's Blueprint to Stunning Colored Images for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024wavmp3top8/"><u>「2024年版：弊社がピックアップした無料で人気のWAVからMP3へのコンバーターTOP8」</u></a></li>
+<li><a href="https://win-answers.techidaily.com/connectivity-troubles-in-halo-infinite-heres-how-to-restore-pings-to-our-data-centers/"><u>Connectivity Troubles in Halo Infinite? Here's How to Restore Pings to Our Data Centers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722858492692-discover-free-texting-solutions-tailored-for-iphone-and-ipod-touch-users-today/"><u>Discover Free Texting Solutions Tailored for iPhone & iPod Touch Users Today!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-for-fixing-the-not-working-error-on-voice-chats-due-to-content-warning-alerts/"><u>Expert Tips for Fixing the ‘Not Working’ Error on Voice Chats Due to Content Warning Alerts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/future-worlds-converge-or-diverge-metaverse-vs-omniverse-debated-for-2024/"><u>Future Worlds Converge or Diverge? Metaverse Vs. Omniverse Debated for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-launch-last-epoch-game-on-your-computer-upcoming-solutions/"><u>How to Launch 'Last Epoch' Game on Your Computer - Upcoming Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-the-steam-black-screen-hurdle-with-these-7-effective-fixes-2024-edition/"><u>Overcome the Steam Black Screen Hurdle with These 7 Effective Fixes - 2024 Edition</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-continuous-shutdowns-how-to-stop-snowrunner-from-quitting-unexpectedly/"><u>Troubleshooting Continuous Shutdowns: How to Stop SnowRunner From Quitting Unexpectedly</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-the-best-locations-for-finding-top-quality-insta-tones-and-crafting-excellent-alarms-for-2024/"><u>Unveiling the Best Locations for Finding Top-Quality Insta Tones and Crafting Excellent Alarms for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/vanguard-software-minimum-system-requirements-is-your-cpu-up-to-date/"><u>Vanguard Software Minimum System Requirements: Is Your CPU Up-to-Date?</u></a></li>
+</ul></div>
 

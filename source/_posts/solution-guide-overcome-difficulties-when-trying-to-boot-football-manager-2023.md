@@ -1,7 +1,7 @@
 ---
 title: "Solution Guide: Overcome Difficulties When Trying To Boot Football Manager 2023"
-date: 2025-01-02T17:20:06.797Z
-updated: 2025-01-05T22:41:38.763Z
+date: 2025-01-10T22:13:37.363Z
+updated: 2025-01-17T18:25:01.788Z
 tags:
   - win11
   - win10
@@ -31,10 +31,6 @@ Looking for Football Manager 2023 won’t launch fixes? You’ve come to the rig
 3. [Verify game files](https://tools.techidaily.com/drivereasy/download/)
 4. [Disable overlay and launch in Windowed mode](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Add an exception to your antivirus
 
  Many players have indicated their game files were blocked by antivirus software and caused the issue. Try this fix especially you’re an Avast or Avg user. They had virus definitions updated which mistakingly blocks steam/fm.exe.  
@@ -47,8 +43,16 @@ Take Avast as an example:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-16-03.jpg)
 3. Click**Settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-16-38.jpg)
 4. Click**Exception > Add Exception** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-15-52.jpg)
 5. Find your fm.exe location. Click**BROWSE** to add exception.  
@@ -88,10 +92,6 @@ Visit the website of your GPU manufacturer and search for your GPU model.
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Verify game files
 
  When the game file is broken or missing, the game won’t launch. If you’re playing FM21 on Steam, follow the steps to verity integrity of game files.
@@ -102,13 +102,17 @@ Visit the website of your GPU manufacturer and search for your GPU model.
 3. Go to**LOCAL FILES** and click**Verify integrity of game files…**  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 4. When the process is finished, relaunch the game to check.
 
 If this fix bring no luck, move to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Disable overlay and launch in Windowed mode
 
@@ -120,15 +124,11 @@ If this fix bring no luck, move to the next fix.
 3. In the**GENERAL** tab, uncheck**Enable the Steam Overlay while in-game** and type**\-windowed** under**LAUNCH OPTIONS** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_17-39-55.jpg)
 4. Relaunch the game to check.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If it’s still not working, you may try resetting your whole PC. Note that you need to backup important files before resetting. Some players indicated the game started working normally after that.
 
@@ -151,18 +151,18 @@ If this fix bring no luck, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-from-idea-to-reality-explore-these-12-inspirational-free-image-websites/"><u>[New] From Idea to Reality – Explore These 12 Inspirational Free Image Websites</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-streamline-your-experience-with-these-top-7-mobile-adblockers/"><u>[New] In 2024, Streamline Your Experience with These Top 7 Mobile AdBlockers</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-finest-pencil-masters-free-vs-paid-windows-apps-reviewed-for-2024/"><u>[Updated] Finest Pencil Masters Free vs Paid Windows Apps Reviewed for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-proven-methods-for-downloading-multiple-tiktok-videos/"><u>[Updated] In 2024, Proven Methods for Downloading Multiple TikTok Videos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/budget-travelers-rejoice-the-low-cost-power-station-that-revolutionized-road-trips-zdnets-take/"><u>Budget Travelers Rejoice: The Low-Cost Power Station That Revolutionized Road Trips (ZDNet's Take)</u></a></li>
-<li><a href="https://win-answers.techidaily.com/easy-fixes-for-launching-starfield-on-your-console-overcoming-startup-hiccups-on-steamxbox/"><u>Easy Fixes for Launching Starfield on Your Console – Overcoming Startup Hiccups on Steam/Xbox</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-ways-to-prevent-subnautica-below-zero-bugs-and-crashes-on-personal-computers/"><u>Effective Ways to Prevent Subnautica: Below Zero Bugs and Crashes on Personal Computers</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-jointly-experience-live-content-on-tiktok-platform/"><u>In 2024, Jointly Experience Live Content on TikTok Platform</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-steam-cannot-sync-with-cloud-storage-errors-quickly-and-easily/"><u>Resolving 'Steam Cannot Sync with Cloud Storage' Errors Quickly and Easily</u></a></li>
-<li><a href="https://win-answers.techidaily.com/say-goodbye-to-star-wars-battlefront-ii-stutters-update-now/"><u>Say Goodbye to Star Wars Battlefront II Stutters - Update Now!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-ultimate-trick-to-overcome-no-device-found-hurdle-when-setting-up-your-windows-7-system/"><u>The Ultimate Trick to Overcome No Device Found Hurdle When Setting Up Your Windows 7 System</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-performance-issues-overcoming-lag-and-stutter-in-naraka-point-of-hell/"><u>Troubleshooting Performance Issues: Overcoming Lag & Stutter in Naraka: Point of Hell</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-tech-secrets-an-in-depth-look-into-modern-computer-components-by-tom/"><u>Unveiling Tech Secrets: An In-Depth Look Into Modern Computer Components by Tom</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-quickly-transform-sluggish-videos-on-android/"><u>[New] Quickly Transform Sluggish Videos on Android</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-boosting-vimeo-videos-accelerating-playback/"><u>[Updated] Boosting Vimeo Videos Accelerating Playback</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-leading-call-customization-applications/"><u>[Updated] Leading Call Customization Applications</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-drive-engagement-crafting-an-animated-subscribe-button-in-filmoras-step-by-step-guide/"><u>2024 Approved Drive Engagement Crafting an Animated Subscribe Button in Filmora's Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/avoiding-misdated-memories-with-exact-times-for-2024/"><u>Avoiding Misdated Memories with Exact Times for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-apple-iphone-11-pro-to-enjoy-more-fun-drfone-by-drfone-virtual-ios/"><u>Change Location on Yik Yak For your Apple iPhone 11 Pro to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-vivo-y55s-5g-2023withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Vivo Y55s 5G (2023)with/without a PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-eliminate-web-browsing-distractions-a-step-by-step-guide-to-stop-chromiums-erratic-behavior-on-windows/"><u>How to Eliminate Web Browsing Distractions: A Step-by-Step Guide to Stop Chromium's Erratic Behavior on Windows</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/professional-recommendations-for-data-clearing-with-stellars-publications/"><u>Professional Recommendations for Data Clearing with Stellar's Publications</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-how-to-stop-sony-vegas-media-studio-from-crashing/"><u>Resolved! How to Stop Sony Vegas Media Studio From Crashing</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/revolutionizing-outdoor-entertainment-the-ion-audio-tailgater-plus-review-endless-listening-with-exceptional-bass-and-instant-play-feature/"><u>Revolutionizing Outdoor Entertainment - The Ion Audio Tailgater Plus Review: Endless Listening with Exceptional Bass and Instant Play Feature</u></a></li>
+<li><a href="https://win-answers.techidaily.com/total-war-three-kingdoms-stability-guide-resolving-the-game-crash-dilemma/"><u>Total War: Three Kingdoms Stability Guide: Resolving the Game Crash Dilemma</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-persistent-crashes-of-the-content-warning-tool-on-desktop-systems/"><u>Troubleshooting Persistent Crashes of the Content Warning Tool on Desktop Systems</u></a></li>
 </ul></div>
 

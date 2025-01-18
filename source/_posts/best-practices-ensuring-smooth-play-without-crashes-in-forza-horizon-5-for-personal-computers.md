@@ -1,7 +1,7 @@
 ---
 title: "Best Practices: Ensuring Smooth Play Without Crashes in Forza Horizon 5 for Personal Computers"
-date: 2025-01-08T20:04:27.103Z
-updated: 2025-01-12T19:02:51.515Z
+date: 2025-01-14T22:40:52.217Z
+updated: 2025-01-17T19:59:54.740Z
 tags:
   - win11
   - win10
@@ -44,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/0afc969a260468b6e52b6a33d1ca7e6eed63bd07e
 
  Launch Forza Horizon 5 to see if the FPS is back to normal. If the in-game FPS still drops, or there are no new game patch available, move on to next fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Update your graphics driver
 
  If you haven’t updated your graphics driver for a long time, you should update or reinstall the driver, because the outdated or faulty graphics driver may be causing Forza Horizon 5 FPS dropping issue.
@@ -69,6 +65,10 @@ There are mainly two methods for you to update the graphics driver:
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
@@ -78,7 +78,7 @@ There are mainly two methods for you to update the graphics driver:
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Set the Power Plan of your PC for high performance
@@ -93,17 +93,17 @@ There are mainly two methods for you to update the graphics driver:
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Launch Forza Horizon 5 and check if you get a better PFS. If this issue persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Optimize in-game graphics settings
 
@@ -119,6 +119,10 @@ There are mainly two methods for you to update the graphics driver:
 * Set **World Car Level of Detail** to Low
 
 If the FPS in Forza Horizon 5 still drops, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Modify graphics card settings
 
@@ -143,6 +147,10 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 1. Open **AMD Radeon Settings** .
 2. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Run Forza Horizon 5 to check if the in-game FPS increases. If not, move on to the next fix, below.
 
@@ -174,18 +182,10 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 ![Windows 10 settings gaming](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-10-settings-gaming.jpg)
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
 
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Run Forza Horizon 5 to see you can play it smoothly.
 
@@ -211,18 +211,22 @@ Run Forza Horizon 5 to see you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-the-best-of-the-best-12-youtube-video-game-openers-freepaid/"><u>[New] The Best of the Best 12 YouTube Video Game Openers (FREE/PAID)</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-clearer-view-deeper-insight-zoom-techniques-in-videoleap/"><u>[Updated] 2024 Approved Clearer View, Deeper Insight Zoom Techniques in Videoleap</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-compreeved-list-of-premium-androidiphone-slow-motion-video-tools/"><u>[Updated] Compreeved List of Premium Android/iPhone Slow Motion Video Tools</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-snapchat-enhancing-images-and-videos/"><u>2024 Approved Mastering Snapchat Enhancing Images & Videos</u></a></li>
-<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-infinix-hot-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Infinix Hot 40 | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-i-play-mkv-movies-on-13-ultra-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Can I play MKV movies on 13 Ultra?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-dragons-dogma-2-performance-issues-solutions-for-low-fps-and-stuttering/"><u>Fixing Dragon's Dogma 2 Performance Issues: Solutions for Low FPS & Stuttering</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/reawakening-windows-photo-viewer-in-windows-10-with-ease-for-2024/"><u>Reawakening Windows Photo Viewer in Windows 10 with Ease for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-bluetooth-connectivity-problems-with-qualcomm-atheros-on-windows-10-systems/"><u>Resolving Bluetooth Connectivity Problems with Qualcomm Atheros on Windows 10 Systems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-the-wsappx-dilemma-strategies-for-reducing-abnormally-elevated-system-resource-use/"><u>Solving the WSAPPX Dilemma: Strategies for Reducing Abnormally Elevated System Resource Use</u></a></li>
-<li><a href="https://win-answers.techidaily.com/steam-vr-detection-problems-try-these-6-tricks-to-get-it-working/"><u>Steam VR Detection Problems? Try These 6 Tricks to Get It Working!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-repairing-a-broken-geforce-experience-overlay-feature/"><u>Step by Step Guide: Repairing a Broken GeForce Experience Overlay Feature</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-city-skylines-2-failed-launch/"><u>Troubleshooting Steps for City Skylines 2 Failed Launch</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/rom-bites-to-blocks-top-10-video-editing-principles/"><u>[New] From Bites to Blocks Top 10 Video Editing Principles</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-expert-tips-for-a-seamless-google-podcast-upload-experience-for-2024/"><u>[Updated] Expert Tips for a Seamless Google Podcast Upload Experience for 2024</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/1728482614643-usb3/"><u>遺失資料或被清除的USB修復技術：3種基本步驟指南</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cyber-monday-deals-extravaganza-capture-the-ultimate-bargain-on-the-samsung-galaxy-book2-13-inch-laptop-at-450-off-your-guide-to-savings-with-zdnet/"><u>Cyber Monday Deals Extravaganza: Capture the Ultimate Bargain on the Samsung Galaxy Book2 13-Inch Laptop at $450 Off | Your Guide to Savings with ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-hp-elitebook-8460p-running-smoothly-with-updated-drivers-on-windows-solved/"><u>Get Your HP EliteBook 8460P Running Smoothly with Updated Drivers on Windows [SOLVED]</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-vivo-s17t-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Vivo S17t for Free? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-sharing-and-editing-linux-wsl-containers-files-on-windows-1011/"><u>Step-by-Step Guide: Sharing & Editing Linux WSL Containers' Files on Windows 10/11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/strategy-phasing-out-and-roadmap/"><u>Strategy, Phasing Out, and Roadmap.</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-evolution-of-windows-task-management-unveiling-changes-in-windows-11s-task-tool/"><u>The Evolution of Windows Task Management: Unveiling Changes in Windows 11'S Task Tool</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-importance-of-thunderbolt-sharing-in-future-laptops-what-you-need-to-know/"><u>The Importance of Thunderbolt Sharing in Future Laptops - What You Need to Know!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-risk-of-unauthorized-modification-in-microsofts-software-updates-a-threat-to-your-systems-defenses/"><u>The Risk of Unauthorized Modification in Microsoft's Software Updates: A Threat to Your System's Defenses</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-timeless-secret-how-a-decades-old-file-sharing-hack-works-on-modern-phones/"><u>The Timeless Secret - How a Decades-Old File Sharing Hack Works on Modern Phones</u></a></li>
+<li><a href="https://win-answers.techidaily.com/tough-and-trustworthy-under-100-storage-options/"><u>Tough & Trustworthy Under-$100 Storage Options</u></a></li>
+<li><a href="https://win-answers.techidaily.com/transform-your-windows-experience-using-rainmeter-a-step-by-step-guide/"><u>Transform Your Windows Experience Using Rainmeter: A Step-by-Step Guide</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/ultimate-guide-the-top-4-methods-for-adding-tunes-to-your-iphone-se-2020-and-2022/"><u>Ultimate Guide: The Top 4 Methods for Adding Tunes to Your iPhone SE (2020 & 2022)</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-selection-elite-smartwatches-redefining-2024/"><u>Ultimate Selection: Elite Smartwatches Redefining 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/uncover-the-truth-methods-to-determine-if-someones-using-an-airtag-on-you/"><u>Uncover the Truth: Methods to Determine If Someone's Using an AirTag on You</u></a></li>
 </ul></div>
 

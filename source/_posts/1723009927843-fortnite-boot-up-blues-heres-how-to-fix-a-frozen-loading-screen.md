@@ -1,7 +1,7 @@
 ---
 title: Fortnite Boot-Up Blues? Here’s How to Fix a Frozen Loading Screen!
-date: 2025-01-11T18:28:48.728Z
-updated: 2025-01-12T16:06:07.783Z
+date: 2025-01-14T05:29:35.854Z
+updated: 2025-01-17T22:48:41.283Z
 tags:
   - win11
   - win10
@@ -43,7 +43,7 @@ Are you feeling upset when playing **Fortnite**  with your friends but the game 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Fix 1: Check if your PC meets the minimum hardware requirements**
@@ -110,9 +110,17 @@ Are you feeling upset when playing **Fortnite**  with your friends but the game 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap54.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 4: Lower game settings**
 
@@ -123,6 +131,10 @@ Are you feeling upset when playing **Fortnite**  with your friends but the game 
 2. Modify the video settings of the game following the screenshot below to gain the maximum performance. Then click**Apply** to save the changes.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap945.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Run Fortnite again to see if the Fortnite stuttering issue persists. If not, then you’ve resolved this issue.
 
@@ -135,15 +147,7 @@ Are you feeling upset when playing **Fortnite**  with your friends but the game 
 3. If you turn on Game Mode, then click the Game Mode button to turn it off.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap47.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Run Fortnite again to see if it will keep stuttering. If the stuttering issue reappears, try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Fix 6: Set Fortnite to High priority**
 
@@ -156,10 +160,6 @@ Are you feeling upset when playing **Fortnite**  with your friends but the game 
 
  Run your Fortnite to see if the stuttering issue reappears. If the issue persists, don’t worry. There are more fixes for you to try.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Fix 7: Restrict applications and downloads in the background**
 
  The Fortnite stuttering issue may occur if you’re running some other applications or programs at the same time. So**try restricting applications and downloads in the background** before playing the game to see if this issue reappears. Here is how to do it:
@@ -167,10 +167,6 @@ Are you feeling upset when playing **Fortnite**  with your friends but the game 
 1. On your keyboard, press**Ctrl** ,**Shift** and**Esc** at the same time to open**Task Manager** . You will be prompted for permission. Click**Yes** to open Task Manager.
 2. Select other applications and programs that take up a large amount of**CPU** ,**memory** and**network** and then click**End task**  to close it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap52.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Run your Fortnite again to see if the stuttering issue persists. If the issue persists, trying updating your graphics driver.
 
@@ -182,29 +178,29 @@ Are you feeling upset when playing **Fortnite**  with your friends but the game 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap69.jpg)
 2. In the pop-up window, expand **Hide additional plans**  and select **High performance**  .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap70.jpg)
 3. Type **advanced**  in the search box in the upper-right corner and then click **View advanced system settings**  .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap71.jpg)
 4. In the pop-up window, click **Settings…** in the **Performance**  section.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap72.jpg)
 5. Select **Adjust for best performance** and click **OK**  .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap73.jpg)
 
  Run your Fortnite to see if the game will keep stuttering. If not, you’ve fixed this issue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Fix 9: Modify your graphics card settings**
@@ -224,6 +220,10 @@ Are you feeling upset when playing **Fortnite**  with your friends but the game 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap56.jpg)
 3. Select **NVIDIA Control Panel**  to open it.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap57.jpg)
 4. Click **3D Settings**  and select   **Adjust image settings with preview** . Then select **Use my preference emphasizing**  and **drag the slider to the left**  .  
 
@@ -235,25 +235,21 @@ Are you feeling upset when playing **Fortnite**  with your friends but the game 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap59.jpg)
 2. View the Control Panel by   **Large icons**  .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap60.jpg)
 3. Select your **AMD Radeon Settings**   to open it.
 
 4. Go to **Gaming**  **\>**  **Global Settings**  . Then modify the settings the same way you see on the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap74.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### **If you’re using Intel graphics card:**
 
 1. On your keyboard, press **the Windows logo key**  and **R**  at the same time to open the Run dialog. Then type **control** and press **Enter**  to open the Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap61.jpg)
 2. View the Control Panel by   **Large icons**  .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap62.jpg)
 3. Select **Intel Graphics Settings**  to open it.  
@@ -263,6 +259,10 @@ Are you feeling upset when playing **Fortnite**  with your friends but the game 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap64.jpg)
 5. Click **Scan**  to add your **Fortnite**  to the application list.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap65.jpg)
 6. Modify the settings the same way you see on the screenshot below.  
@@ -296,22 +296,20 @@ Are you feeling upset when playing **Fortnite**  with your friends but the game 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-unveiling-creative-screen-usage-pip-techniques-for-mac-users/"><u>[New] Unveiling Creative Screen Usage PIP Techniques for Mac Users</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-global-collaboration-easeus-expertise/"><u>[Updated] 2024 Approved Global Collaboration EaseUS Expertise</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-metaverse-memetic-marvels-from-copycat-cartoons-to-originalist-oddities/"><u>[Updated] In 2024, Metaverse Memetic Marvels - From Copycat Cartoons to Originalist Oddities</u></a></li>
-<li><a href="https://win-latest.techidaily.com/1-how-to-convert-any-youtube-video-into-flv-format-on-windows-without-restrictions/"><u>1. How to Convert Any YouTube Video Into FLV Format on Windows Without Restrictions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/age-of-wonders-planetfall-stability-issues-and-solutions-for-windows-players/"><u>Age of Wonders: Planetfall - Stability Issues and Solutions for Windows Players</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixes-found-overcoming-team-fortress-2s-start-up-troubles/"><u>Fixes Found! Overcoming Team Fortress 2'S Start-Up Troubles</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-issue-nvidias-game-capture-overlay-malfunction/"><u>Fixing the Issue: Nvidia's Game Capture Overlay Malfunction</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-fix-logitech-game-software-failure-step-by-step-solution/"><u>How to Fix Logitech Game Software Failure: Step-by-Step Solution</u></a></li>
-<li><a href="https://win-answers.techidaily.com/improve-chromes-velocity-effortlessly-tips-for-a-smoother-experience/"><u>Improve Chrome's Velocity Effortlessly - Tips for a Smoother Experience</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Oppo A58 4G | Dr.fone</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/in-2024-take-your-videos-to-the-next-level-os-x-mavericks-editing-tips/"><u>In 2024, Take Your Videos to the Next Level OS X Mavericks Editing Tips</u></a></li>
-<li><a href="https://win-answers.techidaily.com/irregular-heartbeat-feeling-palpitations-skipped-heartbeats-a-racing-pulse-or-arrhythmia-can-also-indicate-an-acute-myocardial-infarction-this-symptom-may-n603/"><u>Irregular Heartbeat: Feeling Palpitations, Skipped Heartbeats, a Racing Pulse, or Arrhythmia Can Also Indicate an Acute Myocardial Infarction. This Symptom May Not Be Present in All Cases but Could Occur Alongside Other Signs of Cardiac Distress.</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-the-ultimate-list-10-free-online-video-compressors-with-no-downloads/"><u>New In 2024, The Ultimate List 10 Free Online Video Compressors with No Downloads</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723005885868-snowrunner-freezes-persistently-heres-what-you-need-to-know-to-fix-it/"><u>SnowRunner Freezes Persistently? Here's What You Need to Know to Fix It</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-comprehensive-computer-and-hardware-reviews/"><u>Tom's Tech Insights: Comprehensive Computer and Hardware Reviews</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-how-to-fix-swtor-wont-start-problems/"><u>Troubleshooting: How to Fix 'SWTOR Won't Start' Problems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/warzone-optimization-unlocking-your-gpus-potential-on-windows-10/"><u>Warzone Optimization: Unlocking Your GPU's Potential on Windows 10</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-a-step-by-step-approach-to-using-cg-central-luts-in-grading-for-2024/"><u>[New] A Step-by-Step Approach to Using CG Central LUTs in Grading for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-essential-checklist-for-using-zoom-on-your-windows-pc/"><u>[New] The Essential Checklist for Using Zoom on Your Windows PC</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/boosting-chrome-os-a-step-by-step-guide-on-providing-valuable-feedback-to-developers-insights/"><u>Boosting Chrome OS: A Step-by-Step Guide on Providing Valuable Feedback to Developers - Insights</u></a></li>
+<li><a href="https://win-answers.techidaily.com/crash-free-gaming-expert-tips-for-a-seamless-playthrough-of-immortals-of-fenyx-rising/"><u>Crash-Free Gaming: Expert Tips for a Seamless Playthrough of Immortals of Fenyx Rising</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cyber-monday-top-17-unbeatable-offers-exclusive-discounts-on-televisions-headphones-and-more/"><u>Cyber Monday Top 17 Unbeatable Offers: Exclusive Discounts on Televisions, Headphones & More!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/essential-tips-for-getting-your-corsair-icue-up-and-running-in-windows-1011/"><u>Essential Tips for Getting Your Corsair iCUE Up and Running in Windows 10/11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/get-the-latest-drivers-for-your-logitech-g403-device-to-enhance-pc-connectivity-and-control/"><u>Get the Latest Drivers for Your Logitech G403 Device to Enhance PC Connectivity & Control</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-roblox-not-opening-latest-strategies-and-advice/"><u>How to Fix Roblox Not Opening (Latest Strategies and Advice)</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-iphone-xs-without-a-passcode-drfone-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your iPhone XS Without a Passcode | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/safe-and-easy-techniques-to-clean-a-flatscreen-tv-without-damage/"><u>Safe & Easy Techniques to Clean a Flatscreen TV Without Damage</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-warframe-not-launching-dilemma-a-step-by-step-guide/"><u>Solving the 'Warframe Not Launching' Dilemma - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722985994652-stop-league-of-legends-crashing-effortless-troubleshooting-steps-inside/"><u>Stop League of Legends Crashing - Effortless Troubleshooting Steps Inside</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/troubleshooting-a-malfunctioning-hyper-v-virtual-switch-effective-strategies-for-quick-resolution/"><u>Troubleshooting a Malfunctioning Hyper-V Virtual Switch - Effective Strategies for Quick Resolution</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-fix-for-call-of-duty-warzone-dealing-with-developer-bug-6634/"><u>Ultimate Fix for Call of Duty Warzone - Dealing with Developer Bug 6634</u></a></li>
 </ul></div>
 

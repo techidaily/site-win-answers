@@ -1,7 +1,7 @@
 ---
 title: Solve Your Mass Effect Legendary Edition Crash Issues on PC or Xbox
-date: 2024-08-13T12:11:33.053Z
-updated: 2024-08-14T12:11:33.053Z
+date: 2025-01-16T20:37:28.524Z
+updated: 2025-01-17T23:19:05.006Z
 tags:
   - win11
   - win10
@@ -20,8 +20,9 @@ thumbnail: https://thmb.techidaily.com/25e355cfe41e9e10950c631e4aa9da16590e30c12
  The long-awaited Mass Effect Legendary Edition is finally here, but some issues have also emerged, and the most prominent one is the**constant crashes** . If you’re facing the same issue, don’t worry. The solution might turn out easier than you think.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
  We’ve prepared fixes for both PC and Xbox players. You might not need to try them all. Simply work your way down until you land on the one that does the trick.
@@ -33,9 +34,6 @@ thumbnail: https://thmb.techidaily.com/25e355cfe41e9e10950c631e4aa9da16590e30c12
 5. [**Turn off VSync**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Disable extra peripherals at launch (Xbox)](https://www.drivereasy.com/knowledge/how-to-fix-mass-effect-legendary-edition-crashing-pc-xbox/#fix6)**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ### Fix 1: Verify integrity of game files
 
  First you need to verify the integrity of your game files. In some cases, your game will keep crashing when certain game files are corrupted or missing. This could happen due to network fluctuation.
@@ -43,19 +41,22 @@ thumbnail: https://thmb.techidaily.com/25e355cfe41e9e10950c631e4aa9da16590e30c12
 You can use these steps to scan and repair your game:
 
 1. Go to your steam**LIBRARY** . Right-click**Mass Effect Legendary Edition** and select**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/mass-effect-verify-1.jpg)
 2. In the left pane, select**LOCAL FILES** . Then click**Verify integrity of game files** and wait for the process to complete.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/steam-verify-game-files-1.jpg)
 3. Once done, return to Mass Effect and test your gameplay.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If this doesn’t help, check out the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ### Fix 2: Update your graphics driver
 
  Game crashes tend to be graphics related, which means that you could be using**a broken or outdated graphics driver** . The remastered Mass Effect is graphically demanding, and having the latest graphics driver definitely gives you a leg up.
@@ -64,11 +65,13 @@ If this doesn’t help, check out the next fix below.
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -85,9 +88,6 @@ If this doesn’t help, check out the next fix below.
 
  If you’re not running any monitors nor overclocking, simply check out the next tips below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Disable all overlays
 
  Overlays is a feature that allows you to record in-game achievements or interact with friends. Convenient as they may be, they could also affect game stability. In this case, you can try disabling all these overlays and see how things go.
@@ -103,9 +103,6 @@ Now you can start Mass Effect and test the improvements.
 Here’s how to disable VSync with NVIDIA graphics card:
 
 1. In the empty area of your desktop, right-click and select**NVIDIA Control Panel** .  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/nvidia-control-panel.jpg)
 2. In the left pane, select**Manage 3D settings** . In the right pane, click**Vertical sync** and select**Off** from the drop down menu. Then click**Apply** to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/nvidia-1.jpg)
@@ -113,8 +110,9 @@ Here’s how to disable VSync with NVIDIA graphics card:
 Now you can launch Mass Effect and check if it crashes again.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6: Disable extra peripherals at launch (Xbox)
 
  There’re also feedback saying that Mass Effect is having issues with**wireless peripherals** on Xbox. So if Mass Effect is crashing on your Xbox, before the official patches come out, you can use these steps to work around the crash.
@@ -136,8 +134,6 @@ Now you can launch Mass Effect and check if it crashes again.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -145,4 +141,24 @@ Now you can launch Mass Effect and check if it crashes again.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-realme-gt-neo-5-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Realme GT Neo 5 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/dive-deeper-into-life-advanced-strategies-for-capturing-the-essence-of-your-sims-adventures-in-sims-4/"><u>Dive Deeper Into Life Advanced Strategies for Capturing the Essence of Your Sim's Adventures in Sims 4</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experts-choice-light-strips-now-just-30-off-discover-the-ultimate-personalization-with-zdnets-limited-time-sale/"><u>Experts Choice Light Strips Now Just 30% Off! Discover the Ultimate Personalization with ZDNET's Limited Time Sale</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgotten-the-voicemail-password-of-realme-c53-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Realme C53? Try These Fixes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guide-overcoming-launch-failures-of-back-4-blood-on-various-windows-versions/"><u>Guide: Overcoming Launch Failures of Back 4 Blood on Various Windows Versions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-gta-5-from-stuttering-comprehensive-troubleshooting-guide/"><u>How to Stop GTA 5 From Stuttering - Comprehensive Troubleshooting Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-samsung-galaxy-s23-tactical-edition-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Samsung Galaxy S23 Tactical Edition? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-androids-low-cost-video-communication-guide/"><u>In 2024, Android's Low-Cost Video Communication Guide</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-leveraging-alternative-footage-in-filmmaking/"><u>In 2024, Leveraging Alternative Footage in Filmmaking</u></a></li>
+<li><a href="https://win-answers.techidaily.com/left-4-dead-2-stability-improvements-no-more-game-crashes/"><u>Left #4 Dead 2 Stability Improvements - No More Game Crashes!</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/live-with-clarity-secrets-for-high-quality-fb-recordings-for-2024/"><u>Live with Clarity Secrets for High-Quality FB Recordings for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mount-and-blade-ii-how-we-fixed-the-notorious-crashing-bug/"><u>Mount and Blade II: How We Fixed The Notorious Crashing Bug</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-errors-during-minecraft-native-launcher-updates-tips-and-tricks/"><u>Overcoming Errors During Minecraft Native Launcher Updates: Tips and Tricks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/rockstar-games-launcher-fixed-ultimate-troubleshooting-guide/"><u>Rockstar Games Launcher Fixed: Ultimate Troubleshooting Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshoot-and-resolve-csgo-login-woes-with-these-5-methods/"><u>Troubleshoot and Resolve CS:GO Login Woes with These 5 Methods</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-resolve-the-fall-guys-pc-freezing-glitch-effectively/"><u>Troubleshooting Tips: Resolve the Fall Guys PC Freezing Glitch Effectively</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-schedule-when-is-the-ideal-moment-to-upload-videos-on-youtube/"><u>Ultimate Schedule: When Is the Ideal Moment to Upload Videos on YouTube?</u></a></li>
+</ul></div>
 

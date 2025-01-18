@@ -1,7 +1,7 @@
 ---
 title: "Solved: Starting Difficulties with the Latest Resident Evil Game"
-date: 2025-01-11T19:48:10.487Z
-updated: 2025-01-12T17:03:44.118Z
+date: 2025-01-14T09:00:29.191Z
+updated: 2025-01-17T18:37:46.245Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ Battlefield 5 is undoubtedly one of the most popular titles on the market. Altho
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixes to try
 
@@ -47,10 +43,6 @@ Battlefield 5 is undoubtedly one of the most popular titles on the market. Altho
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/10-2.jpg)
 2. Select the**Compatibility** tab. Then, tick**Run this program as an administrator** and click**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-10.jpg)
 3. Right-click your Origin client and select**Properties** .
 
@@ -58,6 +50,10 @@ Battlefield 5 is undoubtedly one of the most popular titles on the market. Altho
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-3-4.jpg)
 
  Relaunch BFV to check if the not launching problem goes away. If not, take a look at more fixes below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2 – Switch to DirectX 11
 
@@ -73,7 +69,7 @@ Battlefield 5 is undoubtedly one of the most popular titles on the market. Altho
 5. Select**Notepad** or other similar editing tools.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Press**Ctrl** and**F** on your keyboard to open the search box. Then, type**Dx12Enabled** and press**Enter** .
@@ -83,7 +79,7 @@ Battlefield 5 is undoubtedly one of the most popular titles on the market. Altho
  Is the game working normally now? Or is it still unplayable? If the latter, try the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3 – Update your graphics driver
@@ -103,8 +99,16 @@ To update your graphics driver, here are two safe ways for you:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-1-7.jpg)
 3. Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-2-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -119,10 +123,6 @@ To update your graphics driver, here are two safe ways for you:
 2. Click**Origin** on the top pane and click**Application Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-2.jpg)
 3. Navigate to the**Origin In-Game** tab, and toggle off**Enable Origin In-Game** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2-3.jpg)
 
@@ -140,13 +140,13 @@ To update your graphics driver, here are two safe ways for you:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/6-2-3.jpg)
 4. On your keyboard, press the**Windows logo key** and**E** at the same time to invoke File Explorer. Then, select**Document** from the left pane.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Rename your**Battlefield V** folder to Battlefield V backup or anything else.
 
  Check whether you can get into Battlefield 5 or not. If this method is of no avail, restore the folder’s name and try the last fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6 – Perform a reinstallation
 
@@ -157,11 +157,11 @@ To update your graphics driver, here are two safe ways for you:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/7-1.jpg)
 3. Right-click the**Battlefield 5** tile from the list, and click**Uninstall** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/7-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After the process finishes, you can reinstall the game from Origin again, and it should be working the right way as expected.
 
@@ -188,21 +188,16 @@ To update your graphics driver, here are two safe ways for you:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-from-gameplay-to-video-full-guide-on-ps4-with-obs/"><u>[New] From Gameplay to Video Full Guide on PS4 with OBS</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-mastering-live-streams-from-your-gopro-camera-to-social-networks/"><u>[New] In 2024, Mastering Live Streams From Your GoPro Camera to Social Networks</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-record-and-upload-speeches-to-powerpoint/"><u>[New] In 2024, Record and Upload Speeches to PowerPoint</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-8-best-film-cameras-for-beginners-from-35mm-to-point-and-shoot/"><u>[Updated] 2024 Approved 8 Best Film Cameras for Beginners (From 35Mm to Point-and-Shoot)</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mastery-of-microscopic-minecraft-mapping/"><u>2024 Approved Mastery of Microscopic Minecraft Mapping</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-exclusive-windows-11s-media-importers/"><u>2024 Approved The Ultimate Exclusive Windows 11'S Media Importers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/best-chase-credit-card-options-ranked-and-analyzed-on-zdnet/"><u>Best Chase Credit Card Options Ranked & Analyzed on ZDNet</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723012874555-cant-use-steam-remote-play-discover-effective-methods-to-get-it-running-smoothly/"><u>Can't Use Steam Remote Play? Discover Effective Methods to Get It Running Smoothly</u></a></li>
-<li><a href="https://win-answers.techidaily.com/comprehensive-guide-solving-connection-lost-on-escape-from-tarkov-servers/"><u>Comprehensive Guide: Solving 'Connection Lost' On Escape From Tarkov Servers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-solutions-for-dota-2-stability-issues-and-crashing-problems/"><u>Effective Solutions for Dota 2 Stability Issues and Crashing Problems</u></a></li>
-<li><a href="https://win-online.techidaily.com/mastering-the-art-of-cryptocurrency-investment-with-yl-softwares-strategic-approach/"><u>Mastering the Art of Cryptocurrency Investment with YL Software's Strategic Approach</u></a></li>
-<li><a href="https://win-answers.techidaily.com/monsanto-company-nd-glyphosate-general-information-retrieved-from-(httpswwwmonsantocomglyphosate-general-information)/"><u>Monsanto Company (N.d.). Glyphosate: General Information. Retrieved From <https://www.monsanto.com/glyphosate-general-information></u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-recurring-shutdowns-troubleshooting-age-of-wonders-planetfall-on-your-computer/"><u>Overcoming Recurring Shutdowns: Troubleshooting 'Age of Wonders: Planetfall' On Your Computer</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-fixes-to-restore-your-discord-overlay-no-tech-expertise-required/"><u>Quick Fixes to Restore Your Discord Overlay - No Tech Expertise Required!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/revolutionize-your-apple-watchs-endurance-top-8-settings-tweaks-from-zdnet/"><u>Revolutionize Your Apple Watch's Endurance: Top 8 Settings Tweaks From ZDNet!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solution-guide-when-your-outlook-application-fails-to-start/"><u>Solution Guide: When Your Outlook Application Fails to Start</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-step-by-step-methods-for-amassing-tiktok-videos/"><u>[New] Step-by-Step Methods for Amassing TikTok Videos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-premier-non-udemy-platforms-for-personalized-e-learning/"><u>[Updated] 2024 Approved Premier Non-Udemy Platforms for Personalized E-Learning</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-a-deep-dive-into-moto-z2s-smarter-side-for-2024/"><u>[Updated] A Deep Dive Into Moto Z2's Smarter Side for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-ensuring-correct-ad-revenue-a-comprehensive-guide-to-yt-channel-earnings/"><u>[Updated] Ensuring Correct Ad Revenue A Comprehensive Guide to YT Channel Earnings</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-protecting-your-privacy-a-curated-list-of-cam-covers-for-2024/"><u>[Updated] Protecting Your Privacy A Curated List of Cam Covers for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-revamping-youtube-videos-with-smart-post-upload-techniques/"><u>2024 Approved Revamping YouTube Videos with Smart Post-Upload Techniques</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-the-buffering-fix-your-league-of-legends-lag-problem-today/"><u>Beat the Buffering: Fix Your League of Legends Lag Problem Today</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/t-advice-incorporating-narrative-elements-into-youtube-videos-for-2024/"><u>Expert Advice Incorporating Narrative Elements Into YouTube Videos for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-stable-sony-vegas-performance-tips-to-prevent-frequent-clashes/"><u>Mastering Stable Sony Vegas Performance: Tips to Prevent Frequent Clashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-the-problem-of-razer-synapse-application-failure-to-start/"><u>Resolving the Problem of Razer Synapse Application Failure to Start</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-ffxiv-fixing-version-verification-errors/"><u>Troubleshooting FFXIV: Fixing Version Verification Errors</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Immediate Fixes to Accelerate Assassin's Creed: Valhalla Lag Problems"
-date: 2024-08-13T12:12:09.606Z
-updated: 2024-08-14T12:12:09.606Z
+date: 2025-01-10T19:17:07.497Z
+updated: 2025-01-17T16:03:41.338Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ Many players are reporting that they’re getting terrible lagging in Assassin�
 
  However, some may get “low FPS” or “stuttering” issues and mistake it as a “lag” issue. So in this post, we’ll address the issues that make your Assassin’s Creed: Valhalla “laggy” altogether and help you improve the game performance on any PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 * [1 – Install the latest game patch](https://tools.techidaily.com/drivereasy/download/)
@@ -29,12 +33,16 @@ Many players are reporting that they’re getting terrible lagging in Assassin�
 * [6 – Clean all your temp files](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1 – Install the latest game patch
 
  It’s always recommended to check Assassin’s Creed: Valhalla game updates, and install the latest game patch to solve the issue. You can find more information about Assassin’s Creed: Valhalla[news & updates](https://www.ubisoft.com/en-us/game/assassins-creed/valhalla/news-updates) on Ubisoft.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2 – Reboot your network
 
@@ -70,10 +78,11 @@ There are two ways for you to update the device drivers:
 
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
@@ -85,6 +94,10 @@ There are two ways for you to update the device drivers:
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Play the game to check if Assassin’s Creed Valhalla lagging issue still persists with your new network driver. If the driver update doesn’t do the trick, you can go ahead with the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4 – Disable VRR and V-Sync/FreeSync
 
@@ -100,9 +113,6 @@ There are two ways for you to update the device drivers:
 
  3) Toggle off the button under**Variable refresh rate** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/graohics.jpg)
 
  Note: If you’re using a gaming console, you can turn off VRR by going to**Settings** \>**Display & sound** \>**Video output** \>**Video modes** \> uncheck the**Allow** **Variable Refresh Rates** box.
@@ -115,9 +125,6 @@ There are two ways for you to update the device drivers:
 
  7) Scroll down until you see**Vertical Sync** , and choose**off** .
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Apply.jpg)
 
  8) Click**Apply** .
@@ -126,9 +133,6 @@ There are two ways for you to update the device drivers:
 
  Now you should have no problems playing Assassin’s Creed Valhalla. If this method didn’t reduce Assassin’s Creed Valhalla lagging, you can try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5 – Change your DNS settings
 
  If you still find the game laggy, you can improve your network condition by switching to the Google Public DNS address. Here’s how:
@@ -137,26 +141,20 @@ There are two ways for you to update the device drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/control.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Expand**View by:** and select**Category** . Then, click**View network status and tasks** .
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/status.jpg)
 
  3) On the left pane, click**Change adapter settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/change-adapter.jpg)
 
  4) Right-click on your network adapter and select**Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Properties.jpg)
 
  5) Double-click Internet Protocol Version 4 (TCP/IPv4) to view its properties.
@@ -167,16 +165,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  For the Preferred DNS server, enter**8.8.8.8** ; for the Alternate DNS server, enter**8.8.4.4** . Then click**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Version-4.jpg)
 
  7) Now you need to flush the DNS cache to let the changes take effect. Type cmd in the**Search** box, and run Command Prompt as administrator.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/CMD.jpg)
 
  Then click Yes if you’re prompted for permission.
@@ -187,11 +179,16 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/flush.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now play your Assassin’s Creed Valhalla again to see if the lagging issue still persists.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6 – Clean all your temp files
 
  If you notice the game lagging lot but failed to reduce it with the fixes above, you should try clearing temporary and junk files on a regular basis. These files might slow down your PC. Here’s how:
@@ -208,11 +205,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/continue.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Once complete, press the **Windows logo key** and **R** at the same time to invoke the Run dialog box again. Type in **prefetch** and hit **Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/image-306.png)
 
  Click**Continue** if prompted for permission.
@@ -237,8 +235,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -246,4 +242,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-capturing-life-in-motion-top-9-smartphone-props-for-dynamic-cinematography/"><u>[New] 2024 Approved Capturing Life in Motion Top 9 Smartphone Props for Dynamic Cinematography</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-quick-methods-for-preserving-chat-recordings/"><u>[New] In 2024, Quick Methods for Preserving Chat Recordings</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-navigating-social-sharing-pining-on-snapchat/"><u>[Updated] In 2024, Navigating Social Sharing Pining on Snapchat</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-sharp-smudge-free-shooting-with-gopro/"><u>[Updated] Sharp, Smudge-Free Shooting with GoPro</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-poco-x5-pro-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Poco X5 Pro by Name | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/accelerated-conversion-guide-from-complex-srt-to-txt-2023-for-2024/"><u>Accelerated Conversion Guide From Complex SRT to TXT 2023 for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/error-0x887a0006-dissected-your-blueprint-to-a-rapid-and-straightforward-repair/"><u>Error 0X887A0006 Dissected - Your Blueprint to a Rapid and Straightforward Repair!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/error-elimination-guide-how-to-successfully-address-the-tarkov-103003-glitch/"><u>Error Elimination Guide: How to Successfully Address the Tarkov 103003 Glitch</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722985549742-expert-advice-on-how-to-fix-and-eliminate-puzzling-crashes-on-your-pc-top-6-tactics/"><u>Expert Advice on How to Fix and Eliminate Puzzling Crashes on Your PC – Top 6 Tactics</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-remnant-from-the-ashes-from-keep-collapsing-comprehensive-solutions-and-fixes/"><u>How to Stop Remnant: From the Ashes From Keep Collapsing - Comprehensive Solutions & Fixes</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-realme-c53-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Realme C53 Location | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-unexpected-shutdowns-in-the-ark-database-best-practices/"><u>Overcoming Unexpected Shutdowns in the ARK Database: Best Practices</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-complete-origin-service-restored-online-seamlessly/"><u>Troubleshooting Complete: Origin Service Restored Online Seamlessly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-resolving-heartstone-game-crashes-on-windows/"><u>Troubleshooting Guide: Resolving HeartStone Game Crashes on Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/warzone-20-troubleshooting-guide-for-pcs-fix-the-launch-issues-with-these-7-tips/"><u>Warzone 2.0 Troubleshooting Guide for PCs - Fix the Launch Issues with These 7 Tips</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/what-you-must-watch-a-close-look-at-todays-top-8-social-media-clips/"><u>What You Must Watch! - A Close Look at Today's Top 8 Social Media Clips</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/1728475255359-windows-113/"><u>Windows 11のユーザー設定自動保存手順：3つの柔転可能な方法</u></a></li>
+</ul></div>
 

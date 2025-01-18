@@ -1,7 +1,7 @@
 ---
 title: Tackle Your Naraka Gameplay Disruptions with Effective Solutions!
-date: 2025-01-08T17:24:50.395Z
-updated: 2025-01-12T17:27:13.967Z
+date: 2025-01-14T22:10:02.390Z
+updated: 2025-01-17T21:36:44.687Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ Tribes of Midgard is a great game, but it’s annoying to have the game constant
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -37,6 +37,10 @@ Tribes of Midgard is a great game, but it’s annoying to have the game constant
 5. [Launch in Windowed mode](https://tools.techidaily.com/drivereasy/download/)
 6. [Disable antivirus software](https://tools.techidaily.com/drivereasy/download/)
 7. [Repair corrupted system files](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Check your PC specifications
 
@@ -53,10 +57,6 @@ Tribes of Midgard is a great game, but it’s annoying to have the game constant
 | **DirectX**   | Version 11                                               |
 
 If your PC meets the requirements, move to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphic driver
 
@@ -85,15 +85,15 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 4. Simply restart the game and check the issue persists or not.
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Disable Steam overlay
 
@@ -104,8 +104,16 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/steam-rightclick-properties.jpeg)
 3. Under the **General** section, uncheck **Enable Steam Overlay while in-game**  tick box.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/overlaysteam.png)
 4. Restart Tribes of Midgard and see if you’re still getting these crashes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Verify game integrity on Steam
 
@@ -121,14 +129,10 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-verify-game-files.jpg)
 5. After the process is completed, relaunc the game.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If there’s no luck, head to the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Launch in Windowed mode
@@ -144,10 +148,6 @@ If there’s no luck, head to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-05_9-36-00.jpg)
 5. Save the change and relaunch the game.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 6: Disable antivirus software
 
  Antivirus software is aiming to protect our PC away from malware and virus, however, it could be the culprit of the game crashing. The antivirus software may have conflicts with the game files, so you could disable your antivirus software then launch the game.
@@ -157,10 +157,6 @@ If there’s no luck, head to the next fix.
  Don’t forget to turn off all the background applications before running Tribes of Midgard. The background applications consume a lot of resources that hold back the gaming performances.
 
 By the way, remember to enable your antivirus software afterward.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 7: Repair corrupted system files
 
@@ -176,6 +172,10 @@ By the way, remember to enable your antivirus software afterward.
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
@@ -204,20 +204,20 @@ By the way, remember to enable your antivirus software afterward.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-secrets-of-saving-youtube-thumbnails-in-various-formats/"><u>[New] 2024 Approved Secrets of Saving Youtube Thumbnails in Various Formats</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-personalizing-interactions-deepening-connections-with-viewers/"><u>[New] Personalizing Interactions Deepening Connections with Viewers</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-conquer-the-blackened-canvas-of-youtube-for-2024/"><u>[Updated] Conquer the Blackened Canvas of YouTube for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Nokia G42 5G | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/deep-dive-into-solving-resident-evil-villages-intrusive-mouse-bugs/"><u>Deep Dive Into Solving Resident Evil Village's Intrusive Mouse Bugs</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-overcome-robloxs-access-denied-error-403-on-windows/"><u>How to Overcome Roblox's Access Denied (Error 403) on Windows</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Vivo Bootloader Easily</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/mastering-the-art-of-personalizing-video-covers-for-facebook-for-2024/"><u>Mastering the Art of Personalizing Video Covers for Facebook for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/obtain-the-newest-version-of-epsons-xp-420-drivers-now-available-for-free/"><u>Obtain the Newest Version of Epson's XP-420 Drivers - Now Available for Free!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-2024s-challenges-with-finale-launch-troubleshooting-techniques/"><u>Overcoming 2024'S Challenges with Finale Launch Troubleshooting Techniques</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-the-challenge-of-frequent-garrys-mod-crashes-top-advice-for-gamers/"><u>Overcoming the Challenge of Frequent Garry's Mod Crashes - Top Advice for Gamers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723011690030-resident-evil-village-pc-stability-fixes-get-uninterrupted-gaming/"><u>Resident Evil Village PC Stability Fixes - Get Uninterrupted Gaming</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/top-8-affordable-industry-standard-open-videoconference-platforms-for-2024/"><u>Top 8 Affordable, Industry-Standard Open Videoconference Platforms for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-resolving-amd-radeon-software-launch-failures/"><u>Troubleshooting Steps for Resolving 'AMD Radeon Software' Launch Failures</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-troubleshooting-guide-resolve-crashes-in-diablo-4-for-pc-ps5-and-xbox/"><u>Ultimate Troubleshooting Guide: Resolve Crashes in Diablo 4 for PC, PS5 & Xbox</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-seamless-transformation-best-face-editors-on-iphones-and-androids/"><u>[New] Seamless Transformation Best Face Editors on iPhones and Androids</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-taxonomy-of-diverse-camera-systems-for-videos/"><u>[New] Taxonomy of Diverse Camera Systems for Videos</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723011586544-solved-biomutant-crash-on-pc-2024-tips/"><u>[SOLVED] Biomutant Crash on PC – 2024 Tips</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-adjust-macs-captured-screen-storage-place-for-2024/"><u>[Updated] Adjust Mac's Captured Screen Storage Place for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-skypes-premier-audio-capture-solutions/"><u>[Updated] In 2024, Skype's Premier Audio Capture Solutions</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-quieting-unwanted-sounds-obs-audio-issue-fixed/"><u>2024 Approved Quieting Unwanted Sounds OBS Audio Issue Fixed</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/el-identity-made-simple-with-these-top-11-zero-cost-tools/"><u>Channel Identity Made Simple with These Top 11 Zero-Cost Tools</u></a></li>
+<li><a href="https://win-answers.techidaily.com/comprehensive-tips-for-overcoming-the-dark-screen-challenge-in-mtg-arena/"><u>Comprehensive Tips for Overcoming the Dark Screen Challenge in MtG Arena</u></a></li>
+<li><a href="https://win-answers.techidaily.com/house-flipper-s-pc-malfunctions-heres-how-to-stabilize-and-fix-it/"><u>House Flipper S PC Malfunctions? Here's How to Stabilize and Fix It!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-the-art-of-preventing-minecraft-from-crashing-a-simple-guide/"><u>Master the Art of Preventing Minecraft From Crashing - A Simple Guide!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/samurai-warriors-5-pc-stability-issues-heres-what-you-need-to-know/"><u>Samurai Warriors 5 PC Stability Issues? Here's What You Need to Know</u></a></li>
+<li><a href="https://win-answers.techidaily.com/seamless-soccer-gaming-effective-techniques-for-fixing-directx-problems-in-fifa-19/"><u>Seamless Soccer Gaming: Effective Techniques for Fixing DirectX Problems in FIFA 19</u></a></li>
+<li><a href="https://fox-access.techidaily.com/streamline-and-enhance-your-filmmaking-an-intro-to-final-cut-pro-for-2024/"><u>Streamline and Enhance Your Filmmaking An Intro to Final Cut Pro for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/tech-industry-rebounds-with-projection-of-39-million-motherboard-sales-matching-pre-pandemic-figures/"><u>Tech Industry Rebounds with Projection of 39 Million Motherboard Sales Matching Pre-Pandemic Figures</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-recommended-3d-printing-materials-of-2024/"><u>Top Recommended 3D Printing Materials of 2024</u></a></li>
 </ul></div>
 

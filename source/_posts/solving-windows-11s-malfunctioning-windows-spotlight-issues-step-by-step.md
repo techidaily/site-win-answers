@@ -1,7 +1,7 @@
 ---
 title: Solving Windows 11'S Malfunctioning Windows Spotlight Issues Step by Step
-date: 2025-01-09T18:47:47.001Z
-updated: 2025-01-12T17:38:50.293Z
+date: 2025-01-13T10:32:21.987Z
+updated: 2025-01-17T16:36:03.632Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ After a long wait, the[new Hitman installment](https://www.epicgames.com/store/e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not need to try them all. Simply work down the list until you find the one that does the trick.
@@ -33,10 +37,6 @@ After a long wait, the[new Hitman installment](https://www.epicgames.com/store/e
 5. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Check if it’s a server issue](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Verify the integrity of your game files
 
  The game not launching problem could mean that some game files are missing or corrupted. In either cases, you can simply run an integrity check to get your game working:
@@ -47,7 +47,7 @@ After a long wait, the[new Hitman installment](https://www.epicgames.com/store/e
 3. Select**Verify** from the drop-down list. Then wait for the checking to complete.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/hitman-3-verify-2.jpg)
@@ -67,7 +67,7 @@ Here’s how:
 2. Now try to launch Hitman 3\. If this trick works for you, continue to the next step to**always run Epic Games launcher as administrator** . Otherwise you can jump to the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. On your desktop, right-click**Epic Game launcher** and select**Properties** .  
@@ -75,10 +75,6 @@ Here’s how:
 4. Navigate to the**Compatibility** tab. Under the**Settings** section, check the box next to**Run this program as an administrator** . Click**OK** to save the changes.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-games-launcher-run-as-admin-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Launch Hitman 3 from game folder
 
@@ -115,6 +111,10 @@ To do so, first visit the website of your GPU manufacturer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 After updating your GPU driver, you can check if Hitman 3 is working now.
@@ -132,7 +132,7 @@ Here’s how you can check for updates manually:
 2. Scroll down and select**Update & Security** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
@@ -141,15 +141,15 @@ Here’s how you can check for updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
  After getting all the system updates, restart your gaming rig and check if Hitman 3 works now.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Check if it’s a server issue
 
@@ -174,21 +174,21 @@ Here’s how you can check for updates manually:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-making-money-from-youtube-shorts-key-elements-and-profit-possibilities/"><u>[Updated] In 2024, Making Money From YouTube Shorts Key Elements & Profit Possibilities</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-streamlining-creative-journey-uploading-imovie-videos-to-youtube-for-2024/"><u>[Updated] Streamlining Creative Journey Uploading iMovie Videos to YouTube for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-ultimate-guide-to-laughing-photo-editing-tools-iosandroid/"><u>2024 Approved Ultimate Guide to Laughing Photo Editing Tools (iOS/Android)</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/assessing-speed-and-stability-the-bulky-outlook-on-netgears-powerline-xb6-pro-1200/"><u>Assessing Speed and Stability: The Bulky Outlook on Netgear's Powerline XB6 Pro 1200</u></a></li>
-<li><a href="https://win-answers.techidaily.com/enhance-your-gaming-experience-fixing-world-of-tanks-blitzs-persistent-crashes/"><u>Enhance Your Gaming Experience: Fixing World of Tanks Blitz's Persistent Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fix-discord-overlay-issues-simple-solutions-you-can-apply-today/"><u>Fix Discord Overlay Issues: Simple Solutions You Can Apply Today!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-ghost-runner-crash-issue-in-windows-11-troubleshooting-guide/"><u>Fixing the 'Ghost Runner' Crash Issue in Windows 11 - Troubleshooting Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/house-flipper-two-stability-solutions-for-a-smooth-gaming-experience-on-pcs/"><u>House Flipper Two Stability Solutions for a Smooth Gaming Experience on PCs</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-play-7t-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Honor Play 7T Phone without Google Account?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/interactive-entertainment-pauses-pc-life/"><u>Interactive Entertainment Pauses PC Life</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/master-the-mix-incorporating-and-refining-music-into-canva-projects/"><u>Master the Mix Incorporating & Refining Music Into Canva Projects</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-the-2022-dota-2-vac-ban-issue-a-comprehensive-guide/"><u>Resolving the 2022 Dota 2 VAC Ban Issue: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/restoring-the-recycle-bin-on-your-desktop-with-windows-10-or-windows-11/"><u>Restoring the Recycle Bin on Your Desktop with Windows 10 or Windows 11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/stabilize-your-among-us-gameplay-advanced-tips-to-eliminate-crashes-latest-update/"><u>Stabilize Your Among Us Gameplay: Advanced Tips to Eliminate Crashes (Latest Update)</u></a></li>
-<li><a href="https://win-answers.techidaily.com/techniques-to-optimize-your-gaming-session-elevating-fps-while-cutting-down-lag-in-fall-guys/"><u>Techniques To Optimize Your Gaming Session: Elevating FPS While Cutting Down Lag in Fall Guys</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-the-process-for-ms-office-on-windows-1011/"><u>Unveiling the Process for MS Office on Windows 10/11</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-achieve-the-perfect-selfie-with-top-8-gear/"><u>[New] Achieve the Perfect Selfie with Top 8 Gear</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-elevate-efficiency-discover-the-top-8-social-media-schedulers/"><u>[Updated] In 2024, Elevate Efficiency Discover the Top 8 Social Media Schedulers</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-screen-selection-simplified-ultrawide-versus-uhd-4k-demystified/"><u>[Updated] In 2024, Screen Selection Simplified UltraWide Versus UHD 4K Demystified</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-scrutinizing-vivid-visuals-enhanced-by-hd-and-luminance/"><u>2024 Approved Scrutinizing Vivid Visuals Enhanced by HD and Luminance</u></a></li>
+<li><a href="https://win-answers.techidaily.com/apples-ultimate-guide-to-choosing-a-side-by-side-look-at-macbook-air-and-pro/"><u>Apple's Ultimate Guide to Choosing: A Side-by-Side Look at MacBook Air and Pro</u></a></li>
+<li><a href="https://win-answers.techidaily.com/best-techniques-to-fix-unresponsiveness-in-minecraft-when-playing-on-computer-systems/"><u>Best Techniques to Fix Unresponsiveness in Minecraft when Playing on Computer Systems</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-motorola-g24-power-support-avchd-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>Does Motorola G24 Power support AVCHD video?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/driver-search-error-on-windows/"><u>Driver Search Error on Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhanced-destiny-2-performance-on-pc-no-more-unexpected-interruptions/"><u>Enhanced Destiny 2 Performance on PC - No More Unexpected Interruptions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-to-overcome-the-missing-ping-issue-in-halo-infinite-gameplay/"><u>Expert Tips to Overcome the Missing Ping Issue in Halo Infinite Gameplay</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-common-problems-of-counter-strike-2-not-opening-properly/"><u>Fixing the Common Problems of Counter-Strike 2 Not Opening Properly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-issue-overcoming-connection-errors-in-path-of-exile-a-comprehensive-guide/"><u>Fixing the Issue: Overcoming Connection Errors in Path of Exile – A Comprehensive Guide</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Google Pixel 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-your-visual-impact-journey-begins-with-our-50-free-banners/"><u>In 2024, Your Visual Impact Journey Begins with Our 50 FREE Banners</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-origin-issue-now-successfully-connected/"><u>Resolved: Origin Issue - Now Successfully Connected</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/understanding-instagrams-privacy-controls/"><u>Understanding Instagram's Privacy Controls</u></a></li>
 </ul></div>
 

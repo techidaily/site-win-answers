@@ -1,7 +1,7 @@
 ---
 title: How to Fix Madden 19 PC Instances of Unexpected Shutdowns and Glitches
-date: 2025-01-10T18:27:02.868Z
-updated: 2025-01-12T16:02:20.229Z
+date: 2025-01-17T00:57:38.575Z
+updated: 2025-01-18T09:16:37.385Z
 tags:
   - win11
   - win10
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 4. [Set game options to LOW](https://tools.techidaily.com/drivereasy/download/)
 5. [Verify Integrity of Game Files](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Disable overlays for your game
 
  If there is any overlay software running when you play Dark Souls 3, it may cause game crashing on startup or freezing. It’s normal to use overlays for Steam games, but some games could be incompatible with overlay software.
@@ -41,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 **Try disabling overlays for Dark Souls 3** and see if your game stops crashing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Run in Windowed mode
@@ -71,10 +75,6 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 
  Your problem still persists, don’t worry. There are other solutions.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Update your video driver
 
  Many players have reported that the graphics card driver may be the culprit to the crashing issue, and updating the graphics driver helps resolve the problem. So you should update your graphics card driver to the latest version.
@@ -93,10 +93,6 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-706.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click_Update All_ ).
 
  Note: You can do it for free if you like, but it’s partly manual.
@@ -107,6 +103,10 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 
 Now launch Dark Souls 3 and see if it works.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Set game options to LOW
 
  If your game options are set High, this requires much more system resources and so Dark Souls 3 may crash. In that case, you should set game options to**_LOW_** so as to stop your game crashing.
@@ -115,10 +115,6 @@ Now launch Dark Souls 3 and see if it works.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-709.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If you can’t access the in-game settings, try this:
 
  1) On your keyboard, press the**Windows logo key** and**R** at the same time to open the Run box.
@@ -126,10 +122,6 @@ If you can’t access the in-game settings, try this:
  2) Type**_%appdata%_** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-710.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Open**DarkSouls3** folder.
 
@@ -146,7 +138,7 @@ Then play your game to see if it works properly.
  Still no luck? Don’t give up hope. There’s one more thing to try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Verify Integrity of Game Files
@@ -163,9 +155,17 @@ Then play your game to see if it works properly.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-703.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click the**Local files** tab, and click**Verify Integrity Of Game Files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-705.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Steam will check your game files and fix any detected problems. Follow the on-screen instructions to finish the process.
 
@@ -192,18 +192,22 @@ Then play your game to see if it works properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-guffaws-galore-compiled-list-of-10-funniest-youtube-short-videos/"><u>[Updated] 2024 Approved Guffaws Galore Compiled List of 10 Funniest YouTube Short Videos</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-camera-woes-ended-by-fix-obs/"><u>[Updated] In 2024, Camera Woes Ended by Fix - OBS</u></a></li>
-<li><a href="https://win-answers.techidaily.com/battlefield-2042-directx-troubleshooting-tips-and-solutions/"><u>Battlefield 2042 DirectX Troubleshooting: Tips and Solutions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-logitech-g-hub-compatibility-issues-with-microsofts-operating-system/"><u>Fixing Logitech G Hub Compatibility Issues with Microsoft's Operating System</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-long-does-a-20mb-video-last-for-2024/"><u>How Long Does a 20MB Video Last for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-complete-guide-to-mastering-polarrs-image-precision/"><u>In 2024, The Complete Guide to Mastering Polarr's Image Precision</u></a></li>
-<li><a href="https://win-answers.techidaily.com/no-more-crashes-effortless-fixes-for-outriders-issues/"><u>No More Crashes: Effortless Fixes for Outriders Issues</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ps5s-unique-gaming-titles-a-comprehensive-guide/"><u>PS5's Unique Gaming Titles - A Comprehensive Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solution-guide-overcoming-qsurfaceformat-opengl-creation-failures/"><u>Solution Guide: Overcoming QSurfaceFormat OpenGL Creation Failures</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solve-your-gaming-woes-tips-to-stop-final-fantasy-from-freezing-on-desktop/"><u>Solve Your Gaming Woes: Tips to Stop 'Final Fantasy' From Freezing on Desktop</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-strategies-to-overcome-minecraft-frame-drops-on-desktop-updated-guide-for-202-cuckfingered-pc-players/"><u>Top Strategies to Overcome Minecraft Frame Drops on Desktop - Updated Guide for 202 Cuckfingered PC Players</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-resolving-maplestory-freezing-issues-on-windows-10-pcs/"><u>Ultimate Guide: Resolving MapleStory Freezing Issues on Windows 10 PCs</u></a></li>
-<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-vivo-y36i-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Vivo Y36i? Here is How | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-secrets-to-preserving-online-broadcasts-professionally/"><u>[New] In 2024, Secrets to Preserving Online Broadcasts Professionally</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/uick-cover-art-crafting-for-fighting-games/"><u>[New] Quick Cover Art Crafting for Fighting Games</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-unveiling-the-most-advanced-websites-for-customizable-text-design/"><u>[Updated] In 2024, Unveiling the Most Advanced Websites for Customizable Text Design</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/voc-mp3-movavi/"><u>網路直接免費 VOC 到 MP3 轉錄 - 利用 Movavi 音樂傳輸工具</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/advantages-in-god-of-war-a-closer-look/"><u>Advantages in 'God of War': A Closer Look</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723008108871-beat-saber-stability-issues-heres-how-you-can-stop-the-game-from-crashing/"><u>Beat Saber Stability Issues? Here's How You Can Stop the Game From Crashing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cracking-the-case-of-the-elusive-la-noire-pc-release-its-now-in-play/"><u>Cracking the Case of the Elusive L.A. Noire PC Release – It's Now in Play!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-fixes-for-reducing-stutter-and-improving-v-rising-performance-on-desktops/"><u>Effective Fixes for Reducing Stutter and Improving V-Rising Performance on Desktops</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-solutions-for-resolving-the-blue-screen-of-death-in-hell-divers-2/"><u>Effective Solutions for Resolving the Blue Screen of Death in Hell Divers 2</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-audio-error-message-in-itunes-for-optimal-playback-experience/"><u>Fixing the Audio Error Message in iTunes for Optimal Playback Experience</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-15-plus-with-a-mask-on-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 15 Plus with a Mask On</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Vivo V30 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/melodious-memories-capturing-songs-in-your-snaps-for-2024/"><u>Melodious Memories Capturing Songs in Your Snaps for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-the-ghost-runner-critical-crash-issue-in-windows-11/"><u>Resolving the Ghost Runner Critical Crash Issue in Windows 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-valorant-graphic-drivers-from-collapsing-a-quick-repair-tutorial/"><u>Stop Valorant Graphic Drivers From Collapsing – A Quick Repair Tutorial</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-to-fixing-continuous-crashes-of-after-effects-in-windows-10-and-11-systems/"><u>Ultimate Guide to Fixing Continuous Crashes of After Effects in Windows 10 and 11 Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/update-online-authentication-for-origin-players-fully-operational-now/"><u>Update: Online Authentication for Origin Players Fully Operational Now</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Solving City Skylines Game Crashes - Expert Advice"
-date: 2024-08-13T12:16:46.416Z
-updated: 2024-08-14T12:16:46.416Z
+date: 2025-01-11T20:26:26.528Z
+updated: 2025-01-18T09:54:48.399Z
 tags:
   - win11
   - win10
@@ -18,8 +18,9 @@ thumbnail: https://thmb.techidaily.com/66993ca3ad927cec029079f1e31ce1da86c1e1020
 It’s annoying when you can’t connect to the EA server or receive the error message saying**Connection to server timed out** . Is Apex Legends down again? Or it’s something wrong with your PC? Don’t worry, you’re not the only one, the methods below would help you fix the connection issue.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -57,30 +58,28 @@ If it’s not the server, please move to the next method.
 
 1. Type**Control Panel** on the search bar and click to open.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-02-47.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 2. Set Control Panel**View by Category** , then click**Network and Internet** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-03-08.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-03-08.jpg)
 3. Click**Network and Sharing Center >** **Change adapter settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-03-28.jpg)
 4. Select the connection you want to configure Google Public DNS, right-click it, and select**Properties** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Select the**Networking** tab, select**Internet Protocol Version 4 (TCP/IPv4)** under This connection uses the following items. Click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-42-06.jpg)
 6. Click Use the following DNS server addresses and enter the Google DNS server address.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-41-46.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 7. Click**OK** to save the change.
 8. Reboot the game and check.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ### Method 3: Run as administrator
 
 Some players suggest Run as administrator could fix this issue.
@@ -94,8 +93,9 @@ Some players suggest Run as administrator could fix this issue.
 If this method doesn’t help, please move to the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 4: Update your drivers
 
  Check your PC network adapter driver is also important. This driver would affect your internet connection when it’s outdated or broken. Updating the driver would simply fix this issue and improve your PC performance.
@@ -110,11 +110,12 @@ If this method doesn’t help, please move to the next one.
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/DE-PRO-VEGA-KILLER-NETWORKING.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 5: Clear game cache
 
@@ -156,8 +157,6 @@ If this method doesn’t help, please move to the next one.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -165,4 +164,26 @@ If this method doesn’t help, please move to the next one.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-enhancing-social-media-strategy-facebook-whatsapp-video-sharing/"><u>[New] 2024 Approved Enhancing Social Media Strategy Facebook-WhatsApp Video Sharing</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-how-to-make-and-convert-slow-motion-videos-on-iphone/"><u>[New] 2024 Approved How to Make and Convert Slow Motion Videos on iPhone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-earnings-via-sponsored-youtube-videos/"><u>[New] Mastering Earnings via Sponsored YouTube Videos</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-viewer-count-trophies-and-channel-prominence-honors/"><u>[New] Viewer Count Trophies & Channel Prominence Honors</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-cadence-captors-embrace-free-online-tempo-apps/"><u>[Updated] Cadence Captors – Embrace Free Online Tempo Apps</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-mastering-timestamp-placement-in-youtube-clips/"><u>[Updated] In 2024, Mastering Timestamp Placement in YouTube Clips</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-original-visual-documentation-evaluation-and-alternatives/"><u>[Updated] In 2024, Original Visual Documentation Evaluation & Alternatives</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-trending-memes-galore-unique-themes-for-any-event/"><u>2024 Approved Trending Memes Galore Unique Themes for Any Event</u></a></li>
+<li><a href="https://win-answers.techidaily.com/csgo-troubleshooting-guide-fixing-user-login-problems/"><u>CS:GO Troubleshooting Guide - Fixing User Login Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/dealing-with-download-issues-for-monster-hunter-stories-2-wings-of-ruin/"><u>Dealing with Download Issues for Monster Hunter Stories 2: Wings of Ruin</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-solutions-for-overcoming-live-server-connection-failure-errors/"><u>Effective Solutions for Overcoming 'Live Server Connection Failure' Errors</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-ensure-stable-play-of-dead-by-daylight-without-interruptions-2024-solutions/"><u>How to Ensure Stable Play of Dead By Daylight Without Interruptions - 2024 Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-startup-hurdles-for-battlefield-4-enthusiasts-using-pc-platforms/"><u>Overcoming Startup Hurdles for Battlefield 4 Enthusiasts Using PC Platforms</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-the-challenge-of-black-ops-cold-wars-error-883a-0005-a-step-by-step-solution/"><u>Overcoming the Challenge of Black Ops Cold War's Error 88^3A-0005 - A Step by Step Solution</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pro-tips-for-smooth-playthroughs-overcoming-age-of-empires-4s-stuttering-challenge/"><u>Pro Tips for Smooth Playthroughs - Overcoming Age of Empires 4'S Stuttering Challenge</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-connection-issues-with-blizzard-games-a-step-by-step-guide/"><u>Resolving Connection Issues with Blizzard Games: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-the-melody-fixing-lack-of-sound-for-anthem-on-windows-10-computers/"><u>Reviving the Melody: Fixing Lack of Sound for 'Anthem' On Windows 10 Computers</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/starting-stronger-must-have-tech-for-creators-for-2024/"><u>Starting Stronger Must-Have Tech for Creators for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-solving-among-us-pc-voice-chat-issues/"><u>Troubleshooting Steps: Solving 'Among Us' PC Voice Chat Issues</u></a></li>
+</ul></div>
 

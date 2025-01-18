@@ -1,7 +1,7 @@
 ---
 title: "Baldur's Gate Optimization: Curing Stutters, Eliminating Lags (6 Ways)"
-date: 2025-01-08T17:25:43.867Z
-updated: 2025-01-12T17:47:33.249Z
+date: 2025-01-12T22:07:50.377Z
+updated: 2025-01-18T06:46:27.225Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ Baldur’s Gate 3, developed by Larian Studios, offers an immersive role-playing
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix Baldur’s Gate 3 high CPU usage?
 
  You don’t need to try them all. Just work your way down the list until you find the one that fixes the problem for you.
@@ -34,7 +38,7 @@ Baldur’s Gate 3, developed by Larian Studios, offers an immersive role-playing
 6. **[Repair system files](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Before we begin
@@ -61,17 +65,13 @@ To ascertain your computer’s specifications:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/2022-10-28_17-46-28.png)
 4. Click the **Display**  tab to check the graphics details.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/2022-10-28_17-46-34.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Should your system fall short of these requirements, consider upgrading your hardware for optimal gameplay.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 1 Update your CPU driver
 
@@ -91,10 +91,6 @@ To ascertain your computer’s specifications:
 
  Restart the computer and relaunch the game to see if the problem persists.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 2 Change the power plan setting
 
  The Baldur’s Gate 3 is running slow or stuttering issue possibly because your computer is using**Energy saving power plan** . Or the default power plan**Balanced** also limits your CPU speed since the device’s priority is to balance performance and energy consumption. To figure that out, follow the steps below to modify your power plan setting.
@@ -108,10 +104,6 @@ To ascertain your computer’s specifications:
 4. Choose the**High performance** power plan.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/2023-08-14_17-26-09.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Open the game to check for any improvement.
 
@@ -127,13 +119,21 @@ Open the game to check for any improvement.
 3. Right-click on**Baldur’s Gate 3.exe** again and click**Set affinity** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/11/cpu-affinity.jpg)
 4. Set the CPU affinity only using**0-3** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/11/cpu-0-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Note: You may need to repeat this process each time you launch the game.
 
@@ -145,23 +145,27 @@ Note: You may need to repeat this process each time you launch the game.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/2023-08-14_18-26-18.png)
 2. Click**Browse** and add Baldur’s Gate 3.exe to the list. The default installation location should be **C:\\Program Files (x86)\\Steam\\steamapps\\common** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/2023-08-14_18-26-06.png)
 3. Once the game executable is added, click**Options** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/2023-08-14_18-30-16.png)
 4. Select**High performance** , then click**Save** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/2023-08-14_18-30-31.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Launch the game again to check if the problem has been fixed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5 End unnecessary tasks
 
@@ -171,20 +175,12 @@ Launch the game again to check if the problem has been fixed.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/task-manager-1.jpg)
 2. In the **Processes**  tab, select those apps and background processes occupying the CUP most, and click **End task** to save resources for your game.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/2022-07-13_18-31-13.jpg)
 3. Go to the **Details**  tab, right-click the executable file of your game, and set the priority level to **High** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/game-stuttering-10.jpg)
 
 Go back to your game to see if it works smoother.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 6 Repair system files
 
@@ -201,6 +197,10 @@ Go back to your game to see if it works smoother.
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click **START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -223,21 +223,17 @@ Go back to your game to see if it works smoother.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-earn-big-on-ig-ranking-the-most-effective-posts-for-2024/"><u>[New] Earn Big on IG Ranking the Most Effective Posts for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-disentangle-focus-from-webcams-surroundings/"><u>[New] In 2024, Disentangle Focus From Webcam's Surroundings</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-capture-picture-perfection-without-paying/"><u>2024 Approved How To Capture Picture Perfection Without Paying</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/apoyo-affordable-lightroom-counterparts-reviewed-for-2024/"><u>Apoyo Affordable Lightroom Counterparts Reviewed for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-frequent-shutdowns-during-the-surge-cued-to-solved-the-surge-2-keeps-crashing/"><u>How To Fix Frequent Shutdowns During The Surge Cued To: [Solved] The Surge 2 Keeps Crashing</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-no-rest-for-the-wicked-crashing-on-pc/"><u>How to Fix No Rest for the Wicked Crashing on PC</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/inside-story-the-rise-and-fall-of-google-hangouts-as-a-communication-tool/"><u>Inside Story: The Rise and Fall of Google Hangouts as a Communication Tool</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/lifeless-update-states-how-to-unfreeze-the-progress-on-old-operating-systems-latest-tips-from-2024-edition-helpful-tips-and-guides/"><u>Lifeless Update States: How To Unfreeze The Progress On Old Operating Systems - Latest Tips From 2024 Edition! (Helpful Tips and Guides.)</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-steam-crashes-correcting-steamuidll-not-found-for-a-smooth-gaming-experience/"><u>Overcoming Steam Crashes: Correcting 'steamui.dll Not Found' For a Smooth Gaming Experience</u></a></li>
-<li><a href="https://win-answers.techidaily.com/revitalized-bioshock-2-updated-for-optimal-performance-and-visuals/"><u>Revitalized Bioshock 2 - Updated for Optimal Performance and Visuals</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-repair-for-error-code-0xc19001e1-on-windows-10-pcs/"><u>Step-by-Step Repair for 'Error Code 0xC19001E1' On Windows 10 PCs</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-solution-when-your-voice-chat-faces-a-content-warning/"><u>Step-by-Step Solution: When Your Voice Chat Faces a Content Warning</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/ultimate-powerdirector-guide/"><u>Ultimate PowerDirector Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/upgrade-to-the-future-why-choosing-apples-iphone-15-means-more-than-just-a-new-phone/"><u>Upgrade to the Future: Why Choosing Apple's iPhone 15 Means More than Just a New Phone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722984578903-why-wait-get-the-full-story-on-football-manager-2022-launch-hiccups-and-how-they-got-fixed/"><u>Why Wait? Get the Full Story on Football Manager 2022 Launch Hiccups and How They Got Fixed</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/windows-11s-built-in-co-pilot-feature-facing-discontinuation-insights-and-alternatives/"><u>Windows 11'S Built-In Co-Pilot Feature Facing Discontinuation - Insights & Alternatives</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-harnessing-the-power-of-supplemental-film-footage/"><u>[New] 2024 Approved Harnessing the Power of Supplemental Film Footage</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/hannel-transformation-unleash-potential-with-tubebuddy/"><u>[New] Channel Transformation Unleash Potential with TubeBuddy</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/amazon-kindle-scribe-evaluation-after-a-full-year-nearly-flawless-experience-gadgetpundit/"><u>Amazon Kindle Scribe Evaluation After a Full Year - Nearly Flawless Experience! | GadgetPundit</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210742726-9781667447667-apprenez-a-mediter/"><u>Apprenez à méditer | Free Book</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bloodhunt-performance-tips-for-pc-users-eliminating-lag-preventing-crashes-and-ensuring-seamless-play/"><u>Bloodhunt Performance Tips for PC Users: Eliminating Lag, Preventing Crashes & Ensuring Seamless Play</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-solutions-to-stop-persistent-crashes-of-samurai-warriors-5-on-windows-computers/"><u>Effective Solutions to Stop Persistent Crashes of Samurai Warriors 5 on Windows Computers</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-review-of-drawing-capabilities-on-the-xp-pen-artist-16-pro-device/"><u>Expert Review of Drawing Capabilities on the XP-Pen Artist 16 Pro Device</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/guide-complet-comment-et-pourquoi-convertir-les-dvd-en-fichier-mp4-via-macos-effortlessly/"><u>Guide Complet: Comment Et Pourquoi Convertir Les DVD en Fichier MP4 via macOS Effortlessly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/league-of-legends-network-issues-fixing-and-preventive-measures-for-smooth-gaming/"><u>League of Legends Network Issues - Fixing and Preventive Measures for Smooth Gaming!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-gaming-fix-solving-mir4-system-crashes-successfully/"><u>PC Gaming Fix: Solving Mir4 System Crashes Successfully</u></a></li>
+<li><a href="https://win-answers.techidaily.com/persistent-crash-woes-in-remnant-from-the-ashes-avoidance-tactics-and-stability-enhancements-discovered/"><u>Persistent Crash Woes in 'Remnant: From the Ashes' - Avoidance Tactics and Stability Enhancements Discovered</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/sony-a6400-why-is-my-video-playback-failed/"><u>Sony A6400 Why Is My Video Playback Failed?</u></a></li>
 </ul></div>
 

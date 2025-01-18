@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Resolving Black Screen Issues in Rainbow Six Siege - PC Edition"
-date: 2025-01-05T16:45:12.205Z
-updated: 2025-01-12T17:10:04.241Z
+date: 2025-01-14T22:06:32.539Z
+updated: 2025-01-18T03:22:21.565Z
 tags:
   - win11
   - win10
@@ -67,16 +67,20 @@ thumbnail: https://thmb.techidaily.com/14b0662c78e5872a3461f2dbc1feb1f76e4bd1f28
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/r6s-1.jpg)
 3. Select the**LOCAL FILES** tab and click**VERIFY INTEGRITY OF GAME FILES…** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/r6s-verify-files.jpg)
 4. Steam will verify the game’s files. This process may take several minutes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once it completes, launch Rainbow Six Siege again to see if it solves the black screen problem.
 
 If not, then you can try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -106,6 +110,10 @@ Here are two ways you can try to update your graphics driver:
 
 If the black screen issue still remains, you can try the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Install the latest Windows updates
 
  If you’re on Windows 10, you might fix the black screen error by installing the latest Windows updates. That’s because every Windows update will fix mostly all the latest bugs. Here’s how to do it:
@@ -115,12 +123,12 @@ If the black screen issue still remains, you can try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/update-security.jpg)
 3. Under Windows Update, click**Check for updates** . The system will automatically start the search for new Windows updates if available. If there is any, it will download the update directly.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/check-for-update-1.jpg)
 4. Once the update is completed, restart your computer to apply changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now you can launch Rainbow Six Siege again to see if the black screen problem persists or not.
 
@@ -134,22 +142,26 @@ If the problem still remains, you can try the following fixes.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/control-panel.jpg)
 2. In Control Panel, click**Hardware and Sound** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/hardware-sound.jpg)
 3. Click**Power Options** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/power-options.jpg)
 4. Then click**Change plan settings** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-power-settings.jpg)
 5. Click**Change advanced power settings** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/advanced.jpg)
 6. In the pop-up window, double click**PCI Express** , then extend**Link State Power Management** .  
@@ -158,7 +170,7 @@ If the problem still remains, you can try the following fixes.
 7. Open the drop-down menu next to**On battery** and**Plugged in** orderly, then select**Off** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/off01.jpg)  
@@ -169,6 +181,10 @@ If the problem still remains, you can try the following fixes.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/apply-ok.jpg)
 
  Now you can relaunch Rainbow Six Siege. This should fix your black screen issue. But if not, then you should try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Force borderless windowed mode in games
 
@@ -181,14 +197,10 @@ If the problem still remains, you can try the following fixes.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/game-settings.jpg)
 4. **Save** the file and run Rainbow Six Siege to see if it fixes the black screen issue.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If the issue remains, you can try the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Run the game in compatibility mode
@@ -208,17 +220,9 @@ If the issue remains, you can try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/compatibility4-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Then you can launch Rainbow Six Siege to see if the black screen issue is fixed or not.
 
 If the issue still remains, here’s one last fix for you to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 7: Reinstall the game
 
@@ -228,10 +232,6 @@ If the issue still remains, here’s one last fix for you to try.
 2. Type**appwiz.cpl** , then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/appwiz.cpl_.jpg)
 3. Right-click Tom Clancy’s Rainbow Six Siege and select**Uninstall** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. **Reinstall** the game from where you purchased it.
 
@@ -259,14 +259,18 @@ If the issue still remains, here’s one last fix for you to try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-capture-save-and-share-mastering-playstation-4-recordings/"><u>[New] 2024 Approved Capture, Save & Share Mastering PlayStation 4 Recordings</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-a-comprehensive-manual-on-motion-detection-systems/"><u>2024 Approved A Comprehensive Manual on Motion Detection Systems</u></a></li>
-<li><a href="https://solve-news.techidaily.com/abbyyai-ocr/"><u>第一生命保険株式会社がABBYY製品とAI-OCR技術で事務作業自動化に成功:重要ニュース</u></a></li>
-<li><a href="https://win-answers.techidaily.com/achieve-optimal-gaming-experience-overcoming-low-fps-challenges-in-outriders/"><u>Achieve Optimal Gaming Experience - Overcoming Low FPS Challenges in Outriders</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-ultimate-list-7-free-tunes-players-on-iphones-ipads-and-android-gadgets/"><u>Discover the Ultimate List: 7 Free Tunes Players on iPhones, iPads & Android Gadgets</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/google-ar-stickers-an-introduction-and-comparisons-for-2024/"><u>Google AR Stickers An Introduction & Comparisons for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-the-connection-failed-error-in-hitman-3-a-step-by-step-guide/"><u>How to Fix the 'Connection Failed' Error in Hitman 3: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-fixes-for-preventing-far-cry-6-from-crashing-on-windows/"><u>Resolved: Fixes for Preventing Far Cry 6 From Crashing on Windows</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-palworlds-session-based-search-glitches-a-step-by-step-guide/"><u>Solving PalWorld's Session-Based Search Glitches: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-navigating-the-apex-of-general-knowledge-trivia-channels-in-24/"><u>[Updated] 2024 Approved Navigating the Apex of General Knowledge Trivia Channels in '24</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-discovering-the-top-screen-grabber-software-win11/"><u>[Updated] In 2024, Discovering the Top Screen Grabber Software Win11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/delete-gmail-account-withwithout-password-on-samsung-galaxy-a14-4g-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Samsung Galaxy A14 4G</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-vcruntime140dll-missing-file-issue-easy-guide/"><u>How to Fix VCRUNTIME140.dll Missing File Issue - Easy Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-nokia-c210-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Nokia C210 Phone? | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-for-the-curious-young-and-novice-pilot-the-10-best-drones/"><u>In 2024, For the Curious Young and Novice Pilot - The 10 Best Drones</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/inspire-your-brand-with-smart-channel-name-genesis-for-2024/"><u>Inspire Your Brand with Smart Channel Name Genesis for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-outriders-expert-insights-on-eliminating-unwanted-lag-and-buffer-times/"><u>Mastering [Outriders]: Expert Insights on Eliminating Unwanted Lag and Buffer Times</u></a></li>
+<li><a href="https://win-answers.techidaily.com/say-goodbye-to-crashes-expert-fixes-for-stable-fifa-19-gameplay-on-desktop/"><u>Say Goodbye to Crashes: Expert Fixes for Stable FIFA 19 Gameplay on Desktop</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-alan-wake-2-freezing-issues-top-strategies-of-2024/"><u>Solving Alan Wake 2 Freezing Issues: Top Strategies of 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-complete-roadmap-to-feeding-your-youtube-plays-with-content/"><u>The Complete Roadmap to Feeding Your YouTube Plays with Content</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-resolving-palworld-session-search-issues/"><u>Ultimate Guide: Resolving Palworld Session Search Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/windows-11-users-rejoice-civ-6-launch-issues-resolved/"><u>Windows 11 Users Rejoice: Civ 6 Launch Issues Resolved</u></a></li>
 </ul></div>
 

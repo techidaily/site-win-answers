@@ -1,7 +1,7 @@
 ---
 title: "Mastering Lethal Business Launch Fixes: Key Insights and Tactics"
-date: 2025-01-03T02:36:50.876Z
-updated: 2025-01-05T18:27:41.942Z
+date: 2025-01-15T03:29:55.986Z
+updated: 2025-01-18T05:08:41.248Z
 tags:
   - win11
   - win10
@@ -37,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/6befd60c173a5cd8b8d9dfcf598dea7f7e1558ad2
  Before you continue to the more complicated methods below,**restart your computer** to see if the problem goes away. Also make sure your machine meets the[**minimum requirements**](https://genshin.mihoyo.com/en/news/detail/5284) to play the game.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1 – Run Genshin Impact as an administrator
@@ -49,16 +49,16 @@ thumbnail: https://thmb.techidaily.com/6befd60c173a5cd8b8d9dfcf598dea7f7e1558ad2
 2. Choose the**Compatibility** tab. Then tick**Disable fullscreen optimizations** and**Run the program as an administrator** and click**OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-genshin-as-administrator-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After you apply the settings, launch the Genshin Impact file directly from the folder and see if it opens correctly. If not, check out the second fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2 – Update your graphics driver
 
@@ -83,21 +83,17 @@ There are mainly two ways you can update the graphics driver:
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the **Update**  button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it. Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/amd-6800xt.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once the driver update completes, restart the computer and test the issue again. The game is still not working? Then try the next solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3 – Install the latest DirectX and Visual C++ redistributable files
 
@@ -114,10 +110,6 @@ There are mainly two ways you can update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/visual-c-file.jpg)
 
  Now that you’ve installed the latest DirectX and Visual redistributable files, see if Genshin Impact works. If not, proceed to the next method.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4 – Perform a clean boot
 
@@ -136,10 +128,22 @@ There are mainly two ways you can update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-4.jpg)
 5. Go back to the System Configuration window and click**OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-2-3-1.jpg)
 6. Click**Restart** when prompted.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-2-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After the computer starts up, launch Genshin Impact to check if the issue persists. If it works without trouble,**enable the services one or a few like four or five at a time** . If the game works fine, there is no problem with these services. Then repeat the steps until you’ve checked all the services.
 
@@ -157,14 +161,10 @@ There are mainly two ways you can update the graphics driver:
 3. Click**Restart** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-2-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5 – Repair the game files
 
@@ -200,19 +200,18 @@ There are mainly two ways you can update the graphics driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-ifunny-meme-seamless-download-and-enjoyment-for-2024/"><u>[New] IFunny Meme Seamless Download and Enjoyment for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-comprehensive-guide-to-the-updated-facetune-photo-editing/"><u>[New] In 2024, Comprehensive Guide to the Updated Facetune Photo Editing</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-critical-components-affecting-youtube-video-scores/"><u>[New] In 2024, Critical Components Affecting YouTube Video Scores</u></a></li>
-<li><a href="https://win-answers.techidaily.com/beat-cod-black-ops-cold-war-glitch-overcome-error-80070057-with-these-steps/"><u>Beat Cod: Black Ops Cold War Glitch - Overcome Error 80070057 with These Steps</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-update-amd-smbus-driver-fast-simple-steps-inside/"><u>Download and Update AMD SMBus Driver Fast: Simple Steps Inside</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-fixes-for-when-stardew-valley-wont-boot-properly-on-your-pcmac/"><u>Effective Fixes for When Stardew Valley Won't Boot Properly on Your PC/Mac</u></a></li>
-<li><a href="https://win-answers.techidaily.com/eliminating-lags-and-stutters-optimizing-your-age-of-empires-4-experience/"><u>Eliminating Lags & Stutters – Optimizing Your Age of Empires 4 Experience</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ghostrunner-not-working-troubleshoot-and-resolve-windows-11-issues-with-ease/"><u>Ghostrunner Not Working? Troubleshoot and Resolve Windows 11 Issues with Ease</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-samsung-galaxy-s23-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Samsung Galaxy S23 Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-itel-s23-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Itel S23 | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-revolutionizing-real-estate-with-metaverse-ads/"><u>In 2024, Revolutionizing Real Estate with Metaverse Ads</u></a></li>
-<li><a href="https://program-issues.techidaily.com/in-depth-analysis-and-solutions-for-unstable-stardew-valley-gameplay-on-pc/"><u>In-Depth Analysis & Solutions for Unstable Stardew Valley Gameplay on PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-5-solutions-for-resolving-zoom-cant-start-video-issue/"><u>Top 5 Solutions for Resolving 'Zoom Can't Start Video' Issue</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-resolving-roblox-startup-problems/"><u>Troubleshooting Steps for Resolving Roblox Startup Problems</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-essential-virtual-worlds-worth-playing-for-2024/"><u>[New] Essential Virtual Worlds Worth Playing for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-adobe-cloud-essential-storage-insights-and-top-alternatives/"><u>[New] Mastering Adobe Cloud Essential Storage Insights & Top Alternatives</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-screen-solidarities-picking-the-right-media-company/"><u>[Updated] In 2024, Screen Solidarities Picking the Right Media Company</u></a></li>
+<li><a href="https://win-answers.techidaily.com/battlefield-2042-and-directx-troubleshooting-techniques-for-smooth-gaming/"><u>Battlefield 2042 and DirectX Troubleshooting Techniques for Smooth Gaming</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-solutions-to-correct-ntdlldll-errors-on-windows-7-8-and-10/"><u>Comprehensive Solutions to Correct ntdll.dll Errors on Windows 7, 8 & 10</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-gpeditmsc-not-found-error-in-windows-10-home-edition-systems/"><u>Fixing 'gpedit.msc Not Found' Error in Windows 10 Home Edition Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-your-last-epoch-game-from-non-launch-errors-pc-user-solutions-release/"><u>Fixing Your Last Epoch Game From Non-Launch Errors: PC User Solutions Release</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-oppo-f25-pro-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Oppo F25 Pro 5G Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-gamers-lifeline-fixing-broken-game-files-with-ease/"><u>PC Gamers' Lifeline: Fixing Broken Game Files with Ease</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211372499-9781922786807-reclaim-your-dark-goddess/"><u>Reclaim your Dark Goddess | Free Book</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-lag-and-freezing-in-fortnite-optimized-tips-for-smooth-gameplay/"><u>Resolving Lag and Freezing in Fortnite: Optimized Tips for Smooth Gameplay</u></a></li>
+<li><a href="https://change-location.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-raspberry-pi-enclosures-of-2024/"><u>Top-Rated Raspberry Pi Enclosures of 2024</u></a></li>
 </ul></div>
 

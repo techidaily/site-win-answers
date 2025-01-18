@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solution for 'Not Installed' Easy Anti-Cheat During EAC Initialization
-date: 2025-01-06T18:41:00.181Z
-updated: 2025-01-12T19:55:37.301Z
+date: 2025-01-11T01:40:46.553Z
+updated: 2025-01-18T08:15:29.350Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/e73bb44e853b64ea13a3dc6d94705befdc354ca8d
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You may not have to try them all. Just work your way down the list until you find the one that works.
@@ -35,19 +39,11 @@ thumbnail: https://thmb.techidaily.com/e73bb44e853b64ea13a3dc6d94705befdc354ca8d
 5. **[Reinstall Fortnite](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Bonus tips: Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Restart your computer
 
  Some programs running in your computer may conflict with Fortnite or Epic Games Launcher, causing this problem for you. You can try rebooting your computer to turn off unwanted programs, then relaunch Fortnite again to test your issue.
 
 If Fortnite still fails, don’t worry. Try the fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Clear the Binaries folder
 
@@ -58,12 +54,16 @@ If Fortnite still fails, don’t worry. Try the fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-02_12-03-47.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)**  Type**C:\\Program Files\\Epic Games\\Fortnite\\FortniteGame** in the address bar and press **Enter**  on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-02_12-03-56.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Highlight the**Binaries folder** and press the**Del** key on your keyboard.
 
@@ -72,6 +72,10 @@ If Fortnite still fails, don’t worry. Try the fix, below.
 **4)** Relaunch Epic Games Launcher and try running your game again.
 
 If you still can’t open Fortnite, move on and try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Verify your game files
 
@@ -105,15 +109,15 @@ If you still can’t open Fortnite, move on and try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-02_12-05-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)**  Click **Repair Service** .
 
  If you see another game’s name on the list box, click the box, and then select Fortnite from the drop-down list.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-02_12-05-17.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After the process is complete, relaunch your game to check if your problem has been resolved. If not, read on and try the fix, below.
 
@@ -131,10 +135,6 @@ If you still can’t open Fortnite, move on and try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-02_12-05-50.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4) Restart**  your computer and run the **Epic Games Launcher**  again to download and install Fortnite again.
 
  Hopefully, one of the solutions above fixed your issue! If you have any questions or suggestions. Please feel free to leave a comment below.
@@ -144,7 +144,7 @@ If you still can’t open Fortnite, move on and try the next fix.
  Do you know that simply updating the graphics driver can fix many common game issues such as game lags or crashes? Check the Bonus tip below to see how to do it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Bonus tip: Update your graphics driver
@@ -157,6 +157,10 @@ OR
 
 **[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/solved-fortnite-entry-point-not-found-2019-tips/#e2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Option 1 – Download and install the driver manually**
 
  Epson keeps updating drivers. To get them, you need to go to your graphics product manufacturer’s website, find the driver corresponding with your specific flavor of Windows version (for example, Windows 32 bit) and download the driver manually.
@@ -164,7 +168,7 @@ OR
  Once you’ve downloaded the correct drivers for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Option 2 – Automatically update** your graphics driver
@@ -184,10 +188,6 @@ OR
 **3)**  Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-02_12-06-30.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -213,20 +213,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-best-recorders-for-lecture-recording-for-2024/"><u>[New] Best Recorders for Lecture Recording for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-step-by-step-subtitle-insertion-for-vimeo-videos/"><u>[New] Step-by-Step Subtitle Insertion for Vimeo Videos</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-unlocking-insta-success-when-to-share-your-content/"><u>[Updated] 2024 Approved Unlocking Insta Success When to Share Your Content</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/can-interactive-conversations-improve-chatgpts-understanding/"><u>Can Interactive Conversations Improve ChatGPT's Understanding?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723003279361-common-fixes-for-launching-issues-in-rocket-league-get-back-to-gaming/"><u>Common Fixes for Launching Issues in Rocket League - Get Back to Gaming!</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/crea-animaciones-de-gif-desde-webm-sin-coste-con-herramientas-online-de-convertir/"><u>Crea Animaciones De GIF Desde WebM Sin Coste Con Herramientas Online De Convertir</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-stutter-and-hitches-smooth-playthrough-tips-for-free-path-of-exile-version/"><u>Fixing Stutter & Hitches: Smooth Playthrough Tips for Free Path of Exile Version</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Apple iPhone 13 mini? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-nokia-c12-plus-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Nokia C12 Plus to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/t-layers-elevating-your-youtube-videos-for-2024/"><u>Layout Layers Elevating Your YouTube Videos for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723009201333-solving-the-mute-mystery-in-evil-genius-2-a-step-by-step-guide-to-get-volume-back/"><u>Solving the Mute Mystery in 'Evil Genius 2': A Step-by-Step Guide to Get Volume Back!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/successfully-starting-elden-ring-no-more-black-screens-upon-opening/"><u>Successfully Starting Elden Ring? No More Black Screens Upon Opening</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-how-to-stop-snowrunner-from-continuously-crashing-on-your-computer/"><u>Troubleshooting Guide: How to Stop SnowRunner From Continuously Crashing on Your Computer</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-lag-and-ping-problems-in-cs2-ultimate-fixes/"><u>Troubleshooting Lag & Ping Problems in CS2 - Ultimate Fixes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-when-msi-afterburner-fails-to-detect-your-graphics-card-on-w10w11/"><u>Troubleshooting Tips for When MSI Afterburner Fails to Detect Your Graphics Card on W10/W11</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-budgetary-skynetting-massively-saving-cloud-data-costs-for-2024/"><u>[New] Budgetary SkyNetting Massively Saving Cloud Data Costs for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-top-2024-camcorders-for-quality-imaging/"><u>[New] Top 2024 Camcorders for Quality Imaging</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-facebook-vids-excellence-the-top-20-techniques/"><u>[Updated] 2024 Approved Facebook Vids Excellence The Top 20 Techniques</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-step-by-step-livestreaming-to-facebook-from-iphonestablets/"><u>[Updated] In 2024, Step-by-Step Livestreaming to Facebook From iPhones/Tablets</u></a></li>
+<li><a href="https://win-answers.techidaily.com/boosting-visual-fidelity-in-forza-horizon-5-update-guide-for-your-graphic-drivers/"><u>Boosting Visual Fidelity in Forza Horizon 5 - Update Guide for Your Graphic Drivers</u></a></li>
+<li><a href="https://win-trending.techidaily.com/comprehensive-analysis-of-microsofts-to-do-app-does-it-streamline-productivity-or-clutter-your-workflow-pcmag/"><u>Comprehensive Analysis of Microsoft's To Do App: Does It Streamline Productivity or Clutter Your Workflow? | PCMag</u></a></li>
+<li><a href="https://win-answers.techidaily.com/crash-free-gameplay-solutions-for-valorants-pc-malfunctions/"><u>Crash-Free Gameplay: Solutions for Valorant's PC Malfunctions</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Realme C67 5G? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-and-streamlining-windows-based-discord-searches/"><u>Enhancing and Streamlining Windows-Based Discord Searches</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-on-preventing-discord-disconnects-for-smooth-broadcasting/"><u>Expert Advice on Preventing Discord Disconnects for Smooth Broadcasting</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-crashing-during-beyond-light-launch-in-destiny-2-for-pc/"><u>How To Fix 'Crashing During Beyond Light Launch in Destiny 2 for PC?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Vivo Y56 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximize-output-with-these-top-8-ai-powered-google-addons/"><u>Maximize Output with These Top 8 AI-Powered Google Addons</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-users-struggle-with-launching-necromunda-hired-gun-game-troubleshooting-tips-inside/"><u>PC Users Struggle with Launching Necromunda: Hired Gun Game - Troubleshooting Tips Inside</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723002510003-unable-to-access-doom-eternal-since-its-delayed-launch-find-remedies-and-get-gaming-now/"><u>Unable to Access DOOM Eternal Since Its Delayed Launch? Find Remedies and Get Gaming Now!</u></a></li>
 </ul></div>
 

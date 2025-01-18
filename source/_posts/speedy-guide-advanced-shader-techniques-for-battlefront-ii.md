@@ -1,7 +1,7 @@
 ---
 title: "Speedy Guide: Advanced Shader Techniques for Battlefront II"
-date: 2024-08-13T12:10:21.330Z
-updated: 2024-08-14T12:10:21.330Z
+date: 2025-01-14T07:17:54.452Z
+updated: 2025-01-17T20:20:34.947Z
 tags:
   - win11
   - win10
@@ -44,12 +44,13 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 3. [Delete specific files from the save folder](https://tools.techidaily.com/drivereasy/download/)
 4. [Underclock your clock speed](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ### Fix 1: Download the latest patch
 
  If you haven’t been updated your game for a while, you can update your game. The official keeps releasing new patches, the latest version may solve the crashing issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Manage Virtual Memory
 
@@ -57,21 +58,29 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 
 1. Press the**Windows logo key + Pause** to open System.
 2. Click**Advanced system settings.**  
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/1-4.jpg)
 3. Under the**Advanced** tab, click**Settings** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2-4.jpg)
 4. Under**Virtual memory** , click**Change** .  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/3-2.jpg)
 5. Uncheck**Automatically manage paging file size for all drives** and make sure you’ve check**System managed size** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/4-2.jpg)
 6. Click**Set > OK** .
 7. Reboot your computer can check whether the crash will appear or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Delete specific files from the save folder
 
@@ -81,20 +90,19 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 1. Run Steam.
 2. In the LIBRARY, right-click on the game and click**Properties** .
 3. Choose**LOCAL FILES** and click**BROWSE LOCAL FILES** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/browse-2.jpg)
 4. Navigate to the save folder, delete Data(999).sav & Data(999).bak.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Reboot your computer and check the issue is solved or not.
 
 ### Fix 4: Underclock your clock speed
 
  The game is built with an old Unreal Engine version. This may be the reason for the random crashes. You can underclock your CPU speed by 100 MHz or 150 MHz to see whether it helps or not.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Bonus: Update your drivers
 
  To get a better gaming experience, it’s very important to keep your drivers updated. There are two ways you can download your graphics and sound card drivers.
@@ -119,10 +127,6 @@ OR
 
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
@@ -137,8 +141,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -146,4 +148,23 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-spotlight-on-5-captivating-book-viddies/"><u>[New] Spotlight on 5 Captivating Book Viddies</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-explore-top-ringtones-for-pixel-devices/"><u>[Updated] In 2024, Explore Top Ringtones for Pixel Devices</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-chromebook-pitch-and-timbre-control-guide-the-leading-online-speech-modifiers/"><u>2024 Approved Chromebook Pitch and Timbre Control Guide The Leading Online Speech Modifiers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/hassle-free-techniques-to-overcome-wow-gameplay-interruptions-and-crashes/"><u>Hassle-Free Techniques to Overcome WOW Gameplay Interruptions and Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-i-fixed-the-persistent-problem-of-blender-closing-unexpectedly-on-my-computer/"><u>How I Fixed the Persistent Problem of Blender Closing Unexpectedly on My Computer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-resolve-connection-issues-when-launching-a-minecraft-realm/"><u>How to Resolve Connection Issues When Launching a Minecraft Realm</u></a></li>
+<li><a href="https://win-answers.techidaily.com/improve-gaming-experience-combatting-fps-fluctuations-and-lag-spikes-in-call-of-duty-black-ops-iv/"><u>Improve Gaming Experience: Combatting FPS Fluctuations and Lag Spikes in Call of Duty: Black Ops IV</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-from-novice-to-pro-conquering-twitter-streams/"><u>In 2024, From Novice to Pro Conquering Twitter Streams</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-from-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently From iPhone 12 Pro Max</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-the-ultimate-list-of-glitch-art-video-editors-for-mobile-devices/"><u>In 2024, The Ultimate List of Glitch Art Video Editors for Mobile Devices</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-motorola-moto-g23-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Motorola Moto G23 Phone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pioneering-sites-for-downloading-text-aesthetics/"><u>Pioneering Sites for Downloading Text Aesthetics</u></a></li>
+<li><a href="https://win-answers.techidaily.com/preserved-meats-portuguese-cuisine-makes-use-of-a-variety-of-preserved-meats-like-chourico-sausage-linguica-another-type-of-sausage-salted-codfish-and-smoke546/"><u>Preserved Meats: Portuguese Cuisine Makes Use of a Variety of Preserved Meats Like Chouriço (Sausage), Linguiça (Another Type of Sausage), Salted Codfish and Smoked Bacon, Which Are Often Used as Flavor Enhancers in Stews or Served Alongside Rice Dishes</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/rapid-periscope-livestream-optimization-methods-for-2024/"><u>Rapid Periscope Livestream Optimization Methods for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-how-to-stop-warframe-from-persistent-pauses-and-freezes/"><u>Resolved: How to Stop Warframe From Persistent Pauses and Freezes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-access-violation-bugs-in-civilization-vi-what-you-need-to-know-for-the-2024-fix/"><u>Troubleshooting Access Violation Bugs in Civilization VI - What You Need to Know for the 2024 Fix</u></a></li>
+</ul></div>
 

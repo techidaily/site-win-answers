@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Overcome the Star Wars Battlefront II's Persistent Black Screen Issue"
-date: 2025-01-08T19:52:37.501Z
-updated: 2025-01-12T17:21:55.994Z
+date: 2025-01-17T04:07:44.902Z
+updated: 2025-01-18T05:42:24.087Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ Game crashing issues can occur for a variety of reasons, such as a faulty graphi
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixes to try
@@ -38,6 +38,10 @@ Game crashing issues can occur for a variety of reasons, such as a faulty graphi
 6. **[Disable automatic downloads from the server](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Reinstall Steam](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Reseat PC components](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Check your PC specs
 
@@ -74,7 +78,7 @@ Follow the instructions below to view your computer hardware information:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_10-47-36.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Check your**Display Memory** here.
@@ -83,19 +87,11 @@ Follow the instructions below to view your computer hardware information:
 
  Make sure your computer meets the requirements, then read on and try the fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Restart your computer
 
  If you’re running multiple programs at the same time, hogging your system’s resources, that could cause your game to crash. In this case, try restarting your computer to end unwanted programs completely, then relaunch your game.
 
 If your problem still exists after the reboot, check Fix 3, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -127,13 +123,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-04-42.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Click **Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-04-47.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -161,6 +157,10 @@ OR
 
  If the crashing issue continues to occur, then go ahead with the fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Change the launch option
 
  Many players report that running the game with**\-dxlevel 85 -console -windowed -noborder** launch option fixed the crashing issue. Follow the instructions below to see how to do it:
@@ -179,23 +179,19 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-06-07-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **5)**  Remove any launch options currently shown.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-16-08.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **6)** Type **\-dxlevel 85 -console -windowed -noborder** , then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-15-10.jpg)
 
  Relaunch your game to see if this worked for you. If it didn’t fix your issue, move on to the fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Disable automatic downloads from the server
 
@@ -216,7 +212,7 @@ Follow the instructions below to stop the automatic downloads:
  Relaunch your game to check if this has resolved your issue. If not, try the fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 7: Reinstall Steam
@@ -227,13 +223,13 @@ Follow the instructions below to stop the automatic downloads:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-17-46.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-17-53.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click**Control Panel** .
 
@@ -255,6 +251,10 @@ Follow the instructions below to stop the automatic downloads:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-18-33.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **9)**  Move the backup **steamapps folder**  you create before to your current directory location.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-18-37.jpg)
@@ -262,7 +262,7 @@ Follow the instructions below to stop the automatic downloads:
 **10)**  Relaunch Steam and your game.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 8:**Reseat PC components**
@@ -332,17 +332,24 @@ Follow the instructions below to stop the automatic downloads:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-key-practices-for-soundless-media-gathering/"><u>[New] 2024 Approved Key Practices for Soundless Media Gathering</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-optimal-vision-selections-of-best-4k-dslrs-in-action/"><u>[New] In 2024, Optimal Vision Selections of Best 4K DSLRs in Action</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-smart-pick-android-apps-for-large-video-meetings-for-2024/"><u>[New] Smart Pick Android Apps for Large Video Meetings for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-crafting-channel-graphics-icons-banners-and-thumbnails/"><u>[Updated] Crafting Channel Graphics Icons, Banners & Thumbnails</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-perfect-every-moment-incorporating-captions-in-instagram-footage/"><u>[Updated] In 2024, Perfect Every Moment Incorporating Captions in Instagram Footage</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-invaluable-list-of-costless-photographic-and-moving-images/"><u>2024 Approved Invaluable List of Costless Photographic and Moving Images</u></a></li>
-<li><a href="https://win-answers.techidaily.com/beat-warzone-20-launch-problems-7-essential-tips-for-a-smooth-startup-on-pc/"><u>Beat Warzone 2.0 Launch Problems: 7 Essential Tips for a Smooth Startup on PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/boost-your-guilty-gear-strive-playtime-effective-solutions-for-pc-crashes/"><u>Boost Your Guilty Gear Strive Playtime - Effective Solutions for PC Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/dayz-survival-guide-rapid-and-simple-fixes-for-fps-drop-issues/"><u>DayZ Survival Guide: Rapid and Simple Fixes for FPS Drop Issues</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-call-of-duty-wwii-error-code-4128-solutions-and-tips/"><u>Fixing Call of Duty: WWII Error Code 4128 - Solutions and Tips</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Infinix Hot 30i | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-ultimate-list-where-to-catch-ncaa-march-madness-games-without-paying-a-dime/"><u>The Ultimate List: Where to Catch NCAA March Madness Games Without Paying a Dime</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-onscreen-excellence-video-talent-licensing/"><u>[New] Onscreen Excellence Video Talent Licensing</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ioneering-the-way-with-innovative-approaches-to-youtube-banners/"><u>[New] Pioneering the Way with Innovative Approaches to YouTube Banners</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-parody-playground-top-10-laugh-out-loud-songs/"><u>2024 Approved Parody Playground Top 10 Laugh-Out-Loud Songs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-the-boot-bug-fixing-constant-crashes-in-fall-guys-upon-starting-game/"><u>Beat the Boot Bug: Fixing Constant Crashes in Fall Guys Upon Starting Game</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723008842025-ending-stream-delays-in-obs-check-out-our-fixes-for-smoother-recording-and-streaming/"><u>Ending Stream Delays in OBS? Check Out Our Fixes for Smoother Recording and Streaming</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-issues-how-to-prevent-genshin-impact-from-continuously-crashing-on-your-pc/"><u>Fixing Issues: How to Prevent Genshin Impact From Continuously Crashing on Your PC</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gratuitamente-converti-il-formato-audio-aac-in-wma-online-con-moveavi-il-tuo-guida-rapida/"><u>Gratuitamente Converti Il Formato Audio AAC in WMA Online Con Moveavi - Il Tuo Guida Rapida!</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-oppo-a78-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Oppo A78 FRP In 3 Different Ways</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Honor X50i? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-and-prevent-magic-the-gathering-onlines-distressing-black-screen-issues-expert-guide/"><u>How To Fix And Prevent Magic: The Gathering Online's Distressing Black Screen Issues - Expert Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-envy-amo-5055-essential-drives-download-without-hassle/"><u>HP Envy Amo 5055 Essential Drives - Download Without Hassle!</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-the-artists-toolbox-essential-video-tips-for-musicians-on-youtube/"><u>In 2024, The Artist's Toolbox Essential Video Tips for Musicians on YouTube</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/itel-s23plus-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Itel S23+ Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-optimization-elite-fixes-for-improving-frames-per-second-fps-in-escape-from-tarkov/"><u>Mastering Optimization: Elite Fixes for Improving Frames Per Second (FPS) in Escape From Tarkov</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-discord-stream-interruptions-and-app-failures/"><u>Overcoming Discord Stream Interruptions and App Failures</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-technical-glitches-in-pathfinder-wrath-of-the-righteeous-a-guide/"><u>Overcoming Technical Glitches in Pathfinder: Wrath of the Righteeous - A Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/score-big-with-these-incredible-bargains-on-ipads-limited-time-offer/"><u>Score Big with These Incredible Bargains on iPads – Limited Time Offer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/steps-to-successfully-start-your-adventure-launch-avatar-frontiers-of-pandora-without-hitches/"><u>Steps to Successfully Start Your Adventure: Launch 'Avatar - Frontiers of Pandora' Without Hitches</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-tips-for-enhancing-your-valheim-experience-fixing-slow-frames/"><u>Top Tips for Enhancing Your Valheim Experience: Fixing Slow Frames</u></a></li>
 </ul></div>
 

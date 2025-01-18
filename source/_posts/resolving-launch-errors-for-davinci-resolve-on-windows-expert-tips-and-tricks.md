@@ -1,7 +1,7 @@
 ---
 title: Resolving Launch Errors for DaVinci Resolve on Windows - Expert Tips & Tricks
-date: 2025-01-07T16:38:52.908Z
-updated: 2025-01-12T18:30:36.977Z
+date: 2025-01-15T10:22:12.372Z
+updated: 2025-01-17T22:17:07.944Z
 tags:
   - win11
   - win10
@@ -82,7 +82,7 @@ thumbnail: https://thmb.techidaily.com/91715213b833560df5357cf6515828851bc7618f2
 2. Press the**Ctrl** and**A** keys together to select all, then press**Shift** and**Delete** to remove all the log files here.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. On your keyboard, press the**Windows** key and the**R** key together. Copy and paste **%USERPROFILE%AppDataLocalLowRbxLogs** and hit**Enter** .  
@@ -102,14 +102,10 @@ thumbnail: https://thmb.techidaily.com/91715213b833560df5357cf6515828851bc7618f2
 2. Select the **Compatibility**  tab. Tick the box for **Run this program as an administrator** . Then click **Apply > OK**  to save the changes.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/image-18.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now open Roblox again (it should be opened with administrative permission), to see if error code 277 is st. If the problem remains, please move on to the next fix.
 
@@ -128,7 +124,7 @@ thumbnail: https://thmb.techidaily.com/91715213b833560df5357cf6515828851bc7618f2
 4. Your DNS cache is successfully cleared.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
@@ -139,15 +135,11 @@ thumbnail: https://thmb.techidaily.com/91715213b833560df5357cf6515828851bc7618f2
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/open-network-settings.png)
 2. Click**Change adapter options** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
@@ -157,7 +149,7 @@ thumbnail: https://thmb.techidaily.com/91715213b833560df5357cf6515828851bc7618f2
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  **Preferred DNS server: 8.8.8.8**  
@@ -166,12 +158,16 @@ thumbnail: https://thmb.techidaily.com/91715213b833560df5357cf6515828851bc7618f2
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then see if the error code 277 is still seen in your Roblox. If the problem remains, please move on.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Repair corrupted or damaged system files
 
@@ -183,6 +179,10 @@ thumbnail: https://thmb.techidaily.com/91715213b833560df5357cf6515828851bc7618f2
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
@@ -211,18 +211,21 @@ thumbnail: https://thmb.techidaily.com/91715213b833560df5357cf6515828851bc7618f2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-stopping-auto-capture-in-apples-recorder/"><u>[Updated] 2024 Approved Stopping Auto-Capture in Apple's Recorder</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-mastering-the-craft-professional-gopro-video-creation/"><u>[Updated] Mastering the Craft Professional GoPro Video Creation</u></a></li>
-<li><a href="https://win-answers.techidaily.com/battlefield-2042-on-pc-solutions-to-combat-fps-fluctuations-and-stutter-for-a-seamless-play/"><u>Battlefield 2042 on PC: Solutions to Combat FPS Fluctuations & Stutter for a Seamless Play</u></a></li>
-<li><a href="https://win-answers.techidaily.com/comprehensive-guide-resolving-issues-when-internet-explorer-fails-to-work/"><u>Comprehensive Guide: Resolving Issues When Internet Explorer Fails to Work</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-guide-how-to-fix-continuous-crashes-in-xcom-2-on-your-windows-machine/"><u>Expert Guide: How to Fix Continuous Crashes in XCOM 2 on Your Windows Machine</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-itel-p55-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Itel P55 Data? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-prepare-yourself-7-must-have-tech-in-the-digital-frontier/"><u>In 2024, Prepare Yourself 7 Must-Have Tech in the Digital Frontier</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-affordable-asmr-experience-awaits/"><u>In 2024, The Ultimate Affordable ASMR Experience Awaits</u></a></li>
-<li><a href="https://some-tips.techidaily.com/leveraging-the-power-of-ai-red-hat-revolutionizes-enterprise-linux-with-innovative-features-techzn/"><u>Leveraging the Power of AI: Red Hat Revolutionizes Enterprise Linux with Innovative Features | TechZN</u></a></li>
-<li><a href="https://win-answers.techidaily.com/rainbow-six-extraction-pc-issues-solutions-and-workarounds-to-eliminate-crashes/"><u>Rainbow Six Extraction PC Issues: Solutions and Workarounds to Eliminate Crashes</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolving-microsoft-edge-exe-crashes-a-comprehensive-guide/"><u>Resolving Microsoft Edge Exe Crashes: A Comprehensive Guide</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/utionize-your-channels-thumbnails-with-these-tools-for-2024/"><u>Revolutionize Your Channel's Thumbnails with These Tools for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-resolving-issues-with-the-unlaunched-2024-assassins-creed-mirage/"><u>Troubleshooting Guide: Resolving Issues with the Unlaunched 2024 Assassin's Creed Mirage</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-digital-audio-translations-from-srt-to-xmlssa-ttml-etc/"><u>[New] 2024 Approved Digital Audio Translations From SRT to XML/SSA, TTML, Etc</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-unlocking-the-secrets-of-profitability-on-vimeo-platform/"><u>[New] 2024 Approved Unlocking the Secrets of Profitability on Vimeo Platform</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-getting-started-with-adobe-presenter-video-recordings/"><u>[Updated] 2024 Approved Getting Started with Adobe Presenter Video Recordings</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-perfect-flying-companions-the-top-kids-drones/"><u>[Updated] 2024 Approved Perfect Flying Companions The Top Kids' Drones</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-simple-android-voice-capture-no-root-access/"><u>[Updated] In 2024, Simple Android Voice Capture - No Root Access</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-issue-unlocking-your-steam-game-files-successfully/"><u>Fixing the Issue: Unlocking Your Steam Game Files Successfully</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-chatgpt-revolutionizes-home-cooking-a-guide-to-7-benefits/"><u>How ChatGPT Revolutionizes Home Cooking: A Guide to 7 Benefits</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-improve-your-farming-simulator-22-experience-by-boosting-pc-fps-performance/"><u>How To Improve Your Farming Simulator 22 Experience by Boosting PC FPS Performance</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-tecno-pova-6-pro-5g-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Tecno Pova 6 Pro 5G</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-armored-core-vi-not-launching-problems-expert-advice-and-fixes/"><u>Overcoming Armored Core VI Not Launching Problems: Expert Advice & Fixes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/proven-solutions-for-improving-sims-4-performance-on-pc-updated-guide/"><u>Proven Solutions for Improving Sims 4 Performance on PC (Updated Guide)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-your-problems-with-non-launching-of-call-of-duty-modern-warfare-ii/"><u>Solving Your Problems with Non-Launching of Call of Duty: Modern Warfare II</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranked-soundbar-picks-comprehensive-expert-reviews-and-buyers-guide-techradar/"><u>Top-Ranked Soundbar Picks : Comprehensive Expert Reviews & Buyer's Guide | TechRadar</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-ue4-madness-how-to-overcome-outriders-process-crashes-and-keep-playing/"><u>Troubleshooting 'UE4-Madness': How to Overcome Outriders Process Crashes and Keep Playing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/understanding-and-resolving-version-check-issues-in-ffxiv/"><u>Understanding and Resolving Version Check Issues in FFXIV</u></a></li>
+<li><a href="https://article-files.techidaily.com/virtual-explorers-toolkit-select-these-7-must-have-tech-for-2024/"><u>Virtual Explorers' Toolkit - Select These 7 Must-Have Tech for 2024</u></a></li>
 </ul></div>
 

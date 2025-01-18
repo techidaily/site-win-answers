@@ -1,7 +1,7 @@
 ---
 title: "Reviving Cortana: Proven Strategies To Solve Non-Responsiveness Issues"
-date: 2025-01-07T19:34:09.558Z
-updated: 2025-01-12T19:16:48.439Z
+date: 2025-01-17T00:19:42.338Z
+updated: 2025-01-17T22:02:08.137Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ Call of Duty: Modern Warfare randomly freezes on PC when you’re enjoying a fur
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8 Fixes for Modern Warfare Freezing
 
@@ -64,10 +60,6 @@ Call of Duty: Modern Warfare randomly freezes on PC when you’re enjoying a fur
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/1-1-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Select the**Display** tab to see the video card’s information.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/1-2-1.jpg)
@@ -76,12 +68,16 @@ Call of Duty: Modern Warfare randomly freezes on PC when you’re enjoying a fur
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/1-3-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Click**Exit** .
 
  If your computer is above the required level to run Modern Warfare, move on to the second fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2 – Avoid PC overheating
@@ -100,11 +96,19 @@ Call of Duty: Modern Warfare randomly freezes on PC when you’re enjoying a fur
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/3-1-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Right-click the application you want to close and click**End task** .
 
  Don’t end any programs you’re unfamiliar with, as they may be critical for the functioning of your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/3-2-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Launch Modern Warfare to test if it runs smoothly enough to complete a match. If not, head towards Fix 4.
 
@@ -139,10 +143,6 @@ Call of Duty: Modern Warfare randomly freezes on PC when you’re enjoying a fur
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/6-1-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
@@ -156,10 +156,6 @@ Call of Duty: Modern Warfare randomly freezes on PC when you’re enjoying a fur
 
  If the freezing problem persists after you install the latest graphics driver, try the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5 – Scan and repair game files
 
  Missing or corrupted game files are also common culprits of game crashes or freezes, but it’s not difficult to repair them.
@@ -170,23 +166,23 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-0-0-1200x741.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Click**Options** and select**Scan and Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-0-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)** Click**Begin Scan** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-1-3-1.jpg)
 
- This will automatically scan and repair any missing or corrupted game files. After the process completes, relaunch Modern Warfare and check for the issue. If this doesn’t help, go for the next fix.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ This will automatically scan and repair any missing or corrupted game files. After the process completes, relaunch Modern Warfare and check for the issue. If this doesn’t help, go for the next fix.
 
 ### Fix 6 – Change in-game graphics settings
 
@@ -228,13 +224,13 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/7-1-1-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Toggle off**In-game overlay** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/0-00.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### On Discord
 
@@ -243,7 +239,7 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/7-2-1-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Select the**Overlay** tab on the left pane, and toggle off**Enable in-game overlay** .
@@ -261,6 +257,10 @@ Here are the steps:
 **1)** Run Battle.net application, and click**Call of Duty: Modern Warfare** on the left pane.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/8-1-5-1200x741.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)** Select**Options** and click**Uninstall Game** .
 
@@ -290,20 +290,19 @@ Here are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/updated-18-best-tools-for-live-webcam-streaming-and-saving/"><u>[Updated] 18 Best Tools for Live Webcam Streaming & Saving</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-a-step-by-step-approach-to-pinpointing-stellar-photos-on-pexels/"><u>[Updated] A Step-by-Step Approach to Pinpointing Stellar Photos on Pexels</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-xiaomi-redmi-12-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Xiaomi Redmi 12 | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/batman-arkham-knight-rapid-remedies-for-fatal-glitches-and-system-collapses/"><u>Batman: Arkham Knight - Rapid Remedies for Fatal Glitches and System Collapses</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/effortless-audio-clarity-eliminating-background-noise-using-artificial-intelligence/"><u>Effortless Audio Clarity: Eliminating Background Noise Using Artificial Intelligence</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-prevent-constant-crashes-while-playing-back-blood-on-your-pc/"><u>How to Prevent Constant Crashes While Playing Back ˋBlood on Your PC?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-stop-frostpunk-from-crashing-effective-solutions-explored/"><u>How to Stop Frostpunk From Crashing - Effective Solutions Explored</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Samsung Galaxy A15 5G | Dr.fone</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/premier-voice-capture-apps-on-android-the-best-for-2024/"><u>Premier Voice Capture Apps on Android The Best for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-performance-issues-master-guide-to-preventing-mass-effect-legendary-edition-freezes/"><u>Resolving Performance Issues: Master Guide to Preventing Mass Effect Legendary Edition Freezes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ring-of-elysium-upgrades-a-step-by-step-guide-to-achieving-higher-fps-levels-for-smoother-gameplay/"><u>Ring of Elysium Upgrades: A Step-by-Step Guide to Achieving Higher FPS Levels for Smoother Gameplay</u></a></li>
-<li><a href="https://win-answers.techidaily.com/star-wars-jedi-fallen-order-fixing-game-crashes-on-your-windows-computer/"><u>Star Wars Jedi: Fallen Order - Fixing Game Crashes on Your Windows Computer</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-compelling-argument-from-apple-that-sways-me-to-choose-the-iphone-16-pro-over-max-this-year/"><u>The Compelling Argument From Apple That Sways Me to Choose the iPhone 16 Pro Over Max This Year</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-10-honor-play-40c-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Honor Play 40C Android SIM Unlock APK</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-fixes-for-errgfxstate-error-in-red-dead-redemption-2-step-by-step-guide/"><u>Ultimate Fixes for ERR_GFX_STATE Error in Red Dead Redemption 2 - Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-titanfall-2-fps-drops-quickly-and-easily/"><u>[SOLVED] Titanfall 2 FPS Drops | Quickly & Easily</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-indoors-adopting-the-vibe-of-a-brighter-world/"><u>[Updated] Indoors Adopting the Vibe of a Brighter World</u></a></li>
+<li><a href="https://win-answers.techidaily.com/destiny-2-pc-version-fixed-errors-and-now-running-smoothly/"><u>Destiny 2 PC Version: Fixed Errors & Now Running Smoothly</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/efficiently-incorporate-and-retract-audacity-into-your-chromebooks-audio-workflow/"><u>Efficiently Incorporate and Retract Audacity Into Your Chromebooks Audio Workflow</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/ejemplo-como-realizar-la-creacion-de-una-copia-de-seguridad-fisica-del-sistema-en-windows-10/"><u>Ejemplo: Cómo Realizar La Creación De Una Copia De Seguridad Física Del Sistema en Windows 10</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixed-issue-smothering-obscurity-causes-hardware-failure-on-workstation/"><u>Fixed Issue: Smothering Obscurity Causes Hardware Failure on Workstation</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-photoshop-stabilizers-role-crucial-for-creatives/"><u>In 2024, Photoshop Stabilizer's Role - Crucial for Creatives?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-honor-x50i-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Honor X50i Device</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ring-product-reviews-for-monetary-rewards-on-youtube/"><u>Mastering Product Reviews for Monetary Rewards on YouTube</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/organizacion-efectiva-de-archivos-para-varios-medios-de-almacenamiento-una-guia-completa/"><u>Organización Efectiva De Archivos Para Varios Medios De Almacenamiento: Una Guía Completa</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/premier-graphics-workstation-laptops-comprehensive-evaluation-and-insights-from-specialists-techradar/"><u>Premier Graphics Workstation Laptops: Comprehensive Evaluation & Insights From Specialists | TechRadar</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-to-resolve-lost-ark-game-crashes/"><u>Troubleshooting Steps to Resolve 'Lost Ark' Game Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/warcraft-3-reforged-and-pc-performance-issues-master-these-fixes/"><u>Warcraft 3 Reforged and PC Performance Issues? Master These Fixes !</u></a></li>
+<li><a href="https://win-answers.techidaily.com/winning-against-glitches-effective-solutions-to-fallout-3-game-freezes-on-windows-11/"><u>Winning Against Glitches: Effective Solutions to 'Fallout 3' Game Freezes on Windows 11</u></a></li>
 </ul></div>
 

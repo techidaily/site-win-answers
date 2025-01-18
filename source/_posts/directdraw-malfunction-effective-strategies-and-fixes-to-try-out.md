@@ -1,7 +1,7 @@
 ---
 title: "DirectDraw Malfunction: Effective Strategies and Fixes to Try Out"
-date: 2024-08-13T12:15:31.330Z
-updated: 2024-08-14T12:15:31.330Z
+date: 2025-01-14T20:14:34.427Z
+updated: 2025-01-18T01:13:08.406Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ Star Wars Battlefront 2 is an old game, so is the issue. The old game issue disc
 3. [Launch through the NVIDIA GeForce app](https://tools.techidaily.com/drivereasy/download/)
 4. [Update your driver](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1\. Check your system requirement
 
  Make sure your PC meets the minimum system requirements, that’s the basic requirement.
@@ -37,9 +41,6 @@ Star Wars Battlefront 2 is an old game, so is the issue. The old game issue disc
 | Storage:    | 4.3 GB                                                                       |
 | Sound Card: | DirectX 9.0c compatible Sound Card                                           |
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2\. Turn off Discord overlay
 
  The Discord is the culprit for the problem, reported by many gamers. Follow the steps to fix the issue.
@@ -47,39 +48,30 @@ Star Wars Battlefront 2 is an old game, so is the issue. The old game issue disc
 1. Launch Discord.
 2. Click the**gear button** on the bottom to open User settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/2021-03-11_9-41-03.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 3. Click**Overlay** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Check**Enable in-game overlay** . Disable it if it’s toggled.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/2021-03-11_9-42-39.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 5. Relaunch your game and check.
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3\. Launch through the NVIDIA GeForce app
 
  If you’re using NVIDIA graphic card on your PC, you can install[NVIDIA GeForce Experience app](https://tools.techidaily.com/drivereasy/download/) , then launch the game through the app.
 
  In the game settings, change the video options from Fullscreen to Borderless and the game should running properly every time.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### Fix 4\. Update your driver
 
  Driver plays an important part in the Windows system. With outdated or wrong drivers, you may encounter Star Wars Battlefront 2 black screen issue. By updating drivers to the latest version can fully use your graphic card and get a better gaming experience.
@@ -108,11 +100,13 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 
  The Pro version of Driver Easy comes with full technical support. If you need assistance, please contact Driver Easy’s support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -127,8 +121,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -136,4 +128,18 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/updated-your-picture-at-a-glance-quick-steps-for-saving-social-media-pics-for-2024/"><u>[Updated] Your Picture at a Glance Quick Steps for Saving Social Media Pics for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-solutions-to-restore-lost-connections-with-escape-from-tarkov-servers/"><u>Effective Solutions to Restore Lost Connections with Escape From Tarkov Servers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-and-solutions-why-doesnt-resident-evil-5-start-up-on-my-pc/"><u>Fixes and Solutions: Why Doesn't Resident Evil 5 Start Up on My PC?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-discord-stream-issues-how-to-stop-app-crashes-during-live-broadcasts/"><u>Fixing Discord Stream Issues: How to Stop App Crashes During Live Broadcasts</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-prevent-war-thunder-game-crashes-with-proven-fixes/"><u>How to Prevent War Thunder Game Crashes with Proven Fixes</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/is-it-possible-to-use-miracast-with-apple-iphone-11-pro-max-drfone-by-drfone-ios/"><u>Is it Possible to Use Miracast with Apple iPhone 11 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-iphone-silence-a-step-by-step-guide-to-reactive-alarms/"><u>Overcoming iPhone Silence: A Step-by-Step Guide to Reactive Alarms</u></a></li>
+<li><a href="https://win-forum.techidaily.com/professional-grade-program-elimination-with-revo-uninstaller-pro-latest-update/"><u>Professional-Grade Program Elimination with Revo Uninstaller Pro - Latest Update!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-enhancing-frame-rate-performance-in-outriders-gaming-experience/"><u>Resolved: Enhancing Frame Rate Performance in Outrider's Gaming Experience</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/shag-za-shagom-kak-skopirovat-dannye-s-odnogo-ssd-na-drugoj-bolshe-vo-vremya-raboty-v-windows-10-i-11/"><u>Шаг За Шагом: Как Скопировать Данные С Одного SSD На Другой Больше Во Время Работы В Windows 10 И 11</u></a></li>
+</ul></div>
 

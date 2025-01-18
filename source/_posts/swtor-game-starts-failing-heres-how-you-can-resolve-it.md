@@ -1,7 +1,7 @@
 ---
 title: SWTOR Game Starts Failing? Here's How You Can Resolve It
-date: 2024-12-30T17:16:13.187Z
-updated: 2025-01-05T22:38:28.111Z
+date: 2025-01-16T04:20:31.158Z
+updated: 2025-01-18T05:32:31.379Z
 tags:
   - win11
   - win10
@@ -54,10 +54,6 @@ STAR WARS The Old Republic (SWTOR) window does not show after you press Play? Yo
 
 If SWTOR still won’t start, read on and try the next fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Run SWTOR in Admin mode
 
  If SWTOR doesn’t have permissions for certain game files on your system under a standard user mode, it may not run properly. Try the following steps to grant the program administrator privileges:
@@ -71,16 +67,12 @@ If SWTOR still won’t start, read on and try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-16_17-00-12-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Relaunch your game to see if this helped.
 
 If this doesn’t work for you, then go ahead with the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -98,6 +90,10 @@ If this doesn’t work for you, then go ahead with the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-18_15-17-00.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -113,10 +109,6 @@ If this doesn’t work for you, then go ahead with the next fix.
 
 If your game still won’t launch, then go ahead with the fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4: Verify the integrity of game files
 
  Corrupted and damaged game files can cause a wide variety of errors. If you’re gaming on Steam, use the repair tool to fix it.
@@ -130,6 +122,10 @@ If your game still won’t launch, then go ahead with the fix below.
 **3)**  Right-click **STAR WARS: The Old Republic** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-24_15-56-38.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
@@ -149,12 +145,16 @@ If SWTOR is still unplayable, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-24_15-39-13.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Delete the**Bitraider folder** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-24_15-38-29.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Relaunch the game and wait for the repair to be complete.
@@ -170,12 +170,16 @@ If SWTOR is still unplayable, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-24_15-20-10.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **5)** Select**Notepad** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-24_15-20-56.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **6)** Find the matching section in the file and delete the 4 lines and replace them with this:
 
@@ -185,10 +189,6 @@ If SWTOR is still unplayable, move on to the next fix.
  **, “bitraider\_disable”: “true”**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-24_15-43-29.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **7)** On your keyboard, press the**Ctrl key and S** to save the changes. Then close Notepad.
 
@@ -227,18 +227,17 @@ If SWTOR is still unplayable, move on to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-detecting-invisible-interactions-on-snapchat/"><u>[New] 2024 Approved Detecting Invisible Interactions on Snapchat</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-revisiting-old-photos-sending-them-as-snaps-on-snapchat-for-2024/"><u>[New] Revisiting Old Photos Sending Them as Snaps on Snapchat for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-clipmaster-software-for-2024/"><u>[Updated] ClipMaster Software for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-essential-free-mcb-theme-templates/"><u>[Updated] Essential Free MCB Theme Templates</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-prime-business-sky-storage-choice/"><u>2024 Approved Prime Business Sky-Storage Choice</u></a></li>
-<li><a href="https://win-answers.techidaily.com/call-of-duty-warzones-pacific-map-now-stable-and-bug-free/"><u>Call of Duty Warzone's Pacific Map Now Stable and Bug-Free</u></a></li>
-<li><a href="https://win-answers.techidaily.com/conquer-left-4-dead-2-glitches-steps-to-prevent-unwanted-shutdowns-and-game-crashes/"><u>Conquer Left 4 Dead 2 Glitches: Steps to Prevent Unwanted Shutdowns and Game Crashes</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/enhancing-productivity-combining-abbyy-capabilities-with-automation-anywhere-tools/"><u>Enhancing Productivity: Combining ABBYY Capabilities with Automation Anywhere Tools</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-tecno-spark-go-2023-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Tecno Spark Go (2023) Screen Black But Still Works? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-overcome-the-problem-of-non-starting-modern-warfare-2-game/"><u>How To Overcome The Problem Of Non-Starting Modern Warfare #2 Game</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-packet-loss-issues-on-discord-a-comprehensive-guide/"><u>Resolving Packet Loss Issues on Discord: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-strategies-to-smooth-out-gameplay-boosting-fps-and-curtailing-stutter-in-the-ascent/"><u>Step-by-Step Strategies to Smooth Out Gameplay: Boosting FPS and Curtailing Stutter in 'The Ascent'</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/windows-10-advanced-screen-recorder-software-for-2024/"><u>Windows 10 Advanced Screen Recorder Software for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-clearer-streams-youtube-video-borderless-adjustment/"><u>[New] 2024 Approved Clearer Streams YouTube Video Borderless Adjustment</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-optimize-your-video-conferencing-experience-with-zoom-and-win10/"><u>[New] Optimize Your Video Conferencing Experience with Zoom & Win10</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-10-spectacularly-free-luts-elevate-with-exclusive-purchase-options/"><u>2024 Approved 10 Spectacularly Free LUTs; Elevate with Exclusive Purchase Options</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-lava-blaze-2-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Lava Blaze 2 Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/arcadegeddon-pc-crashes-troubleshooting-guide-what-you-need-to-know/"><u>Arcadegeddon PC Crashes Troubleshooting Guide - What You Need to Know!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/call-of-duty-vanguard-pc-issue-no-more-with-these-fixes-for-error-code-0x00001338-resolved/"><u>Call of Duty Vanguard PC Issue? No More with These Fixes for Error Code 0X00001338 [RESOLVED]</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-best-beginner-drones-kids-edition-top-10-list/"><u>In 2024, Best Beginner Drones - Kids' Edition Top 10 List</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/netflix-not-working-discover-19-key-fixes-to-stream-smoothly-again-on-your-lg-set-up/"><u>Netflix Not Working? Discover 19 Key Fixes to Stream Smoothly Again on Your LG Set-Up</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722997888357-rainbow-six-siege-not-opening-heres-how-to-resolve-it/"><u>Rainbow Six Siege Not Opening? Here's How to Resolve It</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-solutions-for-connecting-iphone-to-itunes-in-windows-11/"><u>Resolved! Solutions for Connecting iPhone to iTunes in Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722999296929-the-secret-to-preventing-star-wars-squadron-clashes-a-comprehensive-guide-for-gamers/"><u>The Secret to Preventing Star Wars Squadron Clashes - A Comprehensive Guide for Gamers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-potential-a-comprehensive-look-at-the-resilient-high-performing-unihertz-atom-xl/"><u>Unveiling the Potential: A Comprehensive Look at the Resilient, High-Performing Unihertz Atom XL</u></a></li>
 </ul></div>
 

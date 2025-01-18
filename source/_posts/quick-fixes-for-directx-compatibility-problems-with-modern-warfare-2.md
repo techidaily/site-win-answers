@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for DirectX Compatibility Problems with Modern Warfare 2
-date: 2025-01-09T16:54:27.737Z
-updated: 2025-01-12T19:12:11.983Z
+date: 2025-01-11T22:26:51.330Z
+updated: 2025-01-18T02:04:18.254Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/71cc290356f3f99c9cda8196a719a0c6248025904
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to fix WWE 2K20 Crash
 
  You may not have to try all the fixes; just work your way down the list until you find the one that works for you.
@@ -45,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/71cc290356f3f99c9cda8196a719a0c6248025904
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Run WWE 2K20 as administrator
 
  In some cases, WWE 2K20 won’t run properly because it is not granted the necessary access to running the game. To make sure your game does not crash because of insufficient rights, you should run it as administrator.
@@ -55,10 +55,6 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-14.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click the**Compatibility** tab, tick**the box** for**Run this program as an administrator** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-17.png)
@@ -68,7 +64,7 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Verify game integrity
@@ -87,10 +83,6 @@ Here is how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4: Update your graphics driver
 
  Your **WWE 2K20 crash**  problem is probably being caused by driver issues. The steps above may resolve it, but if they don’t, or you don’t have the time, patience or computer skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -104,6 +96,10 @@ Here is how to do it:
  2) Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-285.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the **Update**  button next to a flagged graphics river to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
@@ -127,6 +123,10 @@ WWE 2K20 still crashes? Don’t worry, you have one more fix to try.
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Run WWE 2K20 on the dedicated graphics card
 
  Your gaming PC may have a graphics chip as well as a graphics card with dedicated memory in it. If this is the case, you should make sure games run on the graphics card to see if the crashing problem can be mitigated.
@@ -143,12 +143,16 @@ WWE 2K20 still crashes? Don’t worry, you have one more fix to try.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/nvidia-1024x607.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) In Nvidia Control Panel, click **Manage 3D Settings** \> **Program Settings** \> **Add** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/add.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) In the window that opens, choose**WWE2K20\_x64** , then click**Add Selected Program** .
@@ -158,10 +162,6 @@ WWE 2K20 still crashes? Don’t worry, you have one more fix to try.
  5) In**Select the preferred graphics processor for this program** , select**High-performance NVIDIA processor** . Then click**Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-13.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6) Launch WWE 2K20 and check to see if the crashing issue is fixed.
 
@@ -186,20 +186,22 @@ WWE 2K20 still crashes? Don’t worry, you have one more fix to try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-creating-a-virtual-office-space-with-google-meet/"><u>[New] 2024 Approved Creating a Virtual Office Space with Google Meet</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-elevate-design-complimentary-cutting-edge-psd-texts/"><u>[New] 2024 Approved Elevate Design Complimentary, Cutting-Edge PSD Texts</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-elevate-your-videos-with-complimentary-banners-here/"><u>[New] 2024 Approved Elevate Your Videos with Complimentary Banners, Here</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-elevating-your-images-with-words-step-by-step-guide-for-adding-text-on-pcmac/"><u>[Updated] In 2024, Elevating Your Images with Words Step-by-Step Guide for Adding Text on PC/Mac</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-essential-steps-for-elevating-wmm-content-on-vimeo-platform/"><u>[Updated] In 2024, Essential Steps for Elevating WMM Content on Vimeo Platform</u></a></li>
-<li><a href="https://win-answers.techidaily.com/elevating-your-gaming-experience-innovative-solutions-to-tackle-wows-frame-rate-hurdles-in-the-new-year/"><u>Elevating Your Gaming Experience: Innovative Solutions to Tackle WoW's Frame Rate Hurdles in the New Year</u></a></li>
-<li><a href="https://win-answers.techidaily.com/enhanced-stability-for-your-pc-playthrough-fnaf-free-from-breaching-issues/"><u>Enhanced Stability for Your PC Playthrough – FNAF Free From Breaching Issues!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-tips-for-a-smooth-dota-2-gaming-experience-overcoming-lags-in-2e24/"><u>Expert Tips for a Smooth Dota 2 Gaming Experience: Overcoming Lags in 2E24</u></a></li>
-<li><a href="https://win-answers.techidaily.com/guilty-gear-strive-release-delayed-exclusive-insights-and-updates/"><u>Guilty Gear Strive Release Delayed: Exclusive Insights and Updates</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-slow-frames-in-farming-simulator-22-when-played-on-a-pc/"><u>How to Fix Slow Frames in Farming Simulator 22 when Played on a PC?</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-accelerate-conversion-srt-to-text-txt-in-minutes-only/"><u>In 2024, Accelerate Conversion SRT to Text (TXT) in Minutes Only</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-detailed-guide-on-removing-apple-iphone-12-pro-max-activation-lock-without-previous-owner-by-drfone-ios/"><u>In 2024, Detailed Guide on Removing Apple iPhone 12 Pro Max Activation Lock without Previous Owner?</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-dive-deep-into-obs-advanced-techniques-for-game-capture/"><u>In 2024, Dive Deep Into OBS Advanced Techniques for Game Capture</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-latest-game-monitors-budget-essentials-to-high-end-curved-displays-with-g-sync/"><u>Navigating the Latest Game Monitors : Budget Essentials to High-End Curved Displays with G-Sync</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solution-guide-stop-thunder-tier-one-from-continuously-crashing-on-desktop-systems/"><u>Solution Guide: Stop Thunder Tier One From Continuously Crashing on Desktop Systems</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-win10s-best-bet-for-screen-snaps-and-recordings/"><u>[New] 2024 Approved Win10's Best Bet for Screen Snaps and Recordings</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-ultimate-oculus-gaming-guide-best-selling-choices/"><u>[New] Ultimate Oculus Gaming Guide Best-Selling Choices</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-frame-rate-drop-in-dying-light-an-ultimate-solution/"><u>Fixing the Frame Rate Drop in Dying Light: An Ultimate Solution</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-dota-2-launching-problems-and-bypass-the-endless-loading-screen/"><u>How to Fix Dota 2 Launching Problems and Bypass the Endless Loading Screen</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-lodged-windows-keyboard-characters-effectively/"><u>How to Resolve Lodged Windows Keyboard Characters Effectively</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-oppo-find-n3-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Oppo Find N3</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-interlinkers-companion-navigating-instra-to-tiktok/"><u>In 2024, Interlinker's Companion Navigating Instra-to-TikTok</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-unlocking-the-full-potential-of-pc-sound-capture/"><u>In 2024, Unlocking the Full Potential of PC Sound Capture</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-social-media-professional-ratings-for-the-finest-twitter-management-applications/"><u>Mastering Social Media: Professional Ratings for the Finest Twitter Management Applications</u></a></li>
+<li><a href="https://win-answers.techidaily.com/nier-gestalt-and-replicant-collection-boot-up-fixes-achieved/"><u>NieR Gestalt & Replicant Collection Boot-Up Fixes Achieved</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-the-connection-refused-by-anticheat-issue-in-escape-from-tarkov/"><u>Resolving the 'Connection Refused by Anticheat' Issue in Escape From Tarkov</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solutions-for-critical-development-bug-in-call-of-dutys-modern-warfare-and-warzone/"><u>Solutions for Critical Development Bug in Call of Duty's Modern Warfare and Warzone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-tarkov-glitch-steps-to-resolve-the-e-103003-error/"><u>Solving Tarkov Glitch: Steps to Resolve the E-103003 Error</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-tutorial-how-to-download-contents-of-a-rar-file-without-paying-on-both-windows-and-macos-systems/"><u>Step-by-Step Tutorial: How to Download Contents of a RAR File Without Paying on Both Windows and macOS Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stop-the-frustration-solving-constant-crashes-in-the-ascent-for-windows-users/"><u>Stop the Frustration: Solving Constant Crashes in 'The Ascent' For Windows Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-to-resolve-bloodhunt-game-lag-and-freezing-issues-on-your-computer/"><u>Troubleshooting Steps to Resolve Bloodhunt Game Lag and Freezing Issues on Your Computer</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-realme-c51-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Realme C51 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
 </ul></div>
 

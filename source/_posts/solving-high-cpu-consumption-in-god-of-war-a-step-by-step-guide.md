@@ -1,7 +1,7 @@
 ---
 title: "Solving High CPU Consumption in God of War: A Step-by-Step Guide"
-date: 2025-01-11T19:47:16.829Z
-updated: 2025-01-12T16:33:05.765Z
+date: 2025-01-16T20:09:12.028Z
+updated: 2025-01-18T02:09:29.611Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/b0c789775642f2ac1a082c3710ec3e71a5c2db920
 2. **[Update your network adapter driver](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Reinstall Steam](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Adjust your proxy settings
 
  In most cases, Error 130 happens when your browser fails to connect to the internet because of improper proxy configuration. To fix it, follow the instructions below:
@@ -40,24 +44,16 @@ thumbnail: https://thmb.techidaily.com/b0c789775642f2ac1a082c3710ec3e71a5c2db920
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-373.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Type**inetcpl.cpl** , then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-358.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)** Click the**Connections tab** , then**LAN settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-360.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** If any items on this window are checked, uncheck them. Then, click**OK** .
@@ -67,10 +63,6 @@ thumbnail: https://thmb.techidaily.com/b0c789775642f2ac1a082c3710ec3e71a5c2db920
 **5)** Restart your computer and Steam to test your issue.
 
  If none of the boxes is checked, or if you still get the error code 130, then go ahead with the fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your network adapter driver
 
@@ -104,21 +96,21 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-113.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**  Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[](https://tools.techidaily.com/drivereasy/download/) [Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-364.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Reinstall Steam
 
@@ -127,6 +119,10 @@ OR
 **1)** Right-click the Steam icon and select **Open file location** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-885.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.
 
@@ -140,10 +136,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-888.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **5)** Select **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-889.png)
@@ -156,6 +148,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-891.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  **8)[Download](https://store.steampowered.com/about/)**  Steam.
 
 **9)** Open the downloaded file and install Steam.
@@ -163,6 +159,10 @@ OR
 **10)** Right-click the **Steam icon**  and select **Open file location** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-892.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **11)**  Move the backup **steamapps folder**  you create before to your current directory location.
 
@@ -194,21 +194,22 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-the-visionarys-manual-selecting-the-most-compelling-4k-displays-today/"><u>[New] In 2024, The Visionary's Manual Selecting the Most Compelling 4K Displays Today</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-how-to-prevent-halo-(span-stylecolor-0078af)3(span)-from-crashing-on-your-windows-computer/"><u>[Troubleshooting Tips] How to Prevent Halo <Span Style=color: #0078AF;>3</Span> From Crashing on Your Windows Computer</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-top-ten-frame-enhancers-for-visual-artistry/"><u>[Updated] In 2024, Top Ten Frame Enhancers for Visual Artistry</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-the-elite-list-of-best-online-streaming-hqs/"><u>2024 Approved The Elite List of Best Online Streaming HQs</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/bend-twist-and-shape-your-digital-pics-for-2024/"><u>Bend, Twist & Shape Your Digital Pics for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehending-xinput13dll-purpose-and-fixes-for-missing-file/"><u>Comprehending XINPUT1_3.dll: Purpose and Fixes for Missing File</u></a></li>
-<li><a href="https://win-popular.techidaily.com/effective-solutions-for-fixing-network-connection-problems-insights-from-yl-computings-expertise/"><u>Effective Solutions for Fixing Network Connection Problems - Insights From YL Computing's Expertise</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-ensure-smooth-downloading-and-installing-of-age-of-empires-iv-via-microsofts-digital-outlet/"><u>How To Ensure Smooth Downloading and Installing of Age of Empires IV via Microsoft's Digital Outlet</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/leveraging-view-counts-for-financial-freedom-online/"><u>Leveraging View Counts for Financial Freedom Online</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-pc-issues-stop-warzone-20-from-keep-crashing/"><u>Resolving PC Issues - Stop Warzone 2.0 From Keep Crashing</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-stability-problems-how-to-stop-the-king-of-fighters-xv-from-crashing-on-pc-setups/"><u>Resolving Stability Problems: How to Stop The King of Fighters XV From Crashing on PC Setups</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solutions-to-prevent-thaumaturge-from-stopping-unexpectedly-mid-play/"><u>Solutions to Prevent Thaumaturge From Stopping Unexpectedly Mid-Play</u></a></li>
-<li><a href="https://win-answers.techidaily.com/steams-dragging-its-feet-boost-it-back-to-full-throttle-with-these-tips/"><u>Steam's Dragging Its Feet? Boost It Back to Full Throttle with These Tips</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/the-top-10-apple-iphone-11-emualtors-for-windows-mac-and-android-drfone-by-drfone-ios/"><u>The Top 10 Apple iPhone 11 Emualtors for Windows, Mac and Android | Dr.fone</u></a></li>
-<li><a href="https://win-top.techidaily.com/top-ranked-tools-for-duplicating-data-on-a-samsung-970-evo-plus-with-windows/"><u>Top-Ranked Tools for Duplicating Data on a Samsung 970 EVO Plus with Windows</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-when-outlook-refuses-to-start/"><u>Troubleshooting Steps When Outlook Refuses to Start</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723001129587-fixed-outriders-unreal-process-has-crashed-ue4-madness-error/"><u>[Fixed] Outriders 'Unreal Process Has Crashed: UE4-Madness' Error</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-leading-organizations-in-creating-immersive-vr-experiences/"><u>[New] 2024 Approved Leading Organizations in Creating Immersive VR Experiences</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-steam-keeps-freezing-not-responding-2024/"><u>[SOLVED] Steam Keeps Freezing/ Not Responding 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-feast-of-fame-top-30-show-titles-to-sizzle-viewership/"><u>[Updated] Feast of Fame Top 30 Show Titles to Sizzle Viewership</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-exploring-the-top-6-helmet-mounts-to-upgrade-your-adventure-photography/"><u>[Updated] In 2024, Exploring The Top 6 Helmet Mounts to Upgrade Your Adventure Photography</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-5-leading-resources-to-masterfully-add-text-flair-online/"><u>2024 Approved 5 Leading Resources to Masterfully Add Text Flair Online</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bypassing-hurdles-in-forza-horizon-5-discover-these-7-effective-fixes-for-persistent-loading-problems/"><u>Bypassing Hurdles in Forza Horizon 5? Discover These 7 Effective Fixes for Persistent Loading Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723004275276-defeat-the-game-crashing-issue-in-call-of-duty-warzone-error-6328-with-our-expert-advice/"><u>Defeat the Game-Crashing Issue in Call of Duty: Warzone (Error 6328) with Our Expert Advice</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-asus-rog-phone-8-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Asus ROG Phone 8</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Xiaomi Redmi Note 13 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-secure-and-seamless-transfer-backing-up-camera-to-snapchat/"><u>In 2024, Secure & Seamless Transfer Backing Up Camera to Snapchat</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-errors-effective-solutions-to-prevent-pacific-drive-from-crashing-on-your-desktop/"><u>Overcoming Errors: Effective Solutions to Prevent Pacific Drive From Crashing on Your Desktop</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-pc-issues-fixes-for-hyper-scape-crashes/"><u>Resolving PC Issues: Fixes for Hyper Scape Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-utorrent-connection-issues-steps-to-restore-downloadpeer-connectivity/"><u>Solving uTorrent Connection Issues: Steps to Restore Download/Peer Connectivity</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-fixing-windows-app-configuration-issue/"><u>Strategies for Fixing Windows App Configuration Issue</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-preventing-pc-issues-with-frontier/"><u>Troubleshooting Tips for Preventing PC Issues with 'Frontier'</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlock-early-bird-perks-preordering-iphone-15-apple-watch-series-ultra-2-with-amazing-discounts-tech-insights-by-zdnet/"><u>Unlock Early Bird Perks: Preordering iPhone 15, Apple Watch Series Ultra 2 with Amazing Discounts | Tech Insights by ZDNET</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Five Proven Methods to Correctly Address CSGO Login Problems
-date: 2025-01-06T18:22:07.637Z
-updated: 2025-01-12T19:42:39.398Z
+date: 2025-01-16T06:13:07.246Z
+updated: 2025-01-17T20:25:48.434Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here are 5 simple solutions for you to troubleshoot the OBS not recording screen issue. You may not try them all. Just work your way down the list until you find the one that does the trick.
@@ -37,6 +41,10 @@ Many Windows users have been reporting the OBS not recording screen issue lately
  According to many users, a simple workaround to OBS not recording screen is to disable the preview window. What you need to do is to launch OBS and untick the**Studio Mode** at the bottom right corner of the main screen. Then the preview window should be closed and you could check if the problem goes away. If the problem occurs while you’re recording a game, try to**minimize OBS** to the system tray.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/disable-preview-obs.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Turning off OBS preview should also mitigate the FPS drops while recording. But if this doesn’t help your case, have a look at the second method below.
 
@@ -60,15 +68,11 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ta-1.jpg)
 2. Right-click a program you’d like to close and click **End task** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Don’t end any programs you’re unfamiliar with, as they may be critical for the functioning of your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ta-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once done, restart OBS to test. If the OBS not recording problem persists, continue to the next fix below.
@@ -85,10 +89,6 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-1.jpg)
 4. Choose**Desktop app** from the drop-down list and click**Browse** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-2.jpg)
 5. Locate your**OBS executable file** , which is usually located at_C:\\Program Files\\obs-studio\\bin\\64bit\\obs64.exe_ , and add this file.
 
@@ -97,16 +97,16 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 7. If you intend to use_Display Captur_ e, select**Power saving** and click**Save** . If you’re using_Window capture_ or_Game capture_ , select**High performance** and**Save** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  See if OBS works without trouble. If you’re still unable to use screen capture, there might be something wrong with your device drivers. Check out Fix 5 to solve it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5 – Update your device drivers
 
@@ -121,11 +121,11 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). Or you can click**Update** next to the flagged device driver to do it for free, but it’s partly manual.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2021/02/update-all-de.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/02/update-all-de.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -153,19 +153,14 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-protecting-content-rights-in-youtube-to-mp4-transfers-for-2024/"><u>[Updated] Protecting Content Rights in Youtube-to-MP4 Transfers for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-zte-blade-a73-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From ZTE Blade A73 5G to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/enhanced-performance-needed-does-your-cpu-meet-the-new-standards-for-vanguard/"><u>Enhanced Performance Needed: Does Your CPU Meet the New Standards for Vanguard?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/enhancing-game-performance-resolve-naraka-bladepoints-lag-and-stutter/"><u>Enhancing Game Performance: Resolve Naraka: Bladepoint's Lag and Stutter</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723000579075-how-to-fix-resident-evil-village-pc-game-crashes-complete-guide/"><u>How to Fix Resident Evil Village PC Game Crashes: Complete Guide</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/how-to-screenshot-solutions-for-any-device-using-movavis-methods/"><u>How To: Screenshot Solutions For Any Device Using Movavi's Methods</u></a></li>
-<li><a href="https://win-answers.techidaily.com/instantly-improve-your-slow-chrome-browser-with-simple-tweaks/"><u>Instantly Improve Your Slow Chrome Browser with Simple Tweaks</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/quickcopy-custodians-judgment-for-2024/"><u>QuickCopy Custodians' Judgment for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/restoring-access-to-greyed-out-pin-unlock-option/"><u>Restoring Access to Greyed-Out Pin Unlock Option</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solution-found-how-to-fix-black-display-problems-easily/"><u>Solution Found: How To Fix Black Display Problems Easily</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/the-simple-guide-to-moving-pictures-from-your-oneplus-e-device-onto-a-windows-or-mac-desktop-system/"><u>The Simple Guide to Moving Pictures From Your OnePlus E Device Onto a Windows or Mac Desktop System</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-fixes-for-preventing-nba-2k21-from-freezing-and-crashing-on-pc-systems/"><u>Ultimate Fixes for Preventing NBA 2K21 From Freezing and Crashing on PC Systems</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/unearthing-your-favorites-facebook-watch-list-access-for-2024/"><u>Unearthing Your Favorites Facebook Watch List Access for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unlocking-performance-a-deep-dive-into-toms-tech-review/"><u>Unlocking Performance: A Deep Dive Into Tom's Tech Review</u></a></li>
+<li><a href="https://win-answers.techidaily.com/back-4-blood-wont-start-troubleshooting-steps-for-win11-win10-and-win7/"><u>Back 4 Blood Won't Start: Troubleshooting Steps for Win11, Win10 & Win7</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/conoscete-aomei-backup-discover-our-expertise-in-data-safety-solutions/"><u>Conoscete AOMEI Backup? Discover Our Expertise in Data Safety Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-msi-afterburner-failure-to-recognize-your-graphics-card-in-windows-10-or-11/"><u>How to Fix MSI Afterburner Failure to Recognize Your Graphics Card in Windows 10 or 11</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-top-12-camcorders-integrating-advanced-gps-technology/"><u>In 2024, Top 12 Camcorders Integrating Advanced GPS Technology</u></a></li>
+<li><a href="https://win-blog.techidaily.com/master-these-six-methods-to-overcome-terrarias-connectivity-challenges/"><u>Master These Six Methods to Overcome Terraria's Connectivity Challenges</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723006884380-quick-fixes-for-your-league-of-legends-issues-resolve-crashes-instantly/"><u>Quick Fixes for Your League of Legends Issues - Resolve Crashes Instantly!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/real-time-latest-discounts-on-vpn-services-featured-by-zdnet/"><u>Real-Time Latest Discounts on VPN Services Featured by ZDNet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-lenovo-thinkpad-x1-nano-in-detail-is-it-the-best-lightweight-laptop-on-the-market/"><u>The Lenovo ThinkPad X1 Nano in Detail – Is It the Best Lightweight Laptop on the Market?</u></a></li>
 </ul></div>
 

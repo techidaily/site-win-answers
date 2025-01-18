@@ -1,7 +1,7 @@
 ---
 title: "Solving the Halo Infinite Audio Glitch: No More Stutters!"
-date: 2025-01-05T19:15:05.782Z
-updated: 2025-01-12T17:04:57.338Z
+date: 2025-01-16T19:05:45.992Z
+updated: 2025-01-17T17:30:29.414Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/5497305e7ede52ac11b29b1b9923a18c5f2da5c48
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down until you hit the one that does the trick.
@@ -37,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/5497305e7ede52ac11b29b1b9923a18c5f2da5c48
 7. **[Check your DLC](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Scan and repair Windows](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Verify the integrity of your game
 
  When troubleshooting game issues, first**check if your game files are intact** . This is especially true for new games as patches roll out almost every day. Verifying your game checks for the latest updates as well.
@@ -47,10 +55,6 @@ Here’s how:
 2. Right click **Halo Infinite** and select **Properties..** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-verified-1.jpg)
 3. On the left, select **LOCAL FILES** . Then click **Verify integrity of game files** .. and wait for the process to complete.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-verified-2.jpg)
 
@@ -71,12 +75,16 @@ Here’s how to disable Steam Overlay:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-overlay-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now check if you can play Halo Infinite normally.
 
  If disabling overlays doesn’t do the trick for you, simply check out the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 3: Upgrade your graphics driver
@@ -97,6 +105,10 @@ Now check if you can play Halo Infinite normally.
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, restart your PC and check if Halo Infinite crashes again.
@@ -110,16 +122,12 @@ Now check if you can play Halo Infinite normally.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/afterburner.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 MSI Afterburner
 
  If you’re sure it’s not the cause, simply continue to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 5: Disable fullscreen optimizations
 
@@ -130,13 +138,25 @@ MSI Afterburner
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-fullscreen-files-1.jpg)
 3. Right click the**HaloInfinite** launcher and select**Property** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-fullscreen-files-2.jpg)
 4. In the pop-up window, check the box before**Disable fullscreen optimizations** . Next click**Change high DPI settings** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-fullscreen-files-3.jpg)
 5. Under**High DPI scaling override** , check the box next to**Override high DPI scaling behavior** . Then click**OK** to save the changes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-fullscreen-files-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now restart your game and check the gameplay.
 
@@ -154,14 +174,10 @@ If this trick doesn’t give you luck, simply try the next one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### On Windows 11
@@ -173,14 +189,6 @@ If this trick doesn’t give you luck, simply try the next one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
 
@@ -209,15 +217,7 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -242,24 +242,24 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-crafting-perfect-youtube-channel-names-a-comprehensive-guide-for-video-content-creators-maximum-length-156-characters/"><u>[New] 2024 Approved Crafting Perfect Youtube Channel Names A Comprehensive Guide for Video Content Creators (Maximum Length 156 Characters)</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-deciphering-complete-fbm-call-transcripts-guide/"><u>[New] In 2024, Deciphering Complete FBM Call Transcripts Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-chat-room-to-screen-step-by-step-google-meet-youtube-streams/"><u>[Updated] In 2024, From Chat Room to Screen Step-by-Step Google Meet YouTube Streams</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-maximize-views-with-these-top-20-thumbnail-fonts/"><u>[Updated] In 2024, Maximize Views with These Top 20 Thumbnail Fonts</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/become-a-pip-expert-enhancing-visual-narratives-on-macos-sierra/"><u>Become a PIP Expert Enhancing Visual Narratives on macOS Sierra</u></a></li>
-<li><a href="https://win-answers.techidaily.com/diy-solutions-to-repair-a-broken-paradox-launcher-and-enjoy-gaming-again/"><u>DIY Solutions to Repair a Broken Paradox Launcher and Enjoy Gaming Again</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effortless-solutions-to-stop-chrome-from-crashing-in-windows-11/"><u>Effortless Solutions to Stop Chrome From Crashing in Windows 11</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixes-and-solutions-how-to-resolve-minecraft-unresponsive-on-windowsmac/"><u>Fixes & Solutions: How to Resolve 'Minecraft Unresponsive' On Windows/Mac</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-halo-infinite-audio-problems/"><u>How to Fix Halo Infinite Audio Problems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-the-nvidia-geforce-experience-error-code-0x0003/"><u>How to Fix the Nvidia GeForce Experience Error - Code 0X0003</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-sign-word-2003-document-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign Word 2003 document electronically</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On OnePlus Nord N30 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-no-copyright-worries-best-sites-for-public-domain-video-downloads/"><u>New No Copyright Worries Best Sites for Public Domain Video Downloads</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-solution-for-paradox-launcher-malfunctions-and-errors/"><u>Step-by-Step Solution for Paradox Launcher Malfunctions and Errors</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/the-best-free-screen-recorder-tool-bandicam-or-camtasia-for-2024/"><u>The Best Free Screen Recorder Tool Bandicam or Camtasia for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-resolving-issues-with-monster-hunter-stories-2-wings-of-ruin-startup-problems/"><u>Troubleshooting Guide: Resolving Issues with Monster Hunter Stories 2 - Wings of Ruin Startup Problems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-ultimate-guide-to-resolving-baldurs-gate-game-lag-and-crashes/"><u>Troubleshooting: Ultimate Guide to Resolving Baldur's Gate Game Lag and Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-solving-the-issue-of-persona-3-ffi-failure-to-start/"><u>Ultimate Guide: Solving the Issue of Persona 3 FFI Failure to Start</u></a></li>
-<li><a href="https://win-answers.techidaily.com/understanding-and-resolving-the-repeated-freezing-in-beat-saber-a-comprehensive-approach/"><u>Understanding and Resolving the Repeated Freezing in Beat Saber – A Comprehensive Approach</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-spiritual-slow-motion-tutorial/"><u>[New] In 2024, Spiritual Slow Motion Tutorial</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/apid-methods-unsettle-and-rearrange-your-video-list-for-2024/"><u>[New] Rapid Methods Unsettle and Rearrange Your Video List for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/orlds-highest-paying-streamer-for-2024/"><u>[New] World's Highest Paying Streamer for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-accelerated-aesthetics-rapid-revamping-of-images-on-windows-photo-editor/"><u>[Updated] In 2024, Accelerated Aesthetics Rapid Revamping of Images on Windows Photo Editor</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96316983-9781781806838-higherselfie/"><u>#HigherSelfie | Free Book</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-calculating-20mb-video-length-in-secs/"><u>2024 Approved Calculating 20MB Video Length in Secs</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-interactive-overlays-redefining-experience/"><u>2024 Approved Interactive Overlays Redefining Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-anticheat-connection-fault-issue-a-guide-for-escape-from-tarkov-players/"><u>Fixing the Anticheat Connection Fault Issue - A Guide for Escape From Tarkov Players</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-resolve-helldivers-2-game-crash-due-to-the-msvcr110dll-file-not-found/"><u>How to Resolve Helldivers 2 Game Crash Due to the 'MSVCR110.dll' File Not Found</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-shrink-your-videos-the-best-free-compression-tools-for-windows-10-for-2024/"><u>New Shrink Your Videos The Best Free Compression Tools for Windows 10 for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-the-black-ops-cold-war-glitch-fixing-error-887a0005/"><u>Resolving the Black Ops Cold War Glitch: Fixing Error 887A0005</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-assassins-creed-origins-glitches-top-strategies-for-smooth-play/"><u>Solving Assassin's Creed Origins Glitches: Top Strategies for Smooth Play</u></a></li>
+<li><a href="https://win-top.techidaily.com/solving-no-audio-on-movies-and-tv-application-in-windows-11-effective-troubleshooting-steps/"><u>Solving No Audio on Movies & TV Application in Windows 11: Effective Troubleshooting Steps</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-solution-for-resolving-error-6-in-diving-mode-cod-mw-on-windows/"><u>Step-by-Step Solution for Resolving Error 6 in Diving Mode, COD MW on Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-upgrading-graphics-driver-for-optimal-performance-in-forza-horizon-5/"><u>Step-by-Step: Upgrading Graphics Driver for Optimal Performance in Forza Horizon 5</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-inside-scoop-on-fortnite-season-8-and-its-effects-on-fps-drop-offs/"><u>The Inside Scoop on Fortnite Season #8 and Its Effects on FPS Drop-Offs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshoot-making-your-steam-controller-work-again-under-windows-os/"><u>Troubleshoot: Making Your Steam Controller Work Again Under Windows OS</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-troubleshooting-guide-resolving-firefox-stability-issues/"><u>Ultimate Troubleshooting Guide: Resolving Firefox Stability Issues</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unleash-new-calculation-powers-on-your-ipad-discover-a-cutting-edge-app-thats-so-impressive-it-might-convince-you-to-invest-in-an-apple-pencil/"><u>Unleash New Calculation Powers on Your iPad! Discover a Cutting-Edge App That's So Impressive, It Might Convince You to Invest in an Apple Pencil!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Solution: Stop PC Freezes and Glitches While Playing Mobile PUBG"
-date: 2025-01-05T19:22:50.710Z
-updated: 2025-01-12T19:00:39.601Z
+date: 2025-01-17T03:30:02.240Z
+updated: 2025-01-18T07:47:29.541Z
 tags:
   - win11
   - win10
@@ -37,10 +37,6 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 | **HDD Space**        | **16 GB**           |
 | **DirectX**          | **DirectX 11.0**    |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Recommended system requirements for Fortnite
 
 | **Operating System** | **Windows 10/8/7**                                           |
@@ -51,6 +47,10 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 | **Processor**        | **Core i5 2.8 Ghz**                                          |
 | **HDD Space**        | **20 GB**                                                    |
 | **DirectX**          | **DirectX 11.0**                                             |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -71,10 +71,6 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 2: Use compatibility mode
 
  Run Fortnite in compatibility mode is a way to solve many problems. This Fortnite black screen error may be caused by the incompatibility with the system. So change the compatibility mode may help you solve the issue.
@@ -84,17 +80,9 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/com.jpg)
 3. Click **OK** then run Fortnite to check.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If this method doesn’t help, don’t worry, move to the next one.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method: Update your graphics card
 
@@ -127,14 +115,18 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Reboot your computer and run Fortnite to check the black screen issue will appear or not.
 
----
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+---
 
 ### Method 4: Use your integrated graphics card
 
@@ -145,7 +137,7 @@ OR
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 5: Change scale and layout limit
@@ -156,9 +148,17 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/display.jpg)
 2. In the Display tab, find Scale and layout.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Change the scaling limit.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/display1.jpg)
 4. Reboot Fortnite and check whether this problem is resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 6: Unblock the game from Windows Firewall
 
@@ -198,14 +198,18 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-decoding-the-divergence-360-film-vs-virtual-reality-for-2024/"><u>[New] Decoding the Divergence 360° Film Vs. Virtual Reality for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-premier-selections-versatile-and-affordable-macpc-bd-decoders/"><u>[Updated] Premier Selections Versatile and Affordable Mac/PC BD Decoders</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-the-ultimate-guide-to-macs-premier-screen-capture-tools/"><u>[Updated] The Ultimate Guide to Mac's Premier Screen Capture Tools</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/clonez-votre-ssd-seagate-sans-risques-et-a-zero-cout-avec-notre-guide-complet/"><u>Clonez Votre SSD Seagate Sans Risques Et À Zéro Coût Avec Notre Guide Complet</u></a></li>
-<li><a href="https://win-answers.techidaily.com/deathloop-game-crashing-follow-this-guide-for-quick-and-simple-repairs-to-enhance-your-gaming-experience/"><u>Deathloop Game Crashing? Follow This Guide for Quick and Simple Repairs to Enhance Your Gaming Experience!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/house-flipper-2-stability-issues-heres-how-to-ensure-smooth-running-on-windows-systems/"><u>House Flipper 2 Stability Issues? Here's How to Ensure Smooth Running on Windows Systems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-lag-expert-advice-for-reactivating-your-rust-software/"><u>Overcoming Lag: Expert Advice for Reactivating Your Rust Software</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/scriptwriting-the-creative-process-for-2024/"><u>Scriptwriting The Creative Process for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-resolving-the-f1-2021-pc-gaming-hiccups-and-stops/"><u>Troubleshooting Guide: Resolving the F1 2021 PC Gaming Hiccups and Stops</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-screencast-strategies-unleashed-powerful-ideas-inside/"><u>[New] In 2024, Screencast Strategies Unleashed Powerful Ideas Inside</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-streamline-game-saves-mastering-fbx-recording/"><u>[New] Streamline Game Saves Mastering FBX Recording</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-unlocking-your-cameras-screen-recording-features-for-2024/"><u>[New] Unlocking Your Camera's Screen Recording Features for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-growth-and-profitability-in-the-digital-marketplace-explore-these-top-15-facebook-insights/"><u>[Updated] 2024 Approved Growth & Profitability in the Digital Marketplace Explore These Top 15 Facebook Insights</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-principles-of-crafting-alluring-video-scripts/"><u>[Updated] Principles of Crafting Alluring Video Scripts</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723007756131-battle-ready-solve-your-lol-connection-woes-once-and-for-all/"><u>Battle-Ready: Solve Your LoL Connection Woes Once and For All</u></a></li>
+<li><a href="https://win-answers.techidaily.com/conquer-rainbow-six-siege-error-detailed-strategies-for-resolving-code-e3-0x0001000b/"><u>Conquer Rainbow Six Siege Error: Detailed Strategies for Resolving Code E3-0X0001000b</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-frame-rate-drop-in-dying-light-how-gamers-overcame-fps-problems/"><u>Fixing the Frame Rate Drop in Dying Light - How Gamers Overcame FPS Problems</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723008775294-no-more-crashes-in-nier-gestaltic-reverie-optimized-gameplay-tips-inside/"><u>No More Crashes in NieR: Gestaltic Reverie – Optimized Gameplay Tips Inside!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transforming-tech-landscape-the-impact-of-gemini-15s-one-million-token-milestone/"><u>Transforming Tech Landscape: The Impact of Gemini-1.5's One Million Token Milestone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-and-repairing-sons-of-the-forest-crashes-on-your-computer/"><u>Troubleshooting and Repairing Sons of the Forest Crashes on Your Computer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-resolving-issues-with-game-finals-release/"><u>Ultimate Guide: Resolving Issues with Game Finals Release</u></a></li>
 </ul></div>
 

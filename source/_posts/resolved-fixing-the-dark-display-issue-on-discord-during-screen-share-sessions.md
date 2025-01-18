@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Fixing the Dark Display Issue on Discord During Screen Share Sessions"
-date: 2024-08-13T12:11:48.608Z
-updated: 2024-08-14T12:11:48.608Z
+date: 2025-01-11T06:11:45.022Z
+updated: 2025-01-18T05:50:51.087Z
 tags:
   - win11
   - win10
@@ -18,8 +18,9 @@ thumbnail: https://thmb.techidaily.com/f7a18b1ed8a37fcd7d106943fadf79a7add46bd88
 Bothered by Enlisted black screen issue? Don’t worry, you’re not alone. This post shows you how to fix black screen issues step-by-step.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Before trying…
 
 There’re things you can do before trying complicated fixes:
@@ -27,9 +28,6 @@ There’re things you can do before trying complicated fixes:
 * Make sure you’ve closed unnecessary background programs
 * Make sure Enlisted are not blocked from your firewall
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -39,8 +37,9 @@ There’re things you can do before trying complicated fixes:
 3. [Update graphic driver](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Run as administrator
 
  Run as administrator is a working fix for many players. It’s easy and quick, so I recommend this fix as your first solution.
@@ -49,10 +48,19 @@ There’re things you can do before trying complicated fixes:
 2. Right-click on the shortcut and click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
 3. In the Compatibility tab, click **Run as administrator** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 4. Relaunch the game.
 
 If it’s not working, move to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Install Windows updates
 
@@ -67,8 +75,9 @@ If it’s not working, move to the next fix.
  If this didn’t solve your problems, read on for further troubleshooting.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Update graphic driver
 
  Graphics card manufacturers like Nvidia, AMD and Intel constantly release new graphics drivers to fix bugs and improve the gaming performance and experience.
@@ -85,16 +94,10 @@ If it’s not working, move to the next fix.
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-scan-screen.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
 
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -111,8 +114,6 @@ If it’s not working, move to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -120,4 +121,20 @@ If it’s not working, move to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-pro-3-analysis-how-ion-is-redefining-the-action-video-landscape/"><u>[New] Pro 3 Analysis - How ION Is Redefining the Action Video Landscape</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/afekeeping-your-online-space-youtube-channel-blocking-guide/"><u>[New] Safekeeping Your Online Space Youtube Channel Blocking Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-apex-legends-not-loading-quickly-and-easily/"><u>[Solved] Apex Legends Not Loading | Quickly & Easily</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-instagram-vids-determining-the-perfect-dimensions/"><u>[Updated] Instagram Vids Determining the Perfect Dimensions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/die-beliebtesten-kinoproduktionen-aus-hollywood-und-bollywood-kostenlose-downloads-von-2016/"><u>Die Beliebtesten Kinoproduktionen Aus Hollywood Und Bollywood, Kostenlose Downloads Von 2016</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-strategies-for-resolving-an-inaccessible-nvidia-settings-interface/"><u>Effective Strategies for Resolving an Inaccessible NVIDIA Settings Interface</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-addressing-and-repairing-crash-issues-in-the-mass-effect-legendary-edition/"><u>Expert Advice: Addressing and Repairing Crash Issues in the Mass Effect Legendary Edition</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-silent-skies-how-to-restore-audio-in-skyrim/"><u>Fixing the Silent Skies: How to Restore Audio in Skyrim</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-achieve-premium-picture-standards-without-paying-for-2024/"><u>How to Achieve Premium Picture Standards Without Paying for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-overcome-swtor-game-start-up-errors-solutions-included/"><u>How to Overcome SWTOR Game Start-Up Errors - Solutions Included</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-infinix-note-30-vip-racing-edition-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Infinix Note 30 VIP Racing Edition FRP</u></a></li>
+<li><a href="https://win-answers.techidaily.com/star-wars-jedi-fallen-order-pc-version-repaired-and-optimized/"><u>Star Wars Jedi: Fallen Order - PC Version Repaired and Optimized</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transform-your-images-into-nfts-the-best-generators-listed-for-2024/"><u>Transform Your Images Into NFTs - The Best Generators Listed for 2024</u></a></li>
+</ul></div>
 

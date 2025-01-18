@@ -1,7 +1,7 @@
 ---
 title: "Winning the Battle Againnst Lag: Proven Strategies for Optimizing Your Chivalry 2 Connection"
-date: 2025-01-03T03:04:53.705Z
-updated: 2025-01-05T18:31:55.051Z
+date: 2025-01-15T01:27:35.234Z
+updated: 2025-01-17T22:17:40.907Z
 tags:
   - win11
   - win10
@@ -43,13 +43,21 @@ thumbnail: https://thmb.techidaily.com/af0b3f2dd83523f585e0d44be63e4dc2ee76a71ef
 2. In the left pane, select **LOCAL FILES** . Then click **Verify integrity of game files** . If there’re any new game files, Steam will download them for you.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/steam-verify-2.jpg)
 3. Wait for the checking to complete. Then start The Ascent and check if it lags again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If this doesn’t fix the stuttering issue, take a look at the next method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -62,10 +70,6 @@ thumbnail: https://thmb.techidaily.com/af0b3f2dd83523f585e0d44be63e4dc2ee76a71ef
 ![Driver Easy Scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-2060-super-update.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -74,10 +78,6 @@ thumbnail: https://thmb.techidaily.com/af0b3f2dd83523f585e0d44be63e4dc2ee76a71ef
 
  If the latest driver doesn’t give you luck, you can try the next fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Make sure Windows is up to date
 
  Every once in a while, Microsoft releases Windows updates that fix bugs and offer performance boosts. To ensure the best gaming experience, besides drivers you also need to**keep your system up to date** .
@@ -85,6 +85,10 @@ thumbnail: https://thmb.techidaily.com/af0b3f2dd83523f585e0d44be63e4dc2ee76a71ef
 1. On your keyboard, press**Win+R** (the Windows logo key and the R key) to invoke the Run box. Type or paste**control update** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-1.jpg)
 2. Click**Check for updates** . Windows will then check for available updates. (Or click Restart now if it prompts “Restart required”)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
 
@@ -104,14 +108,10 @@ If you don’t know how to switch, follow these steps:
 3. Now you can start The Ascent and test the gameplay.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If changing the DirectX version doesn’t do the trick, you can check out the next solution.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Disable Control Flow Guard
 
@@ -127,12 +127,12 @@ If you don’t know how to switch, follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/disable-cfg-3.jpg)
 4. In the pop-up window, type**TheAscent-Win64-Shipping.exe** if you’re on Steam. For Xbox Game Pass it’ll be**TheAscent-WinGDK-Shipping.exe** . Next, click**Add** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/disable-cfg-4.jpg)
 5. Under the**Control flow guard (CFG)** section, select**Override system settings** . Then toggle it to**Off** and click**Apply** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/disable-cfg-5.jpg)
 6. Now you can check if there’re any improvements in The Ascent. (You might also need to go to**Steam > Settings > Cloud** and disable Steam Cloud synchronization.)
@@ -156,20 +156,20 @@ If you don’t know how to switch, follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-how-to-authenticate-your-yt-account-a-hint-list/"><u>[New] In 2024, How to Authenticate Your YT Account? A Hint List</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-guide-to-choosing-ideal-youtube-thumbnail-shapes-for-2024/"><u>[Updated] Guide to Choosing Ideal Youtube Thumbnail Shapes for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-troubleshoot-facebook-video-playback-issues-on-mobile-devices-for-2024/"><u>[Updated] Troubleshoot Facebook Video Playback Issues on Mobile Devices for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-advice-fix-your-deathloop-launch-trouble-today/"><u>Expert Advice: Fix Your Deathloop Launch Trouble Today!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fix-forza-horizon-3-on-pc-crashing-issue/"><u>Fix: Forza Horizon 3 on PC Crashing Issue</u></a></li>
-<li><a href="https://win-forum.techidaily.com/fixing-windows-11-wont-run-issues-expert-advice-and-solutions/"><u>Fixing Windows 11 Won't Run Issues: Expert Advice & Solutions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-the-persistent-crashes-of-ready-or-not-game-on-your-computer/"><u>How to Fix the Persistent Crashes of 'Ready or Not' Game on Your Computer</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-modify-netflix-geography-setting-swiftly/"><u>How to Modify Netflix Geography Setting Swiftly</u></a></li>
-<li><a href="https://win-answers.techidaily.com/improving-frame-rates-and-smoothing-gameplay-expert-tips-for-enhancing-your-fps-on-valorant/"><u>Improving Frame Rates & Smoothing Gameplay: Expert Tips for Enhancing Your FPS on Valorant</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-precision-in-broadcasting-zoom-and-fb-live-strategies/"><u>In 2024, Precision in Broadcasting ZOOM & FB Live Strategies</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-the-digital-world-inside-toms-hardware-reviews/"><u>Mastering the Digital World: Inside Tom's Hardware Reviews</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-the-fixes-to-fortnite-launch-problem-ls-0013-complete-walkthrough/"><u>Mastering the Fixes to Fortnite Launch Problem LS-0013 – Complete Walkthrough</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-tecno-phantom-v-flip-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Tecno Phantom V Flip Step-by-Step Solutions | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/the-newcomers-playbook-for-youtube-success-setup-and-revenue-generation-for-2024/"><u>The Newcomer's Playbook for Youtube Success Setup & Revenue Generation for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/update-brings-an-end-to-mlb-the-show-21-server-crashes/"><u>Update Brings an End to MLB The Show 21 Server Crashes</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-flavorful-follows-top-food-vloggers-to-track/"><u>[New] In 2024, Flavorful Follows Top Food Vloggers to Track</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-cut-costs-improve-videos-learn-free-vimeo-editing/"><u>[Updated] 2024 Approved Cut Costs, Improve Videos Learn Free Vimeo Editing</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-unparalleled-action-camera-review-sony-x1000v-explored/"><u>[Updated] 2024 Approved Unparalleled Action Camera Review - Sony X1000V Explored</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cant-access-steam-remote-play-here-are-effective-solutions-for-you/"><u>Can't Access Steam Remote Play? Here Are Effective Solutions for You</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-apex-legends-wont-load-issue-simple-solutions-inside/"><u>Fixing Apex Legends Won't Load Issue - Simple Solutions Inside!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-frequent-exiting-of-v-rising-game-while-playing-on-your-computer/"><u>How To Fix Frequent Exiting of V Rising Game While Playing on Your Computer</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-xiaomi-civi-3-disney-100th-anniversary-edition-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Xiaomi Civi 3 Disney 100th Anniversary Edition</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-heavy-lift-airborne-titans-drone-leaders-guide/"><u>In 2024, Heavy-Lift Airborne Titans - Drone Leaders Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-oppo-reno-10-proplus-5g-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Oppo Reno 10 Pro+ 5G Phone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/revamped-bioshock-2-remaster-version-resolved-issues-and-optimized-gameplay/"><u>Revamped Bioshock 2 Remaster Version – Resolved Issues and Optimized Gameplay</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-guide-overcoming-the-connection-failed-in-minecraft-dilemam/"><u>Solution Guide: Overcoming the 'Connection Failed in Minecraft' Dilemam</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/steps-for-safe-and-cost-free-vlc-downloads-on-apple-machines/"><u>Steps for Safe and Cost-Free VLC Downloads on Apple Machines</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-hidden-dangers-of-generative-techs-abilities/"><u>The Hidden Dangers of Generative Tech's Abilities</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-perfect-proposal-to-perfection-8-best-weddings-online-for-2024/"><u>The Perfect Proposal to Perfection 8 Best Weddings Online for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-ffxiv-resolving-incomplete-version-verification-issues/"><u>Troubleshooting FFXIV: Resolving Incomplete Version Verification Issues</u></a></li>
 </ul></div>
 

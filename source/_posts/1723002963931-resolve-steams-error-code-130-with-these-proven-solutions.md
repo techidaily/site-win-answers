@@ -1,7 +1,7 @@
 ---
 title: Resolve Steam's Error Code 130 with These Proven Solutions!
-date: 2025-01-09T18:19:56.765Z
-updated: 2025-01-12T19:29:22.035Z
+date: 2025-01-16T18:49:29.005Z
+updated: 2025-01-17T19:45:52.398Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/65c45785d0c2f42e9363c89b2d70455197811e675
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3 simple fixes to try
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -35,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/65c45785d0c2f42e9363c89b2d70455197811e675
 1. **[Adjust your proxy settings](https://tools.techidaily.com/drivereasy/download/)**
 2. **[Update your network adapter driver](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Reinstall Steam](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Adjust your proxy settings
 
@@ -52,21 +52,17 @@ thumbnail: https://thmb.techidaily.com/65c45785d0c2f42e9363c89b2d70455197811e675
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-360.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** If any items on this window are checked, uncheck them. Then, click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-363.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **5)** Restart your computer and Steam to test your issue.
 
  If none of the boxes is checked, or if you still get the error code 130, then go ahead with the fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your network adapter driver
 
@@ -100,6 +96,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-113.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[](https://tools.techidaily.com/drivereasy/download/) [Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-364.png)
@@ -107,6 +107,10 @@ OR
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Reinstall Steam
 
@@ -116,16 +120,12 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-885.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-886.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control Panel** .
@@ -137,12 +137,16 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-888.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **5)** Select **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-889.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **6)**  Right-click **Steam** , and then click **Uninstall** .
 
@@ -151,10 +155,6 @@ OR
 **7)**  Follow the on-screen instructions to uninstall Steam and wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-891.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  **8)[Download](https://store.steampowered.com/about/)**  Steam.
 
@@ -194,22 +194,19 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-virtual-escapades-you-cant-afford-to-miss-for-2024/"><u>[New] Virtual Escapades You Can't Afford to Miss for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-the-definitive-guide-to-screencast-editors/"><u>[Updated] 2024 Approved The Definitive Guide to Screencast Editors</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-brush-up-your-youtube-videos-with-color-correction/"><u>[Updated] Brush Up Your Youtube Videos with Color Correction</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-harnessing-creativity-with-new-features-in-magix-music-maker-2024/"><u>[Updated] Harnessing Creativity with New Features in Magix Music Maker 2024</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/aomei-pxe/"><u>AOMEI PXE ネットワーク ブートソフトウェア -最適化されたセットアップガイド</u></a></li>
-<li><a href="https://win-answers.techidaily.com/comprehensive-strategies-for-dealing-with-persistent-crashes-in-phoenix-point/"><u>Comprehensive Strategies for Dealing with Persistent Crashes in Phoenix Point</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722983140787-dark-souls-eboot-fixes-how-to-stop-game-crashes-once-and-for-all/"><u>Dark Souls Eboot Fixes: How to Stop Game Crashes Once and for All</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/debating-the-ethical-use-of-ai-for-security-risks/"><u>Debating the Ethical Use of AI for Security Risks</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-zebra-gk420d-printer-driver-now-simple-steps/"><u>Download the Zebra GK420D Printer Driver Now - Simple Steps</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-fixes-for-msedgeexe-crashing-on-windows-pcs/"><u>Effective Fixes for 'msedge.exe' Crashing on Windows PCs</u></a></li>
-<li><a href="https://win-answers.techidaily.com/escape-from-tarkov-pc-version-fix-the-continuous-crash-problem/"><u>Escape From Tarkov PC Version: Fix the Continuous Crash Problem</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/free-electronic-signature-for-xlsm-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>Free electronic signature - For .xlsm files</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-the-fix-for-not-found-entry-point-when-playing-fortnite-on-pc-or-console/"><u>Mastering the Fix for 'Not Found Entry Point' When Playing Fortnite on PC or Console</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-realme-11-5g-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Realme 11 5G | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solution-reactivate-your-camera-on-google-meets-easily/"><u>Solution: Reactivate Your Camera on Google Meets Easily</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-razer-synapse-opening-issues-and-solutions/"><u>Troubleshooting: Razer Synapse Opening Issues & Solutions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/wolcen-lords-of-mayhem-reasons-behind-the-delayed-release/"><u>Wolcen: Lords of Mayhem - Reasons Behind the Delayed Release</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-perfect-habits-to-embrace-with-podcasts-playing/"><u>[New] In 2024, Perfect Habits to Embrace with Podcasts Playing</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-spark-interest-10-innovative-highlight-ideas-to-try-now/"><u>[New] Spark Interest 10 Innovative Highlight Ideas to Try Now</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-thriving-in-zoom-chats-key-techniques-for-engaging-online-conversations/"><u>2024 Approved Thriving in Zoom Chats Key Techniques for Engaging Online Conversations</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/assess-your-gaming-and-graphic-needs-with-yl-software-is-an-upgrade-necessary/"><u>Assess Your Gaming and Graphic Needs with YL Software – Is an Upgrade Necessary?</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/bitraser-professional-usb-eraser-available-for-immediate-buy/"><u>BitRaser Professional USB Eraser Available for Immediate Buy</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-motorola-defy-2-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Motorola Defy 2 To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-moto-e13-phone-without-password-by-drfone-android/"><u>How To Unlock Motorola Moto E13 Phone Without Password?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-how-much-could-you-make-on-youtube-snippets/"><u>In 2024, How Much Could You Make on YouTube Snippets?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/revolutionize-your-streaming-experience-with-microsoft-edges-new-live-ai-video-translation-feature/"><u>Revolutionize Your Streaming Experience with Microsoft Edge's New Live AI Video Translation Feature</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-to-upgrading-your-pcs-ram-in-windows/"><u>Step-by-Step Guide to Upgrading Your PC's RAM in Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-restoring-network-functionality-for-lan-cards-on-microsofts-latest-operating-system/"><u>Step-by-Step Guide: Restoring Network Functionality for LAN Cards on Microsoft's Latest Operating System</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-persistence-of-windows-11s-show-desktop-feature-no-replacement-in-sight/"><u>The Persistence of Windows 11'S Show Desktop Feature: No Replacement in Sight</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-10-essential-command-line-tricks-for-windows-power-users/"><u>Top 10 Essential Command-Line Tricks for Windows Power Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-6-windows-11-applications-enhancing-remote-work-efficiency/"><u>Top 6 Windows 11 Applications Enhancing Remote Work Efficiency</u></a></li>
 </ul></div>
 

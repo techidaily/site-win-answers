@@ -1,7 +1,7 @@
 ---
 title: "Clear the Fog: Tips and Tricks to Get Your VR Set Up Working with Steam Again"
-date: 2024-08-13T12:15:54.982Z
-updated: 2024-08-14T12:15:54.982Z
+date: 2025-01-12T17:21:54.394Z
+updated: 2025-01-18T08:51:43.160Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ Are you upset by your Logitech C920 webcam? It’s not working or no longer reco
 
  Before trying any complicated fixes, make sure your Logitech C920 webcam is working properly. You can test it on another computer.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -32,9 +29,6 @@ Are you upset by your Logitech C920 webcam? It’s not working or no longer reco
 4. [Disable conflict apps](https://tools.techidaily.com/drivereasy/download/)
 5. [Repair system files](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 1: Go to privacy settings
 
  The problem may be caused by Windows Privacy settings. It’s possible that Windows Privacy blocks the Logitech Webcam.
@@ -42,8 +36,17 @@ Are you upset by your Logitech C920 webcam? It’s not working or no longer reco
 1. Press the**Windows logo key + I** and click**Privacy** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-19_18-22-02.jpg)
 2. In the left pane, click**Camera** and make sure**Allow apps to access your camera** is on. Scroll down to turn on the app you allow to access your camera.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. In the left pane, click**Microphone** and make sure**Allow apps to access your camera** is on. Scroll down to turn on the app you allow to access your camera.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-19_18-24-47.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Reinstall the Logitech software
 
@@ -52,15 +55,8 @@ Are you upset by your Logitech C920 webcam? It’s not working or no longer reco
 1. Press the**Windows logo key + R** together.
 2. Type **appwiz  .  cpl**  and press**Enter** on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-426.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 3. Right-click on Logitech software and select**Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Logitech-4.jpg)
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. During the uninstall process, only select THE DRIVER.
 5. Finish the uninstall process and run the camera again. It should be working with your software.
 6. But if it doesn’t help, you can uninstall the whole software and go to the[Logitech website](https://support.logi.com/hc/en-us/articles/360024361233) to re-download.
@@ -68,9 +64,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 There’s another situation that
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 3: Reinstall your drivers
 
  Outdated or wrong drivers could cause trouble. When you meet computer problems but have no clue to fix them, you can update related drivers for a try. Keeping your drivers updated can help you enhance device functions to improve computer performance.
@@ -83,9 +76,17 @@ OR
 
 **[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/solved-logitech-c920-webcam-not-working/#op2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Option 1 – Download and install the driver manually
 
  You can download graphics drivers from the manufacturer’s official website. Search for the model you have and find the correct driver that suits your specific operating system. Then download the driver manually.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 2 – Automatically update drivers
 
@@ -98,20 +99,18 @@ OR
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/de-scan-6.1.png)
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/05/Logitech-HD-Pro-Webcam-C920.png)
 4. After updating, restart your computer to take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 4: Disable conflict apps
 
  There’s a situation where your webcam stops working because of other programs. The conflict apps could be Skype, Discord, VPN, or others. According to our readers,**VPN provided by Malwarebytes** is one of the conflicting apps.  
@@ -131,16 +130,15 @@ OR
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Fortect.
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
@@ -155,8 +153,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -164,4 +160,26 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-avoid-feed-overload-how-to-stop-followers/"><u>[New] Avoid Feed Overload How to Stop Followers</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-tailor-your-space-the-best-apps-to-create-engaging-youtube-themes/"><u>[New] In 2024, Tailor Your Space The Best Apps to Create Engaging YouTube Themes</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-macs-finest-for-gif-saving-the-leading-apps/"><u>[New] Mac's Finest for GIF Saving The Leading Apps</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-unlocking-the-potential-of-drone-footage-through-editing/"><u>[Updated] Unlocking the Potential of Drone Footage Through Editing</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-valheims-optimal-seed-selection-strategies/"><u>[Updated] Valheim's Optimal Seed Selection Strategies</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-converging-zoom-and-fb-live-for-professional-broadcasts/"><u>2024 Approved Converging ZOOM and FB Live for Professional Broadcasts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-comprehensive-guide-to-claude-3-uses-and-functions/"><u>A Comprehensive Guide to Claude 3 Uses & Functions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-on-getting-your-msi-graphics-driver-and-center-back-online/"><u>Expert Tips on Getting Your MSI Graphics Driver and Center Back Online</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-black-screen-issue-at-elden-ring-boot-up-solutions-guide/"><u>Fixing the 'Black Screen' Issue at Elden Ring Boot Up - Solutions Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-restore-functionality-in-your-phasmophobia-vr-experience/"><u>How to Restore Functionality in Your Phasmophobia VR Experience</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/masterpiece-creation-in-ae-with-top-tier-plugin-selection-for-2024/"><u>Masterpiece Creation in AE with Top-Tier Plugin Selection for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/minecraft-quiet-zone-heres-how-to-restore-sound-on-your-computer-game/"><u>Minecraft Quiet Zone? Here's How to Restore Sound on Your Computer Game</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-play-uninterrupted-fixing-the-crashes-of-arcadegeddon/"><u>PC Play Uninterrupted: Fixing the Crashes of Arcadegeddon</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-troubleshooting-tips-to-resolve-chrome-stalling-issues-in-windows-10/"><u>Quick Troubleshooting Tips to Resolve Chrome Stalling Issues in Windows 10</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-vaultron-v-freezing-issues-a-step-by-step-guide/"><u>Solving 'Vaultron V' Freezing Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-alan-wake-2-game-crash-issue-essential-troubleshooting-steps/"><u>Solving the Alan Wake 2 Game Crash Issue: Essential Troubleshooting Steps</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/top-3-hd-film-scrapers-on-fb-for-2024/"><u>Top 3 HD Film Scrapers on Fb for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-heart-of-iron-iv-glitches-and-bugs-for-smoother-gameplay/"><u>Troubleshooting Heart of Iron IV Glitches and Bugs for Smoother Gameplay</u></a></li>
+</ul></div>
 

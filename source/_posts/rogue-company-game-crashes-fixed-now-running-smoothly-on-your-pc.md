@@ -1,7 +1,7 @@
 ---
 title: "Rogue Company Game Crashes Fixed: Now Running Smoothly on Your PC"
-date: 2025-01-08T18:59:30.578Z
-updated: 2025-01-12T19:59:54.183Z
+date: 2025-01-16T11:04:32.802Z
+updated: 2025-01-18T10:00:39.908Z
 tags:
   - win11
   - win10
@@ -37,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/de76a8c110eaff7a166a09fee629e954d26d490c5
 7. **[Check your DLC](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Scan and repair Windows](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Verify the integrity of your game
 
  When troubleshooting game issues, first**check if your game files are intact** . This is especially true for new games as patches roll out almost every day. Verifying your game checks for the latest updates as well.
@@ -58,6 +54,10 @@ Once done, restart Halo Infinite and check if the issue persists.
 
 If this doesn’t stop the crash, take a look at the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 2: Disable in-game overlays
 
  In-game overlays like Discord and Steam allow the app or platform to track your achievements and purchases. It’s a handy feature, but there are also reports saying that it could be crashing Halo Infinite. So you can try to**disable this feature** and see how things go.
@@ -69,23 +69,11 @@ Here’s how to disable Steam Overlay:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-verified-1.jpg)
 3. Uncheck the box before**Enable the Steam Overlay while in-game** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-overlay-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Now check if you can play Halo Infinite normally.
 
  If disabling overlays doesn’t do the trick for you, simply check out the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 3: Upgrade your graphics driver
 
@@ -105,15 +93,15 @@ Now check if you can play Halo Infinite normally.
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, restart your PC and check if Halo Infinite crashes again.
 
  If the latest GPU driver doesn’t fix your issue, you can try to[uninstall the graphics driver using DDU](https://tools.techidaily.com/drivereasy/download/) and reinstall the previous versions of driver. Or you can move on to the next fixes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Check for conflicting programs
 
@@ -121,9 +109,17 @@ Now check if you can play Halo Infinite normally.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/afterburner.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 MSI Afterburner
 
  If you’re sure it’s not the cause, simply continue to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Disable fullscreen optimizations
 
@@ -134,29 +130,33 @@ MSI Afterburner
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-fullscreen-files-1.jpg)
 3. Right click the**HaloInfinite** launcher and select**Property** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-fullscreen-files-2.jpg)
 4. In the pop-up window, check the box before**Disable fullscreen optimizations** . Next click**Change high DPI settings** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-fullscreen-files-3.jpg)
 5. Under**High DPI scaling override** , check the box next to**Override high DPI scaling behavior** . Then click**OK** to save the changes.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-fullscreen-files-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now restart your game and check the gameplay.
 
 If this trick doesn’t give you luck, simply try the next one.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 6: Check for system updates
 
  Windows 10/11 offers system updates regularly, which usually improves system stability and sometimes in-game performance. Normally it’s an automated process, but you can also check to make sure you have all the patches:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### On Windows 10
 
@@ -166,10 +166,6 @@ If this trick doesn’t give you luck, simply try the next one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
 ### On Windows 11
@@ -178,6 +174,10 @@ If this trick doesn’t give you luck, simply try the next one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
@@ -189,7 +189,7 @@ If this trick doesn’t give you luck, simply try the next one.
 If the latest updates don’t work for you, try the next method.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 7: Check your DLC
@@ -213,11 +213,11 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -242,24 +242,17 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-discovering-the-most-innovative-youtube-channel-names-a-vloggers-must-have-list-maximum-length-156-characters/"><u>[New] In 2024, Discovering the Most Innovative Youtube Channel Names A Vlogger's Must-Have List (Maximum Length 156 Characters)</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-instant-sticker-transformation-your-guide-to-making-gifs-pop-in-telegram-and-more/"><u>[New] In 2024, Instant Sticker Transformation Your Guide to Making GIFs Pop in Telegram & More</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-a-step-by-step-journey-into-professional-gopro-editing-for-2024/"><u>[Updated] A Step-by-Step Journey Into Professional GoPro Editing for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-broad-overview-the-mechanics-of-google-podcast-app/"><u>2024 Approved Broad Overview The Mechanics of Google Podcast App</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722994208189-battlefield-4-wont-start-here-are-the-proven-solutions/"><u>Battlefield 4 Won't Start? Here Are the Proven Solutions</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ing-creativity-and-engagement-anime-subscribe-buttons-with-filmora-for-2024/"><u>Bridging Creativity & Engagement - Anime Subscribe Buttons with Filmora for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/dealing-with-inaccessible-sites-on-internet-explorer-expert-tips-and-fixes/"><u>Dealing with Inaccessible Sites on Internet Explorer: Expert Tips and Fixes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/dealing-with-ubisoft-connect-failures-expert-tips-and-tricks/"><u>Dealing with Ubisoft Connect Failures: Expert Tips and Tricks</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/enhancing-efficiency-with-intelligent-process-analysis-case-study-insights/"><u>Enhancing Efficiency with Intelligent Process Analysis: Case Study Insights</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fix-baldurs-gate-3-pc-instability-step-by-step-guide/"><u>Fix Baldur's Gate 3 PC Instability: Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-microsoft-wireless-mouse-5000-up-and-running-fast-easy-drivers/"><u>Get Your Microsoft Wireless Mouse 5000 Up and Running – Fast, Easy Drivers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/guide-repairing-your-apex-legends-online-connection-woes/"><u>Guide: Repairing Your Apex Legends Online Connection Woes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/hitman-3-launch-failures-effective-fixes-for-pc-users/"><u>Hitman 3 Launch Failures: Effective Fixes for PC Users</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-the-experts-guide-to-xbox-one-screen-captures/"><u>In 2024, The Expert's Guide to Xbox One Screen Captures</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-motorola-g24-power-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Motorola G24 Power FRP</u></a></li>
-<li><a href="https://win-answers.techidaily.com/rapid-resolution-boosting-performance-in-assassins-creed-valhalla/"><u>Rapid Resolution: Boosting Performance in Assassin's Creed: Valhalla</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolve-your-discord-scripting-problems-with-these-swift-javascript-tips/"><u>Resolve Your Discord Scripting Problems with These Swift JavaScript Tips</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-tutorial-on-enablingdisabling-hibernate-mode-for-windows-10-users/"><u>Step-by-Step Tutorial on Enabling/Disabling Hibernate Mode for Windows 10 Users</u></a></li>
-<li><a href="https://win-answers.techidaily.com/xcom-2-troubleshooting-resolving-windows-system-crashes/"><u>XCOM 2 Troubleshooting: Resolving Windows System Crashes</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-peepsnap-evaluation-review-screen-recorders-for-2024/"><u>[New] Peepsnap Evaluation Review - Screen Recorders for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-the-future-at-your-fingertips-mycams-video-recorder-examined/"><u>[Updated] 2024 Approved The Future at Your Fingertips – MyCam's Video Recorder Examined</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-smart-screening-vll-app-judgement/"><u>[Updated] In 2024, Smart Screening VLL App Judgement</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-pajama-plots-reviewed-analyzing-childrens-video-stories/"><u>2024 Approved Pajama Plots Reviewed Analyzing Children's Video Stories</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/affordable-philips-hf3520-alarm-clock-evaluation-a-blend-of-quality-and-value/"><u>Affordable Philips HF3520 Alarm Clock Evaluation: A Blend of Quality & Value</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-fix-d3dx924dll-not-found-or-missing-errors/"><u>How to Fix D3dx9_24.dll Not Found or Missing Errors</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-14-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 14 Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/public-information-campaigns/"><u>Public Information Campaigns</u></a></li>
+<li><a href="https://win-answers.techidaily.com/review-of-razers-portable-usb-c-station-an-ideal-choice-for-traveling-pc-gamers/"><u>Review of Razer's Portable USB-C Station - An Ideal Choice for Traveling PC Gamers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/scaling-your-pc-how-windows-memory-reclaim-boosts-storage-needs/"><u>Scaling Your PC: How Windows Memory Reclaim Boosts Storage Needs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/speedy-methods-for-finding-exe-files-in-windows-11-a-step-by-step-guide/"><u>Speedy Methods for Finding EXE Files in Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-activating-or-deactivating-the-xbox-game-bar-on-your-windows-10-pc/"><u>Step-by-Step Guide: Activating or Deactivating the Xbox Game Bar on Your Windows 10 PC</u></a></li>
 </ul></div>
 

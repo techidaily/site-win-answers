@@ -1,7 +1,7 @@
 ---
 title: "Solved: Fixing Issues When Trying to Start MapleStory"
-date: 2025-01-05T19:40:28.312Z
-updated: 2025-01-12T20:01:38.860Z
+date: 2025-01-15T23:18:20.434Z
+updated: 2025-01-17T22:42:08.127Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/b1dd7a3474ae1af80798d89372f38597e9f807738
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -106,6 +106,10 @@ thumbnail: https://thmb.techidaily.com/b1dd7a3474ae1af80798d89372f38597e9f807738
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Install the latest DayZ patch
 
  The developers of DayZ release regular game patches to fix bugs. It’s possible that a recent patch has caused the FPS drops issue, and that a new patch is required to fix it.
@@ -124,16 +128,8 @@ thumbnail: https://thmb.techidaily.com/b1dd7a3474ae1af80798d89372f38597e9f807738
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel.jpg)
 2. View Control Panel by **Large icons** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Click **NVIDIA Control Panel**  to open it.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/Nvidia-control-panel.jpg)
 4. Click **3D Settings** and select **Adjust image settings with preview** . Then select **Use my preference emphasizing** and **drag the slider to the left** .  
@@ -141,7 +137,7 @@ thumbnail: https://thmb.techidaily.com/b1dd7a3474ae1af80798d89372f38597e9f807738
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/Nvida-control-panel-3D-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Lower the in-game graphics settings
@@ -172,17 +168,9 @@ See if you can play the game smoothly. If not, try the next fix, below.
 2. Select any other applications and programs that take up a large amount of **CPU** , **memory** and **network**  and then click **End task**  to close it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/Task-Manager.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Run DayZ again to see if you can play the game smoothly. If the FPS in DayZ still drops, try the next fix, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Temporarily disable the third-party antivirus application
 
@@ -206,11 +194,19 @@ Try the next fix below if this fix didn’t work for you.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
  Launch DayZ to see if you resolve the FPS drops issue. If not, try the next fix below to adjust your Windows system for the best performance.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 8: Adjust your Windows system for the best performance
 
@@ -221,11 +217,15 @@ Try the next fix below if this fix didn’t work for you.
 2. In the pop-up window, navigate to the Advanced tab, then click **Settings…**  in the **Performance**  section.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/system-property-window.png)
 3. Select **Adjust for best performance**  and click **OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/adjust-for-best-performance.png)
 
@@ -253,18 +253,20 @@ Try the next fix below if this fix didn’t work for you.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-list-complimentary-3d-text-psds/"><u>[New] The Ultimate List Complimentary 3D Text PSDs</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-uniting-choreography-with-crafted-audio-in-instagram/"><u>[New] Uniting Choreography with Crafted Audio in Instagram</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-from-sound-to-storage-logging-online-broadcasts-efficiently/"><u>[Updated] 2024 Approved From Sound to Storage Logging Online Broadcasts Efficiently</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-investigating-the-upside-down-issue-on-instavideos/"><u>[Updated] Investigating the Upside-Down Issue on InstaVideos</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ck-guide-to-moving-videos-from-youtube-to-dailymotion-for-2024/"><u>A Quick Guide to Moving Videos From YouTube to Dailymotion for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/enhancing-your-gaming-experience-by-correcting-stutters-and-hangs-in-outriders-pc/"><u>Enhancing Your Gaming Experience by Correcting Stutters and Hangs in Outriders (PC)</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-your-dragons-dogma-2-game-crash-issues-on-pc-step-by-step/"><u>Fixing Your Dragon's Dogma 2 Game Crash Issues on PC Step-by-Step</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-guide-to-simplified-gs-yt-cta-implementation/"><u>In 2024, Guide to Simplified GS-YT CTA Implementation</u></a></li>
-<li><a href="https://win-answers.techidaily.com/maximizing-performance-enabling-gpu-functionality-for-warzone-on-windows-11-systems/"><u>Maximizing Performance: Enabling GPU Functionality for Warzone on Windows 11 Systems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-the-puzzle-your-complete-guide-to-overcoming-new-world-connection-issues/"><u>Solving the Puzzle: Your Complete Guide to Overcoming New World Connection Issues</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-to-resolve-infinity-sword-of-eternity-crashes-on-windows-pc/"><u>Troubleshooting Steps to Resolve Infinity Sword of Eternity Crashes on Windows PC</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/why-cant-i-play-understanding-the-stream-not-available-error-in-kodi-and-how-to-fix-it/"><u>Why Can't I Play: Understanding the 'Stream Not Available' Error in Kodi & How to Fix It</u></a></li>
-<li><a href="https://win-answers.techidaily.com/wrc-10-for-personal-computers-troubleshooting-tips-to-ensure-seamless-gaming-sessions/"><u>WRC 10 for Personal Computers: Troubleshooting Tips to Ensure Seamless Gaming Sessions</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-a-comprehensive-guide-to-softening-images-with-iphone-software-for-2024/"><u>[New] A Comprehensive Guide to Softening Images with iPhone Software for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-become-a-color-connoisseur-in-digital-photography/"><u>[New] Become a Color Connoisseur in Digital Photography</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-chime-chronicles-compilation-of-top-ringtone-sources/"><u>2024 Approved Chime Chronicles Compilation of Top Ringtone Sources</u></a></li>
+<li><a href="https://win-answers.techidaily.com/conquering-league-of-legends-visual-glitch-the-ultimate-guide/"><u>Conquering League of Legends Visual Glitch: The Ultimate Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cyberpunk-2077-update-addresses-player-input-lags-for-smoother-gameplay/"><u>Cyberpunk 2077 Update Addresses Player Input Lags for Smoother Gameplay</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-compatibility-problems-between-your-astro-a50-and-command-center-interface/"><u>Fixing Compatibility Problems Between Your Astro A50 and Command Center Interface</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-oneplus-nord-ce-3-5g-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On OnePlus Nord CE 3 5G?</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-stuttering-and-boost-fps-in-valorant/"><u>How to Fix Stuttering and Boost FPS in Valorant</u></a></li>
+<li><a href="https://win-answers.techidaily.com/outriders-troubleshooting-guide-resolving-the-unreal-engine-4-process-crash-error/"><u>Outriders Troubleshooting Guide: Resolving the Unreal Engine 4 'Process Crash' Error</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-for-silent-screens-bring-the-audio-alive-to-roblox-on-your-win11win10-pcs/"><u>Solution for Silent Screens: Bring the Audio Alive to Roblox on Your Win11/Win10 PCs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-stuck-or-non-responsive-minecraft-crashes-pc-edition-tips-and-tricks/"><u>Solving Stuck or Non-Responsive Minecraft Crashes: PC Edition Tips & Tricks</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-motorola-moto-g24-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Motorola Moto G24 Phone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208382726-troubled-by-error-0x80pressure0426-in-windows-11-heres-how-you-can-correct-it/"><u>Troubled by Error 0X80pressure0426 in Windows 11? Here’s How You Can Correct It!</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/unveiling-the-best-tablet-choices-beyond-popular-filmora-for-2024/"><u>Unveiling the Best Tablet Choices Beyond Popular Filmora for 2024</u></a></li>
 </ul></div>
 

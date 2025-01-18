@@ -1,7 +1,7 @@
 ---
 title: Trouble with Black Screens in Far Cry 6? Here's How to Fix It!
-date: 2024-08-13T12:10:08.718Z
-updated: 2024-08-14T12:10:08.718Z
+date: 2025-01-14T23:12:50.455Z
+updated: 2025-01-17T21:08:52.269Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/50f9fb85f30d6bdf30041380f63b78a3de31a8743
 
 **[Hitman 3](https://www.epicgames.com/store/en-US/p/hitman-3?epic%5Fcreator%5Fid=28725b529b5346a38a080b6a920aa97a&epic%5Fgame%5Fid=ed55aa5edc5941de92fd7f64de415793)**  has been out! But for some players, it only shows a black screen when loading. This is frustrating since it doesn’t allow you to even go past its opening scene. But the good news is, it’s fixable.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You may not need to try them all; simply work your way down the list until you find the one that works.
@@ -27,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/50f9fb85f30d6bdf30041380f63b78a3de31a8743
 4. **[Verify integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Try a different display mode](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Disable unnecessary programs](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 1: Check that your PC is capable
 
@@ -62,9 +70,6 @@ To play Hitman 3, you need a PC with the following minimum specs:
 
 **windows firewall** and click **Windows Defender Firewall**  from the results.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Windows Defender Firewall](https://images.drivereasy.com/wp-content/uploads/2020/11/windows-firewall-1.jpg)
 
  2) From the left panel, click **Allow an app or feature through Windows Defender Firewall** .
@@ -77,10 +82,11 @@ To play Hitman 3, you need a PC with the following minimum specs:
 
  4) Click**Change settings > Allow another app…** .  
   
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![allow HITMAN 3 through Windows Firewall](https://images.drivereasy.com/wp-content/uploads/2021/01/allow-HITMAN-3-through-windows-firewall.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then browse for HITMAN 3 and follow the instructions to allow your game through the firewall.
 
@@ -88,18 +94,12 @@ To play Hitman 3, you need a PC with the following minimum specs:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 3: Update your graphics driver
 
  Your device drivers, the graphics driver in particular, are important components that greatly impact your computer’s performance. When a program merely shows you a black screen, it could be a driver issue. It means you’re using outdated or faulty graphics driver. If you can’t remember when was the last time you updated your drivers, definitely do it right now as it may help you fix the issue without hassles.
 
  There are mainly two ways you can update your graphics driver: [manually](https://tools.techidaily.com/drivereasy/download/) and [automatically](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Option 1: Manually update your graphics driver
 
  To update your graphics driver manually, you can go to the official website:
@@ -108,6 +108,10 @@ To play Hitman 3, you need a PC with the following minimum specs:
 [AMD](https://www.amd.com/en/support)
 
  Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 2: Automatically update your graphics driver (recommended)
 
@@ -124,9 +128,6 @@ Here’s how to update drivers with Driver Easy:
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -157,21 +158,27 @@ Here’s how:
 
  1) When you click on the game to start up, you should be presented with an option screen showing exactly what you can do before the actual game boots up. Simply click on the**OPTIONS** button.  
   
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ![try a different display mode](https://images.drivereasy.com/wp-content/uploads/2021/01/full-screen-mode-options.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) In the**Display Mode** section, select a different display mode to test which one helps you fix the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![try a different display mode in HITMAN 3](https://images.drivereasy.com/wp-content/uploads/2021/01/try-a-different-display-mode.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you’ve tried the other display modes but the game still just shows you a black screen, try the next fix below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 6: Disable unnecessary programs
 
@@ -183,9 +190,6 @@ Here’s how to disable programs in Task Manager:
 
  1) Right-click on the taskbar. Then select **Task Manager** from the list of options.  
   
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-manager-from-the-taskbar-1.jpg)
 
  2) In the **Processes** tab, check the programs that are using more CPU from the list. Then right-click on those programs and select **End task** .  
@@ -194,9 +198,6 @@ Here’s how to disable programs in Task Manager:
 
  3) In the **Startup**  tab, you can additionally prevent some programs from starting up on system boot. This will lower your overall cpu usage when using your PC.  
   
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![stop-programs-running-at-startup](https://images.drivereasy.com/wp-content/uploads/2020/10/stop-programs-running-at-startup-1.jpg)
 
  After you’ve done these, try to launch Hitman 3 and you should be able to load into the game.
@@ -213,8 +214,6 @@ Here’s how to disable programs in Task Manager:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -222,4 +221,24 @@ Here’s how to disable programs in Task Manager:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-formulating-flashy-podcast-announcements-for-2024/"><u>[New] Formulating Flashy Podcast Announcements for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-is-minimizing-unstable-movement-in-photoshop-beneficial/"><u>[New] Is Minimizing Unstable Movement in Photoshop Beneficial?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-the-influential-edge-mastering-sponsorship-and-promotion-on-social-media/"><u>[Updated] In 2024, The Influential Edge Mastering Sponsorship and Promotion on Social Media</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/2024-approved-vocal-variations-a-curated-list-of-the-best-15-youtube-vocals-tutorials/"><u>2024 Approved Vocal Variations A Curated List of the Best 15 YouTube Vocals Tutorials</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/achieve-superior-organization-of-chatgpt-interactions-through-strategic-use-of-folders/"><u>Achieve Superior Organization of ChatGPT Interactions Through Strategic Use of Folders</u></a></li>
+<li><a href="https://win-answers.techidaily.com/chrome-freeze-no-more-easy-fixes-for-stability-on-your-windows-10-pc/"><u>Chrome Freeze No More: Easy Fixes for Stability on Your Windows 10 PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cyberpunk-2077-performance-boost-tips-to-stop-game-crashes-and-freezes/"><u>Cyberpunk 2077 Performance Boost Tips to Stop Game Crashes & Freezes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-error-reconnect-with-destiny-2-servers-successfully/"><u>Fixing the Error: Reconnect with Destiny 2 Servers Successfully</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/graphics-legacy-radeon-reloaded-for-2024/"><u>Graphics Legacy Radeon Reloaded for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-activation-lock-and-icloud-account-from-iphone-se-2022-by-drfone-ios/"><u>In 2024, How to Unlock iCloud Activation Lock and iCloud Account From iPhone SE (2022)?</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-internal-error-issues-with-video-scheduler-on-windows-11-guide/"><u>Resolving Internal Error Issues with Video Scheduler on Windows 11 [Guide]</u></a></li>
+<li><a href="https://win-answers.techidaily.com/scavengers-pc-crash-problems-now-fixed-learn-why-and-how/"><u>Scavengers PC Crash Problems - Now Fixed! Learn Why and How</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-fixes-for-mw2-dev-error-6068-enhancing-your-gaming-experience/"><u>Step-by-Step Fixes for MW2 Dev Error 6068: Enhancing Your Gaming Experience</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-activate-windows-11-family-safeguards/"><u>Steps to Activate Windows 11 Family Safeguards</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-dolby-atmos-for-optimal-sound-experience-on-windows-systems/"><u>Troubleshooting Dolby Atmos for Optimal Sound Experience on Windows Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-resolving-dota-2-game-crash-issues/"><u>Troubleshooting Guide: Resolving Dota 2 Game Crash Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unveiling-steps-for-hyper-v-activation-and-deployment-on-new-windows-11-os/"><u>Unveiling Steps for Hyper-V Activation and Deployment on New Windows 11 OS</u></a></li>
+</ul></div>
 

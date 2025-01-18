@@ -1,7 +1,7 @@
 ---
 title: "Solving the Dilemma: Top 7 Simple Solutions to Unfreeze Halo Infinite on Your Computer"
-date: 2024-08-13T12:09:08.696Z
-updated: 2024-08-14T12:09:08.696Z
+date: 2025-01-14T01:25:28.263Z
+updated: 2025-01-17T16:04:53.177Z
 tags:
   - win11
   - win10
@@ -18,8 +18,9 @@ thumbnail: https://thmb.techidaily.com/560da63c54300a3a876ba2cfdab00c7431c7174d8
 Steam runs frustratingly slow on your PC? You’re not alone! Many Steam users are reporting it. But the good news is that you can fix it. Here are 6 solutions to try.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
  You may not have to try them all. Just work your way down the list until you find the one that works for you.
@@ -30,6 +31,10 @@ Steam runs frustratingly slow on your PC? You’re not alone! Many Steam users a
 4. **[Disable auto proxy settings](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Repair the Steam service](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reinstall Steam](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Turn off unwanted programs
 
@@ -42,10 +47,11 @@ Steam runs frustratingly slow on your PC? You’re not alone! Many Steam users a
 
 **1)** Right-click your taskbar and select**Start Task Manager** .
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-763.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)** Click the**Processes** tab. Then, check your current**CPU and memory usage** to see what processes are consuming your resources most.
 
@@ -57,15 +63,16 @@ Steam runs frustratingly slow on your PC? You’re not alone! Many Steam users a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-809.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After you turn off unnecessary processes on your computer, restart Steam to see if it runs faster. If this doesn’t help, try[](https://tools.techidaily.com/drivereasy/download/) **[Fix 2](https://tools.techidaily.com/drivereasy/download/)**  to clear Steam cache and cookies.
 
 #### Turn off unwanted programs on Windows 8 or 10
 
 **1)** Right-click your taskbar and select**Task Manager** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-762.png)
 
 **2)** Check your current**CPU and memory usage** to see what processes are consuming your resources most.
@@ -76,10 +83,11 @@ Steam runs frustratingly slow on your PC? You’re not alone! Many Steam users a
 
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-810.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Try running Steam to see if it can work faster now. If Steam still works slow, there are 5 more fixes you can try.
 
@@ -95,20 +103,22 @@ Steam runs frustratingly slow on your PC? You’re not alone! Many Steam users a
 
 **2)** Click**Steam** , and then select**Settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-788.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Select**Web Browser** and click**DELETE WEB BROWSER CACHE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-787.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Click**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-786.png)
 
 **5)** Click**DELETE ALL BROWSER COOKIES** .
@@ -125,9 +135,6 @@ Steam runs frustratingly slow on your PC? You’re not alone! Many Steam users a
 
 **8)** Click**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-780.png)
 
 **9)** **Restart** Steam.
@@ -154,6 +161,10 @@ Steam runs frustratingly slow on your PC? You’re not alone! Many Steam users a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-17_12-12-06-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -171,17 +182,15 @@ If your problem persists, then move on and try the fix below.
 
 **1)** On your keyboard, press the**Windows logo** key and type**internet options** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-806.png)
 
 **2)** Click**Internet Options** .
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-807.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Click the**Connections tab** , and then click**LAN settings** .
 
@@ -189,9 +198,6 @@ If your problem persists, then move on and try the fix below.
 
 **4)** Uncheck**Automatically detect settings** and click**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-776.png)
 
  If you lose your network connections after you change your proxy settings, return to the LAN Settings window to re-enable the automatic detection setting.
@@ -201,8 +207,9 @@ If your problem persists, then move on and try the fix below.
 If this didn’t resolve your problem, move on and try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Repair the Steam service
 
  Corrupt or missing Steam files may also Steam performance issues. To fix it, you’ll need to verify Steam files. Here is how:
@@ -215,9 +222,6 @@ If this didn’t resolve your problem, move on and try the next fix.
 
 **3)** You’ll see a window appears. (It may take a few minutes to repair Steam service, please wait for the process to be complete. Don’t close the window.)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-01_17-44-26.jpg)
 
 **4)** Restart Steam to test your issue.
@@ -230,50 +234,22 @@ If your issue continues to occur, then move on to the next fix below.
 
 **1)** Right-click the Steam icon and select**Open file location** .
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-766.png)
 
 **2)** Right-click the**steamapps** folder and select**Copy** . Then, place the copy in another location to back up it.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-768-1024x724.png)
 
 **3)** On your keyboard, press the**Windows logo** key and type**control** . Then, click**Control Panel** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-774.png)
 
 **4)** Under**View b** y, select**Category** .
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-773.png)
 
 **5)** Select**Uninstall a program** .
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-772.png)
 
 **6)** Right-click**Steam** , and then click**Uninstall** .
@@ -288,9 +264,6 @@ No advertising on the website.
 
 **9)** Right-click**the Steam icon** and select**Open file location** .
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-766.png)
 
 **10)** Move the backup**steamapps** folder you create before to your current directory location. Then, restart Steam.
@@ -310,8 +283,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -319,4 +290,21 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tech-hub.techidaily.com/ultimate-tutorial-on-capturing-epic-moments-in-valorant-step-by-step/"><u>「Ultimate Tutorial on Capturing Epic Moments in Valorant - Step by Step!」</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/acer-aspire-e-n-analysis-exceptional-performance-at-wallet-friendly-prices/"><u>Acer Aspire E N Analysis - Exceptional Performance at Wallet-Friendly Prices</u></a></li>
+<li><a href="https://win-answers.techidaily.com/diablo-immortal-pc-release-delayed-uncover-the-reasons-behind-the-postponement/"><u>Diablo Immortal PC Release Delayed: Uncover the Reasons Behind The Postponement</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-solutions-to-prevent-the-frequent-collapsing-of-sovled-warno-game-on-personal-computers/"><u>Effective Solutions to Prevent the Frequent Collapsing of SOVLED Warno Game on Personal Computers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/evaluating-the-effectiveness-of-microsoft-copilot-ai-in-personalized-workout-programs-more-than-just-a-tech-experiment/"><u>Evaluating the Effectiveness of Microsoft Copilot AI in Personalized Workout Programs: More Than Just a Tech Experiment</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/iphone-photography-tips-using-built-in-timer-functions-for-improved-results/"><u>IPhone Photography Tips: Using Built-In Timer Functions for Improved Results</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-the-art-of-unsticking-your-qbittorent-expert-guidance-for-smooth-torrents/"><u>Master the Art of Unsticking Your qBittorent: Expert Guidance for Smooth Torrents</u></a></li>
+<li><a href="https://solve-help.techidaily.com/mastering-audio-file-formats-seamlessly-switch-from-flac-to-alac-on-any-device-or-via-web-based-tools/"><u>Mastering Audio File Formats: Seamlessly Switch From FLAC to ALAC on Any Device or via Web-Based Tools</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-error-code-repairs-the-minecraft-crossbow-dilemma/"><u>Mastering Error Code Repairs: The Minecraft Crossbow Dilemma</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-phasmophobia-performance-reducing-high-cpu-consumption-tips/"><u>Mastering Phasmophobia Performance: Reducing High CPU Consumption Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-interruptions-tips-and-tricks-to-fix-the-assassins-creed-valhalla-crashing-problem-on-pc/"><u>No More Interruptions: Tips and Tricks to Fix the Assassin's Creed Valhalla Crashing Problem on PC</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-6-applicazioni-di-intelligenza-artificiale-per-scalare-i-video/"><u>Top 6 Applicazioni Di Intelligenza Artificiale per Scalare I Video</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-why-isnt-the-mass-effect-legendary-edition-starting-up/"><u>Troubleshooting: Why Isn't the Mass Effect Legendary Edition Starting Up?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unmatched-sound-experience-discovering-the-top-non-bose-non-polk-speakers-zdnet-insights/"><u>Unmatched Sound Experience: Discovering the Top Non-Bose, Non-Polk Speakers | ZDNet Insights</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Get Back Into the Action: Essential Fixes for Starting Fallout 3"
-date: 2025-01-07T18:06:59.698Z
-updated: 2025-01-12T19:56:38.125Z
+date: 2025-01-10T17:12:03.287Z
+updated: 2025-01-18T10:24:31.854Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/c097d4cbd7f38690c40368b7c00be742b01b3a584
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes…
 
@@ -53,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/c097d4cbd7f38690c40368b7c00be742b01b3a584
 If rebooting your PC doesn’t solve your problem, try the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 2: Check your browser
@@ -63,10 +59,6 @@ If rebooting your PC doesn’t solve your problem, try the next fix.
  In addition,**check if your browser is up-to-date** . If not, update it then test the issue. Some players are also able to launch Roblox after they**clear the browser’s cache** , so it’s definitely worth trying.
 
  If your browser doesn’t seem to be the reason for Roblox not working, move on to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 3: Reset your Internet options
 
@@ -85,13 +77,17 @@ If rebooting your PC doesn’t solve your problem, try the next fix.
 4. Check the option of**Delete personal settings** , then click**Reset** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/delete-personal-settings.png)
 5. Restart your PC to let the changes take effect.
 
  Now you can continue to use the browser of your choice and test the issue. If this doesn’t solve your problem, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Check your proxy settings
 
@@ -111,7 +107,15 @@ If rebooting your PC doesn’t solve your problem, try the next fix.
 
 ![Windows 11 configure proxy settings](https://images.drivereasy.com/wp-content/uploads/2021/06/win11-proxy-off.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If this fix doesn’t help, there’s one more fix you can try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Reinstall Roblox desktop app
 
@@ -125,12 +129,12 @@ If this fix doesn’t help, there’s one more fix you can try.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_17-53-31.jpg)
 4. Switch to**View by: Small icons** , then click**Programs & Features** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/programs-and-features.png)
 5. Find Roblox, right-click it then click**Uninstall** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### **To remove the Roblox folder:**
 
@@ -161,10 +165,6 @@ If this fix doesn’t help, there’s one more fix you can try.
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) For example, I want to update my graphics and network adapter driver here. Click the **Update**  button next to the flagged drivers to automatically download the correct version of them. Then you can manually install them (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg) **The Pro version of Driver Easy** comes with full technical support.  
@@ -192,20 +192,22 @@ If this fix doesn’t help, there’s one more fix you can try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-cyberspace-screenplays-virtual-movie-journeys/"><u>[New] Cyberspace Screenplays Virtual Movie Journeys</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-economic-guide-to-capturing-virtual-learning-spaces/"><u>[New] Economic Guide to Capturing Virtual Learning Spaces</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-best-performing-8-recording-software-picks/"><u>[Updated] Best Performing 8 Recording Software Picks</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-integrating-apple-tunes-with-visual-media-for-2024/"><u>[Updated] Integrating Apple Tunes with Visual Media for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/addressing-civilization-xvi-launch-issues-under-windows-11-steps-for-a-smooth-start/"><u>Addressing Civilization XVI Launch Issues Under Windows 11 - Steps for a Smooth Start</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-advice-on-correcting-problems-with-your-msi-dragon-center-performance/"><u>Expert Advice on Correcting Problems with Your MSI Dragon Center Performance</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-unable-to-access-live-config-servers-error-message/"><u>How to Fix Unable to Access Live Config Servers Error Message</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-asus-rog-phone-8-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Asus ROG Phone 8 Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723013808662-key-factors-influencing-performance-including-target-pollutant-properties-droplet-size-distribution-contact-time-solubility-and-scrubber-design/"><u>Key Factors Influencing Performance, Including Target Pollutant Properties, Droplet Size Distribution, Contact Time, Solubility, and Scrubber Design.</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-steam-vr-recognition-top-6-effective-methods-explored/"><u>Resolving Steam VR Recognition: Top 6 Effective Methods Explored</u></a></li>
-<li><a href="https://win-answers.techidaily.com/sifu-fps-performance-optimized-no-more-lag-or-stutters-on-windows-machines/"><u>Sifu FPS Performance Optimized - No More Lag or Stutters on Windows Machines</u></a></li>
-<li><a href="https://win-dash.techidaily.com/solve-your-3d-vision-issues-with-these-free-nvidia-drivers-for-windows-systems/"><u>Solve Your 3D Vision Issues with These Free Nvidia Drivers for Windows Systems</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-best-of-the-best-top-5-free-video-compression-apps-for-iphone-and-ipad-users/"><u>Updated 2024 Approved Best of the Best Top 5 Free Video Compression Apps for iPhone and iPad Users</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-unleash-your-creativity-12-top-rated-online-animation-tools/"><u>Updated Unleash Your Creativity 12 Top-Rated Online Animation Tools</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-which-video-editor-should-you-choose-sony-vegas-vs-adobe-premiere-pro-for-2024/"><u>Updated Which Video Editor Should You Choose? Sony Vegas vs Adobe Premiere Pro for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-step-by-step-guide-to-editing-and-optimizing-instagram-footage/"><u>[Updated] In 2024, Step-by-Step Guide to Editing and Optimizing Instagram Footage</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/addressing-disconnected-logitech-hub-on-win1011/"><u>Addressing Disconnected Logitech Hub on Win10/11</u></a></li>
+<li><a href="https://fox-where.techidaily.com/apowersoft-introduces-enhanced-screencapture-pro-version-11/"><u>Apowersoft Introduces Enhanced ScreenCapture Pro Version 1.1</u></a></li>
+<li><a href="https://win-answers.techidaily.com/black-ops-cold-war-troubleshooting-guide-solving-error-0xc0000005/"><u>Black Ops Cold War Troubleshooting Guide - Solving Error 0Xc0000005</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhancing-fluidity-in-age-of-empires-iv-tips-to-stop-game-stutters/"><u>Enhancing Fluidity in Age of Empires IV: Tips to Stop Game Stutters</u></a></li>
+<li><a href="https://win-answers.techidaily.com/explore-the-depth-of-detroid-consciousness-the-ultimate-guide-to-fluid-gaming-performance-on-pc/"><u>Explore the Depth of Detroid Consciousness – The Ultimate Guide to Fluid Gaming Performance on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-an-unresponsive-oculus-link-screen-6-rapid-remedies/"><u>Fixing an Unresponsive Oculus Link Screen - 6 Rapid Remedies</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723010013535-house-flipper-2-stability-issues-heres-how-to-ensure-smooth-running-on-windows-systems/"><u>House Flipper 2 Stability Issues? Here's How to Ensure Smooth Running on Windows Systems!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-p55-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on P55 5G</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Watch Hulu Outside US On Apple iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/innovative-tech-unveiled-a-comprehensive-guide-to-the-iphone-12/"><u>Innovative Tech Unveiled: A Comprehensive Guide to the iPhone 12</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-warzone-stuttering-on-pc-pro-tips-and-tricks/"><u>Overcome Warzone Stuttering on PC - Pro Tips & Tricks</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/the-steps-youtube-takes-once-a-video-is-submitted-for-viewing/"><u>The Steps YouTube Takes Once a Video Is Submitted for Viewing</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/trouble-with-iphone-14-pro-max-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>Trouble with iPhone 14 Pro Max Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-pc-problems-resolving-valheims-intermittent-lag-and-hitches/"><u>Troubleshooting PC Problems: Resolving Valheim's Intermittent Lag and Hitches</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-resolving-csgo-startup-issues/"><u>Troubleshooting Steps for Resolving CS:GO Startup Issues</u></a></li>
 </ul></div>
 

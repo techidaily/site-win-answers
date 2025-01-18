@@ -1,7 +1,7 @@
 ---
 title: How to Fix Decreased FPS in Dota 2 on Win11 & Win10 Machines
-date: 2024-08-13T12:08:48.239Z
-updated: 2024-08-14T12:08:48.239Z
+date: 2025-01-16T19:06:14.250Z
+updated: 2025-01-18T04:15:32.105Z
 tags:
   - win11
   - win10
@@ -15,16 +15,10 @@ thumbnail: https://thmb.techidaily.com/069b298bfedee9c280f30a09eb725e41e8884f90f
 
 ## DaVinci Resolve Won't Boot on Your Window Machine? Here's How to Fix It
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![resolve not openning](https://images.drivereasy.com/wp-content/uploads/2021/11/resolve.jpg)
 
  Looking for a solution to the**DaVinci Resolve won’t open** problem? No matter if your Resolve is not responding at all or gets stuck at the loading screen, you can try the following methods to fix the problem immediately.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
 1. **[End the Resolve process](https://tools.techidaily.com/drivereasy/download/)**
@@ -36,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/069b298bfedee9c280f30a09eb725e41e8884f90f
 7. **[Uninstall your antivirus software](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Allow TCP Network Port Access](https://tools.techidaily.com/drivereasy/download/)**
 9. **[Reinstall DaVinci Resolve](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1\. End the Resolve process
 
@@ -62,22 +60,21 @@ No luck? Don’t worry. We have a few more fixes for you.
  Still can’t launch your Resolve? It might be caused by some incompatibility issues, which can be solved by running Resolve in compatibility mode.
 
 1. Right-click on the Resolve shortcut or the executable file in the installation folder, and select**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/resolve-properties.jpg)
 2. Go to the**Compatibility** tab, and check the**Run this program in compatibility for** Windows 8 or Windows 7.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/resolve-compatibibility.jpg)
 3. Click**Apply** \>**OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now you can run Resolve to test the issue. If DaVinci Resolve is still not responding, you can head on to the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4\. Update the graphics driver
 
  Editing videos with this DaVinci Resolve is very GPU-extensive, so it is mandatory to keep the GPU drivers updated (and sometimes your audio drivers, too).
@@ -90,15 +87,16 @@ No luck? Don’t worry. We have a few more fixes for you.
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![scan drivers](https://images.drivereasy.com/wp-content/uploads/2021/10/scan-now-5.7.0.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![update all drivers](https://images.drivereasy.com/wp-content/uploads/2021/10/update-all.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, restart your PC and launch your Resolve to check if the issue has been resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5\. Increase the Virtual Memory
 
@@ -107,11 +105,13 @@ No luck? Don’t worry. We have a few more fixes for you.
 1. On your keyboard, press the**Windows** logo key +**R** key at the same time, and enter**sysdm.cpl** to open system settings.  
 ![command line](https://images.drivereasy.com/wp-content/uploads/2021/11/system-run-commands.jpg)
 2. Go to the**Advanced** tab and select**Settings** under**Performance** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![view the advanced settings](https://images.drivereasy.com/wp-content/uploads/2021/11/advanced.jpg)
 3. Once the Performance Options window is open, go to the**Advanced** tab and select**Change** .  
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![adjust virtual memory size](https://images.drivereasy.com/wp-content/uploads/2021/11/property-options.jpg)
 4. Uncheck the**Automatically manage paging file size for all drives** . Then select**Custom size** , and enter the value accordingly.  
 ![installed ram](https://images.drivereasy.com/wp-content/uploads/2021/11/installed-ram.jpg)  
@@ -119,6 +119,10 @@ No luck? Don’t worry. We have a few more fixes for you.
 5. Click **OK**  to confirm the change.
 
  Restart your computer for the changes to take effect, and try opening your DaVinci Resolve to check if it launches successfully.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6\. Enable IGPU Multi-Monitor in BIOS
 
@@ -140,9 +144,6 @@ No luck? Don’t worry. We have a few more fixes for you.
 3. Switch this feature from**Disabled** to**Enabled** .
 4. Save and exit the BIOS.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 7\. Uninstall your antivirus software
 
  Antivirus software is known to interfere with many programs, and if you’re experiencing issues with Resolve after installing third-party antivirus software, you might need to uninstall them because disabling them is not enough to prevent them from running in the background.
@@ -151,9 +152,6 @@ No luck? Don’t worry. We have a few more fixes for you.
 
  If DaVinci Resolve won’t launch after removing your antivirus software and disabling your VPN, you can try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ### Fix 8\. Allow TCP Network Port Access
 
  Another reason why your DaVinci Resolve is not responding is that it lacks access to your TCP ports, which is necessary for your DaVinci Resolve to launch successfully.
@@ -163,15 +161,17 @@ Here’s how to troubleshoot this issue quickly:
 1. On your keyboard, press the Windows + R key at the same time, and enter**powershell** .  
 ![open powershell](https://images.drivereasy.com/wp-content/uploads/2021/11/image-1.jpg)
 2. Enter the following command line:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  _**Get-NetTCPConnection | Where-Object { $\_.State -eq “Listen” -and $\_.LocalPort -eq 1144 } | ForEach-Object { (get-process -id $\_.OwningProcess).Description }**_
 3. If nothing pops up in the next entry, there’s nothing wrong with your TCP network. But if it does, you might need to contact the**Blackmagic Design** support team with your log file.  
    * Navigate to**C:\\Program Files\\Blackmagic Design\\DaVinci Resolve** .  
    * Double click on the**CaptureLogs.bat** file (or right-click and then run as administrator).  
    * It will generate a **log file**  to your desktop –**DaVinci-Resolve-logs-<current time>.zip** .
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 9\. Reinstall DaVinci Resolve
 
  If none of the fixes above solved your Resolve not opening issue, you can clean reinstall your program and delete all files ( **C:\\Program Files\\Blackmagic Design\\DaVinci Resolve** ) left behind.
@@ -190,8 +190,6 @@ Here’s how to troubleshoot this issue quickly:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -199,4 +197,23 @@ Here’s how to troubleshoot this issue quickly:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-answers.techidaily.com/solved-devil-may-cry-5-crash-quickly-and-easily/"><u>[Solved] Devil May Cry 5 Crash | Quickly & Easily</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-the-art-of-transferring-tunes-between-platforms/"><u>2024 Approved The Art of Transferring Tunes Between Platforms</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/eye-popping-360-cameras-deciding-the-best/"><u>Eye-Popping 360 Cameras Deciding the Best</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722995393949-forza-horizon-npc-gameplay-stability-improvement-fps-enhancements/"><u>Forza Horizon nPC Gameplay Stability Improvement - FPS Enhancements!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/gaming-uninterrupted-effective-solutions-for-street-fighter-vi-crashing-issues-on-pc/"><u>Gaming Uninterrupted: Effective Solutions for Street Fighter VI Crashing Issues on PC</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Samsung Galaxy S24+ | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-level-solutions-preventing-deathloop-game-crashes-on-playstation-5-and-computer/"><u>Master Level Solutions: Preventing Deathloop Game Crashes on PlayStation 5 & Computer</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-erratic-movement-of-windows-mouse/"><u>Overcoming Erratic Movement of Windows Mouse</u></a></li>
+<li><a href="https://techtrends.techidaily.com/remedies-for-broken-gmail-synchronization/"><u>Remedies for Broken Gmail Synchronization</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-cyberpunk-2077s-issues-with-lags-and-frame-drops/"><u>Resolved: Cyberpunk 2077'S Issues with Lags & Frame Drops</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722960314137-seamless-update-and-download-for-amd-radeon-rx-470-drivers-improve-your-gaming-experience-now/"><u>Seamless Update & Download for AMD Radeon RX 470 Drivers: Improve Your Gaming Experience Now!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-fixing-xcom-2-game-crashes-on-pc-with-windows-os/"><u>Troubleshooting Guide: Fixing XCOM 2 Game Crashes on PC with Windows OS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-steps-when-your-final-usb-device-fails-and-is-ignored-by-windows/"><u>Troubleshooting Steps When Your Final USB Device Fails & Is Ignored by Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-fixes-for-persistent-dark-screens-in-zoom-video-calls-pc-edition/"><u>Ultimate Fixes for Persistent Dark Screens in Zoom Video Calls (PC Edition) –</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-all-keyboard-shortcuts-for-highlighting-and-deleting-text-in-microsoft-office-google-docs-and-gmail/"><u>Ultimate Guide: All Keyboard Shortcuts for Highlighting and Deleting Text in Microsoft Office, Google Docs, and Gmail</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-best-background-music-remover-to-help-you-remove-background-music/"><u>Updated Best Background Music Remover to Help You Remove Background Music</u></a></li>
+</ul></div>
 

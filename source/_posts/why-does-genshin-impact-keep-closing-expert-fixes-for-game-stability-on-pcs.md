@@ -1,7 +1,7 @@
 ---
 title: Why Does Genshin Impact Keep Closing? Expert Fixes for Game Stability on PCs
-date: 2025-01-07T16:16:40.267Z
-updated: 2025-01-12T19:11:06.205Z
+date: 2025-01-17T07:34:30.102Z
+updated: 2025-01-18T04:18:27.833Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ The Outriders is finally out! However, many players encountered Outriders crashi
 4. **[Enforce DX12](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Verify the integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1 – Run Outriders as an administrator
 
  When Outriders fails to obtain the necessary permissions to function properly, it will crash. In this case, you should run the game in the administrator mode. This method also works for the_Outriders-win64-shipping.exe system error_ that many players reported.
@@ -45,20 +49,16 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/fix-1.jpg)
 3. Right-click the**OUTRIDERS-Win64-Shipping.exe file** and select**Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
 4. Navigate to the**Compatibility** tab. Then tick**Run this program as an administrator** and click**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-outriders.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Launch the OUTRIDERS-Win64-Shipping.exe file directly. If you’re asked to install components to run this program, follow the on-screen instructions to download the required files. Then see how Outriders works. If the crashes remain, the problem may be driver-related, and you can try the second method below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2 – Update your graphics driver
 
@@ -83,17 +83,13 @@ There are mainly two ways you can update the graphics driver:
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro versio](https://tools.techidaily.com/drivereasy/download/) [n](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After the process finishes, restart your computer. If all the drivers are up-to-date but the gameplay is still buggy, try the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3 – Adjust the in-game settings
@@ -104,10 +100,6 @@ There are mainly two ways you can update the graphics driver:
 2. Select**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/in-game-settings-1.jpg)
 3. Under the**Display** tab, set the parameters as follows:  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Windows Mode** :_Borderless_ or_Windowed_  
 **VSync** :_Off_  
@@ -124,6 +116,10 @@ There are mainly two ways you can update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/steam.jpg)
 2. Right-click**Outriders** in the left pane and select**Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-1.jpg)
 3. Under**Launch Option** , type**\-force-dx12** in the text field.  
 
@@ -131,12 +127,16 @@ There are mainly two ways you can update the graphics driver:
 4. Close the window and launch Outriders.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Please note that DX12 is not fully supported in Outriders, which means it might cause other compatibility issues like stuttering.
 
 Still no luck with DX12? Then check out the next method below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5 – Verify the integrity of game files
 
@@ -149,11 +149,11 @@ Still no luck with DX12? Then check out the next method below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-1.jpg)
 3. Select**Local Files** from the left pane and click**Verify Integrity of game files** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/steam-verify-game-files.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Once done, start Outriders and test the game.
 
@@ -180,21 +180,22 @@ Once done, start Outriders and test the game.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-seamless-backdrop-switches-for-google-meet-users/"><u>[New] 2024 Approved Seamless Backdrop Switches for Google Meet Users</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-the-editors-roadmap-to-perfection-in-fcp/"><u>[New] 2024 Approved The Editor's Roadmap to Perfection in FCP</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-mastering-the-art-of-autoplay-videos/"><u>[New] Mastering the Art of Autoplay Videos</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-solutions-resolving-the-issue-of-resident-evil-4-remake-game-crashes/"><u>Effective Solutions: Resolving the Issue of Resident Evil 4 Remake Game Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effortless-fixes-resolve-your-lol-crashes-in-no-time/"><u>Effortless Fixes: Resolve Your LoL Crashes in No Time</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixes-and-solutions-resolving-hell-let-loose-pc-stability-issues/"><u>Fixes and Solutions: Resolving Hell Let Loose PC Stability Issues</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-palworld-keeps-crashing-on-pc/"><u>How to Fix Palworld Keeps Crashing on PC</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-cutting-edge-photo-editing-the-top-10-apps-with-sweet-stickers/"><u>In 2024, Cutting-Edge Photo Editing The Top 10 Apps with Sweet Stickers</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-optimize-youtube-submission-swift-rendering-and-uploading-methods/"><u>In 2024, Optimize YouTube Submission - Swift Rendering and Uploading Methods</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-realme-11-proplus-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Realme 11 Pro+ Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://common-error.techidaily.com/master-the-tech-efficiently-restore-touch-functionality-in-windows-10-with-five-proven-strategies/"><u>Master the Tech: Efficiently Restore Touch Functionality in Windows 10 with Five Proven Strategies</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-the-issue-stop-devolver-digitals-deathloop-from-crashing-on-pc-and-ps5/"><u>Solving the Issue: Stop Devolver Digital's Deathloop From Crashing on PC and PS5</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshoot-video-issues-on-firefox-ultimate-fix-guide/"><u>Troubleshoot Video Issues on Firefox – Ultimate Fix Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722998562436-troubleshooting-top-tech-problems-in-hearts-of-iron-4-solutions-revealed/"><u>Troubleshooting Top Tech Problems in Hearts of Iron 4 - Solutions Revealed!</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/twitter-videos-shared-directly-from-phones-for-2024/"><u>Twitter Videos Shared Directly From Phones for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-creativity-with-chatgpt-the-authors-guide-to-writing-a-best-seller-novel-featuring-9-essential-tips/"><u>Unlocking Creativity with ChatGPT: The Author's Guide to Writing a Best-Seller Novel, Featuring 9 Essential Tips</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-streamlined-technique-for-embedding-linktree-on-tiktok/"><u>[New] In 2024, Streamlined Technique for Embedding Linktree on TikTok</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/aximize-online-revenue-monetizing-on-youtube-with-500plus-viewers/"><u>[New] Maximize Online Revenue Monetizing on Youtube with 500+ Viewers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-streamlined-techniques-for-accumulating-large-tiktok-datasets/"><u>[New] Streamlined Techniques for Accumulating Large TikTok Datasets</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-counter-flow-strategy-reversing-your-youtube-video-sequence/"><u>[New] The Counter-Flow Strategy Reversing Your YouTube Video Sequence</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-the-artistic-journey-animating-scenes-with-windows-movie-maker/"><u>[Updated] 2024 Approved The Artistic Journey Animating Scenes with Windows Movie Maker</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-top-10-emulator-selections-for-mobile-gba-players/"><u>[Updated] 2024 Approved Top 10 Emulator Selections for Mobile GBA Players</u></a></li>
+<li><a href="https://win-answers.techidaily.com/far-cry-6-how-to-overcome-gameplay-interruptions-caused-by-black-screens/"><u>Far Cry 6 - How to Overcome Gameplay Interruptions Caused by Black Screens</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fast-track-master-shader-adjustments-for-star-wars-battlefront-ii/"><u>Fast Track: Master Shader Adjustments for Star Wars Battlefront II</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/free-game-themes-and-melodies-10-best-websites-for-2024/"><u>Free Game Themes & Melodies – 10 Best Websites for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guide-to-fixing-and-preventing-blackout-glitches-in-far-cry-6/"><u>Guide to Fixing and Preventing Blackout Glitches in Far Cry 6</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722996875267-mastering-the-field-again-mlb-the-show-21-server-problems-solved/"><u>Mastering the Field Again: MLB The Show 21 Server Problems Solved.</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/mp4-vs-mpg-explained-understanding-format-variations-and-making-an-informed-selection-for-your-views/"><u>MP4 vs MPG Explained: Understanding Format Variations and Making an Informed Selection for Your Views</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-pc-freezing-during-minecraft-play-expert-advice-for-a-smooth-experience/"><u>Overcome PC Freezing During Minecraft Play - Expert Advice for a Smooth Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/page-not-found-no-more-navigate-with-ease-using-wonderfoxs-advanced-solutions/"><u>Page Not Found No More! Navigate with Ease Using WonderFox's Advanced Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/prevent-and-solve-your-pcs-counter-strike-2-game-crashing-woes-latest-tricks/"><u>Prevent and Solve Your PC's Counter-Strike 2 Game Crashing Woes - Latest Tricks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-ensure-your-processor-matches-vanguards-minimum-requirements/"><u>Resolved: Ensure Your Processor Matches Vanguard's Minimum Requirements</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-fix-stability-issues-and-crashes-with-castlevania-symphony-of-the-night-on-windows/"><u>Ultimate Fix: Stability Issues & Crashes with Castlevania: Symphony of the Night on Windows</u></a></li>
 </ul></div>
 

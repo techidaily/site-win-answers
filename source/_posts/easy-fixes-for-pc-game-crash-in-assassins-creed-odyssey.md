@@ -1,7 +1,7 @@
 ---
 title: "Easy Fixes for PC Game Crash in Assassin's Creed: Odyssey"
-date: 2024-08-13T12:11:57.184Z
-updated: 2024-08-14T12:11:57.184Z
+date: 2025-01-12T03:37:11.563Z
+updated: 2025-01-17T17:03:26.723Z
 tags:
   - win11
   - win10
@@ -20,8 +20,9 @@ thumbnail: https://thmb.techidaily.com/4d8b9cd04159907d6ffd8170ace131d919d2ce436
  Many people have reported that**Assassin’s Creed Odyssey keeps crashing** on their PCs. Sometimes the**game crashes on startup** , or sometimes it**crashes randomly** without an error. If you’re one of them, don’t worry. You can fix Assassin’s Creed Odyssey crashing issues.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to fix Assassin’s Creed Odyssey crashing
 
  Here are the solutions to fix Assassin’s Creed Odyssey crashing issue. You shouldn’t have to try them all; just work your way down the list until everything’s working again.
@@ -33,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/4d8b9cd04159907d6ffd8170ace131d919d2ce436
 5. **[Verify Integrity of Game Files](https://tools.techidaily.com/drivereasy/download/)**
 
 **Note** : Some Ubisoft games feature Denuvo DRM (digital rights management) which is an anti-tamper technology. In this case, it requires some kind of CPU feature to run the game. If your game doesn’t have DRM removed, you may not be able to launch the game. And you should head to Ubisoft for suggestions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Install the latest patch
 
@@ -47,13 +52,9 @@ thumbnail: https://thmb.techidaily.com/4d8b9cd04159907d6ffd8170ace131d919d2ce436
  Assassin’s Creed Odyssey still crashes? Don’t worry. Try the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Update available drivers
 
  A missing or outdated device driver will cause Assassin’s Creed Odyssey to crash, especially your video card driver and motherboard driver. To rule it out as the cause of your problem, you should update your device drivers to the latest version.
@@ -85,6 +86,10 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
 
  Still no luck? Don’t give up hope. There is something else you can do.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Modify your in-game settings
 
  Many Assassin’s Creed Odyssey players have reported that configuring the settings in the game could help fix the crashing issue, such as switching to the other window mode or changing the graphics settings. So you can try this:
@@ -102,16 +107,14 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
  If you’re using**Fullscreen** mode, change it to**Borderless** mode.  
  If you’re using**Borderless** mode, change it to**Fullscreen** mode.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-74.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Turn off**VSync** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-75.png)
 
  5) Click the**Graphics** tab, try lowing these settings:
@@ -122,23 +125,18 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
 * **Screen Space Reflections** : Off
 * **Volumetric Clouds** : Low
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-76.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-77.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6) Restart your computer.
 
 Open Assassin’s Creed Odyssey and see if it works.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ### Fix 5: Verify Integrity of Game Files
 
  You can try verifying integrity of game files in the Steam app if games crash. Here’s how to do it:
@@ -147,29 +145,10 @@ Open Assassin’s Creed Odyssey and see if it works.
 
  2) Click**Library** .
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-78.png)
 
  3) Right-click on**Assassin’s Creed Odyssey** , and click**Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-79.png)
 
  4) Click the**Local files** tab, and click**Verify Integrity Of Game Files** .
@@ -198,8 +177,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -207,4 +184,26 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-a-comprehensive-look-at-vivacut-in-the-2024-landscape/"><u>[New] A Comprehensive Look at VivaCut in the 2024 Landscape</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-resident-evil-village-mouse-issues/"><u>[SOLVED] Resident Evil Village Mouse Issues</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-beatsaver-recorder-app-review/"><u>[Updated] BeatSaver Recorder App Review</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-express-gratitude-free-endings-and-premium-exclusives/"><u>[Updated] Express Gratitude Free Endings & Premium Exclusives</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-live-stream-success-obs-steps-to-shine-on-youtube/"><u>2024 Approved Live Stream Success OBS Steps to Shine on Youtube</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-top-rated-mp4-video-save-and-review/"><u>2024 Approved Top-Rated MP4 Video Save & Review</u></a></li>
+<li><a href="https://os-tips.techidaily.com/a-step-by-step-guide-securely-and-simply-rooting-your-android-phone-using-root-genius/"><u>A Step-by-Step Guide: Securely & Simply Rooting Your Android Phone Using Root Genius</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bypassing-and-resolving-pc-instability-with-nba-2k21/"><u>Bypassing and Resolving PC Instability with NBA 2K21</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guide-to-fix-downloadinstall-problems-for-age-of-empires-iv-on-microsofts-platform/"><u>Guide to Fix Download/Install Problems for Age of Empires IV on Microsoft's Platform</u></a></li>
+<li><a href="https://win-answers.techidaily.com/immediate-fixes-for-the-batman-arkham-knight-fatal-error-and-hardware-conflicts/"><u>Immediate Fixes for the Batman: Arkham Knight Fatal Error & Hardware Conflicts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/master-tips-to-resolve-nspr4dll-error-avoid-getting-stuck-with-missing-dlls/"><u>Master Tips to Resolve nspr4.dll Error: Avoid Getting Stuck with Missing DLLs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-crashes-in-chivalry-2-with-these-proven-tips-and-strategies/"><u>Overcoming Crashes in Chivalry 2 with These Proven Tips & Strategies</u></a></li>
+<li><a href="https://facebook.techidaily.com/presidents-lawsuit-targets-silence-on-social-networking-sites/"><u>President's Lawsuit Targets Silence on Social Networking Sites</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-missing-audio-in-discord-screen-shares-step-by-step-solutions/"><u>Resolving Missing Audio in Discord Screen Shares - Step-by-Step Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-troubleshooting-for-high-fps-on-splitgate/"><u>Step-by-Step Troubleshooting for High FPS on Splitgate</u></a></li>
+<li><a href="https://blog-min.techidaily.com/technique-simple-et-rapide-pour-epargner-tous-vos-dvd-anciens-ou-recents-en-5-min-seulement/"><u>Technique Simple Et Rapide Pour Épargner Tous Vos DVD, Anciens Ou Récents, en 5 Min Seulement !</u></a></li>
+<li><a href="https://win-updates.techidaily.com/update-or-roll-back-graphics-drivers/"><u>Update or Roll Back Graphics Drivers:</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723005966475-why-isnt-my-graphics-card-active-during-cyberpunk-2077-playback-on-windows-11-solutions-inside/"><u>Why Isn't My Graphics Card Active During Cyberpunk 2077 Playback on Windows 11? Solutions Inside</u></a></li>
+<li><a href="https://win-answers.techidaily.com/winning-the-showdown-with-confidence-your-ultimate-guide-to-correcting-tfla0002/"><u>Winning the Showdown with Confidence: Your Ultimate Guide to Correcting TFLA0002</u></a></li>
+</ul></div>
 

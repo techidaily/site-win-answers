@@ -1,7 +1,7 @@
 ---
 title: "Mastering Smooth Gameplay: Tips to Enhance FPS & Decrease Lag in Fall Guys"
-date: 2024-08-13T12:10:34.839Z
-updated: 2024-08-14T12:10:34.839Z
+date: 2025-01-14T22:35:25.457Z
+updated: 2025-01-18T07:17:26.207Z
 tags:
   - win11
   - win10
@@ -35,6 +35,10 @@ Looking for solutions to optimize Horizon Zero Dawn? This post is here to help y
 | **DirectX**   | Version 12                                               |
 | **Storage**   | 100 GB available space                                   |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -59,14 +63,12 @@ Looking for solutions to optimize Horizon Zero Dawn? This post is here to help y
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/image-7.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/image-8.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Set as priority
 
  If you’re sure your graphics card isn’t under much load, then changing the game priority to see the difference. Make sure you’ve closed other programs running on the background.
@@ -76,6 +78,11 @@ Looking for solutions to optimize Horizon Zero Dawn? This post is here to help y
 3. Right-click on it and select **Set priority > Realtime** or **High** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-07_16-56-17.jpg)
 4. Reboot the game and change Game Settings to **Windowed Full-Screen** mode.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Check the FPS.
 
 If it’s not working, move to the next fix.
@@ -106,40 +113,31 @@ OR
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ### Fix 4: Install Windows Updates
 
  Microsoft constantly releases Windows updates to fix issues and add new features. Some issues will be solved after updating Windows updates. And it’s safer to keep your PC using the latest operating system.
 
 1. In the Search box, type in **check for updates** . Click **Check for updates**  from results.  
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 2. Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it. Simply wait for it to complete and you should be asked to restart your computer.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-the-Check-for-updates-tab.png)
 3. Launch Horizon Zero Dawn and check.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -153,8 +151,6 @@ Have a nice day and enjoy the game!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -162,4 +158,23 @@ Have a nice day and enjoy the game!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-mastering-media-locate-your-latest-favorites-on-facebook/"><u>[New] 2024 Approved Mastering Media Locate Your Latest Favorites on Facebook</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-dirt-5-keeps-crashing-on-pc/"><u>[SOLVED] Dirt 5 Keeps Crashing on PC</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-money-smart-aerial-explorers-5-best-drones-for-less-than-100/"><u>2024 Approved Money-Smart Aerial Explorers 5 Best Drones for Less Than $100</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/2024s-premier-selection-of-apple-watch-bands-thoroughly-tested-and-analyzed-techsavvyreview/"><u>2024'S Premier Selection of Apple Watch Bands: Thoroughly Tested and Analyzed | TechSavvyReview</u></a></li>
+<li><a href="https://win-answers.techidaily.com/code-vein-freezing-glitches-heres-how-you-can-fix-them/"><u>Code Vein Freezing Glitches? Here's How You Can Fix Them</u></a></li>
+<li><a href="https://win-answers.techidaily.com/eliminate-the-mystery-resolving-discord-screen-sharing-display-errors/"><u>Eliminate the Mystery: Resolving Discord Screen Sharing Display Errors</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/evaluating-googles-solutions-for-phone-conversations-and-texting/"><u>Evaluating Google's Solutions for Phone Conversations and Texting</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/fixing-communication-breakdown-with-chatgpts-plugin-services/"><u>Fixing Communication Breakdown with ChatGPT's Plugin Services</u></a></li>
+<li><a href="https://win-answers.techidaily.com/god-of-war-not-working-overcome-inadequate-memory-error-here/"><u>God of War Not Working? Overcome 'Inadequate Memory' Error Here!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-handle-illegal-game-entry-error-messages-successfully/"><u>How to Handle 'Illegal Game Entry' Error Messages Successfully</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-apple-iphone-13-pro-max-without-itunes-drfone-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked Apple iPhone 13 Pro Max Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mlb-the-show-21-online-experience-improved-no-more-servers-down/"><u>MLB The Show 21 Online Experience Improved - No More Servers Down!</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/professional-insights-mastering-the-craft-of-creating-stunning-slow-motion-content-for-instagram-for-2024/"><u>Professional Insights Mastering the Craft of Creating Stunning Slow Motion Content for Instagram for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-fixing-the-blackout-how-to-overcome-screen-sharing-issues-on-discord/"><u>Resolved: Fixing the Blackout - How to Overcome Screen Sharing Issues on Discord</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-8-factors-you-must-evaluate-when-selecting-your-next-desktop-computer/"><u>Top 8 Factors You Must Evaluate When Selecting Your Next Desktop Computer</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-the-full-potential-of-the-new-iphone-15-why-it-impresses-even-hardcore-users-zdnet/"><u>Unlocking the Full Potential of the New iPhone 15: Why It Impresses Even Hardcore Users | ZDNET</u></a></li>
+</ul></div>
 

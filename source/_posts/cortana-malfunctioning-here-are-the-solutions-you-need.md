@@ -1,7 +1,7 @@
 ---
 title: Cortana Malfunctioning? Here Are the Solutions You Need!
-date: 2025-01-09T19:44:12.399Z
-updated: 2025-01-12T20:01:29.230Z
+date: 2025-01-15T20:46:05.273Z
+updated: 2025-01-17T18:10:13.581Z
 tags:
   - win11
   - win10
@@ -34,13 +34,13 @@ thumbnail: https://thmb.techidaily.com/48b04798818f256a08d1adf91e6795699ee9e8d50
 4. [Update your Microphone driver and audio driver](https://tools.techidaily.com/drivereasy/download/)
 5. [Reset Cortana](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 1: Reboot your Windows 10 PC
 
  A simple restart can fix a lot computer woes. Once Cortana stops working on your computer, firstly try to **restart your Windows 10 PC** and try Cortana again to see if it works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 2: Check your region and language settings
 
@@ -49,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/48b04798818f256a08d1adf91e6795699ee9e8d50
 Check your region and language settings on your computer:
 
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)** and **I** at the same time to open the **Settings** window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Click **Time** **& language** .
 
@@ -63,7 +67,7 @@ Check your region and language settings on your computer:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e71cb793.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5) Try Cortana again to see if it works.
@@ -77,20 +81,20 @@ Check your region and language settings on your computer:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f33c9a31.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click **Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f7b03e67.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Install the available updates.
 
 4) Reboot your Windows 10 PC and try Cortana again to see if it works.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 4: Update your Microphone driver and audio driver
 
@@ -112,19 +116,11 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c8cc9febab7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Click the  **Update**  button next to all flagged drivers to automatically download and install the correct version of their driver (you can do this with the FREE version).
 
 Or click  **Update All** to automatically download and install the correct version of  _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb1528c6d59.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Reboot your Windows 10 and try Cortana again to see if it works.
 
@@ -143,6 +139,10 @@ Or click  **Update All** to automatically download and install the correct versi
  3) Click the same button again to turn on Cortana. You should the see the **On**  status again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb180855417.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Try Cortana again to see if it works.
 
@@ -164,22 +164,17 @@ Or click  **Update All** to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-quicksnap-pause-and-capture-techniques-for-2024/"><u>[New] QuickSnap Pause & Capture Techniques for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-unlocking-your-youtube-potential-through-brand-partnerships-for-2024/"><u>[Updated] Unlocking Your YouTube Potential Through Brand Partnerships for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-streamline-your-gaming-journey-consoles-and-computers-synergy/"><u>2024 Approved Streamline Your Gaming Journey Consoles & Computers Synergy</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-samsung-galaxy-s24-ultra-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Samsung Galaxy S24 Ultra FRP Bypass Instantly</u></a></li>
-<li><a href="https://win-answers.techidaily.com/call-of-duty-bokw-on-pc-mastering-gameplay-without-crashes/"><u>Call of Duty BOKW on PC - Mastering Gameplay without Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/complete-fix-tutorial-for-among-us-endless-loading-problems/"><u>Complete Fix Tutorial for 'Among Us' Endless Loading Problems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/deciphering-and-correcting-steam-file-permission-problems/"><u>Deciphering and Correcting Steam File Permission Problems</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/1723002668342-final-fixes-eliminate-fifa-20s-directx-problems-efficiently/"><u>Final Fixes: Eliminate FIFA 20'S DirectX Problems Efficiently!</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/from-newbie-to-zoom-whiz-in-no-time/"><u>From Newbie to Zoom Whiz in No Time</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-nubia-red-magic-8s-pro-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Nubia Red Magic 8S Pro Phones? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-resolve-discords-streaming-stumbles-and-keep-your-chat-flowing/"><u>How To Resolve Discord's Streaming Stumbles & Keep Your Chat Flowing</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-integrating-secondary-shots-a-filmmakers-blueprint/"><u>In 2024, Integrating Secondary Shots A Filmmaker's Blueprint</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-fortnite-not-launching-issues-swiftly-and-effectively-a-how-to-guide/"><u>Resolving Fortnite Not Launching Issues Swiftly and Effectively - A How-To Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/stardew-valley-launch-error-fixed-now-ready-to-play/"><u>Stardew Valley Launch Error Fixed - Now Ready To Play!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-tutorial-on-curtailing-discords-high-cpu-usage-top-techniques-for-202n4/"><u>Step-by-Step Tutorial on Curtailing Discord's High CPU Usage - Top Techniques for 202N4</u></a></li>
-<li><a href="https://win-answers.techidaily.com/stop-your-sims-4-from-lagging-on-pc-with-these-pro-tips-and-tricks-latest-guide-2024/"><u>Stop Your Sims 4 From Lagging on PC with These Pro Tips and Tricks - Latest Guide 2024!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unbeatable-october-prime-day-offer-metas-latest-512gb-quest-3-surges-as-top-vr-bargain/"><u>Unbeatable October Prime Day Offer: Meta's Latest 512GB Quest 3 Surges as Top VR Bargain</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-the-art-of-podcast-imagery-creating-memorable-graphics/"><u>[New] The Art of Podcast Imagery Creating Memorable Graphics</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ransforming-frost-into-warmth-video-backdrops-guide-for-2024/"><u>[New] Transforming Frost Into Warmth Video Backdrops Guide for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-dynamic-lighting-elevating-video-aesthetics/"><u>[Updated] 2024 Approved Dynamic Lighting Elevating Video Aesthetics</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-strategies-to-reduce-cpu-load-in-excel-with-vba/"><u>Effective Strategies to Reduce CPU Load in Excel with VBA</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-techniques-for-increasing-padding-between-text-and-border-lines-in-microsoft-excel/"><u>Effective Techniques for Increasing Padding Between Text & Border Lines in Microsoft Excel</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effortless-steps-to-delete-empty-cells-in-your-spreadsheets/"><u>Effortless Steps to Delete Empty Cells in Your Spreadsheets</u></a></li>
+<li><a href="https://win-answers.techidaily.com/excel-expert-tips-how-to-print-selected-cell-range-effortlessly/"><u>Excel Expert Tips: How to Print Selected Cell Range Effortlessly</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/experience-superior-cooling-with-thermaltakes-latest-innovation-powerful-120mm140mm-reversible-fans-equipped-with-stronger-magnets-free-of-rgb-lighting/"><u>Experience Superior Cooling with Thermaltake's Latest Innovation: Powerful 120Mm/140mm Reversible Fans Equipped With Stronger Magnets, Free of RGB Lighting</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guide-establishing-upper-and-lower-boundaries-with-excels-range-limits/"><u>Guide: Establishing Upper & Lower Boundaries with Excel's Range Limits</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Infinix Hot 30 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Lava Blaze Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/the-definitive-how-to-for-boosting-pc-performance-by-cleaning-and-optimizing-your-hard-disk-learn-from-the-pros-at-yl-software/"><u>The Definitive How-To for Boosting PC Performance by Cleaning & Optimizing Your Hard Disk - Learn From the Pros at YL Software</u></a></li>
 </ul></div>
 

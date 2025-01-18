@@ -1,7 +1,7 @@
 ---
 title: "Outpost: Infincy Siege - How to Stop Your Game From Crashing Unexpectedly"
-date: 2024-08-13T12:09:11.622Z
-updated: 2024-08-14T12:09:11.622Z
+date: 2025-01-14T10:30:49.054Z
+updated: 2025-01-17T22:41:48.770Z
 tags:
   - win11
   - win10
@@ -38,6 +38,10 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 | Graphics card | 2GB ATI Radeon HD 7970, 2GB NVIDIA GeForce GTX 770 or better |
 | Storage       | 45 GB available space                                        |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  There’re 5 fixes that have helped many gamers solve their crash problem. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -47,6 +51,10 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 3. [**Change your save files location**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Disable Steam Overlay**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Update your driver**](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Disable your antivirus software
 
@@ -67,41 +75,28 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 4. After the process, relaunch the game and check the crash will appear or not.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Change your save files location
 
  If Fix 2 can’t solve your problem, the saved file could be the culprit. When you delete the save file with modded content, the crash can happen. You can transfer the save files into a different location for safekeeping.
 
  The save files should be located at: “C:\\Users\\YOUR USERNAME\\Documents\\my games\\XCOM2\\XComGame\\SaveData”. Copy files and move to elsewhere and then delete the original SaveData folder.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Disable Steam Overlay
 
  The Steam overlay is a piece of Steam user interface that can let users access friend list, web browser and in-game DLC purchasing. This feature is very useful but sometimes it can be the reason for game crash. You can disable it and check whether it could solve the crashes.
 
 1. Run Steam.
 2. Right-click on XCOM 2 and click**Properties** .
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 3. In the **GENERAL**  tab, uncheck “**Enable the Steam Overlay while in-game** “.![](https://images.drivereasy.com/wp-content/uploads/2019/08/over.jpg)
 4. Relaunch the game and check whether the crash will appear or not.
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Update your driver
 
  Missing or outdated drivers may also trigger the game crash issues. In this case, you need to update your drivers to resolve this issue.
@@ -122,17 +117,14 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Relaunch the game and check the crash will appear or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -146,8 +138,6 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -155,4 +145,24 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/updated-the-ultimate-method-changing-account-numbers-on-tiktok/"><u>[Updated] The Ultimate Method Changing Account Numbers on TikTok</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/champion-complimentary-timer-tech-for-2024/"><u>Champion Complimentary Timer Tech for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ensuring-smooth-gameplay-addressing-praeys-for-the-gods-recurring-pc-crashes/"><u>Ensuring Smooth Gameplay - Addressing Praeys for the Gods' Recurring PC Crashes</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210974368-9781088251447-hijo-adoptivo/"><u>Hijo Adoptivo | Free Book</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/honor-90-pro-video-recovery-recover-deleted-videos-from-honor-90-pro-by-fonelab-android-recover-video/"><u>Honor 90 Pro Video Recovery - Recover Deleted Videos from Honor 90 Pro</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-tecno-pova-5-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Tecno Pova 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-overcome-the-unable-to-boot-rdr2-game-problem-expert-advice-needed/"><u>How to Overcome the 'Unable to Boot RDR2 Game' Problem - Expert Advice Needed</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-iphone-hdr-a-step-by-step-journey-to-perfect-shots/"><u>In 2024, IPhone HDR A Step-by-Step Journey to Perfect Shots</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-choices-360-video-equipment-for-livestreaming-platforms/"><u>In 2024, Top Choices 360° Video Equipment for Livestreaming Platforms</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-unlock-your-phones-potential-with-ios-11-camera-tips/"><u>In 2024, Unlock Your Phone's Potential with iOS 11 Camera Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/preventing-game-halt-in-metropolis-architect-cities-unlimited-for-pc-users/"><u>Preventing Game Halt in Metropolis Architect: Cities Unlimited for PC Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-why-gpeditmsc-is-missing-in-windows-home-edition/"><u>Resolved: Why gpedit.msc Is Missing in Windows Home Edition</u></a></li>
+<li><a href="https://win-answers.techidaily.com/star-wars-battlefront-ii-error-327-troubleshooting-steps-get-back-to-gameplay-asap/"><u>Star Wars Battlefront II Error 327 Troubleshooting Steps: Get Back to Gameplay ASAP</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-persistent-issues-with-red-dead-redemption-2-launch/"><u>Troubleshooting Tips for Persistent Issues with Red Dead Redemption 2 Launch</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-to-fixing-your-xbox-game-dealing-with-black-ops-cold-wars-error-code-0xc00n0005/"><u>Ultimate Guide to Fixing Your Xbox Game: Dealing with Black Ops Cold War's Error Code 0XC00n0005</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-the-easiest-way-to-edit-avi-files-split-cut-and-trim-in-minutes/"><u>Updated In 2024, The Easiest Way to Edit AVI Files Split, Cut, and Trim in Minutes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/xcom-2-stability-issues-resolved-for-windows-users/"><u>XCOM 2 Stability Issues Resolved for Windows Users</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot Like a Pro! Effective Strategies to Fix 'Last Epoch Crashes' On PCs - Updated Advice Tech Enthusiasts
-date: 2024-08-13T12:16:01.273Z
-updated: 2024-08-14T12:16:01.273Z
+date: 2025-01-16T21:07:23.112Z
+updated: 2025-01-17T18:31:58.495Z
 tags:
   - win11
   - win10
@@ -37,18 +37,6 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 | Graphics  | NVIDIA GeForce GTX 1060 / AMD Radeon RX Vega 56 |
 | Storage   | 32 GB available space                           |
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
 1. [Download the latest patch](https://tools.techidaily.com/drivereasy/download/)
@@ -60,9 +48,6 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 
  If you haven’t been updated your game for a while, you can update your game. The official keeps releasing new patches, the latest version may solve the crashing issue.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Manage Virtual Memory
 
  If the game crashes happened in the loading screen, you can try this fix. By changing the setting of Virtual Memory, the crash should be gone.
@@ -71,23 +56,33 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 2. Click**Advanced system settings.**  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/1-4.jpg)
 3. Under the**Advanced** tab, click**Settings** .  
-![](https://images.drivereasy.com/wp-content/uploads/2019/08/2-4.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/2-4.jpg)
 4. Under**Virtual memory** , click**Change** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/3-2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Uncheck**Automatically manage paging file size for all drives** and make sure you’ve check**System managed size** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/4-2.jpg)
 6. Click**Set > OK** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Reboot your computer can check whether the crash will appear or not.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Delete specific files from the save folder
 
  It’s possible some of the files in your game folder is corrupted, you can delete the specific files to get rid of crashes.  
@@ -101,8 +96,9 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 5. Reboot your computer and check the issue is solved or not.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Underclock your clock speed
 
  The game is built with an old Unreal Engine version. This may be the reason for the random crashes. You can underclock your CPU speed by 100 MHz or 150 MHz to see whether it helps or not.
@@ -145,8 +141,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -154,4 +148,26 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-how-to-screen-record-on-dell-laptop-for-2024/"><u>[New] How to Screen Record on Dell Laptop for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-the-ultimate-guide-to-scrolling-through-engaging-youtube-remarks/"><u>[New] In 2024, The Ultimate Guide to Scrolling Through Engaging YouTube Remarks</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-perfect-every-post-automated-mac-methods-for-instagram-video-sizing/"><u>[Updated] 2024 Approved Perfect Every Post Automated Mac Methods for Instagram Video Sizing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-thoroughly-detailed-guide-to-windows-boot-options/"><u>A Thoroughly Detailed Guide to Windows Boot Options</u></a></li>
+<li><a href="https://win-answers.techidaily.com/boosting-your-gaming-ultimate-guide-to-solving-low-fps-issues-in-valorant/"><u>Boosting Your Gaming: Ultimate Guide to Solving Low FPS Issues in Valorant</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easy-fixes-for-pubgs-stutter-and-hangs-optimize-your-gameplay/"><u>Easy Fixes for PUBG's Stutter & Hangs - Optimize Your Gameplay!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-forza-horizon-4-game-crash-issue-on-your-pc/"><u>Fixing the Forza Horizon 4 Game Crash Issue on Your PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-i-overcame-the-eternal-launch-loop-in-anthem-a-step-by-step-guide/"><u>How I Overcame The Eternal Launch Loop in Anthem - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723002623201-how-to-fix-lethal-company-not-launching-2024-tips/"><u>How to Fix Lethal Company Not Launching - 2024 Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723011469040-insurgency-sandstorm-update-causes-persistent-game-crashes-solved/"><u>Insurgency: Sandstorm Update Causes Persistent Game Crashes - Solved!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-the-hurdle-getting-civilization-vi-running-in-windows-11/"><u>Overcoming the Hurdle: Getting Civilization VI Running in Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-performance-issues-why-is-the-frame-rate-lower-in-farming-simulator-22/"><u>PC Performance Issues: Why Is the Frame Rate Lower in Farming Simulator 22?</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/quick-photovideo-recovery-on-snapchat/"><u>Quick Photo/Video Recovery on Snapchat</u></a></li>
+<li><a href="https://driver-error.techidaily.com/revived-n-wireless-adapter-in-windows-after-broadcom-fix/"><u>Revived N Wireless Adapter in Windows After Broadcom Fix</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/strategies-for-effective-360-video-broadcasts-on-fb/"><u>Strategies for Effective 360 Video Broadcasts on FB</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-picks-youtube-to-hd-mastering-quality-conversions-for-2024/"><u>Top Picks YouTube to HD - Mastering Quality Conversions for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-tablet-cpus-ranked-the-definitive-buyers-checklist/"><u>Top Tablet CPUs Ranked: The Definitive Buyer's Checklist</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-tech-tricks-for-a-seamless-fortnite-experience-addressing-pc-freezes-and-glitches/"><u>Top Tech Tricks for a Seamless Fortnite Experience: Addressing PC Freezes and Glitches</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-how-to-make-an-adorable-video-for-your-babys-first-year/"><u>Updated How to Make an Adorable Video for Your Babys First Year</u></a></li>
+</ul></div>
 

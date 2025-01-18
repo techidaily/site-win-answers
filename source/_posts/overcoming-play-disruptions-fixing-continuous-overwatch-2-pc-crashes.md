@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Play Disruptions: Fixing Continuous Overwatch 2 PC Crashes"
-date: 2025-01-03T01:42:07.921Z
-updated: 2025-01-05T20:25:27.429Z
+date: 2025-01-12T17:33:55.661Z
+updated: 2025-01-18T08:41:17.815Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ We know how annoying it can be when you’re facing crashing issues in FIFA 19 g
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Here are 8 fixes that have proved helpful for many users to solve the FIFA 19 crashing issues. You may not need to try them all; just work your way down the list until you find the one that works for you.
@@ -42,10 +38,6 @@ We know how annoying it can be when you’re facing crashing issues in FIFA 19 g
 8. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) **[to check for conflicting programs](https://tools.techidaily.com/drivereasy/download/)**
 9. [**Create TileDatalayer and Database folder**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1 Run Origin and FIFA 19 as administrator
 
  If your FIFA 19 keeps giving you the crashing error, the first method you can try is running both Origin and FIFA 19 as Administrator, which allows you to get full access to the game files.
@@ -54,11 +46,19 @@ We know how annoying it can be when you’re facing crashing issues in FIFA 19 g
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/drivereasyrun-as-administrator.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Relaunch your Origin and FIFA to check if the crashing issue still persists.
 
 If you still have the issue, you can try the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2 Turn off Discord Overlay and Hardware Acceleration
 
@@ -70,13 +70,13 @@ If you still have the issue, you can try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-Disable-overlay-1200x685.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the**Advanced** tab and turn off**Hardware Acceleration** . Your Discord will be restarted.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-Disable-hardware-acceleration-1-1200x638.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Then you can see if the crashing issue reoccurs when playing FIFA.
 
@@ -91,7 +91,7 @@ Then you can see if the crashing issue reoccurs when playing FIFA.
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4 Update your device drivers
@@ -140,6 +140,10 @@ OR
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6 Force Vertical Sync and Triple Buffering on
 
  Vertical Sync helps you avoid screen tearing, but it can also cause problems such as frequent game crashing and freezing. To avoid it, you can leave V-Sync off in-game settings, then force Vertical Sync and Triple Buffering on in the NVIDIA Control Panel to use the drivers to control V-Sync instead.
@@ -160,10 +164,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/force-V-Sync-On.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  For AMD users:  
 
  1) Type**Catalyst control center** in the search bar, and press Enter.  
@@ -175,7 +175,7 @@ OR
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 7**Run System File Checker** to repair corrupt files
@@ -251,6 +251,10 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 8**Perform a clean boot to check for conflicting programs**
 
  The FIFA 19 crashing issue can be caused by other conflicting programs. To check if that’s the cause, you can perform a clean boot. Here is how to do it:
@@ -259,13 +263,13 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/system-config.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click the**Services** tab and check the**Hide all Microsoft services** box, then click**Disable all** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/disable-all-services.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click the**Startup** tab, then**Open Task Manager** .
 
@@ -285,10 +289,6 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
  Once you find the problematic software, you need to uninstall it to avoid running into the same issue in the future.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 9 Create TileDatalayer and Database folder
 
  Some users find creating TileDatalayer and Database folders in Appdata/Local helps solve Fifa 19 crashing issues. Here’s how you can do it by running a single command:
@@ -300,7 +300,7 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/power-shell.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you’re on Windows 11, it will be**Terminal (Admin)** .
@@ -340,15 +340,20 @@ mkdir Database
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-expert-tips-for-crafting-immersive-soundscapes-in-youtube/"><u>[New] Expert Tips for Crafting Immersive Soundscapes in YouTube</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-picture-perfection-with-background-ipod-sounds/"><u>[Updated] Picture Perfection with Background iPod Sounds</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/busting-common-gpt-3-misconceptions-and-fixes-for-a-smooth-experience/"><u>Busting Common GPT-3 Misconceptions & Fixes for a Smooth Experience</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chagpt-for-smartphone-users-a-compreenasive-guide/"><u>ChaGPT for Smartphone Users: A Compreenasive Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/cyberpunk-2077-update-overcome-previous-lag-and-frame-rate-hiccups/"><u>Cyberpunk 2077 Update: Overcome Previous Lag and Frame Rate Hiccups</u></a></li>
-<li><a href="https://win-answers.techidaily.com/experiencing-reduced-fps-understanding-the-causes-behind-farmers-dilemma-22/"><u>Experiencing Reduced FPS? Understanding the Causes Behind Farmer's Dilemma 22</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-constant-crashes-in-total-war-warhammer-3-game-on-your-computer/"><u>How to Fix Constant Crashes in Total War: Warhammer 3 Game on Your Computer</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Realme C67 4G | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/killer-network-driver-free-download-and-update-in-windows-1187/"><u>Killer Network Driver Free Download & Update in Windows 11/8/7</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-issues-when-elite-gaming-or-productivity-programs-make-your-computer-unresponsive/"><u>Resolving Issues When Elite Gaming or Productivity Programs Make Your Computer Unresponsive</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-best-professional-drones-an-in-depth-pilots-list/"><u>[New] 2024 Approved Best Professional Drones – An In-Depth Pilot’s List</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-analyzing-flight-performance-in-djis-drone-standard-edition/"><u>[New] Analyzing Flight Performance in DJI's Drone Standard Edition</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-mastering-identity-change-on-google-meet-via-pc-and-phone/"><u>[New] Mastering Identity Change on Google Meet via PC & Phone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-the-future-of-tiktok-master-video-trends-and-techniques/"><u>[New] The Future of TikTok - Master Video Trends and Techniques</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-secrets-to-successful-backlink-generation-in-youtube-channels/"><u>[Updated] 2024 Approved Secrets to Successful Backlink Generation in YouTube Channels</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-breaking-barriers-with-excellent-job-interview-techniques/"><u>2024 Approved Breaking Barriers with Excellent Job Interview Techniques</u></a></li>
+<li><a href="https://win-answers.techidaily.com/addressing-launch-errors-in-amd-catalyst-control-center-expert-tips-and-tricks/"><u>Addressing Launch Errors in AMD Catalyst Control Center: Expert Tips and Tricks</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/conquer-slovak-in-minutes-easy-online-learning-pathway/"><u>Conquer Slovak in Minutes: Easy Online Learning Pathway</u></a></li>
+<li><a href="https://win-answers.techidaily.com/defeating-the-graphics-glitch-eliminate-errgfxstate-on-your-rdr2-adventure/"><u>Defeating the Graphics Glitch: Eliminate ERR_GFX_STATE on Your RDR2 Adventure</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-your-state-of-decay-2-crashes-a-step-by-step-troubleshooting-guide/"><u>Fix Your State of Decay 2 Crashes : A Step-by-Step Troubleshooting Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-increase-volume-windows-10/"><u>How to Increase Volume Windows 10</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-successfully-troubleshoot-and-solve-the-battlenet-wont-open-problem-guide/"><u>How to Successfully Troubleshoot and Solve the Battle.Net Won't Open Problem (Guide )</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-solutions-for-when-your-msi-mystic-light-wont-turn-on-in-windows/"><u>Step-by-Step Solutions for When Your MSI Mystic Light Won't Turn On in Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-11-troubleshooting-steps-when-borderlands-e3-refuses-to-load/"><u>Top 11 Troubleshooting Steps When Borderlands E3 Refuses to Load</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshoot-and-repair-winwordexe-issues-in-5-simple-steps/"><u>Troubleshoot and Repair WINWORD.EXE Issues in 5 Simple Steps</u></a></li>
 </ul></div>
 

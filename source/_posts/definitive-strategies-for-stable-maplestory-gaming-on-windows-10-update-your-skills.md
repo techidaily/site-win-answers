@@ -1,7 +1,7 @@
 ---
 title: Definitive Strategies for Stable MapleStory Gaming on Windows 10 - Update Your Skills
-date: 2024-08-13T12:14:28.666Z
-updated: 2024-08-14T12:14:28.666Z
+date: 2025-01-15T20:50:38.284Z
+updated: 2025-01-17T17:30:10.959Z
 tags:
   - win11
   - win10
@@ -22,8 +22,9 @@ thumbnail: https://thmb.techidaily.com/78af3078c80b8e3712553330740f219cdae8af451
  But don’t worry if you’re on the same boat. Here we’ve gathered several fixes that proved to be working. Try them and relive your childhood right away.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down until you find the one that does the trick.
@@ -35,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/78af3078c80b8e3712553330740f219cdae8af451
 5. [**Make sure Windows is up to date**](https://tools.techidaily.com/drivereasy/download/)
 6. [**Use a VPN**](https://tools.techidaily.com/drivereasy/download/)
 7. **[Run on a virtual machine](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Repair game installation
 
@@ -51,8 +56,9 @@ Here’s how to do it on Nexon Launcher:
 If this doesn’t help you, check out the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Check compatibility settings
 
  To run ancient programs on Windows 10, you might need to change some compatibility settings. Some players reported that running with admin rights and using Windows 7 settings could work. You can try the same and see how it goes.
@@ -62,14 +68,8 @@ To do so, simply follow these instructions:
 1. Go to the installation path of MapleStory. Then open the**appdata** folder.
 2. Find all the .exe files inside this folder. One by one, right click the**.exe** file and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/maplestory-compatibility-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Navigate to the**Compatibility** tab, Under**Compatibility mode** , check the box and select Windows 7\. Under**Settings** , check the box before**Run this program as an administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/maplestory-compatibility-2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 4. After you finish with all the .exe files, restart the game and check if it crashes again.
 
  If this method doesn’t help, you can take a look at the next one. (You might want to undo these steps so that they won’t affect the following fixes.)
@@ -83,20 +83,18 @@ To do so, simply follow these instructions:
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Driver Easy Scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-2060-super-update.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, do a reboot and check if MapleStory stops crashing.
 
  If the latest drivers don’t do the trick for you, you can move on to the next solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Edit the registry
 
@@ -106,16 +104,14 @@ To do so, simply follow these instructions:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/windows-10-run-regedit.jpg)
 2. In the address bar, paste **ComputerHKEY\_LOCAL\_MACHINESOFTWAREWOW6432NodeWizetMapleStory** and press**Enter** . Double click**soScreenMode**  and change the value to**3** . Click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/maplestory-registry.jpg)
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Now enter the game and test the gameplay.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If this trick doesn’t give you luck, you can undo it and continue to the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ### Fix 5: Make sure Windows is up to date
 
  You also need to check if you’re on the latest system. Windows updates sometimes improve the compatibility of legacy software.
@@ -124,14 +120,21 @@ Here’s how you can check for updates manually:
 
 1. On your keyboard, press **Win** (the Windows logo key). At the bottom left corner of your screen, click the**gear icon** to open Settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-gear-icon.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 2. Scroll down and select**Update & Security** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
@@ -140,9 +143,6 @@ Here’s how you can check for updates manually:
 
  If this method doesn’t work for you, simply try the next one below.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ### Fix 6:**Use a VPN**
 
  It may sound strange, but there’re players mentioning that the game crash could be triggered by disconnection. If that’s your case, you can use a VPN to workaround this issue. VPN servers tend to have a more stable connection.
@@ -169,8 +169,6 @@ And here’re some VPNs we like:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -178,4 +176,26 @@ And here’re some VPNs we like:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-the-complete-selection-of-free-online-meeting-applications/"><u>[New] In 2024, The Complete Selection of FREE Online Meeting Applications</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-six-innovative-approaches-for-recording-and-storing-mov-files-on-windows-11-for-2024/"><u>[New] Six Innovative Approaches for Recording and Storing MOV Files on Windows 11 for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-top-10-mobile-photography-enhancers-ios-and-android-comparison/"><u>[New] Top 10 Mobile Photography Enhancers IOS & Android Comparison</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-top-8-video-boosters-say-goodbye-to-slow-mo-for-2024/"><u>[New] Top 8 Video Boosters Say Goodbye to Slow Mo for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-secure-smooth-videos-selecting-premium-tripods-for-youtubers/"><u>2024 Approved Secure Smooth Videos Selecting Premium Tripods for YouTubers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/9-fixes-for-firefox-videos-on-facebook-live/"><u>9 Fixes for Firefox Videos on Facebook Live</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722964872760-effortless-installation-of-intels-82579v-drivers-for-free/"><u>Effortless Installation of Intel's 82579V Drivers for Free</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-fortnite-errors-regain-your-right-to-play-after-a-permission-hurdle/"><u>Fixing Fortnite Errors: Regain Your Right to Play After a Permission Hurdle</u></a></li>
+<li><a href="https://win-answers.techidaily.com/football-manager-2021-how-to-fix-the-endless-loading-screen-issue/"><u>Football Manager 2021: How to Fix the Endless Loading Screen Issue</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-15-plus-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 15 Plus Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+<li><a href="https://win-answers.techidaily.com/in-depth-guide-to-the-2024-solution-for-league-of-legends-reconnection-malfunction/"><u>In-Depth Guide to the 2024 Solution for League of Legends Reconnection Malfunction</u></a></li>
+<li><a href="https://win-answers.techidaily.com/jurassic-world-evolution-master-the-tips-and-tricks-to-stop-your-game-from-crashing/"><u>Jurassic World Evolution: Master the Tips & Tricks to Stop Your Game From Crashing!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Infinix Hot 30i | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/logic-pros-strategy-for-muffled-sound-tracks-for-2024/"><u>Logic Pro's Strategy for Muffled Sound Tracks for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/masterclass-on-resolving-teardown-collapses-comprehensive-expert-guidelines/"><u>Masterclass on Resolving Teardown Collapses: Comprehensive Expert Guidelines</u></a></li>
+<li><a href="https://win-answers.techidaily.com/problem-with-final-fantasy-xiv-checking-for-latest-patch-and-updates/"><u>Problem with Final Fantasy XIV Checking for Latest Patch and Updates</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-fixes-for-resolving-directx-errors-in-fifa-19/"><u>Quick Fixes for Resolving DirectX Errors in FIFA 19</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-modern-warfare-3-flaw-fixing-memory-issue-code-12707/"><u>Resolved: Modern Warfare 3 Flaw - Fixing Memory Issue Code 12707</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-steps-to-correct-and-prevent-black-screen-glitch-in-epic-games-platform/"><u>Resolved: Steps to Correct and Prevent Black Screen Glitch in Epic Games Platform</u></a></li>
+</ul></div>
 

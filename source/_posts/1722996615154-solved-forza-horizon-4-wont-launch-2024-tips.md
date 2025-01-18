@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Forza Horizon 4 Won’t Launch | 2024 Tips"
-date: 2025-01-09T16:23:37.623Z
-updated: 2025-01-12T17:43:52.909Z
+date: 2025-01-12T06:54:54.601Z
+updated: 2025-01-17T19:12:54.452Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ Having trouble launching_Forza Horizon 4_ on your PC? You’re not alone! Many p
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes to try
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -32,6 +36,10 @@ Having trouble launching_Forza Horizon 4_ on your PC? You’re not alone! Many p
 4. **[Turn off unnecessary programs](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Check for Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reinstall your game](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Check your system specs
 
@@ -77,17 +85,9 @@ Having trouble launching_Forza Horizon 4_ on your PC? You’re not alone! Many p
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_14-49-07.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_14-49-12.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -97,6 +97,10 @@ Having trouble launching_Forza Horizon 4_ on your PC? You’re not alone! Many p
 **4)** Try restarting your game to test your issue.
 
 If your issue persists, then move on and try the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Disable ReadyBoost
 
@@ -109,7 +113,7 @@ If your issue persists, then move on and try the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_15-58-21-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Right-click your**USB’s name** and select**Properties** .
@@ -120,23 +124,19 @@ If your issue persists, then move on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_16-19-03.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)** Click**Apply > OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_16-19-03-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **5)** Disconnect**all USB devices** you don’t need from your PC.
 
 **6)** Relaunch your game to test your issue.
 
 If your issue still exists, try the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Turn off unnecessary programs
 
@@ -154,13 +154,13 @@ Here is how to check and close programs you’re running:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_16-52-29.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Check your current **CPU and memory usage** to see what processes are consuming your resources most.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_16-52-34.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)**  Right-click the process you want to end and select **End task** .
 
@@ -171,10 +171,6 @@ Here is how to check and close programs you’re running:
 **4)** Try launching your game to test your issue.
 
 If your issue continues to occur, move on and try the fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Check for Windows updates
 
@@ -204,6 +200,10 @@ _Forza Horizon 4_ launching issues could happen when the game is not properly in
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_16-54-23.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Download and install_Forza Horizon 4_ from Microsoft Store.
 
  Hopefully, this article helped in resolving your issue. Please feel free to leave a comment below if you have any questions or suggestions.
@@ -229,20 +229,18 @@ _Forza Horizon 4_ launching issues could happen when the game is not properly in
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-free-video-credits-expertise-top-6-maker-guide/"><u>[New] 2024 Approved Free Video Credits Expertise - Top 6 Maker Guide</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-top-notch-game-capture-applications-outshining-fbx-capabilities/"><u>[New] 2024 Approved Top-Notch Game Capture Applications Outshining FBX Capabilities</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-prime-venues-for-vr-entertainment/"><u>2024 Approved Prime Venues for VR Entertainment</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/achieving-health-goals-with-the-fitbit-versa-lite-an-insightful-product-review/"><u>Achieving Health Goals with the Fitbit Versa Lite: An Insightful Product Review</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/audio-recorder-performance-assessment/"><u>Audio Recorder Performance Assessment</u></a></li>
-<li><a href="https://win-answers.techidaily.com/eliminate-latency-woes-proven-techniques-for-optimal-performance-in-chivalry-2-new-age-solutions-2/"><u>Eliminate Latency Woes: Proven Techniques for Optimal Performance in Chivalry 2 (New-Age Solutions - 2</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-problems-when-your-pc-performance-tool-isnt-responding-correctly/"><u>Fixing Problems When Your PC Performance Tool Isn’t Responding Correctly</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-itel-p40-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Itel P40 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/improving-fps-lag-issues-for-a-smoother-outriders-journey/"><u>Improving FPS Lag Issues for a Smoother Outriders Journey</u></a></li>
-<li><a href="https://win-answers.techidaily.com/optimizing-your-pc-to-overcome-v-risings-gameplay-hiccups/"><u>Optimizing Your PC to Overcome V-Rising's Gameplay Hiccups</u></a></li>
-<li><a href="https://win-answers.techidaily.com/smooth-gaming-experience-restored-solving-sifus-pc-stutters-and-fps-issues/"><u>Smooth Gaming Experience Restored: Solving Sifu's PC Stutters & FPS Issues</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solve-your-cant-open-discord-problem-with-these-easy-fixes/"><u>Solve Your 'Can't Open Discord' Problem with These Easy Fixes</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/songbookdb-advanced-digital-dj-notebook-and-guide-expert-insights/"><u>SongBookDB - Advanced Digital DJ Notebook & Guide | Expert Insights</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/streamlining-audio-dynamics-a-comprehensive-approach-to-volume-normalization-with-vlc-for-2024/"><u>Streamlining Audio Dynamics A Comprehensive Approach to Volume Normalization with VLC for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-r-type-final-2-for-pc-step-by-step-guide-to-stop-crashes/"><u>Troubleshooting R-Type Final 2 for PC: Step-by-Step Guide to Stop Crashes</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-optimizing-film-length-for-instagram-on-mac/"><u>[Updated] 2024 Approved Optimizing Film Length for Instagram on Mac</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-steady-panning-for-smooth-cinematography/"><u>[Updated] Steady Panning for Smooth Cinematography</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-master-guide-to-choosing-your-mp4-player/"><u>2024 Approved Master Guide to Choosing Your MP4 Player</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-streamlined-converting-top-six-free-ios-apps-for-youtube-to-mp3/"><u>2024 Approved Streamlined Converting Top Six Free iOS Apps for YouTube-to-MP3</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effortless-fixes-for-common-fortnite-login-errors-get-back-in-the-game-now/"><u>Effortless Fixes for Common Fortnite Login Errors – Get Back in the Game Now!</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-avoiding-zoom-call-blunders-smart-filters-usage/"><u>In 2024, Avoiding Zoom Call Blunders Smart Filters Usage</u></a></li>
+<li><a href="https://media-tips.techidaily.com/introducing-free-ads-enabled-video-streaming-in-vlc-media-player/"><u>Introducing Free, Ads-Enabled Video Streaming in VLC Media Player</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-stability-in-destiny-2-how-to-deal-with-sudden-server-disconnects/"><u>Mastering Stability in Destiny 2: How to Deal with Sudden Server Disconnects</u></a></li>
+<li><a href="https://win-answers.techidaily.com/outriders-performance-optimization-eliminating-lag-on-your-console-or-pc/"><u>Outriders Performance Optimization: Eliminating Lag on Your Console or PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolve-ios-vlc-video-issues-secure-your-vlc-downloads-and-enhance-playback/"><u>Resolve iOS VLC Video Issues: Secure Your VLC Downloads & Enhance Playback</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stop-oxygen-not-included-from-crashing-comprehensive-troubleshooting-guide/"><u>Stop 'Oxygen Not Included' From Crashing - Comprehensive Troubleshooting Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-fixing-the-dreaded-steamvr-error-308/"><u>Troubleshooting Guide: Fixing the Dreaded SteamVR Error #308</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unlock-your-palworld-account-top-6-hacks-for-fixing-eos-login-difficulties/"><u>Unlock Your Palworld Account: Top 6 Hacks for Fixing EOS Login Difficulties</u></a></li>
 </ul></div>
 

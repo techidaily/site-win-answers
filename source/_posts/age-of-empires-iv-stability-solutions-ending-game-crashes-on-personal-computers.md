@@ -1,7 +1,7 @@
 ---
 title: "Age of Empires IV Stability Solutions: Ending Game Crashes on Personal Computers"
-date: 2024-08-13T12:09:13.589Z
-updated: 2024-08-14T12:09:13.589Z
+date: 2025-01-17T02:17:58.402Z
+updated: 2025-01-17T20:57:18.358Z
 tags:
   - win11
   - win10
@@ -30,8 +30,9 @@ thumbnail: https://thmb.techidaily.com/92449e9d9f3ee8946cb03a78041d2307431f0fc5e
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Make sure your PC meets meets the system requirements for League of Legends
 
  The game may crash if your PC fails to meet its system requirement.  
@@ -63,6 +64,10 @@ thumbnail: https://thmb.techidaily.com/92449e9d9f3ee8946cb03a78041d2307431f0fc5e
 
  If your PC meets the system requirement for League of Legends but the game crashing issue persists, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your drivers
 
  A missing or outdated driver may also trigger the game crashing issue. If it’s the case, this issue can be easily resolved after you update your drivers.
@@ -83,9 +88,6 @@ thumbnail: https://thmb.techidaily.com/92449e9d9f3ee8946cb03a78041d2307431f0fc5e
 
  2) Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
@@ -124,31 +126,22 @@ thumbnail: https://thmb.techidaily.com/92449e9d9f3ee8946cb03a78041d2307431f0fc5e
 
 2) In the upper-right corner, click**the gear button**  to open the game settings.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
  3) Click**Initiate Full Repair** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
 
  4) Click**Yes** to continue. This may take a while.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Enable low spec mode
 
  If your PC fails to meet the recommended system requirements for League of Legends, but you still run it with the high spec graphics settings, the crashes may occur.
@@ -161,12 +154,17 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Run League of Legends to see if you resolved this issue.
 
@@ -181,8 +179,6 @@ Run League of Legends to see if you resolved this issue.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -190,4 +186,26 @@ Run League of Legends to see if you resolved this issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-eliminate-unwanted-screen-elements-during-cam-record/"><u>[New] In 2024, Eliminate Unwanted Screen Elements During Cam Record</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-essential-techniques-for-effective-srt-file-creation/"><u>[New] In 2024, Essential Techniques for Effective SRT File Creation</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-professionals-palette-prowess-color-command-secrets/"><u>2024 Approved Professionals' Palette Prowess - Color Command Secrets</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bust-the-quietness-in-evil-genius-2-troubleshooting-sound-problems/"><u>Bust the Quietness in Evil Genius 2 - Troubleshooting Sound Problems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/creating-characters-crafting-chronicles-gpts-sixfold-strategy/"><u>Creating Characters, Crafting Chronicles: GPT's Sixfold Strategy</u></a></li>
+<li><a href="https://win-answers.techidaily.com/darkest-dungeon-2-stability-issues-fixes-for-continuous-crashes-on-pc/"><u>Darkest Dungeon 2 Stability Issues: Fixes for Continuous Crashes on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-repair-your-obs-mic-issues-expert-tips-and-tricks/"><u>How To Repair Your OBS Mic Issues: Expert Tips and Tricks</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-messages-from-apple-iphone-6s-to-other-iphone-all-ios-versions-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer Messages From Apple iPhone 6s to other iPhone All iOS Versions | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-oppo-reno-11f-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Oppo Reno 11F 5G FRP Bypass</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-xiaomi-civi-3-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Xiaomi Civi 3</u></a></li>
+<li><a href="https://win-answers.techidaily.com/nvidia-gamestream-overlay-problems-how-to-resolve-them/"><u>NVIDIA GameStream Overlay Problems – How to Resolve Them</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-slow-framerate-challenges-for-a-smoother-experience-in-outriders/"><u>Overcoming Slow Framerate Challenges for a Smoother Experience in Outriders</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723010171379-resolved-issues-with-launching-civilization-vi-on-windows-10-fixed/"><u>Resolved: Issues with Launching Civilization VI on Windows 10 – Fixed</u></a></li>
+<li><a href="https://win-answers.techidaily.com/seamless-gaming-experience-solving-assassins-creed-odyssey-pc-crashes/"><u>Seamless Gaming Experience: Solving Assassin's Creed Odyssey PC Crashes</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-troubleshooting-0xc0000005-windows-errors-and-crashes/"><u>Step-by-Step Solution for Troubleshooting 0Xc0000005 Windows Errors and Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-solutions-getting-your-crusader-kings-ii-up-and-running-again/"><u>Step-by-Step Solutions: Getting Your Crusader Kings II Up and Running Again</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-2024-saga-of-windows-and-crowdstrike-decoding-the-origins-behind-the-infamous-cyber-clash-insights-and-analysis-by-zdnet/"><u>The 2024 Saga of Windows and CrowdStrike: Decoding the Origins Behind the Infamous Cyber Clash | Insights & Analysis by ZDNET</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-techniques-for-seamless-playability-and-elevated-fps-in-the-ascent/"><u>Troubleshooting Techniques for Seamless Playability & Elevated FPS in 'The Ascent'</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-cant-my-iphone-find-its-location-fix-common-errors-now/"><u>Why Can't My iPhone Find Its Location? Fix Common Errors Now</u></a></li>
+</ul></div>
 

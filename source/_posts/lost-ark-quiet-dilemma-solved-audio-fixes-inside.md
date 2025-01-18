@@ -1,7 +1,7 @@
 ---
 title: Lost Ark Quiet Dilemma Solved – Audio Fixes Inside!
-date: 2024-08-13T12:14:17.851Z
-updated: 2024-08-14T12:14:17.851Z
+date: 2025-01-12T00:46:40.580Z
+updated: 2025-01-18T11:13:22.251Z
 tags:
   - win11
   - win10
@@ -35,17 +35,20 @@ Lost Ark is a free-to-play online game that was developed by Smilegate RPG and p
 3. Right-click on the sound icon in your taskbar.
 4. Click**Open sound settings** . In the reproduction tab, check the volume of your main device.  
 ![open sound settings](https://images.drivereasy.com/wp-content/uploads/2021/04/open-sound-settings-1.png)
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Right-click on your output device and click**Properties** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. In the**Advanced** tab, check the**Exclusive Mode** checkboxes and click**Apply** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/2022-02-21_17-04-18.jpg)
 7. Back to the game and check the audio.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Update Windows Media Feature pack
 
  This is a proven fix that has helped many gamers. Give it a try and it may solve your issue.
@@ -55,6 +58,11 @@ Lost Ark is a free-to-play online game that was developed by Smilegate RPG and p
 1. Press the**Windows logo key + I** together to open**Settings** , then click**Apps** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/windows-settings-apps.jpg)
 2. Click**Apps and Features > Optional features > Add a feature** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Search or select**Media Feature Pack** in the list of available optional features.
 4. Relaunch the game and check the sound.
 
@@ -62,20 +70,15 @@ Lost Ark is a free-to-play online game that was developed by Smilegate RPG and p
 
 1. Press the **Windows logo key + I** together to open **Settings** , then click **Apps** \> Optional features.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/optional-features.jpg)
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Click**View features** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/view-features.jpg)
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Select the**Media Feature Pack** in the list of available optional features.
 4. Relaunch the game and check the audio.
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Update your audio driver
 
  Hardware problems can be caused by outdated or malfunctioning drivers. If the driver is outdated or wrong, it could cause problems like no sound and audio issues. So make sure your audio driver is up to date.
@@ -88,20 +91,18 @@ Lost Ark is a free-to-play online game that was developed by Smilegate RPG and p
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-audio-bluetooth-usb-unifying.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 Then, reboot your PC and relaunch the game to check.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Run as Administrator
 
  It’s a quick and easy fix that is worth trying. Run Lost Ark as Administrator so that the system won’t block its settings.
@@ -119,10 +120,12 @@ Then, reboot your PC and relaunch the game to check.
 
 1. Launch Steam and find Lost Ark in your library. Right-click the game then click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/Steam-right-click-Properties.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 2. Under **Local files** , click **Verify integrity of game files** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/verify-game-files.jpg)
 3. It may take a while for Steam to complete the scan. When the process is finished, restart the game and see the problem persists or not.
 
@@ -134,8 +137,6 @@ Then, reboot your PC and relaunch the game to check.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -143,4 +144,19 @@ Then, reboot your PC and relaunch the game to check.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-mastering-instagram-media-the-finest-downloading-options/"><u>[New] In 2024, Mastering Instagram Media The Finest Downloading Options</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-mac-users-guide-to-premium-mp4-slicer-apps/"><u>[New] Mac Users' Guide to Premium MP4 Slicer Apps</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-securing-footage-techniques-for-obscuring-sensitive-info/"><u>[Updated] In 2024, Securing Footage Techniques for Obscuring Sensitive Info</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-leading-organizations-in-creating-immersive-vr-experiences/"><u>[Updated] Leading Organizations in Creating Immersive VR Experiences</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-swift-recording-pro-with-voice-commentary-feature/"><u>[Updated] Swift Recording Pro with Voice Commentary Feature</u></a></li>
+<li><a href="https://win-answers.techidaily.com/elevate-your-ark-gaming-effective-ways-to-boost-fps-and-dominate-on-pc/"><u>Elevate Your ARK Gaming: Effective Ways to Boost FPS and Dominate on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-persistent-after-effects-applications-crashes-in-windows-1110-environments/"><u>How to Fix Persistent After Effects Applications Crashes in Windows 11/10 Environments</u></a></li>
+<li><a href="https://change-location.techidaily.com/ipogo-will-be-the-new-ispoofer-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Vivo Y200e 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/quick-fix-kinemaster-for-top-memes-for-2024/"><u>Quick-Fix KineMaster for Top Memes for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-8-troubleshooting-tips-to-stop-guardians-of-the-galaxy-from-crashing-on-your-pc/"><u>Top 8 Troubleshooting Tips to Stop 'Guardians of the Galaxy' From Crashing on Your PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-playing-tiny-tinas-skyborn-brave-on-desktops/"><u>Troubleshooting Steps for Playing Tiny Tina’s Skyborn Brave On Desktops</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Resolving the Cold War Glitch: Solutions for Game Freezing Issue on PC & Console"
-date: 2024-08-13T12:16:09.766Z
-updated: 2024-08-14T12:16:09.766Z
+date: 2025-01-12T18:40:53.416Z
+updated: 2025-01-18T03:36:44.392Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ Your**Sims 3 keeps crashing** whenever you’re launching the game or in the mid
 
  But don’t worry. Whether you’re getting issues like your**Sims 3 keeps crashes on the loading screen** , or**Sims 3 crashes with the black screen** , you can try the solutions in this post to fix these issues. Check it out.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to stop Sims 3 from crashing?
 
 1. [Install the latest game patch](https://tools.techidaily.com/drivereasy/download/)
@@ -34,8 +38,9 @@ Your**Sims 3 keeps crashing** whenever you’re launching the game or in the mid
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Install the latest game patch
 
  The developers keeps releasing the game updates to fix some bugs and improve your gaming experience, so you should check the latest patch and**install the game patch** to keep your Sims 3 up to date.
@@ -55,9 +60,6 @@ Your**Sims 3 keeps crashing** whenever you’re launching the game or in the mid
  2) Select**Repair Game** , and follow the on-screen instructions to finish.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28a73c0d605.jpg)
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Restart your router/modern, and restart your computer.
 
@@ -86,15 +88,16 @@ Your**Sims 3 keeps crashing** whenever you’re launching the game or in the mid
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1665b20185d.jpg)
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click the**Update** button next to a flagged graphics card to automatically download and install the correct version of this driver (you can do this with the**FREE** version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1f84eae6ca1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Restart your computer to take effect.
 
@@ -115,8 +118,9 @@ If you can access to the game settings:
  3) In the**Graphics** tab, uncheck**Enable Fullscreen Mode (** or select**Windowed Mode** in**Display Type** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28a8b273272.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Save the changes.
@@ -137,9 +141,6 @@ If you can access to the game settings:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5: Update DirectX in your computer
 
  If you’re running the old DirectX feature in your computer, you should consider updating the DirectX in your computer to fix the Sims 3 keeps crashing issue.
@@ -153,8 +154,9 @@ If you can access to the game settings:
  2) Type**dxdiag** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aa31a511b.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) You can see the**DirectX Version** under the**System** tab.
@@ -182,8 +184,6 @@ If you can access to the game settings:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -191,4 +191,26 @@ If you can access to the game settings:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-mastering-live-stream-capture-tv-show-recording-techniques/"><u>[New] 2024 Approved Mastering Live Stream Capture TV Show Recording Techniques</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-superior-schedulers-for-success-our-recommendation-list/"><u>[New] Superior Schedulers for Success Our Recommendation List</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/nderstanding-youtubes-monthly-revenue-options-for-2024/"><u>[New] Understanding YouTube's Monthly Revenue Options for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-trimmed-techniques-quick-quality-recording-for-dell-for-2024/"><u>[Updated] Trimmed Techniques Quick, Quality Recording for Dell for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-ultimate-guide-to-editbox-suite-reviewed/"><u>[Updated] Ultimate Guide to EditBox Suite, Reviewed</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ring-attention-striking-shots-for-youtube-success-for-2024/"><u>Capturing Attention Striking Shots for YouTube Success for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/concerts-by-international-orchestras-and-vocal-ensembles-opera-operetta-at-prague-castle/"><u>Concerts by International Orchestras and Vocal Ensembles (Opera, Operetta) at Prague Castle.</u></a></li>
+<li><a href="https://win-answers.techidaily.com/elden-rings-release-delay-clarified-everything-you-need-to-know/"><u>Elden Ring's Release Delay Clarified: Everything You Need to Know</u></a></li>
+<li><a href="https://win-answers.techidaily.com/elite-tactics-for-smoother-gameplay-in-chivalry-2-overcoming-network-lag-and-high-ping-innovative-fixes/"><u>Elite Tactics for Smoother Gameplay in Chivalry 2: Overcoming Network Lag & High Ping (Innovative Fixes)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-implemented-now-team-fortress-2-wont-quit-on-you-mid-game/"><u>Fix Implemented: Now, Team Fortress 2 Won't Quit On You Mid-Game</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-spatial-audio-issues-troubleshooting-tips-for-windows-11-and-10-users/"><u>Fixing Spatial Audio Issues: Troubleshooting Tips for Windows 11 and 10 Users</u></a></li>
+<li><a href="https://fox-access.techidaily.com/game-on-in-reality-discover-the-top-5-samsung-vr-titles-for-2024/"><u>Game On in Reality! Discover the Top 5 Samsung VR Titles for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-origin-not-responding-on-windows-10-and-11/"><u>How to Fix 'Origin Not Responding' On Windows 10 and 11</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-oppo-reno-10-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Oppo Reno 10 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-guide-for-successful-loading-of-the-elder-scrolls-online-game/"><u>Solution Guide for Successful Loading of The Elder Scrolls Online Game</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-common-directdraw-graphics-glitches-easily/"><u>Solving Common DirectDraw Graphics Glitches Easily</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722987569870-trouble-with-cyberpunk-2077-get-smooth-game-download-experience-on-steam-now/"><u>Trouble with Cyberpunk 2077? Get Smooth Game Download Experience on Steam Now!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-resolving-the-tfla0002-final-exam-glitch/"><u>Ultimate Guide: Resolving the TFLA0002 Final Exam Glitch</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-the-basics-of-wi-fi-calling/"><u>Understanding the Basics of Wi-Fi Calling</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Resolve Fortnite's Video Memory Issues: A Step-by-Step Guide"
-date: 2025-01-08T18:21:45.446Z
-updated: 2025-01-12T16:03:43.131Z
+date: 2025-01-17T02:49:31.980Z
+updated: 2025-01-17T16:25:19.958Z
 tags:
   - win11
   - win10
@@ -65,10 +65,6 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
 
  If your PC meets the system requirement for League of Legends but the game crashing issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Update your drivers
 
  A missing or outdated driver may also trigger the game crashing issue. If it’s the case, this issue can be easily resolved after you update your drivers.
@@ -92,7 +88,7 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
@@ -102,7 +98,7 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-84.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
@@ -117,13 +113,13 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-62-1024x796.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Wait until Windows downloaded and installed all the updates.
 
@@ -145,12 +141,16 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click**Yes** to continue. This may take a while.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
@@ -193,18 +193,24 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-creating-captivating-hdr-portraits-in-10-steps/"><u>[New] Creating Captivating HDR Portraits in 10 Steps</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-from-dull-to-dynamic-an-in-depth-guide-to-hue-mastery/"><u>[Updated] From Dull to Dynamic An In-Depth Guide to Hue Mastery</u></a></li>
-<li><a href="https://fox-that.techidaily.com/6-fixes-for-airpods-not-switching-automatically-between-apple-devices/"><u>6 Fixes for AirPods Not Switching Automatically Between Apple Devices</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-fixes-for-continuous-killing-of-your-playtime-halo-infinite-pc-edition/"><u>Effective Fixes for Continuous Killing of Your Playtime - Halo Infinite PC Edition</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-high-speed-gaming-overcoming-lag-in-forza-horizon-5/"><u>Fixing High-Speed Gaming: Overcoming Lag in Forza Horizon 5</u></a></li>
-<li><a href="https://win-answers.techidaily.com/football-manager-2022-release-delay-solutions-and-workarounds/"><u>Football Manager 2022 Release Delay: Solutions & Workarounds</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Vivo T2x 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-password-cracking-tools-for-asus-rog-phone-8-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Asus ROG Phone 8</u></a></li>
-<li><a href="https://win-answers.techidaily.com/optimizing-your-gameplay-solutions-for-cbow-lag-spike-and-frame-rate-issues/"><u>Optimizing Your Gameplay: Solutions for CBOW Lag Spike & Frame Rate Issues</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-motorola-moto-g14-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Motorola Moto G14 | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-access-free-downloads-for-easycap-drives/"><u>Quick Access: Free Downloads for EasyCAP Drives</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-solutions-overcome-latency-and-improve-battlefield-5-performance/"><u>Step-by-Step Solutions: Overcome Latency and Improve Battlefield 5 Performance</u></a></li>
-<li><a href="https://win-answers.techidaily.com/yakuza-like-a-dragon-now-fully-functional-and-ready-for-gaming-enthusiasts/"><u>Yakuza: Like a Dragon - Now Fully Functional and Ready for Gaming Enthusiasts</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-quick-alteration-youtube-vids-fit-mac-displays/"><u>[New] 2024 Approved Quick Alteration YouTube Vids Fit Mac Displays</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-the-insiders-guide-to-authentic-instagram-imagery/"><u>[New] In 2024, The Insider’s Guide to Authentic Instagram Imagery</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-scaling-up-your-income-with-instagram-mastery/"><u>[Updated] 2024 Approved Scaling Up Your Income with Instagram Mastery</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-unravel-enigmas-your-guide-to-elite-escape-spaces/"><u>[Updated] Unravel Enigmas Your Guide to Elite Escape Spaces</u></a></li>
+<li><a href="https://win-answers.techidaily.com/activating-microsofts-virtualization-platform-hyper-v-in-windows-11-a-how-to-guide/"><u>Activating Microsoft's Virtualization Platform: Hyper-V in Windows 11 – A How-To Guide</u></a></li>
+<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-oppo-f25-pro-5g-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Oppo F25 Pro 5G</u></a></li>
+<li><a href="https://win-answers.techidaily.com/battlefield-2042-performance-woes-troubleshooting-pc-frame-rate-hitches-and-lags/"><u>Battlefield 2042 Performance Woes: Troubleshooting PC Frame Rate Hitches & Lags</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723008751110-cyberpunk-2077-wont-start-here-are-the-fixes-that-worked/"><u>Cyberpunk 2077 Won't Start? Here Are the Fixes That Worked!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-how-these-3-groundbreaking-iphone-16-innovations-make-upgrades-irresistible-zdnet-insights/"><u>Discover How These 3 Groundbreaking iPhone 16 Innovations Make Upgrades Irresistible | ZDNET Insights</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-solutions-for-consistent-crashes-in-age-of-wonders-planetfall-on-pc/"><u>Effective Solutions for Consistent Crashes in Age of Wonders: Planetfall on PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-solutions-for-when-you-cant-find-or-access-msodll/"><u>Effective Solutions for When You Can’t Find or Access mso.dll</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-reconnection-bug-in-lol-for-a-seamless-gameplay-experience/"><u>Fixing the Reconnection Bug in LoL for a Seamless Gameplay Experience</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Oppo A56s 5G | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-troubleshoot-and-fix-2022s-dota-2-vac-error-for-smooth-gameplay/"><u>How to Troubleshoot and Fix 2022'S Dota 2 VAC Error for Smooth Gameplay</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-apple-iphone-14-pro-for-parents-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 10 Telegram Spy Tools On Apple iPhone 14 Pro for Parents | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/inside-story-expert-tactics-to-conquer-the-battlegrounds-of-call-of-duty-modern-warfare-fps/"><u>Inside Story: Expert Tactics to Conquer the Battlegrounds of Call of Duty: Modern Warfare FPS</u></a></li>
+<li><a href="https://win-answers.techidaily.com/navigating-through-steam-error-130-top-fixes-and-best-practices-for-a-smooth-gaming-experience/"><u>Navigating Through Steam Error 130: Top Fixes and Best Practices for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722987746525-roblox-quiet-playtime-heres-how-to-restore-sound-on-your-win11win10-setup/"><u>Roblox Quiet Playtime? Here's How to Restore Sound on Your Win11/Win10 Setup!</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-tips-for-stopping-pc-video-game-crashes/"><u>Ultimate Troubleshooting Tips for Stopping PC Video Game Crashes</u></a></li>
 </ul></div>
 

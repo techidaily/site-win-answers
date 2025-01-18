@@ -1,7 +1,7 @@
 ---
 title: PC Gamers Unite! How to Get 'Days Gone' Up & Running Without Hitches
-date: 2024-08-13T12:13:50.752Z
-updated: 2024-08-14T12:13:50.752Z
+date: 2025-01-17T01:27:30.723Z
+updated: 2025-01-17T19:00:18.795Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ Are you upset by your Logitech C920 webcam? It’s not working or no longer reco
 
  Before trying any complicated fixes, make sure your Logitech C920 webcam is working properly. You can test it on another computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -29,6 +33,10 @@ Are you upset by your Logitech C920 webcam? It’s not working or no longer reco
 4. [Disable conflict apps](https://tools.techidaily.com/drivereasy/download/)
 5. [Repair system files](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Go to privacy settings
 
  The problem may be caused by Windows Privacy settings. It’s possible that Windows Privacy blocks the Logitech Webcam.
@@ -38,13 +46,7 @@ Are you upset by your Logitech C920 webcam? It’s not working or no longer reco
 2. In the left pane, click**Camera** and make sure**Allow apps to access your camera** is on. Scroll down to turn on the app you allow to access your camera.
 3. In the left pane, click**Microphone** and make sure**Allow apps to access your camera** is on. Scroll down to turn on the app you allow to access your camera.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-19_18-24-47.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ## Fix 2: Reinstall the Logitech software
 
  It’s possible that the Logitech software could be the reason for the issue. Remove the Logitech software and download it from the official website, then install it.
@@ -52,10 +54,12 @@ Are you upset by your Logitech C920 webcam? It’s not working or no longer reco
 1. Press the**Windows logo key + R** together.
 2. Type **appwiz  .  cpl**  and press**Enter** on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-426.png)
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Right-click on Logitech software and select**Uninstall** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Logitech-4.jpg)
 4. During the uninstall process, only select THE DRIVER.
 5. Finish the uninstall process and run the camera again. It should be working with your software.
@@ -64,9 +68,6 @@ Are you upset by your Logitech C920 webcam? It’s not working or no longer reco
 
 There’s another situation that
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 3: Reinstall your drivers
 
  Outdated or wrong drivers could cause trouble. When you meet computer problems but have no clue to fix them, you can update related drivers for a try. Keeping your drivers updated can help you enhance device functions to improve computer performance.
@@ -79,13 +80,18 @@ OR
 
 **[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/solved-logitech-c920-webcam-not-working/#op2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Option 1 – Download and install the driver manually
 
  You can download graphics drivers from the manufacturer’s official website. Search for the model you have and find the correct driver that suits your specific operating system. Then download the driver manually.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 2 – Automatically update drivers
 
  If you don’t have time or patience to manually update drivers, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -106,9 +112,9 @@ OR
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 4: Disable conflict apps
 
  There’s a situation where your webcam stops working because of other programs. The conflict apps could be Skype, Discord, VPN, or others. According to our readers,**VPN provided by Malwarebytes** is one of the conflicting apps.  
@@ -119,9 +125,6 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/steam-end-task.png)
 3. Reboot your camera to check.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 5: Repair system files
 
  Sometimes corrupted system files and hardware issues will lead to all kinds of errors. To identify the cause and repair it, you don’t have to check those components one by one but perform a quick automatic system scan.
@@ -133,14 +136,8 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
@@ -155,8 +152,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -164,4 +159,26 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-a-new-era-in-iptv-recording-technology-exploration/"><u>[New] A New Era in IPTV Recording Technology Exploration</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-counteract-fake-views-boosting-genuine-audience-size-for-2024/"><u>[New] Counteract Fake Views Boosting Genuine Audience Size for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-metro-exodus-pc-enhanced-edition-keeps-crashing/"><u>[SOLVED] Metro Exodus PC Enhanced Edition Keeps Crashing</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-ifunny-memes-unlocked-download-and-use-in-a-flash/"><u>[Updated] 2024 Approved IFunny Memes Unlocked Download & Use in a Flash</u></a></li>
+<li><a href="https://win-answers.techidaily.com/boost-your-systems-performance-cpu-compatibility-for-optimum-vanguard-experience/"><u>Boost Your System's Performance - CPU Compatibility for Optimum Vanguard Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bypassing-startup-hurdles-for-pathfinder-wrath-of-the-righteous-tips-and-tricks-to-get-the-game-up-and-running/"><u>Bypassing Startup Hurdles for Pathfinder: Wrath of the Righteous - Tips and Tricks to Get the Game Up & Running</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-review-of-the-ultra-thin-and-lightweight-samsung-galaxy-chromebook-2/"><u>Comprehensive Review of the Ultra-Thin & Lightweight Samsung Galaxy Chromebook 2</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/crafting-professional-broadcasts-mastering-obs-plus-zoom-techniques-for-2024/"><u>Crafting Professional Broadcasts Mastering OBS + Zoom Techniques for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/destiny-2-pc-version-fixed-now-running-smoothly/"><u>Destiny 2 PC Version Fixed - Now Running Smoothly!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/essential-guide-why-protecting-your-privacy-with-a-vpn-is-crucial-for-vision-pro-and-similar-arvr-devices-insights-from-zdnet/"><u>Essential Guide: Why Protecting Your Privacy with a VPN Is Crucial for Vision Pro and Similar AR/VR Devices - Insights From ZDNet</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/galaxy-gallery-star-rated-productions-and-reviews/"><u>Galaxy Gallery: Star-Rated Productions & Reviews</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-stability-no-more-freezes-with-madden-2021-on-pc/"><u>Mastering Stability: No More Freezes with Madden 2021 on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-troubles-in-hoi4-a-guide-to-resolving-game-crashes/"><u>Overcoming Troubles in HoI4 - A Guide to Resolving Game Crashes</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-realme-c51-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Realme C51 to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolve-controller-detection-issues-with-steam-on-windows-systems/"><u>Resolve: Controller Detection Issues with Steam on Windows Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-insufficient-memory-problem-in-god-of-war-game-details-inside/"><u>Resolved: Insufficient Memory Problem in God of War Game - Details Inside</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/speedy-driver-refresh-techniques-for-the-new-dell-xps-7586-g7-notebooks/"><u>Speedy Driver Refresh Techniques for the New Dell XPS 7586 G7 Notebooks</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-5-best-video-converters-for-macos-sierra-for-2024/"><u>Top 5 Best Video Converters for macOS Sierra for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-overcoming-nvidia-geforce-error-0x0003-in-geforce-experience/"><u>Troubleshooting Guide: Overcoming Nvidia Geforce Error 0X0003 in GeForce Experience</u></a></li>
+</ul></div>
 

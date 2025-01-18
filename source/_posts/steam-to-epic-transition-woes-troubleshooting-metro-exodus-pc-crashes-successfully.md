@@ -1,7 +1,7 @@
 ---
 title: Steam-to-Epic Transition Woes? Troubleshooting Metro Exodus PC Crashes Successfully
-date: 2025-01-03T03:30:57.145Z
-updated: 2025-01-05T19:27:31.568Z
+date: 2025-01-14T18:50:50.429Z
+updated: 2025-01-18T02:40:13.488Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Here’s a list of fixes that have resolved this problem for other gamers. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -38,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
 4. **[Install the latest game patch](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Disable in-game overlays](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 1: Stop overclocking
 
@@ -67,7 +59,7 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note** : You can do it for free if you like, but it’s partly manual.
@@ -78,6 +70,10 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
  Restart Metro Exodus PC Enhanced Edition to see if you fixed the crashing issue. If yes, congratulations!
 
 If the issue persists, try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Verify the integrity of game files
 
@@ -94,7 +90,7 @@ If the issue persists, try the next fix below.
  Restart Metro Exodus PC Enhanced Edition to check if this fix stops the crashes. If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 4: Install the latest game patch
@@ -104,10 +100,6 @@ If the issue persists, try the next fix below.
  If a patch is available, it will be detected by Steam, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Run Metro Exodus PC Enhanced Edition again to see if the game crashes. If it didn’t work, or there was no new game patch available, move on to the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 5: Disable in-game overlays
 
@@ -122,10 +114,14 @@ If the issue persists, try the next fix below.
 2. In the **GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you’re using other apps with overlay features, such as Discord, Nvidia GeForce Experience, Twitch, etc., make sure you’ve disabled the in-game overlay in those apps feature before you restart the game.
 
@@ -146,7 +142,7 @@ To perform a clean boot, just follow the steps below:
 2. Navigate to the **Services** tab, check **Hide all Microsoft services,** and then click **Disable all** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
@@ -160,6 +156,10 @@ To perform a clean boot, just follow the steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
@@ -189,19 +189,22 @@ To perform a clean boot, just follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-superior-schedulers-for-success-our-recommendation-list/"><u>[New] In 2024, Superior Schedulers for Success Our Recommendation List</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solved-crusader-kings-3-crashing-on-pc/"><u>[SOLVED] Crusader Kings 3 Crashing on PC</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-epic-game-viewing-venues-the-top-nine/"><u>[Updated] In 2024, Epic Game Viewing Venues The Top Nine</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-prime-windows-11-photo-inspector/"><u>2024 Approved Prime Windows 11 Photo Inspector</u></a></li>
-<li><a href="https://article-tips.techidaily.com/decoding-the-new-era-of-video-editing-with-vivacut-for-2024/"><u>Decoding the New Era of Video Editing with VivaCut for 2024</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/direct-display-of-flipbooks-on-facebook-pages-a-step-by-step-guide-with-flipbuilder/"><u>Direct Display of FlipBooks on Facebook Pages: A Step-by-Step Guide with FlipBuilder</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723002054972-expert-advice-on-speeding-up-your-steam-gameplay-experience/"><u>Expert Advice on Speeding Up Your Steam Gameplay Experience!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/game-storage-solutions-for-xbox-enthusiasts-mastering-external-drive-usage/"><u>Game Storage Solutions for Xbox Enthusiasts: Mastering External Drive Usage</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-xiaomi-14-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Xiaomi 14 to Protect Your Individual Information</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-prevent-metro-exodus-from-crashing-while-playing-on-windows-1011/"><u>How to Prevent Metro Exodus From Crashing While Playing on Windows 10/11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-resolve-elex-ii-pc-game-stability-problems-seamlessly/"><u>How to Resolve Elex II PC Game Stability Problems Seamlessly</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-boost-engagement-adding-dynamic-backgrounds-to-your-thumbnails/"><u>In 2024, Boost Engagement Adding Dynamic Backgrounds to Your Thumbnails</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-issues-with-fifa-21-game-installation-and-launch/"><u>Resolved: Issues with FIFA 21 Game Installation and Launch</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-gpeditmsc-missing-on-windows-home-systems/"><u>Resolving 'gpedit.msc' Missing on Windows Home Systems</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-ultimate-rankings-of-top-free-cross-platform-video-calls-iphoneandroid-for-2024/"><u>[New] Ultimate Rankings of Top Free Cross-Platform Video Calls (iPhone/Android) for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/a-comprehensive-guide-to-rectifying-the-ls-0013-fault-in-borderlands-3/"><u>A Comprehensive Guide to Rectifying the LS-0013 Fault in Borderlands 3</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-installation-hurdles-steps-to-get-minecraft-up-and-running-on-windows-11-systems/"><u>Beat Installation Hurdles: Steps to Get Minecraft Up and Running on Windows 11 Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/boosting-engagement-the-ultimate-10-step-plan-to-go-viral-on-tiktok/"><u>Boosting Engagement: The Ultimate 10-Step Plan to Go Viral on TikTok</u></a></li>
+<li><a href="https://win-answers.techidaily.com/comprehensive-solutions-to-overcome-internet-explorers-service-unavailable-errors/"><u>Comprehensive Solutions to Overcome Internet Explorer's 'Service Unavailable' Errors</u></a></li>
+<li><a href="https://win-answers.techidaily.com/destiny-2-pc-launch-issues-resolved-game-now-running-smoothly/"><u>Destiny 2 PC Launch Issues Resolved: Game Now Running Smoothly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/end-the-darkness-expert-tips-for-rectifying-star-wars-battlefront-2-screen-blackout-dilemma/"><u>End the Darkness: Expert Tips for Rectifying Star Wars Battlefront 2 Screen Blackout Dilemma</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722843528859-finding-vanished-contact-information-in-your-androids-address-book/"><u>Finding Vanished Contact Information in Your Android's Address Book</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixes-for-when-valve-anti-cheat-fails-to-authenticate-game-play-session/"><u>Fixes for When Valve Anti-Cheat Fails to Authenticate Game Play Session</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Oppo Find X6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-vivo-s18-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Vivo S18</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-street-fighter-6-on-your-pc-proven-methods-to-tackle-high-ping-and-seamless-gaming-experience/"><u>Master Street Fighter 6 on Your PC: Proven Methods to Tackle High Ping and Seamless Gaming Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-gamers-rejoice-resolve-resident-evil-5-startup-problems-now/"><u>PC Gamers Rejoice: Resolve Resident Evil 5 Startup Problems Now</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/print-setup-no-complications-found/"><u>Print Setup: No Complications Found</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-issues-with-the-avatar-game-pandoras-frontier-launch-problem/"><u>Solving Issues with the Avatar Game - Pandora's Frontier Launch Problem</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/step-by-step-creating-your-own-chat-signal-ios-and-android-edition-for-2024/"><u>Step-by-Step Creating Your Own Chat Signal - iOS & Android Edition for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-list-of-6-best-nft-platforms-for-artists/"><u>The Ultimate List of 6 Best NFT Platforms for Artists</u></a></li>
 </ul></div>
 

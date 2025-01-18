@@ -1,7 +1,7 @@
 ---
 title: Mastering the Fix for DOOM Eternal Continuous Crashes - Proven Techniques Inside!
-date: 2025-01-11T18:12:46.294Z
-updated: 2025-01-12T19:05:22.490Z
+date: 2025-01-15T23:48:51.842Z
+updated: 2025-01-18T01:41:46.823Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ Recently many players reported Star Wars Squadrons crashing on PC when they were
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to fix Star Wars Squadrons crashing
@@ -47,23 +47,11 @@ Recently many players reported Star Wars Squadrons crashing on PC when they were
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-14.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Select the**Compatibility** tab. Then, tick**Run this program as an administrator** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-2-8.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Check if the game runs normally now. If not, move on to the second fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2 – Verify the integrity of your game files
 
@@ -79,10 +67,6 @@ Check if the game runs normally now. If not, move on to the second fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Select the**Local Files** tab, and click**Verify Integrity of Game Files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2-3.jpg)
@@ -94,6 +78,10 @@ Check if the game runs normally now. If not, move on to the second fix.
 **1)** Launch Origin and select**My Game Library** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)** Select**Star Wars Squadrons** from the list. Then, click the**settings icon** and click**Repair** .
 
@@ -123,6 +111,10 @@ There are mainly two ways you can do the driver update:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/amd-5700-de-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -138,6 +130,10 @@ There are mainly two ways you can do the driver update:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2-1-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Right-click**Star Wars Squadrons** and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2-2.jpg)
@@ -145,10 +141,6 @@ There are mainly two ways you can do the driver update:
 **3)** Untick**Enable the Steam Overlay while in-game** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### On Origin
 
@@ -166,10 +158,6 @@ There are mainly two ways you can do the driver update:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### On GeForce Experience
 
 **1)** Run GeForce Experience.
@@ -178,14 +166,22 @@ There are mainly two ways you can do the driver update:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/7-1-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Toggle off**In-Game Overlay** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/0-00.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Restart the game to see whether crashing is fixed or not. If not, head towards the next method.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5 – Adjust the graphics settings
@@ -202,19 +198,23 @@ There are mainly two ways you can do the driver update:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/4-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Set Fullscreen Mode to**Windowed** or**Borderless** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/4-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **5)** Scroll down to Volumetric Quality, and set it to**Medium** or**Low** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/4-4.jpg)
 
  According to your needs, you can also set other options under Advanced Settings to**Low** or**Medium** . After the changes are applied, run the game to check if crashes go away. If not, take a look at the last fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6 – Reinstall the game
 
@@ -241,22 +241,24 @@ There are mainly two ways you can do the driver update:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-4-best-websites-for-downloading-skype-ringtone/"><u>[New] 2024 Approved 4 Best Websites For Downloading Skype Ringtone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-harness-the-magic-of-photography-and-video-with-pixiz-for-2024/"><u>[New] Harness the Magic of Photography and Video with Pixiz for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/2024-approved-no-fuss-vocal-elimination-procedures-for-audacity-professionals/"><u>2024 Approved No-Fuss Vocal Elimination Procedures for Audacity Professionals</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/5-easy-ways-to-transfer-contacts-from-apple-iphone-6s-to-android-drfone-by-drfone-transfer-from-ios/"><u>5 Easy Ways to Transfer Contacts from Apple iPhone 6s to Android | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/a-comprehensive-breakdown-of-live-streaming-and-downloading-tv/"><u>A Comprehensive Breakdown of Live Streaming and Downloading TV</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/backup-elettronici-iniziati-da-avvenimenti-predeterminati-come-configurarli-automaticamente/"><u>Backup Elettronici Iniziati Da Avvenimenti Predeterminati – Come Configurarli Automaticamente</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-tips-for-overcoming-apex-legends-game-engine-hiccups/"><u>Effective Tips for Overcoming Apex Legends Game Engine Hiccups</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-logitech-g-hub-issues-troubleshooting-guide-for-windows-users/"><u>Fixing Logitech G Hub Issues: Troubleshooting Guide for Windows Users</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-dissecting-youtube-copyright-vs-creative-commons-ethos/"><u>In 2024, Dissecting YouTube Copyright Vs. Creative Commons Ethos</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/los-mejores-convertidores-hevch265-de-202n-para-usar-con-windows-mac-y-plataformas-online/"><u>Los Mejores Convertidores HEVC/H.265 De 202N Para Usar Con Windows, Mac Y Plataformas Online</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-optimal-performance-tips-for-maximizing-fps-in-ring-of-elysium/"><u>Mastering Optimal Performance: Tips for Maximizing FPS in Ring of Elysium</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-phasmophobia-crash-fixes-expert-tips-for-game-stability/"><u>Mastering Phasmophobia Crash Fixes - Expert Tips for Game Stability</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-startup-problems-in-farming-simulator-22-a-step-by-step-tutorial/"><u>Overcoming Startup Problems in Farming Simulator 22 - A Step by Step Tutorial</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-game-freezes-effective-solutions-to-prevent-titanfall-2-crashes/"><u>Resolving Game Freezes: Effective Solutions to Prevent Titanfall 2 Crashes</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/solidify-iphone-footage-top-stabilization-practices-unveiled/"><u>Solidify iPhone Footage Top Stabilization Practices Unveiled</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solutions-proven-effective-for-stabilizing-aow-planetfall-performance-on-pc-systems/"><u>Solutions Proven Effective for Stabilizing AoW Planetfall Performance on PC Systems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-solving-assassins-creed-origins-glitches/"><u>Ultimate Guide: Solving Assassin’s Creed Origins Glitches</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-personalizing-ps-sound-the-complete-guide-for-gamers/"><u>[New] 2024 Approved Personalizing PS Sound The Complete Guide for Gamers</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-android-sound-logging-without-rooting-need-for-2024/"><u>[Updated] Android Sound Logging - Without Rooting Need for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/amplify-your-sounds-mac-studio-guide/"><u>Amplify Your Sounds Mac Studio Guide</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-your-iphone-6s-plus-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From your iPhone 6s Plus</u></a></li>
+<li><a href="https://win-answers.techidaily.com/defeating-pc-game-crash-errors-in-sons-of-heavenwood-ultimate-fix-strategies/"><u>Defeating PC Game Crash Errors in Sons of Heavenwood: Ultimate Fix Strategies</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-obs-when-it-wont-record-your-screen-anymore-solved/"><u>How to Fix OBS When It Won't Record Your Screen Anymore - Solved!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-dead-by-daylight-from-continuously-crashing-essential-tips-and-solutions/"><u>How To Stop Dead By Daylight From Continuously Crashing | Essential Tips & Solutions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-zero-to-hero-solo-podcast-trendsetters-secrets/"><u>In 2024, From Zero to Hero Solo Podcast Trendsetters' Secrets</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-find-my-iphone-without-apple-id-from-your-apple-iphone-6s-plus-by-drfone-ios/"><u>In 2024, How to Remove Find My iPhone without Apple ID From your Apple iPhone 6s Plus?</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-quick-steps-to-change-weather-location-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>In 2024, Quick Steps to Change Weather Location on Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-lost-arks-persistent-crash-problems-for-a-smoother-gaming-experience/"><u>Overcome Lost Ark's Persistent Crash Problems for a Smoother Gaming Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-persistent-launch-failures-on-red-dead-redemption-2/"><u>Overcoming Persistent Launch Failures on Red Dead Redemption 2</u></a></li>
+<li><a href="https://windows11.techidaily.com/reimagine-windows-11-notepad-aesthetics-and-readability/"><u>Reimagine Windows 11 Notepad: Aesthetics & Readability</u></a></li>
+<li><a href="https://some-tips.techidaily.com/smart-living-upgrades-of-2024-showcase-expertly-evaluated-and-reviewed-features-for-modern-homes-zdnet/"><u>Smart Living Upgrades of 2024 Showcase: Expertly Evaluated & Reviewed Features for Modern Homes | ZDNET</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-pc-crashes-in-call-of-dutys-zombies-uprising-4-expert-fix-guide/"><u>Troubleshooting PC Crashes in Call of Duty's 'Zombies Uprising 4': Expert Fix Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-resolving-nvidia-control-panel-malfunctions/"><u>Troubleshooting Steps: Resolving NVIDIA Control Panel Malfunctions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unfreeze-your-strategy-tackling-cold-war-stuck-screens-in-video-game-consoles-and-computers/"><u>Unfreeze Your Strategy: Tackling 'Cold War' Stuck Screens in Video Game Consoles and Computers</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/1728510433462-usb/"><u>USB硬碟斷線？深入了解專業緊急數據搶救技術，如何保全不可或缺的文件</u></a></li>
+<li><a href="https://win-answers.techidaily.com/valorant-troubleshooting-guide-put-an-end-to-pc-game-crashes-now/"><u>Valorant Troubleshooting Guide - Put an End to PC Game Crashes Now!</u></a></li>
 </ul></div>
 

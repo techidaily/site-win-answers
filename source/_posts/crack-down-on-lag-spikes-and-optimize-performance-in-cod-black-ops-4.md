@@ -1,7 +1,7 @@
 ---
 title: "Crack Down on Lag Spikes and Optimize Performance in Cod: Black Ops 4"
-date: 2025-01-11T17:14:48.510Z
-updated: 2025-01-12T18:11:13.432Z
+date: 2025-01-15T19:25:03.632Z
+updated: 2025-01-18T03:33:55.680Z
 tags:
   - win11
   - win10
@@ -36,7 +36,7 @@ You may not have to try them all. Just choose the one you need.
  FPS stands for**frames per second** . Basically, it measures how many images a GPU can render and how many images it can display in a second as well. The higher the FPS, the better the graphics and in-game transitions are.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 1: Optimize your in-game settings
@@ -49,21 +49,17 @@ You may not have to try them all. Just choose the one you need.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-26.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click the**Quality** tab, and then modify the settings following the screenshot below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-27-1024x558.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Click**Apply** , then relaunch your game.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-28-1024x558.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2: Update your graphics driver
 
@@ -97,10 +93,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-357.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -110,6 +102,10 @@ OR
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3: Change the power option
 
@@ -128,18 +124,18 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-721.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Select **High Performance** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-738.png)
 
- Restart your computer, and then relaunch your game to see if this worked for you.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Restart your computer, and then relaunch your game to see if this worked for you.
 
 ### Method 4: Configure your graphics settings
 
@@ -154,10 +150,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-46.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Click**Manage 3D settings** , then**Program Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-36.png)
@@ -166,6 +158,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-37.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Select**Ring of Elysium** , and then click**Add Selected Program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-38.png)
@@ -173,6 +169,10 @@ OR
 **5)** Modify the settings following the screenshot below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-41.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### If you’re using an AMD graphics product…
 
@@ -189,7 +189,7 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-42-1024x459.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 5: Overclock your GPU
@@ -221,20 +221,18 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-elite-text-enhancement-tools-and-techniques/"><u>[New] 2024 Approved Elite Text Enhancement Tools & Techniques</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-vr-gear-top-10-pc-headsets-2023-edition/"><u>[Updated] In 2024, VR Gear Top 10 PC Headsets, 2023 Edition</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-10-best-hash-monitoring-apps-for-major-social-platforms-fbtwitterinsta/"><u>2024 Approved 10 Best Hash Monitoring Apps for Major Social Platforms (FB/Twitter/Insta)</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-a-new-era-of-visual-narratives-full-rotation/"><u>2024 Approved A New Era of Visual Narratives Full Rotation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-close-look-at-ai-dialogues-nine-major-issues-in-gpt/"><u>A Close Look at AI Dialogues: Nine Major Issues in GPT</u></a></li>
-<li><a href="https://win-answers.techidaily.com/bypassing-the-error-code-0xc0000005-in-call-of-duty-black-ops-cold-war-gameplay/"><u>Bypassing the Error Code 0xC0000005 in Call of Duty Black Ops Cold War Gameplay</u></a></li>
-<li><a href="https://article-helps.techidaily.com/crossapple-windows-vmx-version-for-2024/"><u>CrossApple-Windows VMX Version for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-solutions-for-overcoming-error-code-421-in-genshin-impact/"><u>Effective Solutions for Overcoming Error Code 42지오1 in Genshin Impact</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/enhancing-heads-in-tiktok-videos-3-efficient-techniques-for-2024/"><u>Enhancing Heads in TikTok Videos 3 Efficient Techniques for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-xiaomi-14-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Xiaomi 14 via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/outriders-optimization-guide-overcoming-low-fps-challenges/"><u>Outriders Optimization Guide: Overcoming Low FPS Challenges</u></a></li>
-<li><a href="https://extra-support.techidaily.com/premium-accessible-stopwatch-services-for-2024/"><u>Premium Accessible Stopwatch Services for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/rogue-company-end-the-frustration-of-frequent-pc-game-disruptions-with-these-fixes/"><u>Rogue Company: End the Frustration of Frequent PC Game Disruptions with These Fixes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/the-definitive-fix-to-stop-overwatch-from-crashing-due-to-graphics-drivers/"><u>The Definitive Fix to Stop Overwatch From Crashing Due to Graphics Drivers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/vrchat-stability-guide-eight-key-solutions-to-prevent-your-game-from-crashing-on-windows/"><u>VRChat Stability Guide: Eight Key Solutions to Prevent Your Game From Crashing on Windows</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-discovering-the-roots-of-visual-content-through-reverse-scans-fb/"><u>[Updated] 2024 Approved Discovering the Roots of Visual Content Through Reverse Scans (FB)</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-elevating-tiktok-visuals-with-monumental-head-effects/"><u>[Updated] In 2024, Elevating TikTok Visuals with Monumental Head Effects</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-the-best-practices-for-silent-film-making/"><u>[Updated] In 2024, The Best Practices for Silent Film Making</u></a></li>
+<li><a href="https://extra-information.techidaily.com/capture-and-crop-with-ios-top-iphone-apps-reviewed-for-2024/"><u>Capture & Crop with iOS Top iPhone Apps Reviewed for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-dealing-with-origin-not-starting-properly-under-windows-11-environment/"><u>Expert Advice: Dealing With 'Origin' Not Starting Properly Under Windows 11 Environment</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723007065050-how-to-stop-frostpunk-crashes-expert-tips-and-solutions-inside/"><u>How To Stop Frostpunk Crashes: Expert Tips and Solutions Inside</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-honor-90-pro-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Honor 90 Pro Screen | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-the-technique-of-dealing-with-mir4-crashes-on-desktop-computers/"><u>Master the Technique of Dealing with MIR4 Crashes on Desktop Computers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/new-world-fixed-version-with-enhanced-stability-no-more-freezing-issues/"><u>New World - Fixed Version with Enhanced Stability: No More Freezing Issues</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/simplified-methods-to-close-unused-social-media-linkedin-account-for-2024/"><u>Simplified Methods to Close Unused Social Media (LinkedIn) Account for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-for-fixing-windows-grounded-issues-on-pc/"><u>Troubleshooting Guide for Fixing Windows 'Grounded' Issues on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-stop-starfield-from-crashing-or-hanging-in-your-pc/"><u>Troubleshooting Tips: Stop Starfield From Crashing or Hanging in Your PC</u></a></li>
+<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-on-iphone-13-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication On iPhone 13? 5 Tips You Must Know</u></a></li>
 </ul></div>
 

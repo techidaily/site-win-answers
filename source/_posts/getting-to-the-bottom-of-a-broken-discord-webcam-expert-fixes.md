@@ -1,7 +1,7 @@
 ---
 title: Getting to the Bottom of a Broken Discord Webcam - Expert Fixes
-date: 2024-12-30T01:36:30.995Z
-updated: 2025-01-06T01:26:58.598Z
+date: 2025-01-13T05:24:51.868Z
+updated: 2025-01-18T06:27:48.985Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ Discord is a popular chatting platform for gamers. If you have met your device c
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -51,11 +47,19 @@ Discord is a popular chatting platform for gamers. If you have met your device c
 5. Make sure you’ve turned on the**Allow desktop apps to access your camera** toggle.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-16-38.jpg)
 6. Relaunch Discord and check if the camera is working fine or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Rearrange your USB device (USB camera only)
 
@@ -80,7 +84,7 @@ If it doesn’t help, please move to the next fix.
 3. Launch Discord camera to check.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Update camera driver
@@ -115,10 +119,6 @@ OR
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -130,8 +130,16 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-1.jpg)
 2. Click **Check for updates** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![click Check for updates to see if your computer is up-to-date or if there are any updates available](https://images.drivereasy.com/wp-content/uploads/2020/10/click-check-for-updates-check-for-Windows-Updates.jpg)
 3. Update the system if there’s an available version.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Follow the on-screen information to finish the process. Reboot your computer and check the camera.
 
@@ -146,27 +154,19 @@ If your camera is still not working on Discord, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app2.jpg)
 3. Find Discord and click to expand it. Click the**Uninstall** button.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-40-47.jpg)
 4. Follow the on-screen instructions to finish the process.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Press the**Windows logo key + R** to open the Run box and type**%appdata%** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-42-04.jpg)
 6. Find the Discord folder and delete it.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-44-01.jpg)
 7. Open the Run box and type**%LocalAppData%** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-44-33.jpg)
 8. Find the Discord folder and delete it.  
@@ -198,16 +198,22 @@ If your camera is still not working on Discord, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-elevating-listeners-interest-writing-podcast-summaries/"><u>[New] 2024 Approved Elevating Listeners' Interest Writing Podcast Summaries</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-adapting-your-favorite-songs-from-spotify-to-youtube-music-service/"><u>[Updated] Adapting Your Favorite Songs From Spotify to YouTube Music Service</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-unraveling-video-opposites-a-comprehensible-guide-for-instavids-for-2024/"><u>[Updated] Unraveling Video Opposites A Comprehensible Guide for InstaVids for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/end-your-frustration-now-fix-tf2-sudden-freezes-and-crashes/"><u>End Your Frustration Now: Fix TF2 Sudden Freezes & Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-resolve-civilization-6-startup-problems-in-windows-11/"><u>How to Resolve Civilization 6 Startup Problems in Windows 11</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-enhance-your-presence-how-to-change-voice-effectively-on-ig/"><u>In 2024, Enhance Your Presence How to Change Voice Effectively on IG</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-frame-drops-and-speech-lag-issues-in-naraka-bladepoint-a-comprehensive-guide/"><u>Solving Frame Drops & Speech Lag Issues in Naraka: Bladepoint – A Comprehensive Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-continuous-failures-in-thunder-tier-one-for-desktop-players/"><u>Troubleshooting Continuous Failures in Thunder Tier One for Desktop Players</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-missing-d3dx925dll-error-effective-strategies-and-tips/"><u>Troubleshooting Missing d3dx9_25.dll Error: Effective Strategies and Tips</u></a></li>
-<li><a href="https://win-answers.techidaily.com/unlock-your-game-overcoming-launch-hurdles-with-dead-space-remake-tips-for-202-grooping-the-latest-trends-in-gaming-troubleshooting/"><u>Unlock Your Game: Overcoming Launch Hurdles with Dead Space Remake, Tips for 202 Grooping the Latest Trends in Gaming Troubleshooting</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Infinix Smart 8 Plus? | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-top-4-platforms-for-free-skype-ringtones/"><u>[New] 2024 Approved Top 4 Platforms for Free Skype Ringtones</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-enhancing-facebook-traffic-with-innovative-video-techniques/"><u>[New] Enhancing Facebook Traffic with Innovative Video Techniques</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-elevate-your-content-the-essential-video-tutorial-for-youtube-photos/"><u>[New] In 2024, Elevate Your Content The Essential Video Tutorial for YouTube Photos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-kitchen-kings-and-queen-top-youtube-gastronomes/"><u>[Updated] Kitchen Kings & Queen Top YouTube Gastronomes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/addressing-frame-rate-drop-out-and-system-freezes-in-serious-sam-4-for-gaming-enthusiasts/"><u>Addressing Frame Rate Drop-Out & System Freezes in Serious Sam 4 for Gaming Enthusiasts</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-instructions-install-the-latest-epson-wf-7620-driver-software-on-pcs-with-windows/"><u>Easy Instructions: Install the Latest Epson WF-##7620 Driver Software on PCs with Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/everspace-ii-pc-stability-effective-ways-to-overcome-game-crashes-and-enjoy-uninterrupted-gaming/"><u>Everspace II PC Stability: Effective Ways to Overcome Game Crashes and Enjoy Uninterrupted Gaming</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-analysis-of-the-gigabyte-g6x-gaming-laptop-strong-capabilities-with-average-innovation/"><u>Expert Analysis of the Gigabyte G6X Gaming Laptop: Strong Capabilities with Average Innovation</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-graphics-glitches-overcoming-the-errgfxstate-on-red-dead-redemption-2/"><u>Fixing Graphics Glitches: Overcoming the ERR_GFX_STATE on Red Dead Redemption 2</u></a></li>
+<li><a href="https://win-answers.techidaily.com/game-stability-improved-in-latest-patch-for-left-4-dead-2/"><u>Game Stability Improved in Latest Patch for Left 4 Dead 2</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-madden-nfl-20-pc-game-crashing-issues-solution-guide/"><u>How to Fix Madden NFL 20 PC Game Crashing Issues - Solution Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-nokia-c12-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-reviews-by-toms-hardware-experts-for-savvy-consumers/"><u>In-Depth Reviews by Tom's Hardware Experts for Savvy Consumers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolve-nba-2k24-error-code-727e66ac-2024-with-these-expert-tips-and-fixes/"><u>Resolve NBA #2K24 Error Code 727E66ac-2024 with These Expert Tips and Fixes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-code-red-step-by-step-guide-to-solve-warzones-dev-error-5573-on-pc-and-consoles/"><u>Resolving Code Red: Step-by-Step Guide to Solve Warzone's Dev Error 5573 on PC and Consoles</u></a></li>
+<li><a href="https://win-blog.techidaily.com/speed-at-impact-the-higher-the-speed-the-more-severe-the-damage-tends-to-be/"><u>Speed at Impact - The Higher the Speed, the More Severe the Damage Tends to Be.</u></a></li>
+<li><a href="https://win-answers.techidaily.com/total-war-saga-troy-comprehensive-fixes-to-prevent-and-manage-game-crashing-on-desktops/"><u>TOTAL WAR SAGA: TROY - Comprehensive Fixes to Prevent & Manage Game Crashing on Desktops</u></a></li>
 </ul></div>
 

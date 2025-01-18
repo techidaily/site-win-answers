@@ -1,7 +1,7 @@
 ---
 title: "Master the Art of Fixing Fallout 76 on Your Computer: Comprehensive Guide"
-date: 2024-08-13T12:15:46.459Z
-updated: 2024-08-14T12:15:46.459Z
+date: 2025-01-13T02:01:40.817Z
+updated: 2025-01-18T08:17:23.058Z
 tags:
   - win11
   - win10
@@ -39,9 +39,6 @@ thumbnail: https://thmb.techidaily.com/acc116e7f31959c80ee46ff620abee605b240216a
 | **Graphics:**  | NVIDIA GTX 770; ATI R9 270           |
 | **DirectX:**   | Version 11                           |
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
 1. [**Verify the integrity of game files**](https://tools.techidaily.com/drivereasy/download/)
@@ -50,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/acc116e7f31959c80ee46ff620abee605b240216a
 4. [**Close in-game overlay**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Turn off VSync](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Verify the integrity of game files
 
  At some point, 2K21 will crash if you have important game files missing or corrupted. To verify the integrity of your game files, simply follow these steps:
@@ -57,17 +58,16 @@ thumbnail: https://thmb.techidaily.com/acc116e7f31959c80ee46ff620abee605b240216a
 1. Open your Steam client. Navigate to the**LIBRARY** tab. Right-click**NBA 2K21** and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/nba-2k21-verify-gamefiles.jpg)
 2. In the pop-up window, navigate to the**LOCAL FILES** tab and select**VERIFY INTEGRITY OF GAME FILES…** . Then wait for the checking to complete.  
-![](https://images.drivereasy.com/wp-content/uploads/2020/09/nba-2k21-verify-gamefiles-02.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/nba-2k21-verify-gamefiles-02.jpg)
 3. Launch NBA 2K21 and check if it crashes again.
 
  If this method doesn’t give you any luck, take a look at the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ### Fix 2: Install all Windows updates
 
  Microsoft releases Windows updates from time to time. They usually**tackle stability issues** and sometimes offer a**performance boost** . Also, updating your system could**address software conflicts** , making it a potential fix to your 2K21 crashing issue.
@@ -77,6 +77,11 @@ You can follow these steps to install all Windows updates:
 1. On your keyboard, press the**Windows logo key** and**I** at the same time. This will open the Windows Settings app. Select**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. Click**Check for updates** . It’s going to take a while for Windows to search and install available updates. Once completed, restart your computer.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  To make sure you’ve installed _all_  system updates, repeat these steps until it prompts “You’re up to date” when you click **Check for updates** .
@@ -85,9 +90,6 @@ After updating your system, you can open NBA 2K21 and test your gameplay.
 
 If 2K21 crashes again, simply move on to the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Update your graphics driver
 
  One of the most common causes of crashing is**a corrupted or outdated graphics driver** . So you should definitely try updating your graphics drivers before testing anything more complicated.
@@ -109,9 +111,6 @@ If 2K21 crashes again, simply move on to the next method.
 
  If this fix doesn’t solve your problem, you can try the next one below.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Close in-game overlay
 
  Some players reported that 2K21 stopped crashing after they disabled some overlay features. So you can check if you’re using the**overlay** feature in**Steam** ,**Discord** or**NVIDIA GeForce Experience** . If you do, try turning off this feature and see if it fixes the crash.
@@ -124,11 +123,12 @@ For example, you can use these steps to disable Steam overlay:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/disabel-steam-overlay.jpg)
 3. Launch NBA 2K21 and see if the issue persists.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If turning off in-game overlay doesn’t do the trick for you, simply move on to the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5: Turn off VSync
 
  In simpler terms, VSync, or Vertical Sync, refers to a graphics technology that synchronizes the game FPS to the refresh rate of your monitor. Though this feature fixes the screen tearing issue, there’re also reports that VSync might cause instability in games. You can therefore try**disabling VSync** as it might be the culprit of the crash.
@@ -136,15 +136,19 @@ For example, you can use these steps to disable Steam overlay:
 1. First you need to turn off VSync in your **graphics control panel** . To do so, right-click a blank area on desktop, then select**NVIDIA Control Panel** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/nvidia-control-panel-vsync.jpg)
 2. From the menu on the left, select **Manage 3D settings** . Make sure you’re at the **Global Settings** tab, then click the text to the right of **Vertical sync** and select **off** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/turn-off-vsync-nvidia-control-panel.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 3. Second, you need to disable VSync in NBA 2K21\. Launch 2K21 and go to FEATURES > VIDEO SETTINGS. Then set**Vertical Sync** to**off** .  
-![](https://images.drivereasy.com/wp-content/uploads/2020/09/nba-2k21-vsync-off.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/nba-2k21-vsync-off.jpg)
 4. Restart NBA 2K21 and check if your problem has gone.
 
 ---
@@ -157,8 +161,6 @@ For example, you can use these steps to disable Steam overlay:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -166,4 +168,18 @@ For example, you can use these steps to disable Steam overlay:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-drive-success-a-comprehensive-list-of-the-best-fb-schedulers/"><u>[New] 2024 Approved Drive Success A Comprehensive List of the Best FB Schedulers</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-attracting-watchers-discover-the-top-6-video-types/"><u>[Updated] 2024 Approved Attracting Watchers Discover the Top 6 Video Types</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-insider-tips-maximizing-youtube-edits-with-finalcut-pro/"><u>[Updated] Insider Tips Maximizing YouTube Edits with FinalCut Pro</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/complete-tutorial-for-evga-windows-operating-system-driver-installation/"><u>Complete Tutorial for EVGA Windows Operating System Driver Installation</u></a></li>
+<li><a href="https://solve-news.techidaily.com/descubra-el-arte-perfecto-de-grabar-su-pantalla-con-acompanamiento-de-voz-un-manual-integral-para-quicktime/"><u>Descubra El Arte Perfecto De Grabar Su Pantalla Con Acompañamiento De Voz: Un Manual Integral Para QuickTime</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-frequent-freezes-solutions-for-recurrent-tribes-of-midgard-software-breakdowns/"><u>Fixing Frequent Freezes - Solutions for Recurrent 'Tribes of Midgard' Software Breakdowns</u></a></li>
+<li><a href="https://win-answers.techidaily.com/riot-addresses-league-of-legends-reconnection-issue-patch-notes-explained/"><u>Riot Addresses League of Legends Reconnection Issue - Patch Notes Explained</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-constant-bugs-in-thunders-top-tier-level-a-users-manual/"><u>Solving the Constant Bugs in Thunder's Top-Tier Level - A User's Manual</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-a-failed-launch-of-granblue-fantasys-link-rebinding-option/"><u>Troubleshooting a Failed Launch of Granblue Fantasy's Link Rebinding Option</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-tips-for-a-stable-war-thunder-gaming-experience-no-more-crashing/"><u>Ultimate Tips for a Stable War Thunder Gaming Experience - No More Crashing</u></a></li>
+<li><a href="https://win-top.techidaily.com/sovremennye-instrumenty-seo-dlya-pkwindows-2024-goda-polnyj-spisok-s-ocenkoj/"><u>Современные Инструменты SEO Для ПК/Windows 2024 Года - Полный Список С Оценкой</u></a></li>
+</ul></div>
 

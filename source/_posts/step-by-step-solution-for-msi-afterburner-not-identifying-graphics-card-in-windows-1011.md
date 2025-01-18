@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solution for MSI Afterburner Not Identifying Graphics Card in Windows 10/11
-date: 2024-08-13T12:14:38.302Z
-updated: 2024-08-14T12:14:38.302Z
+date: 2025-01-16T11:23:24.293Z
+updated: 2025-01-18T05:27:42.009Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/0e4e69a266c0e21cfaa72121cb274553aaa959ab8
 
 But don’t worry, it’s usually not that hard to fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down until you find the one that does the trick.
@@ -38,15 +34,17 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 7. **[Try another version of Afterburner](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Check your cable connection
 
  First you need to**be sure that you have the right display port** . If you’re using the wrong port, say you have your monitor hooked up with the integrated graphics, your GPU might not show up in Afterburner since you’re not using it for display.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/dedicated-gpu-integrated-graphics-hdmi-1200x1200.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You should also rule out the possibility of faulty cables.
@@ -60,10 +58,12 @@ You should also rule out the possibility of faulty cables.
 1. Open MSI Afterburner. In the left pane, click the**gear icon** to open properties.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/msi-afterburner-settings-1.jpg)
 2. In the**Compatibility settings** section, uncheck the box next to**Enable low-level IO driver** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/09/msi-afterburner-settings-2.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/09/msi-afterburner-settings-2.jpg)
 3. Restart your PC and check the results in MSI Afterburner.
 
 If this trick doesn’t help you. take a look at the next one below.
@@ -73,15 +73,9 @@ If this trick doesn’t help you. take a look at the next one below.
  If you’re into Valorant, you might be familiar with**Vanguard** , the anti-cheat program. Records show that Vanguard is a big time trouble maker that is responsible for many game issues. And many players reported that it has something to do with Afterburner not detecting GPU. So if you have Vanguard on your system, you can try to disable/uninstall it and see if Afterburner works properly.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/vanguard-task-manager.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If you don’t have Vanguard, simply move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Update all your drivers
 
  If you’re not seeing your GPU in MSI Afterburner, chances are you might be using**a buggy or outdated graphics driver** . In fact, for your rig to function properly, you should always make sure you have all the drivers up to date.
@@ -107,18 +101,6 @@ If you don’t have Vanguard, simply move on to the next fix.
 
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) to open the Windows Settings app. Click**Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
@@ -128,26 +110,34 @@ If you don’t have Vanguard, simply move on to the next fix.
 
 If the issue lingers on, you can continue to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ### Fix 6: Perform a clean boot
 
  In addition to Vanguard, you should check if there’re other interferences in your system. You can start by**doing a clean boot** , which only starts the PC with the minimum set of services and programs.
 
 1. On your keyboard, press**Win+R** (the Windows logo key and the r key) at the same time to invoke the Run box. Type or paste**msconfig** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig-clean-boot-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 2. In the pop-up window, navigate to the **Services**  tab and check the box next to **Hide all Microsoft services** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
 
@@ -156,8 +146,9 @@ The ultimate burning program for all your needs!</a>
 If the issue persists, you can try the next solution below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 7: Try another version of Afterburner
 
  If none of the fixes can help you, you can try to reinstall MSI Afterburner. This should reset profiles and fix possible issues during installation. Instead of installing the same version, this time you can try the previous and beta ones, which can be easily found on[Guru3D.com](https://www.guru3d.com/files/index.html) .
@@ -174,8 +165,6 @@ If the issue persists, you can try the next solution below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -183,4 +172,20 @@ If the issue persists, you can try the next solution below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-a-step-by-step-guide-to-perfecting-the-art-of-podcast-naming/"><u>[New] In 2024, A Step-by-Step Guide to Perfecting the Art of Podcast Naming</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-mastering-the-art-of-soundtrack-posts-a-copyright-primer-for-insta/"><u>[New] In 2024, Mastering the Art of Soundtrack Posts A Copyright Primer for Insta</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-dynamic-shots-infusing-energy-into-your-youtube-videos-for-2024/"><u>[Updated] Dynamic Shots Infusing Energy Into Your YouTube Videos for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/comprehensive-solution-for-the-persistent-crashing-troubles-in-kurtzpel-application/"><u>Comprehensive Solution for the Persistent Crashing Troubles in KurtzPel Application</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-fixes-for-persistent-dread-hunger-stops-during-playtime-on-desktopslaptops/"><u>Effective Fixes for Persistent 'Dread Hunger' Stops During Playtime on Desktops/Laptops</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-meizu-21-pro-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Meizu 21 Pro Devices</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-repair-and-restore-functionality-of-logitech-g-hub-on-your-windows-computer/"><u>How to Repair and Restore Functionality of Logitech G Hub on Your Windows Computer</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Xiaomi 13 Ultra | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/precision-guided-tour-unearthing-hidden-youtube-gems-for-2024/"><u>Precision-Guided Tour Unearthing Hidden YouTube Gems for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210761817-9781622030743-saint-teresa-of-avila/"><u>Saint Teresa of Avila | Free Book</u></a></li>
+<li><a href="https://win11.techidaily.com/simplify-and-enhance-window-design-for-a-macos-vibe-on-windows/"><u>Simplify and Enhance Window Design for a macOS Vibe on Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722991069716-tf2-constant-crashing-issues-heres-the-solution/"><u>TF2 Constant Crashing Issues? Here's the Solution!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-and-fixing-dev-error-5573-in-call-of-duty-vanguard/"><u>Troubleshooting and Fixing Dev Error 5573 in Call of Duty: Vanguard</u></a></li>
+</ul></div>
 

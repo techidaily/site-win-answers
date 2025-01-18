@@ -1,7 +1,7 @@
 ---
 title: Top Tips for Increasing Frames per Second (FPS) in New World MMO
-date: 2024-08-13T12:09:38.784Z
-updated: 2024-08-14T12:09:38.784Z
+date: 2025-01-12T18:28:18.387Z
+updated: 2025-01-18T00:55:52.394Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/088a2140549716da6b5748cac96819433a88c8dbf
 
 ## Stop RAGE 2 Crashing in Seconds - Expert Tips for a Seamless Playthrough
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Rage 2 crash](https://images.drivereasy.com/wp-content/uploads/2019/06/image-7.png)
 
 **Rage 2 crashes to desktop?** Don’t worry… Although it’s incredibly frustrating, you’re definitely not the only person to experience this problem. Thousands of players have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
@@ -42,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/088a2140549716da6b5748cac96819433a88c8dbf
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your graphics driver
 
  The game crashing issue is probably caused by your outdated graphics driver. Updating your graphics driver to the latest version can make your game run smoother and prevents many issues or errors.
@@ -62,9 +63,6 @@ thumbnail: https://thmb.techidaily.com/088a2140549716da6b5748cac96819433a88c8dbf
 
  2) Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-1.png)
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.
@@ -81,18 +79,6 @@ _You can do it for free if you like, but it’s partly manual._
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Turn off VSync settings
 
  Many players have reported that this issue was resolved after they completely turned off VSync settings when playing Rage 2\. It seems as if the VSync settings is a probable cause of the game crashing issue. You can follow the steps below to completely turn off VSync completely:
@@ -100,6 +86,10 @@ _You can do it for free if you like, but it’s partly manual._
  1) Open Rage 2 and go to its video settings. Then**turn off** **the VSYNC MODE** .
 
 ![fix Rage 2 crash](https://images.drivereasy.com/wp-content/uploads/2019/06/image-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2) Save the changes and exit the game.
 
@@ -111,6 +101,10 @@ _You can do it for free if you like, but it’s partly manual._
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Run Windows Compatibility Troubleshooter
 
 **Program Compatibility Troubleshooter** is a built-in tool in Windows OS that can check whether programs are compatible for your current Windows OS or not. The game crash issues often occur when some program settings are not compatible with the current Windows OS.
@@ -121,25 +115,16 @@ _You can do it for free if you like, but it’s partly manual._
 
  Usually the default directory is**C:\\Program Files (x86)\\Bethesda.net Launcher\\RAGE 2** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-124.png)
 
  2) Navigate to**the Compatibility tab** and click**Run compatibility troubleshooter** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-4.png)
 
  3) Click **Try recommended settings** to test-run program using recommended compatibility settings. Follow the on-screen instructions to see whether this troubleshooting option works or not.
 
  4) If it still doesn’t work, then run the Program Compatibility Troubleshooter again and**select the second option** **to choose compatibility settings based on problems you notice** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/pasted-image-2-1-1.png)
 
  5) If the problem persists, adjust the following settings manually and select**OK** when you’re done.
@@ -148,14 +133,19 @@ _You can do it for free if you like, but it’s partly manual._
 * **Disable fullscreen optimizations:**  If this issue appears when your enable fullscreen optimizations, then**just disable it** to see whether this issue persists.
 * **Run this program as an administrator:**  If Rage 2 is not given administrator privileges, it may not run properly. Try this setting to give the program the administrator privileges.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 See if this fix works. If not, try the next fix, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Add Rage 2 as an exception to your third-party antivirus application
 
@@ -179,8 +169,6 @@ See if this fix works. If not, try the next fix, below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -188,4 +176,22 @@ See if this fix works. If not, try the next fix, below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-break-down-long-form-videos-the-insiders-guide-to-youtube-chapter-inclusion-for-2024/"><u>[New] Break Down Long-Form Videos The Insider's Guide to YouTube Chapter Inclusion for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-mastery-and-inspiration-the-ultimate-list-of-android-drawing-apps/"><u>[Updated] In 2024, Mastery & Inspiration The Ultimate List of Android Drawing Apps</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-study-with-stars-the-finest-historical-channels-for-students-and-enthusiasts/"><u>[Updated] Study with Stars The Finest Historical Channels for Students & Enthusiasts</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-mastering-youtube-playlist-downloads-a-comprehensive-guide/"><u>2024 Approved Mastering YouTube Playlist Downloads A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/battlefield-2e42-pc-upgrades-solving-the-challenges-of-fps-dips-and-inconsistent-frame-drops/"><u>Battlefield 2E42 PC Upgrades: Solving the Challenges of FPS Dips and Inconsistent Frame Drops</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-correcting-the-persistent-0x8024402c-bug-in-windows-updates-a-detailed-walkthrough-resolved/"><u>Diagnosing and Correcting the Persistent 0X8024402C Bug in Windows Updates – A Detailed Walkthrough [Resolved]</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-fixing-the-problems-of-an-unresponsive-msi-dragon-center/"><u>Expert Advice: Fixing the Problems of an Unresponsive MSI Dragon Center</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-successfully-start-fallout-3-latest-strategies-and-solutions/"><u>How to Successfully Start Fallout 3? Latest Strategies & Solutions</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Realme GT 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-tecno-camon-20-premier-5g-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Tecno Camon 20 Premier 5G to Mac? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-mobility-the-ultimate-guide-to-using-portable-driver-easy/"><u>Mastering Mobility: The Ultimate Guide to Using Portable Driver Easy</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-directx-challenges-easy-fixes-for-fifa-aturated-but-they-can-be-managed-with-appropriate-treatment-and-care-strategies/"><u>Overcoming DirectX Challenges: Easy Fixes for FIFA Aturated, but They Can Be Managed with Appropriate Treatment and Care Strategies</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stop-hitman-3-from-crashing-on-your-computer-essential-fixes-and-tips-for-players-2024-edition/"><u>Stop HITMAN 3 From Crashing on Your Computer: Essential Fixes & Tips for Players, 2024 Edition</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/the-cfaa-was-enacted-in-1986-and-has-been-amended-several-times-to-address-the-evolving-nature-of-computer-crimes/"><u>The CFAA Was Enacted in 1986 and Has Been Amended Several Times to Address the Evolving Nature of Computer Crimes.</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-hitman-3-connection-refused-problems/"><u>Troubleshooting Steps for Hitman 3 'Connection Refused' Problems</u></a></li>
+</ul></div>
 

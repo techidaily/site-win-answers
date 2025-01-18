@@ -1,7 +1,7 @@
 ---
 title: "Fixing Silent Issues: How To Troubleshoot Lack of Audio During Your Live Broadcast"
-date: 2025-01-08T17:02:34.993Z
-updated: 2025-01-12T18:11:37.028Z
+date: 2025-01-11T23:54:41.755Z
+updated: 2025-01-18T08:16:37.332Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/0a18a6b406ce9f21eda937adac64825b459ee3a87
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here are some solutions you can try. You don’t have to try them all; just work you way down the list until your Fortnite is running again.
@@ -37,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/0a18a6b406ce9f21eda937adac64825b459ee3a87
 5. [Configure your computer settings](https://tools.techidaily.com/drivereasy/download/)
 
  Note: the screenshots below come from Windows 10, and fixes also work on Windows 8 and Windows 7.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Reinstall Fortnite in your computer
 
@@ -71,6 +71,10 @@ To do so, follow these steps:
    * **Effects** : low  
    * **Show** **FPS** : On  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be91f07309c9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Save your game settings, and restart your computer to see if your Fortnite loads properly.
 
@@ -110,13 +114,13 @@ Still no luck? Okay, there’s something else to try.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be9213d5616f.jpg)
 3. Click**Yes** to verify the UAC. If you’re prompted to enter your admin account and password, enter the information.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Then you can run your Fortnite as admin.
 
 Check if your game can load properly.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Configure your computer settings
 
@@ -134,14 +138,14 @@ Below lists out some PC settings you can configure:
 3. Click the**Boot** tab, select your**Windows system** , and click**Advanced options** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be921b2b791d.jpg)
 4. Check the box next to**Number of processors** , and select the**highest number** available. In my case I have the highest number of 4, so I select**4** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be921cace95b.jpg)
@@ -162,28 +166,24 @@ Below lists out some PC settings you can configure:
 3. Click**Advanced system settings** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be9228805808.jpg)
 4. The**System Properties** pane will pop up. Under the**Advanced** tab, click the**Settings** button in the**Performance** section.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be922bfef5f6.jpg)
 5. Click the**Advanced** tab, and make sure to select**Adjust for best performance of Programs** . Then click**Apply** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be9237d987ca.jpg)
 6. Click**Data Execution Prevention** , and make sure to choose **Turn on DEP for essential Windows programs and services only** . Then Click**Apply** and**OK** to save.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be9234f416dc.jpg)
 7. Save your changes and restart your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Launch your Fortnite and see if it will load properly.
 
@@ -209,22 +209,19 @@ Launch your Fortnite and see if it will load properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-consolidating-zoom-schedules-on-android-ios-and-desktop-platforms-for-2024/"><u>[New] Consolidating Zoom Schedules on Android, iOS & Desktop Platforms for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-clear-up-audio-in-youtube-a-step-by-step-guide/"><u>[Updated] 2024 Approved Clear Up Audio in YouTube A Step-by-Step Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-create-video-ads-for-free-in-youtube-video-builder-for-2024/"><u>[Updated] How to Create Video Ads for Free in YouTube Video Builder for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-unlocking-visual-richness-switching-to-hdr-technology/"><u>[Updated] Unlocking Visual Richness Switching to HDR Technology</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/iueqhuinoplusobmeobueobjeoajoodluodreodgplusocrplusodroodmeodqplusodkoodgplusocrplusocouodgplusodlplusoajtrjgz3jga7ku5xntytjgbjgajmtlvnlkjmiyvpoiyi/"><u>理解すべき「ブロックレベルバックアップ」:その仕組みと活用手順</u></a></li>
-<li><a href="https://win-answers.techidaily.com/diagnosing-and-fixing-pc-crashes-during-stardew-valley-gameplay/"><u>Diagnosing and Fixing PC Crashes During Stardew Valley Gameplay</u></a></li>
-<li><a href="https://win-answers.techidaily.com/diy-fix-for-your-discord-coding-problems-targeting-javascript-hiccups/"><u>DIY Fix for Your Discord Coding Problems: Targeting JavaScript Hiccups</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/-thoughts-in-journalistic-styling/"><u>Final Thoughts in Journalistic Styling</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fix-your-game-resolving-persistent-crashes-in-watch-dogs-legion-for-pc-users/"><u>Fix Your Game: Resolving Persistent Crashes in Watch Dogs: Legion for PC Users</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fortnite-freezing-woes-discover-the-latest-2024-fixes-to-keep-playing-seamlessly/"><u>Fortnite Freezing Woes? Discover the Latest 2024 Fixes to Keep Playing Seamlessly</u></a></li>
-<li><a href="https://facebook.techidaily.com/navigating-facebook-page-setup-the-admin-role/"><u>Navigating Facebook Page Setup - The Admin Role</u></a></li>
-<li><a href="https://win-answers.techidaily.com/successfully-setting-up-and-enjoying-tiny-tinas-wonderland-adventures-on-personal-computers-without-glitches/"><u>Successfully Setting Up and Enjoying Tiny Tina’s Wonderland Adventures on Personal Computers Without Glitches</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/thrifty-and-efficient-the-tp-link-archer-a9-under-100-router-comprehensive-review/"><u>Thrifty and Efficient: The TP-Link Archer A9 Under $100 Router - Comprehensive Review</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-10-nubia-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Nubia Android SIM Unlock APK</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-techniques-to-reduce-starfields-excessive-processor-use/"><u>Top Techniques to Reduce Starfield's Excessive Processor Use</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-fortnite-dealing-with-video-memory-shortages-solved/"><u>Troubleshooting Fortnite: Dealing with Video Memory Shortages (SOLVED)</u></a></li>
-<li><a href="https://win-answers.techidaily.com/xcom-2-windows-stability-guide-how-to-resolve-and-prevent-game-crashes-efficiently/"><u>XCOM 2 Windows Stability Guide: How to Resolve and Prevent Game Crashes Efficiently</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-essential-steps-for-saving-tweets-visuals-in-android-app/"><u>[New] In 2024, Essential Steps for Saving Tweets' Visuals in Android App</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-top-10-innovative-mobile-layering-apps-for-android-and-iphone/"><u>[New] In 2024, Top 10 Innovative Mobile Layering Apps for Android & iPhone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-deciphering-youtubes-profit-for-a-mil-of-viewers-for-2024/"><u>[Updated] Deciphering YouTube’s Profit for A Mil of Viewers for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-top-nvidia-and-amd-gpus-for-4k-workstations/"><u>[Updated] In 2024, Top NVIDIA & AMD GPUs for 4K Workstations</u></a></li>
+<li><a href="https://win-answers.techidaily.com/a-game-changer-for-mobile-pcs-microsoft-enhances-gaming-experience-with-arm-technology-in-windows-laptops/"><u>A Game Changer for Mobile PCs: Microsoft Enhances Gaming Experience with ARM Technology in Windows Laptops</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-spotlight-identifying-sham-dialogue-participants/"><u>GPT Spotlight: Identifying Sham Dialogue Participants</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-infinix-zero-30-5g-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Infinix Zero 30 5G Phone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/tailoring-composite-results-blend-mode-proficiency/"><u>Tailoring Composite Results Blend Mode Proficiency</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-why-your-ipad-cannot-connect-to-the-printer/"><u>Troubleshooting: Why Your iPad Cannot Connect to the Printer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-compact-razer-docking-station-analysis-the-perfect-gaming-accoutrement-for-on-the-go-players/"><u>Ultimate Compact Razer Docking Station Analysis: The Perfect Gaming Accoutrement for On-the-Go Players</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-enhancing-your-gaming-experience-with-windows-11-tweaks/"><u>Ultimate Guide: Enhancing Your Gaming Experience with Windows 11 Tweaks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/universal-guide-viewing-your-icloud-photos-on-ios-pcs-and-android/"><u>Universal Guide: Viewing Your iCloud Photos on iOS, PCs, and Android</u></a></li>
+<li><a href="https://win-answers.techidaily.com/what-is-the-purpose-of-the-cp-keys-on-your-notebook-device/"><u>What Is the Purpose of the 'Cp' Keys on Your Notebook Device?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/windows-runs-on-arm-qualcomms-breakthrough-in-desktop-computing/"><u>Windows Runs on ARM: Qualcomm's Breakthrough in Desktop Computing</u></a></li>
 </ul></div>
 

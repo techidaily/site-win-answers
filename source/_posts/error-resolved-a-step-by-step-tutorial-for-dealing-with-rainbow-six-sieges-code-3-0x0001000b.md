@@ -1,7 +1,7 @@
 ---
 title: "Error Resolved: A Step-by-Step Tutorial for Dealing with Rainbow Six Siege's Code 3-0X0001000B"
-date: 2024-08-13T12:08:38.534Z
-updated: 2024-08-14T12:08:38.534Z
+date: 2025-01-11T21:15:52.920Z
+updated: 2025-01-17T17:11:23.193Z
 tags:
   - win11
   - win10
@@ -22,8 +22,9 @@ thumbnail: https://thmb.techidaily.com/de6f02fe7abe4ced33765163ad97ca736d4fe362e
  You might not need to try all the fixes. Simply work your way down until you find the one that gives you luck.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## PC
 
 1. [**Verify the integrity of your game files**](https://tools.techidaily.com/drivereasy/download/)
@@ -31,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/de6f02fe7abe4ced33765163ad97ca736d4fe362e
 3. [**Update your graphics driver**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Perform a clean boot**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Rebuild your settings](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## PC & Console
 
@@ -41,9 +46,6 @@ thumbnail: https://thmb.techidaily.com/de6f02fe7abe4ced33765163ad97ca736d4fe362e
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fixes for PC gamers
 
 If you encounter the issue on your computer, try these solutions.
@@ -54,30 +56,35 @@ If you encounter the issue on your computer, try these solutions.
 
 1. Open your**Battle.net** client.
 2. From the left menu, select**Call of Duty: MW** . Click**Options** and select**Scan and Repair** .  
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/warzone-verify-1.jpg)
 3. Click**Begin Scan** . Then wait for the checking to complete.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/warzone-verify-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now you can launch Warzone and check if the error code reoccurs during gameplay.
 
 If this method doesn’t help you, check out the next one below.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Install all Windows updates
 
  To avoid possible compatibility issues, you need to make sure your system is up to date. By default Windows 10 will ask you to install patches on a regular basis, but you can also check for updates manually:
 
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) to open the Windows Settings app. Click**Update & Security** .  
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
@@ -94,15 +101,9 @@ If the issue remains, you can try the next fix below.
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-2060-super-update.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -111,9 +112,6 @@ If the issue remains, you can try the next fix below.
 
  If the latest drivers didn’t help you, simply continue to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Perform a clean boot
 
  In order to further rule out any possible interference, you need to**perform a clean boot** to make sure your system is free of compatibility issues. It means you need to start your PC with only the essential software and services.
@@ -121,25 +119,28 @@ If the issue remains, you can try the next fix below.
 1. On your keyboard, press**Win+R** (the Windows logo key and the r key) at the same time to invoke the Run box. Type or paste**msconfig** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig-clean-boot-1.jpg)
 2. In the pop-up window, navigate to the **Services**  tab and check the box next to **Hide all Microsoft services** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now you can join a match and see if the error pops up again.
 
  If this trick doesn’t do the trick for you, move on to the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5: Rebuild your settings
 
  Some gamers verified that deleting the user config files will cause the game to reset and thus solve the issue. You can try the same using the following steps:
@@ -155,8 +156,9 @@ Now you can join a match and see if the error pops up again.
 The following fixes apply to both PC and console.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Change to Windowed mode
 
  According to the feedback, changing in-game settings to Windowed mode could be a potential fix for the crash. So you can try this and see how things go.
@@ -167,9 +169,6 @@ The following fixes apply to both PC and console.
 
  If changing the display mode doesn’t solve your problem, you can try the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Switch to another account
 
  According to some, the Dev Error 5573 only appears on certain accounts. So if possible, you can**switch to another account** , then check if the crash happens again. If the problem disappears, you can contact the Activision support for further troubleshooting regarding your account.
@@ -177,15 +176,13 @@ The following fixes apply to both PC and console.
 If the issue lingers on, take a look at the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Switch to Modern Warfare operators
 
  If you’re using an operator from Black Ops Cold War, you can try another one from Modern Warfare. Some users reported that the error disappeared when**using operators that are not from Black Ops Cold War** . It’s unclear whether it’s just a glitch or a compatibility issue.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/mw-operators.jpg)
 
  For an overview of operators, you can check out[this page](https://www.gamesatlas.com/cod-modern-warfare/operators/) .
@@ -206,8 +203,6 @@ If the issue lingers on, take a look at the next solution.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -215,4 +210,22 @@ If the issue lingers on, take a look at the next solution.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-a-comprehensible-guide-on-saving-instagram-story-content/"><u>[New] A Comprehensible Guide on Saving Instagram Story Content</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-crafting-moments-instagrams-highlight-and-download-insights/"><u>[New] Crafting Moments Instagram's Highlight and Download Insights</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-the-harmony-of-collaboration-brands-and-youtube-unite/"><u>[Updated] The Harmony of Collaboration Brands & YouTube Unite</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-types-of-facebook-video-aspect-ratios-and-how-to-adjust-it-for-2024/"><u>[Updated] Types of Facebook Video Aspect Ratios & How to Adjust It for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/deactivating-your-discord-server-a-device-centric-approach/"><u>Deactivating Your Discord Server A Device-Centric Approach</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723002374500-enhance-your-playtime-fixing-risk-of-rain-2-crash-errors-without-stress/"><u>Enhance Your Playtime - Fixing 'Risk of Rain 2' Crash Errors Without Stress</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhancing-your-cs2-experience-top-tips-for-smoother-gameplay-with-optimal-fps/"><u>Enhancing Your CS2 Experience: Top Tips for Smoother Gameplay with Optimal FPS</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-tecno-spark-20-proplus-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Tecno Spark 20 Pro+ Device</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-launch-delays-a-guide-to-solve-football-manager-2021-stuck-screens/"><u>Overcoming Launch Delays – A Guide to Solve Football Manager 2021 Stuck Screens</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-issue-overcoming-steams-connection-failure-with-the-local-client-process/"><u>Resolved Issue: Overcoming Steam's Connection Failure with the Local Client Process</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-8-solutions-for-when-your-laptop-wont-charge-despite-being-connected/"><u>Top 8 Solutions for When Your Laptop Won't Charge Despite Being Connected</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-persistent-crashes-when-relinking-granblue-fantasy-on-desktop/"><u>Troubleshooting Steps for Persistent Crashes when Relinking Granblue Fantasy on Desktop</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-addressing-error-code-6-in-pc-ports-of-modern-warfare-and-warzone-games/"><u>Troubleshooting Tips for Addressing 'Error Code ❌6' In PC Ports of Modern Warfare and Warzone Games</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/venture-into-the-future-the-lg-360-vr-headset-explored/"><u>Venture Into the Future The LG 360 VR Headset Explored</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/winxvideos-ai-features-professionelle-technische-angaben-und-daten-offiziell/"><u>WinXVideo's AI Features: Professionelle Technische Angaben Und Daten Offiziell</u></a></li>
+</ul></div>
 

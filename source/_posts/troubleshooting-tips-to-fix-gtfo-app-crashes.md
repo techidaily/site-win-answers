@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Tips to Fix GTFO App Crashes
-date: 2024-08-13T12:09:00.212Z
-updated: 2024-08-14T12:09:00.212Z
+date: 2025-01-13T07:04:16.116Z
+updated: 2025-01-18T01:40:22.003Z
 tags:
   - win11
   - win10
@@ -30,8 +30,9 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 | Storage          | 20 GB                             |
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -40,6 +41,10 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 2. [Disable overclocking](https://tools.techidaily.com/drivereasy/download/)
 3. [Update your drivers](https://tools.techidaily.com/drivereasy/download/)
 4. [Disable firewall/ antivirus software](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Run as administrator
 
@@ -52,9 +57,6 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 
 If it’s not working, move to next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Disable overclocking
 
  Are you running any OC software like MSI Afterburner? Shut it down. Don’t make your PC overhot is a way to fix the Chivalry 2 crashing problem. Gamers have reported that after underclocked or disable overclocking software, the game stops crashing.
@@ -68,8 +70,9 @@ If it’s not working, move to next fix.
 No luck with this one? Move to the next.
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Update your drivers
 
  There will be crashes when you have driver issues. If you’re using an outdated or corrupted driver, crashes or other issues will come to you. However, Windows 10 doesn’t always give you the latest version. There’s a possibility your current graphics card driver isn’t cooperative with Windows 10.
@@ -96,24 +99,23 @@ OR
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
- Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Disable firewall/ antivirus software
 
  Chivalry 2 requires players to connect the server to play. If the firewall on your system blocks the way, the game crash would happen. Disable the firewall or antivirus software to see the difference.
@@ -141,8 +143,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -150,4 +150,22 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-the-quintessential-guide-to-secret-story-viewing/"><u>[New] In 2024, The Quintessential Guide to Secret Story Viewing</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-how-to-seamlessly-download-and-install-movie-maker-6-for-2024/"><u>[Updated] How to Seamlessly Download and Install Movie Maker 6 for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-the-secret-to-understanding-your-youtube-fans/"><u>2024 Approved The Secret to Understanding Your YouTube Fans</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723014129571-bypassing-the-frustration-nba-2k24-and-error-code-727e66ac-fix-it-now/"><u>Bypassing the Frustration: NBA 2K24 and Error Code 727E66ac - Fix It Now!</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/complete-guide-retrieving-accidentally-erased-iphone-note-app-entries/"><u>Complete Guide: Retrieving Accidentally Erased iPhone Note App Entries</u></a></li>
+<li><a href="https://win-answers.techidaily.com/comprehensive-solutions-eliminating-frequent-disruptions-and-crashes-in-beat-saber-playtime/"><u>Comprehensive Solutions: Eliminating Frequent Disruptions and Crashes in Beat Saber Playtime</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhancing-performance-and-increasing-fps-on-rainbow-six-quarantine/"><u>Enhancing Performance & Increasing FPS on Rainbow Six Quarantine</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-freshly-update-intel-uhd-graphics-drivers-in-windows-11-user-friendly-guide-included/"><u>How to Freshly Update Intel UHD Graphics Drivers in Windows 11, User-Friendly Guide Included</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/leading-edge-in-online-gif-conversion-to-video-best-5/"><u>Leading Edge in Online GIF Conversion to Video (Best 5)</u></a></li>
+<li><a href="https://win-info.techidaily.com/mastering-aomei-backup-utility-step-by-step-instructions-for-efficient-cloning-and-system-safeguarding/"><u>Mastering AOMEI BackUp Utility: Step-by-Step Instructions for Efficient Cloning & System Safeguarding</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-failed-to-launch-problems-in-warframe-game/"><u>Overcoming 'Failed to Launch' Problems in Warframe Game</u></a></li>
+<li><a href="https://win-answers.techidaily.com/smooth-sailing-ahead-master-these-8-tweaks-to-optimize-guardians-of-the-galaxy-for-pc-players/"><u>Smooth Sailing Ahead! - Master These 8 Tweaks to Optimize Guardians of the Galaxy for PC Players</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-persistent-errors-in-tormented-souls-installation-for-windows-users/"><u>Troubleshooting Persistent Errors in 'Tormented Souls' Installation for Windows Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ubisoft-connect-not-responding-find-out-how-to-restore-functionality-quickly/"><u>Ubisoft Connect Not Responding? Find Out How to Restore Functionality Quickly</u></a></li>
+<li><a href="https://facebook.techidaily.com/unmasking-the-figures-of-lost-facebook-users/"><u>Unmasking the Figures of Lost Facebook Users</u></a></li>
+</ul></div>
 

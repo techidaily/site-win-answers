@@ -1,7 +1,7 @@
 ---
 title: Top Strategies for Accelerating Your Origin Download Speeds
-date: 2024-08-13T12:17:45.320Z
-updated: 2024-08-14T12:17:45.320Z
+date: 2025-01-16T03:10:02.680Z
+updated: 2025-01-18T02:44:18.722Z
 tags:
   - win11
   - win10
@@ -29,9 +29,6 @@ thumbnail: https://thmb.techidaily.com/34983eeb01d46447a2aa80e2d1b0eee6f876f5349
 4. [**Limit CPU cores for Subnautica: Below Zero**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Stop overclocking](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Scan and repair your game files
 
  One possible cause of the crash is that certain game files are**corrupted or missing** . You need to make sure all the game files are intact and up to date. To do so, you can run a scan to verify the integrity of game files.
@@ -42,16 +39,10 @@ Here’s how to do that on Steam:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/steam-beta-1.jpg)
 2. In the left pane, select **LOCAL FILES** . Then click **Verify integrity of game files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/steam-verify-2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Wait for the checking to complete. Then start Subnautica: Below Zero and check if it crashes again.
 
 If this fix doesn’t help you, take a look at the next one below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Update your graphics driver
 
  Some players reported that**updating the graphics driver** could improve the performance of Subnautica and stop the crash. So if you don’t know whether you’re using the latest GPU driver, have a check or just go right ahead and do an update.
@@ -64,16 +55,22 @@ If this fix doesn’t help you, take a look at the next one below.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
-![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-pro-3070-update-all.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-pro-3070-update-all.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your graphics driver, restart your PC and check if Subnautica: Below Zero crashes again.
 
  If the latest video driver doesn’t give you luck, simply continue to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Perform a clean boot
 
@@ -86,21 +83,24 @@ If this fix doesn’t help you, take a look at the next one below.
 3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Restart your PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now you can play and see if the game crashes again. If it doesn’t, repeat these steps but only disable half of the programs and services.
 
 If this trick doesn’t help, you can move on to the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Limit CPU cores for Subnautica: Below Zero
 
  There’re also players who found that**limiting the CPU cores** for Subnautica helps stop the crash. So you can try the same and see how it goes.
@@ -108,24 +108,18 @@ If this trick doesn’t help, you can move on to the next one.
 1. First open Subnautica: Below Zero.
 2. On your keyboard, press**Ctrl+Shift+ESC** to open Task Manager. Then navigate to the**Details** tab. Right click**Subnautica.exe** and select**Set affinity** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/set-affinity-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 3. Setting the processor affinity to only use 4 cores (0,1,2,3). Then click**OK** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/05/subnautica-affinity-2.jpg)
+
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/05/subnautica-affinity-2.jpg)
 4. Now you can test the gameplay.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If Subnautica: Below Zero still crashes, you can check out the next tip.
 
@@ -145,8 +139,6 @@ If Subnautica: Below Zero still crashes, you can check out the next tip.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -154,4 +146,26 @@ If Subnautica: Below Zero still crashes, you can check out the next tip.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-affordable-techniques-to-enhance-written-content-with-media/"><u>[Updated] In 2024, Affordable Techniques to Enhance Written Content with Media</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-top-10-no-cost-image-servers-always-preserve-your-pics/"><u>[Updated] In 2024, Top 10 No-Cost Image Servers, Always Preserve Your Pics</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-the-pathway-to-professional-fb-reel-development-for-2024/"><u>[Updated] The Pathway to Professional FB Reel Development for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-solutions-for-persistent-freezes-in-call-of-duty-warzone-20-on-windows-computers/"><u>Effective Solutions for Persistent Freezes in Call of Duty: Warzone 2.0 on Windows Computers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhancing-playability-fixes-for-reduced-frames-per-second-fps-and-irregular-stutter-in-new-world/"><u>Enhancing Playability: Fixes for Reduced Frames Per Second (FPS) & Irregular Stutter in New World</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-qbittorrent-is-stalled/"><u>How To Fix qBittorrent Is Stalled</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-11-proplus-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/lag-free-gameplay-achieved-effective-remedies-for-fortnite-slowdowns/"><u>Lag-Free Gameplay Achieved: Effective Remedies for Fortnite Slowdowns</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/mass-movement-mastery-the-drone-top-list/"><u>Mass Movement Mastery The Drone Top List</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723003834344-pc-gamers-rejoice-pathfinders-latest-patch-resolves-freezing-issues/"><u>PC Gamers Rejoice! Pathfinder's Latest Patch Resolves Freezing Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-problem-fix-for-ue4-madness-error-in-outriders-game/"><u>Solving the Problem: Fix for 'UE4-Madness' Error in Outriders Game</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-establishing-a-remote-connection-with-windows-10/"><u>Step-by-Step Guide: Establishing a Remote Connection with Windows 10</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-test-of-eero-pros-ability-to-bridge-your-whole-house-with-wi-fi/"><u>The Ultimate Test of Eero Pro's Ability to Bridge Your Whole House With Wi-Fi</u></a></li>
+<li><a href="https://win-answers.techidaily.com/total-war-three-kingdoms-how-to-overcome-unexpected-shutdowns-and-crashes/"><u>Total War: Three Kingdoms - How to Overcome Unexpected Shutdowns and Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-pc-issues-stop-manor-lords-from-crashing-now/"><u>Troubleshooting PC Issues - Stop Manor Lords From Crashing Now!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-solution-guide-to-overcome-dev-error-5573-in-call-of-duty-warzone-desktops-and-consoles-strategies/"><u>Ultimate Solution Guide to Overcome 'Dev Error 5573' In Call of Duty: Warzone - Desktops and Consoles Strategies</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/k-your-earning-potential-maximizing-youtube-revenue-on-mobile/"><u>Unlock Your Earning Potential Maximizing YouTube Revenue on Mobile</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/verbessern-sie-ihre-videos-mit-winxvideo-ai-ideales-werkzeug-zur-vergrosserung-stabilisierung-konvertierung-und-professionellen-video-bildbearbeitung/"><u>Verbessern Sie Ihre Videos Mit WinxVideo AI - Ideales Werkzeug Zur Vergrößerung, Stabilisierung, Konvertierung Und Professionellen Video-/Bildbearbeitung</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/visual-storytelling-on-facebook-crafting-compelling-slideshows-for-2024/"><u>Visual Storytelling on Facebook Crafting Compelling Slideshows for 2024</u></a></li>
+</ul></div>
 

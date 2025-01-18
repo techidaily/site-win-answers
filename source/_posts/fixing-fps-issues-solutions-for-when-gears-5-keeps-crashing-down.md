@@ -1,7 +1,7 @@
 ---
 title: "Fixing FPS Issues: Solutions for When Gears 5 Keeps Crashing Down"
-date: 2024-08-13T12:15:49.651Z
-updated: 2024-08-14T12:15:49.651Z
+date: 2025-01-14T02:29:45.834Z
+updated: 2025-01-18T03:16:48.667Z
 tags:
   - win11
   - win10
@@ -20,8 +20,9 @@ After Watch Dogs and Valhalla, Ubisoft recently released another sandbox title i
  But don’t worry if you happen to be one of them. In this tutorial, we’ll guide you through some working fixes and help you get back to the Hall of the Gods asap.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down until you find the one that does the trick.
@@ -31,9 +32,6 @@ After Watch Dogs and Valhalla, Ubisoft recently released another sandbox title i
 3. [**Update your graphics driver**](https://tools.techidaily.com/drivereasy/download/)
 4. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Make sure your PC specs meet the requirements
 
  Before you try anything more advanced, first check your PC specs. Immortals Fenyx Rising is a demanding game, both to your skills and PC hardware. A decent setup is a must if you expect a smooth gaming experience. If you find your specs don’t meet the game requirements below, then maybe it’s time for an upgrade.
@@ -61,8 +59,9 @@ After Watch Dogs and Valhalla, Ubisoft recently released another sandbox title i
  If your rig is powerful enough for the game, check out the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Verify the integrity of game files
 
  The constant crashes could indicate**an integrity issue with your game files** . In that case, you can run some checking to repair the corrupt or missing files.
@@ -72,18 +71,20 @@ Here’s how:
 1. Open your**Ubisoft Connect** client.
 2. Under the**Installed** section, click the picture of Immortals Fenyx Rising.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/ifr-verify-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. From the left menu, select**Properties** . Under the**Local Files** section, click**Verify files** . Then wait for the checking to complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/ifr-verify-2.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once completed, launch Immortals Fenyx Rising and see if it crashes again.
 
 If this method doesn’t help, you can take a look at the next one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -107,9 +108,6 @@ If this method doesn’t help, you can take a look at the next one.
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
@@ -131,6 +129,10 @@ And here’s how you can make sure your system is the latest:
 2. Click **Check for updates** . Then wait for Windows to download and install available updates automatically.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
  Once you’ve installed all the system updates, do a reboot and test the gameplay in Immortals Fenyx Rising.
@@ -145,8 +147,6 @@ And here’s how you can make sure your system is the latest:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -154,4 +154,24 @@ And here’s how you can make sure your system is the latest:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/huckle-trail-your-guide-to-hilarious-online-stars-for-2024/"><u>[New] Chuckle Trail Your Guide to Hilarious Online Stars for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-skyward-haven-of-the-pennywise-clouds/"><u>[New] Skyward Haven of the Pennywise Clouds</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-how-to-download-part-of-youtube-video-in-2024/"><u>[Updated] How to Download Part of YouTube Video, In 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-unlocking-data-in-twitter-archives/"><u>[Updated] In 2024, Unlocking Data in Twitter Archives</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-20-ae-templates-for-aspiring-designers/"><u>[Updated] Top 20 AE Templates for Aspiring Designers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/boosting-your-fallout-76-gaming-experience-by-solving-persistent-stutter-problems/"><u>Boosting Your Fallout 76 Gaming Experience by Solving Persistent Stutter Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-blizzards-battlenet-launcher-effective-solutions-for-windows-users/"><u>Fixing Blizzard's Battle.net Launcher: Effective Solutions for Windows Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-stability-issues-a-user-manual-to-prevent-cult-of-the-lamb-from-crashing-on-pc/"><u>Fixing Stability Issues - A User Manual to Prevent 'Cult of the Lamb' From Crashing on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-overwatchs-notorious-crash-on-graphics-drivers-a-comprehensive-guide/"><u>How to Fix Overwatch's Notorious Crash on Graphics Drivers - A Comprehensive Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-advanced-screen-viewer-chromeos-edition/"><u>In 2024, Advanced Screen Viewer ChromeOS Edition</u></a></li>
+<li><a href="https://win-answers.techidaily.com/joint-venture-update-united-force-still-in-development/"><u>Joint Venture Update: 'United Force' Still in Development</u></a></li>
+<li><a href="https://network-issues.techidaily.com/lenovo-screen-non-interaction-a-quick-fix/"><u>Lenovo Screen Non-Interaction: A Quick Fix</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/mastering-the-art-of-blog-promotion-on-social-networks-in-2009-comprehensive-techniques-powered-by-massmail/"><u>Mastering the Art of Blog Promotion on Social Networks in 2009: Comprehensive Techniques Powered by Massmail</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolve-titanfall-2-dropping-frames-easy-steps-to-enhance-performance/"><u>Resolve Titanfall 2 Dropping Frames | Easy Steps to Enhance Performance</u></a></li>
+<li><a href="https://win-answers.techidaily.com/say-goodbye-to-frustrations-effective-solutions-for-constant-blender-crashes-on-desktop-computers/"><u>Say Goodbye to Frustrations: Effective Solutions for Constant Blender Crashes on Desktop Computers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-rapid-graphics-driver-failures-in-valorant-easy-guide/"><u>Solving Rapid Graphics Driver Failures in Valorant – Easy Guide</u></a></li>
+<li><a href="https://win-popular.techidaily.com/unraveling-sun-yat-sens-impact-on-chinas-political-upheaval-a-viewpoint-by-yl-software/"><u>Unraveling Sun Yat-Sen's Impact on China’s Political Upheaval: A Viewpoint by YL Software</u></a></li>
+</ul></div>
 

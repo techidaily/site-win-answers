@@ -1,7 +1,7 @@
 ---
 title: Fixing FPS Drops and Stuttering - Expert Guide for a Smooth Dying Light 2 Experience on PC
-date: 2025-01-04T01:09:58.841Z
-updated: 2025-01-06T03:17:54.676Z
+date: 2025-01-15T22:35:45.804Z
+updated: 2025-01-18T06:28:27.062Z
 tags:
   - win11
   - win10
@@ -35,25 +35,25 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/how-to-fix-Pathfinder-Wrath-of-the-Righteous-freezing-on-PC.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Add your game as an exception to your antivirus
 
  Some gamers reported on Reddit that it turned out the antivirus application was quarantining the game every time they ran it. They solved the freezing issue by whitelisting the game. To make sure your antivirus is not blocking your game from launching properly, you should disable your antivirus or add your game as an exception. Otherwise, your antivirus might identify the game as a Trojan.
 
  If you’re quite sure there is nothing to do with your antivirus application, try the fixes listed below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Update your graphics driver
 
  Performance issues such as freezing and stuttering may be caused by an outdated or misconfigured graphics driver. If you can’t remember when was the last time you updated your drivers, definitely do it right now. This is probably the best shot you have got without doing a lot of troubleshooting. Additionally, graphics card manufacturers usually release game ready drivers to guarantee that players can get the best performance out of your graphics card.
 
  There are mainly two ways you can update your graphics driver:[manually](https://tools.techidaily.com/drivereasy/download/) and **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 1 – Manually update your graphics driver
 
@@ -64,10 +64,6 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 [Intel](https://www.intel.com/content/www/us/en/download-center/home.html)
 
  Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 2 – Automatically update your graphics driver (recommended)
 
@@ -83,21 +79,17 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating drivers, restart your PC and test the gameplay. If this doesn’t do the trick, proceed to the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Verify integrity of game files
 
  A variety of issues may be caused by corrupted game files, whether it’s glitched graphics or inability to launch the game. When the Pathfinder: Wrath of the Righteous freezing issue arise, you should check the integrity of the game files on Steam or GOG Galaxy:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Verify on Steam
 
@@ -105,6 +97,10 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-properties.jpg)
 2. Select the**LOCAL FILES** tab and click on the**VERIFY INTEGRITY OF GAME FILES…** button. Then Steam will verify the game files. Simply wait for the process to complete.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-integrity-of-game-files-1.png)
 
@@ -115,7 +111,7 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 3. Click on the**Customize button** ![](https://images.drivereasy.com/wp-content/uploads/2021/09/customization-button-GOG-Galaxy.png) (on the right side of the Play button), select**Manage installation > Verify / Repair** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![how to verify integrity of game files on GOG Galaxy](https://images.drivereasy.com/wp-content/uploads/2020/12/GOG-GALAXY.png)
@@ -136,6 +132,10 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 
 ![disable Steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-Steam-overlay-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After applying the changes, play Pathfinder: Wrath of the Righteous and your problem should be alleviated. However, if the freezing issue still occurs, don’t worry. Below are other fixes for you to try.
 
 ## 5\. Launch your game from .exe file
@@ -154,11 +154,11 @@ However, if it doesn’t give you any luck, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/regedit.png)
 3. Go to**ComputerHKEY\_CURRENT\_USERSOFTWAREowlcat** and delete the entire key.  
 
-![delete registry key](https://images.drivereasy.com/wp-content/uploads/2021/09/registry.png)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![delete registry key](https://images.drivereasy.com/wp-content/uploads/2021/09/registry.png)
 
 Once done, restart your game and test the gameplay.
 
@@ -173,7 +173,7 @@ Once done, restart your game and test the gameplay.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -195,24 +195,21 @@ Once done, restart your game and test the gameplay.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-answers.techidaily.com/sovled-warno-pc-game-how-to-stop-unexpected-shutdowns-and-crashes/"><u>[SOVLED] Warno PC Game - How to Stop Unexpected Shutdowns and Crashes</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-humor-unleashed-top-meme-creator/"><u>[Updated] Humor Unleashed Top Meme Creator</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-strategies-for-exclusive-zero-cost-visual-frames-for-2024/"><u>[Updated] Strategies for Exclusive Zero-Cost Visual Frames for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-unveiling-clearer-imagery-instagrams-video-cropping-secrets/"><u>2024 Approved Unveiling Clearer Imagery Instagram's Video Cropping Secrets</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-advice-eliminating-stability-issues-with-spellbreak-on-windows-and-macs/"><u>Expert Advice: Eliminating Stability Issues with Spellbreak on Windows & Macs</u></a></li>
-<li><a href="https://win-answers.techidaily.com/grounded-system-failures-on-computers-effective-fixes-and-insights/"><u>Grounded System Failures on Computers: Effective Fixes and Insights</u></a></li>
-<li><a href="https://win-answers.techidaily.com/guide-to-repairing-launch-failures-for-fighting-game-fans-tekken-er/"><u>Guide to Repairing Launch Failures for Fighting Game Fans – 'Tekken Er</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-overcome-delay-and-lags-while-playing-fortnite-a-step-by-step-guide/"><u>How To Overcome Delay and Lags While Playing Fortnite - A Step-by-Step Guide</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-establishing-a-mac-based-sports-media-outlet/"><u>In 2024, Establishing a Mac-Based Sports Media Outlet</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-oneplus-open-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On OnePlus Open Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://driver-install.techidaily.com/install-optimal-audio-drivers-for-windows-7/"><u>Install Optimal Audio Drivers for Windows 7</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-the-ultimate-guide-to-minitool-movie-maker-and-its-alternatives/"><u>New In 2024, The Ultimate Guide to Minitool Movie Maker and Its Alternatives</u></a></li>
-<li><a href="https://win-answers.techidaily.com/online-access-restored-fixing-origin-connectivity-problems/"><u>Online Access Restored: Fixing Origin Connectivity Problems</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/optimizing-installation-processes-mastering-dependency-management-in-msi-creations-using-advanced-installer/"><u>Optimizing Installation Processes: Mastering Dependency Management in MSI Creations Using Advanced Installer</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcome-game-crashes-during-halo-infinite-sessions-on-pcs-now-fixed/"><u>Overcome: Game Crashes During Halo Infinite Sessions on PCs - Now Fixed!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/remnant-from-the-ashes-solving-recurrent-game-crash-problems/"><u>Remnant: From the Ashes – Solving Recurrent Game Crash Problems</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/review-of-the-omnicharge-omni-20-the-ultimate-all-in-one-portable-charger-with-qi-wireless-capability/"><u>Review of the Omnicharge Omni 20: The Ultimate All-in-One Portable Charger with Qi Wireless Capability</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-helldivers-ii-how-to-repair-a-black-screen-at-start-up/"><u>Solving Helldivers II: How to Repair a Black Screen at Start-Up</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-oppo-f25-pro-5g-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Oppo F25 Pro 5G Device</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-the-future-of-content-navigating-video-landscapes-on-fb/"><u>[New] In 2024, The Future of Content Navigating Video Landscapes on FB</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-laugh-out-loud-top-meme-studio/"><u>[Updated] Laugh Out Loud Top Meme Studio</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-premiere-gear-optimal-panoramic-recorders/"><u>[Updated] Premiere Gear Optimal Panoramic Recorders</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/enhance-your-online-presence-manycam-features-and-virtual-webcam-capabilities/"><u>Enhance Your Online Presence: ManyCam Features and Virtual Webcam Capabilities</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-in-place-how-to-handle-your-steam-server-connections-successfully/"><u>Fixes in Place: How to Handle Your Steam Server Connections Successfully</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-issue-troubleshooting-a-non-functional-discord-webcam/"><u>Fixing the Issue: Troubleshooting a Non-Functional Discord Webcam</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-x-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone X Data From iOS iCloud? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-launch-problems-for-civ-6-on-windows-11-solutions-and-tips/"><u>Overcoming Launch Problems for Civ 6 on Windows 11 - Solutions & Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-gamers-rejoice-resolving-outriders-startup-problems/"><u>PC Gamers Rejoice: Resolving Outriders Startup Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/rage-against-the-machine-crash-effective-solutions-for-seamless-play/"><u>Rage Against the Machine (Crash): Effective Solutions for Seamless Play</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/reclaim-your-lost-photos-on-sd-card-without-spending-a-penny/"><u>Reclaim Your Lost Photos on SD Card Without Spending a Penny</u></a></li>
+<li><a href="https://techidaily.com/sign-dotm-file-online-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign .dotm file Online for Free</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-to-overcoming-the-anticheat-module-disconnect-on-escape-from-tarkov/"><u>Step-by-Step Guide to Overcoming the ‘AntiCheat Module Disconnect’ on Escape From Tarkov</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-fixes-to-correct-an-avcodecdll-error-on-your-pc/"><u>The Ultimate Fixes to Correct an Avcodec.dll Error on Your PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-repairing-damaged-video-game-data-in-windows/"><u>Ultimate Guide: Repairing Damaged Video Game Data in Windows</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1726223749607-wmv-movavi/"><u>WMV 파일을 쉽게 무료로 인터넷 측면에서 변환하는 방법 - Movavi</u></a></li>
 </ul></div>
 

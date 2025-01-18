@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Stop Cod: Modern Warfare From Breaking Down"
-date: 2025-01-09T16:34:49.590Z
-updated: 2025-01-12T17:50:52.864Z
+date: 2025-01-11T20:27:17.635Z
+updated: 2025-01-18T10:55:36.717Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ A recent update of Warzone triggered a surge in reports of the**Dev Error 6034**
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fixes to try
 
  You might not need to try them all. Simply work down the list until you land on the one that fixes the issue.
@@ -36,7 +32,7 @@ A recent update of Warzone triggered a surge in reports of the**Dev Error 6034**
 4. **[Reinstall Warzone](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver (PC)
@@ -67,7 +63,7 @@ To do so, first visit the website of your GPU manufacturer:
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
@@ -77,6 +73,10 @@ To do so, first visit the website of your GPU manufacturer:
  After updating all your drivers, restart your PC and check if the issue persists.
 
  If the latest drivers didn’t give you luck, you can try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Remove broken game files (PC)
 
@@ -95,6 +95,10 @@ To do so, first visit the website of your GPU manufacturer:
 
  If this method doesn’t do the trick, you can take a look at the next one.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Remove Multiplayer game packs
 
  Soon after the Dev Error happens, console gamers discovered that they can fix the issue by**removing specific game packs** . This would be less painful than a complete reinstallation, so you can give it a shot. If you don’t know how, here’s a quick example on Xbox:
@@ -103,21 +107,17 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-1.jpg)
 2. Select**Call of Duty: Modern Warfare** . (You might also need to select**Manage installation on External drive** .)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-2.jpg)
 3. Scroll down and unselect**MP2 Pack** and**Multiplayer Pack 3.** Then select**Save changes** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-3.jpg)
 4. Now restart your Xbox and check if Warzone is working now.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If this trick doesn’t help you, simply check out the next one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Reinstall Warzone
 
@@ -144,15 +144,24 @@ If this trick doesn’t help you, simply check out the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-a-quick-look-at-grading-techniques-in-ps/"><u>[New] A Quick Look at Grading Techniques in PS</u></a></li>
-<li><a href="https://win-answers.techidaily.com/breaking-news-pc-gamers-await-further-announcements-on-diablo-immortal-release/"><u>Breaking News: PC Gamers Await Further Announcements on Diablo Immortal Release</u></a></li>
-<li><a href="https://win-answers.techidaily.com/crash-free-gaming-experience-achieved-with-recent-fixes-for-insurgency-sandstorm/"><u>Crash-Free Gaming Experience Achieved with Recent Fixes for 'Insurgency: Sandstorm'</u></a></li>
-<li><a href="https://win-dash.techidaily.com/fresh-release-of-80211n-wi-fi-networking-drivers-optimized-for-windows-111087-free-download/"><u>Fresh Release of 802.11N Wi-Fi Networking Drivers, Optimized for Windows 11/10/8/7 - Free Download</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-poco-m6-pro-4g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Poco M6 Pro 4G to New Android? | Dr.fone</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/new-in-2024-what-is-an-ai-headshot-generator/"><u>New In 2024, What Is an AI Headshot Generator?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-game-interruptions-repairing-pc-issues-during-sons-of-the-forest-playthroughs/"><u>Overcoming Game Interruptions: Repairing Pc Issues During Sons of the Forest Playthroughs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-how-to-correct-a-malformed-directory-path-mistake/"><u>Resolved: How to Correct a Malformed Directory Path Mistake</u></a></li>
-<li><a href="https://win-answers.techidaily.com/tackling-ping-spikes-in-bless-unleashed-a-comprehensive-guide-to-enhancing-pc-performance/"><u>Tackling Ping Spikes in Bless Unleashed: A Comprehensive Guide to Enhancing PC Performance</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/the-ultimate-guide-to-animation-makers-top-recommendations-for-2024/"><u>The Ultimate Guide to Animation Makers Top Recommendations for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-the-sound-solution-for-twitters-video-content/"><u>[New] 2024 Approved The Sound Solution for Twitter's Video Content</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-explore-vivid-skies-highlighted-hdr-web-platforms/"><u>[New] Explore Vivid Skies Highlighted HDR Web Platforms</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-conquer-the-webcam-world-with-ease/"><u>[Updated] 2024 Approved Conquer the Webcam World with Ease</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-top-10-network-for-entrepreneurs-how-they-conquered-channels/"><u>2024 Approved Top 10 Network for Entrepreneurs How They Conquered Channels</u></a></li>
+<li><a href="https://win-answers.techidaily.com/call-of-duty-enthusiasts-beware-the-newly-identified-frame-rate-stuttering-issues-in-modern-warfare-3-2024-patch-notes/"><u>Call of Duty Enthusiasts Beware! The Newly Identified Frame Rate Stuttering Issues in Modern Warfare 3 (2024 Patch Notes)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/call-of-duty-tactics-resolving-cod-warzone-bug-6328-with-pro-players-insights-latest-update/"><u>Call of Duty Tactics: Resolving Cod Warzone Bug #6328 with Pro Players' Insights (Latest Update)</u></a></li>
+<li><a href="https://games-able.techidaily.com/economic-edition-top-11-game-sites-offering-deals-on-discounted-titles/"><u>Economic Edition: Top 11 Game Sites Offering Deals on Discounted Titles</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhance-your-gaming-experience-expert-tips-to-address-and-fix-low-fps-in-valheim-for-2n24/"><u>Enhance Your Gaming Experience: Expert Tips to Address and Fix Low FPS in Valheim for 2N24</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-remedy-for-hidden-shorts-video-thumbnails/"><u>In 2024, Remedy for Hidden Shorts Video Thumbnails</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/is-an-additional-warranty-through-applecareplus-beneficial-for-your-device/"><u>Is an Additional Warranty Through AppleCare+ Beneficial for Your Device?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-the-art-of-stable-gaming-overcome-yakuza-6-pc-faults-easily/"><u>Master the Art of Stable Gaming: Overcome Yakuza 6 PC Faults Easily!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723003806187-optimizing-valorant-performance-clear-the-stutter-elevate-your-fps/"><u>Optimizing Valorant Performance: Clear the Stutter, Elevate Your FPS</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-launch-failures-in-call-of-duty-modern-warfare-3-with-these-quick-fixes/"><u>Overcome Launch Failures in Call of Duty Modern Warfare 3 with These Quick Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/proven-techniques-to-restore-functionality-of-laptop-touchpad-on-oldernewer-windows-os/"><u>Proven Techniques to Restore Functionality of Laptop Touchpad on Older/Newer Windows OS</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-solutions-for-playing-avatar-frontiers-of-pandora-on-your-device/"><u>Step-by-Step Solutions for Playing Avatar: Frontiers of Pandora on Your Device</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-solutions-preventing-discord-app-crashes-for-smooth-gaming/"><u>Step-by-Step Solutions: Preventing Discord App Crashes for Smooth Gaming</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unveiling-the-process-of-reviving-your-intellgraphics-in-win7/"><u>Unveiling the Process of Reviving Your IntellGraphics in Win7</u></a></li>
+<li><a href="https://win-answers.techidaily.com/update-your-logitech-g403-controller-firmware-on-pc-free-driver-downloads-available/"><u>Update Your Logitech G403 Controller Firmware on PC - Free Driver Downloads Available!</u></a></li>
+<li><a href="https://change-location.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Vivo T2x 5G | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Restore Functionality for Non-Responsive Logitech Configuration Tools (Windows)
-date: 2024-08-13T12:16:10.826Z
-updated: 2024-08-14T12:16:10.826Z
+date: 2025-01-11T22:33:44.799Z
+updated: 2025-01-18T01:01:58.090Z
 tags:
   - win11
   - win10
@@ -18,9 +18,9 @@ thumbnail: https://thmb.techidaily.com/fe76b6185e26f2c7036c1e782f8aa4282a912d0cf
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b963914c70e5-150x150.png) You may often use Skype to contact colleagues and friends. If you somehow aren’t able to send messages on Skype, it’s not only causing inconvenience but annoyance. But don’t don’t worry, there’re practical solutions to Skype not sending messages.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these solutions
 
  Here are 4 solutions that have helped other users get Skype sending messages again. You don’t have to try them all, just work your way down the list until you find the ones that works for you.
@@ -30,39 +30,38 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 3. [**Get the classic version of Skype**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Reinstall Skype**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Solution 1 – Reset Skype
 
  Resetting Skype to its default settings has solved the **Skype** **messages not sending** problem for a lot of users. So, we recommend it as the first option for you to try. Follow the steps below:
 
 1. **Right-click** the**Start** button and select**Apps and Features** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9621d745191.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Navigate to and select Skype, then click**Advanced options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b96227db84d5.jpg)
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Under Reset, click the**Reset** button.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9622ba52457.jpg)
 4. Click**Reset** as confirmation.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9622fcda08a.jpg)
-5. When the reset is finished, you’ll see a tick next to the Reset button. Then you can close the Settings window.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b96237bdfba8.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
-6. Log into Skype and test by sending a message to a contact.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b96253de6794.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9622fcda08a.jpg)
+5. When the reset is finished, you’ll see a tick next to the Reset button. Then you can close the Settings window.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b96237bdfba8.jpg)
+6. Log into Skype and test by sending a message to a contact.  
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b96253de6794.jpg)
+
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 2 – Update your Skype to the latest version
 
@@ -79,12 +78,12 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
  If the above steps produce no results in your Microsoft Skype, then you may try installing the classic version of Skype for your Windows PC. Click this **[link](http://download.skype.com/msi/SkypeSetup%5F7.41.0.101.msi)**  to download the**classic Skype 7.41.0.101** for Windows.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b963727d1199.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 4 – Reinstall Skype
 
@@ -96,12 +95,14 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
  key and **R**  at the same time to open the Run box.
 3. Type**%appdata%** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b964f4e00b2c.png)
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Select the**Skype** folder and**delete** it to completely remove Skype from your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b964c3405240.jpg)
 5. Click **[this link](https://www.skype.com/en/get-skype/)**  to download Skype.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b964d3604b91.jpg)
 6. When the download is completed, open the downloaded file and follow the onscreen instructions to reinstall Skype on your PC.
 
@@ -118,14 +119,13 @@ Hopefully this fixes your problem.
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bee7000c9754.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . You get full support and a 30-day money back guarantee.)  
-![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bee6ff414d3a.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bee6ff414d3a.jpg)
 
  If you need assistance, please contact Driver Easy’s support team at**<support@drivereasy.com>.**
 
@@ -137,8 +137,6 @@ Hopefully this fixes your problem.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -146,4 +144,19 @@ Hopefully this fixes your problem.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-ios-integration-listening-to-podcasts-made-easy/"><u>[New] IOS Integration Listening to Podcasts Made Easy</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ailored-video-experience-creating-a-structured-watch-later-list-on-youtube/"><u>[New] Tailored Video Experience Creating a Structured 'Watch Later' List on YouTube</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-the-insiders-guide-to-crafting-insta-tones/"><u>[Updated] In 2024, The Insider's Guide to Crafting Insta Tones</u></a></li>
+<li><a href="https://win-answers.techidaily.com/conquering-instability-expert-tips-and-fixes-to-prevent-red-dead-redemption-2-from-crashing-your-gaming-session/"><u>Conquering Instability: Expert Tips and Fixes to Prevent Red Dead Redemption 2 From Crashing Your Gaming Session</u></a></li>
+<li><a href="https://win-unique.techidaily.com/how-to-preserve-skype-webinar-footage-as-mp4-files-on-both-windows-and-macos-systems/"><u>How to Preserve Skype Webinar Footage as MP4 Files on Both Windows and macOS Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/improved-visual-performance-in-grand-theft-auto-v-after-rectifying-errgfxd3dinit/"><u>Improved Visual Performance in Grand Theft Auto V After Rectifying ERR_GFX_D3D_INIT</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-realme-10t-5g-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Realme 10T 5G Phone? Unlock It Now</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-airpod-windows-11-integration-top-troubleshooting-techniques/"><u>Mastering AirPod-Windows 11 Integration: Top Troubleshooting Techniques</u></a></li>
+<li><a href="https://win-answers.techidaily.com/oculus-link-screen-issues-6-fast-fixes-to-bring-back-your-vr-experience/"><u>Oculus Link Screen Issues? 6 Fast Fixes to Bring Back Your VR Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-launch-difficulties-in-monster-hunter-rise-a-comprehensive-guide/"><u>Overcoming Launch Difficulties in Monster Hunter Rise: A Comprehensive Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/snappyscreen-recording-suite-for-2024/"><u>SnappyScreen Recording Suite for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-for-unstable-game-loops-avoid-game-crashes-on-windows-1110-systems/"><u>Solution for Unstable Game Loops: Avoid Game Crashes on Windows 11/10 Systems</u></a></li>
+</ul></div>
 

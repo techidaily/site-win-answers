@@ -1,7 +1,7 @@
 ---
 title: Guide to Fixing The Elder Scrolls Online Loading Errors Quickly
-date: 2024-12-31T04:05:06.471Z
-updated: 2025-01-06T00:29:59.704Z
+date: 2025-01-14T16:22:25.890Z
+updated: 2025-01-17T22:43:39.296Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ If you launch the Elder Scrolls Online but get stuck on the loading screen befor
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -30,6 +34,10 @@ If you launch the Elder Scrolls Online but get stuck on the loading screen befor
 2. [Delete the program data](https://tools.techidaily.com/drivereasy/download/)
 3. [Repair the launcher](https://tools.techidaily.com/drivereasy/download/)
 4. [Update your driver](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Add ESO into exception
 
@@ -43,10 +51,6 @@ Here’s how to allow the ESO launcher through the firewall.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/image-7.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click the **Allow an app or feature through Windows Defender Firewall** from the left panel.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/image-8.png)
@@ -56,14 +60,10 @@ Here’s how to allow the ESO launcher through the firewall.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/image-9.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Click **OK**  button to save changes. Then reboot the game to check the issue persists or not.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Delete the program data
 
@@ -87,7 +87,7 @@ Here’s how to allow the ESO launcher through the firewall.
 5. Relaunch the game and check to see if the issue persists.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Update your driver
@@ -115,12 +115,12 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/DE-PRO-VEGA-KILLER-NETWORKING.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -144,20 +144,15 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-twitter-live-sound-solving-partially-muted-audio-issues/"><u>[New] 2024 Approved Twitter Live Sound Solving Partially Muted Audio Issues</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-superior-select-ringtone-makers-guidebook-for-2024/"><u>[New] Superior Select Ringtone Makers' Guidebook for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-effortless-youtube-playback-downloading-content-to-idevices-for-2024/"><u>[Updated] Effortless Youtube Playback Downloading Content to iDevices for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-multi-screen-mastery-review-splits-best-cam-for-2024/"><u>[Updated] Multi-Screen Mastery Review Splits Best Cam for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/balancing-primary-and-b-footage-for-dynamic-video-production-for-2024/"><u>Balancing Primary & B-Footage for Dynamic Video Production for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-latest-corsair-k70-software-and-driver-for-optimal-performance/"><u>Get the Latest Corsair K70 Software and Driver for Optimal Performance</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-capture-every-pixel-of-pc-gaming-bliss-6-ways/"><u>In 2024, Capture Every Pixel of PC Gaming Bliss (6 Ways)</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Honor X9a? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/master-tips-successfully-starting-up-your-persona-3-journey-without-glitches/"><u>Master Tips: Successfully Starting Up Your Persona 3 Journey Without Glitches</u></a></li>
-<li><a href="https://win-answers.techidaily.com/maximize-your-cs-2-performance-strategies-to-fix-fps-dips-and-stutters-during-play/"><u>Maximize Your CS 2 Performance: Strategies to Fix FPS Dips & Stutters During Play</u></a></li>
-<li><a href="https://win-answers.techidaily.com/maximize-your-gaming-experience-by-correcting-lag-in-cyberpunk-2077-v-rising/"><u>Maximize Your Gaming Experience by Correcting Lag in Cyberpunk 2077 (V Rising)</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-the-intrusion-detected-problem-a-guide-for-secure-gaming/"><u>Solving the 'Intrusion Detected' Problem: A Guide for Secure Gaming</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-the-problem-of-a-non-responsive-nvidia-control-panel-a-step-by-step-guide/"><u>Solving the Problem of a Non-Responsive Nvidia Control Panel: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-tutorial-to-solve-constant-palworld-breakdowns-on-personal-computers/"><u>Step-by-Step Tutorial to Solve Constant Palworld Breakdowns on Personal Computers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-and-fixing-your-football-manager-2020-stability-problems/"><u>Troubleshooting and Fixing Your Football Manager 2020 Stability Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-ascent-performance-tips-eliminating-stutters-enhancing-fps/"><u>'The Ascent' Performance Tips: Eliminating Stutters, Enhancing FPS</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-perfecting-content-aesthetics-crafting-personalized-thumbnails/"><u>[Updated] Perfecting Content Aesthetics Crafting Personalized Thumbnails</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhancing-gameplay-stability-troubleshooting-fps-drops-in-nioe-2/"><u>Enhancing Gameplay Stability: Troubleshooting FPS Drops in Nioe 2</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-nokia-c12-plus-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Nokia C12 Plus to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-resolve-apex-legends-connection-troubles-successfully/"><u>How To Resolve Apex Legends' Connection Troubles Successfully</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Infinix Hot 40i? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Tecno Spark 20C? | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-voice-customization-leaders-including-the-magic-call-apps/"><u>In 2024, Voice Customization Leaders Including the Magic Call Apps</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solutions-to-overcome-launching-challenges-in-call-of-duty-modern-warfare-3-mw3/"><u>Solutions to Overcome Launching Challenges in Call of Duty Modern Warfare 3 (MW3)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unbeatable-cyber-monday-offer-score-an-hp-pavilion-laptop-for-just-450-enjoy-a-steep-50-discount-dive-into-the-deal-at-zdnet/"><u>Unbeatable Cyber Monday Offer: Score an HP Pavilion Laptop for Just $450! Enjoy a Steep 50% Discount – Dive Into the Deal at ZDNet</u></a></li>
 </ul></div>
 

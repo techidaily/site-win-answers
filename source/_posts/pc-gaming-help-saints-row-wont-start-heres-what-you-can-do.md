@@ -1,7 +1,7 @@
 ---
 title: PC Gaming Help - Saints Row Won't Start? Here’s What You Can Do!
-date: 2024-08-13T12:13:52.919Z
-updated: 2024-08-14T12:13:52.919Z
+date: 2025-01-16T09:46:02.463Z
+updated: 2025-01-17T16:07:04.312Z
 tags:
   - win11
   - win10
@@ -18,8 +18,9 @@ thumbnail: https://thmb.techidaily.com/1b264feb60401b06f1b5b9d369aaa689e44f7f392
 Evil Genius 2: World Domination is a new game that was released on 30 March 2021 on Steam. It would be frustrating when you couldn’t launch the game, don’t worry, you’re not alone. This post would help you resolve it.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -29,17 +30,14 @@ Evil Genius 2: World Domination is a new game that was released on 30 March 2021
 3. [Verify game file](https://tools.techidaily.com/drivereasy/download/)
 4. [Replace the launcher file](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## Fix 1: Update your driver
 
  I believe you would be familiar with this warning message after a couple of hours of playing. Some players won’t be affected, but for others, this warning message points out the reason for the game not launching or crashing issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/evil-2.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Tips: You can disable the alert in the launcher settings.
@@ -63,10 +61,11 @@ Tips: You can disable the alert in the launcher settings.
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
@@ -92,10 +91,12 @@ If you’re launching from Steam, move to the next fix.
 1. Launch Steam and go to**LIBRARY** .
 2. Right-click on the game and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-07_17-10-14.png)
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Go to the**LOCAL FILES** tab and click**Verify integrity of game files…**  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify.png)
 4. Reboot the game when the process is finished.
 
@@ -108,10 +109,12 @@ If this fix is not working, move to the next one.
 1. Press the**Windows logo key + R** together to open the Run box.
 2. Type**%appdata%** and press the**Enter** key.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/appdata.jpg)
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Find and double-click the Evil Genius 2 folder.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Go to the Launcher folder to find the**Evil Genius 2.exe** file. Move the executable file into the**Bin folder** with evilgenius\_vulkan.exe.
 5. Relaunch the game to check.
 
@@ -125,8 +128,6 @@ If this fix is not working, move to the next one.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -134,4 +135,23 @@ If this fix is not working, move to the next one.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-chortlechaos-dive-deep-into-meme-genesis-for-2024/"><u>[New] ChortleChaos Dive Deep Into Meme Genesis for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-becoming-proficient-in-ez-grabber-technology/"><u>[New] In 2024, Becoming Proficient in EZ Grabber Technology</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-pioneers-in-digital-avengers-landscapes/"><u>[New] Pioneers in Digital Avengers Landscapes</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-20-viral-tiktok-anime-ideas/"><u>[Updated] 20 Viral Tiktok Anime Ideas</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bypassing-launch-errors-in-helldivers-2-a-step-by-step-guide-for-steam-users/"><u>Bypassing Launch Errors in Helldivers 2 - A Step-by-Step Guide for Steam Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/call-of-duty-vanguard-overcoming-compatibility-challenges-on-pc-in-the-2nnd-quarter-of-2024/"><u>Call of Duty Vanguard - Overcoming Compatibility Challenges on PC in the 2Nnd Quarter of 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/choose-wisely-top-mobile-plans-tailored-for-seniors-2024-edition/"><u>Choose Wisely: Top Mobile Plans Tailored for Seniors - 2024 Edition</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-on-fixing-msstdfmtdll-not-found-or-absent-error-messages-easily/"><u>Guide on Fixing Msstdfmt.dll Not Found or Absent Error Messages Easily</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-the-apple-books-ereader-platform/"><u>In-Depth Analysis of the Apple Books eReader Platform</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Motorola Edge 40? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/latest-tricks-to-combat-discord-slowdowns-and-improve-connectivity/"><u>Latest Tricks to Combat Discord Slowdowns and Improve Connectivity</u></a></li>
+<li><a href="https://win-answers.techidaily.com/no-more-game-crashes-troubleshoot-sekiro-in-a-flash/"><u>No More Game Crashes: Troubleshoot Sekiro in a Flash</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-the-issue-how-to-fix-constant-crashes-in-beat-saber/"><u>Resolving the Issue: How to Fix Constant Crashes in Beat Saber</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-steps-for-when-warzone-skins-wont-appear-correctly/"><u>Solution Steps for When Warzone Skins Won't Appear Correctly</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlocking-iphone-11-pro-passcode-without-a-computer-drfone-by-drfone-ios/"><u>Unlocking iPhone 11 Pro Passcode without a Computer | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/urban-architects-guide-overcoming-system-collapses-in-city-of-the-future-ii-for-windows-users/"><u>Urban Architect's Guide: Overcoming System Collapses in City of the Future II for Windows Users</u></a></li>
+</ul></div>
 

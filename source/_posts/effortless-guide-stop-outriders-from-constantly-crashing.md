@@ -1,7 +1,7 @@
 ---
 title: "Effortless Guide: Stop Outriders From Constantly Crashing"
-date: 2024-08-13T12:09:58.861Z
-updated: 2024-08-14T12:09:58.861Z
+date: 2025-01-15T02:09:23.437Z
+updated: 2025-01-18T00:19:14.368Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/85ea88a283ba15f13d63e8eaf5823127ecc1dabd5
 
 If you’re getting this error message ‘**An Unreal process has crashed: UE4-Madness** .’, don’t worry. Usually, it means the game engine has crashed and it’s hard to troubleshoot the exact cause. Below, you will find every possible fix you can find online or in forums.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
 1. **[Quit MSI Afterburner](https://tools.techidaily.com/drivereasy/download/)**
@@ -55,11 +52,12 @@ There are mainly two methods for you to update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click_Update All_ .)
@@ -69,6 +67,10 @@ There are mainly two methods for you to update the graphics driver:
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Verify the game integrity
 
  Another possible cause of ‘**Unreal process has crashed: UE4-Madness error** ‘ in Outriders is corrupted or missing game files. To check if this is causing the Unreal Engine to crash, you can try this simple troubleshooting:
@@ -77,25 +79,24 @@ There are mainly two methods for you to update the graphics driver:
 
  2) Right-click **OUTRIDERS Demo** and select **Properties** .
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/properties.jpg)
 
  3) Go to the LOCAL FILES tab, and click**Verify Integrity of game files** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify-game-files.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Wait for the process to complete. It may take a few seconds to verify the integrity of your game files.
 
  Once complete, you can restart the game to check if the Unreal Engine error has been solved by now.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 4\. Force Outriders to run in DX11
 
  When you click the Play button, and you’ll be prompted to choose DirectX 12 or DirectX 11\. You can try playing the game in DX11 this way or you can force Outriders to run in DX11 so that you don’t need to do this every time:
@@ -116,6 +117,10 @@ There are mainly two methods for you to update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/browse.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Right-click**OUTRIDERS-Win64-Shipping** and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/properties-game-exe.jpg)
@@ -127,8 +132,9 @@ There are mainly two methods for you to update the graphics driver:
  Granting enough access and running the game directly worked for many other players. If Outriders is still crashing with ‘Unreal process has crashed: UE4-Madness error’, you can try the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 6\. Allow your game to run through Firewall
 
  If the issue persists, you can check if it’s caused by an over-protective Firewall or your Antivirus software (you can temporarily uninstall your antivirus software). To make sure the Windows Defender Firewall is not blocking your game, here’s how:
@@ -141,16 +147,10 @@ There are mainly two methods for you to update the graphics driver:
 
  3) On the left pane, click**Allow an app or feature through Windows Defender Firewall** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/allow-firewall.jpg)
 
  4) Now you can click**Change settings** and scroll down to Outriders to make sure the**Private** and**Public** boxes are both checked.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/allowed.jpg)
 
  5) If Outriders is not on the list, you can select**Allow another app..** . and then add your Outriders.
@@ -170,8 +170,6 @@ There are mainly two methods for you to update the graphics driver:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -179,4 +177,26 @@ There are mainly two methods for you to update the graphics driver:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-step-by-step-obs-studio-setup-for-android-users/"><u>[New] 2024 Approved Step-by-Step OBS Studio Setup for Android Users</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-the-ultimate-checklist-12-must-have-cameras-for-vlogging-professionals/"><u>2024 Approved The Ultimate Checklist 12 Must-Have Cameras for Vlogging Professionals</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/altering-visuals-in-teams-calls-timely-setup-adjustments/"><u>Altering Visuals in Teams Calls Timely Setup Adjustments</u></a></li>
+<li><a href="https://win-answers.techidaily.com/boosting-ubisoft-connection-downloads-tips-for-faster-performance/"><u>Boosting Ubisoft Connection Downloads: Tips for Faster Performance</u></a></li>
+<li><a href="https://win-answers.techidaily.com/comprehensive-tutorial-turning-on-and-installing-hyper-v-in-windows-11/"><u>Comprehensive Tutorial: Turning On and Installing Hyper-V in Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/easy-instructions-for-activating-vpn-services-across-windows-macos-ios-and-android-systems/"><u>Easy Instructions for Activating VPN Services Across Windows, macOS, iOS, and Android Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-solutions-preventing-snowrunner-from-shutting-down-unexpectedly-on-desktops/"><u>Expert Solutions: Preventing SnowRunner From Shutting Down Unexpectedly on Desktops</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-a-beginner-friendly-approach-to-srt-knowledge/"><u>In 2024, A Beginner-Friendly Approach to SRT Knowledge</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-instant-luxury-iphones-extended-shutter-mastery/"><u>In 2024, Instant Luxury IPhone's Extended Shutter Mastery</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-low-cpu-playthroughs-in-god-of-war-tips-and-tricks-unveiled/"><u>Mastering Low-CPU Playthroughs in God of War: Tips and Tricks Unveiled</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-gaming-woes-heres-how-to-get-hitman-3-running-smoothly/"><u>PC Gaming Woes? Here's How to Get Hitman 3 Running Smoothly</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/quick-assembly-of-stunning-google-collages-for-2024/"><u>Quick Assembly of Stunning Google Collages for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-connectivity-issues-corsair-icue-on-new-microsoft-operating-system-windows-11/"><u>Resolving Connectivity Issues: Corsair iCUE on New Microsoft Operating System (Windows 11)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-graphics-issues-in-red-dead-redemption-2-with-errgfxstate-errors/"><u>Resolving Graphics Issues in Red Dead Redemption 2 with ERR_GFX_STATE Errors</u></a></li>
+<li><a href="https://win-answers.techidaily.com/speeding-up-origin-file-transfers-expert-tips-and-techniques-keep-ahead-in-202n4/"><u>Speeding Up Origin File Transfers: Expert Tips & Techniques - Keep Ahead in 202N4</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-ultimate-solution-for-stability-finding-and-fixing-glitches-in-robocop-rogue-city-on-windowsmac/"><u>The Ultimate Solution for Stability: Finding & Fixing Glitches in RoboCop: Rogue City on Windows/Mac</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-7-ai-tools-beyond-gpt-for-code-automation/"><u>Top 7 AI Tools Beyond GPT for Code Automation</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unpacking-the-capabilities-a-full-review-on-the-netgear-nighthawk-x6-wireless-range-extender/"><u>Unpacking the Capabilities: A Full Review on the Netgear Nighthawk X6 Wireless Range Extender</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-secrets-of-lg-channels-vital-information-at-your-fingertsip/"><u>Unveiling the Secrets of LG Channels – Vital Information at Your Fingertsip</u></a></li>
+</ul></div>
 

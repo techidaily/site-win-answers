@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Steps: Resolving 'Lost Ark' Game Crashes"
-date: 2025-01-05T19:01:20.077Z
-updated: 2025-01-12T19:16:41.623Z
+date: 2025-01-14T17:22:37.935Z
+updated: 2025-01-17T20:45:33.020Z
 tags:
   - win11
   - win10
@@ -52,10 +52,6 @@ Recently we have seen a lot of Gears 5 players reporting that**Gears Of War cras
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -65,7 +61,7 @@ Recently we have seen a lot of Gears 5 players reporting that**Gears Of War cras
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: **Disable gaming overlay**
@@ -78,25 +74,25 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-132.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) In **Game bar** , toggle **off** the switch for **Record game clips, screenshots,broadcast using Game bar** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-136.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click Captures, then toggle **off** the switch for **Record in the background while I’m playing a game** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-138.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click Broadcasting, then toggle **off** the switch for **Record audio when I broadcast** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-139.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5) Exit the window.
 
@@ -115,7 +111,7 @@ Here is how to reset the Microsoft Store cache:
  1) On your keyboard, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and type **R** at the same time, then type **wsreset.exe** and press **Enter** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-127.png)
@@ -124,12 +120,16 @@ Here is how to reset the Microsoft Store cache:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-128.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Once completed, Windows Store will pop open.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-129-1024x796.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
@@ -151,10 +151,6 @@ Here is how to do it:
  2) In Windows Update, click **Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-140.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Wait for the system to check online for available updates for the game.
 
@@ -183,6 +179,10 @@ Here is how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 7: Disable your X-Fi sound card (If you have an X-Fi sound card)
 
  According to game forums, many players reported that disabling their X-Fi sound card helped them fix the problem. So if you are also having an X-Fi sound card, you should also give it a try to see if it does the trick.
@@ -208,24 +208,18 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-innovative-titling-techniques-to-explore/"><u>[New] 2024 Approved Innovative Titling Techniques to Explore</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/024-approved-time-traveling-through-history-students-top-youtubes-to-watch/"><u>[New] 2024 Approved Time Traveling Through History Students' Top YouTubes To Watch</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-leading-the-pack-10-crucial-apps-for-insta-video-marketers/"><u>[New] In 2024, Leading the Pack 10 Crucial Apps for Insta Video Marketers</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-streamlining-your-video-creation-ootd-on-a-mac/"><u>[New] In 2024, Streamlining Your Video Creation OOTD on a Mac</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-ascending-with-expertise-mastering-the-art-and-science-of-asmr-production/"><u>[Updated] 2024 Approved Ascending with Expertise Mastering The Art & Science of ASMR Production</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-quick-guide-to-planning-google-meet-sessions/"><u>[Updated] 2024 Approved Quick Guide to Planning Google Meet Sessions</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/comprehensive-guide-to-the-lg-k92-beyond-the-hype-of-5g-technology/"><u>Comprehensive Guide to the LG K92: Beyond The Hype of 5G Technology</u></a></li>
-<li><a href="https://win-answers.techidaily.com/conquer-the-battlefield-expert-advice-on-resolving-dota-2-latency-problems/"><u>Conquer the Battlefield: Expert Advice on Resolving Dota 2 Latency Problems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/cyberpunk-2077s-episode-2024-glitches-unraveling-the-mystery/"><u>Cyberpunk 2077'S Episode 2024 Glitches: Unraveling the Mystery</u></a></li>
-<li><a href="https://win-answers.techidaily.com/directx-compatibility-fixes-for-a-smooth-call-of-duty-modern-warfare-eb-gameplay-experience/"><u>DirectX Compatibility Fixes for a Smooth Call of Duty: Modern Warfare Eb Gameplay Experience</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effortless-ways-to-correct-winwordexe-application-problems/"><u>Effortless Ways to Correct WINWORD.EXE Application Problems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-issue-how-to-stop-battlefront-ii-from-crashing-on-your-windows-machine/"><u>Fixing the Issue: How to Stop Battlefront II From Crashing on Your Windows Machine</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-no-watermark-video-merger-software-top-7-picks-for-2024/"><u>New No-Watermark Video Merger Software Top 7 Picks for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/phasmophobias-latest-fault-fixes-a-comprehensive-guide-for-the-new-year/"><u>Phasmophobia's Latest Fault Fixes - A Comprehensive Guide for the New Year</u></a></li>
-<li><a href="https://win-answers.techidaily.com/slash-your-computers-memory-load-with-these-chrome-optimization-tricks/"><u>Slash Your Computer's Memory Load with These Chrome Optimization Tricks</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/tailored-ai-solutions-our-top-5-prompt-generator-lists/"><u>Tailored AI Solutions: Our Top 5 Prompt Generator Lists</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-vive-cosmos-unveiled-top-tier-virtual-reality-headset-with-tough-contenders/"><u>The Vive Cosmos Unveiled: Top-Tier Virtual Reality Headset with Tough Contenders</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-fixing-windows-11-error-0xc19001e1/"><u>Troubleshooting Guide: Fixing Windows 11 Error 0xC19001E1</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-how-to-solve-palworlds-eos-login-issues/"><u>Troubleshooting Steps: How to Solve Palworld's EOS Login Issues</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-3-ways-to-record-lectures-on-mac/"><u>[New] 2024 Approved 3 Ways to Record Lectures on Mac</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/treamlining-song-selection-for-youtube-playlist-curation-for-2024/"><u>[New] Streamlining Song Selection for YouTube Playlist Curation for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-vivo-t2x-5g-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Vivo T2x 5G Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/error-code-0xc0000022-on-adobe-causes-and-effective-resolution-steps/"><u>Error Code 0xC0000022 on Adobe: Causes and Effective Resolution Steps</u></a></li>
+<li><a href="https://win-answers.techidaily.com/experiencing-constant-crashes-with-total-war-warhammer-3-heres-how-to-fix-the-pc-game-stability-issues/"><u>Experiencing Constant Crashes with Total War: Warhammer 3? Here's How to Fix the PC Game Stability Issues</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-world-of-netflix-inside-look-at-its-popular-streaming-platform/"><u>Exploring the World of Netflix: Inside Look at Its Popular Streaming Platform</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-a-step-by-step-guide-to-youtube-image-branding/"><u>In 2024, A Step-by-Step Guide to YouTube Image Branding</u></a></li>
+<li><a href="https://blog-min.techidaily.com/live-streaming-app-virtual-camera-features-and-enhance-your-broadcasts/"><u>Live Streaming App, Virtual Camera Features, and Enhance Your Broadcasts.</u></a></li>
+<li><a href="https://fox-that.techidaily.com/quick-tips-for-resolving-issues-with-your-iphones-home-button-malfunction/"><u>Quick Tips for Resolving Issues with Your iPhone's Home Button Malfunction</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-freeze-ups-and-stuttering-for-a-seamless-play-of-yakuza-n-hd-on-your-computer/"><u>Resolving Freeze-Ups and Stuttering for a Seamless Play of Yakuza N HD on Your Computer</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782276-9781594775376-the-goddess-in-india/"><u>The Goddess in India | Free Book</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-continuous-crashes-in-lost-ark-on-windows-and-mac/"><u>Troubleshooting Steps for Continuous Crashes in Lost Ark on Windows and Mac</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-resolving-rainbow-six-extraction-pc-issues/"><u>Troubleshooting Tips for Resolving Rainbow Six Extraction PC Issues</u></a></li>
 </ul></div>
 

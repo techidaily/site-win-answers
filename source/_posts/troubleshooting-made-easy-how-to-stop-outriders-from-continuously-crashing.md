@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Made Easy: How to Stop Outriders From Continuously Crashing"
-date: 2024-12-30T01:13:47.872Z
-updated: 2025-01-06T02:11:06.620Z
+date: 2025-01-13T21:13:02.566Z
+updated: 2025-01-17T18:21:09.889Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ Recently, we’ve seen many players reporting that**Dirt 5 keeps crashing** on t
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all, Just work your way through the list until you find the one that does the trick for you.
@@ -36,7 +40,7 @@ Recently, we’ve seen many players reporting that**Dirt 5 keeps crashing** on t
 6. **[Stop overclocking](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 1: Update your graphics driver
@@ -58,10 +62,6 @@ The outdated or broken graphics driver often crashes the game.
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click the **Update** button next to a device to automatically download the correct version of their driver, then you can manually install the driver (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 4. Restart your PC after you finished updating your graphics driver.
@@ -69,7 +69,7 @@ The outdated or broken graphics driver often crashes the game.
  See if the latest graphics driver stops the Dirt 5 from crashing. If not, don’t worry. Try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 2: Verify the game files
@@ -79,10 +79,6 @@ The outdated or broken graphics driver often crashes the game.
 1. In Steam, navigate to **the LIBRARY tab** and **right-click** on _DIRT 5_ . Then select **Properties** .  
 ![Steam->properties](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
 2. Click **the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![LOCAL FILES>VERIFY INTEGRITY OF GAME CACHE...](https://images.drivereasy.com/wp-content/uploads/2019/04/image-120.png)
 
@@ -108,6 +104,10 @@ The outdated or broken graphics driver often crashes the game.
 
  Launch Dirt 5 to see if the game crashes. If the issue persists, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 5: Set launch options on Steam
 
  If your PC didn’t meet the recommended system requirements for Dirt 5, and you’re suffering from the game crashing issue, you can also try using Steam launch options for Dirt 5\. If you want a full FPS boost, you can follow the steps below to Launch the game:
@@ -122,7 +122,7 @@ The outdated or broken graphics driver often crashes the game.
  Launch the game to see if it crashes again. If it still crashes, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 6: Stop overclocking
@@ -155,16 +155,22 @@ The outdated or broken graphics driver often crashes the game.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-timelapse-techniques-for-samsung-smartphones/"><u>[New] In 2024, Timelapse Techniques for Samsung Smartphones</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-secret-strategies-streamlining-your-stylizing-skills-for-2024/"><u>[New] Secret Strategies Streamlining Your Stylizing Skills for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-ace-your-green-screen-videos-must-know-secrets/"><u>2024 Approved Ace Your Green Screen Videos Must-Know Secrets</u></a></li>
-<li><a href="https://techtrends.techidaily.com/diagnosing-and-fixing-critical-errors-during-the-initial-system-checkup/"><u>Diagnosing and Fixing Critical Errors During the Initial System Checkup</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723009876197-discord-overlay-troubles-resolve-the-problem-now-in-minutes/"><u>Discord Overlay Troubles? Resolve the Problem Now in Minutes!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-far-cry-6-pc-stability-issues-a-step-by-step-guide/"><u>How to Fix Far Cry 6 PC Stability Issues – A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-stop-fortnite-crashes-on-pc-troubleshooting-guide-for-players/"><u>How To Stop Fortnite Crashes on PC - Troubleshooting Guide for Players</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-xs-max-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>In 2024, iPhone XS Max Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/stop-fortnite-from-stalling-your-gameplay-expert-tips-to-keep-it-running-smoothly/"><u>Stop Fortnite From Stalling Your Gameplay: Expert Tips to Keep It Running Smoothly</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-to-troubleshooting-ac6-rubicon-pc-crashes/"><u>Ultimate Guide to Troubleshooting AC6: Rubicon PC Crashes</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/unveiling-the-ultimate-list-of-budget-friendly-video-editors-for-2024/"><u>Unveiling the Ultimate List of Budget-Friendly Video Editors for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-cutting-the-clutter-stopping-instagram-followers/"><u>[New] In 2024, Cutting the Clutter Stopping Instagram Followers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-unmatched-clarity-best-microphones-for-podcasters/"><u>[New] Unmatched Clarity Best Microphones for Podcasters</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-unlocking-full-potential-the-laptop-recording-manual/"><u>[Updated] 2024 Approved Unlocking Full Potential The Laptop Recording Manual</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamlining-post-production-with-luts-in-ae/"><u>2024 Approved Streamlining Post-Production with LUTs in AE</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-understanding-azure-speech-to-text-functionality/"><u>2024 Approved Understanding Azure Speech to Text Functionality</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-new-hope-for-disappointed-sonos-customers-unveiling-apples-potential-lifeline/"><u>A New Hope for Disappointed Sonos Customers: Unveiling Apple's Potential Lifeline</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-xiaomi-redmi-a2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Xiaomi Redmi A2 | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/clean-the-tiles-to-remove-any-dust-and-debris/"><u>Clean the Tiles to Remove Any Dust and Debris.</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-the-art-of-speed-a-guide-to-rectifying-latency-problems-in-bless-unleashed-gaming-on-pc/"><u>Mastering the Art of Speed: A Guide to Rectifying Latency Problems in Bless Unleashed Gaming on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-graphic-glitches-a-comprehensive-guide-for-the-latest-forza-horizon-driver-upgrade/"><u>Resolving Graphic Glitches: A Comprehensive Guide for the Latest Forza Horizon ⁵ Driver Upgrade</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723004022241-smooth-entry-into-fortnite-expert-tips-for-swift-login-solutions/"><u>Smooth Entry Into Fortnite: Expert Tips for Swift Login Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-problems-persistent-errors-and-crashes-on-pc-while-playing-persona-5-strikers/"><u>Solving the Problems: Persistent Errors & Crashes on PC While Playing Persona 5 Strikers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-rated-android-apps-for-high-quality-lossless-video-compression/"><u>Top Rated Android Apps for High-Quality Lossless Video Compression</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-made-simple-defeat-fifa-19s-directx-hurdles-with-these-tips/"><u>Troubleshooting Made Simple: Defeat FIFA 19'S DirectX Hurdles with These Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-smoothing-out-stutters-and-improving-fps-on-the-division-2/"><u>Troubleshooting Tips for Smoothing Out Stutters and Improving FPS on The Division 2</u></a></li>
+<li><a href="https://games-able.techidaily.com/undoing-fortnites-financial-commitment-easy-steps-for-refund/"><u>Undoing Fortnite's Financial Commitment - Easy Steps for Refund</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unlocking-optimal-fps-fixing-gpu-not-used-in-warzone-on-a-windows-pc/"><u>Unlocking Optimal FPS: Fixing GPU Not Used in Warzone on a Windows PC</u></a></li>
 </ul></div>
 

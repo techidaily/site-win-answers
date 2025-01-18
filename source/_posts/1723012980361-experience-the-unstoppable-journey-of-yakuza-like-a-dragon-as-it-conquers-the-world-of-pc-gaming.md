@@ -1,7 +1,7 @@
 ---
 title: "Experience the Unstoppable Journey of Yakuza: Like a Dragon as It Conquers the World of PC Gaming!"
-date: 2025-01-07T19:06:44.037Z
-updated: 2025-01-12T17:14:08.872Z
+date: 2025-01-15T21:29:19.513Z
+updated: 2025-01-18T01:35:34.512Z
 tags:
   - win11
   - win10
@@ -35,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/da5209d316680e0ea4e317ac8778c8407afff2b57
 5. **[Delete the game cache files](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Adjust the in-game graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1 – Reboot your network
 
  Many players reported the Warzone dev error 6328 can be caused by network glitches. To see if that’s the case, try troubleshooting your router and modem.
@@ -47,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/da5209d316680e0ea4e317ac8778c8407afff2b57
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/modem.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 modem
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/router.png)
@@ -54,10 +54,6 @@ modem
 wireless router
 
  Now check if the error goes away. If not, take a look at the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2 – Update your graphics driver
 
@@ -94,10 +90,6 @@ wireless router
 
  Restart Warzone for the changes to take effect. See if you could get rid of the 6328 error now. If the problem persists, there are a few more fixes to try.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4 – Increase virtual memory
 
  Virtual memory serves as additional RAM when your computer gets low on memory. Increasing the virtual memory could be a helpful boost when you’re running resource-demanding applications like COD Warzone.
@@ -106,31 +98,35 @@ wireless router
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-1.jpg)
 2. Click**Settings** under the Performance section.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-2.jpg)
 3. Select the**Advanced** tab and click**Change** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-3-1.jpg)
 4. Untick**Automatically manage paging file size for all drives** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-4-1.jpg)
 5. Select**C drive** and check **Custom size** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-5-1.jpg)
 6. Enter the **initial size** and **maximum size** depending on the amount of RAM your PC has, and click **OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Microsoft recommends you set the virtual memory no less than **1.5 times** and no more than **3 times** the amount of RAM on your computer. Here is a guide on [how to check RAM on your computer](https://tools.techidaily.com/drivereasy/download/) .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-6-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5 – Delete the game cache files
@@ -142,6 +138,10 @@ wireless router
 
  Restart the Battle.net client and see whether you could play Warzone as normal. If the game is still unplayable, try the last method.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6 – Adjust the in-game graphics settings
 
  If you’re able to get into Warzone and the error 6328 appears only in the middle of the game, tweaking certain graphics settings might help the situation. Here’s how:
@@ -151,11 +151,11 @@ wireless router
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings1.jpg)
 3. Scroll down to the Details & Textures section and set_Texture Resolution_ and_Texture Filter Anisotropic_ to**Normal** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Save the changes and restart Warzone to test. Then the game should be running perfectly without the 6328 error code.
 
@@ -181,19 +181,24 @@ wireless router
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-cut-the-clutter-convert-videos-discover-the-best-alternatives-for-flv-to-yt/"><u>[New] 2024 Approved Cut the Clutter, Convert Videos Discover the Best Alternatives for Flv to YT</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/new-behind-the-numbers-deciphering-how-youtube-measures-popularity/"><u>[New] Behind the Numbers Deciphering How YouTube Measures Popularity</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-mastering-image-retrieval-on-pexels-a-step-by-step-guide/"><u>[New] In 2024, Mastering Image Retrieval on Pexels A Step-by-Step Guide</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-ultimate-guide-for-crafting-top-charting-youtube-titles/"><u>[New] Ultimate Guide for Crafting Top-Charting YouTube Titles</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-vivo-y78t-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Vivo Y78t Fingerprint Lock</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-realme-c51-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Realme C51 | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-advice-for-resolving-the-finals-not-working-challenge/"><u>Expert Advice for Resolving the 'Finals Not Working' Challenge</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-advice-on-getting-days-gone-to-boot-on-your-windows-machine-successfully/"><u>Expert Advice on Getting 'Days Gone' To Boot on Your Windows Machine Successfully</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-to-overcome-microphone-failures-in-zoom-meetings-on-desktop-computers/"><u>Expert Tips to Overcome Microphone Failures in Zoom Meetings on Desktop Computers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-google-meets-camera-problem-a-comprehensive-guide/"><u>Fixing Google Meet's Camera Problem - A Comprehensive Guide</u></a></li>
-<li><a href="https://win-studio.techidaily.com/how-to-fix-the-hp-unbootable-hard-drive-error-in-windows-11-a-comprehensive-guide/"><u>How to Fix the 'HP Unbootable Hard Drive' Error in Windows 11 - A Comprehensive Guide</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Tecno Spark 10 4G | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/maximizing-download-speeds-on-origin-proven-tips-and-tricks/"><u>Maximizing Download Speeds on Origin - Proven Tips & Tricks</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolve-modern-warfare-3-error-12707-for-a-smooth-gaming-experience/"><u>Resolve Modern Warfare 3 Error 12707 for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-clearer-sound-with-these-ipad-tips/"><u>[New] 2024 Approved Clearer Sound with These iPad Tips</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-elevate-your-video-game-youtube-production-mastery/"><u>[New] 2024 Approved Elevate Your Video Game YouTube Production Mastery</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/aximize-profitability-the-dos-and-donts-of-youtube-monetization-for-2024/"><u>[New] Maximize Profitability – The Do's and Don'ts of YouTube Monetization for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-ringtone-repository-best-sources-online/"><u>2024 Approved Ringtone Repository Best Sources Online</u></a></li>
+<li><a href="https://win-answers.techidaily.com/accurately-estimating-data-variability-with-microsoft-excel-techniques-and-tips/"><u>Accurately Estimating Data Variability with Microsoft Excel: Techniques & Tips</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ce-engagement-select-best-fonts-for-your-thumbnails-for-2024/"><u>Enhance Engagement Select Best Fonts for Your Thumbnails for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-on-solving-steam-failed-to-connect-local-process-problems/"><u>Expert Advice on Solving 'Steam Failed to Connect' Local Process Problems</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-androids-compendium-for-synchronized-and-curved-videography/"><u>In 2024, Android's Compendium for Synchronized & Curved Videography</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-from-concept-to-shares-how-to-create-hit-videos-for-fbinstagram/"><u>In 2024, From Concept to Shares How to Create Hit Videos for FB/Instagram</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-social-sites-for-effective-youtube-video-promotion/"><u>In 2024, Social Sites for Effective YouTube Video Promotion</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-to-building-excel-budget-templates-for-tracking-revenue-and-costs/"><u>Step-by-Step Guide to Building Excel Budget Templates for Tracking Revenue and Costs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-eliminating-tables-efficiently-in-microsoft-excel/"><u>Step-by-Step Guide: Eliminating Tables Efficiently in Microsoft Excel</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-transforming-text-into-dates-within-microsoft-excel/"><u>Step-by-Step Guide: Transforming Text Into Dates Within Microsoft Excel</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-instructions-for-adding-altering-viewing-and-converting-excel-notebook-entries/"><u>Step-by-Step Instructions for Adding, Altering, Viewing & Converting Excel Notebook Entries</u></a></li>
+<li><a href="https://win-answers.techidaily.com/this-weeks-highlights-bidding-farewell-to-entry-level-subscription-plans-and-advanced-smartphone-repair-techniques/"><u>This Week’s Highlights: Bidding Farewell to Entry-Level Subscription Plans & Advanced Smartphone Repair Techniques</u></a></li>
+<li><a href="https://win-answers.techidaily.com/transforming-data-with-emoticons-customize-excel-cells-for-visual-impact-and-responsiveness/"><u>Transforming Data with Emoticons: Customize Excel Cells for Visual Impact and Responsiveness</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-tutorial-creating-effective-headlines-using-microsoft-excel/"><u>Ultimate Tutorial: Creating Effective Headlines Using Microsoft Excel</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unlocking-advanced-features-with-function-keys-in-microsoft-excel-everything-you-need-to-know/"><u>Unlocking Advanced Features with Function Keys in Microsoft Excel - Everything You Need to Know</u></a></li>
 </ul></div>
 

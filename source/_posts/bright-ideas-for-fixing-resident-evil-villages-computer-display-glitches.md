@@ -1,7 +1,7 @@
 ---
 title: Bright Ideas for Fixing Resident Evil Village's Computer Display Glitches
-date: 2024-08-13T12:11:59.143Z
-updated: 2024-08-14T12:11:59.143Z
+date: 2025-01-11T16:59:10.370Z
+updated: 2025-01-18T01:39:49.677Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/cb7cf233af45cd7a6edf5f132f2f1c85fe4924908
 ## No More Mouse Troubles in Resident Evil Village! Here's the Fix You Need
 
 Resident Evil Village is a great survival horror game in the storied Resident Evil franchise. But the cursor became annoying while in-game with Village. This post gives you some possible fixes, give it a try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -34,22 +38,23 @@ Resident Evil Village is a great survival horror game in the storied Resident Ev
 
 1. [Download](http://www.jholjhaal.com/wp-content/uploads/2013/05/HiddenCursor.cur) the blank mouse cursor file.
 2. Press the**Window logo key + I** together and click**Devices** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/device.jpg)
 3. Click**Mouse** on the left panel, then click**Additional mouse options** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-18_10-26-54.jpg)
 4. Go to the**Pointers** tab, click**Browse…** to add the blank mouse cursor file.
 5. Click**Apply** . Your mouse cursor will disappear.  
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cursor.gif)
 6. If you want the cursor back, click**Use Default** in the Mouse Properties window, then click**Apply** .  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-18_11-07-00.jpg)
 
 ### Fix 2: Change resolution
@@ -62,6 +67,10 @@ Resident Evil Village is a great survival horror game in the storied Resident Ev
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-18_11-14-23.jpg)
 4. Make sure you’re in full screen, not borderless window.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note** : This fix might let the image lose a lot of quality.
 
 ### Fix 3: Change mouse settings
@@ -70,9 +79,6 @@ Resident Evil Village is a great survival horror game in the storied Resident Ev
 
  Maxing your**Mouse Sensitivity** ,**Movement Camera Sensitivity with Mouse** and**DPI of mouse** in game.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/image-8.png)
 
 If this fix brings no luck, move to the next one.
@@ -95,16 +101,14 @@ There are two ways you can update your device drivers:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![update audio driver driver easy](https://images.drivereasy.com/wp-content/uploads/2021/02/de-borderless.jpg)
 3. Click the **Update**  button next to the device driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
- Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -120,8 +124,6 @@ There are two ways you can update your device drivers:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -129,4 +131,22 @@ There are two ways you can update your device drivers:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-tailoring-your-headline-for-job-searches/"><u>[New] Tailoring Your Headline for Job Searches</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-ultimate-list-7-mac-focused-vids-for-2024/"><u>[New] Ultimate List 7 Mac-Focused Vids for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-accelerated-learning-path-with-final-cut-pro/"><u>[Updated] Accelerated Learning Path with Final Cut Pro</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-mastering-discord-role-management-for-2024/"><u>[Updated] Mastering Discord Role Management for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/a-guide-to-unfreezing-swtor-invasion-on-your-desktop-computer/"><u>A Guide to Unfreezing SWTOR Invasion on Your Desktop Computer</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210702135-9781784886387-astrocrystals/"><u>AstroCrystals | Free Book</u></a></li>
+<li><a href="https://win-answers.techidaily.com/black-ops-cold-war-troubleshooting-successfully-dealing-with-shader-compilation-errors/"><u>Black Ops Cold War Troubleshooting - Successfully Dealing with Shader Compilation Errors</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bust-the-bug-how-to-resolve-star-wars-squadrons-sudden-system-crashes/"><u>Bust the Bug: How to Resolve Star Wars Squadrons Sudden System Crashes</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ensure-optimal-performance-install-updated-drivers-on-windows-for-the-amd-radeon-hd-6350/"><u>Ensure Optimal Performance: Install Updated Drivers on Windows for the AMD Radeon HD 6350</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-steps-to-address-winerror-0xc0000005-instantly/"><u>Essential Steps to Address WinError 0Xc0000005 Instantly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/essential-troubleshooting-steps-for-a-non-responsive-keyboard-on-pathfinders-latest-expansion/"><u>Essential Troubleshooting Steps for a Non-Responsive Keyboard on Pathfinder's Latest Expansion</u></a></li>
+<li><a href="https://article-tips.techidaily.com/expert-tips-on-finding-optimal-free-srt-translator-services/"><u>Expert Tips on Finding Optimal Free SRT Translator Services</u></a></li>
+<li><a href="https://win-answers.techidaily.com/masterclass-resolving-the-ghost-runner-catastrophe-error-in-windows-11-systems/"><u>Masterclass: Resolving the Ghost Runner Catastrophe Error in Windows 11 Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-solution-resolving-outriders-game-continuous-crashes/"><u>Quick Solution: Resolving Outriders Game Continuous Crashes</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-gionee-f3-pro-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Gionee F3 Pro</u></a></li>
+</ul></div>
 

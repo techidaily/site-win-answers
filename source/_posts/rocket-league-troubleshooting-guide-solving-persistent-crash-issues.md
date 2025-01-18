@@ -1,7 +1,7 @@
 ---
 title: "Rocket League Troubleshooting Guide: Solving Persistent Crash Issues"
-date: 2025-01-05T18:13:10.426Z
-updated: 2025-01-12T19:50:44.452Z
+date: 2025-01-16T05:19:01.855Z
+updated: 2025-01-18T02:15:26.177Z
 tags:
   - win11
   - win10
@@ -36,6 +36,10 @@ Recently, many_Phoenix Point_ players are reporting the game crashing problem. T
 6. **[Reinstall Epic Games launcher](https://tools.techidaily.com/drivereasy/download/)**
 7. [**Check for Windows updates**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your graphics driver
 
  Your graphics card (GPU) is the most important component when it comes to determining gaming performance. If you’re using an outdated graphics driver, or the driver is corrupted, you’re likely to encounter game issues. So, you should update your graphics driver to see if it fixes your issue.
@@ -56,11 +60,19 @@ Recently, many_Phoenix Point_ players are reporting the game crashing problem. T
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_10-40-47.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 **4)** Relaunch your game to test your issue.
 
 If your issue persists, move on to the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Run your game as an administrator
 
@@ -70,13 +82,13 @@ If your issue persists, move on to the next fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_10-50-02.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)**  Go to the **Compatibility tab** , then check the box next to **Run this program as an administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_10-50-12.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)**  Click **Apply** , then **OK** .
 
@@ -85,6 +97,10 @@ If your issue persists, move on to the next fix, below.
 **4)** Restart your game to see if this worked.
 
  If the game crashing issue continues to occur, then go ahead with Fix 3, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Turn off unnecessary programs
 
@@ -96,10 +112,6 @@ If your issue persists, move on to the next fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_11-02-46-1024x251.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Right-click the programs you want to close and select End Task.
 
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
@@ -109,6 +121,10 @@ If your issue persists, move on to the next fix, below.
 **3)** Relaunch your game to see if this fixed your issue.
 
 If it didn’t, read on and try the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Verify your game files
 
@@ -120,17 +136,9 @@ If it didn’t, read on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_10-57-56.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**  Click **Verify** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_11-00-39.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Restart your game.
 
@@ -155,10 +163,6 @@ If it didn’t, read on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_11-22-09.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)**  Relaunch the **Epic Games Launcher**  to download and install _Phoenix Point_ .
 
  If your game is still unplayable, move on to **[Fix 6](https://tools.techidaily.com/drivereasy/download/)**  , below.
@@ -178,20 +182,20 @@ If it didn’t, read on and try the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_12-03-14.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Click **Reset** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_12-29-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Relaunch _Phoenix Point_ after the process is complete.
 
 If your problem continues to occur, then move on and try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Reinstall your game launcher
 
@@ -203,6 +207,10 @@ If your problem continues to occur, then move on and try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_11-27-09.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Under **View by** , select **Category** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_11-27-19.jpg)
@@ -210,10 +218,6 @@ If your problem continues to occur, then move on and try the next fix.
 **3)** Click **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_11-27-30.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Right-click the Epics Games, then click **Uninstall/Change** .
 
@@ -224,10 +228,6 @@ If your problem continues to occur, then move on and try the next fix.
 **5)** [**Download**](https://www.epicgames.com/unrealtournament/download) and install the Epic Games Launcher. Then, reinstall _Phoenix Point_ .
 
  If this fix didn’t help, don’t fret! There is still one more fix to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 7: Check for Windows updates
 
@@ -242,7 +242,7 @@ If your problem continues to occur, then move on and try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_11-29-34.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)**  Restart your computer and your game.
@@ -271,22 +271,20 @@ If your problem continues to occur, then move on and try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-top-talents-exceptional-instagram-hlv-artisans/"><u>[New] In 2024, Top Talents Exceptional Instagram HLV Artisans</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solved-obs-lagging-issues-stream-and-record/"><u>[SOLVED] OBS Lagging Issues | (Stream & Record)</u></a></li>
-<li><a href="https://win-bits.techidaily.com/1728480161815-windows-11-dropbox-2/"><u>快速上手：在 Windows 11 中利用 Dropbox 同步圖書館的 2 種方式</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722994845767-breaking-news-mystery-solved-mafia-definitive-edition-hits-shelves-soon/"><u>Breaking News: Mystery Solved – Mafia: Definitive Edition Hits Shelves Soon!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/complete-guide-to-resolve-manor-lords-stalling-issues-in-pc-gaming/"><u>Complete Guide to Resolve Manor Lords Stalling Issues in PC Gaming</u></a></li>
-<li><a href="https://win-answers.techidaily.com/download-latest-logitech-gaming-mouse-software-update-installed/"><u>Download Latest Logitech Gaming Mouse Software - Update Installed</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/experience-uninterrupted-comfort-with-our-cutting-edge-portable-battery-solution-in-an-unexpected-outage-learn-more-inside-zdnet/"><u>Experience Uninterrupted Comfort with Our Cutting-Edge Portable Battery Solution in an Unexpected Outage - Learn More Inside | ZDNET</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-advice-on-preventing-evermore-odyssey-2-from-crashing-on-your-pc/"><u>Expert Advice on Preventing Evermore Odyssey 2 From Crashing on Your PC</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-poco-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Poco Devices</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-prevent-samurai-warriors-5-from-crashing-on-your-windows-computer/"><u>How to Prevent Samurai Warriors 5 From Crashing on Your Windows Computer?</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-apple-iphone-x-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone X Data From iOS iTunes Backup? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-bootloader-easily-by-drfone-android/"><u>How to Unlock Samsung Bootloader Easily</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-on-the-apple-iphone-14-without-previous-owner-by-drfone-ios/"><u>In 2024, How to Remove Activation Lock On the Apple iPhone 14 Without Previous Owner?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-c02-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Nokia C02 Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722970775923-keep-your-printer-running-smoothly-with-the-new-epson-wf-3620-windows-driver-update/"><u>Keep Your Printer Running Smoothly with the New Epson WF-3620 Windows Driver Update</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-launch-problems-in-call-of-duty-modern-warfare-3-quick-guide/"><u>Resolving Launch Problems in Call of Duty: Modern Warfare 3 - Quick Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-fixing-the-constant-crashes-of-final-fantasy-xiv-on-pc/"><u>Troubleshooting Guide: Fixing the Constant Crashes of Final Fantasy XIV on PC</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-best-top-timelapses-quick-capture-and-edit/"><u>[Updated] In 2024, Best Top Timelapses Quick Capture & Edit</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-youtubes-edge-and-dailymotions-charms-an-in-depth-look/"><u>[Updated] In 2024, YouTube's Edge & Dailymotion's Charms An In-Depth Look</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-peek-at-all-shared-images-and-videos-in-chats/"><u>[Updated] Peek at All Shared Images & Videos in Chats</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/ape-to-wma-conversion-online-free-download-with-movavi/"><u>APE to WMA Conversion Online - Free Download with Movavi</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/cant-view-hevc-h265-content-on-motorola-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Can’t view HEVC H.265 content on Motorola</u></a></li>
+<li><a href="https://win-answers.techidaily.com/detroit-lives-up-to-its-name-how-becoming-humankind-performs-flawlessly-on-pc/"><u>Detroit Lives Up to Its Name - How Becoming Humankind Performs Flawlessly on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/diablo-3-troubleshooting-fix-the-persistent-game-crashes/"><u>Diablo 3 Troubleshooting: Fix the Persistent Game Crashes</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/elite-gaming-experience-decoded-the-xbox-ones-best-controller-reviewed/"><u>Elite Gaming Experience Decoded: The Xbox One's Best Controller Reviewed</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-runtime-errors-a-guide-to-getting-robocop-rise-of-the-machines-running-smoothly-on-your-pc/"><u>Fixing Runtime Errors - A Guide to Getting Robocop: Rise of the Machines Running Smoothly on Your PC</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-ace-2v-bootloader-easily-by-drfone-android/"><u>How to Unlock OnePlus Ace 2V Bootloader Easily</u></a></li>
+<li><a href="https://win-answers.techidaily.com/smooth-gaming-ahead-death-strandings-crash-woes-resolved-for-pc-users/"><u>Smooth Gaming Ahead: Death Stranding's Crash Woes Resolved for PC Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/steam-remote-play-malfunctions-heres-how-to-restore-full-functionality/"><u>Steam Remote Play Malfunctions? Here's How to Restore Full Functionality</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-your-pc-for-continuous-dirt-crashes-solutions-inside/"><u>Troubleshooting Your PC for Continuous Dirt ^_^ Crashes: Solutions Inside!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722993840337-unveiling-solutions-la-noires-pc-launch-hurdles-cleared/"><u>Unveiling Solutions: L.A. Noire's PC Launch Hurdles Cleared!</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/your-ultimate-shopping-list-for-high-quality-outer-bd-drive-units-the-best-picks-of-202n4/"><u>Your Ultimate Shopping List for High-Quality Outer BD Drive Units: The Best Picks of 202N4</u></a></li>
 </ul></div>
 
