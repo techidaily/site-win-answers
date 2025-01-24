@@ -1,7 +1,7 @@
 ---
 title: "Resolve Fortnite's Video Memory Issues: A Step-by-Step Guide"
-date: 2025-01-17T02:49:31.980Z
-updated: 2025-01-17T16:25:19.958Z
+date: 2025-01-19T16:12:00.607Z
+updated: 2025-01-24T16:09:07.461Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -88,7 +92,7 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
@@ -96,10 +100,6 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-84.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -117,15 +117,15 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Wait until Windows downloaded and installed all the updates.
 
 4) Restart Windows and run League of Legends again.
 
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted game files
 
@@ -141,16 +141,12 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Click**Yes** to continue. This may take a while.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
@@ -170,6 +166,10 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Run League of Legends to see if you resolved this issue.
 
@@ -193,24 +193,24 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-quick-alteration-youtube-vids-fit-mac-displays/"><u>[New] 2024 Approved Quick Alteration YouTube Vids Fit Mac Displays</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-the-insiders-guide-to-authentic-instagram-imagery/"><u>[New] In 2024, The Insider’s Guide to Authentic Instagram Imagery</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-scaling-up-your-income-with-instagram-mastery/"><u>[Updated] 2024 Approved Scaling Up Your Income with Instagram Mastery</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-unravel-enigmas-your-guide-to-elite-escape-spaces/"><u>[Updated] Unravel Enigmas Your Guide to Elite Escape Spaces</u></a></li>
-<li><a href="https://win-answers.techidaily.com/activating-microsofts-virtualization-platform-hyper-v-in-windows-11-a-how-to-guide/"><u>Activating Microsoft's Virtualization Platform: Hyper-V in Windows 11 – A How-To Guide</u></a></li>
-<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-oppo-f25-pro-5g-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Oppo F25 Pro 5G</u></a></li>
-<li><a href="https://win-answers.techidaily.com/battlefield-2042-performance-woes-troubleshooting-pc-frame-rate-hitches-and-lags/"><u>Battlefield 2042 Performance Woes: Troubleshooting PC Frame Rate Hitches & Lags</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723008751110-cyberpunk-2077-wont-start-here-are-the-fixes-that-worked/"><u>Cyberpunk 2077 Won't Start? Here Are the Fixes That Worked!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-how-these-3-groundbreaking-iphone-16-innovations-make-upgrades-irresistible-zdnet-insights/"><u>Discover How These 3 Groundbreaking iPhone 16 Innovations Make Upgrades Irresistible | ZDNET Insights</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-solutions-for-consistent-crashes-in-age-of-wonders-planetfall-on-pc/"><u>Effective Solutions for Consistent Crashes in Age of Wonders: Planetfall on PC</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effective-solutions-for-when-you-cant-find-or-access-msodll/"><u>Effective Solutions for When You Can’t Find or Access mso.dll</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-reconnection-bug-in-lol-for-a-seamless-gameplay-experience/"><u>Fixing the Reconnection Bug in LoL for a Seamless Gameplay Experience</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Oppo A56s 5G | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-troubleshoot-and-fix-2022s-dota-2-vac-error-for-smooth-gameplay/"><u>How to Troubleshoot and Fix 2022'S Dota 2 VAC Error for Smooth Gameplay</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-apple-iphone-14-pro-for-parents-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 10 Telegram Spy Tools On Apple iPhone 14 Pro for Parents | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/inside-story-expert-tactics-to-conquer-the-battlegrounds-of-call-of-duty-modern-warfare-fps/"><u>Inside Story: Expert Tactics to Conquer the Battlegrounds of Call of Duty: Modern Warfare FPS</u></a></li>
-<li><a href="https://win-answers.techidaily.com/navigating-through-steam-error-130-top-fixes-and-best-practices-for-a-smooth-gaming-experience/"><u>Navigating Through Steam Error 130: Top Fixes and Best Practices for a Smooth Gaming Experience</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722987746525-roblox-quiet-playtime-heres-how-to-restore-sound-on-your-win11win10-setup/"><u>Roblox Quiet Playtime? Here's How to Restore Sound on Your Win11/Win10 Setup!</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-tips-for-stopping-pc-video-game-crashes/"><u>Ultimate Troubleshooting Tips for Stopping PC Video Game Crashes</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-framed-in-perfection-the-1-10-camera-lens-list-for-stunning-photography/"><u>[New] In 2024, Framed in Perfection The #1-10 Camera Lens List for Stunning Photography</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-sky-cameras-rivalry-dji-m310-vs-gopro-hero5-session/"><u>[Updated] Sky Cameras Rivalry DJI M310 VS GoPro HERO5 Session</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-networking-with-influencers-partnerships-for-viral-video-potential/"><u>2024 Approved Networking with Influencers Partnerships for Viral Video Potential</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-call-logs-on-nova-y71-by-fonelab-android-recover-call-logs/"><u>Complete guide for recovering call logs on Nova Y71</u></a></li>
+<li><a href="https://media-tips.techidaily.com/easy-methods-to-transform-your-webex-recordings-from-arf-to-mp4-format/"><u>Easy Methods to Transform Your WebEx Recordings From ARF to MP4 Format</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-strategies-to-correctly-diagnose-and-solve-error-code-31-on-your-pc/"><u>Effective Strategies to Correctly Diagnose and Solve Error Code 31 on Your PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guilty-gear-strives-launch-setback-explained-implications-for-gamers-and-developers-alike/"><u>Guilty Gear Strive's Launch Setback Explained: Implications for Gamers and Developers Alike</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-find-your-ideal-wedding-timer-on-android-and-ios-platforms-here/"><u>In 2024, Find Your Ideal Wedding Timer on Android & iOS Platforms Here</u></a></li>
+<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Tecno Spark 20 Pro+? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-gaming-trouble-heres-the-ultimate-fix-for-elex-ii-crashes/"><u>PC Gaming Trouble? Here's the Ultimate Fix for Elex II Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/preventing-stardew-valley-pc-gameplay-interruptions-a-comprehensive-guide/"><u>Preventing Stardew Valley PC Gameplay Interruptions: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722993070913-say-goodbye-to-game-downtime-stop-dead-by-daylight-from-crashing-this-year/"><u>Say Goodbye to Game Downtime: Stop Dead by Daylight From Crashing This Year</u></a></li>
+<li><a href="https://win-answers.techidaily.com/say-goodbye-to-roblox-downtime-with-these-swift-pc-fixes-new-guide-for-202n/"><u>Say Goodbye to Roblox Downtime with These Swift PC Fixes (New Guide for 202N)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-launch-issues-fixing-pathfinder-wrath-of-the-righteous/"><u>Solving Launch Issues: Fixing Pathfinder: Wrath of the Righteous</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/standard-setup-guide-for-efficient-trace-removal-using-stellar-file-eraser-v5-on-windows/"><u>Standard Setup Guide for Efficient Trace Removal Using Stellar File Eraser v5 on Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/steam-server-connection-problems-solutions-unveiled/"><u>Steam Server Connection Problems - Solutions Unveiled</u></a></li>
+<li><a href="https://win-answers.techidaily.com/total-war-three-kingdoms-resolving-performance-issues-and-crashes/"><u>Total War: Three Kingdoms - Resolving Performance Issues and Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-fps-drops-and-stutters-in-call-of-duty-modern-warfare-2-on-windows-pc/"><u>Troubleshooting FPS Drops & Stutters in Call of Duty: Modern Warfare 2 on Windows PC</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-employer-retribution-for-chatgpt-use-in-work/"><u>Understanding Employer Retribution for ChatGPT Use in Work</u></a></li>
 </ul></div>
 

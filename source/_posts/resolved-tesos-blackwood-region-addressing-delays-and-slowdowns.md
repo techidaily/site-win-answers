@@ -1,7 +1,7 @@
 ---
 title: "Resolved: TESO's Blackwood Region - Addressing Delays and Slowdowns"
-date: 2025-01-12T01:09:57.680Z
-updated: 2025-01-17T18:35:21.078Z
+date: 2025-01-21T16:08:17.111Z
+updated: 2025-01-24T16:39:52.080Z
 tags:
   - win11
   - win10
@@ -38,10 +38,6 @@ Sifu
 6. **[Disable overlays](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Disable background recording and Xbox Game Bar](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Install the latest game patch
 
  The French studio Sloclap releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -49,10 +45,6 @@ Sifu
  If a patch is available, it will be detected by the Epic Games Launcher, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Launch Sifu and check if the in-game FPS is back to normal. If the FPS still drops, or if there are no new game patch available, move on to next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Update your graphics driver
 
@@ -70,6 +62,10 @@ There are mainly two methods for you to update the graphics driver:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
@@ -107,10 +103,6 @@ There are mainly two methods for you to update the graphics driver:
 
  Launch Sifu after you modified the in-game graphics settings and see if its FPS still drops, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Modify graphics card settings
 
  According to many PC gamers, tweaking the graphics card settings in Nvidia or AMD control panel may also gain some in-game FPS boosts.
@@ -135,10 +127,14 @@ There are mainly two methods for you to update the graphics driver:
 ![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Launch Sifu and see if the in-game FPS increases. If not, move on to the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Change Windows power plan
 
@@ -147,10 +143,6 @@ There are mainly two methods for you to update the graphics driver:
 1. On your keyboard, press **the Windows logo key**  and **R** at the same time, then type **powercfg.cpl** and press **Enter** .  
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
@@ -166,6 +158,10 @@ There are mainly two methods for you to update the graphics driver:
 
  Lauch the game to see if Sifu’s in-game FPS improves after changing the power plan. If you didn’t see much in-game FPS boosts, read on and try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Disable overlays
 
  Apps like Discord, Nvidia GeForce Experience, Twitch supprt the overlay feature. Although the overlay feature is handy, it may interfere with many games, and sometimes it would even introduce performance issues and compatibility issues.
@@ -180,14 +176,18 @@ There are mainly two methods for you to update the graphics driver:
 ![Windows 10 settings gaming](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-10-settings-gaming.jpg)
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
 
-![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
 
 Launch Sifu to see you can play it smoothly.
 
@@ -214,24 +214,20 @@ Launch Sifu to see you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/updated-the-solo-broadcasters-playbook-for-optimal-live-streams/"><u>[Updated] The Solo Broadcaster's Playbook for Optimal Live Streams</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-expertly-blending-tracks-using-audacity-crossfade-tools/"><u>2024 Approved Expertly Blending Tracks Using Audacity Crossfade Tools</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/1728467228400-aomei-backupper/"><u>AOMEI Backupper テクニカルヘルプラインで、自動バックアップ解決:スキル向上</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/behebt-euch-bei-fehlenden-outlook-pst-dateien-wie-und-warum/"><u>Behebt Euch Bei Fehlenden Outlook-PST-Dateien, Wie Und Warum?</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-tecno-phantom-v-flip-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Tecno Phantom V Flip Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/bypassing-the-infamous-crash-glitch-in-frostpunk-expert-tips-and-tricks/"><u>Bypassing the Infamous Crash Glitch in Frostpunk: Expert Tips and Tricks</u></a></li>
-<li><a href="https://win-answers.techidaily.com/comprehensive-solutions-for-msedgeexe-program-failures-on-your-computer-system/"><u>Comprehensive Solutions for MsEdge.exe Program Failures on Your Computer System</u></a></li>
-<li><a href="https://win-answers.techidaily.com/cracking-the-code-mastery-of-modern-warfares-fps-battle-royale/"><u>Cracking the Code: Mastery of Modern Warfare's FPS Battle Royale</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/digitize-with-simplicity-creating-nfts-made-easy/"><u>Digitize with Simplicity Creating NFTs Made Easy</u></a></li>
-<li><a href="https://win-answers.techidaily.com/dominating-roller-champions-in-cross-platform-battles-the-ultimate-guide-to-mastery-on-pc/"><u>Dominating Roller Champions in Cross-Platform Battles: The Ultimate Guide to Mastery on PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/eliminating-directx-problems-in-battlefield-2042-expert-tips-and-solutions/"><u>Eliminating DirectX Problems in Battlefield 2042: Expert Tips & Solutions</u></a></li>
-<li><a href="https://driver-download.techidaily.com/hassle-free-nvidia-geforce-gtx-1660-drivers-update-a-comprehensive-tutorial-for-gamers-and-professionals/"><u>Hassle-Free NVIDIA GeForce GTX 1660 Drivers Update: A Comprehensive Tutorial for Gamers and Professionals</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-optimizing-your-android-experience-with-effective-recordings/"><u>In 2024, Optimizing Your Android Experience with Effective Recordings</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722993954694-master-key-to-unlocking-gameplay-making-steam-and-windows-11-work-together/"><u>Master Key to Unlocking Gameplay: Making Steam and Windows 11 Work Together!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/master-your-gameplay-no-more-crashes-diablo-immortals-ultimate-troubleshooting-guide-for-players/"><u>Master Your Gameplay: No More Crashes - Diablo Immortal's Ultimate Troubleshooting Guide for Players</u></a></li>
-<li><a href="https://techtrends.techidaily.com/optimize-performance-get-the-newest-v2410-update-for-amd-radeon-cards/"><u>Optimize Performance: Get the Newest v24.10 Update for AMD Radeon Cards</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/step-by-step-guide-converting-mkv-videos-for-seamless-webm-playback/"><u>Step-by-Step Guide: Converting MKV Videos for Seamless WebM Playback</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-solution-get-your-logitech-g-hub-running-on-windows-again/"><u>Step-by-Step Solution: Get Your Logitech G Hub Running on Windows Again</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-and-solutions-for-persona-4-goldens-stability-issues/"><u>Troubleshooting and Solutions for Persona 4 Golden's Stability Issues</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-all-about-whatsapp-voice-messages/"><u>[New] In 2024, All About Whatsapp Voice Messages</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-the-blueprint-of-visual-communication-instavideo-marketing-mastery-for-2024/"><u>[New] The Blueprint of Visual Communication InstaVideo Marketing Mastery for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-demystifying-creator-studio-a-practical-handbook/"><u>[Updated] 2024 Approved Demystifying Creator Studio A Practical Handbook</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-the-great-livestream-showdown-streamlabs-vs-obs-head-to-head/"><u>[Updated] In 2024, The Great Livestream Showdown Streamlabs Vs. OBS Head-to-Head</u></a></li>
+<li><a href="https://win-answers.techidaily.com/applying-underglaze-colors/"><u>Applying Underglaze Colors</u></a></li>
+<li><a href="https://win-answers.techidaily.com/busting-the-issue-of-high-cpu-load-on-zoom-sessions-with-these-fixes/"><u>Busting the Issue of High CPU Load on Zoom Sessions with These Fixes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/complete-guide-to-resolve-the-issue-of-pc-game-crashes-in-final-fantasy-14-online/"><u>Complete Guide to Resolve the Issue of PC Game Crashes in Final Fantasy 14 Online</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/evaluating-the-pny-rp6-a-solid-yet-unremarkable-1tb-portable-ssd-assessment/"><u>Evaluating the PNY RP6# - A Solid yet Unremarkable 1TB Portable SSD Assessment</u></a></li>
+<li><a href="https://win-answers.techidaily.com/everquest-ii-stalling-on-windows-troubleshooting-techniques-for-smooth-play/"><u>EverQuest II Stalling on Windows: Troubleshooting Techniques for Smooth Play</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-zte-nubia-z60-ultra-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on ZTE Nubia Z60 Ultra Devices | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-pathfinding-your-way-from-adsense-to-accounts-aplenty/"><u>In 2024, Pathfinding Your Way From AdSense to Accounts Aplenty</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Asus ROG Phone 7? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-the-world-of-pandora-essential-fixes-for-players-to-enjoy-avatar-on-pc-without-crashing/"><u>Mastering the World of Pandora: Essential Fixes for Players to Enjoy Avatar on PC Without Crashing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-startup-glitches-in-fs22-a-comprehensive-guide-for-gamers/"><u>Overcoming Startup Glitches in FS22: A Comprehensive Guide for Gamers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-youtube-videos-how-to-restore-playback-sync-between-visuals-and-sound-on-browsers/"><u>Troubleshooting YouTube Videos: How to Restore Playback Sync Between Visuals and Sound on Browsers</u></a></li>
 </ul></div>
 

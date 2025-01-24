@@ -1,7 +1,7 @@
 ---
 title: Conquer Discord Delays with This Step-by-Step Solution !
-date: 2024-08-19T00:33:28.185Z
-updated: 2024-08-20T00:33:28.185Z
+date: 2025-01-18T16:02:47.089Z
+updated: 2025-01-24T16:49:41.636Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/37c258031093435d71dd94d515145542657904928
 
 ## Trouble with Battlefield 2042 and DirectX Errors? Our Step-by-Step Solution Helps
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/featured-image-battlefield-2042-launch-article.jpg.adapt_.crop16x9.431p.jpg)
 
  The long-anticipated Battlefield 2042 Early Access is already out and the full release will be on November 19th. However, the hype seems to have brought some disappointment. Many players are encountering different DirectX errors and can’t play the game. The most common ones are**DXGI\_ERROR\_DEVICE\_HUNG** and**DXGI\_ERROR\_DEVICE\_REMOVED** errors.
@@ -48,9 +45,6 @@ thumbnail: https://thmb.techidaily.com/37c258031093435d71dd94d515145542657904928
 
 [5: Clear game cache](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 1: Update your graphics driver
 
  DirectX errors in Battlefield 2042 usually suggest a driver issue. Some of the error messages directly ask you to install the latest graphics driver.
@@ -68,10 +62,11 @@ thumbnail: https://thmb.techidaily.com/37c258031093435d71dd94d515145542657904928
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
- Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -96,25 +91,24 @@ If this doesn’t solve your problem, try the next fix.
  If you’re on Windows 10, it’s not required to update to Windows 11 because it’s not a guaranteed fix, plus it may cause issues for your other games. Some players specifically pointed out that installing the**Windows 20H2 or 21H1 updates** was helpful.
 
 1. In the search bar next to your Start button, type**update** , then click C**heck for updates** .  
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/check-for-updates.png)
 2. Windows will search for available updates. If there are_no_ available updates, you’ll get a**You’re up to date** sign. You could also click**View all optional updates** and install them if needed.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/up-to-date.png)
 3. If there are available updates, Windows will automatically download them for you. Follow instructions to complete the installation.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/windows-update.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you encounter issues while using the Windows Update client, you can[manually download the updates from the Microsoft website](https://www.microsoft.com/en-us/software-download/windows10) .
 
  If updating your system doesn’t solve the errors for you, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 4: Force-run DirectX 12
 
  Per the system requirement, Battlefield 2042 requires DirectX version 12, and the game should run DirectX 12 by default. But we all have different setups on our PC, and it’s possible that Battlefield 2042 isn’t running the right version of DirectX on your PC. You can manually enable DirectX12 and force the game to use it. Here’s how:
@@ -128,6 +122,10 @@ If this doesn’t solve your problem, try the next fix.
 
  If force-running DirectX 12 for Battlefield 2042 doesn’t help, move on to the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 5: Clear game cache
 
  Broken game cache could also trigger the DirectX errors in Battlefield 2042\. Even if it’s not the root cause, clearing game cache may help improve game performance and fix some random crashes. Here’s how:
@@ -138,18 +136,20 @@ If this doesn’t solve your problem, try the next fix.
 
 1. Press the**Windows key** and**R** to invoke the Run box.
 2. Copy and paste**%ProgramData%/Origin** in the textbox, then click**OK** .  
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-16_16-36-26.jpg)
 3. **Delete** every folder and file here**EXCEPT FOR the Local Content folder** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-16_16-38-09.jpg)
 4. Open the Run box again by pressing the**Windows key** and**R** on your keyboard.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Type in**%AppData%** , then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/Run-appdata.jpg)
 6. In the pop-up window,**delete the Origin folder** .  
@@ -160,20 +160,15 @@ If this doesn’t solve your problem, try the next fix.
 #### EA desktop app
 
 1. Launch the EA app. Click the**three-line icon** on the top-left corner, select**Help** then click**App Recovery** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-16_11-53-35.jpg)
 2. Click**Clear Cache** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-16_11-53-46.jpg)
 3. If you’re having trouble opening the EA app, you can click the**Start button** ,**expand the EA folder** , and click**APP Recovery** .  
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-16_17-15-31.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -185,8 +180,6 @@ If this doesn’t solve your problem, try the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -194,4 +187,22 @@ If this doesn’t solve your problem, try the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-music-video-madness-top-10-on-social-sphere/"><u>[New] 2024 Approved Music Video Madness Top 10 on Social Sphere</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-blending-youtube-audio-features-into-video-projects/"><u>[New] In 2024, Blending YouTube Audio Features Into Video Projects</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-cutting-edge-camera-and-recording-apps-for-smartphones-most-reliable-sources/"><u>[New] In 2024, Cutting-Edge Camera & Recording Apps for Smartphones' Most Reliable Sources</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-complete-youtube-editors-toolkit-for-post-publish-adjustments/"><u>[Updated] The Complete YouTube Editor's Toolkit for Post-Publish Adjustments</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-quick-clip-cinema-scenario/"><u>2024 Approved Quick Clip Cinema Scenario</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoding-the-future-of-interactive-ai-platforms-in-europe-the-eus-ai-act-and-its-impact-on-gpt-like-systems/"><u>Decoding the Future of Interactive AI Platforms in Europe - The EU's AI Act and Its Impact on GPT-Like Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/dvdiso-windows-1110-iso/"><u>DVDからISOへ: Windows 11/10用完全解説 - ISOファイル作成方法</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easy-methods-for-transforming-flv-file-format-into-mp4mpeg-on-windows-systems/"><u>Easy Methods for Transforming FLV File Format Into MP4/MPEG on Windows Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/efficient-media-handling-on-your-pc-tips-and-tricks-for-leveraging-utility-programs-across-diverse-functions/"><u>Efficient Media Handling on Your PC: Tips & Tricks for Leveraging Utility Programs Across Diverse Functions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effortless-guide-to-converting-vob-files-to-wmv-format-using-windows/"><u>Effortless Guide to Converting VOB Files to WMV Format Using Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effortless-transformation-the-ultimate-technique-for-turning-mpeg-into-mp3-audio/"><u>Effortless Transformation: The Ultimate Technique for Turning MPEG Into MP3 Audio</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fodpc-and-mp4/"><u>FODビデオコンテンツのPCからのダウンロード手順 & MP4ファイルへの保存方法</u></a></li>
+<li><a href="https://win-answers.techidaily.com/get-in-touch-with-customer-service-today/"><u>Get in Touch With Customer Service Today</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/redefining-streaming-amazon-prime-video-unveils-revamped-application-platform/"><u>Redefining Streaming: Amazon Prime Video Unveils Revamped Application Platform</u></a></li>
+<li><a href="https://network-issues.techidaily.com/winui-graphic-breakdown-fix-in-progress/"><u>WinUI Graphic Breakdown (Fix in Progress)</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unlock the Secrets to Successfully Running 'Last Epoch' On Your PC - Latest Fixes & Updates!
-date: 2025-01-16T08:14:48.153Z
-updated: 2025-01-17T19:17:20.047Z
+date: 2025-01-22T17:33:10.782Z
+updated: 2025-01-24T18:28:02.238Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/dc8c23798056f26fbb4ba042d36186a35f13e6ccd
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes…
 
 [1: Check the server status](https://tools.techidaily.com/drivereasy/download/)
@@ -41,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/dc8c23798056f26fbb4ba042d36186a35f13e6ccd
  Before we dive into anything advanced, make sure you’ve installed all the game updates. The devs will be releasing patches to fix any known issues.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 1: Check the server status
@@ -69,17 +73,13 @@ thumbnail: https://thmb.techidaily.com/dc8c23798056f26fbb4ba042d36186a35f13e6ccd
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-29-08.jpg)
 2. Under the**Processes** tab, look for the processes that are network-hogging. Select it then click**End task** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/close-bandwidth-hogging-program.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you’re still getting a high ping and game seems laggy, try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Update network driver
 
@@ -104,10 +104,6 @@ thumbnail: https://thmb.techidaily.com/dc8c23798056f26fbb4ba042d36186a35f13e6ccd
 
  Restart your PC for the new drivers to take effect. Launch Back 4 Blood to see if the problem persists. If your ping is still high and experiences lags in game, no worries, there’s one more fix you can try.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 5: Check your DNS settings
 
  Crowded or broken DNS cache could cause random connection issues. To solve the high ping problem and fix the lag spikes in Back 4 Blood, there are two things you can do:
@@ -115,6 +111,10 @@ thumbnail: https://thmb.techidaily.com/dc8c23798056f26fbb4ba042d36186a35f13e6ccd
 [1: Flush your DNS](https://tools.techidaily.com/drivereasy/download/)
 
 [2: Switch to a public DNS server](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1: Flush your DNS
 
@@ -128,6 +128,10 @@ thumbnail: https://thmb.techidaily.com/dc8c23798056f26fbb4ba042d36186a35f13e6ccd
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/flushdns???.png)
 4. Your DNS cache is successfully cleared.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
 
 ### 2: Switch to a public DNS server
@@ -138,11 +142,15 @@ thumbnail: https://thmb.techidaily.com/dc8c23798056f26fbb4ba042d36186a35f13e6ccd
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-11_15-44-44.png)
 2. Click **Change adapter options** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click **the network you’re using** , then click **Properties** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
@@ -151,18 +159,10 @@ thumbnail: https://thmb.techidaily.com/dc8c23798056f26fbb4ba042d36186a35f13e6ccd
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select **Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click **OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Bonus tip: try with a VPN
 
@@ -196,14 +196,22 @@ thumbnail: https://thmb.techidaily.com/dc8c23798056f26fbb4ba042d36186a35f13e6ccd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-restoring-lost-eyes-only-snapshots-on-snapchat/"><u>[New] 2024 Approved Restoring Lost Eyes-Only Snapshots on Snapchat</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-supercharge-your-account-top-10-instagram-must-haves/"><u>[New] In 2024, Supercharge Your Account Top 10 Instagram Must-Haves</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-scriptwriting-secrets-for-a-captivating-and-authentic-storyline/"><u>[New] Scriptwriting Secrets for a Captivating and Authentic Storyline</u></a></li>
-<li><a href="https://win-answers.techidaily.com/hitman-3-player-problems-heres-how-you-can-solve-your-game-connection-failures/"><u>Hitman 3 Player Problems? Here’s How You Can Solve Your Game Connection Failures</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-launch-obstacles-expert-strategies-for-a-successful-minecraft-startup/"><u>Overcoming Launch Obstacles: Expert Strategies for a Successful Minecraft Startup</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-fixes-for-recurring-dota-underlord-game-crash-issues/"><u>Resolved: Fixes for Recurring Dota Underlord Game Crash Issues</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solve-your-download-dilemma-7-fixes-for-a-non-responsive-utorrent-application/"><u>Solve Your Download Dilemma: 7 Fixes for a Non-Responsive Utorrent Application</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/start-streaming-sports-creating-your-own-mac-based-channel-for-2024/"><u>Start Streaming Sports Creating Your Own Mac-Based Channel for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/understanding-why-to-choose-an-m3-macbook-air/"><u>Understanding Why to Choose an M3 MacBook Air</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-step-by-step-soundscapes-for-iphone-customization/"><u>2024 Approved Step-by-Step Soundscapes for iPhone Customization</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-top-12-budget-friendly-high-quality-video-apps-for-all-platforms/"><u>2024 Approved Top 12 Budget-Friendly, High-Quality Video Apps for All Platforms</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/expert-analysis-of-the-dji-phantom-4-pro-v20-nearly-unrivaled-drone-mastery/"><u>Expert Analysis of the DJI Phantom 4 Pro v2.0: Nearly Unrivaled Drone Mastery</u></a></li>
+<li><a href="https://win-answers.techidaily.com/high-performance-video-quality-deciding-between-30-fps-and-60-fps-recording/"><u>High-Performance Video Quality: Deciding Between 30 FPS and 60 FPS Recording</u></a></li>
+<li><a href="https://win-webster.techidaily.com/how-can-i-verify-scanner-os-compatibility-a-comprehensive-guide-by-yl-computing/"><u>How Can I Verify Scanner OS Compatibility? A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://win-trending.techidaily.com/how-to-enable-mkv-file-playback-on-windows-media-player/"><u>How to Enable MKV File Playback on Windows Media Player</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-enjoy-dvd-content-on-your-new-ps5-console/"><u>How to Enjoy DVD Content on Your New PS5 Console</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-properly-access-a-prx-file-identifying-suitable-programs-for-execution/"><u>How To Properly Access a PRX File: Identifying Suitable Programs for Execution</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-itel-a05s-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Itel A05s Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-use-soap2day-downloader-for-movie-acquisition/"><u>How to Use Soap2day Downloader for Movie Acquisition</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/leading-no-cost-mp4-video-transcoder-applications-for-windows-users/"><u>Leading No-Cost MP4 Video Transcoder Applications for Windows Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-av1-with-ffmpeg-simplified-steps-for-audiovideo-conversion/"><u>Mastering AV1 with FFmpeg: Simplified Steps for Audio/Video Conversion</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-the-art-of-conversion-techniques-to-transform-visitors-into-customers/"><u>Mastering the Art of Conversion: Techniques to Transform Visitors Into Customers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-the-art-of-video-watermarks-4-simple-methods-to-insert-images-with-ease/"><u>Mastering the Art of Video Watermarks: 4 Simple Methods to Insert Images with Ease</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/synthesize-film-selections-on-platform-playlist-for-2024/"><u>Synthesize Film Selections on Platform Playlist for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-100-pro-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from 100 Pro</u></a></li>
 </ul></div>
 

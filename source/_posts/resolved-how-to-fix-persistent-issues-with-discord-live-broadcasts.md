@@ -1,7 +1,7 @@
 ---
 title: "Resolved: How to Fix Persistent Issues with Discord Live Broadcasts"
-date: 2025-01-14T22:13:22.002Z
-updated: 2025-01-18T03:39:59.018Z
+date: 2025-01-19T16:28:50.728Z
+updated: 2025-01-24T16:15:50.093Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
 * [Fix 1: Restart your computer](https://tools.techidaily.com/drivereasy/download/)
@@ -39,7 +35,7 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 * [Fix 9: Try Phasmophobia beta version](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Restart your computer
@@ -58,20 +54,20 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-properties.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Under the**Installed Files** tab, click**Verify integrity of game files** .
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Restart the game after the process is complete.
 
 If Phasmophobia still crashes, move on to the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Delete corrupted game files
@@ -86,6 +82,10 @@ Game crashing issues might happen when your game files are corrupted.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-02_18-19-47.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Delete everything except these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-02_18-44-34.png)
@@ -93,6 +93,10 @@ Game crashing issues might happen when your game files are corrupted.
 5) Relaunch the game to test the issue.
 
 If the game still crashes, try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -127,7 +131,7 @@ If the game still crashes, try the next fix below.
 If the crash still occurs, go ahead with the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Lower your graphics settings
@@ -142,6 +146,10 @@ If the crash still occurs, go ahead with the next fix.
 
  If you still experience crashing issues, then the issue is not with your game settings. You can change the settings back and try the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Launch the game with DirectX 10
 
  Another workaround for some players is manually switching the game to DirectX 10\. Here’s how to do it:
@@ -153,10 +161,6 @@ If the crash still occurs, go ahead with the next fix.
 3) Copy**\-force-feature-level-10-1** and paste it into the**LUNCH OPTIONS** under the General tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-22_16-23-03.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Launch the game to see if your problem has been resolved.
 
@@ -175,10 +179,6 @@ If Phasmophobia crashing issues persist, try the next fix below.
  2) Under the Compatibility tab, check the box next to**Disable fullscreen optimizations** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-23_14-53-17.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click**Apply > OK** .
 
@@ -217,24 +217,17 @@ If the problem still exists, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-answers.techidaily.com/2024-tips-rocket-league-keeps-crashing/"><u>[2024 Tips] Rocket League Keeps Crashing</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-breaking-boundaries-weaving-single-photos-into-masterpieces/"><u>[New] Breaking Boundaries Weaving Single Photos Into Masterpieces</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-10-top-picks-for-no-cost-zoom-and-screenshare/"><u>[Updated] 2024 Approved 10 Top Picks for No-Cost Zoom & Screenshare</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-a-compreenas-step-by-step-for-controlling-netflix-playback-rate/"><u>[Updated] A Compreenas Step-by-Step for Controlling Netflix Playback Rate</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-elevate-your-youtube-presence-with-optimal-post-times/"><u>[Updated] In 2024, Elevate Your YouTube Presence with Optimal Post Times</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/audience-captivation-for-personal-podcasts/"><u>Audience Captivation for Personal Podcasts</u></a></li>
-<li><a href="https://win-answers.techidaily.com/dead-by-daylight-update-2024-comprehensive-guide-to-resolving-persistent-crashes/"><u>Dead by Daylight Update 2024: Comprehensive Guide to Resolving Persistent Crashes</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/dive-into-securing-ai-with-openai-your-roadmap-to-contributing-in-the-bug-bounty-program/"><u>Dive Into Securing AI with OpenAI: Your Roadmap to Contributing in the Bug Bounty Program</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-issues-how-to-get-your-logitech-g-hub-running-on-windows-again/"><u>Fixing Issues: How To Get Your Logitech G Hub Running On Windows Again</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-overcome-launch-errors-in-modern-warfare-2-expert-advice-and-fixes/"><u>How to Overcome Launch Errors in Modern Warfare 2: Expert Advice and Fixes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/improved-fps-in-lost-ark-fixing-the-previous-lagging-issues/"><u>Improved FPS in Lost Ark - Fixing the Previous Lagging Issues</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-tecno-camon-20-pro-5g-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Tecno Camon 20 Pro 5G Is Unlocked</u></a></li>
-<li><a href="https://win-answers.techidaily.com/maximize-performance-addressing-and-resolving-outriders-lag-issues/"><u>Maximize Performance: Addressing and Resolving Outriders' Lag Issues</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723012680848-maximizing-your-experience-in-mass-effect-legendary-edition-unlocking-spectacular-frame-per-second-bonuses/"><u>Maximizing Your Experience in Mass Effect Legendary Edition - Unlocking Spectacular Frame-Per-Second Bonuses</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-tutorial-for-repairing-battlenet-not-opening/"><u>Step-by-Step Tutorial for Repairing 'Battle.net Not Opening'</u></a></li>
-<li><a href="https://win-answers.techidaily.com/swift-solution-guide-fixing-unable-to-start-fortnite-issues/"><u>Swift Solution Guide: Fixing 'Unable to Start Fortnite' Issues</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/ultimate-list-of-windows-data-restoration-tools-simple-step-by-step-instructions/"><u>Ultimate List of Windows Data Restoration Tools: Simple Step-by-Step Instructions</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unveiling-the-next-gen-cinema-through-vr/"><u>Unveiling the Next Gen Cinema Through VR</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-youtubes-role-in-shaping-brands-and-collaborations/"><u>[New] In 2024, YouTube's Role in Shaping Brands & Collaborations</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-transform-your-youtube-venture-from-free-to-earnings-at-the-500-mark/"><u>[New] Transform Your YouTube Venture From Free to Earnings at the 500 Mark</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-altering-snapchat-audio-a-dual-approach-explained-for-2024/"><u>[Updated] Altering Snapchat Audio A Dual Approach Explained for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-sierra-maximizing-your-icloud-drive-experience/"><u>[Updated] Sierra Maximizing Your iCloud Drive Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/banishing-the-darkness-a-guide-to-resolving-black-screens-on-codwarzone/"><u>Banishing the Darkness: A Guide to Resolving Black Screens on COD:Warzone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/deciphering-the-disappearance-of-recommended-video-content-in-your-newsfeed-for-2024/"><u>Deciphering the Disappearance of Recommended Video Content in Your Newsfeed for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-solutions-for-the-no-driver-matches-your-system-error-in-rainbow-six-extraction/"><u>Effective Solutions for the 'No Driver Matches Your System' Error in Rainbow Six Extraction</u></a></li>
+<li><a href="https://program-issues.techidaily.com/grand-theft-auto-v-crash-solutions-for-a-smooth-gaming-experience/"><u>Grand Theft Auto V Crash Solutions for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-realme-12-pro-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Realme 12 Pro 5G Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-overcome-roblox-not-launching-issues-with-fresh-strategies-2022-tips/"><u>How To Overcome Roblox Not Launching Issues with Fresh Strategies [2022 Tips]</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-a38-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on A38</u></a></li>
+<li><a href="https://win-answers.techidaily.com/valorant-error-alert-solving-the-crashed-graphics-driver-problem-fast/"><u>Valorant Error Alert! Solving the 'Crashed Graphics Driver' Problem Fast</u></a></li>
 </ul></div>
 

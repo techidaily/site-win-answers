@@ -1,7 +1,7 @@
 ---
 title: "Solving High CPU Consumption in God of War: A Step-by-Step Guide"
-date: 2025-01-16T20:09:12.028Z
-updated: 2025-01-18T02:09:29.611Z
+date: 2025-01-18T18:59:53.611Z
+updated: 2025-01-24T18:34:41.942Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/b0c789775642f2ac1a082c3710ec3e71a5c2db920
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3 simple fixes to try
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -32,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/b0c789775642f2ac1a082c3710ec3e71a5c2db920
 2. **[Update your network adapter driver](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Reinstall Steam](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Adjust your proxy settings
 
  In most cases, Error 130 happens when your browser fails to connect to the internet because of improper proxy configuration. To fix it, follow the instructions below:
@@ -43,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/b0c789775642f2ac1a082c3710ec3e71a5c2db920
 **1)** On your keyboard, press the**Windows logo key** and**R** at the same time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-373.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)** Type**inetcpl.cpl** , then click**OK** .
 
@@ -53,7 +57,7 @@ thumbnail: https://thmb.techidaily.com/b0c789775642f2ac1a082c3710ec3e71a5c2db920
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-360.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** If any items on this window are checked, uncheck them. Then, click**OK** .
@@ -63,6 +67,10 @@ thumbnail: https://thmb.techidaily.com/b0c789775642f2ac1a082c3710ec3e71a5c2db920
 **5)** Restart your computer and Steam to test your issue.
 
  If none of the boxes is checked, or if you still get the error code 130, then go ahead with the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your network adapter driver
 
@@ -100,17 +108,9 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-364.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Reinstall Steam
 
@@ -121,7 +121,7 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-885.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.
@@ -136,6 +136,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-888.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Select **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-889.png)
@@ -149,7 +153,7 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-891.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  **8)[Download](https://store.steampowered.com/about/)**  Steam.
@@ -159,10 +163,6 @@ OR
 **10)** Right-click the **Steam icon**  and select **Open file location** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-892.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **11)**  Move the backup **steamapps folder**  you create before to your current directory location.
 
@@ -194,22 +194,16 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-answers.techidaily.com/1723001129587-fixed-outriders-unreal-process-has-crashed-ue4-madness-error/"><u>[Fixed] Outriders 'Unreal Process Has Crashed: UE4-Madness' Error</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-leading-organizations-in-creating-immersive-vr-experiences/"><u>[New] 2024 Approved Leading Organizations in Creating Immersive VR Experiences</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solved-steam-keeps-freezing-not-responding-2024/"><u>[SOLVED] Steam Keeps Freezing/ Not Responding 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-feast-of-fame-top-30-show-titles-to-sizzle-viewership/"><u>[Updated] Feast of Fame Top 30 Show Titles to Sizzle Viewership</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-exploring-the-top-6-helmet-mounts-to-upgrade-your-adventure-photography/"><u>[Updated] In 2024, Exploring The Top 6 Helmet Mounts to Upgrade Your Adventure Photography</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-5-leading-resources-to-masterfully-add-text-flair-online/"><u>2024 Approved 5 Leading Resources to Masterfully Add Text Flair Online</u></a></li>
-<li><a href="https://win-answers.techidaily.com/bypassing-hurdles-in-forza-horizon-5-discover-these-7-effective-fixes-for-persistent-loading-problems/"><u>Bypassing Hurdles in Forza Horizon 5? Discover These 7 Effective Fixes for Persistent Loading Problems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723004275276-defeat-the-game-crashing-issue-in-call-of-duty-warzone-error-6328-with-our-expert-advice/"><u>Defeat the Game-Crashing Issue in Call of Duty: Warzone (Error 6328) with Our Expert Advice</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-asus-rog-phone-8-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Asus ROG Phone 8</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Xiaomi Redmi Note 13 Pro+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-secure-and-seamless-transfer-backing-up-camera-to-snapchat/"><u>In 2024, Secure & Seamless Transfer Backing Up Camera to Snapchat</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-errors-effective-solutions-to-prevent-pacific-drive-from-crashing-on-your-desktop/"><u>Overcoming Errors: Effective Solutions to Prevent Pacific Drive From Crashing on Your Desktop</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-pc-issues-fixes-for-hyper-scape-crashes/"><u>Resolving PC Issues: Fixes for Hyper Scape Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-utorrent-connection-issues-steps-to-restore-downloadpeer-connectivity/"><u>Solving uTorrent Connection Issues: Steps to Restore Download/Peer Connectivity</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-fixing-windows-app-configuration-issue/"><u>Strategies for Fixing Windows App Configuration Issue</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-preventing-pc-issues-with-frontier/"><u>Troubleshooting Tips for Preventing PC Issues with 'Frontier'</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlock-early-bird-perks-preordering-iphone-15-apple-watch-series-ultra-2-with-amazing-discounts-tech-insights-by-zdnet/"><u>Unlock Early Bird Perks: Preordering iPhone 15, Apple Watch Series Ultra 2 with Amazing Discounts | Tech Insights by ZDNET</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-boosting-your-youtube-with-partner-videos/"><u>[New] 2024 Approved Boosting Your YouTube with Partner Videos</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-mastering-instagram-4-pro-tips-for-looped-video-content/"><u>2024 Approved Mastering Instagram 4 Pro Tips for Looped Video Content</u></a></li>
+<li><a href="https://win-answers.techidaily.com/banish-the-shadows-complete-solution-to-halo-infinite-color-glitches/"><u>Banish the Shadows: Complete Solution to Halo Infinite Color Glitches</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-connectivity-problems-with-the-corsair-icue-laptop-on-recent-windows-os/"><u>Fixing Connectivity Problems with the Corsair iCUE Laptop on Recent Windows OS</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guide-fixing-persistent-linking-problems-in-granblue-fantasy-on-windowsmac/"><u>Guide: Fixing Persistent Linking Problems in Granblue Fantasy on Windows/Mac</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-realme-v30t-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Realme V30T? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-destiny-2-server-disconnect-issues-a-comprehensive-guide/"><u>How to Fix Destiny 2 Server Disconnect Issues - A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-seamless-switch-to-virtual-reality-your-phones-next-step/"><u>In 2024, Seamless Switch to Virtual Reality Your Phone's Next Step</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-oneplus-nord-3-5g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from OnePlus Nord 3 5G to Gmail | Dr.fone</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/revamping-parameters-master-the-edit-arguments-feature/"><u>Revamping Parameters: Master the Edit Arguments Feature</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-how-to-successfully-download-steam-updates/"><u>Troubleshooting Guide: How To Successfully Download Steam Updates</u></a></li>
 </ul></div>
 

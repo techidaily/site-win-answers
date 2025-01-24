@@ -1,7 +1,7 @@
 ---
 title: How to Stop Your Computer From Freezing in Counter-Strike 2 (CS2) - Latest Troubleshooting Tips
-date: 2025-01-15T07:02:33.375Z
-updated: 2025-01-18T03:17:57.412Z
+date: 2025-01-19T17:51:37.384Z
+updated: 2025-01-24T18:09:13.786Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ Serious Sam 4 is available now! But players have reported some issues like crash
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -79,10 +83,6 @@ Here are the minimum and recommended system requirements for the game:
 
 ![check for Windows Update](https://images.drivereasy.com/wp-content/uploads/2020/09/windows-updates-available-1200x718.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you’ve checked that your system perfectly meets these requirements but just can’t really run the game smoothly, don’t worry. You can try the fixes listed below.
 
 ---
@@ -108,10 +108,6 @@ Here’s how to update drivers with Driver Easy:
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![update drivers automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/scan-now-9-available.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
@@ -143,7 +139,7 @@ Here’s how to update drivers with Driver Easy:
 ![run Steam as an administrator to fix Serious Sam 4 crashing and suttering issue](https://images.drivereasy.com/wp-content/uploads/2020/11/run-Steam-as-an-administrator-select-Properties-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Select the tab**Compatibility** and check the box next to**Run this program as an administrator** . Then click**Apply > OK** .
@@ -153,6 +149,10 @@ Here’s how to update drivers with Driver Easy:
 If this didn’t work, move on to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Allow your game through controlled folder access
 
@@ -164,9 +164,17 @@ To do so, you can:
 
 ![allow  an app through controlled folder access Serious Sam 4 ](https://images.drivereasy.com/wp-content/uploads/2020/09/windows-security-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Select**Virus & threat protection** from the left pane. Scroll down and under the**Ransomware protection** section, click**Manage ransomware protection** .
 
 ![allow  an app through controlled folder access Serious Sam 4 ](https://images.drivereasy.com/wp-content/uploads/2020/09/manage-ransomware-protection-1200x684.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Switch the**Controlled folder access** setting to**On** . When a window pops up asking “**Do you want to allow this app to make changes to your device** “, click**Yes** .  
  Then click**Allow an app through Controlled folder access** .
@@ -180,10 +188,6 @@ To do so, you can:
  5) Then navigate to the game’s installation folder and select**Sam4.exe** .
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 6: Verify the integrity of game files
 
@@ -203,6 +207,10 @@ To do so, you can:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 7: Disable Steam overlay
 
  If you have Steam overlay enabled, it may cause instabilities. So to fix it, you should disable it. You can follow the instructions below:
@@ -213,13 +221,13 @@ To do so, you can:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/steam-select-propertite.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Select the**GENERAL** tab and uncheck the box next to**Enable the Steam Overlay while in-game** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/disable-Steam-overlay-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After applying the changes, exit Steam and run your game to see if this fixed the issues.
 
@@ -235,9 +243,17 @@ To do so, you can:
   
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/steam-select-propertite.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Select the**GENERAL** tab and click**SET LAUNCH OPTIONS…** .
 
 ![set launch options to fix Serious Sam 4 crashing and stuttering on PC](https://images.drivereasy.com/wp-content/uploads/2020/11/Steam-set-launch-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) In the text box, type**+gfx\_strAPI Vulkan** and click**OK** .
 
@@ -249,10 +265,6 @@ After you’ve done these, relaunch your game.
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 9: Adjust graphics options
 
  When crashing or stuttering happens, you can adjust graphics options to fix it. Here are the steps for you to take:
@@ -260,6 +272,10 @@ After you’ve done these, relaunch your game.
  1) Open your game and select**OPTIONS** .
 
 ![adjust graphics options serious sam 4 crash stutter](https://images.drivereasy.com/wp-content/uploads/2020/09/adjust-graphics-options-1-1200x516.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Then select**GRAPHICS OPTIONS** .
 
@@ -275,17 +291,9 @@ After you’ve done these, relaunch your game.
 
 ![adjust graphics options serious sam 4 crash stutter](https://images.drivereasy.com/wp-content/uploads/2020/09/adjust-graphics-options-4-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After applying the changes, close your game and launch it again to check if it fixes the issue.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 10: Set priority to realtime
 
@@ -300,10 +308,6 @@ After you’ve done these, relaunch your game.
  2) Select the tab**Details** and scroll down the list. Right-click on**Sam4.exe** and then select**Set priority > Realtime** .
 
 ![set priority as realtime Serious Sam 4 crash and sutter](https://images.drivereasy.com/wp-content/uploads/2020/09/set-priority-as-real-time-2-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If setting priority to realtime didn’t work for you, don’t worry. You got a few other fixes.
 
@@ -330,10 +334,6 @@ Here’s how you can do this:
  After restarting your computer, launch your game to see if it fixes the issue. If not, move on to the next method.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 12: Disable overclocking
 
@@ -362,19 +362,17 @@ Here’s how you can do this:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-ultimate-guide-cost-effective-pc-screen-recording-apps/"><u>[New] 2024 Approved Ultimate Guide Cost-Effective PC Screen Recording Apps</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-top-10-instagram-grid-makers-to-create-visually-appealing-grids/"><u>[New] In 2024, Top 10 Instagram Grid Makers to Create Visually Appealing Grids</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-ideal-techniques-for-noiseless-recording-for-2024/"><u>[Updated] Ideal Techniques for Noiseless Recording for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-honor-magic-6-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Honor Magic 6 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/android-screen-stuck-general-motorola-edge-40-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Motorola Edge 40 Partly Screen Unresponsive | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722998621526-how-to-fix-days-gone-when-it-wont-start-on-your-computer-solutions-inside/"><u>How To Fix 'Days Gone' When It Won't Start on Your Computer - Solutions Inside</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-stop-fallout-3-from-stopping-troubleshooting-for-windows-11-users/"><u>How to Stop Fallout 3 From Stopping - Troubleshooting for Windows 11 Users</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-ideal-selections-economical-4k-home-theater-systems/"><u>In 2024, Ideal Selections Economical 4K Home Theater Systems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-the-art-of-reducing-high-cpu-use-by-starfield-app-essential-techniques/"><u>Mastering the Art of Reducing High CPU Use by Starfield App: Essential Techniques</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-graphics-driver-errors-in-wolcen-for-smooth-gaming-experience/"><u>Overcoming Graphics Driver Errors in Wolcen for Smooth Gaming Experience</u></a></li>
-<li><a href="https://article-tips.techidaily.com/panning-for-priceless-pieces-in-open-source-archives/"><u>Panning for Priceless Pieces in Open-Source Archives</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/protect-identities-the-best-face-blur-video-editing-tools-for-2024/"><u>Protect Identities The Best Face Blur Video Editing Tools for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-guide-to-a-smoother-experience-with-no-more-crashes-in-ghost-recon-breakpoint/"><u>Quick Guide to a Smoother Experience with No More Crashes in Ghost Recon Breakpoint</u></a></li>
-<li><a href="https://win-answers.techidaily.com/say-goodbye-to-pc-crashing-master-6-secrets-to-fix-stray-software-problems-instantly/"><u>Say Goodbye to PC Crashing: Master 6 Secrets to Fix 'Stray' Software Problems Instantly</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-overcoming-srt-transfer-issues-from-premiere/"><u>[New] 2024 Approved Overcoming SRT Transfer Issues From Premiere</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-free-best-10-video-editing-apps-to-edit-and-make-instagram-reels/"><u>[Updated] FREE Best 10 Video Editing Apps to Edit and Make Instagram Reels</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-set-you-apart-on-snapchat-explore-over-120-innovative-narrative-ideas-for-stories/"><u>[Updated] In 2024, Set You Apart on Snapchat Explore Over 120 Innovative Narrative Ideas for Stories</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-honor-80-pro-straight-screen-edition-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Honor 80 Pro Straight Screen Edition via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-transform-fb-video-files-into-mp4-directly/"><u>In 2024, Transform FB Video Files Into MP4 Directly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/seamless-techniques-for-integrating-mov-files-into-davinci-resolve/"><u>Seamless Techniques for Integrating MOV Files Into DaVinci Resolve</u></a></li>
+<li><a href="https://win-answers.techidaily.com/seamlessly-convert-your-dvds-and-videos-discover-the-ideal-output-settings-and-compatible-playback-devices/"><u>Seamlessly Convert Your DVDs and Videos: Discover the Ideal Output Settings & Compatible Playback Devices</u></a></li>
+<li><a href="https://win-answers.techidaily.com/simple-steps-converting-your-dvds-into-avi-files-without-a-hitch/"><u>Simple Steps: Converting Your DVDs Into AVI Files Without a Hitch</u></a></li>
+<li><a href="https://win-answers.techidaily.com/speedy-techniques-for-shrinking-mov-video-files-on-your-pc/"><u>Speedy Techniques for Shrinking MOV Video Files on Your PC</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/step-by-step-tutorial-for-saving-gyao-yahoo-video-content-as-mp4-or-avi-files-across-windows-and-macos-systems/"><u>Step-by-Step Tutorial for Saving GyaO Yahoo Video Content as MP4 or AVI Files Across Windows and macOS Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-tutorial-enjoy-flv-content-without-hitches-on-ios-devices/"><u>Step-by-Step Tutorial: Enjoy FLV Content without Hitches on iOS Devices</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-poco-m6-pro-5g-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Poco M6 Pro 5G Offline? Troubleshooting Guide | Dr.fone</u></a></li>
 </ul></div>
 

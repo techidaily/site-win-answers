@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Ready or Not Keeps Crashing on PC"
-date: 2025-01-16T00:53:08.662Z
-updated: 2025-01-18T10:08:54.715Z
+date: 2025-01-19T17:26:12.317Z
+updated: 2025-01-24T16:49:08.017Z
 tags:
   - win11
   - win10
@@ -70,17 +70,25 @@ First, check your current Microsoft Visual C++ version:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/2022-07-21_12-23-58.jpg)
 2. Click **Programs** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/2022-07-21_12-23-13.jpg)
 3. Click **Programs and Features** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/2022-07-21_12-23-23.jpg)
 4. Now check your Microsoft Visual C++ Redistributable version.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/2022-07-21_12-23-07.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If your Microsoft Visual C++ version is outdated, follow the steps to update it:
 
@@ -89,13 +97,13 @@ First, check your current Microsoft Visual C++ version:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/2022-08-12_17-14-05.jpg)
 3. Open the downloaded file and click **Repair** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/2022-08-03_14-59-54.jpg)
 
 If the Cult of the Lamb continues to crash, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2 Repair HDD bad sectors
 
@@ -106,7 +114,7 @@ If the Cult of the Lamb continues to crash, try the next fix.
 2. Copy and paste the following command. Remember to replace**e:** with the drive storing your game file.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 `**chkdsk e: /f /r /x**`  
@@ -117,6 +125,10 @@ If the Cult of the Lamb continues to crash, try the next fix.
 
  If it fails to find any bad sector or this fix doesn’t work for you, continue to try the next one.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 3 Run the game as an administrator
 
  Running the game as an administrator can ensure that your game gains the system’s full support and maximum resources because it’s considered authorized. So this fix is widely used to ease the game crashing problem. Just check the guide below:
@@ -126,10 +138,6 @@ If the Cult of the Lamb continues to crash, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/2022-07-13_16-55-36.jpg)
 
  That’s it. Now you can run the game in the way you normally do, and it will automatically run as an administrator. Launch the game to see if the crashing issue is solved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4 Update graphics driver
 
@@ -148,6 +156,10 @@ If the Cult of the Lamb continues to crash, try the next fix.
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti.jpg)
 4. After updating, restart your computer to take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The**Pro version** of Driver Easy comes with**full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  Restart your PC to make changes apply. Then relaunch the game to check for any improvement.
@@ -161,21 +173,13 @@ If the Cult of the Lamb continues to crash, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/skywalker-saga-crash-1.jpg)
 3. Select **LOCAL FILES** on the left and click **Verify integrity of game files…**  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/skywalker-saga-crash-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Steam will verify the files of this game for you. Once done, exit the software client and launch it again. Have a test to see if the crashing issue is gone.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 6 Repair system files
 
@@ -190,6 +194,10 @@ Here’s how it works:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 3. After the scan, check the generated summary and click **Start Repair** to start your fixing process (and you’ll need to pay for that).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
  Fortect offers a **60-day money-back** guarantee, so don’t hesitate to contact them if you need any assistance. However, if the crashing of the Cult of the Lamb still persists, check the next solution.
@@ -200,10 +208,6 @@ Here’s how it works:
 
  If you’re using any antivirus, these tools may have a negative impact on your gaming experience. To eliminate their effect, you can add the game to your antivirus whitelist. If you don’t know how to do it, just google your antivirus’s name and whitelist (eg. McAfee whitelist). Then follow the official guidelines to add Cult of the Lamb to its white list.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 8 Disable overlay
 
  It’s reported that some overlay apps may conflict with Cult of the Lamb, producing a crashing or freezing screen. If you’re using overlay software such as Discord or Xbox, disable them temporarily. In addition, some games have a problem pairing with the Steam overlay, so also disable the overlay on Steam with the steps below:
@@ -212,10 +216,6 @@ Here’s how it works:
 2. Navigate to the **Steam**  \> **Settings**  \> **In-game** tab.
 3. Uncheck **Enable the Steam Overlay while in-game** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-not-launching.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Relaunch Steam after you have disabled apps and Steam overlay. Open the game to see if the problem is gone.
 
@@ -232,11 +232,11 @@ Still no luck? Try this final fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/2022-07-13_18-31-13.jpg)
 3. Click the **Detail**  tab. Right-click **Stray.exe** and set its priority to **High** .  
 
-![](https://images.drivereasy.com/wp-content/uploads/2022/07/game-stuttering-10.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/07/game-stuttering-10.jpg)
 
  Return to the game to check if the problem is solved. If it fails to tackle the problem, you can try to update your Windows or reinstall the game.
 
@@ -262,18 +262,21 @@ Still no luck? Try this final fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-capture-the-magic-our-list-of-top-12-cameras-for-exceptional-vlogs/"><u>[Updated] Capture the Magic Our List of Top 12 Cameras for Exceptional Vlogs</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-elite-streamers-choice-for-secure-downloads-8-for-2024/"><u>[Updated] Elite Streamer’s Choice for Secure Downloads 8 for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-navigating-instagrams-live-broadcasting/"><u>2024 Approved Navigating Instagram's Live Broadcasting</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/assessing-cgps-reliability-in-providing-health-facts/"><u>Assessing CGP’s Reliability in Providing Health Facts</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/exploring-vegaspro-2019-edition-highlights-for-2024/"><u>Exploring VegasPro 2019 Edition Highlights for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-motorola-moto-g84-5g-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Motorola Moto G84 5G for Free? | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/premium-mac-image-transformer-for-2024/"><u>Premium Mac Image Transformer for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2263856-9781942733942-spirit-of-desire/"><u>Spirit of Desire | Free Book</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-crafting-your-own-bootable-windows-11-usb-for-immediate-use/"><u>Step-by-Step Guide: Crafting Your Own Bootable Windows 11 USB for Immediate Use</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-obtaining-printed-copies-without-personal-access-to-a-printer/"><u>Step-by-Step Guide: Obtaining Printed Copies Without Personal Access to a Printer</u></a></li>
-<li><a href="https://win-answers.techidaily.com/transferring-and-modifying-android-pictures-on-windows-11-made-easy-learn-the-steps-now/"><u>Transferring & Modifying Android Pictures on Windows 11 Made Easy - Learn the Steps Now!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-sound-problems-in-windows-11-when-no-audio-device-is-detected/"><u>Troubleshooting Sound Problems in Windows 11 When No Audio Device Is Detected</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-cant-find-bluetooth-hardware-in-windows-device-manager/"><u>Troubleshooting: Can't Find Bluetooth Hardware in Windows Device Manager?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-tricks-for-transferring-twitter-video-to-your-phone/"><u>[New] 2024 Approved Tricks for Transferring Twitter Video to Your Phone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-fb-rights-instant-video-ownership-takedown-questions/"><u>[New] In 2024, FB Rights Instant Video Ownership Takedown Questions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-the-new-earnings-threshold-youtubes-500-rule/"><u>[New] The New Earnings Threshold YouTube's $500 Rule</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-unleash-viral-potential-top-50plus-trending-tiktok-hashtags-for-2024/"><u>[New] Unleash Viral Potential Top 50+ Trending TikTok HashTags for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-how-to-boost-fps-in-ring-of-elysium/"><u>[SOLVED] How to Boost FPS in Ring of Elysium</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-leading-tech-for-cloud-saving-top-choices-for-android-for-2024/"><u>[Updated] Leading Tech for Cloud Saving Top Choices for Android for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/comprehensive-tutorial-for-setting-up-arctic-zephyr-reloaded-interface-on-kodi-19x/"><u>Comprehensive Tutorial for Setting Up Arctic Zephyr Reloaded Interface on Kodi 19.x</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhancing-visual-fidelity-in-call-of-duty-warzone-by-leveraging-your-gpu-on-pcs-with-windows-10/"><u>Enhancing Visual Fidelity in Call of Duty: Warzone by Leveraging Your GPU on PCs with Windows 10</u></a></li>
+<li><a href="https://win-answers.techidaily.com/improving-reaction-times-with-fps-optimization-tips-for-naraka-bladepoint/"><u>Improving Reaction Times with FPS Optimization Tips for Naraka: Bladepoint</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-making-money-in-the-20-second-space-the-youtube-shorts-playbook/"><u>In 2024, Making Money in the 20-Second Space The YouTube Shorts Playbook</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-techniques-for-gradual-mix-adjustments-in-pro-tools/"><u>In 2024, Techniques for Gradual Mix Adjustments in Pro Tools</u></a></li>
+<li><a href="https://win-answers.techidaily.com/jurassic-world-evolution-troubleshooting-eliminating-crashing-issues-permanently/"><u>Jurassic World Evolution Troubleshooting: Eliminating Crashing Issues Permanently</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/learn-iphone-data-removal-techniques-with-our-easy-do-it-yourself-methods/"><u>Learn iPhone Data Removal Techniques with Our Easy Do-It-Yourself Methods</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-how-to-fix-persistent-issues-with-discord-live-broadcasts/"><u>Resolved: How to Fix Persistent Issues with Discord Live Broadcasts</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-launch-errors-for-davinci-resolve-on-windows-expert-tips-and-tricks/"><u>Resolving Launch Errors for DaVinci Resolve on Windows - Expert Tips & Tricks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-found-why-doesnt-my-game-of-warframe-open/"><u>Solution Found: Why Doesn’t My Game of Warframe Open?</u></a></li>
 </ul></div>
 

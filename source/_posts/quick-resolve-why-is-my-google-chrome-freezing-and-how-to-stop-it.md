@@ -1,7 +1,7 @@
 ---
 title: "Quick Resolve: Why Is My Google Chrome Freezing and How to Stop It?"
-date: 2025-01-14T23:16:17.420Z
-updated: 2025-01-17T19:43:35.187Z
+date: 2025-01-18T17:56:03.110Z
+updated: 2025-01-24T17:12:40.048Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/de3aeccba8a1988fe712bc85cebc3af3bc3a21faa
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not need to try them all; simply work your way down until you find the one that works for you.
@@ -37,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/de3aeccba8a1988fe712bc85cebc3af3bc3a21faa
 7. **[Set English (United States) as the default language](https://www.drivereasy.com/knowledge/state-of-decay-2-keeps-crashing/#Fix7)**
 8. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 9. **[Reinstall State of Decay 2](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Check your Apps
 
@@ -59,6 +67,10 @@ After that, restart your computer and see if that helps.
 
 If State of Decay 2 still crashes, go ahead with the next fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Check your antivirus settings
 
  Your antivirus software could block the normal operation of State of Decay 2 and cause the game to keep crashing. To ensure that State of Decay 2 works properly, you should add it as an exception to your antivirus software. This will vary depending on the antivirus software you’re using.
@@ -79,7 +91,7 @@ If State of Decay 2 still crashes, go ahead with the next fix below.
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
@@ -90,10 +102,6 @@ If State of Decay 2 still crashes, go ahead with the next fix below.
  Once you’ve updated your graphics driver, restart your PC and check if State of Decay 2 is working properly.
 
  If updating your graphics driver fails to stop the crash, continue to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Install all Windows updates
 
@@ -110,10 +118,6 @@ If State of Decay 2 still crashes, go ahead with the next fix below.
 
 If this method doesn’t help, check out the next solution.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5: Reset State of Decay 2
 
  With Windows 10, you can reset an app’s data without uninstalling and reinstalling the app. This will restore an app to its default settings. So, before trying anything more complicated, you can reset State of Decay 2 to see if it can fix the crashing issue. Here’s how:
@@ -125,27 +129,15 @@ If this method doesn’t help, check out the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/advanced-options.jpg)
 3. Scroll down the page, then click**Reset** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/reset-app.jpg)
 4. Click**Reset** to confirm again.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/reset.jpg)
 5. Once the process is complete, restart your computer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Launch State of Decay 2 to see if the problem is resolved.
 
 If the crashing issue occurs again, continue to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Move State of Decay 2 to a different drive
 
@@ -155,6 +147,10 @@ If the crashing issue occurs again, continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/apps-features.jpg)
 2. Under Apps & features, click**State of Decay 2** , then select**Move** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/move-app.jpg)
 3. In the pop-up window,**select a new drive** from the drop-down menu, then click**Move** again.  
 
@@ -163,6 +159,10 @@ If the crashing issue occurs again, continue to the next fix.
  After doing that, launch State of Decay 2 and check if the problem has gone away.
 
 If this method doesn’t do the trick, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Set English (United States) as the default language
 
@@ -176,15 +176,11 @@ If this method doesn’t do the trick, try the next fix.
 3. Select**English (United States)** , then click**Next** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/next.jpg)
 4. Click**Install** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/install-language.jpg)
 5. After the language is fully installed, drag it to the first position in the list.  
@@ -194,6 +190,10 @@ If this method doesn’t do the trick, try the next fix.
 Now restart your PC and test if State of Decay 2 still crashes.
 
 If this solution doesn’t work for you, continue to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 8: Perform a clean boot
 
@@ -221,6 +221,10 @@ If this solution doesn’t work for you, continue to the next fix.
 
  If the game still crashes after you disabled all the programs and services, try the last fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 9: Reinstall State of Decay 2
 
  If none of the fixes above solve your problem, try reinstalling State of Decay 2 as a last resort. This might help you get rid of the crashing issue. To do so:
@@ -230,15 +234,11 @@ If this solution doesn’t work for you, continue to the next fix.
 2. Under Apps & features, click**State of Decay 2** , then select**Uninstall** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/uninstall-app.jpg)
 3. Click**Uninstall** again.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/uninstall.jpg)
 4. Restart your computer and reinstall the game.
@@ -264,19 +264,18 @@ If this solution doesn’t work for you, continue to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/mbrace-serenity-the-10-best-online-yoga-masters-today-for-2024/"><u>[New] Embrace Serenity The 10 Best Online Yoga Masters Today for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-the-quick-convert-guide-transforming-gifs-into-telegram-and-whatsapp-emojis-for-2024/"><u>[Updated] The Quick-Convert Guide Transforming Gifs Into Telegram and WhatsApp Emojis for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/8-best-multiple-video-call-and-chat-tools-for-conference-and-friends-for-2024/"><u>8 Best Multiple Video Call & Chat Tools for Conference and Friends for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/elevating-virtual-reality-storytelling-a-premiere-pro-360-degree-video-guide/"><u>Elevating Virtual Reality Storytelling A Premiere Pro 360-Degree Video Guide</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/experience-unparalleled-reality-top-10-pc-headsets-for-in-depth-vr-video/"><u>Experience Unparalleled Reality Top 10 PC Headsets for In-Depth VR Video</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-address-unresponsiveness-in-your-mobile-pubg-gameplay/"><u>How to Address Unresponsiveness in Your Mobile PUBG Gameplay</u></a></li>
-<li><a href="https://win-answers.techidaily.com/masterclass-on-curtailing-intense-cpu-use-during-starfield-sessions-gamers-guide-to-a-smooth-experience/"><u>Masterclass on Curtailing Intense CPU Use During Starfield Sessions - Gamer's Guide to a Smooth Experience</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-and-easy-troubleshooting-guide-for-overcoming-nba-2k20-crashes/"><u>Quick & Easy Troubleshooting Guide for Overcoming NBA 2K20 Crashes</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/securing-snapshots-across-android-and-mac-platforms-for-2024/"><u>Securing Snapshots Across Android and Mac Platforms for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solve-it-once-and-for-all-eradicating-crashes-in-red-dead-online-while-gaming-on-pc/"><u>Solve It Once & For All: Eradicating Crashes in Red Dead Online While Gaming on PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723208158927-steam-update-woes-heres-how-you-can-ensure-successful-downloads/"><u>Steam Update Woes? Here's How You Can Ensure Successful Downloads!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-tech-trailblazers-next-endeavor/"><u>The Tech Trailblazer’s Next Endeavor</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-12-prominent-motorola-moto-g14-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Motorola Moto G14 Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-fixing-low-speed-downloads-on-utorrent/"><u>Troubleshooting: Fixing Low-Speed Downloads on uTorrent</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-az-video-grabber-in-depth-app-analysis-and-diversions/"><u>[Updated] AZ Video Grabber In-Depth App Analysis & Diversions</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-lollipop-lens-detailed-analysis-and-how-to-for-sweet-filming/"><u>[Updated] In 2024, Lollipop Lens Detailed Analysis & How-To for Sweet Filming</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-spark-conversation-with-personalized-instagram-story-queries/"><u>[Updated] In 2024, Spark Conversation with Personalized Instagram Story Queries</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-video-movie-maker-for-windows-8/"><u>[Updated] In 2024, Video Movie Maker for Windows 8</u></a></li>
+<li><a href="https://win-answers.techidaily.com/5-essential-tips-for-faster-no-cost-anime-file-retrieval-on-gogoanime/"><u>5 Essential Tips for Faster, No-Cost Anime File Retrieval on GogoAnime</u></a></li>
+<li><a href="https://driver-download.techidaily.com/fixing-common-errors-in-pci-protectionunlock-driver-systems-expert-tips/"><u>Fixing Common Errors in PCI Protection/Unlock Driver Systems - Expert Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1726030330680-iso/"><u>ISOイメージの編集手順 - 詳細ガイド付き動画</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leveraging-chatgpt-to-streamline-corporate-operations-and-strategy/"><u>Leveraging ChatGPT to Streamline Corporate Operations and Strategy</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1726028089720-mp4-windows-11/"><u>MP4形式動画を一本化: Windows 11使用ガイド</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1726029797481-obs-studio/"><u>OBS Studioによるフルスクリーンキャプチャの技術ガイド</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-list-8-most-effective-online-supervision-tools/"><u>The Ultimate List: 8 Most Effective Online Supervision Tools</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96476481-9780880500531-why-is-love-so-painful/"><u>Why Is Love So Painful? | Free Book</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1726030099603-dvd/"><u>プレーヤー不要! DVDをストリーミング表示するためのヒントとコツ</u></a></li>
 </ul></div>
 

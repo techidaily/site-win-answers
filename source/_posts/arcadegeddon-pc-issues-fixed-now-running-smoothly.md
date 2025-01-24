@@ -1,7 +1,7 @@
 ---
 title: "Arcadegeddon PC Issues Fixed: Now Running Smoothly"
-date: 2025-01-11T00:34:33.822Z
-updated: 2025-01-18T01:10:41.306Z
+date: 2025-01-19T18:30:34.497Z
+updated: 2025-01-24T18:07:06.026Z
 tags:
   - win11
   - win10
@@ -69,11 +69,11 @@ _Recommended requirements_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-System-Information-1200x699.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If your PC perfectly meets the requirements, try the fixes below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Run the game with administrator rights
 
@@ -89,6 +89,10 @@ To make your game permanently run with admin rights for all users:
 3. Check the box next to**Run this program as an administrator** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Run-this-program-as-an-administrator-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After applying the changes, launch the game. If your issue persists, don’t worry! Below are some other fixes for you to try.
 
@@ -117,17 +121,13 @@ If your game still crashes, proceed to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Start-menu-Check-for-udpates.jpg)
 2. When the updates are available, simply click on the button **Download & install** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![win11 - Download & install Windows Update](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Download-install-Windows-Update.jpg)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![win11 - Download & install Windows Update](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Check-for-updates-button.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If your issue persists, try the next fix below.
 
@@ -150,13 +150,13 @@ If your issue persists, try the next fix below.
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti.jpg)
 4. After updating, restart your computer to take effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The Pro version of Driver Easy comes with full technical support. If you need assistance, please contact Driver Easy’s support team at[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -183,10 +183,6 @@ If your issue persists, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Avatar-Frontiers-of-Pandora-Verify-integrity-of-game-files.jpg)
 5. Wait for validation to complete. It may take a while to verify all your files.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### On Steam
 
 1. Launch Steam.
@@ -198,10 +194,14 @@ If your issue persists, try the next fix below.
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
 4. Steam will verify the game’s files – this process may take several minutes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 When the process is completed, launch your game and see how things go.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Disable in-game overlay (Ubisoft Connect)
@@ -212,22 +212,10 @@ When the process is completed, launch your game and see how things go.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Avatar-Frontiers-of-Pandora-Disable-in-game-overlay-three-lines.jpg)
 2. Select **Settings** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. In the**General** section,**uncheck** the box next to Enable in-game overlay for supported games.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Avatar-Frontiers-of-Pandora-Disable-in-game-overlay-Ubisoft-Connect.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Try to relaunch your game to see if it takes effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Try -dx11/-dx12 in launch arguments (Ubisoft Connect)
 
@@ -238,7 +226,15 @@ Try to relaunch your game to see if it takes effect.
 3. Select**Properties** in the menu. Under**Game launch arguments** , enter**\-dx12** or**\-dx11** into the box and click**Save** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Avatar-Frontiers-of-Pandora-dx12.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If this doesn’t work, proceed to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Start your game in High Priority
 
@@ -251,14 +247,14 @@ If this doesn’t work, proceed to the next fix.
 ![how to open Task Manager](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-taskmgr.jpg)
 3. In the**Processes** tab, right-click your game and select**Go to details** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Avatar-Frontiers-of-Pandora-Go-to-details.jpg)
 4. Now the executable will be highlighted, right-click it and select**Set priority > High** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Avatar-Frontiers-of-Pandora-Set-priority-High-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After applying the changes, launch Avatar: Frontiers of Pandora. If your game still crashes frequently, try the next fix below.
 
@@ -274,6 +270,10 @@ If this doesn’t work, proceed to the next fix.
 3. You’ll get a scan summary listing all the issues it detects. Click **Start Repair** to fix the problems (and you’ll need to pay for the full version which comes with a **60-day money-back** guarantee).  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/Fortect-Start-Repair.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Once done, reboot your device and try to launch the game.
 
@@ -296,21 +296,16 @@ Once done, reboot your device and try to launch the game.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-subscriber-glory-the-play-button-and-accolades-for-maker/"><u>[New] 2024 Approved Subscriber Glory The Play Button & Accolades for Maker</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-the-10-essential-steps-for-a-profitable-tiktok-presence/"><u>[New] In 2024, The 10 Essential Steps for a Profitable TikTok Presence</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/uick-video-insights-the-essentials-for-2024/"><u>[New] Quick Video Insights The Essentials for 2024</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/additional-tips-about-sinnoh-stone-for-poco-c50-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Poco C50 | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/avoid-vrchat-crashes-in-virtual-reality-8-crucial-fixes-for-gaming-smoothness-on-pc/"><u>Avoid VRChat Crashes in Virtual Reality: 8 Crucial Fixes for Gaming Smoothness on PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/best-troubleshooting-tips-for-smooth-fallout-3-gaming-on-windows-11/"><u>Best Troubleshooting Tips for Smooth Fallout 3 Gaming on Windows 11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/comprehensive-guide-to-repairing-ntdlldll-faults-on-windows-operating-systems-version-11-and-10/"><u>Comprehensive Guide to Repairing ntdll.dll Faults on Windows Operating Systems (Version 11 & 10)</u></a></li>
-<li><a href="https://win-answers.techidaily.com/crack-the-code-top-strategies-to-keep-among-us-running-smoothly/"><u>Crack the Code: Top Strategies to Keep 'Among Us' Running Smoothly</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-techniques-for-fixing-windows-11-issues-using-sfc-and-dism/"><u>Expert Techniques for Fixing Windows 1#1 Issues Using SFC & DISM</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/food-videography-how-to-shoot-food-videos-for-2024/"><u>Food Videography How to Shoot Food Videos for 2024</u></a></li>
-<li><a href="https://media-tips.techidaily.com/free-ultimate-mkv-video-player-for-windows-8-and-81-64-bit-32-bit-download-now/"><u>Free Ultimate MKV Video Player for Windows 8 & 8.1 (64-Bit / 32-Bit) - Download Now!</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-realme-c51-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Realme C51 Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-avoiding-fatal-bugs-in-the-unreal-engine-4-insights-from-arise-games/"><u>Mastering Avoiding Fatal Bugs in the Unreal Engine 4 - Insights From Arise Games</u></a></li>
-<li><a href="https://win-answers.techidaily.com/pc-players-manual-ensuring-smooth-operation-of-vr-titles-without-crashes/"><u>PC Players' Manual: Ensuring Smooth Operation of VR Titles Without Crashes</u></a></li>
-<li><a href="https://win11.techidaily.com/repairing-unresponsive-windows-touchpad-swipes/"><u>Repairing Unresponsive Windows Touchpad Swipes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-issues-steps-to-stop-resident-evil-4-remastered-from-freezing/"><u>Resolving Issues: Steps to Stop Resident Evil 4 Remastered From Freezing</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-dazzle-and-stand-out-50-free-youtube-branding-pieces/"><u>[New] Dazzle and Stand Out 50 FREE YouTube Branding Pieces!</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-precision-in-inshot-transitions-a-step-by-step-guide/"><u>[Updated] 2024 Approved Precision in Inshot Transitions A Step-by-Step Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-how-to-record-powerpoint-presentation-with-webcam/"><u>[Updated] In 2024, How to Record PowerPoint Presentation with Webcam</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-the-crashes-ultimate-guide-to-running-hearts-of-iron-iv-stably/"><u>Beat the Crashes: Ultimate Guide to Running Hearts of Iron IV Stably</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/decode-the-reverse-masterful-snapchat-techniques-for-2024/"><u>Decode the Reverse Masterful Snapchat Techniques for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-dark-void-resolving-black-screen-issues-in-fortnite-on-pc/"><u>Fixing the Dark Void: Resolving Black Screen Issues in Fortnite on PC</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-oppo-a38-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Oppo A38 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-virtualization-a-stepwise-process-to-enable-hyper-v-on-your-windows-11-pc/"><u>Mastering Virtualization: A Stepwise Process to Enable Hyper-V on Your Windows 11 PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722987466898-mount-and-blade-ii-bannerlord-fixed-no-more-freezing-issues/"><u>Mount & Blade II: Bannerlord Fixed – No More Freezing Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-frame-drops-and-playback-glitches-in-naraka-bladepoint/"><u>Troubleshooting Frame Drops & Playback Glitches in Naraka: Bladepoint</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unmasking-the-giants-of-live-broadcast-twitch-vs-youtube-for-2024/"><u>Unmasking the Giants of Live Broadcast Twitch Vs YouTube for 2024</u></a></li>
 </ul></div>
 

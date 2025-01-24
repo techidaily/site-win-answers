@@ -1,7 +1,7 @@
 ---
 title: How to Fix Madden 19 PC Instances of Unexpected Shutdowns and Glitches
-date: 2025-01-17T00:57:38.575Z
-updated: 2025-01-18T09:16:37.385Z
+date: 2025-01-20T17:45:08.751Z
+updated: 2025-01-24T18:31:11.872Z
 tags:
   - win11
   - win10
@@ -35,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 5. [Verify Integrity of Game Files](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Disable overlays for your game
@@ -45,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 **Try disabling overlays for Dark Souls 3** and see if your game stops crashing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Run in Windowed mode
@@ -53,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
  If you play Dark Souls 3 in Fullscreen mode, it may crash to your desktop. In this case, you can fix your game crashing problem by switching to**Windowed mode** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-708.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can go to the game options and change to Windowed mode, then re-launch your game to see if it works.
 
@@ -93,6 +97,10 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-706.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click_Update All_ ).
 
  Note: You can do it for free if you like, but it’s partly manual.
@@ -102,10 +110,6 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 4) Once your driver has been updated, restart your computer.
 
 Now launch Dark Souls 3 and see if it works.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Set game options to LOW
 
@@ -137,10 +141,6 @@ Then play your game to see if it works properly.
 
  Still no luck? Don’t give up hope. There’s one more thing to try.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5: Verify Integrity of Game Files
 
  You can try verifying integrity of game files in Steam app if games crash. Here’s how to do it:
@@ -156,7 +156,7 @@ Then play your game to see if it works properly.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-703.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Click the**Local files** tab, and click**Verify Integrity Of Game Files** .
@@ -164,7 +164,7 @@ Then play your game to see if it works properly.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-705.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Steam will check your game files and fix any detected problems. Follow the on-screen instructions to finish the process.
@@ -192,22 +192,21 @@ Then play your game to see if it works properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-secrets-to-preserving-online-broadcasts-professionally/"><u>[New] In 2024, Secrets to Preserving Online Broadcasts Professionally</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/uick-cover-art-crafting-for-fighting-games/"><u>[New] Quick Cover Art Crafting for Fighting Games</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-unveiling-the-most-advanced-websites-for-customizable-text-design/"><u>[Updated] In 2024, Unveiling the Most Advanced Websites for Customizable Text Design</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/voc-mp3-movavi/"><u>網路直接免費 VOC 到 MP3 轉錄 - 利用 Movavi 音樂傳輸工具</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/advantages-in-god-of-war-a-closer-look/"><u>Advantages in 'God of War': A Closer Look</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723008108871-beat-saber-stability-issues-heres-how-you-can-stop-the-game-from-crashing/"><u>Beat Saber Stability Issues? Here's How You Can Stop the Game From Crashing</u></a></li>
-<li><a href="https://win-answers.techidaily.com/cracking-the-case-of-the-elusive-la-noire-pc-release-its-now-in-play/"><u>Cracking the Case of the Elusive L.A. Noire PC Release – It's Now in Play!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-fixes-for-reducing-stutter-and-improving-v-rising-performance-on-desktops/"><u>Effective Fixes for Reducing Stutter and Improving V-Rising Performance on Desktops</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-solutions-for-resolving-the-blue-screen-of-death-in-hell-divers-2/"><u>Effective Solutions for Resolving the Blue Screen of Death in Hell Divers 2</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-audio-error-message-in-itunes-for-optimal-playback-experience/"><u>Fixing the Audio Error Message in iTunes for Optimal Playback Experience</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-15-plus-with-a-mask-on-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 15 Plus with a Mask On</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Vivo V30 Lite 5G? | Dr.fone</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/melodious-memories-capturing-songs-in-your-snaps-for-2024/"><u>Melodious Memories Capturing Songs in Your Snaps for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-the-ghost-runner-critical-crash-issue-in-windows-11/"><u>Resolving the Ghost Runner Critical Crash Issue in Windows 11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/stop-valorant-graphic-drivers-from-collapsing-a-quick-repair-tutorial/"><u>Stop Valorant Graphic Drivers From Collapsing – A Quick Repair Tutorial</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-to-fixing-continuous-crashes-of-after-effects-in-windows-10-and-11-systems/"><u>Ultimate Guide to Fixing Continuous Crashes of After Effects in Windows 10 and 11 Systems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/update-online-authentication-for-origin-players-fully-operational-now/"><u>Update: Online Authentication for Origin Players Fully Operational Now</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-rapid-routines-to-disrupt-youtube-list-ordering/"><u>[Updated] 2024 Approved Rapid Routines to Disrupt YouTube List Ordering</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-top-10-innovative-mobile-layering-apps-for-android-and-iphone-for-2024/"><u>[Updated] Top 10 Innovative Mobile Layering Apps for Android & iPhone for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-character-voiceovers-and-personas-for-dynamic-tiktok-content/"><u>2024 Approved Character Voiceovers and Personas for Dynamic TikTok Content</u></a></li>
+<li><a href="https://win-blog.techidaily.com/clear-your-game-view-enhancing-visuals-for-cod-warzone-pc/"><u>Clear Your Game View: Enhancing Visuals for COD: Warzone (PC)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722994517309-dayz-performance-boosted-overcome-fps-drops-swiftly-and-effectively/"><u>DayZ Performance Boosted: Overcome FPS Drops Swiftly & Effectively</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-issue-unable-to-launch-origin-on-windows-11/"><u>Fixing the Issue: Unable to Launch 'Origin' On Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/high-performance-gaming-guide-enhancing-escape-from-tarkov-fps/"><u>High-Performance Gaming Guide: Enhancing Escape From Tarkov FPS</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-resolve-the-camera-not-found-error-in-snap-app/"><u>How to Resolve the 'Camera Not Found' Error in Snap App</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-non-athletic-games-the-best-10-front-rows/"><u>In 2024, Non-Athletic Games The Best 10 Front Rows</u></a></li>
+<li><a href="https://win-dash.techidaily.com/lenovo-monitor-driver-downloads-and-firmware-upgrades-step-by-step/"><u>Lenovo Monitor Driver Downloads & Firmware Upgrades: Step-by-Step</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-the-battlefield-prevent-and-repair-modern-warfare-2-freezes-with-these-6-steps-pc/"><u>Master the Battlefield: Prevent and Repair 'Modern Warfare 2' Freezes with These 6 Steps (PC)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-patchwork-effective-solutions-for-the-persistent-crash-of-thaumaturge-on-personal-computers/"><u>Mastering Patchwork: Effective Solutions for the Persistent Crash of Thaumaturge on Personal Computers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-fixes-to-reactivate-your-windows-1110-spatial-audio-experience/"><u>Step-by-Step Fixes to Reactivate Your Windows 11/10 Spatial Audio Experience</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-critical-concerns-surrounding-openais-chatgpt-platform/"><u>Unveiling Critical Concerns Surrounding OpenAI's ChatGPT Platform</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-quik-for-pc-a-guide-to-using-gopros-video-editor-and-its-alternatives/"><u>Updated 2024 Approved Quik for PC A Guide to Using GoPros Video Editor and Its Alternatives</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/yuneecs-typhoon-h-uncovered-a-comprehensive-review-for-2024/"><u>Yuneec’s Typhoon H Uncovered A Comprehensive Review for 2024</u></a></li>
 </ul></div>
 

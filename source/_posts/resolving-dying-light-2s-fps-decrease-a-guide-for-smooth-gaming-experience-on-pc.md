@@ -1,7 +1,7 @@
 ---
 title: Resolving Dying Light 2'S FPS Decrease – A Guide for Smooth Gaming Experience on PC
-date: 2025-01-13T17:50:25.610Z
-updated: 2025-01-18T07:39:06.541Z
+date: 2025-01-21T16:44:40.888Z
+updated: 2025-01-24T16:23:18.910Z
 tags:
   - win11
   - win10
@@ -37,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/613172768f05bc30ced4453cadcdb6862cbaab1d0
 5. [**Verify the integrity of game files**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Turn off overlay](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1 – Run Deathloop as an administrator
 
  By default, Windows runs a program as a regular user, but this may prevent it from accessing necessary permissions. To make sure Deathloop works properly, you should run it as an administrator.
@@ -53,10 +49,14 @@ thumbnail: https://thmb.techidaily.com/613172768f05bc30ced4453cadcdb6862cbaab1d0
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-the-game-as-an-administrator.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Restart the game to test. If the crashes reoccur, continue to the second fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2 – Use the dedicated GPU
 
@@ -67,11 +67,15 @@ thumbnail: https://thmb.techidaily.com/613172768f05bc30ced4453cadcdb6862cbaab1d0
 2. Click**Browse** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/use-dedicated-card-2.jpg)
 3. Navigate to the game’s installation folder and add the Deathloop.exe file.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/use-dedicated-card.jpg)
 4. Click**Options** .  
@@ -79,11 +83,11 @@ thumbnail: https://thmb.techidaily.com/613172768f05bc30ced4453cadcdb6862cbaab1d0
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/use-dedicated-card-3.jpg)
 5. Select**High performance** and click**Save** .  
 
-![](https://images.drivereasy.com/wp-content/uploads/2021/09/use-dedicated-card-4.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/09/use-dedicated-card-4.jpg)
 
 ### Fix 3 – Update your graphics driver
 
@@ -101,14 +105,10 @@ thumbnail: https://thmb.techidaily.com/613172768f05bc30ced4453cadcdb6862cbaab1d0
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/amd-6800xt.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Reboot your computer after the driver update completes, and check if Deathloop still crashes. If so, try the next solution.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4 – Temporarily disable third-party software
@@ -135,12 +135,24 @@ You can also close all unnecessary apps in the background. Here is how:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. Right-click Deathloop and click**Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/verify-game-files-3.jpg)
 3. Click**Local Files** on the left and click**Verify integrity of game files** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/verify-game-files-2-1.jpg)
 
  It will take several minutes for the detecting and repairing to complete. Once done, relaunch Deathloop to check whether the issue gets fixed. If not, move on to the last solution below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6 – Turn off overlay
 
@@ -153,15 +165,7 @@ You can also close all unnecessary apps in the background. Here is how:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/disable-steam-overlay-1.jpg)
 3. Select**In-Game** from the left. Then untick**Enable the Steam Overlay while in-game** , and click **OK** to save the changes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/disable-steam-overlay-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### On Discord
 
@@ -169,10 +173,6 @@ You can also close all unnecessary apps in the background. Here is how:
 2. Click the **cogwheel icon** at the bottom of the left pane.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/7-2-1-1.jpg)
 3. Select the **Overlay** tab in the left pane and toggle off **Enable in-game overlay** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/7-2-2.jpg)
 
@@ -197,16 +197,17 @@ You can also close all unnecessary apps in the background. Here is how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-the-complete-rundown-of-essential-youtube-video-downloading-apps-android/"><u>[New] In 2024, The Complete Rundown of Essential YouTube Video Downloading Apps (Android)</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-pioneering-macstreaming-avoiding-common-pitfalls-in-mixer/"><u>2024 Approved Pioneering MacStreaming Avoiding Common Pitfalls in Mixer</u></a></li>
-<li><a href="https://win-answers.techidaily.com/defeat-the-glitches-handy-tips-for-stable-gameplay-on-your-valheim-pc-installation/"><u>Defeat the Glitches: Handy Tips for Stable Gameplay on Your Valheim PC Installation</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/discover-the-magic-of-chatgpt-a-showcase-of-innovative-ai-powered-masterpieces/"><u>Discover the Magic of ChatGPT: A Showcase of Innovative AI-Powered Masterpieces</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-pc-issues-how-to-prevent-darkest-dungeon-2-from-crashing/"><u>Fixing PC Issues: How to Prevent Darkest Dungeon 2 From Crashing</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-delayed-response-time-in-cyberpunk-2077-gaming/"><u>Fixing the Delayed Response Time in Cyberpunk 2077 Gaming</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-premium-no-cost-vectors-and-graphic-hubs-roundup/"><u>In 2024, Premium No-Cost Vectors & Graphic Hubs Roundup</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/learn-to-speak-text-mastering-ms-words-recognition-capabilities/"><u>Learn to Speak Text Mastering MS Word's Recognition Capabilities</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcome-pc-issues-with-persona-abler-strikers-a-comprehensive-guide-to-resolving-game-crashes/"><u>Overcome PC Issues with Persona Abler Strikers: A Comprehensive Guide to Resolving Game Crashes</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/peculiar-pratfalls-memes-tailored-for-the-perfect-moment-for-2024/"><u>Peculiar Pratfalls Memes Tailored for the Perfect Moment for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-a-nonfunctional-start-menu-on-windows-11-resolved/"><u>Troubleshooting a Nonfunctional Start Menu on Windows 11 - Resolved!</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-from-scratch-building-a-lighthearted-image-meme/"><u>[New] From Scratch Building a Lighthearted Image Meme</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-step-by-step-android-guide-to-enjoy-virtual-reality/"><u>[New] Step-by-Step Android Guide to Enjoy Virtual Reality</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-how-can-you-screen-record-snapchat-on-mobile-phone-for-2024/"><u>[Updated] How Can You Screen Record Snapchat on Mobile Phone for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-step-into-the-future-mastering-instagram-filters-for-enhanced-imagery/"><u>[Updated] In 2024, Step Into the Future Mastering Instagram Filters for Enhanced Imagery</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-ultimate-psd-style-boosting/"><u>[Updated] In 2024, Ultimate PSD Style Boosting</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-overcoming-non-reactive-rust-code-errors/"><u>Expert Advice: Overcoming Non-Reactive Rust Code Errors</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harmonizing-sounds-seamless-transitions-in-ableton-live-for-2024/"><u>Harmonizing Sounds Seamless Transitions in Ableton Live for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/immediate-relief-for-queued-print-tasks/"><u>Immediate Relief for Queued Print Tasks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723009298360-pc-troubles-heres-a-guide-to-stop-fifa-world-rally-championship-wrc-10-from-crashing/"><u>PC Troubles? Here's a Guide to Stop FIFA World Rally Championship WRC 10 From Crashing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/proven-strategies-for-successful-green-screen-videography-for-2024/"><u>Proven Strategies for Successful Green Screen Videography for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-fix-for-gears-5-stability-issues-and-sudden-crashes-tips-and-solutions/"><u>Ultimate Fix for 'Gears 5' Stability Issues and Sudden Crashes - Tips & Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/valheim-performance-optimization-guide-secrets-to-solving-low-fps-issues/"><u>Valheim Performance Optimization Guide: Secrets to Solving Low FPS Issues</u></a></li>
 </ul></div>
 

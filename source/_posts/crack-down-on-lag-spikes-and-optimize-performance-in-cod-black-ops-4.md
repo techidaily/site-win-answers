@@ -1,7 +1,7 @@
 ---
 title: "Crack Down on Lag Spikes and Optimize Performance in Cod: Black Ops 4"
-date: 2025-01-15T19:25:03.632Z
-updated: 2025-01-18T03:33:55.680Z
+date: 2025-01-18T16:04:45.157Z
+updated: 2025-01-24T16:31:55.298Z
 tags:
   - win11
   - win10
@@ -35,10 +35,6 @@ You may not have to try them all. Just choose the one you need.
  **What is FPS?**
  FPS stands for**frames per second** . Basically, it measures how many images a GPU can render and how many images it can display in a second as well. The higher the FPS, the better the graphics and in-game transitions are.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 1: Optimize your in-game settings
 
  Improper game settings can lower your game’s FPS and undermine your gaming performance. In this case, optimizing your in-game settings can help. Here is how to do it:
@@ -54,7 +50,7 @@ You may not have to try them all. Just choose the one you need.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-27-1024x558.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Click**Apply** , then relaunch your game.
@@ -99,13 +95,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-358.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 3: Change the power option
 
@@ -115,6 +111,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-737.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Under **View by,** click **Large icons** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-720.png)
@@ -123,19 +123,19 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-721.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)** Select **High Performance** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-738.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Restart your computer, and then relaunch your game to see if this worked for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 4: Configure your graphics settings
 
@@ -159,26 +159,30 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-37.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Select**Ring of Elysium** , and then click**Add Selected Program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-38.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Modify the settings following the screenshot below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-41.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### If you’re using an AMD graphics product…
 
 **1)** Right-click**your desktop** , and select**AMD Radeon Settings.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-47.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)** Click**Gaming** , then**Global Settings** .
 
@@ -187,10 +191,6 @@ OR
 **3)** Modify the settings following the screenshot below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-42-1024x459.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 5: Overclock your GPU
 
@@ -221,18 +221,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-discovering-the-roots-of-visual-content-through-reverse-scans-fb/"><u>[Updated] 2024 Approved Discovering the Roots of Visual Content Through Reverse Scans (FB)</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-elevating-tiktok-visuals-with-monumental-head-effects/"><u>[Updated] In 2024, Elevating TikTok Visuals with Monumental Head Effects</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-the-best-practices-for-silent-film-making/"><u>[Updated] In 2024, The Best Practices for Silent Film Making</u></a></li>
-<li><a href="https://extra-information.techidaily.com/capture-and-crop-with-ios-top-iphone-apps-reviewed-for-2024/"><u>Capture & Crop with iOS Top iPhone Apps Reviewed for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-advice-dealing-with-origin-not-starting-properly-under-windows-11-environment/"><u>Expert Advice: Dealing With 'Origin' Not Starting Properly Under Windows 11 Environment</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723007065050-how-to-stop-frostpunk-crashes-expert-tips-and-solutions-inside/"><u>How To Stop Frostpunk Crashes: Expert Tips and Solutions Inside</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-honor-90-pro-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Honor 90 Pro Screen | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/master-the-technique-of-dealing-with-mir4-crashes-on-desktop-computers/"><u>Master the Technique of Dealing with MIR4 Crashes on Desktop Computers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/new-world-fixed-version-with-enhanced-stability-no-more-freezing-issues/"><u>New World - Fixed Version with Enhanced Stability: No More Freezing Issues</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/simplified-methods-to-close-unused-social-media-linkedin-account-for-2024/"><u>Simplified Methods to Close Unused Social Media (LinkedIn) Account for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-for-fixing-windows-grounded-issues-on-pc/"><u>Troubleshooting Guide for Fixing Windows 'Grounded' Issues on PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-stop-starfield-from-crashing-or-hanging-in-your-pc/"><u>Troubleshooting Tips: Stop Starfield From Crashing or Hanging in Your PC</u></a></li>
-<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-on-iphone-13-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication On iPhone 13? 5 Tips You Must Know</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-innovative-screen-use-creating-picture-in-picture-videos-on-macos/"><u>[New] Innovative Screen Use Creating Picture in Picture Videos on macOS</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-decrease-environmental-noise-in-video-recordings/"><u>[Updated] Decrease Environmental Noise in Video Recordings</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-step-beyond-boundaries-with-innovative-wins11-titles/"><u>[Updated] In 2024, Step Beyond Boundaries with Innovative Wins11 Titles</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1-simple-guide-how-to-download-your-favorite-party-tunes/"><u>1. Simple Guide: How to Download Your Favorite Party Tunes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/vlcyoutube-mrl/"><u>対処法：VLCでYouTube MRLが認識されない場合</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1726027673820-twitter/"><u>使い慣れたTwitter動画ダウンローダーの活用：迷わずエフェクティブなビデオリッピング手順</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1726026360950-dvd/"><u>専門家が選ぶ！安全で高画質な「アダルトDVDコピー方法」</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chaos-to-calm-9-chatgpt-strategies-for-simplified-living/"><u>Chaos to Calm: 9 ChatGPT Strategies for Simplified Living</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1726026518597-gif/"><u>GIFへのカメラ画像変換手順ガイド</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Vivo V29? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-share-your-picture-posting-to-youtube-basics/"><u>In 2024, Share Your Picture Posting to YouTube Basics</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-playbook-for-watching-live-world-class-cricket-games/"><u>The Ultimate Playbook for Watching Live, World-Class Cricket Games</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-esd-and-its-transformation-into-iso-format-for-pcs/"><u>Understanding ESD and Its Transformation Into ISO Format for PCs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/web3googleseo/"><u>Web会議簡単録音術3つのスキル:Google検索向けSEOタイトル</u></a></li>
+<li><a href="https://win-answers.techidaily.com/windowsmov-6/"><u>WindowsでMOV動画スムーズ視聴! おすすめの6つの無料再生ソフトリスト🍿</u></a></li>
 </ul></div>
 

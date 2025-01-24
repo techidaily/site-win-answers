@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Halo Infinite's Frame Rate & Stuttering Problem Solved"
-date: 2024-08-19T00:33:05.577Z
-updated: 2024-08-20T00:33:05.577Z
+date: 2025-01-22T18:24:02.765Z
+updated: 2025-01-24T17:52:19.402Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/d5d13fb577cc5620ebbaf2970abea56dace77d9e5
 
 Does**Grand Theft Auto** (**GTA** ) **5 stutter**  whenever you’re in the middle of the game or launching the game on your computer? We understand how frustrating it is. But don’t worry. There is something you can do to fix GTA 5 stuttering issues.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  There’re 5 fixes that have helped many gamers solve their problems. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -30,23 +27,6 @@ Does**Grand Theft Auto** (**GTA** ) **5 stutter**  whenever you’re in the midd
 4. [**Update graphics card driver**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Turn off VSync**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ### Fix 1: Bigger free space
 
  Enough hard drive is important for a game. A game will use free space on the storage drive to cache when it’s launching. If you leave a litter free space on a hard drive, the game’s speed would be limited. So to fix the GTA 5 stuttering issue, you could move the game into a bigger solid hard drive. And you’d better end other background processes when you launch the game.
@@ -60,11 +40,13 @@ Key features:
 1. Open GTA 5 **SETTINGS** .
 2. Click **Advanced Graphics** and find **Extended Distance Scaling.**
 3. Reduce it to the lowest cause the higher it would cost more video memory.  
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/close.jpg)
 4. Click**Graphics** and find**Refresh Rate** . Keep it around 60Hz or smaller to limit your FPS.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/refresh.jpg)
 5. Relaunch the game to check.
 
@@ -76,15 +58,9 @@ Key features:
 2. Right-click on the**GTA5.exe** .
 3. Click**Properties** .
 4. In the**Compatibility** mode, check the**Disable full-screen optimisations** box.  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/full.jpg)
 5. Relaunch the game and check.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Update graphics card driver
 
  The GTA stuttering issue could relate to graphics quality. To improve the game graphics quality, update the graphics card driver is a good option. Because with outdated or wrong drivers, you may encounter the GTA 5 stuttering issue or other problems.
@@ -111,17 +87,27 @@ OR
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Relaunch the game and check whether it will stutter or not.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Turn off VSync
 
@@ -133,6 +119,11 @@ To do so:
 2. Click **Graphics** and scroll down. Find **VSync** and turn it **OFF** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/off.jpg)  
  If it’s already **OFF** , try turning it**ON** , then restart your game and **turn VSync** **OFF** again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Restart your PC and GTA 5 again to see if it works.
 
  Hopefully, the above methods can help. If you have any questions, ideas or suggestions, please feel free to leave your comments.
@@ -145,8 +136,6 @@ To do so:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -154,4 +143,18 @@ To do so:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-the-gentle-art-of-stepping-back-from-discords-for-2024/"><u>[New] The Gentle Art of Stepping Back From Discords for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-xiaomi-redmi-k70e-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Xiaomi Redmi K70E to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/chromebookdvd/"><u>Chromebookに最適なDVD再生ソフトウェアの選び方詳しく解説</u></a></li>
+<li><a href="https://win-answers.techidaily.com/complete-guide-mastering-every-download-technique-from-simple-links-to-complex-videos/"><u>Complete Guide: Mastering Every Download Technique From Simple Links to Complex Videos</u></a></li>
+<li><a href="https://common-error.techidaily.com/conquering-gpu-overuse-by-the-dwm-a-guide-to-5-strategies-for-better-efficiency-in-windows-operating-systems/"><u>Conquering GPU Overuse by the DWM: A Guide to 5 Strategies for Better Efficiency in Windows Operating Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/diy-video-customization-with-stickers-a-comprehensive-guide-for-pc-and-mobile-devices/"><u>DIY Video Customization with Stickers - A Comprehensive Guide for PC and Mobile Devices</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easy-steps-to-edit-gopro-footage-using-an-intuitive-video-editing-tool/"><u>Easy Steps to Edit GoPro Footage Using an Intuitive Video Editing Tool</u></a></li>
+<li><a href="https://win-answers.techidaily.com/essential-video-editing-apps-ranked-for-starters-your-ultimate-list-of-the-years-top-picks/"><u>Essential Video Editing Apps Ranked for Starters: Your Ultimate List of the Year's Top Picks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-missing-openal32dll-file-not-found-issue-on-your-computer/"><u>Resolving the 'Missing openal32.dll' File Not Found Issue on Your Computer</u></a></li>
+<li><a href="https://extra-information.techidaily.com/revolutionize-your-mini-pc-game-the-gem1n-pros-new-amd-7805hs-chip-miniscule-monitor-and-oculink-features-unveiled/"><u>Revolutionize Your Mini PC Game: The Gem1n Pro's New AMD 7805HS Chip, Miniscule Monitor & OCuLink Features Unveiled</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722862532724-usb-tethering-not-working-heres-what-to-do-next/"><u>USB Tethering Not Working? Here's What to Do Next!</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fix Elden Ring's Lag Issues in Just 6 Swift Solutions
-date: 2025-01-16T16:34:18.494Z
-updated: 2025-01-18T07:58:46.861Z
+date: 2025-01-19T18:31:32.445Z
+updated: 2025-01-24T18:29:33.339Z
 tags:
   - win11
   - win10
@@ -60,7 +60,7 @@ After Watch Dogs and Valhalla, Ubisoft recently released another sandbox title i
  If your rig is powerful enough for the game, check out the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Verify the integrity of game files
@@ -74,11 +74,23 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/ifr-verify-1.jpg)
 3. From the left menu, select**Properties** . Under the**Local Files** section, click**Verify files** . Then wait for the checking to complete.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/ifr-verify-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once completed, launch Immortals Fenyx Rising and see if it crashes again.
 
 If this method doesn’t help, you can take a look at the next one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -104,26 +116,14 @@ If this method doesn’t help, you can take a look at the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your computer and see if Immortals Fenyx Rising crashes again.
 
  If updating your graphics driver doesn’t solve your problem, you can take a look at the next method below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Install all Windows updates
 
@@ -135,11 +135,11 @@ And here’s how you can make sure your system is the latest:
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click **Check for updates** . Then wait for Windows to download and install available updates automatically.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
@@ -164,18 +164,24 @@ And here’s how you can make sure your system is the latest:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-flex-your-viewing-muscles-handling-multiple-youtube-videos/"><u>[New] 2024 Approved Flex Your Viewing Muscles Handling Multiple YouTube Videos</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solved-league-of-legends-crashing-quickly-and-easily/"><u>[SOLVED] | League of Legends Crashing | Quickly & Easily</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-banishing-unwanted-green-in-mac-recorded-youtube-content/"><u>[Updated] 2024 Approved Banishing Unwanted Green in Mac-Recorded YouTube Content</u></a></li>
-<li><a href="https://win-answers.techidaily.com/elden-rings-launch-put-on-hold-uncovering-the-causes-and-new-timeline/"><u>Elden Ring's Launch Put on Hold — Uncovering the Causes and New Timeline</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-remnant-from-the-ashes-no-more-crashing-problems/"><u>Fixing 'Remnant: From the Ashes' - No More Crashing Problems</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-realme-note-50-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Realme Note 50 Screen | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-the-pinnacle-of-visual-comfort-top-10-monitors-for-your-macbook-pro/"><u>In 2024, The Pinnacle of Visual Comfort Top 10 Monitors for Your MacBook Pro</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-tp-link-wifi-adapter-drivers-for-windows-1087-free-download/"><u>Latest TP-Link WiFi Adapter Drivers for Windows 10/8/7 - Free Download</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/merging-several-jpeg-images-into-a-single-pdf-file-a-step-by-step-guide/"><u>Merging Several JPEG Images Into a Single PDF File: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/optimizing-performance-fixing-gpu-usage-issues-in-warzone-for-windows-etitan-10-users/"><u>Optimizing Performance: Fixing GPU Usage Issues in Warzone for Windows eTitan 10 Users</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-7-reliable-fixes-to-stop-nba-2k23-from-crashing-on-your-pc/"><u>Top 7 Reliable Fixes to Stop NBA 2K23 From Crashing on Your PC!</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-8-sites-with-easy-access-to-free-3d-text-psd-images-for-2024/"><u>Top 8 Sites with Easy Access to Free 3D Text PSD Images for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/unlock-continuous-play-diablo-immortals-top-anti-crashing-hacks-for-gamers/"><u>Unlock Continuous Play: Diablo Immortal's Top Anti-Crashing Hacks for Gamers</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/nveiling-the-secrets-of-successful-youtube-videos-for-2024/"><u>[New] Unveiling the Secrets of Successful YouTube Videos for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-meditative-harmony-the-top-10-legally-accessible-chants-and-tracks/"><u>[Updated] In 2024, Meditative Harmony – The Top 10 Legally Accessible Chants & Tracks</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-securing-your-scene-minimize-camera-jostle/"><u>[Updated] Securing Your Scene Minimize Camera Jostle</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-financial-investment-for-youtube-ads-success/"><u>2024 Approved Financial Investment for Youtube Ads Success</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-ultimate-guide-cost-effective-pc-screen-recording-apps/"><u>2024 Approved Ultimate Guide Cost-Effective PC Screen Recording Apps</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-motorola-edge-40-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/education-reinvented-with-ai-top-5-school-applications-of-chatgpt/"><u>Education Reinvented with AI: Top 5 School Applications of ChatGPT</u></a></li>
+<li><a href="https://win-blog.techidaily.com/experience-quick-downloads-with-these-fixes-to-enhance-your-ubisoft-connect-speed/"><u>Experience Quick Downloads with These Fixes to Enhance Your Ubisoft Connect Speed</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-share-on-apple-iphone-12-drfone-by-drfone-ios/"><u>In 2024, How to Screen Share on Apple iPhone 12? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-class-eliminate-stuttering-for-smoother-age-of-empires-4-gaming-experience/"><u>Master Class: Eliminate Stuttering for Smoother Age of Empires 4 Gaming Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/roblox-not-working-get-it-running-again-in-minutes-with-these-6-fixes-new-tips/"><u>Roblox Not Working? Get It Running Again in Minutes with These 6 Fixes - New Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-strategies-for-converting-mov-videos-to-mp4-with-windows-10-a-comprehensive-how-to/"><u>Top Strategies for Converting MOV Videos to MP4 with Windows 10 - A Comprehensive How-To</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-compact-tablets-in-depth-analysis-by-tech-experts-zdnet/"><u>Top-Rated Compact Tablets - In-Depth Analysis by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-and-fixing-the-dreaded-steam-error-code-130-successfully/"><u>Troubleshooting and Fixing the Dreaded Steam Error Code 130 Successfully</u></a></li>
+<li><a href="https://win-answers.techidaily.com/tubitv-ultimate-guide-easy-installation-and-hdr-streaming-with-the-kodi-add-on/"><u>TubiTV Ultimate Guide: Easy Installation & HDR Streaming with the Kodi Add-On</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-list-of-the-top-11-best-pc-sound-capture-tools-for-home-studios/"><u>Ultimate List of the Top 11 Best PC Sound Capture Tools for Home Studios</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unlock-the-full-potential-essential-guidance-for-using-winx-dvd-ripper-platinum-freely/"><u>Unlock the Full Potential: Essential Guidance for Using WinX DVD Ripper Platinum Freely</u></a></li>
+<li><a href="https://win-answers.techidaily.com/winning-over-graphics-card-detection-issues-msi-afterburner-on-windows-11-unveiled/"><u>Winning Over Graphics Card Detection Issues: MSI Afterburner on Windows 11 Unveiled</u></a></li>
+<li><a href="https://win-answers.techidaily.com/wonderfox-dvd/"><u>WonderFox DVDコンバータ完全な移行成功 - ありがとうございまして</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Overcoming FPS Drops in Counter-Strike 2: Essential Tweaks for a Smooth PC Gaming Experience"
-date: 2025-01-17T10:02:55.964Z
-updated: 2025-01-18T05:34:38.715Z
+date: 2025-01-17T16:59:29.102Z
+updated: 2025-01-24T16:35:38.865Z
 tags:
   - win11
   - win10
@@ -35,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/e9e9b7ca60047014bff6bb18f8c482a86a228fe45
 5. **[Delete the game cache files](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Adjust the in-game graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1 – Reboot your network
 
  Many players reported the Warzone dev error 6328 can be caused by network glitches. To see if that’s the case, try troubleshooting your router and modem.
@@ -47,13 +43,13 @@ thumbnail: https://thmb.techidaily.com/e9e9b7ca60047014bff6bb18f8c482a86a228fe45
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/modem.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 modem
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/router.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 wireless router
 
@@ -71,6 +67,10 @@ wireless router
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
@@ -94,6 +94,10 @@ wireless router
 
  Restart Warzone for the changes to take effect. See if you could get rid of the 6328 error now. If the problem persists, there are a few more fixes to try.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4 – Increase virtual memory
 
  Virtual memory serves as additional RAM when your computer gets low on memory. Increasing the virtual memory could be a helpful boost when you’re running resource-demanding applications like COD Warzone.
@@ -102,10 +106,6 @@ wireless router
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-1.jpg)
 2. Click**Settings** under the Performance section.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-2.jpg)
 3. Select the**Advanced** tab and click**Change** .  
 
@@ -113,18 +113,18 @@ wireless router
 4. Untick**Automatically manage paging file size for all drives** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-4-1.jpg)
 5. Select**C drive** and check **Custom size** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-5-1.jpg)
 6. Enter the **initial size** and **maximum size** depending on the amount of RAM your PC has, and click **OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Microsoft recommends you set the virtual memory no less than **1.5 times** and no more than **3 times** the amount of RAM on your computer. Here is a guide on [how to check RAM on your computer](https://tools.techidaily.com/drivereasy/download/) .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-6-1.jpg)
@@ -139,7 +139,7 @@ wireless router
  Restart the Battle.net client and see whether you could play Warzone as normal. If the game is still unplayable, try the last method.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6 – Adjust the in-game graphics settings
@@ -151,11 +151,11 @@ wireless router
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings1.jpg)
 3. Scroll down to the Details & Textures section and set_Texture Resolution_ and_Texture Filter Anisotropic_ to**Normal** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Save the changes and restart Warzone to test. Then the game should be running perfectly without the 6328 error code.
 
@@ -181,20 +181,16 @@ wireless router
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-in-depth-look-nikon-d7500-specifications/"><u>[New] In-Depth Look Nikon D7500 Specifications</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-optimize-viewing-the-finest-html5-video-solutions/"><u>[New] Optimize Viewing The Finest HTML5 Video Solutions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1-mastering-static-data-visualization-secure-your-charts-in-microsoft-excel/"><u>1. Mastering Static Data Visualization: Secure Your Charts in Microsoft Excel</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-capture-like-a-pro-gopro-model-comparison-guide/"><u>2024 Approved Capture Like a Pro Gopro Model Comparison Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/achieving-smooth-gameplay-tips-to-improve-fps-in-mass-effect-legendary-edition/"><u>Achieving Smooth Gameplay: Tips to Improve FPS in Mass Effect Legendary Edition</u></a></li>
-<li><a href="https://win-answers.techidaily.com/admitted-hiding-excel-proficiency-in-resume-here-are-8-critical-topics-you-must-understand-today/"><u>Admitted Hiding Excel Proficiency in Resume? Here Are 8 Critical Topics You Must Understand Today</u></a></li>
-<li><a href="https://win-answers.techidaily.com/creating-your-genealogy-chart-a-step-by-step-guide-using-microsoft-excel/"><u>Creating Your Genealogy Chart: A Step-by-Step Guide Using Microsoft Excel</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-strategies-for-interlinking-spreadsheets-in-microsoft-excel/"><u>Effective Strategies for Interlinking Spreadsheets in Microsoft Excel</u></a></li>
-<li><a href="https://win-answers.techidaily.com/essential-12-spreadsheet-commands-a-must-know-guide-for-all-excel-users/"><u>Essential 12 Spreadsheet Commands: A Must-Know Guide for All Excel Users</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-oppo-f23-5g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Oppo F23 5G Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Samsung Galaxy F54 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/in-depth-tutorial-on-effective-co-editing-techniques-for-microsoft-excel-users/"><u>In-Depth Tutorial on Effective Co-Editing Techniques for Microsoft Excel Users</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/leading-animals-in-play-androids-favorites-list/"><u>Leading Animals in Play Android's Favorites List</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/quick-fortnite-tile-sketch-a-30-second-guide/"><u>Quick Fortnite Tile Sketch A 30-Second Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-converting-mpeg-videos-to-mp4-format-across-different-systems-latest-techniques/"><u>Step-by-Step Guide: Converting MPEG Videos to MP4 Format Across Different Systems – Latest Techniques</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-from-solo-streamer-to-global-content-powerhouse/"><u>[New] From Solo Streamer to Global Content Powerhouse</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-best-practice-mp4-director-to-fb/"><u>[New] In 2024, Best Practice MP4 Director to FB</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-artisans-almanac-makeup-tools-and-more-on-youtube/"><u>[New] The Artisan's Almanac Makeup, Tools & More on Youtube</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/he-golden-threshold-of-youtubes-monetization-for-2024/"><u>[New] The Golden Threshold of YouTube's Monetization for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210553426-9781957956077-alone-in-grief/"><u>Alone in Grief | Free Book</u></a></li>
+<li><a href="https://win-answers.techidaily.com/decoding-the-puzzle-tips-for-fixing-black-ops-cold-wars-troublesome-error-code-883a-0005/"><u>Decoding the Puzzle: Tips for Fixing Black Ops Cold War's Troublesome Error CODE: 88^3A-0005</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/elevate-your-video-game-experience-with-the-recent-update-for-gtx-1660-ti-drivers/"><u>Elevate Your Video Game Experience with the Recent Update for GTX 1660 Ti Drivers</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-honor-play-8t-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Honor Play 8T to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolve-fortnites-video-memory-issues-a-step-by-step-guide/"><u>Resolve Fortnite's Video Memory Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722995532852-solving-the-halo-infinite-audio-glitch-no-more-stutters/"><u>Solving the Halo Infinite Audio Glitch: No More Stutters!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/winning-against-pc-game-glitches-fixing-frequent-f1-2020-crashes-successfully/"><u>Winning Against PC Game Glitches: Fixing Frequent F1 2020 Crashes Successfully</u></a></li>
 </ul></div>
 

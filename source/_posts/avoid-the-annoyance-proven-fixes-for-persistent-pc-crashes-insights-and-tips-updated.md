@@ -1,7 +1,7 @@
 ---
 title: "Avoid the Annoyance: Proven Fixes for Persistent PC Crashes - Insights & Tips (Updated )"
-date: 2025-01-15T04:53:03.860Z
-updated: 2025-01-18T00:58:15.899Z
+date: 2025-01-17T16:47:42.513Z
+updated: 2025-01-24T17:09:41.326Z
 tags:
   - win11
   - win10
@@ -42,6 +42,10 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. [Download the latest patch](https://tools.techidaily.com/drivereasy/download/)
@@ -49,13 +53,13 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 3. [Delete specific files from the save folder](https://tools.techidaily.com/drivereasy/download/)
 4. [Underclock your clock speed](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Download the latest patch
 
  If you haven’t been updated your game for a while, you can update your game. The official keeps releasing new patches, the latest version may solve the crashing issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Manage Virtual Memory
 
@@ -70,14 +74,22 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 4. Under**Virtual memory** , click**Change** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/3-2.jpg)
 5. Uncheck**Automatically manage paging file size for all drives** and make sure you’ve check**System managed size** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/4-2.jpg)
 6. Click**Set > OK** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7. Reboot your computer can check whether the crash will appear or not.
 
@@ -97,10 +109,6 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 ### Fix 4: Underclock your clock speed
 
  The game is built with an old Unreal Engine version. This may be the reason for the random crashes. You can underclock your CPU speed by 100 MHz or 150 MHz to see whether it helps or not.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Bonus: Update your drivers
 
@@ -129,15 +137,7 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Thanks for reading. Hope this article meets your need. And you are welcome to leave comments below.
 
@@ -158,15 +158,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-top-earning-youtube-star-globally/"><u>[New] 2024 Approved Top Earning YouTube Star Globally</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-prime-7-multimedia-players-for-macos/"><u>[New] Prime 7 Multimedia Players for MacOS</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-snapping-multiple-images-on-iphone-in-a-blink/"><u>2024 Approved Snapping Multiple Images on iPhone in a Blink</u></a></li>
-<li><a href="https://change-location.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/easy-steps-to-convert-excel-sheets-into-pdf-format/"><u>Easy Steps to Convert Excel Sheets Into PDF Format</u></a></li>
-<li><a href="https://win-answers.techidaily.com/easy-steps-modifying-cell-currency-format-in-microsoft-excel/"><u>Easy Steps: Modifying Cell Currency Format in Microsoft Excel</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-strategies-for-automatically-resizing-excel-cells-based-on-text-content-length/"><u>Effective Strategies for Automatically Resizing Excel Cells Based on Text Content Length</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-techniques-for-identifying-and-fixing-mistakes-in-excel-spreadsheets/"><u>Effective Techniques for Identifying and Fixing Mistakes in Excel Spreadsheets</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-go-joystick-on-poco-x6-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Poco X6? | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/leverage-youtube-on-instagram-stories-for-maximum-engagement/"><u>Leverage YouTube on Instagram Stories for Maximum Engagement</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ryu-ga-gotoku-like-a-dragon-unboxing-its-successful-port-to-your-personal-computer/"><u>'Ryu Ga Gotoku: Like a Dragon' – Unboxing Its Successful Port to Your Personal Computer</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-content-strategy-unleashed-top-8-youtube-ranks-explored/"><u>[New] 2024 Approved Content Strategy Unleashed - Top 8 YouTube Ranks Explored</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-the-thievery-t5-unboxing-your-ultimate-guide-to-action-capture/"><u>[Updated] In 2024, The Thievery T5 Unboxing - Your Ultimate Guide to Action Capture</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/burst-to-blast-android-apps-transform-slow-motion-for-2024/"><u>Burst to Blast Android Apps Transform Slow Motion for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/crafting-the-perfect-voice-and-vision-for-docs-for-2024/"><u>Crafting the Perfect Voice and Vision for Docs for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cyberpunk-2077-revamped-eliminating-lag-and-smoothing-gameplay-glitches/"><u>Cyberpunk 2077 Revamped: Eliminating Lag and Smoothing Gameplay Glitches</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/discover-the-ultimate-prime-day-savings-for-apple-enthusiasts/"><u>Discover the Ultimate Prime Day Savings for Apple Enthusiasts</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723012980361-experience-the-unstoppable-journey-of-yakuza-like-a-dragon-as-it-conquers-the-world-of-pc-gaming/"><u>Experience the Unstoppable Journey of Yakuza: Like a Dragon as It Conquers the World of PC Gaming!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fast-and-easy-fixes-for-your-league-of-legends-game-freezing-problems/"><u>Fast and Easy Fixes for Your League of Legends Game Freezing Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-and-solutions-troubleshooting-persona-4-goldens-system-errors/"><u>Fixes & Solutions: Troubleshooting Persona 4 Golden's System Errors</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-eliminate-lag-on-discord-comprehensive-solutions-handbook-2024-edition/"><u>How to Eliminate Lag on Discord - Comprehensive Solutions Handbook 2024 Edition</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-solve-roblox-not-starting-problem-latest-2022-tactics/"><u>How To Solve Roblox Not Starting Problem - Latest 2022 Tactics</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-honor-x9b-phone-without-pin-by-drfone-android/"><u>How to Unlock Honor X9b Phone without PIN</u></a></li>
+<li><a href="https://extra-information.techidaily.com/quick-quip-cinema-script/"><u>Quick Quip Cinema Script</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-monetization-matrix-how-maker-gains-from-shorter-videos/"><u>The Monetization Matrix How Maker Gains From Shorter Videos</u></a></li>
 </ul></div>
 

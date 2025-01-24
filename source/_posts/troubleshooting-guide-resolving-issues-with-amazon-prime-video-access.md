@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Resolving Issues with Amazon Prime Video Access"
-date: 2025-01-11T05:45:54.134Z
-updated: 2025-01-18T02:58:58.308Z
+date: 2025-01-18T16:49:38.069Z
+updated: 2025-01-24T18:38:22.442Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/1d6ebdf0f9be5148c3910502b3b0ab4551af7a691
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -50,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/1d6ebdf0f9be5148c3910502b3b0ab4551af7a691
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-166-1024x728.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) On your keyboard, press**the Windows logo key** and **R** at the same time to open the Run dialog. Then type **%ProgramData%**  and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/005.png)
@@ -57,6 +61,10 @@ thumbnail: https://thmb.techidaily.com/1d6ebdf0f9be5148c3910502b3b0ab4551af7a691
  3) In the pop-up window, double-click the**Origin**  folder to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap4-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Delete all the files and folders in this folder **except for the LocalContent folder** .
 
@@ -66,21 +74,17 @@ thumbnail: https://thmb.techidaily.com/1d6ebdf0f9be5148c3910502b3b0ab4551af7a691
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap6-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  6) In the pop-up window, delete the**Origin**  folder.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap274.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  7) Click**AppData** in the address bar.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap275.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  8) Double-click the**Local**  folder to open it.
 
@@ -90,15 +94,15 @@ thumbnail: https://thmb.techidaily.com/1d6ebdf0f9be5148c3910502b3b0ab4551af7a691
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/007.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  10) Restart your PC and Double-click the shortcut of Origin on your desktop.
 
  If Origin opens, you’ve resolved this issue. If not, try the next fix below to run the Program Compatibility Troubleshooter.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 2: update your graphics driver to the latest version**
 
@@ -147,29 +151,21 @@ Or
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap10-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click the**Compatibility** tab and click **Run compatibility troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap11-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click**Try recommended settings** to test-run program using recommended compatibility settings. Follow the on-screen instructions to see whether this troubleshooting option works or not.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/pasted-image-1-1-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) If it still doesn’t work, then run the Program Compatibility Troubleshooter again and**select the second option** **to choose compatibility settings based on problems you notice** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/pasted-image-2-1-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) If the problem persists, adjust the following settings manually and select**OK** when you’re done.
 
@@ -179,12 +175,16 @@ Or
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap11-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If this fix works, your Origin will open when you double-click its shortcut. If not, try the next fix, below.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Fix 4: Add Origin as an exception to your third-party antivirus application**
@@ -223,13 +223,13 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap262-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Click**Restart** to restart your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap263-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Run Origin and check whether the problem reappears when your PC restarts. If not, you need to open the**System Configuration** window again to enable services and applications**one by one** until you find the problematic software. After enabling each service, you need to **restart** your PC to apply the changes.
 
@@ -249,6 +249,10 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap267.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Restart your PC when the Windows update process completed.
 
  If this fix works, Origin will open when you double-click its shortcut on the desktop. If not, try the next fix to reinstall Origin.
@@ -266,10 +270,6 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
  i. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then type **control**  and press **Enter** to open**Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap7-1-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  ii. View Control Panel by **Category** , and then click **Uninstall a program** .
 
@@ -305,24 +305,16 @@ iv. Restart your Windows system when it is completed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-transform-text-to-trendsetter-with-top-5-tiktok-typography-in-23/"><u>[New] 2024 Approved Transform Text to Trendsetter with Top 5 TikTok Typography in '23</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-combining-skypes-ease-with-zooms-advanced-features/"><u>[New] Combining Skype's Ease with Zoom's Advanced Features</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-the-infographic-spectacle-of-youtubes-2017-data/"><u>[New] In 2024, The Infographic Spectacle of YouTube's 2017 Data</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ave-money-save-time-the-best-22-audio-crackers-for-youtube-downloads/"><u>[New] Save Money, Save Time The Best 22 Audio Crackers for YouTube Downloads</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-vision-brought-to-life-the-most-compelling-8-drawing-apps-for-iphones/"><u>[Updated] 2024 Approved Vision Brought to Life The Most Compelling 8 Drawing Apps for iPhones</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-from-selfie-to-toon-top-rated-apps-for-cartoon-style-photos/"><u>2024 Approved From Selfie to Toon Top-Rated Apps for Cartoon-Style Photos</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-techniques-to-prevent-dropouts-in-obs-studio/"><u>2024 Approved Techniques to Prevent Dropouts in OBS Studio</u></a></li>
-<li><a href="https://fox-access.techidaily.com/enhancing-virtual-meetings-zooming-up-your-skype-game/"><u>Enhancing Virtual Meetings Zooming Up Your Skype Game</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-cyber-currents-videos-flow-on-twitter-wave/"><u>In 2024, Cyber Currents Videos Flow on Twitter Wave</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-always-on-top-features-the-ultimate-guide-to-keep-windows-at-the-forefront-windows-1011/"><u>Mastering Always-On-Top Features: The Ultimate Guide to Keep Windows at the Forefront (Windows 10/11)</u></a></li>
-<li><a href="https://win-answers.techidaily.com/microsoft-announces-newly-updated-windows-11-version-kb5/"><u>Microsoft Announces Newly Updated Windows 11 Version: KB5</u></a></li>
-<li><a href="https://win-answers.techidaily.com/microsoft-reintroduces-recall-feature-in-latest-windows-11-update/"><u>Microsoft Reintroduces Recall Feature in Latest Windows 11 Update</u></a></li>
-<li><a href="https://win-answers.techidaily.com/microsoft-revamps-unpopular-recall-feature-in-windows-a-user-friendly-update-coming-soon/"><u>Microsoft Revamps Unpopular Recall Feature in Windows - A User-Friendly Update Coming Soon!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/navigating-your-pcs-bios-options-essential-tweaks-for-optimal-performance/"><u>Navigating Your PC's BIOS Options: Essential Tweaks for Optimal Performance</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-synchronizing-sounds-with-imagery-the-quintet-of-premium-and-free-music-visualizers-to-watch-for-2024/"><u>New Synchronizing Sounds with Imagery The Quintet of Premium & Free Music Visualizers to Watch for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/nvidia-streamlines-pc-application-suite-for-enhanced-user-experience/"><u>NVIDIA Streamlines PC Application Suite for Enhanced User Experience</u></a></li>
-<li><a href="https://win-answers.techidaily.com/optimizing-pc-performance-avoid-gaming-disruptions-with-windows-altplustab-and-sticky-keys/"><u>Optimizing PC Performance: Avoid Gaming Disruptions with Windows, Alt+Tab & Sticky Keys</u></a></li>
-<li><a href="https://win-answers.techidaily.com/protect-your-data-effective-strategies-against-onedrive-vulnerabilities/"><u>Protect Your Data: Effective Strategies Against OneDrive Vulnerabilities</u></a></li>
-<li><a href="https://win-answers.techidaily.com/random-shutdowns-on-your-windows-machine-here-are-8-common-reasons-and-fixes/"><u>Random Shutdowns on Your Windows Machine? Here Are 8 Common Reasons and Fixes</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-beginners-path-vrecord-instalment-manual-for-2024/"><u>[Updated] Beginners' Path VRecord Instalment Manual for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-hobbyist-to-pro-professionalizing-gopro-videos/"><u>2024 Approved From Hobbyist to Pro Professionalizing GoPro Videos</u></a></li>
+<li><a href="https://games-able.techidaily.com/easier-way-to-discover-if-pcs-cpu-is-bottl-written-by/"><u>Easier Way to Discover If PC’s CPU Is Bottl Written By</u></a></li>
+<li><a href="https://win-answers.techidaily.com/get-back-to-vr-gaming-swift-solutions-for-steamvr-malfunctions/"><u>Get Back to VR Gaming: Swift Solutions for SteamVR Malfunctions</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Vivo X100? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-the-fixes-ensuring-smooth-gameplay-of-diablo-n-in-cross-platform-play/"><u>Master the Fixes: Ensuring Smooth Gameplay of Diablo N in Cross-Platform Play</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/navigating-tech-issues-professional-insights-into-software-usage-functionality-and-common-bugs/"><u>Navigating Tech Issues: Professional Insights Into Software Usage, Functionality, and Common Bugs</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/remote-deletion-tactics-clearing-information-off-your-ios-devices-safely/"><u>Remote Deletion Tactics: Clearing Information Off Your iOS Devices Safely</u></a></li>
+<li><a href="https://win-answers.techidaily.com/successful-techniques-for-stabilizing-and-boosting-game-frames-per-second/"><u>Successful Techniques for Stabilizing and Boosting Game Frames Per Second</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-how-to-resolve-the-sims-amo-graphic-card-problems/"><u>Troubleshooting Guide: How to Resolve The Sims Amo Graphic Card Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/winning-over-crashes-avoid-maplestory-problems-in-windows-11-with-these-new-strategies/"><u>Winning Over Crashes: Avoid MapleStory Problems in Windows 11 with These New Strategies</u></a></li>
 </ul></div>
 

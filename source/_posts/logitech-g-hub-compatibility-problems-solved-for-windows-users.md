@@ -1,7 +1,7 @@
 ---
 title: Logitech G Hub Compatibility Problems Solved for Windows Users
-date: 2025-01-12T16:15:56.014Z
-updated: 2025-01-17T16:01:51.631Z
+date: 2025-01-22T18:05:45.194Z
+updated: 2025-01-24T16:10:59.850Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ It’s frustrating when you experience the launching problem when playing Age of
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixes to try
 
@@ -58,10 +54,6 @@ It’s frustrating when you experience the launching problem when playing Age of
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_10-27-44.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **5)** Click the**Compatibility tab** , then check the box next to**Run this program as an administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_10-29-02.jpg)
@@ -70,9 +62,17 @@ It’s frustrating when you experience the launching problem when playing Age of
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_10-29-02-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **7)** Restart your game to test your issue.
 
 If AoE still won’t launch, move on and try the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -91,7 +91,7 @@ If AoE still won’t launch, move on and try the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-40-48-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support and a 30-day money back guarantee** . You’ll be prompted to upgrade when you click Update All.)
@@ -101,16 +101,12 @@ If AoE still won’t launch, move on and try the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-20_11-14-00-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 **4)** Restart your game to see if updating your graphics driver fixed the issue for you. If no, then go ahead with the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Verify the integrity of your game files
 
@@ -123,7 +119,7 @@ If AoE still won’t launch, move on and try the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_10-42-26.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Right-click **Age of Empires II** and select **Properties** .
@@ -159,6 +155,10 @@ If AoE still won’t launch, move on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_11-14-21.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Restart **your computer** .
 
 **5)** Reinstall the game on your PC, then restart the game.
@@ -176,30 +176,26 @@ If the issue continues to occur, go to the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/01-18_10-54-08-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Click**Reset** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_11-05-16-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Go back to**App& features** , select**Age of Empires** and click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/01-18_10-54-08-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **5)** Download Age of empires from Microsoft Store, and reinstall it.
 
 **6)** Try launching AoE 2 to see if this helped.
 
 If your game still won’t load, then move on to the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Check for Windows updates
 
@@ -208,6 +204,10 @@ If your game still won’t load, then move on to the next fix below.
 **1)**  On your keyboard, press the **Windows logo**  key. Then, type **windows update** and select **Windows Update settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_11-12-20.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
@@ -238,17 +238,18 @@ If your game still won’t load, then move on to the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-spy-on-fb-chronicles-discreetly/"><u>[New] 2024 Approved Spy on FB Chronicles Discreetly</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-leading-tools-for-customizable-screenshot-capabilities-for-2024/"><u>[New] Leading Tools for Customizable Screenshot Capabilities for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-pro-tips-iphone-in-the-dark-spotlight-for-2024/"><u>[New] Pro Tips IPhone in the Dark Spotlight for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-adopting-innovations-mask-and-filter-methods-for-google-meet/"><u>[Updated] Adopting Innovations Mask & Filter Methods for Google Meet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/auto-gpts-self-sufficiency-questioned/"><u>Auto-GPT's Self-Sufficiency Questioned</u></a></li>
-<li><a href="https://win-answers.techidaily.com/beat-the-slow-down-expert-fixes-for-assassins-creed-valhalla-latency/"><u>Beat the Slow Down: Expert Fixes for Assassin's Creed: Valhalla Latency</u></a></li>
-<li><a href="https://fox-access.techidaily.com/evaluating-ffmpegs-mastery-in-untouched-audio-extraction-techniques/"><u>Evaluating FFmpeg's Mastery in Untouched Audio Extraction Techniques</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fatal-ark-malfunction-your-ultimate-fix-and-prevention-strategy-explained/"><u>Fatal ARK Malfunction? Your Ultimate Fix and Prevention Strategy Explained</u></a></li>
-<li><a href="https://win-answers.techidaily.com/optimize-your-play-eradicate-crashes-and-stuttering-in-serious-sam-4-for-windows/"><u>Optimize Your Play: Eradicate Crashes and Stuttering in Serious Sam 4 for Windows</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/0-innovative-yt-reactions-for-engaging-content-for-2024/"><u>Top 10 Innovative YT Reactions for Engaging Content for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-prevent-and-solve-your-nioh-2-game-crashes/"><u>Troubleshooting Tips: Prevent and Solve Your Nioh 2 Game Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-fix-for-apex-legends-engine-malfunctions-steps-and-solutions/"><u>Ultimate Fix for Apex Legends Engine Malfunctions - Steps & Solutions</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-driveease-expert-analysis/"><u>[New] In 2024, DriveEase Expert Analysis</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-which-live-stream-software-wins-exploring-obs-vs-streamlabs/"><u>[New] In 2024, Which Live Stream Software Wins? Exploring OBS Vs. Streamlabs</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-low-cost-gopro-cameras-where-to-find-them/"><u>[New] Low-Cost GoPro Cameras Where to Find Them</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-chivalry-2-crash/"><u>[Solved] Chivalry 2 Crash</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-ultimate-choice-15-superior-action-recorders/"><u>2024 Approved Ultimate Choice 15 Superior Action Recorders</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722973406413-brother-hl-l2370dw-driver-update-enhanced-features-and-compatibility-download-today/"><u>Brother HL-L2370DW Driver Update: Enhanced Features & Compatibility - Download Today</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-oppo-reno-10-5g-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Oppo Reno 10 5G Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-troubles-heres-how-to-fix-the-solved-ascent-game-crashes/"><u>PC Troubles? Here's How to Fix the [SOLVED] Ascent Game Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stable-gaming-experience-with-assassins-creed-syndicate-fix-crashes-and-optimize/"><u>Stable Gaming Experience with Assassin's Creed Syndicate: Fix Crashes and Optimize</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-mystery-of-the-non-launching-app-ascent-a-resolved-issue/"><u>The Mystery of the Non-Launching App 'Ascent': A Resolved Issue</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-pacifica-drives-step-by-step-guide-to-resolve-startup-issues/"><u>Troubleshooting Pacifica Drives - Step-by-Step Guide to Resolve Startup Issues</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-artificial-intelligence-the-basics-of-transfer-learning-explained/"><u>Understanding Artificial Intelligence: The Basics of Transfer Learning Explained</u></a></li>
+<li><a href="https://win-answers.techidaily.com/winning-over-latency-effective-solutions-for-outriders-lag-issues/"><u>Winning Over Latency: Effective Solutions for Outriders Lag Issues</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Bypassing Phasmophobia's Endless 90%% Load Screen Challenge in 202E
-date: 2025-01-12T01:29:08.112Z
-updated: 2025-01-18T01:51:02.043Z
+date: 2025-01-22T16:42:26.037Z
+updated: 2025-01-24T17:21:17.023Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -38,15 +38,15 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 * [Fix 8: Disable fullscreen optimizations](https://tools.techidaily.com/drivereasy/download/)
 * [Fix 9: Try Phasmophobia beta version](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Restart your computer
 
  If you haven’t done this yet, give it a shot. A simple restart will reset your software and desktop environment and can often fix software glitches like this.
 
  If you encounter the crashing issue again when playing Phasmophobia, move on to the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Verify the integrity of game files
 
@@ -58,21 +58,17 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-properties.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Under the**Installed Files** tab, click**Verify integrity of game files** .
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Restart the game after the process is complete.
 
 If Phasmophobia still crashes, move on to the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Delete corrupted game files
 
@@ -85,10 +81,6 @@ Game crashing issues might happen when your game files are corrupted.
 3) Under the**LOCAL FILES** tab, click**Browse** ….
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-02_18-19-47.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Delete everything except these:
 
@@ -130,6 +122,10 @@ If the game still crashes, try the next fix below.
 
 If the crash still occurs, go ahead with the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Lower your graphics settings
 
  If your computer is not powerful enough to handle Phasmophobia, you may run into performance issues from time to time. One workaround for this is lowering your in-game graphics settings.
@@ -155,7 +151,7 @@ If the crash still occurs, go ahead with the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-22_16-23-03.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Launch the game to see if your problem has been resolved.
@@ -167,7 +163,7 @@ If Phasmophobia crashing issues persist, try the next fix below.
  If you’ve manually overclocked your GPU or CPU, revert it to its default GPU/CPU clock. And if you are using overclocking software, such as MSI Afterburner, please also disable the software when running the game.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 8: Disable fullscreen optimizations
@@ -185,6 +181,10 @@ If Phasmophobia crashing issues persist, try the next fix below.
  4) Relaunch the game to test your issue.
 
 If the problem still exists, try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 9: Try Phasmophobia beta version
 
@@ -217,16 +217,22 @@ If the problem still exists, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-snap-edit-share-your-initial-guide-to-lunapic/"><u>[New] Snap, Edit, Share Your Initial Guide to LunaPic</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solved-world-of-tanks-blitz-keeps-crashing/"><u>[Solved] World of Tanks Blitz Keeps Crashing</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-ace-your-marketing-game-top-5-youtube-techniques-unveiled/"><u>[Updated] Ace Your Marketing Game Top 5 YouTube Techniques Unveiled</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-humorous-highlights-create-with-kapwing-meme-maker/"><u>[Updated] In 2024, Humorous Highlights Create with Kapwing Meme Maker</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-simplify-your-marine-movie-projects-top-7-hacks/"><u>2024 Approved Simplify Your Marine Movie Projects Top 7 Hacks</u></a></li>
-<li><a href="https://win-answers.techidaily.com/black-ops-cold-war-troubleshooting-guide-overcoming-error-code-887a0005/"><u>Black Ops Cold War Troubleshooting Guide: Overcoming Error Code 887A0005</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fix-your-frozen-chromebook-with-these-8-proven-techniques/"><u>Fix Your Frozen Chromebook with These 8 Proven Techniques</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723010281172-fix-unable-to-connect-to-the-live-configuration-servers-error/"><u>Fix: ‘Unable to Connect to the Live Configuration Servers’ Error</u></a></li>
-<li><a href="https://win-answers.techidaily.com/getting-thx-spatial-sound-working-again-in-windows-111n-operating-systems/"><u>Getting Thx Spatial Sound Working Again in Windows 11/1N Operating Systems</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-vivo-y36i-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Vivo Y36i Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/optimizing-your-podcasts-the-seo-blueprint-for-2024/"><u>Optimizing Your Podcasts The SEO Blueprint for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-spectrum-of-autonomous-flight-machines-for-2024/"><u>[New] Spectrum of Autonomous Flight Machines for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-beautifying-videos-for-youtube-viewers/"><u>2024 Approved Beautifying Videos for YouTube Viewers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-double-fps-drop-in-your-pc-gameplay-experience/"><u>How to Fix Double FPS Drop in Your PC Gameplay Experience</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-nubia-red-magic-8s-proplus-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Nubia Red Magic 8S Pro+ to Outlook | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-facebook-live-the-world-in-minutes/"><u>In 2024, Facebook Live The World in Minutes</u></a></li>
+<li><a href="https://fox-info.techidaily.com/picsart-guide-adding-motion-blur-to-facial-shots-for-dynamic-images-for-2024/"><u>Picsart Guide Adding Motion Blur to Facial Shots for Dynamic Images for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-common-solutions-to-stop-the-ascent-from-crashing-on-windowspc/"><u>Resolved: Common Solutions to Stop 'The Ascent' From Crashing on Windows/PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-steps-why-cant-internet-explorer-present-my-web-page/"><u>Solution Steps: Why Can't Internet Explorer Present My Web Page?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-how-to-troubleshoot-and-play-team-fortress-2-successfully/"><u>Solved! How to Troubleshoot and Play Team Fortress 2 Successfully</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/start-your-wet-adventure-with-these-safe-camera-bundles/"><u>Start Your Wet Adventure with These Safe Camera Bundles</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-path-to-perpetual-fortune-in-pc-gaming-deciphering-everlast-crash/"><u>The Path to Perpetual Fortune in Pc Gaming: Deciphering 'Everlast Crash'</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-4-ways-for-apple-iphone-14-pro-max-to-mac-mirroring-drfone-by-drfone-ios/"><u>Top 4 Ways for Apple iPhone 14 Pro Max to Mac Mirroring | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-preventing-fifa-22-pc-edition-from-freezing-or-crashing/"><u>Troubleshooting Guide: Preventing FIFA 22 PC Edition From Freezing or Crashing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-pc-crashes-in-escape-from-tarkov-a-comprehensive-guide/"><u>Troubleshooting PC Crashes in Escape From Tarkov: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-troubleshooting-guide-resolving-latency-problems-in-naraka-bladepoint/"><u>Ultimate Troubleshooting Guide: Resolving Latency Problems in Naraka Bladepoint</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-the-best-free-imovie-replacements-you-need-to-know-about/"><u>Updated The Best Free iMovie Replacements You Need to Know About</u></a></li>
+<li><a href="https://some-tips.techidaily.com/what-to-expect-from-apple-watchs-new-version-unveiling-watchos-n-11s-improved-features-insights-by-zdnet/"><u>What to Expect From Apple Watch’s New Version - Unveiling WatchOS N 11’S Improved Features | Insights by ZDNET</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Football Manager 2021 PC Instability Issues: Comprehensive Troubleshooting Guide"
-date: 2025-01-10T17:56:47.991Z
-updated: 2025-01-17T18:36:11.313Z
+date: 2025-01-23T16:40:38.214Z
+updated: 2025-01-24T16:46:53.492Z
 tags:
   - win11
   - win10
@@ -48,20 +48,20 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 3. Click the**Update** button next to the flagged graphics card driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-2-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  The driver update should resolve the crashing issue and also boost the game’s performance. If not, try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2 – Verify the integrity of game files
 
@@ -75,7 +75,7 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 3. Select**Local Files** and then click**Verify Integrity of Game Files** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-3-4.jpg)
@@ -83,7 +83,7 @@ Football Manager 2021 is by far one of the most popular management simulator gam
  Wait until the process finishes and relaunch FM 21 to test. If your issue persists, take a look at more fixes below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3 – Temporarily disable your antivirus
@@ -99,6 +99,10 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 
 If this method doesn’t help, go ahead with the next fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4 – Delete the Preferences and Caches folder
 
  According to Sports Interactive, Football Manager 2021 crashing may be caused by the custom data, and the very solution is to remove the preferences and caches folder. Don’t worry as this will not affect your game progress.
@@ -113,10 +117,6 @@ If this method doesn’t help, go ahead with the next fix below.
 
 So does the crash go away now? If not, there is the last fix to try.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5 – Set launch options
 
  If you receive a specific DXGI\_ERROR\_DEVICE error message or an application error, the Football Manager 2021 crashing issue is related to your graphics card. That’s especially true if you’re using Intel GPUs. And you can launch the game with lower graphics settings and see how it works.
@@ -125,12 +125,12 @@ So does the crash go away now? If not, there is the last fix to try.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-1-5.jpg)
 2. Right-click**Football Manager 2021** and click**Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Click**Set Launch Options** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-3.jpg)
 4. Type**–config very\_low** in the text field and click**OK** .  
@@ -164,24 +164,21 @@ So does the crash go away now? If not, there is the last fix to try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-answers.techidaily.com/1723005490268-fixed-destiny-2-wont-launch-pc/"><u>[Fixed] Destiny 2 Won't Launch PC</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-capitalize-on-your-youtube-shorts-for-cash-flow/"><u>[New] In 2024, How to Capitalize on Your YouTube Shorts for Cash Flow</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-flying-high-hubsan-h501x4-drone-unveiled/"><u>[Updated] Flying High Hubsan H501X4 Drone Unveiled</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-pivot-and-merge-videos-with-ease-on-android-gadgets/"><u>2024 Approved Pivot and Merge Videos with Ease on Android Gadgets</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/8-best-video-conference-app-for-android-and-iphone-picked/"><u>8 Best Video Conference App for Android and iPhone (Picked)</u></a></li>
-<li><a href="https://win-answers.techidaily.com/chivalry-ii-troubleshooting-how-to-fix-frequent-game-crashes/"><u>Chivalry II Troubleshooting: How to Fix Frequent Game Crashes</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/different-methods-to-unlock-your-iphone-6s-plus-drfone-by-drfone-ios/"><u>Different Methods To Unlock Your iPhone 6s Plus | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/enhance-your-cameras-outputs-10-free-paid-upgrade-lut-sets-available/"><u>Enhance Your Cameras' Outputs 10 FREE, Paid-Upgrade LUT Sets Available</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-advice-for-quickly-enhancing-load-times-and-stability-in-assassins-creed-valhalla/"><u>Expert Advice for Quickly Enhancing Load Times and Stability in Assassin's Creed: Valhalla</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-tips-to-stop-detroit-become-human-game-from-crashing-on-desktop-systems/"><u>Expert Tips to Stop Detroit: Become Human Game From Crashing on Desktop Systems</u></a></li>
-<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-nubia-red-magic-8s-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/get-back-into-the-action-patched-warframe-wont-boot-problems/"><u>Get Back Into the Action: Patched Warframe Wont Boot Problems</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mastering-srt-insertion-a-complete-guide-to-mp4-improvement-for-2024/"><u>Mastering SRT Insertion A Complete Guide to MP4 Improvement for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723012123838-path-of-exile-optimized-how-to-stop-your-adventure-from-suddenly-ending/"><u>Path of Exile Optimized: How to Stop Your Adventure From Suddenly Ending</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-the-incompatible-version-error-in-valheim-on-pc/"><u>Resolving the 'Incompatible Version' Error in Valheim on PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solution-found-for-pathfinder-game-crashes-and-freezes-on-desktop-computers/"><u>Solution Found for Pathfinder Game Crashes and Freezes on Desktop Computers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-strategies-for-troubleshooting-non-pairing-bluetooth-devices-on-windows-11/"><u>Top Strategies for Troubleshooting Non-Pairing Bluetooth Devices on Windows 11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-preventing-horizon-forbidden-west-total-game-crashes-on-desktop/"><u>Troubleshooting Tips for Preventing 'Horizon Forbidden West' Total Game Crashes on Desktop</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723262419149-unleash-tech-potential-learn-and-compare-equipment-on-toms-hardware/"><u>Unleash Tech Potential - Learn and Compare Equipment on Tom's Hardware</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-vision-unclouded-mastery-of-gopro-haze-prevention/"><u>[New] Vision Unclouded Mastery of GoPro Haze Prevention</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-complete-slomo-recording-app-analysis-consumers/"><u>[Updated] In 2024, Complete SloMo Recording App Analysis Consumers</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-premium-monitors-the-best-5-selection-for-ps5-gaming-for-2024/"><u>[Updated] Premium Monitors The Best 5 Selection for PS5 Gaming for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-virtual-teamwork-made-simple-on-facebook-live/"><u>2024 Approved Virtual Teamwork Made Simple on Facebook Live</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/artificial-intelligence-developments-tentative-date-for-gpt-5/"><u>Artificial Intelligence Developments: Tentative Date for GPT-5?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/diagnosing-and-fixing-minecraft-launcher-freezes-for-smooth-gaming/"><u>Diagnosing & Fixing Minecraft Launcher Freezes for Smooth Gaming</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-tower-of-fantasy-game-crashes-solutions-and-tips-for-pc-players/"><u>Fixing the 'Tower of Fantasy' Game Crashes: Solutions & Tips for PC Players</u></a></li>
+<li><a href="https://win-answers.techidaily.com/join-the-pantheon-play-ascendingly-thrilling-god-of-war-fps-on-pc-platforms/"><u>Join the Pantheon: Play Ascendingly Thrilling God of War FPS on PC Platforms</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-computers-with-toms-hardware-experts/"><u>Navigating the World of Computers with Tom's Hardware Experts</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-top-10-anime-movies-of-all-time/"><u>New 2024 Approved Top 10 Anime Movies of All Time</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolve-your-mic-issues-with-these-6-proven-solutions/"><u>Resolve Your Mic Issues with These 6 Proven Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-how-to-enable-gpu-acceleration-for-cyberpunk-2077-on-windows-10-systems/"><u>Resolved: How to Enable GPU Acceleration for Cyberpunk 2077 on Windows 10 Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-found-how-to-restore-sounds-in-minecraft-for-windows-and-other-pcs/"><u>Solution Found: How to Restore Sounds in Minecraft for Windows and Other PCs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-strategies-to-overcome-high-ping-and-enhance-your-cs2-pc-performance/"><u>Step-by-Step Strategies to Overcome High Ping & Enhance Your CS2 PC Performance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-iphone-and-apple-watch-skin-guards-ultimate-shields-for-your-devices-in-2/"><u>Top-Rated iPhone and Apple Watch Skin Guards - Ultimate Shields for Your Devices in 2</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-mastering-tiktok-sound-control-simple-methods-for-quieting-videos/"><u>Updated Mastering TikTok Sound Control Simple Methods for Quieting Videos</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Preventing Dragon Age: Origins From Crashing on Your Windows 10 Machine: A Step-by-Step Guide"
-date: 2024-08-13T12:13:30.649Z
-updated: 2024-08-14T12:13:30.649Z
+date: 2025-01-23T16:14:06.394Z
+updated: 2025-01-24T16:03:18.147Z
 tags:
   - win11
   - win10
@@ -28,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/d3d66d8b680735b12538b785459e7f45b24c283f5
 5. **[Disable your antivirus program](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Run Dauntless on the dedicated graphics card](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ### Fix 1: Verify game integrity
 
  You may encounter this issue if some files of your game installation are corrupt. If this is the case, you should verify the integrity of game files to fix the issue.
@@ -48,8 +45,9 @@ Here is how to verify the integrity of Dauntless:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Underlock your GPU
 
  Overlocking the GPU is a good method to try if you wish for a faster and smoother game performance. But pushing it too high may cause the game crashing issue.
@@ -60,9 +58,9 @@ Here is how to verify the integrity of Dauntless:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Update your graphics driver
 
  This problem may occur if you are using the wrong graphics driver or it’s out of date. So you should update your graphics driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -97,10 +95,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ### Fix 5: Disable your antivirus program
 
  Running Dauntless consumes lots of memory and CPU usage, so it’s possible that your antivirus program may detect it as some sort of threat and prevent it from running smoothly. So you might need to disable your antivirus temporarily and check if the crashing issue persists.
@@ -113,29 +107,31 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ### Fix 6: Run Dauntless on the dedicated graphics card
 
  Your gaming PC may have a graphics chip as well as a graphics card with dedicated memory in it. If this is the case, you should make sure games run on the graphics card to see if the crashing problem can be mitigated.
 
  Here are the steps on how to set your game to run on Nvidia graphics card:The steps on how to run Dauntless on Intel and AMD graphics cards are similar. You can follow the steps below for reference.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
  1) On your keyboard, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and **R** at the same time, then type **control**  and press **Enter**  to open Control Panel.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Control-panel-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/nvidia-1024x607.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) In Nvidia Control Panel, click **Manage 3D Settings** \> **Program Settings** \> **Add** .
 
@@ -161,8 +157,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -170,4 +164,22 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-regular-payment-structures-in-youtuber-economics/"><u>[New] 2024 Approved Regular Payment Structures in YouTuber Economics</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-elevate-your-influence-mastering-instagram-engagement-for-2024/"><u>[New] Elevate Your Influence Mastering Instagram Engagement for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-auditory-evolution-at-your-fingertips-the-leading-5-chrome-extension-apps/"><u>[Updated] Auditory Evolution at Your Fingertips The Leading 5 Chrome Extension Apps</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-decoding-the-earnings-algorithm-of-tseries-online-channel-for-2024/"><u>[Updated] Decoding the Earnings Algorithm of TSeries Online Channel for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-instructions-setting-up-bluetooth-in-windows-operating-systems-11-and-10/"><u>Easy Instructions: Setting Up Bluetooth in Windows Operating Systems (11 and 10)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-to-resolve-valheims-stuttering-problems-on-your-windows-or-mac-computer/"><u>Expert Tips to Resolve Valheim's Stuttering Problems on Your Windows or Mac Computer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-troublesome-nvidia-geforce-error-a-closer-look-at-code-0x00-03/"><u>Fixing the Troublesome Nvidia Geforce Error: A Closer Look at Code 0X00 03</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-lock-on-apple-iphone-13-by-drfone-ios/"><u>How to Bypass iCloud Lock on Apple iPhone 13</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-the-essential-top-10-hd-webcams-reviewed/"><u>In 2024, The Essential Top 10 HD Webcams Reviewed</u></a></li>
+<li><a href="https://win-answers.techidaily.com/minecraft-not-loading-top-tips-to-get-your-game-running-smoothly-again/"><u>Minecraft Not Loading? Top Tips to Get Your Game Running Smoothly Again</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-utorrent-error-a-guide-to-7-successful-corrective-steps/"><u>Overcoming Utorrent Error: A Guide to 7 Successful Corrective Steps</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-tips-for-preventing-gta-5-from-stalling-or-hanging/"><u>Solution Tips for Preventing GTA 5 From Stalling or Hanging</u></a></li>
+<li><a href="https://win-answers.techidaily.com/tackling-the-starfield-overheating-issue-cutting-edge-solutions-and-tips-for-optimal-performance/"><u>Tackling the Starfield Overheating Issue: Cutting-Edge Solutions & Tips for Optimal Performance</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/the-elite-twitters-shortlist-of-top-tiktok-hits-for-2024/"><u>The Elite Twitter's Shortlist of Top TikTok Hits for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-dead-by-daylights-issue-understanding-error-8014/"><u>Troubleshooting Dead By Daylight's Issue: Understanding Error 8014</u></a></li>
+</ul></div>
 

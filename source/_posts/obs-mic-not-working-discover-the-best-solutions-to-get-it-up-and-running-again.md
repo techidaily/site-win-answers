@@ -1,7 +1,7 @@
 ---
 title: Obs Mic Not Working? Discover the Best Solutions to Get It Up & Running Again!
-date: 2025-01-12T10:34:22.924Z
-updated: 2025-01-18T02:43:35.268Z
+date: 2025-01-22T16:25:47.708Z
+updated: 2025-01-24T16:44:58.329Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/6afde60cdf2c4ed08818a0c3bb279e1893a9ceb46
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here are the solutions to fix Discord installation problem. Just follow the steps and you’ll get Discord working again.
@@ -35,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/6afde60cdf2c4ed08818a0c3bb279e1893a9ceb46
 3. _**[Bonus Tip](https://tools.techidaily.com/drivereasy/download/)**_
 
  Note: the screenshots below come from Windows 10, and fixes apply to Windows 8 and Windows 7.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 1: Disable Discord in Task Manager
 
@@ -48,16 +56,12 @@ thumbnail: https://thmb.techidaily.com/6afde60cdf2c4ed08818a0c3bb279e1893a9ceb46
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14c2e4d7a7.jpg)  
  You’ll need to repeat this several times to end Discord task if there are more than one processes for Discord.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Then close**Task Manager** .
 
  Then you’ll be able to delete Discord folders. Continue with the steps below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 2: Delete Discord folders
@@ -67,10 +71,6 @@ thumbnail: https://thmb.techidaily.com/6afde60cdf2c4ed08818a0c3bb279e1893a9ceb46
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14e6b6694d.jpg)
 3. Your File Explorer will open a window. Right click the**discord folder** and click**Delete** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14f2686712.jpg)
 4. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the**Run** box.
 
@@ -78,12 +78,12 @@ thumbnail: https://thmb.techidaily.com/6afde60cdf2c4ed08818a0c3bb279e1893a9ceb46
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14fe227d9a.jpg)
 6. Your File Explorer will open a new window. Right click the**Discord** **folder** and click**Delete** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14fb976d74.jpg)
 7. Restart your computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 8. You’ll be able to reinstall Discord in your computer. Just download the Discord application, run the Discord setup file and it should be installed properly.
 
@@ -115,7 +115,7 @@ OR
 4. Restart your computer to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * [Windows](https://tools.techidaily.com/drivereasy/download/)
@@ -135,22 +135,18 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-answers.techidaily.com/elden-ring-performance-enhancement-6-steps-for-smooth-gaming-action/"><u>'Elden Ring' Performance Enhancement: 6 Steps for Smooth Gaming Action</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-elevating-your-presence-a-tiktok-desktop-guide-for-2024/"><u>[New] Elevating Your Presence A TikTok Desktop Guide for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-dji-flyer-x20s-flying-high-vision-headset-breakdown/"><u>[New] In 2024, DJi Flyer X20's Flying High Vision Headset Breakdown</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-maximize-your-income-winning-at-monetizing-social-media-videos-for-2024/"><u>[New] Maximize Your Income Winning at Monetizing Social Media Videos for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/battling-freezing-frame-rates-in-fallout-4-discover-effective-solutions/"><u>Battling Freezing Frame Rates in Fallout 4? Discover Effective Solutions</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-7-most-effective-wakeup-apps-for-your-smartphone/"><u>Discover the 7 Most Effective Wakeup Apps for Your Smartphone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-download-official-drivers-for-brother-hl-l2360dw-laser-printers/"><u>Free Download: Official Drivers for Brother HL-L2360DW Laser Printers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-non-responsive-print-screen-on-your-windows-pc-windows-1011/"><u>How to Fix a Non-Responsive Print Screen on Your Windows PC (Windows 10/11)</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y78plus-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y78+ Phone without PIN</u></a></li>
-<li><a href="https://win-answers.techidaily.com/no-more-crashes-solving-the-kernelbasedll-dilemamo-with-swift-and-straightforward-techniques/"><u>No More Crashes: Solving the kernelbase.dll Dilemamo with Swift & Straightforward Techniques.</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/nvme-ssdwindows-1011/"><u>NVMe SSDへの効果的なWindows 10/11ディスククローニング手順</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722999792283-quick-resolution-for-apex-legends-not-launching-master-these-fixes-today/"><u>Quick Resolution for Apex Legends Not Launching? Master These Fixes Today!</u></a></li>
-<li><a href="https://howto.techidaily.com/reasons-for-itel-p55-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Itel P55 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-the-windows-11-taskbar-glitch-tips-and-techniques-that-work/"><u>Resolving the Windows 11 Taskbar Glitch: Tips & Techniques That Work</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-pc-issues-troubleshooting-overwatch-2-continuous-crashes/"><u>Solving PC Issues: Troubleshooting Overwatch 2 Continuous Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/tame-the-beast-conquering-cod-warzone-dev-error-6328-with-advanced-hacks-aficionados/"><u>Tame The Beast: Conquering Cod Warzone Dev Error #6328 with Advanced Hacks Aficionados</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-gray-zone-warfare-crashes-on-windows-computers/"><u>Troubleshooting Tips for Gray Zone Warfare Crashes on Windows Computers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-digital-puppetry-and-storytelling-movies-maker-edition/"><u>[New] 2024 Approved Digital Puppetry and Storytelling Movies Maker Edition</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-essentials-for-picking-the-perfect-tiktok-backgrounds/"><u>[Updated] Essentials for Picking the Perfect TikTok Backgrounds</u></a></li>
+<li><a href="https://win-answers.techidaily.com/eradicate-halo-infinite-freeze-ups-and-play-smoothly-with-these-essential-pc-tweaks-7-proven-methods/"><u>Eradicate Halo Infinite Freeze-Ups and Play Smoothly with These Essential PC Tweaks (7 Proven Methods)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-issue-obs-not-capturing-your-screen-anymore/"><u>Fixing the Issue: OBS Not Capturing Your Screen Anymore</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/how-to-fix-a-scanner-that-wont-read-documents-expert-advice-from-yl-computing/"><u>How to Fix a Scanner That Won't Read Documents: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/how-to-fix-and-resolve-cannot-download-or-parse-video-files-with-4k-video-downloader/"><u>How to Fix and Resolve 'Cannot Download or Parse Video Files' With 4K Video Downloader</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-iphone-14-pro-stuck-at-attempting-data-recovery-loop-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Fix iPhone 14 Pro Stuck at attempting data recovery Loop | Stellar</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/macbook-air-with-m1-chip-now-at-a-steal-unbeatable-649-deal-from-top-vendors/"><u>MacBook Air with M1 Chip Now at a Steal: Unbeatable $649 Deal From Top Vendors!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solve-your-minecraft-lag-issues-with-these-advanced-tricks-for-windows-and-mac/"><u>Solve Your Minecraft Lag Issues with These Advanced Tricks for Windows and Mac</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ltimate-guide-to-surpassing-a-million-youtube-subscribers-for-2024/"><u>The Ultimate Guide to Surpassing a Million YouTube Subscribers for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-msvcr110dll-file-absent-error-on-helldivers-2-game/"><u>Troubleshooting MSVCR110.dll File Absent Error on Helldivers 2 Game</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-to-stop-assassins-creed-odyssey-from-crashing-on-pc-easily/"><u>Troubleshooting Tips to Stop Assassin's Creed Odyssey From Crashing on PC Easily</u></a></li>
 </ul></div>
 

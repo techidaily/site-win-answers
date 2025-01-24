@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Why Can't I Play Call of Duty Modern Warfare on My PC ?"
-date: 2024-08-13T12:13:40.911Z
-updated: 2024-08-14T12:13:40.911Z
+date: 2025-01-19T17:50:24.427Z
+updated: 2025-01-24T16:04:29.499Z
 tags:
   - win11
   - win10
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/c283e5cd1292f67bf9915abb6f80512d4b71e7281
 
 We have been receiving a lot of complaints about the[Vanguard Dev error 5573](https://tools.techidaily.com/drivereasy/download/) , and now the Vanguard error 0x00001338 N. It might be Error Code 0x00001338 (6328) N, 0x00001338 (5573) N, 0x00001338 (0) N, etc. No matter what code you’re getting, you will be able to find possible fixes for the 0x00001338 N series error codes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  Here are a few fixes that have helped other users resolve their CoD Vanguard error code 0x00001338 N. You may not need to try them all; just work your way down the list until you find the one that works for you.
@@ -34,13 +30,18 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 7. [**Repair your system files**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1\. Remove the operator skin
 
  For those who’re getting 0x00001338 (5573) N error code, according to many Vanguard players, the game works right after they remove the operator skin and switch back to the base skin.
 
  You can change the operator skin by selecting a default one. The operator skin is the major cause of this error code, and you shall be playing the game without any error codes when you use the base skin.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2\. Clear the game cache
 
@@ -50,9 +51,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 2) On your keyboard, press the Windows + R key at the same time and enter**%programdata%** .
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ![open program data folder](https://images.drivereasy.com/wp-content/uploads/2021/11/image-10.png)
 
  3) Navigate to**Blizzard Entertainment** \>**Battle.net** \>**Cache**
@@ -60,9 +58,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  4) Delete every folder or file under the**Cache** folder.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ### Fix 3\. Disable Ray Tracing
 
  Another possible cause of Vanguard Error Code 0x00001338 N is your game settings. By turning off Ray Tracing, you may find the game is working like charm again.
@@ -70,8 +65,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  If you are experiencing the error on a non-RTX GPU, then try reducing the GPU clock by 50 MHz using MSI Afterburner to fix the error.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4\. Update device drivers
 
  For any avid gamers, we can’t emphasize the importance of keeping your graphics driver and audio driver up to date more. Manufacturers deliver new drivers to optimize your gaming experience and fix known bugs, especially for new games such as CoD Vanguard.
@@ -91,9 +87,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 After updating your drivers, restart your PC and test the gameplay.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5\. Revert to DX11
 
  One reason for the Call of Duty Vanguard in-game error code 0x00001338 N is DirectX 12\. The game uses DX12 by default and doesn’t have any option in-game to change it to DirectX 11\. Here’s how to force revert back to DX11 manually:
@@ -105,6 +98,10 @@ After updating your drivers, restart your PC and test the gameplay.
 ![set lauch options](https://images.drivereasy.com/wp-content/uploads/2021/11/image-11-1200x639.png)
 
 Launch CoD Vanguard and test the gameplay.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6\. Disable in-game overlays
 
@@ -120,6 +117,10 @@ Launch CoD Vanguard and test the gameplay.
 * Razer Cortex Gamecaster
 * Xbox Game DVR
 * Twitch
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7\. Repair your system files
 
@@ -145,14 +146,15 @@ Launch CoD Vanguard and test the gameplay.
 
  2) Open Fortect and run a free scan. This might take 3\~5 minutes to fully analyze your PC. Once complete, you will be able to review the detailed scan report.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 
  3) You’ll see the summary of detected issues on your PC. Click **START REPAIR** and all the issues will be fixed automatically. (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Option 2 – Manually
 
@@ -164,9 +166,6 @@ Launch CoD Vanguard and test the gameplay.
 
  1) On your keyboard, press the Windows logo key and R at the same time to open the Run box. Type**cmd** and press**Ctrl+Shift+Enter** to run Command Prompt as administrator.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/cmd-1.jpg)
 
  Click**Yes** when prompted for permission to make changes to your device.
@@ -228,8 +227,6 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -237,4 +234,26 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-screencast-o-matic-review-everything-you-need-to-know-for-2024/"><u>[New] Screencast-O-Matic Review Everything You Need To Know for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-building-your-way-to-greatness-a-complete-guide-to-valorant-video-thumbnails-for-2024/"><u>[Updated] Building Your Way to Greatness A Complete Guide to Valorant Video Thumbnails for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-key-aspects-of-zdsoft-vision-recorder/"><u>[Updated] Key Aspects of ZDSoft Vision Recorder</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-ultimate-roundup-no-fee-videocalling-plus-live-desktop-share/"><u>2024 Approved Ultimate Roundup No-Fee Videocalling + Live Desktop Share</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/entendendo-os-gifs-uma-guia-simples-para-criacao-e-conversao/"><u>Entendendo Os GIFs: Uma Guia Simples Para Criação E Conversão</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-on-overcoming-glitches-with-the-clownfish-speech-changer/"><u>Expert Advice on Overcoming Glitches with the Clownfish Speech Changer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-overcome-startup-difficulties-in-genshin-impact-top-5-fixes/"><u>How to Overcome Startup Difficulties in Genshin Impact: Top 5 Fixes</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-essential-tips-on-acquiring-profitable-yt-channels/"><u>In 2024, Essential Tips on Acquiring Profitable YT Channels</u></a></li>
+<li><a href="https://facebook.techidaily.com/instagram-redux-nostalgia-or-strategic-renewal/"><u>Instagram Redux: Nostalgia or Strategic Renewal?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mass-effect-legendary-edition-optimization-overcoming-performance-hiccups/"><u>Mass Effect Legendary Edition Optimization - Overcoming Performance Hiccups</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-the-new-normal-7-predictions-for-job-markets-and-generative-ai/"><u>Navigating the New Normal: 7 Predictions for Job Markets and Generative AI</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-stutter-and-crash-issues-a-guide-to-smooth-mass-effect-legendary-ed-gaming-on-xbox-and-pc/"><u>Overcoming Stutter & Crash Issues: A Guide to Smooth Mass Effect Legendary Ed. Gaming on Xbox & PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-zooms-video-problems-5-effective-fixes-you-should-try-now/"><u>Overcoming Zoom's Video Problems: 5 Effective Fixes You Should Try Now</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-resolution-boosting-shaders-effectively-in-star-wars-battlefront-ii/"><u>Quick Resolution: Boosting Shaders Effectively in Star Wars Battlefront II</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-issue-troubleshooting-failed-to-create-opengl-context-error/"><u>Resolved Issue: Troubleshooting 'Failed to Create OpenGL Context' Error</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-guide-origin-game-client-issues-on-windows-11-devices/"><u>Solution Guide: Origin Game Client Issues on Windows 11 Devices</u></a></li>
+<li><a href="https://win-answers.techidaily.com/understanding-and-resolving-frequent-game-interruptions-in-lost-ark-on-desktop-systems/"><u>Understanding and Resolving Frequent Game Interruptions in Lost Ark on Desktop Systems</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/unveiling-the-hidden-fixes-for-fb-video-upload-woes/"><u>Unveiling the Hidden Fixes for Fb Video Upload Woes</u></a></li>
+</ul></div>
 

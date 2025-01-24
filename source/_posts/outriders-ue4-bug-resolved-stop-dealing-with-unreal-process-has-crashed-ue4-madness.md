@@ -1,7 +1,7 @@
 ---
 title: "Outriders UE4 Bug Resolved - Stop Dealing with 'Unreal Process Has Crashed: UE4-Madness'"
-date: 2024-08-13T12:13:12.857Z
-updated: 2024-08-14T12:13:12.857Z
+date: 2025-01-19T18:43:56.346Z
+updated: 2025-01-24T18:32:43.615Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/8c53194608f8a775260017278f44b51f37022a75b
 ## Banish Your Outriders Game Crashes - Fixing the 'UE4 Madness' Unreal Engine Bug Successfully
 
 If you’re getting this error message ‘**An Unreal process has crashed: UE4-Madness** .’, don’t worry. Usually, it means the game engine has crashed and it’s hard to troubleshoot the exact cause. Below, you will find every possible fix you can find online or in forums.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -32,9 +36,6 @@ If you’re getting this error message ‘**An Unreal process has crashed: UE4-M
 
  Now you can try launching your Outriders again to see if the problem has gone. But if the Unreal Engine crashing persists, you may want to try the following fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 2\. Update your graphics driver
 
  The GPU driver might be causing the error ‘**An Unreal process has crashed: UE4-Madness** .’ in Outriders. If you haven’t updated your graphics driver for a long time, you should update or reinstall the driver.
@@ -53,16 +54,10 @@ There are mainly two methods for you to update the graphics driver:
 
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 
  3) Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click_Update All_ .)
@@ -73,8 +68,9 @@ There are mainly two methods for you to update the graphics driver:
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. Verify the game integrity
 
  Another possible cause of ‘**Unreal process has crashed: UE4-Madness error** ‘ in Outriders is corrupted or missing game files. To check if this is causing the Unreal Engine to crash, you can try this simple troubleshooting:
@@ -87,24 +83,11 @@ There are mainly two methods for you to update the graphics driver:
 
  3) Go to the LOCAL FILES tab, and click**Verify Integrity of game files** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify-game-files.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Wait for the process to complete. It may take a few seconds to verify the integrity of your game files.
 
@@ -130,11 +113,12 @@ Key features:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/browse.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Right-click**OUTRIDERS-Win64-Shipping** and select**Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/properties-game-exe.jpg)
 
  3) Go to the**Compatibility** tab, and check**Run this program as an administrator** .
@@ -144,8 +128,9 @@ Key features:
  Granting enough access and running the game directly worked for many other players. If Outriders is still crashing with ‘Unreal process has crashed: UE4-Madness error’, you can try the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 6\. Allow your game to run through Firewall
 
  If the issue persists, you can check if it’s caused by an over-protective Firewall or your Antivirus software (you can temporarily uninstall your antivirus software). To make sure the Windows Defender Firewall is not blocking your game, here’s how:
@@ -158,14 +143,15 @@ Key features:
 
  3) On the left pane, click**Allow an app or feature through Windows Defender Firewall** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/allow-firewall.jpg)
 
  4) Now you can click**Change settings** and scroll down to Outriders to make sure the**Private** and**Public** boxes are both checked.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/allowed.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) If Outriders is not on the list, you can select**Allow another app..** . and then add your Outriders.
 
@@ -184,8 +170,6 @@ Key features:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -193,4 +177,23 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/updated-hero-session-evolution-four-to-five/"><u>[Updated] Hero Session Evolution Four to Five</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-premium-viewer-ultimate-video-quality-on-pcmobile/"><u>[Updated] Premium Viewer Ultimate Video Quality on PC/Mobile</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-inside-instagrams-maximum-video-restriction-policy/"><u>2024 Approved Inside Instagram's Maximum Video Restriction Policy</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-advice-on-picking-your-next-device-at-toms-tech-oasis/"><u>Expert Advice on Picking Your Next Device at Tom's Tech Oasis</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723003620051-fps-improvements-in-red-dead-redemption-2-overcoming-stuttering-issues-now-resolved/"><u>FPS Improvements in Red Dead Redemption 2: Overcoming Stuttering Issues - Now Resolved</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/from-talk-to-text-proven-strategies-for-quality-recordings/"><u>From Talk To Text Proven Strategies for Quality Recordings</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-a-non-launching-modern-warfare-3-mw3-a-comprehensive-guide/"><u>How to Fix a Non-Launching Modern Warfare 3 MW3: A Comprehensive Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-to-do-if-your-iphone-6-plus-has-bad-esn-or-blacklisted-imei-by-drfone-ios/"><u>In 2024, What to do if your iPhone 6 Plus has bad ESN or blacklisted IMEI?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-gaming-made-easy-fix-stuttering-and-lag-in-bloodhunt-today/"><u>PC Gaming Made Easy: Fix Stuttering and Lag in Bloodhunt Today!</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/evel-7-cameras-perfect-for-professional-broadcasting-vloggers-for-2024/"><u>Pro-Level 7 Cameras Perfect for Professional Broadcasting Vloggers for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-issues-with-compiling-shaders-in-call-of-duty-black-ops-cold-war/"><u>Resolved: Issues with Compiling Shaders in Call of Duty Black Ops Cold War</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solve-control-panel-bugs-in-pathfinder-wrath-of-the-righteune-keyboard-and-gamepad-troubleshooting-tips/"><u>Solve Control Panel Bugs in Pathfinder: Wrath of the Righteune Keyboard and Gamepad Troubleshooting Tips</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-honor-90-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Honor 90 FRP</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-7-solutions-for-resolving-steams-dark-interface-issue/"><u>Top 7 Solutions for Resolving Steam's Dark Interface Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transferring-iphones-calendar-events-to-windows-pc/"><u>Transferring iPhone's Calendar Events to Windows PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-common-issues-in-itunes-audio-configurations/"><u>Troubleshooting Common Issues in iTunes Audio Configurations</u></a></li>
+</ul></div>
 

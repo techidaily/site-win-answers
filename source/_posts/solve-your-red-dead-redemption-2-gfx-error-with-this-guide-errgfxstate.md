@@ -1,7 +1,7 @@
 ---
 title: Solve Your Red Dead Redemption 2 GFX Error with This Guide (ERR_GFX_STATE)
-date: 2025-01-15T23:40:01.003Z
-updated: 2025-01-17T22:30:59.423Z
+date: 2025-01-17T18:55:39.669Z
+updated: 2025-01-24T16:20:54.039Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/a848ca5db9b7c808865a38728eb2f3fa3f3cb8b72
 2. **[Update your network adapter driver](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Reinstall Steam](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Adjust your proxy settings
 
  In most cases, Error 130 happens when your browser fails to connect to the internet because of improper proxy configuration. To fix it, follow the instructions below:
@@ -44,21 +48,29 @@ thumbnail: https://thmb.techidaily.com/a848ca5db9b7c808865a38728eb2f3fa3f3cb8b72
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-358.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click the**Connections tab** , then**LAN settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-360.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** If any items on this window are checked, uncheck them. Then, click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-363.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Restart your computer and Steam to test your issue.
 
  If none of the boxes is checked, or if you still get the error code 130, then go ahead with the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your network adapter driver
 
@@ -97,16 +109,12 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-364.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Reinstall Steam
 
@@ -116,16 +124,12 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-885.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-886.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control Panel** .
@@ -139,6 +143,10 @@ OR
 **5)** Select **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-889.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **6)**  Right-click **Steam** , and then click **Uninstall** .
 
@@ -156,17 +164,9 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-892.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **11)**  Move the backup **steamapps folder**  you create before to your current directory location.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-893.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **12)**  Relaunch your Steam to test your issue.
 
@@ -194,14 +194,17 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-galaxy-s8-review-a-leap-forward-with-4k-display/"><u>[New] Galaxy S8 Review - A Leap Forward with 4K Display</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-ideal-selections-economical-4k-home-theater-systems/"><u>[Updated] In 2024, Ideal Selections Economical 4K Home Theater Systems</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/all-you-need-to-know-about-downloading-wm6-for-2024/"><u>All You Need to Know About Downloading WM6 for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/beat-the-bug-effective-ways-to-prevent-titanfall-2-crashes-now/"><u>Beat the Bug: Effective Ways to Prevent Titanfall 2 Crashes Now</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-and-solve-modern-warfare-2-failure-to-launch-issue/"><u>How to Fix and Solve 'Modern Warfare 2 Failure to Launch Issue'</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-ryzen-master-driver-not-installed-properly/"><u>How to Fix Ryzen Master Driver Not Installed Properly</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-itel-p40plus-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Itel P40+ To Phone | Dr.fone</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/lost-iphone-media-and-info-retrieval-on-mac-systems-secure-your-memories-back/"><u>Lost iPhone Media and Info Retrieval on Mac Systems - Secure Your Memories Back!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-issues-with-fifa-21-game-initialization-and-launch/"><u>Resolved: Issues with FIFA 21 Game Initialization and Launch</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-the-best-ways-to-record-webinar/"><u>[New] 2024 Approved The Best Ways to Record Webinar</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-scorching-speedways-ranking-the-top-5-virtual-race-titles-for-2024/"><u>[New] Scorching Speedways Ranking the Top 5 Virtual Race Titles for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bypassing-the-hurdle-of-nba-2k2ns-code-727e66ac-comprehensive-fixes-players/"><u>Bypassing the Hurdle of NBA 2K2n's Code 727E66ac - Comprehensive Fixes Players</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/crafting-verses-with-ai-mastering-the-art-of-poetic-creation-using-chatgpt/"><u>Crafting Verses with AI: Mastering the Art of Poetic Creation Using ChatGPT</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/enhancing-your-fb-video-experience-with-1080p-quality-for-2024/"><u>Enhancing Your FB Video Experience with 1080P Quality for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-silent-issues-solutions-when-lost-ark-game-lacks-audio/"><u>Fixing Silent Issues: Solutions When 'Lost Ark' Game Lacks Audio</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722972830959-get-updated-drivers-for-your-tp-link-adapter-compatible-with-windows-7-to-11-downloads-available-now/"><u>Get Updated Drivers for Your TP-Link Adapter - Compatible with Windows 7 to 11 Downloads Available Now</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-motorola-razr-40-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Motorola Razr 40? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/oculus-link-woes-here-are-six-swift-methods-to-get-you-back-online/"><u>Oculus Link Woes? Here Are Six Swift Methods to Get You Back Online</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-fps-fluctuations-in-resident-evil-village-on-pc-a-detailed-analysis/"><u>Resolved: FPS Fluctuations in Resident Evil Village on PC - A Detailed Analysis</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-black-ops-cold-wars-critical-error-code-0xc00cuh005/"><u>Troubleshooting Steps for Black Ops Cold War's Critical Error Code 0Xc00cuh005</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-more-than-you-could-dream-or-imagine-final-cut-pro-x-is-a-powerful-software-one-such-hidden-feature-from-fcpx-is-jump-cuts-and-we-shall-know/"><u>Updated In 2024, More than You Could Dream or Imagine, Final Cut Pro X Is a Powerful Software. One Such Hidden Feature From FCPX Is Jump Cuts, and We Shall Know More About Final Cut Pro Jump Cuts in This Article</u></a></li>
 </ul></div>
 

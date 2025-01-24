@@ -1,7 +1,7 @@
 ---
 title: "Experience the Unstoppable Journey of Yakuza: Like a Dragon as It Conquers the World of PC Gaming!"
-date: 2025-01-15T21:29:19.513Z
-updated: 2025-01-18T01:35:34.512Z
+date: 2025-01-17T17:44:51.153Z
+updated: 2025-01-24T19:03:43.640Z
 tags:
   - win11
   - win10
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/da5209d316680e0ea4e317ac8778c8407afff2b57
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/modem.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 modem
@@ -71,10 +71,18 @@ wireless router
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Check how Warzone works. If the driver update doesn’t give you luck, move on to the third solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3 – Run Warzone on DirectX 11
 
@@ -84,6 +92,10 @@ wireless router
 2. Select**Call of Duty: MW** on the left pane and click**Options > Game Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11.jpg)
 3. Click the**Game Settings** tab. Then tick**Additional command line arguments** and enter**\-D3D11** in the text field.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/12.jpg)
 4. Click**Done** to confirm.
@@ -98,35 +110,27 @@ wireless router
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-1.jpg)
 2. Click**Settings** under the Performance section.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-2.jpg)
 3. Select the**Advanced** tab and click**Change** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-3-1.jpg)
 4. Untick**Automatically manage paging file size for all drives** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-4-1.jpg)
 5. Select**C drive** and check **Custom size** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-5-1.jpg)
 6. Enter the **initial size** and **maximum size** depending on the amount of RAM your PC has, and click **OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Microsoft recommends you set the virtual memory no less than **1.5 times** and no more than **3 times** the amount of RAM on your computer. Here is a guide on [how to check RAM on your computer](https://tools.techidaily.com/drivereasy/download/) .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-6-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5 – Delete the game cache files
@@ -139,7 +143,7 @@ wireless router
  Restart the Battle.net client and see whether you could play Warzone as normal. If the game is still unplayable, try the last method.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6 – Adjust the in-game graphics settings
@@ -152,10 +156,6 @@ wireless router
 3. Scroll down to the Details & Textures section and set_Texture Resolution_ and_Texture Filter Anisotropic_ to**Normal** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Save the changes and restart Warzone to test. Then the game should be running perfectly without the 6328 error code.
 
@@ -181,24 +181,17 @@ wireless router
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-clearer-sound-with-these-ipad-tips/"><u>[New] 2024 Approved Clearer Sound with These iPad Tips</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-elevate-your-video-game-youtube-production-mastery/"><u>[New] 2024 Approved Elevate Your Video Game YouTube Production Mastery</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/aximize-profitability-the-dos-and-donts-of-youtube-monetization-for-2024/"><u>[New] Maximize Profitability – The Do's and Don'ts of YouTube Monetization for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-ringtone-repository-best-sources-online/"><u>2024 Approved Ringtone Repository Best Sources Online</u></a></li>
-<li><a href="https://win-answers.techidaily.com/accurately-estimating-data-variability-with-microsoft-excel-techniques-and-tips/"><u>Accurately Estimating Data Variability with Microsoft Excel: Techniques & Tips</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ce-engagement-select-best-fonts-for-your-thumbnails-for-2024/"><u>Enhance Engagement Select Best Fonts for Your Thumbnails for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-advice-on-solving-steam-failed-to-connect-local-process-problems/"><u>Expert Advice on Solving 'Steam Failed to Connect' Local Process Problems</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-androids-compendium-for-synchronized-and-curved-videography/"><u>In 2024, Android's Compendium for Synchronized & Curved Videography</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-from-concept-to-shares-how-to-create-hit-videos-for-fbinstagram/"><u>In 2024, From Concept to Shares How to Create Hit Videos for FB/Instagram</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Meizu 21 Pro | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-social-sites-for-effective-youtube-video-promotion/"><u>In 2024, Social Sites for Effective YouTube Video Promotion</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-to-building-excel-budget-templates-for-tracking-revenue-and-costs/"><u>Step-by-Step Guide to Building Excel Budget Templates for Tracking Revenue and Costs</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-eliminating-tables-efficiently-in-microsoft-excel/"><u>Step-by-Step Guide: Eliminating Tables Efficiently in Microsoft Excel</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-transforming-text-into-dates-within-microsoft-excel/"><u>Step-by-Step Guide: Transforming Text Into Dates Within Microsoft Excel</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-instructions-for-adding-altering-viewing-and-converting-excel-notebook-entries/"><u>Step-by-Step Instructions for Adding, Altering, Viewing & Converting Excel Notebook Entries</u></a></li>
-<li><a href="https://win-answers.techidaily.com/this-weeks-highlights-bidding-farewell-to-entry-level-subscription-plans-and-advanced-smartphone-repair-techniques/"><u>This Week’s Highlights: Bidding Farewell to Entry-Level Subscription Plans & Advanced Smartphone Repair Techniques</u></a></li>
-<li><a href="https://win-answers.techidaily.com/transforming-data-with-emoticons-customize-excel-cells-for-visual-impact-and-responsiveness/"><u>Transforming Data with Emoticons: Customize Excel Cells for Visual Impact and Responsiveness</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-tutorial-creating-effective-headlines-using-microsoft-excel/"><u>Ultimate Tutorial: Creating Effective Headlines Using Microsoft Excel</u></a></li>
-<li><a href="https://win-answers.techidaily.com/unlocking-advanced-features-with-function-keys-in-microsoft-excel-everything-you-need-to-know/"><u>Unlocking Advanced Features with Function Keys in Microsoft Excel - Everything You Need to Know</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-top-10-facebook-video-players/"><u>[Updated] 2024 Approved Top 10 Facebook Video Players</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-laughter-library-selecting-witty-content-for-short-youtube-videos/"><u>[Updated] In 2024, Laughter Library Selecting Witty Content for Short YouTube Videos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/affordable-lg-24lh4830-led-television-great-value-without-compromise/"><u>Affordable LG 24LH4830 LED Television - Great Value Without Compromise</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/decoding-error-0x80004005-your-ultimate-guide-to-overcoming-windows-unspecified-errors/"><u>Decoding Error 0X80004005: Your Ultimate Guide to Overcoming Windows' Unspecified Errors</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-apex-legends-solving-common-voice-chat-issues/"><u>Fixing Apex Legends: Solving Common Voice Chat Issues</u></a></li>
+<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Vivo Y28 5G? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/man-klipper-musik-mastering-music-editing-on-desktop-mobile-and-offline-platforms/"><u>Man Klipper Musik: Mastering Music Editing on Desktop, Mobile & Offline Platforms</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-the-installation-of-hyper-v-feature-on-microsofts-latest-os/"><u>Master the Installation of Hyper-V Feature on Microsoft's Latest OS</u></a></li>
+<li><a href="https://discover-best.techidaily.com/navigating-the-digital-space-efficiently-how-cookiebot-empowers-personalized-engagement/"><u>Navigating the Digital Space Efficiently: How Cookiebot Empowers Personalized Engagement</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimizing-your-pc-setup-for-smoother-siftu-performance-tips-and-solutions/"><u>Optimizing Your PC Setup for Smoother SIFTU Performance – Tips & Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-issues-with-launching-football-manager-2023-a-comprehensive-fix/"><u>Resolved: Issues with Launching Football Manager 2023 – A Comprehensive Fix</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-troubleshooting-ie-browser-issues-unable-to-view-web-pages/"><u>Resolved: Troubleshooting IE Browser Issues - Unable to View Web Pages</u></a></li>
 </ul></div>
 

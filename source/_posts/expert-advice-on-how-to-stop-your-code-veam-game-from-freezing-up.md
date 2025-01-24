@@ -1,7 +1,7 @@
 ---
 title: Expert Advice on How to Stop Your Code Veam Game From Freezing Up
-date: 2025-01-12T19:31:32.910Z
-updated: 2025-01-18T10:52:54.135Z
+date: 2025-01-21T16:37:08.980Z
+updated: 2025-01-24T16:26:22.804Z
 tags:
   - win11
   - win10
@@ -50,12 +50,12 @@ thumbnail: https://thmb.techidaily.com/468b7a50fb837089e10cec38dd44fa01aaab4078b
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/apps-features.jpg)
 2. Under Apps & features, click**Xbox Console Companion** and select**Uninstall** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/uninstall-xbox-console-companion.jpg)
 3. Click**Uninstall** again.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/uninstall.jpg)
 
@@ -82,6 +82,10 @@ If State of Decay 2 still crashes, go ahead with the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/de-scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/nvidia-geforce-gtx960m-1.jpg)
 
@@ -102,17 +106,9 @@ If State of Decay 2 still crashes, go ahead with the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/check-for-updates.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once you’ve installed all the updates, restart your computer and launch State of Decay 2 to see if the crashing issue remains.
 
 If this method doesn’t help, check out the next solution.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Reset State of Decay 2
 
@@ -123,7 +119,7 @@ If this method doesn’t help, check out the next solution.
 2. Under Apps & features, click**State of Decay 2** , then click**Advanced options** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/advanced-options.jpg)
@@ -139,10 +135,6 @@ Launch State of Decay 2 to see if the problem is resolved.
 
 If the crashing issue occurs again, continue to the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 6: Move State of Decay 2 to a different drive
 
  Sometimes low disk space may prevent your game from working properly and causes many problems, like the crashing issue in State of Decay 2\. To fix it, you’ll need to free up space by moving the program to another drive. Here’s how:
@@ -156,13 +148,13 @@ If the crashing issue occurs again, continue to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/move2-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After doing that, launch State of Decay 2 and check if the problem has gone away.
 
 If this method doesn’t do the trick, try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 7: Set English (United States) as the default language
 
@@ -172,28 +164,36 @@ If this method doesn’t do the trick, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/time-language.jpg)
 2. In the left panel, select**Language** . Under the Preferred languages section, click**Add a language** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/add-a-language.jpg)
 3. Select**English (United States)** , then click**Next** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/next.jpg)
 4. Click**Install** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/install-language.jpg)
 5. After the language is fully installed, drag it to the first position in the list.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/set-as-default.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now restart your PC and test if State of Decay 2 still crashes.
 
 If this solution doesn’t work for you, continue to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 8: Perform a clean boot
 
@@ -203,16 +203,8 @@ If this solution doesn’t work for you, continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/msconfig.jpg)
 2. In System Configuration, navigate to the**Services** tab and check the box next to**Hide all Microsoft services** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/hide-all-microsoft-services.jpg)
 3. **Uncheck** all the services EXCEPT those belong to your video card or sound card manufacturer, such as**Realtek** ,**AMD** ,**NVIDIA** and**Intel** . Then click**OK** to save the changes.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/hide2.jpg)
 4. On your keyboard, press**Ctrl** ,**Shift** and**Esc** at the same time to open**Task Manager** , then navigate to the**Startup** tab.  
@@ -220,8 +212,16 @@ If this solution doesn’t work for you, continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/startup.jpg)
 5. One at a time, select any programs you suspect might be interfering and click**Disable** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/disable-service.jpg)
 6. Restart your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After rebooting your PC, launch State of Decay 2 to see if it crashes again. If not, you can try to enable services one by one until you find the problematic software. Then restart your computer to apply the changes.
 
@@ -264,24 +264,19 @@ If this solution doesn’t work for you, continue to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-best-secret-voice-recorder-apps-for-android-and-ios-for-2024/"><u>[Updated] Best Secret Voice Recorder Apps For Android and iOS for 2024</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/1-understanding-why-your-desktop-files-vanish-after-system-reboot-a-comprehensive-guide/"><u>1. 'Understanding Why Your Desktop Files Vanish After System Reboot: A Comprehensive Guide'</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-advice-overcoming-game-crash-issues-with-fallout-3-on-modern-windows-pcs/"><u>Expert Advice: Overcoming Game-Crash Issues with Fallout 3 on Modern Windows PCs</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-tips-for-fixing-qbittorrent-performance-hiccups/"><u>Expert Tips for Fixing qBittorrent Performance Hiccups</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/find-the-best-cpu-bargains-in-202n4-exclusive-offers-from-amd-to-intel/"><u>Find the Best CPU Bargains in 202N4: Exclusive Offers From AMD to Intel</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-issues-why-is-my-elden-ring-online-play-broken/"><u>Fixing Issues: Why Is My Elden Ring Online Play Broken?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-issue-cyberpunk-2077-utilizes-cpu-instead-of-gpu-in-windows-10/"><u>Fixing the Issue: Cyberpunk 2077 Utilizes CPU Instead of GPU in Windows 10</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-issue-unable-to-launch-origin-on-windows-1011-systems/"><u>Fixing the Issue: Unable to Launch Origin on Windows 10/11 Systems</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/game-on-video-recording-revolution-for-2024/"><u>Game On Video Recording Revolution for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-overcome-issues-when-attempting-to-launch-outlook/"><u>How to Overcome Issues When Attempting to Launch Outlook</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-stabilize-dota-a-users-manual-to-address-game-malfunctions/"><u>How to Stabilize Dota 지금: A User's Manual to Address Game Malfunctions</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-zte-axon-40-lite-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From ZTE Axon 40 Lite to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-icloud-lock-from-your-apple-iphone-12-and-ipad-by-drfone-ios/"><u>In 2024, How to fix iCloud lock from your Apple iPhone 12 and iPad</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-issue-star-wars-jedi-fallen-order-game-wont-start/"><u>Resolved Issue: Star Wars Jedi: Fallen Order Game Won't Start</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-issues-how-to-stop-tower-of-fantasy-from-crashing-on-desktop/"><u>Resolved Issues: How to Stop 'Tower of Fantasy' From Crashing on Desktop</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solution-found-for-stable-gameplay-in-pathfinder-wrath-of-the-righteous-no-more-crashing-issues/"><u>Solution Found for Stable Gameplay in Pathfinder: Wrath of the Righteous No More Crashing Issues</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/top-10-best-4k-dslr-shoulder-rigs/"><u>Top 10 Best 4K DSLR Shoulder Rigs</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/what-to-do-when-your-smart-home-assistant-alexa-wont-respond/"><u>What to Do When Your Smart Home Assistant, Alexa, Won’t Respond</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-darkened-details-expert-techniques-for-night-photography-success/"><u>2024 Approved Darkened Details Expert Techniques for Night Photography Success</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-motorola-moto-g24-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Motorola Moto G24 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-wearable-camera-innovations-for-2024/"><u>Best Wearable Camera Innovations for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/boosting-your-ubisoft-connect-speeds-ultimate-tips-and-tricks/"><u>Boosting Your Ubisoft Connect Speeds: Ultimate Tips and Tricks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-the-mystery-of-windowed-objects/"><u>Decoding the Mystery of Windowed Objects</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/exploring-the-top-long-range-electric-vehicles-teslas-best-performers/"><u>Exploring the Top Long-Range Electric Vehicles: Tesla's Best Performers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-maplestory-crashing-problems-in-windows-10-expert-advice-and-solutions/"><u>How to Stop MapleStory Crashing Problems in Windows 10: Expert Advice and Solutions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/impact-of-major-contract-terminations-forces-asetek-to-halt-revenue-estimates/"><u>Impact of Major Contract Terminations Forces Asetek to Halt Revenue Estimates</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-nubia-red-magic-8s-proplus-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Nubia Red Magic 8S Pro+ – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/silence-broken-comprehensive-guide-to-restore-audio-in-skyrim/"><u>Silence Broken: Comprehensive Guide to Restore Audio in Skyrim</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-adobe-application-error-code-0xc0000022-a-comprehensive-guide/"><u>Solving Adobe Application Error Code 0xC0000022 - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-solutions-to-lower-discords-high-cpu-usage-updated-guide-for-2nnd4/"><u>Step-by-Step Solutions to Lower Discord's High CPU Usage - Updated Guide for 2Nnd4</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-samsung-galaxy-m14-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Samsung Galaxy M14 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-fixing-issues-with-logitech-g-hub-compatibility-on-pc/"><u>Troubleshooting Guide: Fixing Issues with Logitech G Hub Compatibility on PC</u></a></li>
 </ul></div>
 

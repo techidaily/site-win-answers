@@ -1,7 +1,7 @@
 ---
 title: "Resolved: How to Fix the 'UE4-Madness' Unreal Engine Crash in Outriders"
-date: 2024-08-19T00:31:32.745Z
-updated: 2024-08-20T00:31:32.745Z
+date: 2025-01-21T17:02:48.638Z
+updated: 2025-01-24T16:40:00.493Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/773b13fe6e17412a9b5b64d4e711163f73a0c0700
 
 If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your pain is shared by quite a few others. Although addressing this problem is undoubtedly a trial-and-error process, there’re still some fixes that have proved useful to many players. So let’s dive right in and see what they are.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6 Fixes for Path of Exile Crashing
 
  There you go – 6 fixes that could help you resolve PoE crashing. You can try any of them selectively, or try them one by one; just work your way down the list until you find the one that does the trick for you.
@@ -38,9 +35,6 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 1: Verify if your PC meets the system requirements for PoE
 
  First and foremost, you should verify if your computer can handle PoE. Here’s the information you may need:
@@ -73,6 +67,10 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your graphics card drivers
 
  Your crashing issue with PoE may be caused by outdated or corrupt graphics card drivers. To check if that’s the root cause, you should try updating your graphics driver to a relatively new and stable version first.
@@ -87,9 +85,6 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
  3) Click the **Update**  button next to a flagged driver (say your graphics card driver) to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -97,6 +92,10 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you have any problems using Driver Easy to update your driver, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
 
@@ -114,16 +113,10 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
 
  2) Right-click **Path of Exile** and select **Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-17.png)
 
  3) Go to the **LOCAL FILES** tab and select **VERIFY INTEGRITY OF GAME FILES…** . Then wait for the process to be complete.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-18.png)
 
  4) Once complete, exit Steam and reopen it. Run PoE and wait to see if it keeps crashing.
@@ -131,6 +124,10 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
 In case this fix didn’t help, please move on to Fix 4.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Run RoE as an administrator
 
@@ -145,10 +142,11 @@ In case this fix didn’t help, please move on to Fix 4.
 
  2) In the Properties window, on the **Compatibility** tab, select **Run this program as an administrator** . Then click **Apply > OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-19.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now you should be able to run RoE under administrator privileges permanently. If you want to revert this configuration, simply uncheck **Run this program as an administrator** .
 
@@ -157,8 +155,9 @@ Still unable to solve the problem? If yes, proceed to the next fix.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Change certain in-game configurations
 
  According to many players, turning off**Engine Multithreading** and**VSync** under Graphics settings has cleared up the crashing problem for them. Here’s how to do it:
@@ -166,6 +165,10 @@ Still unable to solve the problem? If yes, proceed to the next fix.
  1) On the Log-in screen, click**OPTIONS** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-13.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) On the**Graphics** tab, disable**Engine Multithreading** and**VSync** .
 
@@ -177,9 +180,6 @@ Still unable to solve the problem? If yes, proceed to the next fix.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ### Fix 6: Stop overclocking
 
  To anyone in pursuit of ultimate gaming experience, it’s quite common to speed up the CPU/GPU a notch or two. Usually, it won’t cause you much trouble; just don’t push them too hard – otherwise, the overclocking may undermine the stability of your PC, raising the risks of game crashes and even hardware malfunction (such as overheat).
@@ -199,8 +199,6 @@ Still unable to solve the problem? If yes, proceed to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -208,4 +206,26 @@ Still unable to solve the problem? If yes, proceed to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-social-network-videos-downloaded-for-audio-conversion/"><u>[New] 2024 Approved Social Network Videos Downloaded for Audio Conversion</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-free-guide-to-windows-desktop-captures-and-recordings/"><u>[Updated] 2024 Approved Free Guide to Windows Desktop Captures & Recordings</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/advancing-logistics-boost-efficiency-with-smart-automation-solutions/"><u>Advancing Logistics: Boost Efficiency with Smart Automation Solutions</u></a></li>
+<li><a href="https://fox-info.techidaily.com/brilliant-barrage-essential-gadgets-for-clips/"><u>Brilliant Barrage Essential Gadgets for Clips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bypassing-directx-compatibility-problems-in-call-of-dutys-latest-installment/"><u>Bypassing DirectX Compatibility Problems in Call of Duty's Latest Installment</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easy-installation-instructions-for-hyper-v-feature-on-windows-10-systems/"><u>Easy Installation Instructions for Hyper-V Feature on Windows 10 Systems</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/efficient-lecture-capture-with-macos-for-2024/"><u>Efficient Lecture Capture with MacOS for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-msi-afterburner-cant-recognize-your-graphics-card-in-windows-10-or-11/"><u>How to Fix: MSI Afterburner Can't Recognize Your Graphics Card in Windows 10 or 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-successfully-address-the-issue-of-zoom-not-showing-your-video/"><u>How to Successfully Address the Issue of Zoom Not Showing Your Video</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-itel-a60s-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Itel A60s FRP</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-vivo-x90s-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Vivo X90S</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-the-battlefield-conquering-chivalry-2-groggy-performance-and-slow-response-times-with-new-tricks-expert-insights/"><u>Master the Battlefield: Conquering Chivalry 2' Groggy Performance and Slow Response Times with New Tricks [Expert Insights]</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016083279-obs-microphone-not-working-heres-how-to-record-sound-again/"><u>OBS Microphone Not Working? Here's How to Record Sound Again!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-sea-of-thieves-endless-startup-loop-challenge/"><u>Overcoming Sea of Thieves' Endless Startup Loop Challenge</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/real-time-chatgpt-info-global-value/"><u>Real-Time ChatGPT Info, Global Value</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-your-download-dilemma-what-to-do-when-qbittorrent-freezes-up/"><u>Solving Your Download Dilemma: What to Do When qBittorrent Freezes Up</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-repair-tips-for-a-malfunctioning-samsung-soundbar/"><u>Step-by-Step Repair Tips for a Malfunctioning Samsung Soundbar</u></a></li>
+<li><a href="https://win-answers.techidaily.com/why-fall-guys-wont-start-expert-solutions-to-launch-and-crash-issues/"><u>Why Fall Guys Won't Start? Expert Solutions to Launch and Crash Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723002130773-wwe-2k22-resolving-your-pcs-stuttering-and-freezing-issues-expert-tips/"><u>WWE 2K22 - Resolving Your PC's Stuttering and Freezing Issues | Expert Tips</u></a></li>
+</ul></div>
 

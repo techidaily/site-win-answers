@@ -1,7 +1,7 @@
 ---
 title: "Get Back Into the Action: Essential Fixes for Starting Fallout 3"
-date: 2025-01-10T17:12:03.287Z
-updated: 2025-01-18T10:24:31.854Z
+date: 2025-01-17T19:11:13.082Z
+updated: 2025-01-24T17:19:00.075Z
 tags:
   - win11
   - win10
@@ -48,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/c097d4cbd7f38690c40368b7c00be742b01b3a584
 
 If rebooting your PC doesn’t solve your problem, try the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 2: Check your browser
 
  When you choose a game on Roblox’s website and click to play, there should be a pop-up window that allows you to open the Roblox app. If the pop-up window doesn’t show in your browser, or it won’t launch Roblox with your permission, then you can**try using another browser** .
@@ -59,6 +55,10 @@ If rebooting your PC doesn’t solve your problem, try the next fix.
  In addition,**check if your browser is up-to-date** . If not, update it then test the issue. Some players are also able to launch Roblox after they**clear the browser’s cache** , so it’s definitely worth trying.
 
  If your browser doesn’t seem to be the reason for Roblox not working, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Reset your Internet options
 
@@ -77,17 +77,17 @@ If rebooting your PC doesn’t solve your problem, try the next fix.
 4. Check the option of**Delete personal settings** , then click**Reset** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/delete-personal-settings.png)
 5. Restart your PC to let the changes take effect.
 
- Now you can continue to use the browser of your choice and test the issue. If this doesn’t solve your problem, try the next fix.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Now you can continue to use the browser of your choice and test the issue. If this doesn’t solve your problem, try the next fix.
 
 ## Fix 4: Check your proxy settings
 
@@ -103,18 +103,18 @@ If rebooting your PC doesn’t solve your problem, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/proxy-settings.png)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  For Windows 11 users, your screen will look slightly different.  
 
 ![Windows 11 configure proxy settings](https://images.drivereasy.com/wp-content/uploads/2021/06/win11-proxy-off.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If this fix doesn’t help, there’s one more fix you can try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 5: Reinstall Roblox desktop app
@@ -128,10 +128,6 @@ If this fix doesn’t help, there’s one more fix you can try.
 3. Type**control panel** , then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_17-53-31.jpg)
 4. Switch to**View by: Small icons** , then click**Programs & Features** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/programs-and-features.png)
 5. Find Roblox, right-click it then click**Uninstall** .
@@ -165,6 +161,10 @@ If this fix doesn’t help, there’s one more fix you can try.
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) For example, I want to update my graphics and network adapter driver here. Click the **Update**  button next to the flagged drivers to automatically download the correct version of them. Then you can manually install them (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg) **The Pro version of Driver Easy** comes with full technical support.  
@@ -192,22 +192,20 @@ If this fix doesn’t help, there’s one more fix you can try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-step-by-step-guide-to-editing-and-optimizing-instagram-footage/"><u>[Updated] In 2024, Step-by-Step Guide to Editing and Optimizing Instagram Footage</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On OnePlus 11R | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/addressing-disconnected-logitech-hub-on-win1011/"><u>Addressing Disconnected Logitech Hub on Win10/11</u></a></li>
-<li><a href="https://fox-where.techidaily.com/apowersoft-introduces-enhanced-screencapture-pro-version-11/"><u>Apowersoft Introduces Enhanced ScreenCapture Pro Version 1.1</u></a></li>
-<li><a href="https://win-answers.techidaily.com/black-ops-cold-war-troubleshooting-guide-solving-error-0xc0000005/"><u>Black Ops Cold War Troubleshooting Guide - Solving Error 0Xc0000005</u></a></li>
-<li><a href="https://win-answers.techidaily.com/enhancing-fluidity-in-age-of-empires-iv-tips-to-stop-game-stutters/"><u>Enhancing Fluidity in Age of Empires IV: Tips to Stop Game Stutters</u></a></li>
-<li><a href="https://win-answers.techidaily.com/explore-the-depth-of-detroid-consciousness-the-ultimate-guide-to-fluid-gaming-performance-on-pc/"><u>Explore the Depth of Detroid Consciousness – The Ultimate Guide to Fluid Gaming Performance on PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-an-unresponsive-oculus-link-screen-6-rapid-remedies/"><u>Fixing an Unresponsive Oculus Link Screen - 6 Rapid Remedies</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723010013535-house-flipper-2-stability-issues-heres-how-to-ensure-smooth-running-on-windows-systems/"><u>House Flipper 2 Stability Issues? Here's How to Ensure Smooth Running on Windows Systems!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-p55-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on P55 5G</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Watch Hulu Outside US On Apple iPhone 14 | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/innovative-tech-unveiled-a-comprehensive-guide-to-the-iphone-12/"><u>Innovative Tech Unveiled: A Comprehensive Guide to the iPhone 12</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcome-warzone-stuttering-on-pc-pro-tips-and-tricks/"><u>Overcome Warzone Stuttering on PC - Pro Tips & Tricks</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/the-steps-youtube-takes-once-a-video-is-submitted-for-viewing/"><u>The Steps YouTube Takes Once a Video Is Submitted for Viewing</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/trouble-with-iphone-14-pro-max-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>Trouble with iPhone 14 Pro Max Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-pc-problems-resolving-valheims-intermittent-lag-and-hitches/"><u>Troubleshooting PC Problems: Resolving Valheim's Intermittent Lag and Hitches</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-resolving-csgo-startup-issues/"><u>Troubleshooting Steps for Resolving CS:GO Startup Issues</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-the-art-of-modern-360-camera-purchases-2enas/"><u>[New] Mastering the Art of Modern 360 Camera Purchases (2Enas)</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-transform-your-media-quickly-macs-simple-guide-to-resized-insta-content/"><u>[Updated] 2024 Approved Transform Your Media Quickly Mac's Simple Guide to Resized Insta Content</u></a></li>
+<li><a href="https://win-answers.techidaily.com/experiencing-amusement-in-pokemon-shining-pearl-a-playful-exploration/"><u>Experiencing Amusement in 'Pokemon Shining Pearl': A Playful Exploration</u></a></li>
+<li><a href="https://extra-information.techidaily.com/expert-advice-on-optimal-live-cricket-broadcast-watching/"><u>Expert Advice on Optimal Live Cricket Broadcast Watching</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-motorola-moto-g14-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Motorola Moto G14 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-razr-40-ultra-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Motorola Razr 40 Ultra Phone without Any Data Loss</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722983992733-is-xbox-live-functional-a-quick-guide-to-assess-server-uptime/"><u>Is Xbox Live Functional? A Quick Guide to Assess Server Uptime.</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722999454345-necromundas-hired-gun-still-suffering-pc-crashes-heres-how-to-overcome-that/"><u>Necromunda's Hired Gun Still Suffering PC Crashes? Here’s How to Overcome That</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-warframe-startup-problems-expert-tips-for-gamers/"><u>Resolving Warframe Startup Problems: Expert Tips for Gamers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/sculpting-brilliance-a-deep-dive-into-hdr-in-lightroom-for-2024/"><u>Sculpting Brilliance A Deep Dive Into HDR in Lightroom for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-high-cpu-consumption-in-god-of-war-a-step-by-step-guide/"><u>Solving High CPU Consumption in God of War: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-solution-for-not-installed-easy-anti-cheat-during-eac-initialization/"><u>Step-by-Step Solution for 'Not Installed' Easy Anti-Cheat During EAC Initialization</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-ultimate-fix-for-sound-glitches-in-dying-light-expert-tips-inside/"><u>The Ultimate Fix for Sound Glitches in Dying Light – Expert Tips Inside</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/transform-your-ipad-pro-experience-with-unique-wallpaper-designs-for-ios-11-download-guide/"><u>Transform Your iPad Pro Experience with Unique Wallpaper Designs for iOS 11 Download Guide</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/why-is-your-gpu-performance-lagging-expert-diagnosis-and-solutions-yl-tech-insights/"><u>Why Is Your GPU Performance Lagging? Expert Diagnosis & Solutions - YL Tech Insights</u></a></li>
 </ul></div>
 

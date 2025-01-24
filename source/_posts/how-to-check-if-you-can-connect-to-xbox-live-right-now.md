@@ -1,7 +1,7 @@
 ---
 title: How to Check If You Can Connect To Xbox Live Right Now!
-date: 2025-01-15T23:31:49.183Z
-updated: 2025-01-18T08:55:57.340Z
+date: 2025-01-17T18:00:04.939Z
+updated: 2025-01-24T16:32:44.854Z
 tags:
   - win11
   - win10
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/7f8f4d19272d4759318cbc88d919ca0c7c48f6200
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -50,10 +50,6 @@ thumbnail: https://thmb.techidaily.com/7f8f4d19272d4759318cbc88d919ca0c7c48f6200
 7. **[Use a VPN](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Do a clean install](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Run the game as administrator
 
  Some programs need administrator rights to function properly. To ensure Microsoft Flight Simulator works properly, you can run the game as an administrator. Here’s how:
@@ -62,10 +58,6 @@ thumbnail: https://thmb.techidaily.com/7f8f4d19272d4759318cbc88d919ca0c7c48f6200
 2. In the search box on the taskbar, type**Microsoft Flight Simulator** .
 3. Select**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-admin.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Check if you can get past the checking for updates screen.
 
@@ -83,11 +75,7 @@ If the issue remains, try the next fix.
 3. Select the **Local files** tab then click the **Verify integrity of game files…** button.![](https://www.drivereasy.com/wp-content/uploads/2021/09/Microsoft-Flight-Simulator-Verify-integrity-of-game-files.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Steam will scan the installation and download missing files or remove outdated or corrupted files. This process may take several minutes.
@@ -101,16 +89,20 @@ If the issue remains, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/mfs-app-settings.jpg)
 3. On the page that opens, select**Repair** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/repair-mfs.jpg)
 4. Windows will begin to scan and repair your game files.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. After the process is completed, relaunch the game and test if you can get past the checking for updates screen.
 
 If this method doesn’t work for you, go ahead with the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Install all Windows updates
 
@@ -119,10 +111,6 @@ If this method doesn’t work for you, go ahead with the next fix.
 1. On your keyboard, press the**Window logo key** . Then type**check for updates** . Click**Check for updates** from the list of results.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/win11-search-bar-check-for-updates.jpg)
 2. Under Windows Update, click**Check for updates** . Windows will automatically download and install the available updates.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Check-for-updates-button-1.jpg)
 
@@ -145,13 +133,13 @@ If this method doesn’t work for you, go ahead with the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/de-wifi6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you’ve updated your network driver, restart your PC and Microsoft Flight Simulator to see if you can get past the checking for updates screen.
 
  If updating your network driver doesn’t do the trick, continue to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Move the community folder
 
@@ -188,6 +176,10 @@ on Windows 10:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/updates-security.jpg)
 3. In the left panel, select**Windows Security** , then click**Virus & threat protection** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/virus-threat-protection.jpg)
 4. Under Virus & threat protection settings, select**Manage settings** .  
 
@@ -212,12 +204,12 @@ on Windows 11:
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/win11-virus-and-threat-protection-settings-manage-settings.jpg)
 5. Under**Exclusions** , click**Add or remove exclusions** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/win11-add-or-remove-exclusions.jpg)
 6. Click**Add an exclusion** , and then select your game’s installation folder to exclude your game from Microsoft Defender Antivirus scans.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/win11-Add-an-exclusion.jpg)
 
@@ -254,6 +246,10 @@ Here are some gaming VPNs we recommend:
 
 If this method doesn’t solve your problem, check out the last fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 8: Do a clean install
 
  If none of the fixes above solve your problem, try uninstalling and reinstalling the game completely. Before doing a clean install, search the[Bugs & Issue forum](https://forums.flightsimulator.com/c/bugs-and-issues/200)  in case other players shared additional troubleshooting steps.
@@ -279,11 +275,15 @@ If this method doesn’t solve your problem, check out the last fix.
 3. Click on **Uninstall**  to confirm your choice.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/uninstall-Microsoft-Flight-Simulator-Confirm.png)
 4. Once uninstalled, check to make sure that all the packages are deleted. The default package installation location is: **C:\\Users\\YourUsername\\AppData\\Roaming\\Microsoft Flight Simulator\\Packages**  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Note: If you have installed the packages in a custom folder, search for that folder instead.
 5. Move any leftover files or folders to the Recycle Bin.
@@ -312,21 +312,21 @@ If this method doesn’t solve your problem, check out the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-mastering-color-changes-11-essential-tips/"><u>[New] 2024 Approved Mastering Color Changes 11 Essential Tips</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-tonal-transition-triumphs-for-creative-virtuosos/"><u>[New] Tonal Transition Triumphs for Creative Virtuosos</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-a-deep-dive-into-instagrams-copyrighted-song-permissions/"><u>[Updated] 2024 Approved A Deep Dive Into Instagram's Copyrighted Song Permissions</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-utilizing-the-virtual-whiteboard-in-webinars-cross-platform-tips-and-tricks/"><u>[Updated] In 2024, Utilizing the Virtual Whiteboard in Webinars Cross-Platform Tips and Tricks</u></a></li>
-<li><a href="https://win-answers.techidaily.com/complete-step-by-step-tutorial-resolving-teardown-system-failures/"><u>Complete Step-by-Step Tutorial: Resolving Teardown System Failures</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixes-and-solutions-overcoming-pc-issues-in-spellbreak/"><u>Fixes and Solutions: Overcoming PC Issues in Spellbreak</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-freezing-problem-in-fallout-4-on-your-computer/"><u>How to Fix Freezing Problem in Fallout 4 on Your Computer</u></a></li>
-<li><a href="https://win-answers.techidaily.com/optimizing-bloodhunt-performance-a-guide-to-stop-game-disruptions-and-delays/"><u>Optimizing Bloodhunt Performance: A Guide to Stop Game Disruptions and Delays</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-dota-2-connectivity-issues-expert-advice-from-2024/"><u>Overcoming Dota 2 Connectivity Issues - Expert Advice From 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/revolutionary-leap-intel-enhances-performance-of-moon-inspired-silicon-wafers/"><u>Revolutionary Leap: Intel Enhances Performance of Moon-Inspired Silicon Wafers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/seamless-adventure-awaits-in-diablo-immortal-pc-expert-guide-for-zero-crash-gameplay/"><u>Seamless Adventure Awaits in Diablo Immortal (PC): Expert Guide for Zero-Crash Gameplay -</u></a></li>
-<li><a href="https://blog-min.techidaily.com/simple-solutions-resolving-the-windows-media-player-aac-format-error/"><u>Simple Solutions: Resolving the Windows Media Player AAC Format Error</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-graphics-initialization-problems-solving-errgfxd3dinit-on-gta-v/"><u>Troubleshooting GRAPHICS Initialization Problems: Solving ERR_GFX_D3D_INIT on GTA V</u></a></li>
-<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-on-apple-iphone-se-2022-by-drfone-ios/"><u>Unlock Apple ID without Phone Number On Apple iPhone SE (2022)</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/unveiling-top-win11-videography-software-selections-for-2024/"><u>Unveiling Top Win11 Videography Software Selections for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/windows-media-player-guide-to-cd-ripping-and-burning-for-2024/"><u>Windows Media Player Guide to CD Ripping and Burning for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-becoming-a-pro-at-using-igtv-for-business-and-personal-growth/"><u>[New] Becoming a Pro at Using IGTV for Business and Personal Growth</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-8-essential-tools-for-your-youtube-to-avi-needs/"><u>[New] In 2024, 8 Essential Tools for Your YouTube-to-AVI Needs</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-compreranium-unpacking-apeaksoft-screen-tech-2023-edition-for-2024/"><u>[Updated] Compreranium Unpacking Apeaksoft Screen Tech, 2023 Edition for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-youtube-intro-steps-and-template-guide/"><u>[Updated] In 2024, Free YouTube Intro Steps and Template Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-reel-in-viewers-mastery-of-live-360-video-broadcasts-on-youtube/"><u>[Updated] Reel In Viewers Mastery of Live 360 Video Broadcasts on Youtube</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-grasping-the-glossary-of-virtual-worlds/"><u>2024 Approved Grasping the Glossary of Virtual Worlds</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/controlling-system-integrity-levels-a-users-guide-to-interact-with-trustedinstaller-in-windows-10/"><u>Controlling System Integrity Levels: A User's Guide to Interact with TrustedInstaller in Windows 10</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-enjoy-a-seamless-experience-of-baldurs-gate-3-without-system-crashes-pc-edition/"><u>How to Enjoy a Seamless Experience of Baldur's Gate 3 without System Crashes (PC Edition)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-your-lunar-client-from-constantly-crashing-solution-included/"><u>How to Stop Your Lunar Client From Constantly Crashing (Solution Included)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/la-noire-pc-launch-issues-cleared-now-available-for-download/"><u>LA Noire PC Launch Issues Cleared: Now Available for Download</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-diablo-4-performance-eradicate-pc-ps5-and-xbox-interruptions-once-and-for-all/"><u>Master Diablo 4 Performance: Eradicate PC, PS5 & Xbox Interruptions Once & For All</u></a></li>
+<li><a href="https://win-answers.techidaily.com/persistent-bugs-call-of-duty-vanguard-still-causing-crashes-for-windows-users/"><u>Persistent Bugs: Call of Duty Vanguard Still Causing Crashes for Windows Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-found-for-the-postponed-release-of-immortals-fenyx-rising-game/"><u>Solution Found for the Postponed Release of Immortals: Fenyx Rising Game</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-clarity-connoisseurs-guide-top-tips-for-perfecting-pc-displays/"><u>The Clarity Connoisseur's Guide: Top Tips for Perfecting PC Displays</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-when-your-astro-a50-headset-is-unresponsive-in-the-game/"><u>Troubleshooting Steps When Your Astro A50 Headset Is Unresponsive in the Game</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unveiling-the-secrets-to-professional-youtube-content-creation-for-2024/"><u>Unveiling the Secrets to Professional YouTube Content Creation for 2024</u></a></li>
 </ul></div>
 

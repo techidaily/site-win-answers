@@ -1,7 +1,7 @@
 ---
 title: "[RESOLVED] Call of Duty: Black Ops Cold War Stability Fix for PC Users"
-date: 2024-08-19T00:32:28.779Z
-updated: 2024-08-20T00:32:28.779Z
+date: 2025-01-20T18:39:33.425Z
+updated: 2025-01-24T17:31:12.711Z
 tags:
   - win11
   - win10
@@ -15,16 +15,10 @@ thumbnail: https://thmb.techidaily.com/a9744aafdac80a7e4f169749236f6a9a3444533f4
 
 ## Diablo Immortal Stability Hacks for Players: No More PC Crashes
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/diablo-immortal-game.jpg)
 
  Diablo Immortal is arriving but many players reported that it doesn’t work as smoothly as expected. If you’re on PC and also encounter the Diablo Immortal crashing on startup, don’t worry. After reading this post, you’ll learn 6 simple fixes that solve your problem easily.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6 fixes to try
 
  You may not try them all. Just work from the top down until you find the one that does the trick.
@@ -37,8 +31,9 @@ thumbnail: https://thmb.techidaily.com/a9744aafdac80a7e4f169749236f6a9a3444533f4
 6. **[Disable Discord overlay](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1 – Unplug peripherals
 
  If you have a gamepad or controller connected to the computer, it’s likely they’ve interfered with Diablo Immortal and triggered the crash. You could simply **unplug those peripherals like the wheel, controller or other USB devices** to see if the problem gets fixed. If not, check out the next solution.
@@ -50,11 +45,13 @@ thumbnail: https://thmb.techidaily.com/a9744aafdac80a7e4f169749236f6a9a3444533f4
 1. Launch the**Battle.net** launcher and select**Diablo Immortal** from the top pane.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/force-windowed-mode-1.jpg)
 2. Click the**gear icon** next to the Play button and click**Game Settings** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/force-windowed-mode-2.jpg)
 3. Tick**Additional command line arguments** . Then type**\-w** in the field and click**Done** at the bottom right corner.  
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/force-windowed-mode-3.jpg)
 
  Now that you’ve applied the changes, relaunch the game to test the issue. If the crashes persist, move on to the third fix below.
@@ -70,8 +67,9 @@ thumbnail: https://thmb.techidaily.com/a9744aafdac80a7e4f169749236f6a9a3444533f4
  Check if the game works normally now. If not, revert the folder’s name and try the next method.
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4 – Update your graphics driver
 
  The graphics card driver is very essential for gaming performance. If you’re using a faulty or outdated graphics driver, you may suffer from various performance issues of Diablo Immortal including game crashes, low FPS and stuttering. And you should update the graphics driver for maximum gameplay.
@@ -89,21 +87,19 @@ thumbnail: https://thmb.techidaily.com/a9744aafdac80a7e4f169749236f6a9a3444533f4
 
  When the update finishes, reboot your computer for the changes to take effect. The game should be running more smoothly with better performance. If not, take a look at the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ### Fix 5 – Scan and repair game files
 
  Verifying the game files is a common workaround for you to resolve random crashes or failed installations. If there’s something wrong with the game files, you can have them repaired following the instruction below.
 
 1. Open the**Battle.net launcher** .
 2. Select**Diablo Immortal** from the game list. Then click the**gear icon** beside the Play button and click**Scan and Repair** .  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/scan-game-files.jpg)
 3. Click**Begin Scan** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/scan-game-files-2-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The scanning will start immediately, followed by a repair update if missing or corrupt files are found. Once done, restart the game and see how it works. Still no luck? There is one more fix to try.
 
@@ -115,10 +111,16 @@ thumbnail: https://thmb.techidaily.com/a9744aafdac80a7e4f169749236f6a9a3444533f4
 2. Click the**gear icon** in the lower-left corner.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/7-2-1-1.jpg)
 3. Select**Game Overlay** from the left pane and**toggle off** the button for**Enable in-game overlay** .  
+
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/7-2-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Close Discord and relaunch your game. If the crashes occur again, you may need to contact Blizzard support for specific assistance.
 
@@ -135,8 +137,6 @@ thumbnail: https://thmb.techidaily.com/a9744aafdac80a7e4f169749236f6a9a3444533f4
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -144,4 +144,21 @@ thumbnail: https://thmb.techidaily.com/a9744aafdac80a7e4f169749236f6a9a3444533f4
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-mobile-streams-on-youtube-less-than-1000-subs-no-problem/"><u>[New] In 2024, Mobile Streams on YouTube Less Than 1000 Subs? No Problem</u></a></li>
+<li><a href="https://win-answers.techidaily.com/2024s-persistent-loading-problem-on-phasmophobia-strategies-to-surpass-90/"><u>2024'S Persistent Loading Problem on Phasmophobia - Strategies to Surpass 90%</u></a></li>
+<li><a href="https://win-answers.techidaily.com/doom-eternals-release-postponed-get-ready-with-this-must-know-fix-for-gamers/"><u>DOOM Eternal's Release Postponed? Get Ready with This Must-Know Fix for Gamers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-techniques-to-successfully-reboot-your-macbook-pro/"><u>Expert Techniques to Successfully Reboot Your MacBook Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-iphone-12-mini-by-drfone-ios/"><u>How to Remove and Reset Face ID on iPhone 12 mini</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/leveraging-zoom-features-for-improved-tiktok-videos-for-2024/"><u>Leveraging Zoom Features for Improved TikTok Videos for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-rocket-league-stability-avoid-game-crashes-with-these-tips-for-2er-4/"><u>Master Rocket League Stability: Avoid Game Crashes with These Tips for 2Er-4</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/real-time-streaming-with-manycam-top-tools-for-virtual-webcams-and-live-broadcasting/"><u>Real-Time Streaming with ManyCam: Top Tools for Virtual Webcams and Live Broadcasting</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/revamping-videos-the-art-of-editing-via-story-remix-and-windows-photos/"><u>Revamping Videos The Art of Editing via Story Remix and Windows Photos</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/simplify-your-edits-mastering-the-art-of-vimeo-video-snipping-in-5-ways/"><u>Simplify Your Edits Mastering the Art of Vimeo Video Snipping in 5 Ways</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-found-troubleshooting-google-chrome-when-it-wont-start-up/"><u>Solution Found: Troubleshooting Google Chrome When It Won't Start Up</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-rated-m2ts-format-converter-for-crisp-clear-output-best-picks/"><u>Top Rated M2TS Format Converter for Crisp, Clear Output - Best Picks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unstuck-rust-applications-advanced-troubleshooting-techniques/"><u>Unstuck Rust Applications: Advanced Troubleshooting Techniques</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unveiling-the-secrets-exploring-the-concept-of-perpetual-rebirth-in-black-life/"><u>Unveiling the Secrets: Exploring the Concept of 'Perpetual Rebirth in Black Life'</u></a></li>
+</ul></div>
 

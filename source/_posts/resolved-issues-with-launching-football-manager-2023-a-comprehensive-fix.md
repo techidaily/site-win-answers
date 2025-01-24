@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Issues with Launching Football Manager 2023 – A Comprehensive Fix"
-date: 2025-01-11T07:16:21.713Z
-updated: 2025-01-17T23:32:50.604Z
+date: 2025-01-19T17:00:25.239Z
+updated: 2025-01-24T17:19:17.843Z
 tags:
   - win11
   - win10
@@ -41,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/521e77f0b3c0772eff4a23cfd11435c9aec9bd0ff
 
  Make sure you’re playing Football Manager 2022 in a 64-bit processor and operating system. If you’re on a 32-bit system, it’s recommended to upgrade your system and perhaps your device.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2\. Add an exception to your antivirus
 
  Antivirus is known to interfere with Football Manager 2022 and most of your Steam games. To make sure you can run your game, make sure you have added Football Manager 2022 as an exception to your antivirus software.
@@ -70,10 +66,6 @@ thumbnail: https://thmb.techidaily.com/521e77f0b3c0772eff4a23cfd11435c9aec9bd0ff
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/driver-easy-5.7.1.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![update all drivers](https://images.drivereasy.com/wp-content/uploads/2021/10/update-all.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -82,7 +74,7 @@ thumbnail: https://thmb.techidaily.com/521e77f0b3c0772eff4a23cfd11435c9aec9bd0ff
 After updating your drivers, restart your PC and test the gameplay.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4\. Verify the integrity of game files
@@ -94,14 +86,18 @@ After updating your drivers, restart your PC and test the gameplay.
 2) Go to LIBRARY, right-click on Football Manager 2022 and select **Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Go to **LOCAL FILES** and click **Verify integrity of game files…**
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
-Once complete, launch the game to check if your game is working again.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Once complete, launch the game to check if your game is working again.
 
 ### Fix 5\. Delete the Caches and Preferences folder
 
@@ -115,6 +111,10 @@ Once complete, launch the game to check if your game is working again.
 
  3) Navigate to **C:\\Users\\\[Your Windows Username\]\\AppData\\Local\\Sports Interactive\\Football Manager 2022** and then delete the**Caches** and**Preferences** folder.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6\. Run the game executable file as admin
 
  If you can’t launch Football Manager 2022 after following the steps above, you may want to run this executable game file directly to see if this helps.
@@ -123,9 +123,17 @@ Once complete, launch the game to check if your game is working again.
 
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Select **Local Files** and then**Browse local files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Locate the game’s executable and run the game as an administrator.
 
@@ -139,15 +147,7 @@ Once complete, launch the game to check if your game is working again.
  2) In the **GENERAL** tab, uncheck **Enable the Steam Overlay while in-game** and type **\-windowed** under **LAUNCH OPTIONS** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_17-39-55.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Launch your Football Manager 2022 to check if your launch issues have been resolved successfully.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 8\. Repair your system files
 
@@ -180,7 +180,7 @@ Once complete, launch the game to check if your game is working again.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Option 2 – Manually
@@ -195,10 +195,6 @@ Once complete, launch the game to check if your game is working again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/cmd-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Click**Yes** when prompted for permission to make changes to your device.
 
  2) In the Command Prompt, type the following command and hit**Enter** .
@@ -208,6 +204,10 @@ sfc /scannow
  3) System File Check will begin to scan all system files and repair any corrupted or missing ones it detected. This may take 3-5 minutes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/scan-now.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) You may receive something like the following messages after the verification.
 
@@ -266,22 +266,20 @@ Feel free to drop us a line if you have any suggestions or questions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-earning-through-snaps-a-guide/"><u>[New] 2024 Approved Earning Through Snaps A Guide</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-expert-advice-on-logging-google-voice-chats-for-2024/"><u>[New] Expert Advice on Logging Google Voice Chats for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-peering-into-the-heart-of-4k-vision-with-benqs-ultra-hd-model-bl2711u/"><u>[New] Peering Into the Heart of 4K Vision with BenQ’s Ultra HD Model, BL2711U</u></a></li>
-<li><a href="https://win-answers.techidaily.com/can-snapdragon-x-match-up-to-apple-silicon-qualcomm-demonstrates-its-capabilities/"><u>Can Snapdragon X Match Up to Apple Silicon? Qualcomm Demonstrates Its Capabilities</u></a></li>
-<li><a href="https://win-answers.techidaily.com/contact-tracing/"><u>Contact Tracing</u></a></li>
-<li><a href="https://win-answers.techidaily.com/create-your-bootable-windows-11-usb-today-prepare-before-the-unexpected-happens/"><u>Create Your Bootable Windows 11 USB Today - Prepare Before the Unexpected Happens</u></a></li>
-<li><a href="https://win-answers.techidaily.com/easily-manage-your-linux-wsl-environment-within-windows-os-a-comprehensive-tutorial/"><u>Easily Manage Your Linux WSL Environment Within Windows OS: A Comprehensive Tutorial</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-solutions-how-to-restore-your-google-maps-service-when-disruptions-occur/"><u>Effective Solutions: How to Restore Your Google Maps Service When Disruptions Occur</u></a></li>
-<li><a href="https://win-answers.techidaily.com/elevated-era-of-pc-gaming-ditching-the-need-for-launchers/"><u>Elevated Era of PC Gaming: Ditching the Need for Launchers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/enhanced-windows-11-microsoft-revives-recall-functionality/"><u>Enhanced Windows 11: Microsoft Revives Recall Functionality</u></a></li>
-<li><a href="https://win-answers.techidaily.com/essential-tips-reducing-system-load-and-maximizing-efficiency-on-windows-machines/"><u>Essential Tips: Reducing System Load and Maximizing Efficiency on Windows Machines</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Xiaomi 14 Pro? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-through-donald-trumps-enhanced-trade-policies-on-tech-industry-essential-insights-and-information/"><u>Navigating Through Donald Trump's Enhanced Trade Policies on Tech Industry: Essential Insights and Information</u></a></li>
-<li><a href="https://win11.techidaily.com/swift-sanitization-of-accounts-easy-ways-to-disable-users-on-win11/"><u>Swift Sanitization of Accounts: Easy Ways to Disable Users on Win11</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/the-future-in-your-pocket-review-of-lgs-portable-4k-display/"><u>The Future in Your Pocket Review of LG's Portable 4K Display</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-tier-session-identifier-generator-for-2024/"><u>Top-Tier Session Identifier Generator for 2024</u></a></li>
-<li><a href="https://win-news.techidaily.com/1728477814728-windows-10/"><u>システム復元ポイントをWindows 10上で作成する詳しいガイド</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-maximizing-fun-in-the-stardew-ginger-region-for-2024/"><u>[Updated] Maximizing Fun in the Stardew Ginger Region for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-beginners-journey-into-the-art-of-awkward-potion-creation-in-minecraft/"><u>A Beginner's Journey Into the Art of Awkward Potion Creation in Minecraft</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/converting-and-transferring-epub-ebooks-to-enhance-your-reading-on-kindle-devices/"><u>Converting and Transferring ePub eBooks to Enhance Your Reading on Kindle Devices</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/cookiebot-driven-data-collection-optimized-site-analytics-and-personalization/"><u>Cookiebot-Driven Data Collection: Optimized Site Analytics & Personalization</u></a></li>
+<li><a href="https://win-answers.techidaily.com/diablo-immortal-on-pc-how-to-stop-those-annoying-crashes-expert-fix-strategies-for-gamers-of-2024/"><u>Diablo Immortal on PC: How to Stop Those Annoying Crashes - Expert Fix Strategies for Gamers of 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-recovery-for-windows-11-blue-screen-with-exception-handlers/"><u>Guide to Recovery for Windows 11 Blue Screen with Exception Handlers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/maximize-valheim-play-experience-2024s-ultimate-fixes-for-frame-rate-drops/"><u>Maximize Valheim Play Experience: 2024'S Ultimate Fixes for Frame Rate Drops</u></a></li>
+<li><a href="https://win-answers.techidaily.com/minecraft-glitches-demystified-fixing-the-notorious-error-code-crossbow-problems/"><u>Minecraft Glitches Demystified: Fixing the Notorious Error Code - Crossbow Problems</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/modmp4/"><u>MOD到MP4自由下載：移動瓦韋技術最佳解決方案</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-fixing-issues-when-trying-to-start-maplestory/"><u>Solved: Fixing Issues When Trying to Start MapleStory</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-microsoft-edge-by-disabling-redundant-features-techniques-and-tips/"><u>Streamlining Microsoft Edge by Disabling Redundant Features - Techniques and Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-successfully-running-a-thaumaturge-application-in-pc/"><u>Troubleshooting Tips - Successfully Running a Thaumaturge Application in PC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/turning-twitter-videos-into-audible-mp3s-for-2024/"><u>Turning Twitter Videos Into Audible MP3s for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unlock-professional-photography-the-affordable-yn560iv-speedy-flash/"><u>Unlock Professional Photography: The Affordable YN560IV Speedy Flash</u></a></li>
+<li><a href="https://win-answers.techidaily.com/why-does-genshin-impact-keep-closing-expert-fixes-for-game-stability-on-pcs/"><u>Why Does Genshin Impact Keep Closing? Expert Fixes for Game Stability on PCs</u></a></li>
 </ul></div>
 

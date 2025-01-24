@@ -1,7 +1,7 @@
 ---
 title: Why Does Genshin Impact Keep Closing? Expert Fixes for Game Stability on PCs
-date: 2025-01-17T07:34:30.102Z
-updated: 2025-01-18T04:18:27.833Z
+date: 2025-01-22T16:58:52.634Z
+updated: 2025-01-24T19:00:13.845Z
 tags:
   - win11
   - win10
@@ -33,7 +33,7 @@ The Outriders is finally out! However, many players encountered Outriders crashi
 5. **[Verify the integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1 – Run Outriders as an administrator
@@ -48,10 +48,6 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/fix-1.jpg)
 3. Right-click the**OUTRIDERS-Win64-Shipping.exe file** and select**Properties** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
 4. Navigate to the**Compatibility** tab. Then tick**Run this program as an administrator** and click**OK** .  
@@ -80,6 +76,10 @@ There are mainly two ways you can update the graphics driver:
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro versio](https://tools.techidaily.com/drivereasy/download/) [n](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
@@ -89,7 +89,7 @@ There are mainly two ways you can update the graphics driver:
  After the process finishes, restart your computer. If all the drivers are up-to-date but the gameplay is still buggy, try the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3 – Adjust the in-game settings
@@ -108,6 +108,10 @@ There are mainly two ways you can update the graphics driver:
 
  While doing this may decrease the visual performance, it’s an effective workaround for Outriders inventory/menu crashes before the full version launches.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4 – Enforce DX12
 
  Many players see a significant FPS boost when they run Outriders with DX12\. So we recommend you to force the DX12 mode to mitigate the crashing problem.
@@ -116,10 +120,6 @@ There are mainly two ways you can update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/steam.jpg)
 2. Right-click**Outriders** in the left pane and select**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-1.jpg)
 3. Under**Launch Option** , type**\-force-dx12** in the text field.  
 
@@ -127,7 +127,7 @@ There are mainly two ways you can update the graphics driver:
 4. Close the window and launch Outriders.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Please note that DX12 is not fully supported in Outriders, which means it might cause other compatibility issues like stuttering.
@@ -135,7 +135,7 @@ There are mainly two ways you can update the graphics driver:
 Still no luck with DX12? Then check out the next method below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5 – Verify the integrity of game files
@@ -149,11 +149,11 @@ Still no luck with DX12? Then check out the next method below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-1.jpg)
 3. Select**Local Files** from the left pane and click**Verify Integrity of game files** .  
 
-![](https://images.drivereasy.com/wp-content/uploads/2021/03/steam-verify-game-files.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/03/steam-verify-game-files.jpg)
 
 Once done, start Outriders and test the game.
 
@@ -180,22 +180,22 @@ Once done, start Outriders and test the game.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-streamlined-technique-for-embedding-linktree-on-tiktok/"><u>[New] In 2024, Streamlined Technique for Embedding Linktree on TikTok</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/aximize-online-revenue-monetizing-on-youtube-with-500plus-viewers/"><u>[New] Maximize Online Revenue Monetizing on Youtube with 500+ Viewers</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-streamlined-techniques-for-accumulating-large-tiktok-datasets/"><u>[New] Streamlined Techniques for Accumulating Large TikTok Datasets</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-the-counter-flow-strategy-reversing-your-youtube-video-sequence/"><u>[New] The Counter-Flow Strategy Reversing Your YouTube Video Sequence</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-the-artistic-journey-animating-scenes-with-windows-movie-maker/"><u>[Updated] 2024 Approved The Artistic Journey Animating Scenes with Windows Movie Maker</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-top-10-emulator-selections-for-mobile-gba-players/"><u>[Updated] 2024 Approved Top 10 Emulator Selections for Mobile GBA Players</u></a></li>
-<li><a href="https://win-answers.techidaily.com/far-cry-6-how-to-overcome-gameplay-interruptions-caused-by-black-screens/"><u>Far Cry 6 - How to Overcome Gameplay Interruptions Caused by Black Screens</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fast-track-master-shader-adjustments-for-star-wars-battlefront-ii/"><u>Fast Track: Master Shader Adjustments for Star Wars Battlefront II</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/free-game-themes-and-melodies-10-best-websites-for-2024/"><u>Free Game Themes & Melodies – 10 Best Websites for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/guide-to-fixing-and-preventing-blackout-glitches-in-far-cry-6/"><u>Guide to Fixing and Preventing Blackout Glitches in Far Cry 6</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722996875267-mastering-the-field-again-mlb-the-show-21-server-problems-solved/"><u>Mastering the Field Again: MLB The Show 21 Server Problems Solved.</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/mp4-vs-mpg-explained-understanding-format-variations-and-making-an-informed-selection-for-your-views/"><u>MP4 vs MPG Explained: Understanding Format Variations and Making an Informed Selection for Your Views</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcome-pc-freezing-during-minecraft-play-expert-advice-for-a-smooth-experience/"><u>Overcome PC Freezing During Minecraft Play - Expert Advice for a Smooth Experience</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/page-not-found-no-more-navigate-with-ease-using-wonderfoxs-advanced-solutions/"><u>Page Not Found No More! Navigate with Ease Using WonderFox's Advanced Solutions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/prevent-and-solve-your-pcs-counter-strike-2-game-crashing-woes-latest-tricks/"><u>Prevent and Solve Your PC's Counter-Strike 2 Game Crashing Woes - Latest Tricks</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-ensure-your-processor-matches-vanguards-minimum-requirements/"><u>Resolved: Ensure Your Processor Matches Vanguard's Minimum Requirements</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-fix-stability-issues-and-crashes-with-castlevania-symphony-of-the-night-on-windows/"><u>Ultimate Fix: Stability Issues & Crashes with Castlevania: Symphony of the Night on Windows</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-seamless-edits-navigating-photoshops-eraser-function-for-2024/"><u>[Updated] Seamless Edits Navigating Photoshop’s Eraser Function for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-diligent-duplication-in-the-world-of-insta/"><u>2024 Approved Diligent Duplication in the World of Insta</u></a></li>
+<li><a href="https://win-answers.techidaily.com/assassins-creed-valhalla-overcoming-frames-per-second-fps-fluctuations-on-your-computer-setup/"><u>Assassin's Creed Valhalla: Overcoming Frames Per Second (FPS) Fluctuations on Your Computer Setup</u></a></li>
+<li><a href="https://program-issues.techidaily.com/best-practices-for-resolving-lag-issues-in-pc-video-games/"><u>Best Practices for Resolving Lag Issues in PC Video Games</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-to-stop-game-crashes-comprehensive-troubleshooting-techniques/"><u>Expert Tips to Stop Game Crashes: Comprehensive Troubleshooting Techniques</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-error-code-0xc19001e1-when-upgradinginstalling-windows-10/"><u>How to Overcome Error Code 0Xc19001e1 When Upgrading/Installing Windows 10</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Realme 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-stability-effective-ways-to-prevent-state-of-decay-2-from-crashing-updated-tips/"><u>Mastering Stability: Effective Ways to Prevent State of Decay 2 From Crashing (Updated Tips )</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-your-msi-mystic-light-malfunction-a-complete-guide-to-fixes-in-windows/"><u>Overcome Your MSI Mystic Light Malfunction - A Complete Guide to Fixes in Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-launch-errors-a-guide-to-successfully-starting-tf2/"><u>Overcoming Launch Errors: A Guide to Successfully Starting TF2</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-nvidia-experience-connection-issues-on-win-11/"><u>Overcoming Nvidia Experience Connection Issues on Win 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-why-cant-i-access-my-steam-friend-list/"><u>Resolved: Why Can't I Access My Steam Friend List?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/star-wars-battlefront-ii-troubleshooting-guide-solving-the-mysterious-midnight-void-screen-problem/"><u>Star Wars Battlefront II Troubleshooting Guide: Solving The Mysterious Midnight Void Screen Problem</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-fixing-constant-wwe-2k22-pc-game-crashes/"><u>Troubleshooting Guide: Fixing Constant WWE 2K22 PC Game Crashes</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-deal-snag-a-macbook-air-with-apple-m1-chip-at-an-unbeatable-price-of-649/"><u>Ultimate Deal: Snag a MacBook Air with Apple M1 Chip at an Unbeatable Price of $649 !</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-repairing-damaged-pc-gaming-files/"><u>Ultimate Guide: Repairing Damaged PC Gaming Files</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-strategies-apples-potential-game-changer-moves-to-outshine-rivals-at-the-upcoming-wwdc-2024-expert-analysis/"><u>Unveiling Strategies: Apple's Potential Game-Changer Moves to Outshine Rivals at the Upcoming WWDC 2024 | Expert Analysis</u></a></li>
 </ul></div>
 

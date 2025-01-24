@@ -1,7 +1,7 @@
 ---
 title: Beat Zombie Invasion on Your Computer - A Guide to Fixing Cold War Gameplay Bugs
-date: 2024-08-19T00:33:23.451Z
-updated: 2024-08-20T00:33:23.451Z
+date: 2025-01-21T16:47:02.991Z
+updated: 2025-01-24T18:06:42.329Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/78573d1d50e3fe1a208211e6210a893de5cb63383
 Rock Star has finally launched[Red Dead Online](https://www.rockstargames.com/reddeadonline) as a standalone game. While enjoying the multiplayer-only mode for the game, you may be experiencing some annoying game crashes, such as Red Dead Online crashes at launch or randomly, the game exited unexpectedly, etc.
 
  In this article, you will find the most effective fixes and workarounds that have helped many other PC players.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Check your PC specs first
 
@@ -43,9 +47,6 @@ Rock Star has finally launched[Red Dead Online](https://www.rockstargames.com/re
 
 **RECOMMENDED**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you. The first three are some basic troubleshooting steps, you can skip these fixes if you’ve already tried them.
@@ -66,9 +67,6 @@ Rock Star has finally launched[Red Dead Online](https://www.rockstargames.com/re
 3. Locate Red Dead Online.
 4. Right-click the game and select**Properties** .
 5. Select the**Local files** tab and click the**Verify integrity of game files…** button.  
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-on-Steam-1.png)
 6. Steam will verify the game’s files – this process may take several minutes.
 
@@ -79,8 +77,9 @@ If you’re on Rockstar game launcher, you can verify integrity by:
 * Select**Verify Integrity** under Verify game file integrity from the options on the right
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Disable third-party software
 
  Some third-party tools or software can interfere with your Red Dead Online, especially if you’re using tools like MSI Afterburner or RGB software, OBS, and Bandicam. Open Task Manager (**Esc** +**Shift** +**Esc** ) to close all these background apps or simply uninstall them.
@@ -88,8 +87,9 @@ If you’re on Rockstar game launcher, you can verify integrity by:
  In addition, another possible cause of Red Dead Online crashing is your**antivirus software** . Disabling some of these services won’t always work. You can temporarily uninstall the software or add Red Dead Online to its exclusions.
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Run Red Dead Online as admin
 
  Red Dead Online crashing can be caused by a lack of admin rights. So it’s recommended to run Red Dead Online as administrator.
@@ -100,6 +100,10 @@ If you’re on Rockstar game launcher, you can verify integrity by:
 3. Click**Apply** \>**OK** and now you can run this game as administrator permanently.
 
  Now launch Red Dead Online and see if the game crashes again. If running it as an administrator did not work, you can try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -132,21 +136,19 @@ OR
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All.)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-driver-now.jpg)
 4. Restart your computer for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Stop overclocking your GPU
 
@@ -159,19 +161,12 @@ OR
 ![program settings](https://images.drivereasy.com/wp-content/uploads/2021/01/manage-3d-settings.png)
 3. Turn on**Max FPS Limit** and set the value to**30** . This will lock the game to 30 FPS and will reduce CPU and GPU load.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 6: Install Graphics Tools
 
  Some players find adding a Graphics Tool helped fix their Red Dead Online crashing issue. So if these methods above didn’t do the trick, you may want to have a try:
 
 1. In the Windows Search bar, start typing **feature** , and select **Manage** **optional features** .
 2. Click **Add a feature** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ![add graphics tools](https://images.drivereasy.com/wp-content/uploads/2021/01/add-a-feature-1.jpg)
 3. Choose **Graphics Tools** from the results list.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/add-a-graphics-tool.jpg)
@@ -179,6 +174,10 @@ OR
 5. If not, you can go to**Graphics Settings** \>**Advanced Graphics** , and make sure**Graphics API** is set to**DirectX 12** .  
 ![change Vulkan to DX12](https://images.drivereasy.com/wp-content/uploads/2021/01/DX12.png)
 6. If changing it to DX12 didn’t help, you can try reverting it back to Vulkan.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -196,8 +195,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -205,4 +202,22 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-eye-appeal-the-top-3-ways-to-increase-instagram-visibility/"><u>[Updated] 2024 Approved Eye Appeal The Top 3 Ways to Increase Instagram Visibility</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-detecting-unregistered-friends-list-for-2024/"><u>[Updated] Detecting Unregistered Friends List for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/png3/"><u>高品質PNGを動画形式に変換するための3つのコツとテクニック</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722867716548-expert-tips-for-restoring-windows-10-search-capability-get-started-now/"><u>Expert Tips for Restoring Windows 10 Search Capability – Get Started Now!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-conversion-of-ogg-to-mp4-streaming-files-with-movavis-online-tool/"><u>Free Conversion of OGG to MP4 Streaming Files with Movavi's Online Tool</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-a-step-by-step-approach-to-professional-chromatic-control/"><u>In 2024, A Step by Step Approach to Professional Chromatic Control</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-quick-fix-techniques-for-social-media-collaborative-art/"><u>In 2024, Quick-Fix Techniques for Social Media Collaborative Art</u></a></li>
+<li><a href="https://win-answers.techidaily.com/preserving-perfection-a-guide-to-transcode-free-dvd-ripping/"><u>Preserving Perfection: A Guide to Transcode-Free DVD Ripping</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-and-simple-guide-how-to-speedily-adjust-videos-for-tiktok/"><u>Quick & Simple Guide: How to Speedily Adjust Videos for TikTok</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-guide-how-to-make-your-videos-compatible-with-apple-tv/"><u>Quick Guide: How to Make Your Videos Compatible with Apple TV</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quicktime-avi2/"><u>QuickTimeへの変換: AVI動画を簡単な2手順で</u></a></li>
+<li><a href="https://win-answers.techidaily.com/reliable-and-efficient-dvd-to-digital-top-non-dvdfab-solutions-for-error-free-windows-dvd-ripping/"><u>Reliable and Efficient DVD to Digital: Top Non-DVDFab Solutions for Error-Free Windows DVD Ripping</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-sony-vegas-mp4-playback-problems-fixes-for-missing-videoaudio-and-common-errors/"><u>Solving Sony Vegas MP4 Playback Problems: Fixes for Missing Video/Audio & Common Errors</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-the-dbghelpdll-not-detected-a-comprehensive-guide/"><u>Troubleshooting the 'dBghelp.dll' Not Detected - A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/uncover-the-hidden-reactivating-lost-siri-assistance-and-suggestions-on-iphone/"><u>Uncover the Hidden: Reactivating Lost Siri Assistance and Suggestions on iPhone</u></a></li>
+</ul></div>
 

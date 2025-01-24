@@ -1,7 +1,7 @@
 ---
 title: "Solved: Starting Difficulties with the Latest Resident Evil Game"
-date: 2025-01-14T09:00:29.191Z
-updated: 2025-01-17T18:37:46.245Z
+date: 2025-01-18T17:09:54.063Z
+updated: 2025-01-24T16:57:51.645Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ Battlefield 5 is undoubtedly one of the most popular titles on the market. Altho
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes to try
 
  Here are 6 working fixes for you to solve the Battlefield 5 won’t launch issue. You may not try them all. Simply work from the top down until you find the one that does the trick.
@@ -35,6 +39,10 @@ Battlefield 5 is undoubtedly one of the most popular titles on the market. Altho
 
  Before you perform the troubleshooting steps below, please make sure your gaming rig satisfies the **[minimum requirements](https://www.ea.com/games/battlefield/battlefield-5/buy/pc-system-requirements?setLocale=en-us)**  to play Battlefield 5.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1 – Run Battlefield 5 and Origin as administrator
 
  Running Battlefield 5 and the Origin client as an administrator will ensure they get the necessary permissions to launch properly. Here’s how:
@@ -43,17 +51,21 @@ Battlefield 5 is undoubtedly one of the most popular titles on the market. Altho
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/10-2.jpg)
 2. Select the**Compatibility** tab. Then, tick**Run this program as an administrator** and click**OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-10.jpg)
 3. Right-click your Origin client and select**Properties** .
 
 4. Navigate to the**Compatibility** tab. Then, check**Run this program as an administrator** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-3-4.jpg)
 
- Relaunch BFV to check if the not launching problem goes away. If not, take a look at more fixes below.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Relaunch BFV to check if the not launching problem goes away. If not, take a look at more fixes below.
 
 ### Fix 2 – Switch to DirectX 11
 
@@ -69,7 +81,7 @@ Battlefield 5 is undoubtedly one of the most popular titles on the market. Altho
 5. Select**Notepad** or other similar editing tools.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Press**Ctrl** and**F** on your keyboard to open the search box. Then, type**Dx12Enabled** and press**Enter** .
@@ -77,10 +89,6 @@ Battlefield 5 is undoubtedly one of the most popular titles on the market. Altho
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-3-3.jpg)
 
  Is the game working normally now? Or is it still unplayable? If the latter, try the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3 – Update your graphics driver
 
@@ -100,20 +108,20 @@ To update your graphics driver, here are two safe ways for you:
 3. Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-2-8.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Test the game’s performance after your graphics driver is updated. If Battlefield 5 still fails to open, move on to the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4 – Turn off Origin in-game overlay
 
@@ -140,10 +148,6 @@ To update your graphics driver, here are two safe ways for you:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/6-2-3.jpg)
 4. On your keyboard, press the**Windows logo key** and**E** at the same time to invoke File Explorer. Then, select**Document** from the left pane.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Rename your**Battlefield V** folder to Battlefield V backup or anything else.
 
  Check whether you can get into Battlefield 5 or not. If this method is of no avail, restore the folder’s name and try the last fix.
@@ -158,10 +162,6 @@ To update your graphics driver, here are two safe ways for you:
 3. Right-click the**Battlefield 5** tile from the list, and click**Uninstall** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/7-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After the process finishes, you can reinstall the game from Origin again, and it should be working the right way as expected.
 
@@ -188,16 +188,20 @@ To update your graphics driver, here are two safe ways for you:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-step-by-step-methods-for-amassing-tiktok-videos/"><u>[New] Step-by-Step Methods for Amassing TikTok Videos</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-premier-non-udemy-platforms-for-personalized-e-learning/"><u>[Updated] 2024 Approved Premier Non-Udemy Platforms for Personalized E-Learning</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-a-deep-dive-into-moto-z2s-smarter-side-for-2024/"><u>[Updated] A Deep Dive Into Moto Z2's Smarter Side for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-ensuring-correct-ad-revenue-a-comprehensive-guide-to-yt-channel-earnings/"><u>[Updated] Ensuring Correct Ad Revenue A Comprehensive Guide to YT Channel Earnings</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-protecting-your-privacy-a-curated-list-of-cam-covers-for-2024/"><u>[Updated] Protecting Your Privacy A Curated List of Cam Covers for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-revamping-youtube-videos-with-smart-post-upload-techniques/"><u>2024 Approved Revamping YouTube Videos with Smart Post-Upload Techniques</u></a></li>
-<li><a href="https://win-answers.techidaily.com/beat-the-buffering-fix-your-league-of-legends-lag-problem-today/"><u>Beat the Buffering: Fix Your League of Legends Lag Problem Today</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/t-advice-incorporating-narrative-elements-into-youtube-videos-for-2024/"><u>Expert Advice Incorporating Narrative Elements Into YouTube Videos for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-stable-sony-vegas-performance-tips-to-prevent-frequent-clashes/"><u>Mastering Stable Sony Vegas Performance: Tips to Prevent Frequent Clashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-the-problem-of-razer-synapse-application-failure-to-start/"><u>Resolving the Problem of Razer Synapse Application Failure to Start</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-ffxiv-fixing-version-verification-errors/"><u>Troubleshooting FFXIV: Fixing Version Verification Errors</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-painless-percussions-reduction-in-garageband/"><u>[New] Painless Percussions Reduction in Garageband</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-youtube-master-of-moneymaking-skills/"><u>[Updated] 2024 Approved YouTube Master of Moneymaking Skills</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722991984783-battlefield-v-stability-fixes-for-windows-users-no-more-crashes/"><u>Battlefield V Stability Fixes for Windows Users – No More Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/call-of-duty-warzone-dev-error-6328-solved-insider-tips-and-best-practices/"><u>Call of Duty Warzone Dev Error 6328 Solved - Insider Tips & Best Practices</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easy-troubleshooting-tips-for-stable-play-in-ghost-recon-breakpoint/"><u>Easy Troubleshooting Tips for Stable Play in Ghost Recon Breakpoint</u></a></li>
+<li><a href="https://app-tips.techidaily.com/engineers-innovative-tool-challenges-the-giant-unveiling-how-it-continuously-shames-mcdonalds-strategies/"><u>Engineer's Innovative Tool Challenges the Giant - Unveiling How It Continuously Shames McDonald's Strategies</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-cities-of-the-skyline-pc-glitches-for-a-smoother-gaming-experience/"><u>Fixing Cities of the Skyline PC Glitches for a Smoother Gaming Experience</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-5-best-360-degree-action-cameras/"><u>In 2024, 5 Best 360-Degree Action Cameras</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-capturing-clarity-a-look-at-screensnapelite/"><u>In 2024, Capturing Clarity A Look at 'ScreenSnapElite'</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Realme 11X 5G? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-why-your-pc-experiences-frequent-blender-app-crashes/"><u>Resolved: Why Your PC Experiences Frequent Blender App Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/say-goodbye-to-game-crashes-with-the-new-fix-for-euro-truck-simulator-2-on-your-computer/"><u>Say Goodbye to Game Crashes with the New Fix for Euro Truck Simulator 2 on Your Computer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/simple-tricks-to-solve-steams-corrupted-disc-issue/"><u>Simple Tricks to Solve Steam's Corrupted Disc Issue</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/the-ultimate-guide-to-selecting-frame-rate-for-hd-recording-for-2024/"><u>The Ultimate Guide to Selecting Frame Rate for HD Recording for 2024</u></a></li>
 </ul></div>
 

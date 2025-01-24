@@ -1,7 +1,7 @@
 ---
 title: "Reviving Cortana: Proven Strategies To Solve Non-Responsiveness Issues"
-date: 2025-01-17T00:19:42.338Z
-updated: 2025-01-17T22:02:08.137Z
+date: 2025-01-23T17:20:37.019Z
+updated: 2025-01-24T18:06:47.725Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ Call of Duty: Modern Warfare randomly freezes on PC when you’re enjoying a fur
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8 Fixes for Modern Warfare Freezing
 
@@ -69,16 +73,12 @@ Call of Duty: Modern Warfare randomly freezes on PC when you’re enjoying a fur
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/1-3-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **5)** Click**Exit** .
 
  If your computer is above the required level to run Modern Warfare, move on to the second fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2 – Avoid PC overheating
 
@@ -87,6 +87,10 @@ Call of Duty: Modern Warfare randomly freezes on PC when you’re enjoying a fur
  To avoid this, you should**clean the dust regularly** and**make sure your cooling system is up and running** .
 
  If your game just freezes without any overheating symptoms, check the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3 – Close background applications
 
@@ -97,7 +101,7 @@ Call of Duty: Modern Warfare randomly freezes on PC when you’re enjoying a fur
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/3-1-5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Right-click the application you want to close and click**End task** .
@@ -107,7 +111,7 @@ Call of Duty: Modern Warfare randomly freezes on PC when you’re enjoying a fur
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/3-2-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Launch Modern Warfare to test if it runs smoothly enough to complete a match. If not, head towards Fix 4.
@@ -156,6 +160,10 @@ Call of Duty: Modern Warfare randomly freezes on PC when you’re enjoying a fur
 
  If the freezing problem persists after you install the latest graphics driver, try the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5 – Scan and repair game files
 
  Missing or corrupted game files are also common culprits of game crashes or freezes, but it’s not difficult to repair them.
@@ -166,10 +174,6 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-0-0-1200x741.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Click**Options** and select**Scan and Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-0-1.jpg)
@@ -179,10 +183,14 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-1-3-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This will automatically scan and repair any missing or corrupted game files. After the process completes, relaunch Modern Warfare and check for the issue. If this doesn’t help, go for the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6 – Change in-game graphics settings
 
@@ -193,6 +201,10 @@ Here are the steps:
 **2)** Select the**Graphics** tab. Then, click**Display Mode** and select**Fullscreen** from the drop-down menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/5-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Disable**Sync Every Frame (V-Sync)** .
 
@@ -224,10 +236,6 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/7-1-1-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Toggle off**In-game overlay** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/0-00.jpg)
@@ -237,10 +245,6 @@ Here are the steps:
 **1)** Run Discord, and click the**cogwheel icon** at the bottom of the left pane.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/7-2-1-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **2)** Select the**Overlay** tab on the left pane, and toggle off**Enable in-game overlay** .
 
@@ -257,10 +261,6 @@ Here are the steps:
 **1)** Run Battle.net application, and click**Call of Duty: Modern Warfare** on the left pane.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/8-1-5-1200x741.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **2)** Select**Options** and click**Uninstall Game** .
 
@@ -290,19 +290,19 @@ Here are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-answers.techidaily.com/solved-titanfall-2-fps-drops-quickly-and-easily/"><u>[SOLVED] Titanfall 2 FPS Drops | Quickly & Easily</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-indoors-adopting-the-vibe-of-a-brighter-world/"><u>[Updated] Indoors Adopting the Vibe of a Brighter World</u></a></li>
-<li><a href="https://win-answers.techidaily.com/destiny-2-pc-version-fixed-errors-and-now-running-smoothly/"><u>Destiny 2 PC Version: Fixed Errors & Now Running Smoothly</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/efficiently-incorporate-and-retract-audacity-into-your-chromebooks-audio-workflow/"><u>Efficiently Incorporate and Retract Audacity Into Your Chromebooks Audio Workflow</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/ejemplo-como-realizar-la-creacion-de-una-copia-de-seguridad-fisica-del-sistema-en-windows-10/"><u>Ejemplo: Cómo Realizar La Creación De Una Copia De Seguridad Física Del Sistema en Windows 10</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixed-issue-smothering-obscurity-causes-hardware-failure-on-workstation/"><u>Fixed Issue: Smothering Obscurity Causes Hardware Failure on Workstation</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-photoshop-stabilizers-role-crucial-for-creatives/"><u>In 2024, Photoshop Stabilizer's Role - Crucial for Creatives?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-honor-x50i-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Honor X50i Device</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ring-product-reviews-for-monetary-rewards-on-youtube/"><u>Mastering Product Reviews for Monetary Rewards on YouTube</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/organizacion-efectiva-de-archivos-para-varios-medios-de-almacenamiento-una-guia-completa/"><u>Organización Efectiva De Archivos Para Varios Medios De Almacenamiento: Una Guía Completa</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/premier-graphics-workstation-laptops-comprehensive-evaluation-and-insights-from-specialists-techradar/"><u>Premier Graphics Workstation Laptops: Comprehensive Evaluation & Insights From Specialists | TechRadar</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-to-resolve-lost-ark-game-crashes/"><u>Troubleshooting Steps to Resolve 'Lost Ark' Game Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/warcraft-3-reforged-and-pc-performance-issues-master-these-fixes/"><u>Warcraft 3 Reforged and PC Performance Issues? Master These Fixes !</u></a></li>
-<li><a href="https://win-answers.techidaily.com/winning-against-glitches-effective-solutions-to-fallout-3-game-freezes-on-windows-11/"><u>Winning Against Glitches: Effective Solutions to 'Fallout 3' Game Freezes on Windows 11</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-become-a-short-form-video-star-with-these-10-proven-methods/"><u>[New] In 2024, Become a Short-Form Video Star with These 10 Proven Methods</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-quick-tips-modifying-snapchat-video-velocity/"><u>[New] Quick Tips Modifying Snapchat Video Velocity</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-master-vlc-tips-revealing-unknown-features/"><u>[Updated] Master VLC Tips Revealing Unknown Features</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-navigate-your-musical-library-effortlessly-top-6-android-apps/"><u>2024 Approved Navigate Your Musical Library Effortlessly - Top 6 Android Apps</u></a></li>
+<li><a href="https://driver-install.techidaily.com/cross-platform-usbasp-win7-to-win10-drivers-made-easy/"><u>Cross-Platform USBasp: Win7 to Win10 Drivers Made Easy</u></a></li>
+<li><a href="https://win-answers.techidaily.com/elevate-your-wow-visuals-ultimate-guide-to-solving-low-fps-problems/"><u>Elevate Your WoW Visuals: Ultimate Guide to Solving Low FPS Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/getting-your-origin-app-back-up-and-running-on-pcs-fixes-for-windows-10-11-users/"><u>Getting Your Origin App Back Up and Running on PCs - Fixes for Windows 10-11 Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/half-life-alyx-optimization-guide-stop-the-lag-and-frame-drops-now/"><u>Half-Life: Alyx Optimization Guide - Stop the Lag and Frame Drops Now!</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>How to Share/Fake Location on WhatsApp for Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-oppo-find-x6-pro-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Oppo Find X6 Pro to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-listenleaders-vision-beyond-dacast/"><u>In 2024, ListenLeaders Vision Beyond DaCast</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723010242351-speed-at-impact-the-higher-the-speed-the-more-severe-the-damage-tends-to-be/"><u>Speed at Impact - The Higher the Speed, the More Severe the Damage Tends to Be</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-gpu-usage-for-cyberpunk-2077-players-running-windows-11/"><u>Troubleshooting GPU Usage for Cyberpunk 2077 Players Running Windows 11</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/upgrading-your-32-bit-windows-11-to-64-bit-edition/"><u>Upgrading Your 32-Bit Windows 11 to 64-Bit Edition</u></a></li>
 </ul></div>
 
