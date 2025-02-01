@@ -1,7 +1,7 @@
 ---
 title: Unlock the Secrets to Successfully Running 'Last Epoch' On Your PC - Latest Fixes & Updates!
-date: 2025-01-22T17:33:10.782Z
-updated: 2025-01-24T18:28:02.238Z
+date: 2025-01-28T01:39:36.941Z
+updated: 2025-02-01T04:24:19.363Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/dc8c23798056f26fbb4ba042d36186a35f13e6ccd
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes…
@@ -43,10 +43,6 @@ thumbnail: https://thmb.techidaily.com/dc8c23798056f26fbb4ba042d36186a35f13e6ccd
 [Bonus tip: try with a VPN](https://tools.techidaily.com/drivereasy/download/)
 
  Before we dive into anything advanced, make sure you’ve installed all the game updates. The devs will be releasing patches to fix any known issues.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 1: Check the server status
 
@@ -72,10 +68,6 @@ thumbnail: https://thmb.techidaily.com/dc8c23798056f26fbb4ba042d36186a35f13e6ccd
 1. Right-click your taskbar, then click**Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-29-08.jpg)
 2. Under the**Processes** tab, look for the processes that are network-hogging. Select it then click**End task** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/close-bandwidth-hogging-program.jpg)
 
@@ -113,7 +105,7 @@ thumbnail: https://thmb.techidaily.com/dc8c23798056f26fbb4ba042d36186a35f13e6ccd
 [2: Switch to a public DNS server](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1: Flush your DNS
@@ -129,7 +121,7 @@ thumbnail: https://thmb.techidaily.com/dc8c23798056f26fbb4ba042d36186a35f13e6ccd
 4. Your DNS cache is successfully cleared.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
@@ -143,21 +135,29 @@ thumbnail: https://thmb.techidaily.com/dc8c23798056f26fbb4ba042d36186a35f13e6ccd
 2. Click **Change adapter options** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click **the network you’re using** , then click **Properties** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select **Internet Protocol Version 4 (TCP/IPv4)** , then click **Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select **Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click **OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
@@ -196,22 +196,22 @@ thumbnail: https://thmb.techidaily.com/dc8c23798056f26fbb4ba042d36186a35f13e6ccd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-step-by-step-soundscapes-for-iphone-customization/"><u>2024 Approved Step-by-Step Soundscapes for iPhone Customization</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-top-12-budget-friendly-high-quality-video-apps-for-all-platforms/"><u>2024 Approved Top 12 Budget-Friendly, High-Quality Video Apps for All Platforms</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/expert-analysis-of-the-dji-phantom-4-pro-v20-nearly-unrivaled-drone-mastery/"><u>Expert Analysis of the DJI Phantom 4 Pro v2.0: Nearly Unrivaled Drone Mastery</u></a></li>
-<li><a href="https://win-answers.techidaily.com/high-performance-video-quality-deciding-between-30-fps-and-60-fps-recording/"><u>High-Performance Video Quality: Deciding Between 30 FPS and 60 FPS Recording</u></a></li>
-<li><a href="https://win-webster.techidaily.com/how-can-i-verify-scanner-os-compatibility-a-comprehensive-guide-by-yl-computing/"><u>How Can I Verify Scanner OS Compatibility? A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://win-trending.techidaily.com/how-to-enable-mkv-file-playback-on-windows-media-player/"><u>How to Enable MKV File Playback on Windows Media Player</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-enjoy-dvd-content-on-your-new-ps5-console/"><u>How to Enjoy DVD Content on Your New PS5 Console</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-properly-access-a-prx-file-identifying-suitable-programs-for-execution/"><u>How To Properly Access a PRX File: Identifying Suitable Programs for Execution</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-itel-a05s-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Itel A05s Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-use-soap2day-downloader-for-movie-acquisition/"><u>How to Use Soap2day Downloader for Movie Acquisition</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Sony Xperia 10 V | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/leading-no-cost-mp4-video-transcoder-applications-for-windows-users/"><u>Leading No-Cost MP4 Video Transcoder Applications for Windows Users</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-av1-with-ffmpeg-simplified-steps-for-audiovideo-conversion/"><u>Mastering AV1 with FFmpeg: Simplified Steps for Audio/Video Conversion</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-the-art-of-conversion-techniques-to-transform-visitors-into-customers/"><u>Mastering the Art of Conversion: Techniques to Transform Visitors Into Customers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-the-art-of-video-watermarks-4-simple-methods-to-insert-images-with-ease/"><u>Mastering the Art of Video Watermarks: 4 Simple Methods to Insert Images with Ease</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/synthesize-film-selections-on-platform-playlist-for-2024/"><u>Synthesize Film Selections on Platform Playlist for 2024</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-100-pro-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from 100 Pro</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-optimal-offsite-organization-unveiling-best-practices-and-platforms/"><u>[New] 2024 Approved Optimal Offsite Organization Unveiling Best Practices & Platforms</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-bring-out-the-magic-leading-frames-for-your-images/"><u>[New] Bring Out the Magic Leading Frames for Your Images</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-capitalizing-on-hairstyle-demonstrations-for-2024/"><u>[Updated] Capitalizing on Hairstyle Demonstrations for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamlined-sound-collection-adding-itunes-podcasts-with-ease/"><u>2024 Approved Streamlined Sound Collection Adding iTunes Podcasts with Ease</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/a-practical-guide-to-saving-screens-on-dell-computers-for-2024/"><u>A Practical Guide to Saving Screens on Dell Computers for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/breaking-news-pc-gamers-await-further-announcements-on-diablo-immortal-release/"><u>Breaking News: PC Gamers Await Further Announcements on Diablo Immortal Release</u></a></li>
+<li><a href="https://win-answers.techidaily.com/crash-free-gaming-experience-achieved-with-recent-fixes-for-insurgency-sandstorm/"><u>Crash-Free Gaming Experience Achieved with Recent Fixes for 'Insurgency: Sandstorm'</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/elite-pace-setter-pc-titles-for-2024/"><u>Elite Pace-Setter PC Titles for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-prevent-and-fix-battlefield-5-from-crashing-on-windows-computers/"><u>How to Prevent and Fix Battlefield 5 From Crashing on Windows Computers</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-stream-audio-and-video-from-mac-or-pc-to-apple-tv-using-airplay-in-various-formats/"><u>How to Stream Audio and Video From Mac or PC to Apple TV Using AirPlay in Various Formats</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-game-interruptions-repairing-pc-issues-during-sons-of-the-forest-playthroughs/"><u>Overcoming Game Interruptions: Repairing Pc Issues During Sons of the Forest Playthroughs</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/perfecting-elite-canon-time-lapse-cinematic-for-2024/"><u>Perfecting Elite Canon Time-Lapse Cinematic for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/precision-playtime-prevents-prolonged-pause/"><u>Precision Playtime Prevents Prolonged Pause</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-fixes-for-constant-pc-crashes-in-arcadegeddon-game/"><u>Resolved: Fixes for Constant PC Crashes in Arcadegeddon Game</u></a></li>
+<li><a href="https://win-answers.techidaily.com/steam-fatal-error-solution-manual-installation-of-missing-dll-files/"><u>Steam Fatal Error Solution: Manual Installation of Missing DLL Files</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-correcting-session-search-errors-in-palworld/"><u>Step-by-Step Guide: Correcting Session Search Errors in PalWorld</u></a></li>
+<li><a href="https://win-answers.techidaily.com/tackling-ping-spikes-in-bless-unleashed-a-comprehensive-guide-to-enhancing-pc-performance/"><u>Tackling Ping Spikes in Bless Unleashed: A Comprehensive Guide to Enhancing PC Performance</u></a></li>
 </ul></div>
 

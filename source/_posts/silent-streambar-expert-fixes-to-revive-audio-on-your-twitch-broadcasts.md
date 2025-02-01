@@ -1,7 +1,7 @@
 ---
 title: "Silent Streambar: Expert Fixes to Revive Audio on Your Twitch Broadcasts"
-date: 2025-01-22T17:57:45.919Z
-updated: 2025-01-24T17:28:01.229Z
+date: 2025-01-27T01:41:14.820Z
+updated: 2025-01-31T19:48:16.138Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why am I getting this error message?
@@ -57,7 +57,7 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
  Note: The screenshots below have been mostly taken from a Windows 10 operating system. If you are using Windows 11, please be aware that the visual appearance of your screen may vary slightly, but the steps to perform the task remain consistent.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1\. Allow your game to run through Windows Firewall
@@ -74,7 +74,7 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 3. From the left panel, click **Allow an app or feature through Windows Defender Firewall** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![allow app run through firewall](https://images.drivereasy.com/wp-content/uploads/2021/07/allow.jpg)
@@ -99,6 +99,10 @@ If your game isn’t on the list, follow these steps:
 _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.jpg)_
 2. Click **OK** to confirm your action.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Once the Command Prompt window is open, type the following 5 command lines (press **Enter**  after entering each command line):  
 
 **`netsh winsock reset`**  
@@ -110,10 +114,6 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 ![reset network](https://images.drivereasy.com/wp-content/uploads/2021/07/reset.png)
 4. Restart your computer for the changes to take effect.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3\. Change your DNS server
 
 1. On your keyboard, press the **Windows + R** key at the same time to open the Run dialog box.
@@ -121,19 +121,19 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ncpa.jpg)
 3. Right-click your current network connection, and select **Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![properties of network connection](https://images.drivereasy.com/wp-content/uploads/2021/07/properties-1.png)
 4. Double-click **Internet Protocol Version 4 (TCP/IPv4)** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![ipv4](https://images.drivereasy.com/wp-content/uploads/2021/07/IPV4-2.jpg)
 5. Select **Use the following DNS server addresses** and fill in the Google DNS servers:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Preferred DNS server: 8.8.8.8**  
 **Alternate DNS server: 8.8.4.4**  
@@ -163,7 +163,7 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 4. Once your drivers are up to date, restart your computer for the changes to take full effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5\. Use a VPN
@@ -204,16 +204,22 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-cutting-edge-techniques-for-incorporating-soundtracks-in-youtube-creations-for-2024/"><u>[New] Cutting-Edge Techniques for Incorporating Soundtracks in YouTube Creations for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/cb-channel-theme-images-and-templates-for-2024/"><u>[New] MCB Channel Theme Images and Templates for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-step-into-the-limelight-creating-an-authentic-self-replica-on-tiktok-for-2024/"><u>[New] Step Into the Limelight Creating an Authentic Self-Replica on TikTok for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-conversion-wizardry-zip-to-subrip-transformation/"><u>2024 Approved Conversion Wizardry ZIP to SubRip Transformation</u></a></li>
-<li><a href="https://win-answers.techidaily.com/definitive-edition-of-mafia-game-to-hit-stores-problem-solved-and-ready-for-release/"><u>Definitive Edition of Mafia Game to Hit Stores - Problem Solved & Ready for Release</u></a></li>
-<li><a href="https://driver-download.techidaily.com/hps-deskjet-ink-advantage-3050-driver-software-download-fresh-update-for-windows-systems/"><u>HP's Deskjet Ink Advantage 3050 Driver Software Download: Fresh Update for Windows Systems</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/maximizing-velocity-in-real-time-periscope-livestreams/"><u>Maximizing Velocity in Real-Time Periscope Livestreams</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-issues-with-pacific-drive-freezing-up-on-your-computer/"><u>Resolving Issues with Pacific Drive Freezing Up on Your Computer</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-frame-rate-issues-in-call-of-duty-modern-warfare-2-for-pc/"><u>Troubleshooting Frame Rate Issues in Call of Duty: Modern Warfare 2 for PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-when-you-cant-open-origin-on-windows-11/"><u>Troubleshooting Steps When You Can't Open Origin on Windows 11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-solving-hogwarts-legacy-failed-startup-issues/"><u>Ultimate Guide: Solving 'Hogwarts Legacy' Failed Startup Issues</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-best-video-titling-solutions-online-now/"><u>[New] Best Video Titling Solutions Online Now</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-unleash-your-stories-gratis-facebook-enhancers-online-and-on-the-go/"><u>[New] Unleash Your Stories Gratis, Facebook Enhancers Online & On-The-Go</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-screencapture-pro-latest-2023-edition-review/"><u>[Updated] 2024 Approved ScreenCapture Pro Latest 2023 Edition Review</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-essential-e-steps-your-pathway-from-preparation-to-production-in-a-reviews-channel/"><u>[Updated] The Essential E-Steps Your Pathway From Preparation to Production in a Reviews Channel</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-decreasing-audio-intensity-protocol/"><u>2024 Approved Decreasing Audio Intensity Protocol</u></a></li>
+<li><a href="https://win-answers.techidaily.com/arma-3-crash-no-more-comprehensive-strategies-for-seamless-gaming-experience/"><u>Arma 3 Crash No More! Comprehensive Strategies for Seamless Gaming Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-the-glitch-8-proven-remedies-to-keep-vrchat-running-smoothly-on-your-desktop-computer/"><u>Beat the Glitch: 8 Proven Remedies to Keep VRChat Running Smoothly on Your Desktop Computer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/duos-triumph-how-partnership-paved-the-way-for-successful-launch/"><u>Duo's Triumph: How Partnership Paved the Way for Successful Launch</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723010623597-pc-gamers-rejoice-playing-god-of-war-in-an-exciting-new-fps-mode/"><u>PC Gamers Rejoice: Playing God of War in an Exciting New FPS Mode</u></a></li>
+<li><a href="https://facebook.techidaily.com/quick-remedies-for-top-11-social-media-headaches-on-fb/"><u>Quick Remedies for Top 11 Social Media Headaches on FB</u></a></li>
+<li><a href="https://win-answers.techidaily.com/restore-game-sounds-overcoming-no-audio-challenge-in-evil-genius-2/"><u>Restore Game Sounds: Overcoming 'No Audio' Challenge in Evil Genius 2</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/simple-methods-to-transform-flv-videos-into-high-quality-flac-audio-anywhere/"><u>Simple Methods to Transform FLV Videos Into High-Quality FLAC Audio – Anywhere!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-dragons-dogma-2-pc-crashes-a-comprehensive-guide/"><u>Solving Dragon's Dogma 2 PC Crashes: A Comprehensive Guide</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-10-best-tools-to-bypass-icloud-activation-lock-on-iphone-se-2022-you-should-try-out-by-drfone-ios/"><u>The 10 Best Tools to Bypass iCloud Activation Lock On iPhone SE (2022) You Should Try Out</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723008099130-troubleshooting-steps-resolving-lost-ark-game-crashes/"><u>Troubleshooting Steps: Resolving Lost Ark Game Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-troubleshooting-tips-to-stop-mordhau-from-crashing-on-your-pc/"><u>Ultimate Troubleshooting Tips to Stop Mordhau From Crashing on Your PC</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/unlocking-tech-secrets-thorough-reviews-and-tips-by-toms-gear-experts/"><u>Unlocking Tech Secrets: Thorough Reviews and Tips by Tom's Gear Experts</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Definitive Troubleshooting Strategies to Stop Recurring Minecraft Dungeon Crashes in Windows/Mac OS
-date: 2025-01-19T16:18:10.395Z
-updated: 2025-01-24T17:19:23.421Z
+date: 2025-01-31T01:06:33.503Z
+updated: 2025-01-31T19:25:26.108Z
 tags:
   - win11
   - win10
@@ -27,10 +27,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 * Restart your PC
 * Install the latest updates
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these methods
 
  If common methods can’t help, you can move to the below methods. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -43,6 +39,10 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Run the troubleshooter
 
  Windows has built-in troubleshooter to fix some common errors. You can try Windows Store Apps troubleshooter to fix the Microsoft Edge crashing problem.
@@ -52,21 +52,17 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/troubleshoot.jpg)
 3. Click**Troubleshoot** on the left pane, scroll down and click**Windows Store Apps** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/windows-store-app.jpg)
 5. Follow the on-screen instructions to finish the process.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Run Microsoft Edge to check the problem is resolved or not.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2: Repair & reset Microsoft Edge
 
@@ -79,6 +75,10 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app2.jpg)
 3. In the**Apps & features** tab, find and click**Microsoft Edge** . Then click**Advanced options** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app.jpg)
 4. Click**Repair** .
 
@@ -86,16 +86,12 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app1.jpg)
 6. Run Microsoft Edge to check the problem is resolved or not.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If this method can’t fix your problem, don’t upset, you can try the next method.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 3: Clear cache and history
@@ -107,6 +103,10 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history.jpg)
 3. Click**Clear history** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history1.jpg)
 4. Select all boxes and click**Clear** .  
 
@@ -115,10 +115,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 4: Uninstall Trusteer Rapport or Endpoint
 
  If you have installed Trusteer Rapport or Endpoint, you need to uninstall it. They might be the reason for Microsoft Edge crashing problem.
@@ -126,6 +122,10 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
  It’s reported that the Rapport could cause Microsoft Edge crashing and many users had reported after uninstalling Trusteer Rapport/Endpoint the problem has been solved.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 5: Run a System File Checker
 
@@ -167,7 +167,7 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 4. Reboot your computer to check the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If the result indicates that there are broken files exist but SFC can’t fix them, you can turn to Deployment Image Servicing and Management (DISM) Tool for deeper examination and repair.  
@@ -194,21 +194,24 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-cross-platform-guide-extracting-facebook-video-content/"><u>[Updated] Cross-Platform Guide Extracting Facebook Video Content</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1726223695723-20/"><u>20款最佳影片剪輯軟件：無版權隱藏、全部免費提議</u></a></li>
-<li><a href="https://win-answers.techidaily.com/cannot-launch-original-diablo-reborn-solutions-inside/"><u>Cannot Launch Original Diablo Reborn - Solutions Inside</u></a></li>
-<li><a href="https://win-answers.techidaily.com/dealing-with-wow-pc-boot-failures-heres-a-guide-to-restarting-the-game-smoothly/"><u>Dealing with WoW PC Boot Failures? Here's a Guide to Restarting the Game Smoothly!</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-vivo-y55s-5g-2023-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Vivo Y55s 5G (2023)</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-advice-on-how-to-stop-your-code-veam-game-from-freezing-up/"><u>Expert Advice on How to Stop Your Code Veam Game From Freezing Up</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-motorola-defy-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Motorola Defy 2 | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Samsung Galaxy A24 | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/no-more-glitches-expert-fix-for-crashing-in-jurasspressive-gameplay-experience/"><u>No More Glitches: Expert Fix for Crashing in Jurasspressive Gameplay Experience</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/prime-software-solutions-for-video-games-for-2024/"><u>Prime Software Solutions for Video Games for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-dying-light-2s-fps-decrease-a-guide-for-smooth-gaming-experience-on-pc/"><u>Resolving Dying Light 2'S FPS Decrease – A Guide for Smooth Gaming Experience on PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/rocket-league-troubleshooting-guide-solving-persistent-crash-issues/"><u>Rocket League Troubleshooting Guide: Solving Persistent Crash Issues</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solved-starting-difficulties-with-the-latest-resident-evil-game/"><u>Solved: Starting Difficulties with the Latest Resident Evil Game</u></a></li>
-<li><a href="https://apple-account.techidaily.com/the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-iphone-se-2020-by-drfone-ios/"><u>The Easy Way to Remove an Apple ID from Your MacBook For your iPhone SE (2020)</u></a></li>
-<li><a href="https://games-able.techidaily.com/unwind-at-the-click-our-list-of-rapid-web-games/"><u>Unwind at the Click: Our List of Rapid Web Games</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-fine-tuning-windows-photos-app-incorporate-filters-and-sync-music-streaming/"><u>[New] Fine-Tuning Windows Photos App Incorporate Filters & Sync Music Streaming</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-premier-iphone-x8-series-gif-apps-reviewed-for-2024/"><u>[New] Premier iPhone X/8 Series GIF Apps Reviewed for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-how-to-add-filters-and-music-on-windows-10-photos-app/"><u>2024 Approved How to Add Filters and Music on Windows 10 Photos App</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-the-essential-steps-to-auto-starting-facebook-vids/"><u>2024 Approved The Essential Steps to Auto-Starting Facebook Vids</u></a></li>
+<li><a href="https://win-answers.techidaily.com/7-simple-solutions-to-stop-halo-infinite-from-crashing-on-your-pc/"><u>7 Simple Solutions to Stop Halo Infinite From Crashing on Your PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/assassins-creed-valhalla-pc-crash-woes-discover-proven-strategies-to-enhance-game-performance-stability/"><u>Assassin's Creed: Valhalla PC Crash Woes? Discover Proven Strategies to Enhance Game Performance Stability</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/digital-giants-exploring-the-foremost-websites-on-earth-in-the-ultimate-top-10-list/"><u>Digital Giants: Exploring the Foremost Websites on Earth in the Ultimate Top 10 List</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-for-fixing-a-glitchy-phasmophobia-virtual-reality-experience/"><u>Expert Tips for Fixing a Glitchy Phasmophobia Virtual Reality Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fast-and-simple-guide-resolving-controller-freeze-issues/"><u>Fast and Simple Guide: Resolving Controller Freeze Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fortnite-troubleshooting-fixing-the-missing-game-entry-issue/"><u>Fortnite Troubleshooting: Fixing the Missing Game Entry Issue</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-photos-from-apple-iphone-se-2022-to-other-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Photos from Apple iPhone SE (2022) to other iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/improve-your-deathloop-gameplay-on-pc-by-fixing-stuttering-problems-strategies-revealed/"><u>Improve Your Deathloop Gameplay on PC by Fixing Stuttering Problems - Strategies Revealed</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-essential-guide-three-approaches-for-documenting-discords-live-streams/"><u>In 2024, Essential Guide Three Approaches for Documenting Discord's Live Streams</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-how-to-secretly-share-moments-with-instagram-live/"><u>In 2024, How to Secretly Share Moments with Instagram Live</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-x6-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Poco X6 Phone without Google Account?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-solutions-for-resolving-stuttering-in-counter-strike-global-offensive/"><u>Quick Solutions for Resolving Stuttering in Counter-Strike: Global Offensive</u></a></li>
+<li><a href="https://driver-download.techidaily.com/safe-and-free-driver-download-enhance-your-typing-with-corsair-keyboard-windows-software/"><u>Safe & Free Driver Download: Enhance Your Typing with CORSAIR Keyboard Windows Software</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-how-to-stop-hyper-scape-from-freezing-on-your-computer/"><u>Troubleshooting Guide: How to Stop Hyper Scape From Freezing on Your Computer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/yakuza-series-solve-pc-performance-issues-with-our-expert-fixes-for-6-the-life-song/"><u>Yakuza Series: Solve PC Performance Issues with Our Expert Fixes for '6 - The Life Song'</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Steps: Resolving 'Internet Explorer Not Responding' Errors"
-date: 2025-01-22T18:03:02.520Z
-updated: 2025-01-24T16:03:05.517Z
+date: 2025-01-25T04:05:15.166Z
+updated: 2025-01-31T20:33:04.406Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/75e496d7d03af882c809a7273c9e1eb1d9baeae9a
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes…
 
@@ -57,10 +61,6 @@ thumbnail: https://thmb.techidaily.com/75e496d7d03af882c809a7273c9e1eb1d9baeae9a
 | **Storage**          | 20 GB available space                                                                                          | 20 GB available space                                                                                          |
 | **Additional Notes** | a) Can run at 720p/60fps; b) It’s recommended to install the game on an SSD for a more streamlined experience. | a) Can run at 1080p/60fps; b) It’s recommended to install the game on an SSD for a more streamlined experience |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Close background programs
 
  Naraka: Bladepoint is likely to crash when too many programs are running in the background and taking up all the resources. You can shut down the background programs via Task Manager:
@@ -87,6 +87,10 @@ If this doesn’t solve your problem, try the next fix.
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -128,10 +132,14 @@ If this doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Increase the virtual memory on your PC
 
@@ -150,11 +158,11 @@ If this doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/virtual-memory-change.jpg)
 5. Now you’ll see the paging file size on your PC.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-10_11-54-07.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **To manually allocate paging file size** :
 
@@ -171,18 +179,10 @@ _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-msinfo32.jpg)
 4. Calculate and fill in the**Initial size and Maximum size** , click**Set** then click**OK** . For example, I have 8 GB RAM, so my initial size would be 8\*1024\*1.5=12,288 MB, and my maximum size would be 8\*1024\*3=24576 MB  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/custom-size.jpg)
 5. Restart your PC to let the changes take effect.
 
 If your game still crashes, try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 6: Keep your system up-to-date
 
@@ -197,17 +197,13 @@ If your game still crashes, try the next fix.
 3. If there are available updates, Windows will automatically download them for you. Follow instructions to complete the installation if needed.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/windows-update.jpg)
 4. Restart your PC to let it take effect.
 
 If this doesn’t solve your problem, try the last fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 7: Perform a clean boot
 
@@ -221,10 +217,6 @@ If this doesn’t solve your problem, try the last fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-38-17.jpg)
 2. Under the**Services** tab, check**Hide all Microsoft services** , then click**Disable all** and**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-40-15.jpg)
 3. Switch to the**Startup** tab, click**Open Task Manager** .  
 
@@ -233,11 +225,15 @@ If this doesn’t solve your problem, try the last fix.
 4. Under**Startup** tab, click each startup item then click**Disable** until you’ve disabled all startup items.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-48-33.jpg)
 5. Restart your PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If Naraka: Bladepoint doesn’t crash anymore, this means at least one of the programs you disabled was causing the problem.  
   
@@ -247,13 +243,13 @@ If this doesn’t solve your problem, try the last fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-38-17.jpg)
 2. Under the**Services** tab, tick the**Hide all Microsoft services** checkbox**,** then tick the checkboxes in front of**the first five items** in the list.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Then click**Apply** and**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-53-16.jpg)
 3. Reboot your computer and launch the game. If it once again won’t crash, then you know that one of the services you ticked above is conflicting with it. If it_does_ crash, then the above five services are fine, and you’ll have to keep looking for the offending service.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Repeat steps 2 and 3 above until you find the service that conflicts with Naraka: Bladepoint.  
 
@@ -275,6 +271,10 @@ If this doesn’t solve your problem, try the last fix.
 
  Known compatibility issues from Sonic studio virtual mixer driver have been found, per the developer, and the current workaround is to disable this device. If you want to check if you have this device or want to disable it, go to**Sound Settings >> Manage sound devices** . If you have Sonic studio virtual mixer, you’ll be able to see it there and disable it if needed.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-09-03_11-07-51.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -299,18 +299,24 @@ If this doesn’t solve your problem, try the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-capture-and-convert-fb-videos-immediitsly-to-mp3-for-2024/"><u>[New] Capture and Convert FB Videos Immediitsly to MP3 for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-sculpt-your-scenes-with-fading-music-effects-in-adobe-premiere-pro/"><u>[Updated] 2024 Approved Sculpt Your Scenes with Fading Music Effects in Adobe Premiere Pro</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-erase-your-online-presence-post-facebook-stories/"><u>[Updated] Erase Your Online Presence Post-Facebook Stories</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-discover-chromebooks-premier-web-based-speech-alteration-tools/"><u>[Updated] In 2024, Discover Chromebook’s Premier Web-Based Speech Alteration Tools</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-strategies-for-handling-and-fixing-error-closures-in-your-geforce-application/"><u>Effective Strategies for Handling & Fixing Error Closures in Your GeForce Application</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-advice-on-reducing-lags-during-your-naraka-bladepoint-battles/"><u>Expert Advice on Reducing Lags During Your Naraka Bladepoint Battles</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-resolve-microsoft-edge-stability-issues-in-windows-10/"><u>How to Resolve Microsoft Edge Stability Issues in Windows 10</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-navigating-virtual-meetings-setting-up-video-calls-via-whatsapp-browser-on-pcs/"><u>In 2024, Navigating Virtual Meetings Setting up Video Calls via WhatsApp Browser on PCs</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-samsung-galaxy-s23-tactical-edition-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Samsung Galaxy S23 Tactical Edition Phone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mac-studio-vs-mac-mini-why-one-feature-could-determine-your-next-purchase-decision-this-fall-zdnet-insights/"><u>Mac Studio Vs. Mac Mini: Why One Feature Could Determine Your Next Purchase Decision This Fall | ZDNET Insights</u></a></li>
-<li><a href="https://win-answers.techidaily.com/master-the-art-of-smooth-gaming-overcoming-cityskylines-crashes/"><u>Master the Art of Smooth Gaming: Overcoming CitySkylines' Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcome-game-lag-and-crashes-in-spellbreak-for-pc/"><u>Overcome Game Lag and Crashes in Spellbreak for PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-to-resolving-lag-and-enhancing-frames-per-second-in-valorant-2024-edition/"><u>Ultimate Guide to Resolving Lag and Enhancing Frames per Second in Valorant - 2024 Edition</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-limits-of-video-data-storage-on-modern-drives-a-closer-look-at-64128gb/"><u>[New] Limits of Video Data Storage on Modern Drives - A Closer Look at 64/128GB</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-20-most-memorable-anime-series-intros/"><u>[Updated] 20 Most Memorable Anime Series Intros</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-from-screens-to-spreads-the-dos-and-donts-of-live-blogging/"><u>[Updated] From Screens to Spreads The Do's and Don'ts of Live Blogging</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-redefining-visual-standards-hdr-vs-standard-sdr/"><u>2024 Approved Redefining Visual Standards HDR Vs. Standard SDR</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-the-blues-effective-solutions-for-running-saints-row-successfully-on-a-pc/"><u>Beat the Blues: Effective Solutions for Running Saints Row Successfully on a PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-the-load-effective-strategies-for-getting-past-sea-of-thieves-starting-hurdle/"><u>Beat the Load: Effective Strategies for Getting Past Sea of Thieves' Starting Hurdle</u></a></li>
+<li><a href="https://win-answers.techidaily.com/comprehensive-solution-for-the-persistent-crashing-troubles-in-kurtzpel-application/"><u>Comprehensive Solution for the Persistent Crashing Troubles in KurtzPel Application</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-fixes-for-persistent-dread-hunger-stops-during-playtime-on-desktopslaptops/"><u>Effective Fixes for Persistent 'Dread Hunger' Stops During Playtime on Desktops/Laptops</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-bouncie-mobility-tracker-affordable-intuitive-vehicle-monitoring-device-reviewed/"><u>Exploring Bouncie Mobility Tracker - Affordable, Intuitive Vehicle Monitoring Device Reviewed</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-xiaomi-13t-promirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Xiaomi 13T ProMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-prevent-frequent-rust-programming-crashes/"><u>How To Prevent Frequent Rust Programming Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-repair-and-restore-functionality-of-logitech-g-hub-on-your-windows-computer/"><u>How to Repair and Restore Functionality of Logitech G Hub on Your Windows Computer</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-apple-iphone-11-pro-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>In 2024, Forgot Apple iPhone 11 Pro Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/mastering-your-memories-top-online-print-experts-of-2024/"><u>Mastering Your Memories: Top Online Print Experts of 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pathfinder-wrath-fix-solutions-for-persistent-game-crashes/"><u>Pathfinder Wrath Fix: Solutions for Persistent Game Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722991069716-tf2-constant-crashing-issues-heres-the-solution/"><u>TF2 Constant Crashing Issues? Here's the Solution!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-latest-lenovo-thinkpad-x1-carbon-gen-12-a-detailed-review-of-its-slim-profile-and-cutting-edge-ai-capabilities/"><u>The Latest Lenovo ThinkPad X1 Carbon (Gen 12): A Detailed Review of Its Slim Profile and Cutting-Edge AI Capabilities</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-cod-warzone-crashes-a-comprehensive-guide-for-pc-gamers/"><u>Troubleshooting COD Warzone Crashes : A Comprehensive Guide for PC Gamers</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/tutorial-detallado-transferir-archivos-a-una-unidad-externa-como-respaldo-con-windows-n-gen/"><u>Tutorial Detallado: Transferir Archivos a Una Unidad Externa Como Respaldo Con Windows N-Gen</u></a></li>
 </ul></div>
 

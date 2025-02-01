@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Preventing and Repairing Cyberpunk 2Er Frontier Errors on Your Computer
-date: 2025-01-16T05:00:12.591Z
-updated: 2025-01-18T01:01:59.734Z
+date: 2025-01-29T22:09:43.863Z
+updated: 2025-02-01T04:25:02.838Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ Cyperpunk 2077 has been out for a while now, and there’re still reports about 
 5. [**Enable HAGS (hardware-accelerated GPU scheduling)**](https://www.drivereasy.com/knowledge/solved-cyberpunk-2077-fps-drops/#fix5)
 6. **[Change in-game graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Make sure your specs meet the requirements
 
  Games released in this Ray Tracing era tend to be seriously demanding, and Cyberpunk 2077 is no exception. Before you can fully enjoy this amazing open-world, first**make sure your PC specs meet the minimum game requirements** . Because if they don’t, then maybe you’ll need an upgrade before turning your rig into a toaster.
@@ -61,10 +65,6 @@ Cyperpunk 2077 has been out for a while now, and there’re still reports about 
 
  If your setup is powerful enough for this title, you can continue to the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Change your Power Plan to Ultimate Performance
 
  Windows users can control the way their PC uses power by selecting different power schemes. In the Windows 10 April 2018 update, Microsoft rolled out a power plan called Ultimate Performance, which could purportedly make the most of your hardware. So you can try this plan and see how it goes.
@@ -74,6 +74,10 @@ Here’s how:
 1. On your keyboard, press**Win+R** (the Windows logo key and the r key) at the same time to invoke the Run box. Type **powercfg.cpl**  and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/cmd-run-power-option.jpg)
 2. Select **Ultimate Performance** . If you don’t see this power plan, simply continue to the next step to unhide it.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-ultimate-performance.jpg)
 3. On your keyboard, press the **Windows logo key** and type **cmd** . Select **Run as Administrator** .  
@@ -85,13 +89,13 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
  If you see a prompt similar to this, **return to step 2** to enable the Ultimate Performance power plan.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After changing your power plan, you can then check it there’s any improvements in Cyberpunk 2077.
 
  if this trick doesn’t give you luck, you can move on to the next one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -121,12 +125,12 @@ First visit the website of your graphics card manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -135,7 +139,7 @@ First visit the website of your graphics card manufacturer:
  If updating the graphics driver doesn’t work for you, simply check out the next method below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Install all Windows updates
@@ -149,7 +153,7 @@ And here’s a simple guide for that:
 2. Click**Check for updates** . Then wait for Windows to download and install the available system updates.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
@@ -175,19 +179,11 @@ And here’s enable HAGS:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-02.jpg)
 3. Under the **Default settings** section, click **Change default graphics settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-3.jpg)
 4. Turn on **Hardware-accelerated GPU scheduling** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-4.jpg)
 5. Restart your PC for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Now you can launch Cyberpunk 2077 and check the gameplay.
 
@@ -206,17 +202,21 @@ To change the in-game graphics settings, simply follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-lower-settings-2.jpg)
 3. Under the**Miscellaneous** section, set**Enable Analytics** to**OFF** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-lower-settings-3.jpg)
 4. Navigate to the**GRAPHICS** tab. Under the**Basic** section, set both**Film Grain** and**Chromatic Aberration** to**OFF** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-lower-settings-4.jpg)
 5. The next two settings are optional. You can try turning off**Ray Tracing** and see if it improves the performance.**DLSS** is a new RTX technology that uses AI to boost your FPS. (Sounds fancy.) You can try setting it to**Performance** or**Ultra Performance** and see if it really helps. (Doing so might make the game seem blurry.)  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-lower-settings-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  For more tuning details, check out[this article](https://www.tomshardware.com/news/cyberpunk-2077-pc-benchmarks-settings-performance-analysis) .
 
@@ -239,22 +239,24 @@ To change the in-game graphics settings, simply follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-leading-photo-backdrop-alternatives-list/"><u>[New] In 2024, Leading Photo Backdrop Alternatives List</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-stack-videos-in-your-youtube-queue/"><u>[New] Stack Videos in Your YouTube Queue</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-laptop-editing-avoiding-inshot-dependence/"><u>[Updated] Laptop Editing Avoiding Inshot Dependence</u></a></li>
-<li><a href="https://win-answers.techidaily.com/battlefield-2042-update-fixing-persistent-directx-error-messages/"><u>Battlefield 2042 Update: Fixing Persistent DirectX Error Messages</u></a></li>
-<li><a href="https://blog-min.techidaily.com/best-places-to-stream-latest-films-for-free-no-account-necessary/"><u>Best Places to Stream Latest Films for Free – No Account Necessary!</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/cross-platform-calendar-coordination-zoom-to-your-devices-for-2024/"><u>Cross-Platform Calendar Coordination Zoom to Your Devices for 2024</u></a></li>
-<li><a href="https://discover-community.techidaily.com/elevate-your-copy-and-paste-craft-tap-into-the-secrets-of-powershells-xcopy-enchantment/"><u>Elevate Your Copy-and-Paste Craft: Tap Into the Secrets of PowerShell's Xcopy Enchantment</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-persistent-crashes-in-king-of-fighters-xv-tips-for-a-smooth-gaming-experience-on-your-computer/"><u>Fixing the Persistent Crashes in 'King of Fighters XV': Tips for a Smooth Gaming Experience on Your Computer</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-diagnose-and-repair-error-code-0xc19001e1-in-windows-11-for-smooth-operation/"><u>How to Diagnose and Repair 'Error Code 0xC19001E1' In Windows 11 for Smooth Operation</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-the-fix-for-doom-eternal-continuous-crashes-proven-techniques-inside/"><u>Mastering the Fix for DOOM Eternal Continuous Crashes - Proven Techniques Inside</u></a></li>
-<li><a href="https://extra-support.techidaily.com/movie-magic-solutions-questions-answered-for-2024/"><u>Movie Magic Solutions Questions Answered for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-red-dead-online-pc-game-crashes-tips-and-tricks/"><u>Resolving Red Dead Online PC Game Crashes – Tips and Tricks</u></a></li>
-<li><a href="https://win-answers.techidaily.com/say-goodbye-to-lag-optimizing-your-play-of-dying-light/"><u>Say Goodbye to Lag: Optimizing Your Play of Dying Light</u></a></li>
-<li><a href="https://win-answers.techidaily.com/star-wars-swtor-launch-errors-top-resolution-techniques-covered/"><u>Star Wars SWTOR Launch Errors – Top Resolution Techniques Covered</u></a></li>
-<li><a href="https://win-answers.techidaily.com/tackling-the-launch-delay-fixes-for-football-manager-2021s-stalled-startup-sequence/"><u>Tackling the Launch Delay: Fixes for Football Manager 2021'S Stalled Startup Sequence</u></a></li>
-<li><a href="https://article-helps.techidaily.com/the-modern-shoppers-guide-to-360-degree-imaging-tech-for-2024/"><u>The Modern Shopper's Guide to 360-Degree Imaging Tech for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unrivaled-video-tech-for-apple-phones-for-2024/"><u>Unrivaled Video Tech for Apple Phones for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-behind-the-scenes-expert-techniques-for-video-magic/"><u>[New] Behind the Scenes Expert Techniques for Video Magic</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-metro-exodus-pc-enhanced-edition-keeps-crashing/"><u>[SOLVED] Metro Exodus PC Enhanced Edition Keeps Crashing</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-deconstructing-user-sentiments-for-vllo/"><u>[Updated] 2024 Approved Deconstructing User Sentiments for VLLO</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-crafting-a-top-notch-linkedin-image/"><u>[Updated] Crafting a Top-Notch LinkedIn Image</u></a></li>
+<li><a href="https://program-issues.techidaily.com/among-us-lag-fix-escaping-the-endless-boot-loop/"><u>Among Us Lag Fix: Escaping the Endless Boot Loop</u></a></li>
+<li><a href="https://win-answers.techidaily.com/destiny-2-pc-version-fixed-now-running-smoothly/"><u>Destiny 2 PC Version Fixed - Now Running Smoothly!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-stuck-loaders-a-guide-to-resolving-startup-problems-in-metropolis-creation-fortnite/"><u>Fixing Stuck Loaders? A Guide to Resolving Startup Problems in Metropolis Creation - Fortnite</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-insert-sign-in-csv-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to insert sign in .csv files</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-most-effective-ways-to-bypass-iphone-14-pro-max-activation-lock-by-drfone-ios/"><u>In 2024, The Most Effective Ways to Bypass iPhone 14 Pro Max Activation Lock</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-on-apple-iphone-6-plus-by-drfone-ios/"><u>In 2024, Your Account Has Been Disabled in the App Store and iTunes On Apple iPhone 6 Plus?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-stability-no-more-freezes-with-madden-2021-on-pc/"><u>Mastering Stability: No More Freezes with Madden 2021 on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-troubles-in-hoi4-a-guide-to-resolving-game-crashes/"><u>Overcoming Troubles in HoI4 - A Guide to Resolving Game Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723011328081-persona-5-strikers-banish-your-pc-game-crashing-woes-for-an-uninterrupted-adventure/"><u>Persona 5 Strikers - Banish Your PC Game Crashing Woes for an Uninterrupted Adventure!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-insufficient-memory-problem-in-god-of-war-game-details-inside/"><u>Resolved: Insufficient Memory Problem in God of War Game - Details Inside</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-tp-link-re5-surveillance-5-x-wireless-repeater-a-thorough-review-by-tech-experts/"><u>The TP-Link RE5 Surveillance 5 X Wireless Repeater - A Thorough Review by Tech Experts</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/top-10-youtube-video-grabber-apps-best-in-class-compatibility/"><u>Top 10 YouTube Video Grabber Apps, Best-in-Class Compatibility</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-roborock-vacuum-cleaners-comprehensive-expert-reviews-techradar/"><u>Top-Rated Roborock Vacuum Cleaners - Comprehensive Expert Reviews | TechRadar</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-overcoming-nvidia-geforce-error-0x0003-in-geforce-experience/"><u>Troubleshooting Guide: Overcoming Nvidia Geforce Error 0X0003 in GeForce Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unlocking-victory-over-lols-black-screen-dilemma-with-top-tips-for-the-year-2024/"><u>Unlocking Victory Over LoL's Black Screen Dilemma with Top Tips for the Year 2024</u></a></li>
 </ul></div>
 

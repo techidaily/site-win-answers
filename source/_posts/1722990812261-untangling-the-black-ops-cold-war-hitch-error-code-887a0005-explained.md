@@ -1,7 +1,7 @@
 ---
 title: Untangling the Black Ops Cold War Hitch - Error Code 887a0005 Explained!
-date: 2025-01-17T16:36:53.724Z
-updated: 2025-01-24T17:49:57.921Z
+date: 2025-01-28T03:48:51.932Z
+updated: 2025-02-01T00:19:41.040Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/e31aaa74ff016883ab8f84feb3b9453dbf2ea0039
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down until you find the one that does the trick.
@@ -48,16 +52,12 @@ Here’s a quick guide for that:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 You can now launch Black Ops Cold War and see if it crashes again.
 
 If this trick doesn’t help you, simply continue to the next one.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
@@ -74,7 +74,7 @@ If this trick doesn’t help you, simply continue to the next one.
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
@@ -96,20 +96,20 @@ And it’s fairly easy to update:
 2. Click **Check for updates** . Then wait for Windows to download and install all available updates.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
  Once you’ve installed all the system updates, restart your PC and test the gameplay in Black Ops Cold War.
 
  If the updates don’t stop the crash, you can take a look at the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Disable HAGs (GeForce 10 series or later/Radeon 5600 or 5700 series)
 
@@ -133,6 +133,10 @@ Here’s how:
 
  If this method doesn’t fix your issue, simply check out the next one.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Disable in-game Ray Tracing
 
  In some cases, this error code shows up when your GPU is overloaded. Aside from that, Black Ops Cold War is still a new title, which means there’s still room for improvement. Ray Tracing might sound fancy, but according to some gamers it can be unstable on Black Ops Cold War. So you can try disabling this feature and check if the error code disappears.
@@ -143,10 +147,6 @@ Here’s how:
 2. Navigate to the**GRAPHICS** tab. Under the**RAY TRACING** section, disable all three options.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-disable-ray-tracing.jpg)
 3. Restart the game and test the gameplay.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  None of these fixes can help you? Check out[this post](https://tools.techidaily.com/drivereasy/download/) for more advanced troubleshooting.
 
@@ -169,14 +169,20 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-answers.techidaily.com/solved-guilty-gear-strive-lag-issues/"><u>[SOLVED] Guilty Gear -Strive- Lag Issues</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-instantly-accessible-music-mixes-assembling-youtube-playlists-webmobile-style/"><u>[Updated] Instantly Accessible Music Mixes Assembling YouTube Playlists Web/Mobile Style</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-the-ultimate-guide-to-audio-selection-in-video-unboxing-for-2024/"><u>[Updated] The Ultimate Guide to Audio Selection in Video Unboxing for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/diy-fixes-eradicate-your-fifa-19s-directx-problems-without-a-hitch/"><u>DIY Fixes: Eradicate Your FIFA 19'S DirectX Problems Without a Hitch</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-corsair-icue-dysfunctionality-in-the-latest-windows-os-a-comprehensive-fix-guide/"><u>Overcoming Corsair iCUE Dysfunctionality in the Latest Windows OS - A Comprehensive Fix Guide</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-motorola-moto-g24-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Motorola Moto G24 Step-by-Step Solutions | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-gray-zone-warfare-gzw-system-errors-on-windows-a-step-by-step-guide/"><u>Solving Gray Zone Warfare (GZW) System Errors on Windows: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/step-by-step-guide-activating-sleep-mode-on-your-windows-11-computer/"><u>Step-by-Step Guide: Activating Sleep Mode on Your Windows 11 Computer</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/top-10-free-standalone-music-apps-you-can-use-offline-on-your-ios-device/"><u>Top 10 FREE Standalone Music Apps You Can Use OFFLINE on Your iOS Device</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-accessing-shared-media-on-messenger/"><u>[New] 2024 Approved Accessing Shared Media on Messenger</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-cancel-discord-server-pcmobile-methods/"><u>[Updated] In 2024, Cancel Discord Server PC/Mobile Methods</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/a-thorough-analysis-how-a-smaller-lens-enhances-the-impact-of-marvels-spiderman-with-miles-morales/"><u>A Thorough Analysis: How a Smaller Lens Enhances the Impact of Marvel's Spiderman with Miles Morales</u></a></li>
+<li><a href="https://some-tips.techidaily.com/compact-but-mighty-how-this-tiny-bluetooth-speaker-delivers-an-impressive-audio-experience-zdnet/"><u>Compact but Mighty: How This Tiny Bluetooth Speaker Delivers an Impressive Audio Experience | ZDNet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/dying-light-speed-boost-fixing-lag-issues-for-smoother-gaming/"><u>Dying Light Speed Boost: Fixing Lag Issues for Smoother Gaming</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guide-to-fixing-itunes-audio-problems-for-seamless-music-streaming/"><u>Guide to Fixing iTunes Audio Problems for Seamless Music Streaming</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-realme-narzo-60-5g-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Realme Narzo 60 5G Phone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-the-ultimate-video-translation-playbook-with-13-expert-recommended-apps/"><u>In 2024, The Ultimate Video Translation Playbook with 13 Expert-Recommended Apps</u></a></li>
+<li><a href="https://win-answers.techidaily.com/insights-into-the-delayed-arrival-of-mafia-full-set-solved-mysteries-unveiled/"><u>Insights Into the Delayed Arrival of Mafia: Full Set - Solved Mysteries Unveiled</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/movavis-enhanced-toolset-examining-plus-edition-2024/"><u>Movavi's Enhanced Toolset Examining Plus Edition 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-gamers-stop-blitzhawk-heres-how-to-resolve-match-not-found-in-warzone/"><u>PC Gamers, Stop Blitzhawk! Here’s How to Resolve 'Match Not Found' In Warzone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-overcome-issues-with-hitman-3-initial-launch-failure-on-windows/"><u>Resolved: Overcome Issues with Hitman 3 Initial Launch Failure on Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-anticheat-connection-failed-error-in-escape-from-tarkov/"><u>Solved: 'Anticheat Connection Failed' Error in Escape From Tarkov</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-game-changing-effect-of-accessible-chatgpt-and-whisper-apis-on-modern-enterprises/"><u>The Game-Changing Effect of Accessible ChatGPT & Whisper APIs on Modern Enterprises</u></a></li>
+<li><a href="https://win-answers.techidaily.com/total-war-warhammer-ii-stability-fixes-addressing-persistent-game-crash-issues-successfully/"><u>Total War: Warhammer II Stability Fixes - Addressing Persistent Game Crash Issues Successfully</u></a></li>
 </ul></div>
 

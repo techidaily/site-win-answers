@@ -1,7 +1,7 @@
 ---
 title: Solve Your Red Dead Redemption 2 GFX Error with This Guide (ERR_GFX_STATE)
-date: 2025-01-17T18:55:39.669Z
-updated: 2025-01-24T16:20:54.039Z
+date: 2025-01-25T18:16:59.455Z
+updated: 2025-02-01T02:33:40.388Z
 tags:
   - win11
   - win10
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/a848ca5db9b7c808865a38728eb2f3fa3f3cb8b72
 3. **[Reinstall Steam](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Adjust your proxy settings
@@ -53,24 +53,16 @@ thumbnail: https://thmb.techidaily.com/a848ca5db9b7c808865a38728eb2f3fa3f3cb8b72
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-360.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** If any items on this window are checked, uncheck them. Then, click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-363.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **5)** Restart your computer and Steam to test your issue.
 
  If none of the boxes is checked, or if you still get the error code 130, then go ahead with the fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your network adapter driver
 
@@ -104,17 +96,25 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-113.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[](https://tools.techidaily.com/drivereasy/download/) [Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-364.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Reinstall Steam
 
@@ -124,13 +124,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-885.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-886.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control Panel** .
 
@@ -144,10 +144,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-889.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **6)**  Right-click **Steam** , and then click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-890.png)
@@ -155,6 +151,10 @@ OR
 **7)**  Follow the on-screen instructions to uninstall Steam and wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-891.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  **8)[Download](https://store.steampowered.com/about/)**  Steam.
 
@@ -194,17 +194,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-the-best-ways-to-record-webinar/"><u>[New] 2024 Approved The Best Ways to Record Webinar</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-scorching-speedways-ranking-the-top-5-virtual-race-titles-for-2024/"><u>[New] Scorching Speedways Ranking the Top 5 Virtual Race Titles for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/bypassing-the-hurdle-of-nba-2k2ns-code-727e66ac-comprehensive-fixes-players/"><u>Bypassing the Hurdle of NBA 2K2n's Code 727E66ac - Comprehensive Fixes Players</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/crafting-verses-with-ai-mastering-the-art-of-poetic-creation-using-chatgpt/"><u>Crafting Verses with AI: Mastering the Art of Poetic Creation Using ChatGPT</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/enhancing-your-fb-video-experience-with-1080p-quality-for-2024/"><u>Enhancing Your FB Video Experience with 1080P Quality for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-silent-issues-solutions-when-lost-ark-game-lacks-audio/"><u>Fixing Silent Issues: Solutions When 'Lost Ark' Game Lacks Audio</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722972830959-get-updated-drivers-for-your-tp-link-adapter-compatible-with-windows-7-to-11-downloads-available-now/"><u>Get Updated Drivers for Your TP-Link Adapter - Compatible with Windows 7 to 11 Downloads Available Now</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-motorola-razr-40-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Motorola Razr 40? Here Is the Answer | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/oculus-link-woes-here-are-six-swift-methods-to-get-you-back-online/"><u>Oculus Link Woes? Here Are Six Swift Methods to Get You Back Online</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-fps-fluctuations-in-resident-evil-village-on-pc-a-detailed-analysis/"><u>Resolved: FPS Fluctuations in Resident Evil Village on PC - A Detailed Analysis</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-black-ops-cold-wars-critical-error-code-0xc00cuh005/"><u>Troubleshooting Steps for Black Ops Cold War's Critical Error Code 0Xc00cuh005</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-more-than-you-could-dream-or-imagine-final-cut-pro-x-is-a-powerful-software-one-such-hidden-feature-from-fcpx-is-jump-cuts-and-we-shall-know/"><u>Updated In 2024, More than You Could Dream or Imagine, Final Cut Pro X Is a Powerful Software. One Such Hidden Feature From FCPX Is Jump Cuts, and We Shall Know More About Final Cut Pro Jump Cuts in This Article</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-video-views-to-vault-closure-income-insights-for-youtubers/"><u>[Updated] 2024 Approved From Video Views to Vault Closure Income Insights for Youtubers</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-in-depth-analysis-razers-hd-webcam/"><u>[Updated] In 2024, In-Depth Analysis Razer's HD Webcam</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-camera-control-tips-for-unshakable-images/"><u>2024 Approved Camera Control Tips for Unshakable Images</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unveiling-what-makes-youtube-tv-different-from-others/"><u>2024 Approved Unveiling What Makes YouTube TV Different From Others</u></a></li>
+<li><a href="https://win-answers.techidaily.com/achieve-smoother-gameplay-strategies-to-address-satisfactory-fps-declines/"><u>Achieve Smoother Gameplay: Strategies to Address Satisfactory FPS Declines</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/chortlecove-app-where-laughter-thrives-online/"><u>ChortleCove App - Where Laughter Thrives Online</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/discover-the-best-2-wd-zero-fill-software-solutions-compatible-with-all-windows-versions-start-your-risk-free-test-today/"><u>Discover the Best 2 WD Zero Fill Software Solutions Compatible with All Windows Versions - Start Your Risk-Free Test Today!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/experience-unmatched-performance-with-these-must-have-lenovo-laptop-attributes-for-serious-users-as-revealed/"><u>Experience Unmatched Performance with These Must-Have Lenovo Laptop Attributes for Serious Users, as Revealed</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-and-solutions-resolving-psychonauts-2-pc-game-crash-issues/"><u>Fixes and Solutions: Resolving Psychonauts 2 PC Game Crash Issues</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-capture-to-screen-advanced-editing-strategies-for-full-spherical-video-content-in-adobe-premiere-pro-for-2024/"><u>From Capture to Screen Advanced Editing Strategies for Full Spherical Video Content in Adobe Premiere Pro for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guide-to-preventing-persistent-freezing-in-blender-pc-edition/"><u>Guide to Preventing Persistent Freezing in Blender - PC Edition</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-apple-iphone-15-pro-max-location-by-number-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track Apple iPhone 15 Pro Max Location by Number | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-the-cant-launch-valheim-on-startup-issue-for-players-in-202e/"><u>Resolving the 'Can't Launch Valheim on Startup Issue for Players in 202E</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-solution-to-overcome-modern-warfares-error-6034-on-your-pc-or-xbox-console/"><u>Step-by-Step Solution to Overcome Modern Warfare's Error 6034 on Your PC or Xbox Console</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-and-solutions-for-black-screen-issues-in-fortnite-on-windows/"><u>Troubleshooting and Solutions for Black Screen Issues in Fortnite on Windows</u></a></li>
 </ul></div>
 

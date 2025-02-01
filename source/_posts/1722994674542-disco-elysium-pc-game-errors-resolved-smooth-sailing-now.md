@@ -1,7 +1,7 @@
 ---
 title: "Disco Elysium PC Game Errors Resolved: Smooth Sailing Now"
-date: 2025-01-15T05:29:53.178Z
-updated: 2025-01-18T00:22:51.230Z
+date: 2025-01-26T00:14:48.394Z
+updated: 2025-01-31T16:27:42.371Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ When you double-click Discord but the program won’t open, it could be very fru
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  In this guide, you’ll learn 3 easy methods to fix Discord won’t open issue. Work your way down the list until you find the one that works.
@@ -35,10 +39,6 @@ When you double-click Discord but the program won’t open, it could be very fru
 7. [Reinstall the Discord](https://tools.techidaily.com/drivereasy/download/)  
 [Bonus: Update your driver](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Kill Discord task
 
  You can probably fix this glitch by a simple restart. Kill the Discord task completely and relaunch it.
@@ -47,18 +47,22 @@ When you double-click Discord but the program won’t open, it could be very fru
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/command-prompt-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Type**taskkill /F /IM discord.exe** and press the**Enter** key.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/dis.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Launch Discord again. It should be open normally.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Set your date/time automatically
@@ -71,15 +75,15 @@ When you double-click Discord but the program won’t open, it could be very fru
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/time.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) In the right pane, turn on the button under**Set time automatically** .
 
  4) Reboot the Discord program to check.
 
 If it doesn’t work, move to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Run Discord as administrator
 
@@ -92,6 +96,10 @@ If it doesn’t work, move to the next fix.
 
  2) On your desktop, right-click on the **Discord shortcut icon** and select **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8ced2e031f.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click **Yes**  when prompted by User Account Control.  
  4) Discord should open.
@@ -108,10 +116,6 @@ If it doesn’t work, move to the next fix.
 
 3) Restart Discord. It should open.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5: Disable your proxies
 
  If you’re using proxies while running Discord and have this problem, you need to disable your proxies.  
@@ -122,7 +126,7 @@ If it doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/p4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Set Control Panel**View by Category** and click**Network and Internet** .
@@ -141,10 +145,6 @@ If it doesn’t work, move to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/p3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6) Relaunch the Discord and it should open.
 
 ### Fix 6: Flushing your DNS
@@ -157,10 +157,6 @@ If it doesn’t work, move to the next fix.
 
 3) Type**cmd** . Then press**Ctrl + Shift + Enter** together to run as Administrator.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/command-prompt-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) You can type or copy from the ours**ipconfig /flushdns** (there is a space after ‘g’) and press**Enter** .
 
@@ -179,10 +175,6 @@ If it doesn’t work, move to the next fix.
  2) Type **appwiz.cpl** , then press **Enter** on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-426.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Right-click Discord in the list and select **Uninstall** .
 
@@ -221,8 +213,16 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -249,24 +249,16 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-boosting-viewership-with-animated-subscribe-buttons-in-filmora-easy-guide/"><u>[New] 2024 Approved Boosting Viewership with Animated Subscribe Buttons in Filmora (Easy Guide)</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-capturing-contentment-a-practical-guide-to-daily-vlogging/"><u>[New] 2024 Approved Capturing Contentment A Practical Guide to Daily Vlogging</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-visionary-backdrop-transformers-photorealm-innovation/"><u>[New] 2024 Approved Visionary Backdrop Transformers PhotoRealm Innovation</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-speech-capture-simplified-ipad-edition/"><u>[New] Speech Capture Simplified IPad Edition</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Motorola Edge 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/black-ops-cold-war-update-fixes-critical-display-issue-deactivates-error-27711/"><u>Black Ops Cold War Update Fixes Critical Display Issue, Deactivates Error 27711</u></a></li>
-<li><a href="https://win-answers.techidaily.com/defeating-shadows-strategic-fixes-to-counteract-magic-the-gathering-arenas-screen-blankness/"><u>Defeating Shadows: Strategic Fixes to Counteract Magic: The Gathering Arena's Screen Blankness</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-application-was-unable-to-start-correctly-in-adobe-troubleshooting-guide/"><u>Fixing 'The Application Was Unable To Start Correctly' In Adobe - Troubleshooting Guide</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-oppo-find-x7-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Oppo Find X7 Devices</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-poco-x5-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Poco X5 Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-and-prevent-lags-in-your-gameplay-of-guilty-gear-strive/"><u>How to Fix and Prevent Lags in Your Gameplay of Guilty Gear Strive</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-hogwarts-legacy-not-launching-2024-tips/"><u>How to Fix Hogwarts Legacy Not Launching – 2024 Tips</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-resolve-windows-compatibility-problems-with-logitech-g-hub/"><u>How to Resolve Windows Compatibility Problems with Logitech G Hub</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-honor-100-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Honor 100</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-m1-pro-vs-m1-max-a-detailed-comparison-of-apple-chipsets/"><u>In 2024, M1 Pro Vs. M1 Max A Detailed Comparison of Apple Chipsets</u></a></li>
-<li><a href="https://win-answers.techidaily.com/pc-woes-no-more-patching-up-star-wars-jedi-fallen-order-stability-bugs/"><u>PC Woes No More: Patching Up 'Star Wars Jedi: Fallen Order' Stability Bugs</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/thrills-that-dont-involve-los-angeles-lives/"><u>Thrills That Don't Involve Los Angeles Lives</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-get-lost-ark-running-smoothly-again-troubleshoot-launch-errors/"><u>Ultimate Guide: Get 'Lost Ark' Running Smoothly Again – Troubleshoot Launch Errors</u></a></li>
-<li><a href="https://win-answers.techidaily.com/unraveling-the-mystery-of-eternal-return-the-resilience-strategies-of-the-dark/"><u>Unraveling the Mystery of 'Eternal Return': The Resilience Strategies of the Dark</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-effective-utilization-of-whiteboards-on-mobile-and-desktop-for-online-learning/"><u>[New] 2024 Approved Effective Utilization of Whiteboards on Mobile and Desktop for Online Learning</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-proven-remedies-to-enhance-your-instagram-videography/"><u>[New] 2024 Approved Proven Remedies to Enhance Your Instagram Videography</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-innovative-android-for-ultimate-3d-playback/"><u>[Updated] 2024 Approved Innovative Android for Ultimate 3D Playback</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-determining-film-production-price-points/"><u>[Updated] Determining Film Production Price Points</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-examining-the-financial-success-strategies-of-t-series-on-youtube/"><u>[Updated] In 2024, Examining the Financial Success Strategies of T-Series on YouTube</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ignite-your-startups-growth-with-these-top-social-media-tips/"><u>Ignite Your Startup's Growth with These Top Social Media Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/launch-problems-be-gone-how-to-fix-monster-hunter-rise-not-starting-issues/"><u>Launch Problems Be Gone: How to Fix Monster Hunter Rise Not Starting Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/logitech-c92-troubleshooting-guide-restoring-functionality/"><u>Logitech C92지셔넘티드 웹캠 Troubleshooting Guide: Restoring Functionality</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-escaping-the-frustrating-minecraft-load-loop/"><u>Step-by-Step Guide: Escaping the Frustrating Minecraft Load Loop</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-resolving-the-issue-of-deathloop-game-crashing-frequently/"><u>Troubleshooting Steps: Resolving the Issue of Deathloop Game Crashing Frequently</u></a></li>
+<li><a href="https://win-answers.techidaily.com/uninterrupted-thrills-with-the-corrected-fnaf-security-breach-optimized-for-a-flawless-pc-gaming-adventure/"><u>Uninterrupted Thrills with the Corrected FNAF Security Breach - Optimized for a Flawless PC Gaming Adventure</u></a></li>
 </ul></div>
 

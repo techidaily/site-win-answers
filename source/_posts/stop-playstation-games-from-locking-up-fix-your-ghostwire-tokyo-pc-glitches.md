@@ -1,7 +1,7 @@
 ---
 title: "Stop PlayStation Games From Locking Up - Fix Your Ghostwire: Tokyo PC Glitches"
-date: 2024-12-31T02:13:28.504Z
-updated: 2025-01-05T20:08:20.586Z
+date: 2025-01-29T20:49:41.190Z
+updated: 2025-01-31T16:16:46.694Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/522924ced0006a97e1c9e5d253d5bd56be4e5257c
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -59,6 +55,10 @@ thumbnail: https://thmb.techidaily.com/522924ced0006a97e1c9e5d253d5bd56be4e5257c
 | **Graphics**             | NVIDIA GeForce GTX 960 or AMD Radeon RX 470                     | NVIDIA GeForce GTX 1060 or AMD Radeon RX 580 | NVIDIA GeForce RTX 2070/RTX 3060 Ti or AMD Radeon RX 5700XT | NVIDIA GeForce RTX 3080 or AMD Radeon RX 6800 XT |
 | **High-Rez asset cache** | Up to 32 GB                                                     | Up to 32 GB                                  | Up to 32 GB                                                 | Up to 64 GB                                      |
 | **Video memory**         | 2 GB                                                            | 4 GB                                         | 8 GB                                                        | 10 GB                                            |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 1: Close background applications
 
@@ -111,10 +111,6 @@ If this doesn’t help, move on to the next fix.
 
 If Vanguard still freezes randomly on your PC, try the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 5: Repair corrupted system files
 
  Windows files corruptions could also trigger the freezing issues in Vanguard. When Vanguard shares some system files with your OS and some file among them is broken, it could freeze the gameplay as well. If this is the case, it would be difficult to identify the cause. You may need a powerful system repair tool to scan and fix your system files.
@@ -126,11 +122,19 @@ If Vanguard still freezes randomly on your PC, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
  If you’re still experiencing random freezes while playing Vanguard, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 6: Make sure your system is up-to-date
 
@@ -144,23 +148,23 @@ If Vanguard still freezes randomly on your PC, try the next fix.
 2. Windows will scan for any available updates. If there are_no_ available updates, you’ll get a**You’re up to date** sign. You could also click**View all optional updates** and install them if needed.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/up-to-date.png)
 3. If there are available updates, Windows will automatically download them for you. Follow instructions to complete the installation if needed.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/windows-update.jpg)
 4. Restart your PC to let it take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If this doesn’t solve your problem, try the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 7: Check your antivirus software
@@ -172,10 +176,6 @@ If this doesn’t solve your problem, try the next fix.
  Make sure you stay extra cautious when you turn off the antivirus app and do NOT download anything from the internet when your computer is not under protection.
 
 If the freezing issue persists, there’s one more fix you can try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 8: Increase your virtual memory
 
@@ -189,15 +189,15 @@ If the freezing issue persists, there’s one more fix you can try.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/advanced-performance-settings.jpg)
 4. Again switch to the **Advanced** tab, under the Virtual memory section, click **Change** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/virtual-memory-change.jpg)
 5. Uncheck the box of **Automatically manage paging file size for all drives** , then select **Custom size** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-10_11-54-55.jpg)
 6. Use the below formulas to calculate the values you should set:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _**1GB = 1024 MB**_  
  _**Initial size (MB) = 1.5 \* the amount of RAM (GB) on your PC**_  
@@ -210,7 +210,7 @@ _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
 9. Reboot your PC to see if Vanguard still freezes on your PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -232,20 +232,22 @@ _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-easy-to-use-onboard-shake-reduction-gadget/"><u>[New] Easy-to-Use Onboard Shake Reduction Gadget</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-top-10-most-affordable-cloud-vendors-listed/"><u>[Updated] Top 10 Most Affordable Cloud Vendors Listed</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unlock-professional-video-quality-with-obs-studios-lut-functionalities/"><u>[Updated] Unlock Professional Video Quality with OBS Studio's LUT Functionalities</u></a></li>
-<li><a href="https://win-answers.techidaily.com/aromatic-hydrocarbons-primarily-undergo-electrophil-cuplation-reactions-to-maintain-their-stability/"><u>Aromatic Hydrocarbons Primarily Undergo Electrophil Cuplation Reactions to Maintain Their Stability.</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/discover-the-future-of-music-programming-musicians-can-now-own-a-micropython-tulip-computer-for-under-60/"><u>Discover the Future of Music Programming: Musicians Can Now Own a MicroPython Tulip Computer for Under $60</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-ways-to-prevent-and-fix-pacific-drive-crashes-on-desktops/"><u>Effective Ways to Prevent and Fix Pacific Drive Crashes on Desktops</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enjoy-gameplay-without-extra-cables-setup-ps3-controller-on-windows/"><u>Enjoy Gameplay Without Extra Cables: Setup PS3 Controller on Windows</u></a></li>
-<li><a href="https://win-answers.techidaily.com/eternal-cycle-of-resurgence-the-ultimate-guide-to-black-community-endurance/"><u>Eternal Cycle of Resurgence: The Ultimate Guide to Black Community Endurance</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/expert-audio-enhancement-toolkit-for-2024/"><u>Expert Audio Enhancement Toolkit for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fix-your-game-nightmares-dealing-with-star-wars-jedi-fallen-order-not-starting/"><u>Fix Your Game Nightmares: Dealing with Star Wars Jedi: Fallen Order Not Starting</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-issue-how-to-troubleshoot-a-non-responsive-rockstar-games-launcher/"><u>Fixing the Issue: How to Troubleshoot a Non-Responsive Rockstar Games Launcher</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/gratis-converter-online-para-arquivos-ts-em-flv-movavi/"><u>Gratis Converter Online Para Arquivos TS Em FLV - Movavi</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-crafting-captivating-conversations-mastering-zooms-filter-features/"><u>In 2024, Crafting Captivating Conversations Mastering Zoom's Filter Features</u></a></li>
-<li><a href="https://win-answers.techidaily.com/pc-stability-solutions-resolving-skyline-city-builder-game-crashes/"><u>PC Stability Solutions: Resolving Skyline City Builder Game Crashes</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/seamless-streaming-experience-a-youtube-playlist-creation-guide-for-2024/"><u>Seamless Streaming Experience A YouTube Playlist Creation Guide for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-the-ultimate-comparison-top-screen-recorders-focusing-on-recmeister/"><u>[New] 2024 Approved The Ultimate Comparison Top Screen Recorders, Focusing on Recmeister</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-god-of-war-fps-drops-on-pc/"><u>[SOLVED] God of War FPS Drops on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723012230416-solved-guilty-gear-strive-wont-launch/"><u>[SOLVED] Guilty Gear -Strive- Won’t Launch</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-becoming-an-audacity-recording-virtuoso/"><u>[Updated] 2024 Approved Becoming an Audacity Recording Virtuoso</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-the-strategy-behind-automatic-youtube-playback-on-fb/"><u>[Updated] In 2024, The Strategy Behind Automatic YouTube Playback on FB</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-selecting-optimal-frame-rate-30fps-vs-60fps-for-quality-recording-for-2024/"><u>[Updated] Selecting Optimal Frame Rate 30Fps Vs. 60Fps for Quality Recording for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-the-essential-iphoneside-by-side-guide-for-fb-sharing-for-2024/"><u>[Updated] The Essential iPhoneside by Side Guide for FB Sharing for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/black-ops-cold-war-patched-fix-for-ui-bug-27711-now-live/"><u>Black Ops: Cold War Patched! Fix for UI Bug 27711 Now Live</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-fixes-for-when-your-voice-chat-content-warning-stops-responding/"><u>Expert Fixes for When Your Voice Chat Content Warning Stops Responding</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-trouplem-cam-input-not-detected-problem-in-snap-app/"><u>How to Trouplem Cam Input Not Detected Problem in Snap App</u></a></li>
+<li><a href="https://win-superb.techidaily.com/movavi-trasforma-i-tuoi-gif-online-gratuitamente-in-file-mpeg/"><u>Movavi: Trasforma I Tuoi GIF Online Gratuitamente in File MPEG</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-update-causes-frequent-system-crashes-solutions-and-fixes/"><u>PC Update Causes Frequent System Crashes: Solutions and Fixes</u></a></li>
+<li><a href="https://win-online.techidaily.com/reclaim-your-lost-files-easy-steps-to-retrieve-disappeared-desktop-folders-on-windows-systems/"><u>Reclaim Your Lost Files: Easy Steps to Retrieve Disappeared Desktop Folders on Windows Systems</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/trouble-with-windows-11-hevc-support-get-the-free-hevc-codec-pack-now/"><u>Trouble with Windows 11 HEVC Support? Get the Free HEVC Codec Pack Now!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-fixed-itunes-reveals-audio-config-errors/"><u>Troubleshooting Fixed: ITunes Reveals Audio Config Errors</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-persistent-sony-vegas-crashes-get-your-project-up-and-running/"><u>Troubleshooting Persistent Sony Vegas Crashes - Get Your Project Up and Running!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/utilizing-microsofts-codex-copilot-feature-within-your-teams-workflow/"><u>Utilizing Microsoft's Codex Copilot Feature Within Your Teams Workflow</u></a></li>
 </ul></div>
 

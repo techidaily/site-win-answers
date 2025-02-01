@@ -1,7 +1,7 @@
 ---
 title: "Beat the Glitches: 7 Proven Methods to Prevent Diablo IV Crashes on PC and Consoles"
-date: 2025-01-11T03:39:49.961Z
-updated: 2025-01-18T08:48:38.314Z
+date: 2025-01-28T17:31:41.333Z
+updated: 2025-01-31T22:56:22.866Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ The Stray is a hit in July. As a cat lover, I’m obsessed with the game, howeve
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -48,14 +44,10 @@ The Stray is a hit in July. As a cat lover, I’m obsessed with the game, howeve
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-integrity-of-game-files-1.png)
 3. After the verification, launch Stray and see if it makes difference.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If it doesn’t work, move to the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Put commands in the launch option
@@ -74,12 +66,20 @@ If it doesn’t work, move to the next fix.
 5. If it failed again, repeat**Step 1& 2** , try**\-dx12** this time.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-dx12.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If none of the commands work for you, move to the next fix if you have Oculus app installed on your PC. If you don’t have it, move to the[Fix 4](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Open Oculus app
 
@@ -90,16 +90,12 @@ If it doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/oculus-app.jpg)
 3. Back to Steam and click**Play** to launch Stray.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. You should be able to play the game.
 
  If you don’t have the Oculus app or it doesn’t work for you, move to the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Update your graphic driver
@@ -124,6 +120,10 @@ If it doesn’t work, move to the next fix.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
@@ -152,17 +152,17 @@ If it doesn’t work, move to the next fix.
 8. Right-click in the empty space and click**Paste** to paste all the files into Win64.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-github-5.jpg)
 9. Launch the game and see if it works.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If the fix doesn’t work for you, you can delete the pasted files from the Win64 folder.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Lower graphic settings
 
@@ -187,18 +187,21 @@ If it doesn’t work, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-premium-facelift-tech-top-facial-editing-apps/"><u>[New] Premium Facelift Tech Top Facial Editing Apps</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-the-complete-guide-to-reversed-videos-on-instagram/"><u>[Updated] 2024 Approved The Complete Guide to Reversed Videos on Instagram</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-ignite-your-online-presence-nine-essential-tips-for-mastering-instagram-stardom-for-2024/"><u>[Updated] Ignite Your Online Presence Nine Essential Tips for Mastering Instagram Stardom for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-enhance-video-narratives-with-text-addition-via-microsoft-photos-win-11/"><u>2024 Approved Enhance Video Narratives with Text Addition via Microsoft Photos (Win 11)</u></a></li>
-<li><a href="https://win-answers.techidaily.com/2024-guide-resolving-deadlocks-in-your-startups-launch-process/"><u>2024 Guide: Resolving Deadlocks in Your Startup's Launch Process</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/assessing-the-limitations-samsung-and-ubreakifix-partnership-analysis/"><u>Assessing the Limitations: Samsung and uBreakiFix Partnership Analysis</u></a></li>
-<li><a href="https://win-answers.techidaily.com/bypass-pc-boot-problems-for-warzone-20-a-step-by-step-fix-guide/"><u>Bypass PC Boot Problems for Warzone 2.0 - A Step-by-Step Fix Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixes-and-solutions-how-to-stop-metro-exodus-from-crashing-your-pc/"><u>Fixes & Solutions: How to Stop Metro Exodus From Crashing Your PC</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On OnePlus 11 5G | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/patch-up-the-lag-troubleshoot-and-resolve-stutters-in-half-life-alyx-on-windows/"><u>Patch Up the Lag: Troubleshoot and Resolve Stutters in Half-Life Alyx on Windows</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-resolving-overwatch-2-pc-game-crashes/"><u>Troubleshooting Steps: Resolving Overwatch 2 PC Game Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/why-youre-not-experiencing-crashes-anymore-overwatch-and-your-updated-drivers/"><u>Why You're Not Experiencing Crashes Anymore - Overwatch and Your Updated Drivers</u></a></li>
-<li><a href="https://win-top.techidaily.com/windows-1011sysprep/"><u>Windows 10/11中Sysprep的逐步使用教程 | 系統啟動歸位課程</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-innovative-vertical-video-editing-for-instagrams-igtv/"><u>[New] Innovative Vertical Video Editing for Instagram's IGTV</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-techniques-for-restarting-disrupted-live-feeds-fb-for-2024/"><u>[Updated] Techniques for Restarting Disrupted Live Feeds (FB) for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1-manycam-the-ultimate-solution-for-live-streaming-and-virtual-camera-technology/"><u>1. ManyCam: The Ultimate Solution for Live Streaming and Virtual Camera Technology</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-essential-guide-to-premium-cost-free-chat-apps-on-web/"><u>2024 Approved Essential Guide to Premium, Cost-Free Chat Apps on Web</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/branding-beats-technicalities-focus-on-your-streams-signature-style-for-2024/"><u>Branding Beats Technicalities Focus on Your Stream's Signature Style for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bypassing-launch-errors-in-helldivers-2-a-step-by-step-guide-for-steam-users/"><u>Bypassing Launch Errors in Helldivers 2 - A Step-by-Step Guide for Steam Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/call-of-duty-vanguard-overcoming-compatibility-challenges-on-pc-in-the-2nnd-quarter-of-2024/"><u>Call of Duty Vanguard - Overcoming Compatibility Challenges on PC in the 2Nnd Quarter of 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/discover-wireless-record-playback-the-lp60xbt-experience/"><u>Discover Wireless Record Playback: The LP60XBT Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enshrouded-game-stability-on-desktop-computers-tips-and-fixes-for-pc-gamers/"><u>Enshrouded Game Stability on Desktop Computers: Tips and Fixes for PC Gamers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/error-resolved-a-step-by-step-tutorial-for-dealing-with-rainbow-six-sieges-code-3-0x0001000b/"><u>Error Resolved: A Step-by-Step Tutorial for Dealing with Rainbow Six Siege's Code 3-0X0001000B</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/latest-tricks-to-combat-discord-slowdowns-and-improve-connectivity/"><u>Latest Tricks to Combat Discord Slowdowns and Improve Connectivity</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-players-beware-last-epoch-wont-launch-here-are-the-fixes-you-need/"><u>PC Players Beware: Last Epoch Won't Launch? Here Are the Fixes You Need !</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/revolutionize-your-videos-experience-smooth-playback-using-winxvideo-ai-for-intelligent-frame-generation/"><u>Revolutionize Your Videos: Experience Smooth Playback Using Winxvideo AI for Intelligent Frame Generation</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/tream-wars-fb-live-youtube-live-and-twitters-periscope-face-off/"><u>The Stream Wars FB Live, YouTube Live, and Twitter's Periscope Face-Off</u></a></li>
+<li><a href="https://win-answers.techidaily.com/urban-architects-guide-overcoming-system-collapses-in-city-of-the-future-ii-for-windows-users/"><u>Urban Architect's Guide: Overcoming System Collapses in City of the Future II for Windows Users</u></a></li>
 </ul></div>
 

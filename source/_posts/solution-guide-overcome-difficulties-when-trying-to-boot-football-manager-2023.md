@@ -1,7 +1,7 @@
 ---
 title: "Solution Guide: Overcome Difficulties When Trying To Boot Football Manager 2023"
-date: 2025-01-10T22:13:37.363Z
-updated: 2025-01-17T18:25:01.788Z
+date: 2025-01-26T22:17:51.294Z
+updated: 2025-01-31T21:35:24.851Z
 tags:
   - win11
   - win10
@@ -31,6 +31,10 @@ Looking for Football Manager 2023 won’t launch fixes? You’ve come to the rig
 3. [Verify game files](https://tools.techidaily.com/drivereasy/download/)
 4. [Disable overlay and launch in Windowed mode](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Add an exception to your antivirus
 
  Many players have indicated their game files were blocked by antivirus software and caused the issue. Try this fix especially you’re an Avast or Avg user. They had virus definitions updated which mistakingly blocks steam/fm.exe.  
@@ -43,19 +47,15 @@ Take Avast as an example:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-16-03.jpg)
 3. Click**Settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-16-38.jpg)
 4. Click**Exception > Add Exception** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-15-52.jpg)
 5. Find your fm.exe location. Click**BROWSE** to add exception.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-20-00.jpg)
 6. Relaunch the game to check.
@@ -101,17 +101,17 @@ Visit the website of your GPU manufacturer and search for your GPU model.
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Go to**LOCAL FILES** and click**Verify integrity of game files…**  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 4. When the process is finished, relaunch the game to check.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If this fix bring no luck, move to the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Disable overlay and launch in Windowed mode
@@ -124,7 +124,7 @@ If this fix bring no luck, move to the next fix.
 3. In the**GENERAL** tab, uncheck**Enable the Steam Overlay while in-game** and type**\-windowed** under**LAUNCH OPTIONS** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_17-39-55.jpg)
@@ -151,18 +151,19 @@ If this fix bring no luck, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-quickly-transform-sluggish-videos-on-android/"><u>[New] Quickly Transform Sluggish Videos on Android</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-boosting-vimeo-videos-accelerating-playback/"><u>[Updated] Boosting Vimeo Videos Accelerating Playback</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-leading-call-customization-applications/"><u>[Updated] Leading Call Customization Applications</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-drive-engagement-crafting-an-animated-subscribe-button-in-filmoras-step-by-step-guide/"><u>2024 Approved Drive Engagement Crafting an Animated Subscribe Button in Filmora's Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-information.techidaily.com/avoiding-misdated-memories-with-exact-times-for-2024/"><u>Avoiding Misdated Memories with Exact Times for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-apple-iphone-11-pro-to-enjoy-more-fun-drfone-by-drfone-virtual-ios/"><u>Change Location on Yik Yak For your Apple iPhone 11 Pro to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-vivo-y55s-5g-2023withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Vivo Y55s 5G (2023)with/without a PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-eliminate-web-browsing-distractions-a-step-by-step-guide-to-stop-chromiums-erratic-behavior-on-windows/"><u>How to Eliminate Web Browsing Distractions: A Step-by-Step Guide to Stop Chromium's Erratic Behavior on Windows</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/professional-recommendations-for-data-clearing-with-stellars-publications/"><u>Professional Recommendations for Data Clearing with Stellar's Publications</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-how-to-stop-sony-vegas-media-studio-from-crashing/"><u>Resolved! How to Stop Sony Vegas Media Studio From Crashing</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/revolutionizing-outdoor-entertainment-the-ion-audio-tailgater-plus-review-endless-listening-with-exceptional-bass-and-instant-play-feature/"><u>Revolutionizing Outdoor Entertainment - The Ion Audio Tailgater Plus Review: Endless Listening with Exceptional Bass and Instant Play Feature</u></a></li>
-<li><a href="https://win-answers.techidaily.com/total-war-three-kingdoms-stability-guide-resolving-the-game-crash-dilemma/"><u>Total War: Three Kingdoms Stability Guide: Resolving the Game Crash Dilemma</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-persistent-crashes-of-the-content-warning-tool-on-desktop-systems/"><u>Troubleshooting Persistent Crashes of the Content Warning Tool on Desktop Systems</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-behind-the-scenes-crafting-a-screenplay-for-2024/"><u>[New] Behind the Scenes Crafting a Screenplay for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-elevate-your-video-aesthetics-with-obss-customizable-luts/"><u>[New] In 2024, Elevate Your Video Aesthetics with OBS's Customizable LUTs</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-live-streaming-pre-recorded-videos-the-facebook-approach/"><u>[New] Live Streaming Pre-Recorded Videos The Facebook Approach</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/all-about-iphone-7-unlock-chip-you-need-to-know-by-drfone-ios/"><u>All About iPhone 7 Unlock Chip You Need to Know</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/exclusive-picks-the-ideal-samsung-galaxy-z-fold-7-case-collection-you-cant-miss/"><u>Exclusive Picks: The Ideal Samsung Galaxy Z Fold 7 Case Collection You Can't Miss</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-15-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>How to Unlock Apple iPhone 15 Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/improving-dota-2-performance-overcoming-dropping-fps-on-windows-1110/"><u>Improving Dota 2 Performance: Overcoming Dropping FPS on Windows 11/10</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-samsung-galaxy-f34-5g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Samsung Galaxy F34 5G Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-bypassing-icloud-activation-lock-on-apple-iphone-12-pro-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Bypassing iCloud Activation Lock on Apple iPhone 12 Pro</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-the-art-of-fixing-fallout-76-on-your-computer-comprehensive-guide/"><u>Master the Art of Fixing Fallout 76 on Your Computer: Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solve-your-steam-woes-with-these-7-proven-methods-to-beat-the-black-screen-glitch/"><u>Solve Your Steam Woes with These 7 Proven Methods to Beat the Black Screen Glitch</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/strategies-for-longer-use-of-gopro-power-source-for-2024/"><u>Strategies for Longer Use of GoPro Power Source for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/valorant-troubleshooting-step-by-step-solutions-for-stuttering-and-boosting-fps/"><u>Valorant Troubleshooting: Step-by-Step Solutions for Stuttering and Boosting FPS</u></a></li>
+<li><a href="https://win-answers.techidaily.com/wsappx-explained-how-to-tackle-high-memory-and-processing-demands-on-your-pc/"><u>Wsappx Explained: How to Tackle High Memory and Processing Demands on Your PC</u></a></li>
 </ul></div>
 

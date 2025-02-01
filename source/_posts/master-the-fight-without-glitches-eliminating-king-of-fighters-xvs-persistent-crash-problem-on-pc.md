@@ -1,7 +1,7 @@
 ---
 title: "Master the Fight Without Glitches: Eliminating King of Fighters XV's Persistent Crash Problem on PC"
-date: 2025-01-19T16:59:24.780Z
-updated: 2025-01-24T17:22:47.400Z
+date: 2025-01-26T18:37:20.137Z
+updated: 2025-02-01T00:14:09.331Z
 tags:
   - win11
   - win10
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/6ff66889aaf2236739a2923efe4cfc57f9cd9ea7a
 6. [Change your graphics settings](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Solution 1: Move your game to another drive
@@ -61,10 +61,6 @@ Make sure that Anthem is closed and not running in the background.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-926.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5) After ending all the tasks with Anthem and Origin, close Task Manager.
 
 #### Step 2: Move Anthem to anther drive
@@ -77,13 +73,13 @@ Make sure that Anthem is closed and not running in the background.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-859.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Right click**Anthem** , and click**Move game** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-927.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) File Explorer pops up and shows you the current drive that Anthem is saved in. Then choose another drive.  
  For instance, Anthem is saved in C drive, then you can move it to any other drive except for C drive.
@@ -118,10 +114,6 @@ Here’s how to do it:
 
  If Anthem loads up without any issue, congrats! If not, move on to the next method.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Solution 3: Update your drivers
 
  A missing or outdated device driver in your computer can cause Anthem not loading, especially your graphics card driver and your network adapter driver. To rule it out as the cause, you should verify that the device drivers are up to date, and update those that aren’t.
@@ -148,15 +140,15 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-857.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Once updated, restart your computer to take effect.
 
 Now launch Anthem on your computer, and your game should be loading.
 
  That’s a no go for you? Don’t worry. There are other fixes to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 4: Turn off Origin In-Game Overlay
 
@@ -168,13 +160,13 @@ Now launch Anthem on your computer, and your game should be loading.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-208.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Origin In-Game** tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-209-1024x668.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Switch it to**Off** .
 
@@ -183,6 +175,10 @@ Now launch Anthem on your computer, and your game should be loading.
 5) Restart Origin and Anthem to see how it works.
 
 Hopefully this will fix your Anthem not loading issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 5: Run Anthem as an administrator
 
@@ -196,6 +192,10 @@ Here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-861.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Compatibility** tab, and check the box for**Run this program as an administrator** . Then click**Apply** and**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-863.png)
@@ -203,10 +203,6 @@ Here’s what you need to do:
 4) Re-launch your game and see if how it works.
 
  Anthem runs without any problem? That’s great! Or your problem still persist? Don’t give up hope.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Solution 6: Change your graphics settings
 
@@ -218,6 +214,10 @@ Here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-930.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Under Advanced Graphics Settings, modify the available graphics quality settings, such as**Texture Quality** ,**Lighting Quality** , and**Effects Quality** .
 
  If the option is**Ultra** or**High** , change it to**Medium** or**Low** . If the option is**Medium** or**Low** , change it to**Ultra** or**High** .
@@ -225,7 +225,7 @@ Here’s what you need to do:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-929.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Save your changes.
@@ -252,24 +252,20 @@ Re-launch Anthem and see how it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-byte-sized-hits-the-heart-of-viral-content/"><u>[New] In 2024, Byte-Sized Hits The Heart of Viral Content</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-cutting-edge-guide-streamlining-your-gopro-studio-workflow/"><u>[New] In 2024, Cutting-Edge Guide Streamlining Your GoPro Studio Workflow</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-eliminating-windows-11-photo-app-malfunctions/"><u>[Updated] 2024 Approved Eliminating Windows 11 Photo App Malfunctions</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-live-subscriber-count-meters/"><u>[Updated] In 2024, Live Subscriber Count Meters</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Motorola Razr 40 Ultra | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/eliminating-latency-issues-in-guilty-gear-strive-tips-and-solutions-for-gamers/"><u>Eliminating Latency Issues in Guilty Gear -Strive-: Tips and Solutions for Gamers</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/exquisite-photo-amplification-web-and-phone-edition-for-2024/"><u>Exquisite Photo Amplification Web & Phone Edition for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fallout-eblack-screen-issue-efficient-solutions-and-fixes-to-restore-your-gameplay-smoothly/"><u>Fallout Eblack Screen Issue: Efficient Solutions and Fixes to Restore Your Gameplay Smoothly</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-constant-mordhau-breakdowns-expert-tips-and-tricks-to-enhance-gaming-experience/"><u>Fixing Constant Mordhau Breakdowns: Expert Tips and Tricks to Enhance Gaming Experience</u></a></li>
-<li><a href="https://win-answers.techidaily.com/football-manager-2021-pc-instability-issues-comprehensive-troubleshooting-guide/"><u>Football Manager 2021 PC Instability Issues: Comprehensive Troubleshooting Guide</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-xiaomi-redmi-note-13-5g-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Xiaomi Redmi Note 13 5G</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mac-users-rejoice-effortless-video-conversion-from-all-formats-to-avi-using-macx-free-tool/"><u>Mac Users Rejoice! Effortless Video Conversion From All Formats to AVI Using MacX Free Tool</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolve-and-enhance-your-vr-experience-addressing-oculus-graphics-drivers-errors/"><u>Resolve and Enhance Your VR Experience: Addressing Oculus Graphics Drivers' Errors</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-pc-fps-dips-in-resident-evil-village-top-fixes-and-tips/"><u>Resolving PC FPS Dips in Resident Evil Village – Top Fixes and Tips</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solutions-for-uninterrupted-starfield-gaming-experience-no-more-freezes/"><u>Solutions for Uninterrupted Starfield Gaming Experience - No More Freezes!</u></a></li>
-<li><a href="https://article-files.techidaily.com/stealthy-sound-softening-with-garageband/"><u>Stealthy Sound Softening with Garageband</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-stop-cod-modern-warfare-from-breaking-down/"><u>Troubleshooting Tips: Stop Cod: Modern Warfare From Breaking Down</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-resolving-black-screen-issues-in-rainbow-six-siege-pc-edition/"><u>Ultimate Guide: Resolving Black Screen Issues in Rainbow Six Siege - PC Edition</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/1723262406386-wds-ultrastar-transporter-a-game-changer-in-data-mobility-with-368tb-nvme-storage-capacity-and-high-end-specs/"><u>WD's Ultrastar Transporter: A Game-Changer in Data Mobility with 368TB NVMe Storage Capacity and High-End Specs!</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-integrating-zoom-and-fb-live-effortlessly/"><u>[New] 2024 Approved Integrating ZOOM and FB Live Effortlessly</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-top-5-strategies-for-implementing-tiktok-video-descriptions-for-2024/"><u>[New] Top 5 Strategies for Implementing TikTok Video Descriptions for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-fiscal-summary-producing-a-music-video/"><u>[Updated] Fiscal Summary Producing a Music Video</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-spreading-smiles-building-a-solid-foundation-in-gif-humor/"><u>2024 Approved Spreading Smiles Building a Solid Foundation in GIF Humor</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-path-to-larger-video-presentation-in-youtube/"><u>2024 Approved The Path to Larger Video Presentation in YouTube</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-fixes-to-get-your-phasmophobia-virtual-reality-up-and-running/"><u>Effective Fixes to Get Your Phasmophobia Virtual Reality Up and Running</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-solutions-to-stop-wallpaper-engine-from-freezing-or-crashing-on-windows-platforms/"><u>Effective Solutions to Stop Wallpaper Engine From Freezing or Crashing on Windows Platforms</u></a></li>
+<li><a href="https://win-answers.techidaily.com/heart-of-iron-4-woes-no-more-expert-tips-on-handling-persistent-crashing-issues/"><u>Heart of Iron 4 Woes No More: Expert Tips on Handling Persistent Crashing Issues</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-oneplus-11r-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best OnePlus 11R Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://win-answers.techidaily.com/instantly-fix-the-repeated-app-crash-issue-step-by-step-guide/"><u>Instantly Fix the Repeated App 'Crash' Issue - Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/iphone-region-change-cheat-sheet-a-comprehensive-guide-for-users-worldwide/"><u>IPhone Region Change Cheat Sheet: A Comprehensive Guide for Users Worldwide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/persona-3-reload-pc-stability-fix-overcoming-game-crashes-easily/"><u>Persona ^3 Reload PC Stability Fix: Overcoming Game Crashes Easily</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/smooth-start-scripts-captivating-podcast-intros/"><u>Smooth Start Scripts Captivating Podcast Intros</u></a></li>
+<li><a href="https://extra-support.techidaily.com/step-by-step-guide-iphone-picture-perfection-for-2024/"><u>Step-by-Step Guide IPhone Picture Perfection for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723012370815-windows-10-users-can-finally-enjoy-civilization-6-without-startup-issues-how-to-get-there/"><u>Windows 10 Users Can Finally Enjoy Civilization 6 Without Startup Issues! How to Get There.</u></a></li>
 </ul></div>
 

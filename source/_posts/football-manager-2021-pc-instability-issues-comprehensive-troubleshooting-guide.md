@@ -1,7 +1,7 @@
 ---
 title: "Football Manager 2021 PC Instability Issues: Comprehensive Troubleshooting Guide"
-date: 2025-01-23T16:40:38.214Z
-updated: 2025-01-24T16:46:53.492Z
+date: 2025-01-26T23:08:46.613Z
+updated: 2025-01-31T22:02:59.256Z
 tags:
   - win11
   - win10
@@ -47,21 +47,21 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-1-8.jpg)
 3. Click the**Update** button next to the flagged graphics card driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-2-9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  The driver update should resolve the crashing issue and also boost the game’s performance. If not, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2 – Verify the integrity of game files
 
@@ -71,19 +71,19 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-1-5.jpg)
 2. Right-click**Football Manager 2021** from the game list and click**Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Select**Local Files** and then click**Verify Integrity of Game Files** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-3-4.jpg)
 
  Wait until the process finishes and relaunch FM 21 to test. If your issue persists, take a look at more fixes below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3 – Temporarily disable your antivirus
@@ -100,7 +100,7 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 If this method doesn’t help, go ahead with the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4 – Delete the Preferences and Caches folder
@@ -117,6 +117,10 @@ If this method doesn’t help, go ahead with the next fix below.
 
 So does the crash go away now? If not, there is the last fix to try.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5 – Set launch options
 
  If you receive a specific DXGI\_ERROR\_DEVICE error message or an application error, the Football Manager 2021 crashing issue is related to your graphics card. That’s especially true if you’re using Intel GPUs. And you can launch the game with lower graphics settings and see how it works.
@@ -124,10 +128,6 @@ So does the crash go away now? If not, there is the last fix to try.
 1. Open Steam and go to the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-1-5.jpg)
 2. Right-click**Football Manager 2021** and click**Properties** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Click**Set Launch Options** .  
@@ -164,21 +164,16 @@ So does the crash go away now? If not, there is the last fix to try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-vision-unclouded-mastery-of-gopro-haze-prevention/"><u>[New] Vision Unclouded Mastery of GoPro Haze Prevention</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-complete-slomo-recording-app-analysis-consumers/"><u>[Updated] In 2024, Complete SloMo Recording App Analysis Consumers</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-premium-monitors-the-best-5-selection-for-ps5-gaming-for-2024/"><u>[Updated] Premium Monitors The Best 5 Selection for PS5 Gaming for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-virtual-teamwork-made-simple-on-facebook-live/"><u>2024 Approved Virtual Teamwork Made Simple on Facebook Live</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/artificial-intelligence-developments-tentative-date-for-gpt-5/"><u>Artificial Intelligence Developments: Tentative Date for GPT-5?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/diagnosing-and-fixing-minecraft-launcher-freezes-for-smooth-gaming/"><u>Diagnosing & Fixing Minecraft Launcher Freezes for Smooth Gaming</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-tower-of-fantasy-game-crashes-solutions-and-tips-for-pc-players/"><u>Fixing the 'Tower of Fantasy' Game Crashes: Solutions & Tips for PC Players</u></a></li>
-<li><a href="https://win-answers.techidaily.com/join-the-pantheon-play-ascendingly-thrilling-god-of-war-fps-on-pc-platforms/"><u>Join the Pantheon: Play Ascendingly Thrilling God of War FPS on PC Platforms</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-computers-with-toms-hardware-experts/"><u>Navigating the World of Computers with Tom's Hardware Experts</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-top-10-anime-movies-of-all-time/"><u>New 2024 Approved Top 10 Anime Movies of All Time</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolve-your-mic-issues-with-these-6-proven-solutions/"><u>Resolve Your Mic Issues with These 6 Proven Solutions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-how-to-enable-gpu-acceleration-for-cyberpunk-2077-on-windows-10-systems/"><u>Resolved: How to Enable GPU Acceleration for Cyberpunk 2077 on Windows 10 Systems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solution-found-how-to-restore-sounds-in-minecraft-for-windows-and-other-pcs/"><u>Solution Found: How to Restore Sounds in Minecraft for Windows and Other PCs</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-strategies-to-overcome-high-ping-and-enhance-your-cs2-pc-performance/"><u>Step-by-Step Strategies to Overcome High Ping & Enhance Your CS2 PC Performance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-iphone-and-apple-watch-skin-guards-ultimate-shields-for-your-devices-in-2/"><u>Top-Rated iPhone and Apple Watch Skin Guards - Ultimate Shields for Your Devices in 2</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-mastering-tiktok-sound-control-simple-methods-for-quieting-videos/"><u>Updated Mastering TikTok Sound Control Simple Methods for Quieting Videos</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/avigating-video-aspect-ratios-in-youtube-platform-for-2024/"><u>[New] Navigating Video Aspect Ratios in YouTube Platform for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-star-clusters-in-social-media-landscape/"><u>[Updated] 2024 Approved Star Clusters in Social Media Landscape</u></a></li>
+<li><a href="https://win-answers.techidaily.com/conquer-performance-issues-solve-high-cpu-consumption-in-baldurs-gate-iii-202e/"><u>Conquer Performance Issues: Solve High CPU Consumption in Baldur's Gate III (202E)</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-can-i-create-my-pokemon-overworld-maps-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>How Can I Create My Pokemon Overworld Maps On Apple iPhone 11? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-resolve-on-hold-charging-issue-on-iphone-top-8-solutions/"><u>How to Resolve 'On-Hold Charging' Issue on iPhone: Top 8 Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-solve-platinum-dust-stutter-issues-the-ultimate-fixes-guide/"><u>How To Solve 'Platinum: Dust' Stutter Issues - The Ultimate Fixes Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/latest-trends-in-mobile-viewing-android-edition-vr360-for-2024/"><u>Latest Trends in Mobile Viewing - Android Edition (VR/360) for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-vivo-v30-lite-5g-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Vivo V30 Lite 5G and Browser | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-tutorial-to-prevent-and-fix-your-discord-from-freezing-or-crashing/"><u>Step-by-Step Tutorial to Prevent and Fix Your Discord From Freezing or Crashing</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-reel-effect-creating-compelling-loops-on-ig-for-2024/"><u>The Reel Effect Creating Compelling Loops on IG for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-mw3-fixes-for-modern-warfare-3-issues-with-loading-and-performance/"><u>Troubleshooting MW3: Fixes for Modern Warfare 3 Issues with Loading and Performance</u></a></li>
 </ul></div>
 

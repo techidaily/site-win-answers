@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Solution: Stop PC Freezes and Glitches While Playing Mobile PUBG"
-date: 2025-01-18T18:54:54.048Z
-updated: 2025-01-24T16:38:47.747Z
+date: 2025-01-25T19:04:58.861Z
+updated: 2025-02-01T00:54:14.966Z
 tags:
   - win11
   - win10
@@ -38,7 +38,7 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 | **DirectX**          | **DirectX 11.0**    |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Recommended system requirements for Fortnite
@@ -72,7 +72,7 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2: Use compatibility mode
@@ -83,10 +83,6 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 2. In the Compatibility tab, click **Run this program in compatibility mode for** . Then choose the system in the drop-down menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/com.jpg)
 3. Click **OK** then run Fortnite to check.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If this method doesn’t help, don’t worry, move to the next one.
 
@@ -123,18 +119,14 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Reboot your computer and run Fortnite to check the black screen issue will appear or not.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 4: Use your integrated graphics card
 
@@ -153,12 +145,16 @@ OR
 2. In the Display tab, find Scale and layout.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Change the scaling limit.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/display1.jpg)
 4. Reboot Fortnite and check whether this problem is resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 6: Unblock the game from Windows Firewall
 
@@ -167,6 +163,10 @@ OR
 1. Type “firewall” in the search bar and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/firewall0.jpg)
 2. Click**Allow an app through firewall** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/firewall.jpg)
 3. Find Fortnite and check whether it has been blocked or not.
@@ -198,22 +198,24 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-youtube-seo-guide-how-to-improve-search-rankings-for-your-youtube-videos/"><u>[Updated] In 2024, YouTube SEO Guide How to Improve Search Rankings For Your YouTube Videos</u></a></li>
-<li><a href="https://win-answers.techidaily.com/youtubeand/"><u>「Youtube動画アーカイブを安全にダウンロード&セーブする詳細ガイド」</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1-how-to-change-swf-files-into-avi-format-using-no-cost-methods-both-on-and-off-the-internet/"><u>1. How To Change SWF Files Into AVI Format Using No-Cost Methods - Both On And Off The Internet</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726028109648-google/"><u>解決策: Googleドライブ上で非対応フォーマットを持つファイルに遭遇した場合</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726029478590-youtube/"><u>素早く YouTube チャンネルから複数動画ダウンロードガイド</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/best-in-class-skype-recorders-ranked/"><u>Best-in-Class Skype Recorders Ranked</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/can-you-rely-on-windows-defender-for-effective-malware-and-cybersecurity-protection-insights-from-yl-computing-yl-software/"><u>Can You Rely on Windows Defender for Effective Malware and Cybersecurity Protection? Insights From YL Computing | YL Software</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/enabling-speech-to-text-on-powerpoint-essential-steps-for-2024/"><u>Enabling Speech-to-Text on PowerPoint Essential Steps for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-huawei-p60frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Huawei P60FRP Lock</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/mastering-discord-troubles-fixing-launch-failures-effectively/"><u>Mastering Discord Troubles: Fixing Launch Failures Effectively</u></a></li>
-<li><a href="https://extra-support.techidaily.com/photo-care-essentials-scanning-and-securing-vintage-prints-for-2024/"><u>Photo Care Essentials Scanning & Securing Vintage Prints for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-xiaomi-redmi-13c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Xiaomi Redmi 13C | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-htc-u23-pro-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About HTC U23 Pro Reset Code | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-tutorial-embedding-text-within-your-gif-images-on-various-platforms-including-windows-and-macos-systems/"><u>Ultimate Tutorial: Embedding Text Within Your GIF Images on Various Platforms Including Windows and MacOS Systems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726029264023-windowswebm/"><u>Windows上でのWebMビデオファイル統合手順</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726026610731-pc/"><u>オンライン英語レッスンをPCで記録するための簡単ガイド</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726027375030-pc/"><u>ダイナブックノートPCによる高画質映像記録テクニック</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-from-novice-to-pro-instagram-live-walkthrough/"><u>[Updated] 2024 Approved From Novice to Pro Instagram Live Walkthrough</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-mastering-video-thumbnail-creation-for-maximum-clicks/"><u>2024 Approved Mastering Video Thumbnail Creation for Maximum Clicks</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-honor-play-40c-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Honor Play 40C | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/a-comprehensive-guide-to-fixing-the-voice-chat-glitch-in-among-us-on-windows-1011/"><u>A Comprehensive Guide to Fixing the Voice Chat Glitch in Among Us on Windows 10/11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/accelerate-your-computer-speeding-up-windows-11-vs-windows-turbocharging-techniques/"><u>Accelerate Your Computer: Speeding Up Windows 11 Vs. Windows Turbocharging Techniques</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/create-engaging-videos-online-with-wevideo-for-2024/"><u>Create Engaging Videos Online with WeVideo for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-for-seamless-gaming-avoiding-breaks-in-resident-evil-4-remastered/"><u>Expert Advice for Seamless Gaming: Avoiding Breaks in Resident Evil 4 Remastered</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-multiplayer-lag-and-disconnection-in-rainbow-six-siege/"><u>Fixing Multiplayer Lag and Disconnection in Rainbow Six Siege</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-htc-u23-pro-by-fonelab-android-recover-music/"><u>How to retrieve erased music from HTC U23 Pro</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-instagram-a-listers-reviving-snapchats-flavor/"><u>In 2024, Instagram A-Listers Reviving Snapchat's Flavor</u></a></li>
+<li><a href="https://some-tips.techidaily.com/leveraging-boomerang-employees-a-strategic-approach-to-tackle-talent-scarcity/"><u>Leveraging Boomerang Employees: A Strategic Approach to Tackle Talent Scarcity</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-medieval-strategy-games-addressing-ck2-initialization-errors/"><u>Mastering Medieval Strategy Games: Addressing CK2 Initialization Errors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/no-more-typing-troubles-overcoming-windows-11s-input-lag-issues/"><u>No More Typing Troubles: Overcoming Windows 11'S Input Lag Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-pc-malfunctions-with-ease-master-the-fix-for-sword-art-online-psp-version-7-crashes/"><u>Overcome PC Malfunctions with Ease - Master the Fix for Sword Art Online PSP Version 7 Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolve-your-zoom-video-issues-with-these-5-expert-fixes/"><u>Resolve Your Zoom Video Issues with These 5 Expert Fixes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723003312187-sea-of-thieves-stuck-on-launching-heres-what-you-need-to-do/"><u>Sea of Thieves Stuck on Launching? Here's What You Need to Do!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-long-awaited-fix-for-wolcen-lords-of-mayhem-is-here/"><u>The Long-Awaited Fix for Wolcen - Lords of Mayhem Is Here</u></a></li>
+<li><a href="https://win-answers.techidaily.com/understanding-launch-failures-in-mass-effect-legendary-edition-expert-advice/"><u>Understanding Launch Failures in Mass Effect Legendary Edition – Expert Advice</u></a></li>
 </ul></div>
 

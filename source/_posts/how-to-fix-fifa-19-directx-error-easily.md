@@ -1,7 +1,7 @@
 ---
 title: How To Fix FIFA 19 DirectX Error Easily
-date: 2025-01-02T00:16:53.164Z
-updated: 2025-01-05T23:52:58.094Z
+date: 2025-01-30T05:20:48.814Z
+updated: 2025-02-01T04:54:18.697Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/f55494b1c8843bed72fd409a0474603bdb628f918
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixes For FIFA 19 DirectX Error
@@ -35,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/f55494b1c8843bed72fd409a0474603bdb628f918
 1. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
 2. [**Update DirectX**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Check if your PC meets the system requirements for FIFA 19**](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver
 
@@ -54,13 +50,13 @@ thumbnail: https://thmb.techidaily.com/f55494b1c8843bed72fd409a0474603bdb628f918
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can also do it for free if you like, but it’s partly manual.
 
@@ -69,10 +65,6 @@ thumbnail: https://thmb.techidaily.com/f55494b1c8843bed72fd409a0474603bdb628f918
 5) Play FIFA and check to see if the DirectX error is resolved. If yes, then great! If it still occurs, please move on to**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update DirectX
 
@@ -83,6 +75,10 @@ thumbnail: https://thmb.techidaily.com/f55494b1c8843bed72fd409a0474603bdb628f918
  Once you’ve updated DirectX, check to see if the FIFA game DirectX error issue is fixed. If yes, then great! If it’s still no joy, please move on to **Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Check if your PC meets the system requirements for FIFA 19
 
@@ -116,12 +112,16 @@ thumbnail: https://thmb.techidaily.com/f55494b1c8843bed72fd409a0474603bdb628f918
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-13.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-526.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Display** tab and you can check what **graphics card** your PC is using.
@@ -152,18 +152,18 @@ thumbnail: https://thmb.techidaily.com/f55494b1c8843bed72fd409a0474603bdb628f918
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-the-secret-to-stability-overcoming-handheld-videography-challenges/"><u>[New] 2024 Approved The Secret to Stability Overcoming Handheld Videography Challenges</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-unleash-productivity-learn-to-screen-record-on-mac-using-just-keys/"><u>[Updated] Unleash Productivity Learn to Screen Record on Mac Using Just Keys</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mp410-and/"><u>「圧縮されることなく」MP4ファイルを結合するためのトップ10ツールリスト - オンライン&ソフトウェア選び</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/elegant-darkening-premieres-touch/"><u>Elegant Darkening Premiere's Touch</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-signal-problems-on-kotions-g2000-microphone-set/"><u>Fixing Signal Problems on Kotion's G2000 Microphone Set</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Oppo A56s 5G? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-apple-iphone-12-pro-max-lock-screen-drfone-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From Apple iPhone 12 Pro Max Lock Screen | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/lg-smart-tv-mastery-the-comprehensive-guide-to-display-sharing/"><u>LG Smart TV Mastery: The Comprehensive Guide to Display Sharing</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-camtasia-step-by-step-guide-to-correctly-handling-recording-outputs/"><u>Mastering Camtasia: Step-by-Step Guide to Correctly Handling Recording Outputs</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-high-quality-lossless-sound-with-flac-files-explained/"><u>Mastering High-Quality Lossless Sound with FLAC Files Explained</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mp4202cu-version/"><u>MP4ビデオ修復のための最新フリーソフトウェア「202cu-Version」をお勧めします</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/tripod-triumphs-unbeatable-stability-for-phones-for-2024/"><u>Tripod Triumphs Unbeatable Stability for Phones for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/understanding-your-pcs-nucleus-an-in-depth-look-at-the-windows-registry/"><u>Understanding Your PC's Nucleus: An In-Depth Look at the Windows Registry</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-how-to-record-ps3-gameplay/"><u>[New] 2024 Approved How to Record PS3 Gameplay</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/avory-sensations-top-youtube-food-influencers/"><u>[New] Savory Sensations Top YouTube Food Influencers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-revamped-podcast-chats-attracting-true-fans/"><u>[Updated] Revamped Podcast Chats Attracting True Fans</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-snapchat-secrets-lowering-playback-rate-for-better-views-for-2024/"><u>[Updated] Snapchat Secrets Lowering Playback Rate for Better Views for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-echoes-of-antiquity-tracing-the-footsteps-of-ancient-scribes/"><u>2024 Approved Echoes of Antiquity Tracing the Footsteps of Ancient Scribes</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-how-to-keep-your-feed-pure-stop-suggested-posts/"><u>2024 Approved How to Keep Your Feed Pure Stop Suggested Posts</u></a></li>
+<li><a href="https://win-answers.techidaily.com/age-of-empires-4-update-tackles-and-resolves-pc-gaming-interruptions/"><u>Age of Empires 4 Update Tackles and Resolves PC Gaming Interruptions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/contents-of-a-standard-nintendo-switch-packaging-setup/"><u>Contents of a Standard Nintendo Switch Packaging Setup</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-revive-faded-iphone-hdri-select-4-effective-methods-in-premiere-pro/"><u>In 2024, Revive Faded iPhone HDRI Select 4 Effective Methods in Premiere Pro</u></a></li>
+<li><a href="https://games-able.techidaily.com/minecraft-network-disconnect-on-windows-quick-tips/"><u>Minecraft Network Disconnect on Windows: Quick Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-fix-for-guilty-gear-strive-crashing-problems-in-pc-edition/"><u>Step-by-Step Fix for Guilty Gear Strive Crashing Problems in PC Edition</u></a></li>
+<li><a href="https://win-answers.techidaily.com/understanding-and-fixing-the-root-causes-of-arise-game-crashes/"><u>Understanding and Fixing the Root Causes of Arise Game Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unlock-the-secrets-of-digital-alchemy-transforming-your-pc-into-a-source-of-limitless-dragonic-wealth/"><u>Unlock the Secrets of Digital Alchemy: Transforming Your PC Into a Source of Limitless Dragonic Wealth</u></a></li>
 </ul></div>
 

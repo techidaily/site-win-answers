@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Dragon Age: Origins Crashes on Windows 11 Systems"
-date: 2025-01-19T18:48:44.624Z
-updated: 2025-01-24T16:43:06.320Z
+date: 2025-01-27T16:01:29.152Z
+updated: 2025-01-31T21:24:34.267Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/528781abe64eff7e57733460b453c6895f2f9ec89
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -41,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/528781abe64eff7e57733460b453c6895f2f9ec89
 
  If you have trouble updating the game, you might just need a simple reboot.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Verify the integrity of game files
 
  You can’t expect your game to work fine if there’re files missing or broken. So first you need to**run a scan of your game folder** .
@@ -56,6 +52,10 @@ Here’s how to do it on the Epic Games client:
 2. Click the**ellipses** at the bottom right corner of Sid Meier’s Civilization VI. Then select**Verify** and wait for the process to complete.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/civ-6-verify.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now you can try again and see if Civ 6 launches.
 
@@ -72,15 +72,11 @@ If this doesn’t help, you can take a look at the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -96,6 +92,10 @@ If this doesn’t help, you can take a look at the next fix below.
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) to open the Windows Settings app. Click**Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
@@ -113,12 +113,12 @@ If this solution doesn’t help, you can continue to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig-clean-boot-1.jpg)
 2. In the pop-up window, navigate to the **Services**  tab and check the box next to **Hide all Microsoft services** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
@@ -142,20 +142,20 @@ If a clean boot doesn’t help, you can check out the next fix.
 2. Open the installer and follow the on-screen instructions to install.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also uninstall all the Visual C++ redistributable in**Programs and Features** , then reinstall them one by one. Be sure to choose the latest 64-bit installer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Switch your DirectX version
 
  According to some,**running Civ 6 on another version of DirectX** might be a potential fix. Normally you’re prompted to select the DirectX version at startup. But you can also use the .exe file directly. By default, you can the .exe files in _C:\\Program Files (x86)\\Steam\\steamapps\\common\\Sid Meier’s Civilization VI\\Base\\Binaries\\Win64Steam_ . Use_CivilizationVI\_DX12.exe_ for DirectX 12 and_CivilizationVI.exe_ for DirectX 11.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/civ-6-directx.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -178,19 +178,24 @@ If a clean boot doesn’t help, you can check out the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/op-earners-on-youtube/"><u>[New] Top Earners on YouTube</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-enhancing-youtube-video-screens-without-barriers/"><u>[Updated] 2024 Approved Enhancing YouTube Video Screens Without Barriers</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-comprehensive-techniques-to-download-thousands-of-tiktok-videos-for-2024/"><u>[Updated] Comprehensive Techniques to Download Thousands of TikTok Videos for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-video-platform-profiles-vimeo-vs-youtube-comparison-for-2024/"><u>[Updated] Video Platform Profiles Vimeo vs YouTube Comparison for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-enhancing-income-through-the-science-of-youtube-trailer-creation/"><u>2024 Approved Enhancing Income Through the Science of YouTube Trailer Creation</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-motorola-edge-40-neo-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Motorola Edge 40 Neo PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/launch-film-studio-windows-xp-edition-essentials/"><u>Launch Film Studio Windows XP Edition Essentials</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mpegmov3/"><u>MPEGファイルをMOV形式へ転換するための3つの最適な手法</u></a></li>
-<li><a href="https://win-answers.techidaily.com/pccd/"><u>PCでCDから音楽を直接ダビングする手順</u></a></li>
-<li><a href="https://os-tips.techidaily.com/quick-and-easy-methods-to-completely-remove-songs-from-your-iphone/"><u>Quick & Easy Methods to Completely Remove Songs From Your iPhone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/simple-steps-to-transform-dvd-video-into-avi-format-seamlessly/"><u>Simple Steps to Transform DVD Video Into AVI Format Seamlessly</u></a></li>
-<li><a href="https://win-answers.techidaily.com/smooth-streaming-of-mp4-videos-on-kindle-essential-troubleshooting-tips/"><u>Smooth Streaming of MP4 Videos on Kindle: Essential Troubleshooting Tips!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solutions-for-troubleshooting-windows-media-player-why-cant-it-read-asf-files/"><u>Solutions for Troubleshooting Windows Media Player: Why Can't It Read ASF Files?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mxf-to-mp4/"><u>スムーズなMXF to MP4変換手順：高解像度・迅速化戦略</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-flipping-the-script-online-video-reversals/"><u>[New] In 2024, Flipping the Script Online Video Reversals</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-million-visioners-dissecting-the-money-behind-the-numbers/"><u>[New] In 2024, Million Visioners Dissecting the Money Behind the Numbers</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-streamline-your-browsing-with-these-7-android-centric-adblockers/"><u>[New] Streamline Your Browsing with These 7 Android-Centric AdBlockers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-halo-infinite-keeps-crashing-on-pc/"><u>[SOLVED] Halo Infinite Keeps Crashing on PC</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-big-datas-ai-language-masters/"><u>Decoding Big Data's AI Language Masters</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-techniques-to-overcome-lagging-in-video-games-tips/"><u>Effective Techniques to Overcome Lagging in Video Games - Tips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/explore-our-picks-the-most-popular-ebook-readers/"><u>Explore Our Picks: The Most Popular eBook Readers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/faites-vous-soi-meme-convertissez-vos-videos-mov-en-ogv-sur-le-web-pour-rien-tutoriel-movavi-detaille/"><u>Faites-Vous Soi-Même : Convertissez Vos Vidéos MOV en OGV Sur Le Web Pour Rien ! - Tutoriel Movavi Détaillé</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-qbittorrent-is-stalled/"><u>How To Fix qBittorrent Is Stalled</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-samsung-galaxy-a34-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Samsung Galaxy A34 5G to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-hidden-truths-about-youtube-earnings/"><u>In 2024, The Hidden Truths About YouTube Earnings</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-persistent-errors-and-crashes-in-hell-let-loose-gameplay/"><u>Resolving Persistent Errors & Crashes in Hell Let Loose Gameplay</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-stability-issues-with-praey-for-the-gods-on-desktop-pcs/"><u>Resolving Stability Issues With Praey: For The Gods on Desktop PCs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solve-your-launch-troubles-with-these-tips-for-pathfinder-wrath-of-the-righteous/"><u>Solve Your Launch Troubles with These Tips for Pathfinder: Wrath of the Righteous</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-getting-your-corsair-icue-to-work-in-windows-11/"><u>Step-by-Step Guide: Getting Your Corsair iCUE to Work in Windows 11</u></a></li>
+<li><a href="https://fox-that.techidaily.com/track-down-your-misplaced-or-pilfered-iphone-with-ease-using-apples-find-my-service/"><u>Track Down Your Misplaced or Pilfered iPhone with Ease Using Apple's Find My Service</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/travel-companion-g9-x-ii-vintage-charm-meets-functionality/"><u>Travel Companion G9 X II – Vintage Charm Meets Functionality</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-pc-issues-stop-manor-lords-from-crashing-now/"><u>Troubleshooting PC Issues - Stop Manor Lords From Crashing Now!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-solution-guide-to-overcome-dev-error-5573-in-call-of-duty-warzone-desktops-and-consoles-strategies/"><u>Ultimate Solution Guide to Overcome 'Dev Error 5573' In Call of Duty: Warzone - Desktops and Consoles Strategies</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Solving Windows 11'S Malfunctioning Windows Spotlight Issues Step by Step
-date: 2025-01-23T16:23:56.267Z
-updated: 2025-01-24T17:06:45.277Z
+date: 2025-01-24T19:04:36.026Z
+updated: 2025-01-31T21:48:59.882Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ After a long wait, the[new Hitman installment](https://www.epicgames.com/store/e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You might not need to try them all. Simply work down the list until you find the one that does the trick.
@@ -37,10 +33,6 @@ After a long wait, the[new Hitman installment](https://www.epicgames.com/store/e
 5. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Check if it’s a server issue](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Verify the integrity of your game files
 
  The game not launching problem could mean that some game files are missing or corrupted. In either cases, you can simply run an integrity check to get your game working:
@@ -50,6 +42,10 @@ After a long wait, the[new Hitman installment](https://www.epicgames.com/store/e
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/hitman-3-verify-1.jpg)
 3. Select**Verify** from the drop-down list. Then wait for the checking to complete.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/hitman-3-verify-2.jpg)
 
 Now you can try to launch Hitman 3 using the Epic Games launcher.
@@ -57,7 +53,7 @@ Now you can try to launch Hitman 3 using the Epic Games launcher.
  If verifying game files doesn’t help, you can take a look at the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Run Epic Games as administrator
@@ -70,10 +66,6 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-games-launcher-run-as-admin.jpg)
 2. Now try to launch Hitman 3\. If this trick works for you, continue to the next step to**always run Epic Games launcher as administrator** . Otherwise you can jump to the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. On your desktop, right-click**Epic Game launcher** and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-games-launcher-run-as-admin-2.jpg)
 4. Navigate to the**Compatibility** tab. Under the**Settings** section, check the box next to**Run this program as an administrator** . Click**OK** to save the changes.  
@@ -81,11 +73,7 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-games-launcher-run-as-admin-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Launch Hitman 3 from game folder
@@ -121,6 +109,10 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -128,6 +120,10 @@ To do so, first visit the website of your GPU manufacturer:
 After updating your GPU driver, you can check if Hitman 3 is working now.
 
  If the latest graphics driver doesn’t solve the problem, you can take a look at the next method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Install all Windows updates
 
@@ -144,6 +140,10 @@ Here’s how you can check for updates manually:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
@@ -174,20 +174,19 @@ Here’s how you can check for updates manually:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-modify-where-mac-photos-stash-location-for-2024/"><u>[New] Modify Where Mac Photos Stash Location for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-sdr-vs-hdr-why-hdr-be-a-better-part-of-your-video-workflow/"><u>[New] SDR vs HDR Why HDR Be a Better Part of Your Video Workflow</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-does-your-channel-benefit-from-regular-youtube-payments/"><u>2024 Approved Does Your Channel Benefit From Regular YouTube Payments?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ark-survival-ascended-troubleshooting-constant-pc-game-crashes-with-these-9-tips/"><u>ARK: Survival Ascended - Troubleshooting Constant PC Game Crashes with These 9 Tips</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/conversion-libre-de-fichier-flv-vers-mp3-via-convertisseur-audio-en-ligne-flvmp3/"><u>Conversion Libre De Fichier FLV Vers MP3 via Convertisseur-Audio En Ligne - Flvmp3</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fortnite-launcher-fix-how-to-get-past-a-perpetual-loading-screen/"><u>Fortnite Launcher Fix: How to Get Past a Perpetual Loading Screen</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-your-itel-a05s-lock-screen-password-by-drfone-android/"><u>How to Reset your Itel A05s Lock Screen Password</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-resolve-maplestory-game-not-loading-issues-easily/"><u>How to Resolve MapleStory Game Not Loading Issues Easily</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/innovators-defining-the-future-of-virtual-realms/"><u>Innovators Defining the Future of Virtual Realms</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/leading-digital-facial-exchange-software-effortlessly-edit-your-photos-online/"><u>Leading Digital Facial Exchange Software: Effortlessly Edit Your Photos Online</u></a></li>
-<li><a href="https://win-answers.techidaily.com/no-more-delays-solving-obs-live-stream-and-screen-capture-problems/"><u>No More Delays: Solving OBS Live Stream and Screen Capture Problems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/pc-gamers-rejoice-fix-the-solved-ascent-game-from-constantly-crashing/"><u>PC Gamers Rejoice: Fix the [SOLVED] Ascent Game From Constantly Crashing</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-and-easy-solutions-to-dayz-fps-drops-problems/"><u>Quick and Easy Solutions to DayZ FPS Drops Problems</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-sony-xperia-5-v-by-fonelab-android-recover-data/"><u>The way to get back lost data from Sony Xperia 5 V</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-to-resolving-battlefield-5-startup-problems/"><u>Troubleshooting Guide to Resolving Battlefield 5 Startup Problems</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-cost-cutting-camera-options-discover-top-6-cheap-action-cams-for-2024/"><u>[Updated] Cost-Cutting Camera Options Discover Top 6 Cheap ACTION Cams for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/a-deep-dive-into-durecorders-full-range/"><u>A Deep Dive Into DuRecorder's Full Range</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effortless-downloads-of-canon-scanning-drivers-for-windows-users-at-no-charge/"><u>Effortless Downloads of Canon Scanning Drivers for Windows Users at No Charge</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/enhance-your-livestreams-using-manycam-advanced-webcam-software-features/"><u>Enhance Your Livestreams Using ManyCam – Advanced Webcam Software Features</u></a></li>
+<li><a href="https://win-answers.techidaily.com/escape-from-tarkov-hack-troubleshooting-the-anticheat-connection-error/"><u>Escape From Tarkov Hack: Troubleshooting the Anticheat Connection Error</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-overcoming-stability-problems-with-escape-from-tarkov-on-your-personal-computer/"><u>Expert Advice: Overcoming Stability Problems with 'Escape From Tarkov' On Your Personal Computer</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-a-year-in-the-market-top-15-finance-videos/"><u>In 2024, A Year in the Market Top 15 Finance Videos</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-skills-with-the-cytron-edu-pico-the-benefits-of-understanding-and-overcoming-failures/"><u>Mastering Skills with the Cytron Edu Pico: The Benefits of Understanding and Overcoming Failures</u></a></li>
+<li><a href="https://win-answers.techidaily.com/oculus-link-screen-issues-6-fast-fixes-to-bring-back-your-vr-experience/"><u>Oculus Link Screen Issues? 6 Fast Fixes to Bring Back Your VR Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-launch-difficulties-in-monster-hunter-rise-a-comprehensive-guide/"><u>Overcoming Launch Difficulties in Monster Hunter Rise: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-fixing-steam-login-issues-a-step-by-step-guide/"><u>Resolved: Fixing Steam Login Issues - A Step-by-Step Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/samsungs-newest-galaxy-note-innovation-for-unmatched-video-entertainment/"><u>Samsung's Newest Galaxy Note Innovation for Unmatched Video Entertainment</u></a></li>
+<li><a href="https://techtrends.techidaily.com/titre-audio-line-converter-transformation-facile-de-laudio-vers-les-formats-mp3-et-wma/"><u>Titre : Audio Line Converter - Transformation Facile De L'audio Vers Les Formats MP3 Et WMA</u></a></li>
 </ul></div>
 

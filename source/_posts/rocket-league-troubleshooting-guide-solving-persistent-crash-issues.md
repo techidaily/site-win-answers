@@ -1,7 +1,7 @@
 ---
 title: "Rocket League Troubleshooting Guide: Solving Persistent Crash Issues"
-date: 2025-01-20T16:19:46.954Z
-updated: 2025-01-24T16:12:16.977Z
+date: 2025-01-30T23:27:29.017Z
+updated: 2025-02-01T01:47:05.342Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ Recently, many_Phoenix Point_ players are reporting the game crashing problem. T
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes to try
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -35,6 +39,10 @@ Recently, many_Phoenix Point_ players are reporting the game crashing problem. T
 5. **[Reinstall your game](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reinstall Epic Games launcher](https://tools.techidaily.com/drivereasy/download/)**
 7. [**Check for Windows updates**](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver
 
@@ -56,15 +64,15 @@ Recently, many_Phoenix Point_ players are reporting the game crashing problem. T
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_10-40-47.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 **4)** Relaunch your game to test your issue.
 
 If your issue persists, move on to the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Run your game as an administrator
 
@@ -74,21 +82,21 @@ If your issue persists, move on to the next fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_10-50-02.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)**  Go to the **Compatibility tab** , then check the box next to **Run this program as an administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_10-50-12.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)**  Click **Apply** , then **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_10-50-23.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Restart your game to see if this worked.
 
@@ -110,17 +118,9 @@ If your issue persists, move on to the next fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_11-04-08.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Relaunch your game to see if this fixed your issue.
 
 If it didn’t, read on and try the fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Verify your game files
 
@@ -135,10 +135,6 @@ If it didn’t, read on and try the fix below.
 **3)**  Click **Verify** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_11-00-39.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Restart your game.
 
@@ -159,9 +155,17 @@ If it didn’t, read on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_10-57-56-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Click **Uninstall.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_11-22-09.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)**  Relaunch the **Epic Games Launcher**  to download and install _Phoenix Point_ .
 
@@ -186,7 +190,7 @@ If it didn’t, read on and try the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_12-29-11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **5)** Relaunch _Phoenix Point_ after the process is complete.
@@ -208,16 +212,12 @@ If your problem continues to occur, then move on and try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_11-27-19.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Click **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_11-27-30.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Right-click the Epics Games, then click **Uninstall/Change** .
 
@@ -230,7 +230,7 @@ If your problem continues to occur, then move on and try the next fix.
  If this fix didn’t help, don’t fret! There is still one more fix to try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 7: Check for Windows updates
@@ -271,24 +271,15 @@ If your problem continues to occur, then move on and try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-in-game-magic-discover-4-ways-to-preserve-your-gaming-sessions/"><u>[New] In 2024, In-Game Magic Discover 4 Ways to Preserve Your Gaming Sessions</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-transform-your-tech-skills-mastering-screen-capture-in-macos/"><u>[Updated] 2024 Approved Transform Your Tech Skills Mastering Screen Capture in macOS</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-metaverse-odyssey-a-list-of-sci-fi-films-taking-you-beyond-earth/"><u>[Updated] Metaverse Odyssey A List of Sci-Fi Films Taking You Beyond Earth</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-outperform-competitors-youtube-visibility-tactics/"><u>[Updated] Outperform Competitors YouTube Visibility Tactics</u></a></li>
-<li><a href="https://win-answers.techidaily.com/beat-the-bug-a-step-by-step-fix-for-call-of-duty-vanguard-error-0x00001n-on-pcs/"><u>Beat the Bug: A Step-by-Step Fix for Call of Duty Vanguard Error 0X00001n on PCs</u></a></li>
-<li><a href="https://win-answers.techidaily.com/boost-your-gaming-performance-fixes-for-smoother-play-and-higher-frame-rates-in-the-ascent/"><u>Boost Your Gaming Performance: Fixes for Smoother Play and Higher Frame Rates in The Ascent</u></a></li>
-<li><a href="https://extra-information.techidaily.com/build-diy-virtual-reality-google-cardboard-hack-for-2024/"><u>Build DIY Virtual Reality Google Cardboard Hack for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/evil-genius-2-playback-problems-how-to-bring-back-the-beats-and-talk/"><u>Evil Genius 2 Playback Problems: How to Bring Back the Beats and Talk</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-windows-11-and-10-how-to-restore-thx-spatial-sound-feature/"><u>Fixing Windows 11 & 10: How to Restore Thx Spatial Sound Feature</u></a></li>
-<li><a href="https://win-answers.techidaily.com/game-crashing-issues-heres-how-to-stabilize-your-pc-games-in-2eight-twenty-four/"><u>Game Crashing Issues? Here's How to Stabilize Your PC Games in 2Eight-Twenty-Four</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-enable-sound-on-twitch-after-solving-playback-problems/"><u>How to Enable Sound on Twitch After Solving Playback Problems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-the-persistent-crashes-in-wwe-2k22-on-your-computer-a-step-by-step-guide/"><u>How to Fix the Persistent Crashes in WWE 2K22 on Your Computer – A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-resolve-iphone-not-detected-in-itunes-error-on-windows-mkst/"><u>How to Resolve 'iPhone Not Detected in iTunes' Error on Windows ˈmɪkstɚ</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/how-to-speed-up-video-playback-in-powerpoint-for-2024/"><u>How to Speed Up Video Playback in PowerPoint for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-lenovo-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Lenovo Phone Network-Ready</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210001418-9781761034459-psychic-development/"><u>Psychic Development | Free Book</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-to-fix-discord-installation-unsuccessful-error-effortlessly/"><u>Troubleshooting Steps to Fix 'Discord Installation Unsuccessful' Error Effortlessly</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unbeatable-prime-day-offer-save-on-hp-victus-15-gaming-laptop-at-just-530-exclusive-best-buy-promo/"><u>Unbeatable Prime Day Offer: Save on HP Victus 15 Gaming Laptop at Just $530 - Exclusive Best Buy Promo!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/will-the-new-wave-of-arm-technology-elevate-windows-above-apples-custom-chip-dominance/"><u>Will the New Wave of ARM Technology Elevate Windows Above Apple's Custom Chip Dominance?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-exclusive-insiders-list-of-20-storage-services-unlimited-upload/"><u>[New] Exclusive Insider's List of 20 Storage Services, Unlimited Upload</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/he-ultimate-guide-to-the-best-video-editors-not-on-youtoo-for-2024/"><u>[New] The Ultimate Guide to the Best Video Editors Not on YouToo for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/baldurs-gate-iii-pc/"><u>Baldur's Gate III 에서 PC 문제를 해결하고, 안정적인 실행을 보장하기 위한 전시 가이드</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/essential-guide-to-the-no-nonsense-cost-effective-procase-laptop-sleeve-for-macbook-pro-13/"><u>Essential Guide to the No-Nonsense, Cost-Effective ProCase Laptop Sleeve for MacBook Pro 1^3</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/guidelines-for-legally-reposting-on-insta-for-2024/"><u>Guidelines for Legally Reposting on Insta for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/improving-your-gaming-experience-by-addressing-low-fps-concerns-in-outriders/"><u>Improving Your Gaming Experience by Addressing Low FPS Concerns in Outriders</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-motorola-edgeplus-2023-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Motorola Edge+ (2023) to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-issue-amd-radeon-drivers-wont-start-properly/"><u>Solving the Issue: AMD Radeon Drivers Won't Start Properly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-overcoming-anticheat-connection-failed-in-escape-from-tarkov/"><u>Step-by-Step Guide: Overcoming 'Anticheat Connection Failed' In Escape From Tarkov</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/sila-seo-na-linux-v-2024-samye-effektivnye-utility-i-prilozheniya-dlya-prodvinutoj-optimizacii-sajta/"><u>Сила SEO На Linux В 2024: Самые Эффективные Утилиты И Приложения Для Продвинутой Оптимизации Сайта</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Resolving TOTAL WAR: WARHAMMER II Stability Problems - Fixes & Solutions"
-date: 2025-01-01T03:05:54.122Z
-updated: 2025-01-05T21:11:38.740Z
+date: 2025-01-28T02:51:26.612Z
+updated: 2025-01-31T23:44:13.391Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ _Total War: WARHAMMER II_ constantly crashes your PC?
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixes to try
@@ -68,14 +68,22 @@ _Total War: WARHAMMER II_ constantly crashes your PC?
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-00-47.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)**  Click the **Display** tab, and then check your graphics card’s information.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-00-51.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Make sure your PC meets the minimum specs, then go ahead with the fix below. (If your computer doesn’t meet the minimum specs, the only solution would be upgrading your PC.)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Restart your computer
 
@@ -99,6 +107,10 @@ _Total War: WARHAMMER II_ constantly crashes your PC?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-41-28.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)**  Restart_Total War: WARHAMMER II_ from Steam.
 
 If your game crashes again, then try the next fix.
@@ -117,6 +129,10 @@ If your game crashes again, then try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-29_10-28-13-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Type**devmgmt.msc** , then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-29_11-47-41.jpg)
@@ -128,6 +144,10 @@ If your game crashes again, then try the next fix.
 **4)** Click**Roll Back Driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-29_11-53-47.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you can’t click the button, or if rolling back to the previous version didn’t fix your issue, then move on and try updating your graphics driver.
 
@@ -161,7 +181,7 @@ If your game crashes again, then try the next fix.
 If your issue persists, then move on to the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Verify the integrity of your game files
@@ -174,10 +194,6 @@ If your issue persists, then move on to the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-04-33.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**  Right-click **Total War: WARHAMMER II** and select **Properties.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-04-38.jpg)
@@ -187,10 +203,6 @@ If your issue persists, then move on to the next fix below.
  Wait for Steam to detect and fix any corrupted game files automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-04-44.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **5)** Relaunch your game after the process is complete.
 
@@ -248,23 +260,19 @@ If your game still won’t launch properly, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-17-25.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **7)** Remove all**_Total War: Warhammer_** entities from the list. Then, click OK.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-17-25-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **8)** Relaunch Steam and your game.
 
 **9)** Firewall will prompt you to allow access to networks, click**Allow access** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-24-19.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If this method doesn’t work for you, move on to try the fix below.
 
@@ -276,16 +284,12 @@ If this method doesn’t work for you, move on to try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-05-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)**  Click the **Compatibility**  tab. Then check the box next to **Run this program in compatibility mode for** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-05-16.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)**  Click the list box below to select **Windows 7** , then click **OK** .
@@ -303,10 +307,6 @@ If this method doesn’t work for you, move on to try the fix below.
 **1)** Right-click the Steam icon and select **Open file location** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-31-22.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back up it.
 
@@ -357,24 +357,18 @@ If this method doesn’t work for you, move on to try the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-aural-adventures-discovering-the-top-15-instructional-music-videos/"><u>[New] 2024 Approved Aural Adventures Discovering the Top 15 Instructional Music Videos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-essential-funimate-guidebook/"><u>[New] The Essential Funimate Guidebook</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-streammaster-showdown-obs-or-shadowplay/"><u>[Updated] 2024 Approved StreamMaster Showdown OBS or ShadowPlay?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-masterpiece-tools-filmoras-loved-9-edits-unraveled/"><u>[Updated] Masterpiece Tools Filmora's Loved 9 Edits Unraveled</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-pros-choice-the-ultimate-list-of-essential-luts-for-lightroom/"><u>2024 Approved Pro's Choice The Ultimate List of Essential LUTs for LightRoom</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-comprehen-word-limit-reached-continuation-in-the-next-step/"><u>2024 Approved The Comprehen... (Word Limit Reached, Continuation in the Next Step)</u></a></li>
-<li><a href="https://win-answers.techidaily.com/accessing-the-elusive-football-manager-2022-solutions-to-get-you-playing/"><u>Accessing the Elusive Football Manager 2022: Solutions to Get You Playing</u></a></li>
-<li><a href="https://win-answers.techidaily.com/conquer-the-glitches-how-to-prevent-persistent-among-us-crashes-this-year/"><u>Conquer the Glitches: How to Prevent Persistent Among Us Crashes This Year</u></a></li>
-<li><a href="https://win-answers.techidaily.com/diagnosing-and-repairing-persistent-beatsaber-crashes-for-a-smooth-experience/"><u>Diagnosing and Repairing Persistent Beatsaber Crashes for a Smooth Experience</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-vivo-v30-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Vivo V30 to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-about-nokia-frp-bypass-by-drfone-android/"><u>In 2024, About Nokia FRP Bypass</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-sonys-x1000v-detailed-recording-experience-review/"><u>In 2024, Sony's X1000V Detailed Recording Experience Review</u></a></li>
-<li><a href="https://win-answers.techidaily.com/optimize-your-gameplay-overcoming-high-cpu-usage-in-baldurs-gate-3-with-these-6-tips/"><u>Optimize Your Gameplay: Overcoming High CPU Usage in Baldur’s Gate 3 with These 6 Tips</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-iphone-6s-data-from-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 6s Data From iTunes Backup | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/stop-multiverse-from-crashing-with-these-top-8-fixes/"><u>Stop Multiverse From Crashing with These Top 8 Fixes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshoot-successfully-the-ultimate-guide-to-fix-a-non-launching-roblox-game-updated-tips/"><u>Troubleshoot Successfully: The Ultimate Guide to Fix a Non-Launching Roblox Game [Updated Tips]</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-why-total-war-warhammer-iii-was-crashing-and-how-it-got-fixed-for-pc-users/"><u>Troubleshooting Guide: Why 'Total War: Warhammer III' Was Crashing and How It Got Fixed for PC Users</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-solutions-for-correcting-frequent-discord-crashes-and-disruptions/"><u>Ultimate Solutions for Correcting Frequent Discord Crashes and Disruptions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/valorant-performance-hacks-eradicating-lag-and-increasing-frames-per-second-fps/"><u>Valorant Performance Hacks: Eradicating Lag & Increasing Frames Per Second (FPS)</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-screen-sync-free-cross-platform-high-quality-recording-tools-for-2024/"><u>[New] Screen Sync Free Cross-Platform, High-Quality Recording Tools for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-best-scripting-solutions-for-ae/"><u>[Updated] Best Scripting Solutions for AE</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bust-the-bug-ultimate-fix-guide-to-stop-nba-2k23-from-crashing-on-your-pc/"><u>Bust the Bug: Ultimate Fix Guide to Stop NBA 2K23 From Crashing on Your PC</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/cutting-edge-counseling-from-ai-unveiling-5-new-bots/"><u>Cutting-Edge Counseling From AI: Unveiling 5 New Bots</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-to-overcome-corsair-icue-synchronization-challenges-with-windows-10-and-11/"><u>Expert Tips to Overcome Corsair iCUE Synchronization Challenges with Windows 10 and 11</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-resolving-unreachable-launcher-issue-on-pc/"><u>Guide to Resolving Unreachable Launcher Issue on PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-does-dts-virtualx-revolutionize-your-home-theater-setup/"><u>How Does DTS Virtual:X Revolutionize Your Home Theater Setup?</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-ps5-assist-controller-easily/"><u>Navigating the Ps5 Assist Controller Easily</u></a></li>
+<li><a href="https://win-blog.techidaily.com/red-dead-online-stability-issues-heres-what-you-need-to-know/"><u>Red Dead Online Stability Issues? Here's What You Need to Know!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-connectivity-errors-making-your-corsair-icue-work-on-windows-11/"><u>Resolving Connectivity Errors: Making Your Corsair iCUE Work on Windows 11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/smart-strategies-to-modify-user-numbers-on-tiktok/"><u>Smart Strategies to Modify User Numbers on TikTok</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-art-of-discrete-audio-erosion-in-audacity-for-2024/"><u>The Art of Discrete Audio Erosion in Audacity for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-resolve-dreamlight-valley-pc-game-crash-problems-with-these-6-techniques/"><u>Ultimate Guide: Resolve Dreamlight Valley PC Game Crash Problems with These 6 Techniques</u></a></li>
 </ul></div>
 

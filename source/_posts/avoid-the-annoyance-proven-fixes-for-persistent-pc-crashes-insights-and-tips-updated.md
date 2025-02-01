@@ -1,7 +1,7 @@
 ---
 title: "Avoid the Annoyance: Proven Fixes for Persistent PC Crashes - Insights & Tips (Updated )"
-date: 2025-01-17T16:47:42.513Z
-updated: 2025-01-24T17:09:41.326Z
+date: 2025-01-26T20:22:39.642Z
+updated: 2025-02-01T00:12:39.028Z
 tags:
   - win11
   - win10
@@ -43,7 +43,7 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -53,13 +53,13 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 3. [Delete specific files from the save folder](https://tools.techidaily.com/drivereasy/download/)
 4. [Underclock your clock speed](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Download the latest patch
 
  If you haven’t been updated your game for a while, you can update your game. The official keeps releasing new patches, the latest version may solve the crashing issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Manage Virtual Memory
 
@@ -74,22 +74,14 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 4. Under**Virtual memory** , click**Change** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/3-2.jpg)
 5. Uncheck**Automatically manage paging file size for all drives** and make sure you’ve check**System managed size** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/4-2.jpg)
 6. Click**Set > OK** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7. Reboot your computer can check whether the crash will appear or not.
 
@@ -103,6 +95,10 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 3. Choose**LOCAL FILES** and click**BROWSE LOCAL FILES** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/browse-2.jpg)
 4. Navigate to the save folder, delete Data(999).sav & Data(999).bak.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Reboot your computer and check the issue is solved or not.
 
@@ -139,6 +135,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Thanks for reading. Hope this article meets your need. And you are welcome to leave comments below.
 
 * [games](https://tools.techidaily.com/drivereasy/download/)
@@ -158,20 +158,18 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-blog.techidaily.com/ryu-ga-gotoku-like-a-dragon-unboxing-its-successful-port-to-your-personal-computer/"><u>'Ryu Ga Gotoku: Like a Dragon' – Unboxing Its Successful Port to Your Personal Computer</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-content-strategy-unleashed-top-8-youtube-ranks-explored/"><u>[New] 2024 Approved Content Strategy Unleashed - Top 8 YouTube Ranks Explored</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-the-thievery-t5-unboxing-your-ultimate-guide-to-action-capture/"><u>[Updated] In 2024, The Thievery T5 Unboxing - Your Ultimate Guide to Action Capture</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/burst-to-blast-android-apps-transform-slow-motion-for-2024/"><u>Burst to Blast Android Apps Transform Slow Motion for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/crafting-the-perfect-voice-and-vision-for-docs-for-2024/"><u>Crafting the Perfect Voice and Vision for Docs for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/cyberpunk-2077-revamped-eliminating-lag-and-smoothing-gameplay-glitches/"><u>Cyberpunk 2077 Revamped: Eliminating Lag and Smoothing Gameplay Glitches</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/discover-the-ultimate-prime-day-savings-for-apple-enthusiasts/"><u>Discover the Ultimate Prime Day Savings for Apple Enthusiasts</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723012980361-experience-the-unstoppable-journey-of-yakuza-like-a-dragon-as-it-conquers-the-world-of-pc-gaming/"><u>Experience the Unstoppable Journey of Yakuza: Like a Dragon as It Conquers the World of PC Gaming!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fast-and-easy-fixes-for-your-league-of-legends-game-freezing-problems/"><u>Fast and Easy Fixes for Your League of Legends Game Freezing Problems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixes-and-solutions-troubleshooting-persona-4-goldens-system-errors/"><u>Fixes & Solutions: Troubleshooting Persona 4 Golden's System Errors</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-eliminate-lag-on-discord-comprehensive-solutions-handbook-2024-edition/"><u>How to Eliminate Lag on Discord - Comprehensive Solutions Handbook 2024 Edition</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-solve-roblox-not-starting-problem-latest-2022-tactics/"><u>How To Solve Roblox Not Starting Problem - Latest 2022 Tactics</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-honor-x9b-phone-without-pin-by-drfone-android/"><u>How to Unlock Honor X9b Phone without PIN</u></a></li>
-<li><a href="https://extra-information.techidaily.com/quick-quip-cinema-script/"><u>Quick Quip Cinema Script</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/the-monetization-matrix-how-maker-gains-from-shorter-videos/"><u>The Monetization Matrix How Maker Gains From Shorter Videos</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-dive-into-the-most-effective-online-tools-your-guide-to-perfect-captions/"><u>[New] In 2024, Dive Into the Most Effective Online Tools Your Guide to Perfect Captions</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-premier-live-chat-platforms-for-virtual-gatherings/"><u>[New] Premier Live-Chat Platforms for Virtual Gatherings</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-rise-from-oblivion-mastery-of-tiktok-shadowban-evasion/"><u>[New] Rise From Oblivion Mastery of TikTok Shadowban Evasion</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-pixelpuzzle-pro-crafting-videos-for-instagallery/"><u>[Updated] 2024 Approved PixelPuzzle Pro Crafting Videos for InstaGallery</u></a></li>
+<li><a href="https://win-answers.techidaily.com/addressing-the-security-infringement-notice-issue-within-your-favorite-video-game/"><u>Addressing The 'Security Infringement Notice' Issue Within Your Favorite Video Game</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-the-lag-in-black-ops-cold-war-solve-your-shader-compiling-glitches-now/"><u>Beat the Lag in Black Ops Cold War - Solve Your Shader Compiling Glitches Now</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/discover-the-distinctive-attributes-of-cryptocurrency-insights-from-yl-computings-expert-analysis/"><u>Discover the Distinctive Attributes of Cryptocurrency: Insights From YL Computing's Expert Analysis</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhancing-game-performance-tips-to-fix-frame-drops-and-lagging-in-outriders-on-your-computer/"><u>Enhancing Game Performance: Tips to Fix Frame Drops & Lagging in Outriders on Your Computer</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/feast-on-crisp-vibrant-colors-with-the-asrock-32-480hz-oled-monitor-the-ultimate-choice-for-streamers-and-gamers/"><u>Feast on Crisp, Vibrant Colors with the ASROCK 32 480Hz OLED Monitor: The Ultimate Choice for Streamers and Gamers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/feel-motivated-10-epic-movies-with-deep-impact/"><u>Feel Motivated 10 Epic Movies with Deep Impact</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-graphics-glitches-an-experts-approach-to-fixing-directdraw-errors/"><u>Overcoming Graphics Glitches: An Expert's Approach to Fixing DirectDraw Errors</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unexpected-shutdowns-in-persona-3-fe-discover-effective-solutions-for-continuous-gameplay-on-pcs/"><u>Unexpected Shutdowns in Persona 3 FE? Discover Effective Solutions for Continuous Gameplay on PCs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unlock-the-solution-fixing-your-nier-automata-for-a-smooth-play-experience/"><u>Unlock the Solution: Fixing Your NieR: Automata for a Smooth Play Experience</u></a></li>
 </ul></div>
 

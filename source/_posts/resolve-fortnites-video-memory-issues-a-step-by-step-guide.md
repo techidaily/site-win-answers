@@ -1,7 +1,7 @@
 ---
 title: "Resolve Fortnite's Video Memory Issues: A Step-by-Step Guide"
-date: 2025-01-19T16:12:00.607Z
-updated: 2025-01-24T16:09:07.461Z
+date: 2025-01-30T19:26:24.220Z
+updated: 2025-01-31T20:34:56.065Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -92,7 +92,7 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
@@ -117,15 +117,15 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Wait until Windows downloaded and installed all the updates.
 
 4) Restart Windows and run League of Legends again.
 
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted game files
 
@@ -146,7 +146,7 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
@@ -163,13 +163,13 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Run League of Legends to see if you resolved this issue.
 
@@ -193,24 +193,17 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-framed-in-perfection-the-1-10-camera-lens-list-for-stunning-photography/"><u>[New] In 2024, Framed in Perfection The #1-10 Camera Lens List for Stunning Photography</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-sky-cameras-rivalry-dji-m310-vs-gopro-hero5-session/"><u>[Updated] Sky Cameras Rivalry DJI M310 VS GoPro HERO5 Session</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-networking-with-influencers-partnerships-for-viral-video-potential/"><u>2024 Approved Networking with Influencers Partnerships for Viral Video Potential</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-call-logs-on-nova-y71-by-fonelab-android-recover-call-logs/"><u>Complete guide for recovering call logs on Nova Y71</u></a></li>
-<li><a href="https://media-tips.techidaily.com/easy-methods-to-transform-your-webex-recordings-from-arf-to-mp4-format/"><u>Easy Methods to Transform Your WebEx Recordings From ARF to MP4 Format</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-strategies-to-correctly-diagnose-and-solve-error-code-31-on-your-pc/"><u>Effective Strategies to Correctly Diagnose and Solve Error Code 31 on Your PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/guilty-gear-strives-launch-setback-explained-implications-for-gamers-and-developers-alike/"><u>Guilty Gear Strive's Launch Setback Explained: Implications for Gamers and Developers Alike</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-find-your-ideal-wedding-timer-on-android-and-ios-platforms-here/"><u>In 2024, Find Your Ideal Wedding Timer on Android & iOS Platforms Here</u></a></li>
-<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Tecno Spark 20 Pro+? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/pc-gaming-trouble-heres-the-ultimate-fix-for-elex-ii-crashes/"><u>PC Gaming Trouble? Here's the Ultimate Fix for Elex II Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/preventing-stardew-valley-pc-gameplay-interruptions-a-comprehensive-guide/"><u>Preventing Stardew Valley PC Gameplay Interruptions: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722993070913-say-goodbye-to-game-downtime-stop-dead-by-daylight-from-crashing-this-year/"><u>Say Goodbye to Game Downtime: Stop Dead by Daylight From Crashing This Year</u></a></li>
-<li><a href="https://win-answers.techidaily.com/say-goodbye-to-roblox-downtime-with-these-swift-pc-fixes-new-guide-for-202n/"><u>Say Goodbye to Roblox Downtime with These Swift PC Fixes (New Guide for 202N)</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-launch-issues-fixing-pathfinder-wrath-of-the-righteous/"><u>Solving Launch Issues: Fixing Pathfinder: Wrath of the Righteous</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/standard-setup-guide-for-efficient-trace-removal-using-stellar-file-eraser-v5-on-windows/"><u>Standard Setup Guide for Efficient Trace Removal Using Stellar File Eraser v5 on Windows</u></a></li>
-<li><a href="https://win-answers.techidaily.com/steam-server-connection-problems-solutions-unveiled/"><u>Steam Server Connection Problems - Solutions Unveiled</u></a></li>
-<li><a href="https://win-answers.techidaily.com/total-war-three-kingdoms-resolving-performance-issues-and-crashes/"><u>Total War: Three Kingdoms - Resolving Performance Issues and Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-fps-drops-and-stutters-in-call-of-duty-modern-warfare-2-on-windows-pc/"><u>Troubleshooting FPS Drops & Stutters in Call of Duty: Modern Warfare 2 on Windows PC</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-employer-retribution-for-chatgpt-use-in-work/"><u>Understanding Employer Retribution for ChatGPT Use in Work</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-the-power-of-persuasion-how-to-boost-instagram-post-reach/"><u>[New] The Power of Persuasion How to Boost Instagram Post Reach</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-explaining-the-freeze-photo-booth-film-flow/"><u>[Updated] 2024 Approved Explaining the Freeze Photo Booth Film Flow</u></a></li>
+<li><a href="https://win-answers.techidaily.com/boost-your-gameplay-in-valheim-ultimate-guide-to-resolving-low-fps-issues/"><u>Boost Your Gameplay in Valheim: Ultimate Guide to Resolving Low FPS Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/comprehensive-fixes-for-persistent-lagging-and-crashing-in-rocket-league/"><u>Comprehensive Fixes for Persistent Lagging and Crashing in Rocket League</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easy-steps-to-resolve-wwe-2k20-pc-game-crashes/"><u>Easy Steps to Resolve WWE 2K20 PC Game Crashes</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/excellent-series-of-animated-type-options-for-2024/"><u>Excellent Series of Animated Type Options for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-on-gadgets-at-toms-technology-hub/"><u>Expert Analysis on Gadgets at Tom's Technology Hub</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-elden-rings-fps-drops-instantly-with-these-simple-effective-tips/"><u>Fix Elden Ring's FPS Drops Instantly with These Simple, Effective Tips!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-oppo-k11x-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Oppo K11x Phones? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-samsung-galaxy-f34-5g-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Samsung Galaxy F34 5G Contacts An Easy Method Explained.</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-streaming-giants-clash-a-detailed-twitchyoutube-analysis/"><u>In 2024, Streaming Giants Clash A Detailed Twitch/YouTube Analysis</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-technical-glitches-a-fifa-19-players-handbook-for-pc-users/"><u>Overcoming Technical Glitches: A FIFA 19 Player's Handbook for PC Users</u></a></li>
 </ul></div>
 

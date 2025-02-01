@@ -1,7 +1,7 @@
 ---
 title: "The Awaited Launch of Immortals: Fenyx Rising – Problem Solved and Game Is Live"
-date: 2025-01-19T18:15:42.673Z
-updated: 2025-01-24T17:30:56.755Z
+date: 2025-01-28T21:51:10.646Z
+updated: 2025-01-31T17:22:03.207Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ Immortals Fenyx Rising, the latest action-adventure game released by Ubisoft, is
 4. **[Verify the integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Use dedicated graphics card](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1 – Rename the exe file
 
  This sounds a bit weird but renaming the game’s exe file works like a charm for many players that can’t start the game normally. Here’s how:
@@ -41,10 +45,6 @@ Immortals Fenyx Rising, the latest action-adventure game released by Ubisoft, is
 3. Rename the**ImmortalsFenyxRising\_plus.exe** file to**ImmortalsFenyxRising.exe** .
 
  Relaunch Immortals Fenyx Rising and it should be working properly. If this method doesn’t help, there are more fixes to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2 – Run the game as an administrator
 
@@ -56,6 +56,10 @@ Immortals Fenyx Rising, the latest action-adventure game released by Ubisoft, is
 3. Click the**Compatibility** tab. Then, check the box next to**Run this program as an administrator** and click**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/im-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Run the game again to check if your problem gets fixed. If not, continue to the third method.
 
@@ -75,16 +79,16 @@ There are mainly two ways you can do this:
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). You can also click the**Update** button do it for free, but it’s partly manual.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![amd 6800 xt driver download](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-6800xt.jpg)
 
- You should expect a smooth gameplay after all the device drivers are updated. But if the game still won’t launch, check out the fixes below.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ You should expect a smooth gameplay after all the device drivers are updated. But if the game still won’t launch, check out the fixes below.
 
 ### Fix 4 – Verify the integrity of game files
 
@@ -95,9 +99,21 @@ There are mainly two ways you can do this:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/im-1.jpg)
 3. Click**Verify files** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Wait until the scan and repair process completes, and restart your game to test. If the not launching problem persists, keep reading the last fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5 – Use dedicated graphics card
 
@@ -107,34 +123,18 @@ There are mainly two ways you can do this:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-1-1.jpg)
 2. Select**Manage 3D settings** from the left pane.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-2-1.jpg)
 3. Click the**Program Settings** tab and then click**Add** to include the Immortals Fenyx Rising.exe file.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-3-1.jpg)
 4. Select**High-performance NVIDIA processor** from the drop-down menu. Then, click**Apply** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-4-1.jpg)  
  Note: If you have an AMD graphics card, you could refer to this guide: **[How to Configure Switchable Graphics using Radeon Settings](https://www.amd.com/en/support/kb/faq/dh-017)**  .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Type**graphics** in the Windows search bar, and click**Graphics settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-5.jpg)
 6. Click**Browse** and add Immortals Fenyx Rising.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-7.jpg)
 7. After the game is added, select it and click**Options** .  
@@ -165,24 +165,19 @@ There are mainly two ways you can do this:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-essential-techniques-for-mac-based-ootd-tiktok-videos/"><u>[New] Essential Techniques for Mac-Based OOTD TikTok Videos</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-the-insiders-guide-to-finesse-and-control-on-insta-stories-for-2024/"><u>[New] The Insider's Guide to Finesse and Control on Insta Stories for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-become-a-visionary-creator-optimal-camera-lens-selection/"><u>[Updated] 2024 Approved Become a Visionary Creator Optimal Camera Lens Selection</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-full-spectrum-analysis-the-logitech-4k-pro-webcam/"><u>[Updated] In 2024, Full Spectrum Analysis The Logitech 4K Pro Webcam</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-moments-of-quietude-top-idle-smartphone-games/"><u>[Updated] Moments of Quietude Top Idle Smartphone Games</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/easy-guide-to-joining-and-advancing-from-free-to-pro-with-wonderfox-dvd-video-converter/"><u>Easy Guide to Joining & Advancing From Free to Pro with WonderFox DVD Video Converter</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effortless-guide-fixing-the-persistent-crashes-of-pacific-drive-software/"><u>Effortless Guide: Fixing the Persistent Crashes of Pacific Drive Software</u></a></li>
-<li><a href="https://win-answers.techidaily.com/essential-tips-for-resolving-armored-core-6-fires-of-rubicon-pc-game-crashes-and-freezes/"><u>Essential Tips for Resolving Armored Core 6 (Fires of Rubicon) PC Game Crashes & Freezes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fallout-3-wont-start-top-fixes-and-solutions/"><u>Fallout 3 Won't Start? Top Fixes & Solutions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-issue-why-call-of-dutys-warzone-isnt-utilizing-your-gpu-in-windows-11/"><u>Fixing the Issue: Why Call of Duty's Warzone Isn't Utilizing Your GPU in Windows 11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/game-restoration-secrets-unveiled-correcting-pc-game-file-errors/"><u>Game Restoration Secrets Unveiled: Correcting PC Game File Errors</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-ensure-smooth-gameplay-of-maplestory-on-windows-10-avoiding-crashes/"><u>How to Ensure Smooth Gameplay of MapleStory on Windows 10 - Avoiding Crashes</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-on-your-iphone-6s-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID On Your iPhone 6s</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-unlocking-desktop-recording-the-ezvide-approach/"><u>In 2024, Unlocking Desktop Recording - The EZvide Approach</u></a></li>
-<li><a href="https://win-answers.techidaily.com/master-the-art-of-handling-fatal-error-ark-with-ease/"><u>Master the Art of Handling 'Fatal Error ARK' With Ease</u></a></li>
-<li><a href="https://win-answers.techidaily.com/pc-release-of-days-gone-action-packed-adventure-now-available/"><u>PC Release of 'Days Gone' Action-Packed Adventure Now Available</u></a></li>
-<li><a href="https://win-answers.techidaily.com/stream-successfully-overcoming-twitch-playback-problems-top-7-fixes/"><u>Stream Successfully: Overcoming Twitch Playback Problems - Top 7 Fixes</u></a></li>
-<li><a href="https://techidaily.com/unlock-a-disable-iphone-7-plus-using-itunes-by-drfone-ios-unlock-ios-unlock/"><u>Unlock a disable iPhone 7 Plus using itunes</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-free-sound-effect-resources-for-final-cut-pro-tips-tricks-and-best-practices-for-2024/"><u>Updated Free Sound Effect Resources for Final Cut Pro Tips, Tricks, and Best Practices for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-elite-screen-recording-software-unlimited-recordings/"><u>[Updated] 2024 Approved Elite Screen Recording Software, Unlimited Recordings</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-top-6-substitutes-best-periscope-rivals-on-mobile-devices/"><u>[Updated] In 2024, Top 6 Substitutes Best Periscope Rivals on Mobile Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/4k-durable-laptop-vs-dell-latitude-a-comprehensive-torture-test-showdown-zdnet/"><u>$4K Durable Laptop Vs. Dell Latitude: A Comprehensive Torture Test Showdown! | ZDNet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/battlenet-not-starting-here-are-top-solutions-for-windows-players/"><u>Battle.net Not Starting? Here Are Top Solutions for Windows Players</u></a></li>
+<li><a href="https://games-able.techidaily.com/cultivating-a-virtual-garden-the-9-positive-factors-and-negative-factorsthat-shape-digital-games-world/"><u>Cultivating a Virtual Garden: The 9 Positive Factors and Negative Factorsthat Shape Digital Games' World</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-instagrams-blueprint-for-building-a-profitable-presence/"><u>In 2024, Instagram's Blueprint for Building a Profitable Presence</u></a></li>
+<li><a href="https://win-answers.techidaily.com/initial-setup-and-costs/"><u>Initial Setup and Costs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-item-drops-fast-and-easy-the-ultimate-guide-for-dayz-players/"><u>Mastering Item Drops Fast and Easy – The Ultimate Guide for DayZ Players</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-motorola-edgeplus-2023-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Motorola Edge+ (2023)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-strategies-fix-rocket-league-from-constant-crashes/"><u>Top Strategies: Fix Rocket League From Constant Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-low-fps-and-irregularities-in-movement-for-a-seamless-splitgate-experience/"><u>Troubleshooting Low FPS and Irregularities in Movement for a Seamless Splitgate Experience</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/turn-wma-audiovideo-into-mp4-hands-free-editing-with-movavis-powerful-tools/"><u>Turn WMA Audio/Video Into MP4 - Hands-Free Editing with Movavi's Powerful Tools!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unlock-the-secrets-how-to-get-warframe-up-and-running-again/"><u>Unlock the Secrets: How to Get Warframe Up and Running Again!</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-from-raw-tape-to-polished-production-advanced-techniques-using-sony-vegas-pro-for-2024/"><u>Updated From Raw Tape to Polished Production Advanced Techniques Using Sony Vegas Pro for 2024</u></a></li>
 </ul></div>
 

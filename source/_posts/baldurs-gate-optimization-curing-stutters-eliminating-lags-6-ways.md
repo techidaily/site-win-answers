@@ -1,7 +1,7 @@
 ---
 title: "Baldur's Gate Optimization: Curing Stutters, Eliminating Lags (6 Ways)"
-date: 2025-01-19T18:46:57.199Z
-updated: 2025-01-24T18:38:56.509Z
+date: 2025-01-27T17:34:13.061Z
+updated: 2025-01-31T21:39:48.268Z
 tags:
   - win11
   - win10
@@ -57,13 +57,13 @@ To ascertain your computer’s specifications:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/2022-10-28_17-46-28.png)
 4. Click the **Display**  tab to check the graphics details.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/2022-10-28_17-46-34.png)
 
  Should your system fall short of these requirements, consider upgrading your hardware for optimal gameplay.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 1 Update your CPU driver
 
@@ -76,16 +76,20 @@ To ascertain your computer’s specifications:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/de-scan.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or, you can click the **Update**  button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/de-graphics-card-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  Restart the computer and relaunch the game to see if the problem persists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2 Change the power plan setting
 
@@ -97,7 +101,7 @@ To ascertain your computer’s specifications:
 3. Click**Power & sleep** on the left panel and**Additional power settings** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/2023-08-14_17-25-29.png)
@@ -109,10 +113,6 @@ Open the game to check for any improvement.
 
  This fix works in most cases. But some players also found that **reverting the power plan from high-performance mode to balanced mode** helped with the problem. You can also try both modes to see which brings better game performance.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 3 Set CPU affinity only use 0-3
 
  Processor affinity enables the binding and unbinding of a process or a thread to a central processing unit (CPU) or a range of CPUs so that the process or thread will execute only on the designated CPU or CPUs rather than any CPU. The main benefit of processor affinity is **optimizing cache performance** .
@@ -122,12 +122,12 @@ Open the game to check for any improvement.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/11/details.jpg)
 3. Right-click on**Baldur’s Gate 3.exe** again and click**Set affinity** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/11/cpu-affinity.jpg)
 4. Set the CPU affinity only using**0-3** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/11/cpu-0-3.jpg)
 
@@ -145,19 +145,23 @@ Note: You may need to repeat this process each time you launch the game.
 3. Once the game executable is added, click**Options** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/2023-08-14_18-30-16.png)
 4. Select**High performance** , then click**Save** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/2023-08-14_18-30-31.png)
 
-Launch the game again to check if the problem has been fixed.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Launch the game again to check if the problem has been fixed.
 
 ## Fix 5 End unnecessary tasks
 
@@ -168,11 +172,15 @@ Launch the game again to check if the problem has been fixed.
 2. In the **Processes**  tab, select those apps and background processes occupying the CUP most, and click **End task** to save resources for your game.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/2022-07-13_18-31-13.jpg)
 3. Go to the **Details**  tab, right-click the executable file of your game, and set the priority level to **High** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/game-stuttering-10.jpg)
 
@@ -192,15 +200,7 @@ Go back to your game to see if it works smoother.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click **START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -223,18 +223,24 @@ Go back to your game to see if it works smoother.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/igital-domain-decision-which-platform-for-your-videos-in-2024/"><u>[New] Digital Domain Decision Which Platform for Your Videos, In 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-dominate-views-smarter-youtube-timing-strategies/"><u>[Updated] Dominate Views Smarter Youtube Timing Strategies</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-tinytake-screen-recorder-review-and-alternative-for-2024/"><u>[Updated] TinyTake Screen Recorder Review and Alternative for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-ultimate-list-best-ios-friendly-free-video-editors-for-2024/"><u>[Updated] Ultimate List Best iOS-Friendly, Free Video Editors for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/isops3ps4ps5/"><u>最新プレイステーションのゲームISOファイル再生手順：PS3、PS4、PS5用</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/bypass-tools-to-bypass-lock-screeng310-by-drfone-android-unlock-android-unlock/"><u>Bypass Tools to Bypass Lock Screen(G310)</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/how-to-enable-and-use-windows-11s-auto-hdr-functionality-for-2024/"><u>How to Enable and Use Windows 11'S Auto HDR Functionality for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Apple iPhone 15 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/installing-q-continuum-addon-for-an-enhanced-viewing-experience-on-kodi-version-19/"><u>Installing Q Continuum Addon for an Enhanced Viewing Experience on Kodi Version 19</u></a></li>
-<li><a href="https://change-location.techidaily.com/ipogo-will-be-the-new-ispoofer-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Samsung Galaxy A14 4G? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/is-the-4k-video-downloader-secure-and-reliable/"><u>Is the 4K Video Downloader Secure and Reliable?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/kissanime-2024/"><u>KissAnime動画ダウンロード手順 - 最新ガイド2024年</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/premier-selection-of-best-indoor-android-games-no-wi-fi-required-for-2024/"><u>Premier Selection of Best Indoor Android Games (No Wi-Fi Required) for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-unraveling-the-mysteries-of-instagram-saved-stories/"><u>[New] 2024 Approved Unraveling the Mysteries of Instagram Saved Stories</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-seamlessly-blend-apple-music-and-videos/"><u>[New] Seamlessly Blend Apple Music & Videos</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-setting-up-a-professional-grade-stream-setup/"><u>[Updated] In 2024, Setting Up a Professional-Grade Stream Setup</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-photo-gymnastics-mastering-the-art-of-pictorial-twists/"><u>[Updated] Photo Gymnastics Mastering the Art of Pictorial Twists</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210754420-9798887620428-ayurveda/"><u>Ayurveda | Free Book</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effortless-ways-to-eliminate-stuttering-in-counter-strike-global-offensive/"><u>Effortless Ways to Eliminate Stuttering in Counter-Strike: Global Offensive</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-motorola-moto-g84-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-roblox-pc-issues-fast-top-6-solutions-for-uninterrupted-gaming/"><u>Fix Roblox PC Issues Fast: Top 6 Solutions for Uninterrupted Gaming</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722988010055-gta-5-freezing-problems-discover-effective-fixes-and-get-back-to-high-octane-action/"><u>GTA 5 Freezing Problems? Discover Effective Fixes and Get Back to High-Octane Action</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-marketing-magic-with-testimonial-videos/"><u>In 2024, Marketing Magic with Testimonial Videos</u></a></li>
+<li><a href="https://win-answers.techidaily.com/maximize-fluidity-of-play-tips-to-combat-lag-and-boost-fps-on-watch-dogs-legion/"><u>Maximize Fluidity of Play - Tips to Combat Lag and Boost FPS on Watch Dogs: Legion</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimizing-system-settings-to-stop-crashes-in-total-war-raven-gear-pc-gameplay/"><u>Optimizing System Settings to Stop Crashes in Total War: RAVEN GEAR - PC Gameplay</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-os-anomaly-windows-irql-fix/"><u>Resolving OS Anomaly: Windows IRQL Fix</u></a></li>
+<li><a href="https://facebook.techidaily.com/rest-in-peace-but-not-on-your-timeline-fb-guide/"><u>Rest in Peace, but Not on Your Timeline - FB Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solve-your-overwatch-lag-issues-expert-tips-and-tricks/"><u>Solve Your Overwatch Lag Issues: Expert Tips & Tricks</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-correcting-dolby-home-theater-glitches-on-windows-11/"><u>Step-By-Step: Correcting Dolby Home Theater Glitches on Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-stop-dota-2-from-keeping-you-down/"><u>Troubleshooting Guide: Stop Dota 2 From Keeping You Down!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-why-your-ds4-isnt-working-with-windows-and-what-to-do-next/"><u>Troubleshooting: Why Your DS4 Isn't Working With Windows and What To Do Next</u></a></li>
+<li><a href="https://win-answers.techidaily.com/winning-the-fight-against-fortnites-frequent-shutdowns-on-desktops-expert-tips-for-2/"><u>Winning the Fight Against Fortnite's Frequent Shutdowns on Desktops: Expert Tips for 2</u></a></li>
 </ul></div>
 

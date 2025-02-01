@@ -1,7 +1,7 @@
 ---
 title: Easy Solution to Tackle the 'Origin Crash' Bug Swiftly and Effectively!
-date: 2025-01-17T16:00:52.259Z
-updated: 2025-01-24T16:31:44.961Z
+date: 2025-01-31T05:09:01.627Z
+updated: 2025-01-31T20:56:49.374Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ For game players, Steam is the window to the world of gaming. But there are situ
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -50,6 +50,10 @@ OR
 
 **[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/how-to-fix-steam-black-screen-or-not-working/#option2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Option 1 – Manually update your drivers
 
 [NVIDIA](https://tools.techidaily.com/drivereasy/download/) and [AMD](https://www.amd.com/en/support) keep releasing driver updates. To get them, you need to go to the official websites, find the correct drivers, and download them manually.
@@ -57,7 +61,7 @@ OR
  Once you’ve downloaded the drivers, double-click on the downloaded file and follow the on-screen instructions to install the drivers.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Option 2 – Automatically update your drivers**
@@ -82,10 +86,6 @@ OR
 
  After updating your drivers, restart your computer and open Steam client to check if the issue is fixed. If not, try the other fixes below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 2: Delete web browser cache
 
  The Steam desktop client has a built-in browser that can show you details of a game. So users use it quite frequently. But the problem is, Steam doesn’t automatically clear its web browser cache. This would in turn cause Steam not to load properly. To fix it, you should clear the cache.
@@ -96,19 +96,15 @@ Here’s how you can do this:
 
 ![delete web browser cache Steam](https://images.drivereasy.com/wp-content/uploads/2020/10/settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) From the left panel, click**Web Browser** . Then click**DELETE WEB BROWSER CACHE** . Once it’s done, click**DELETE ALL BROWSER COOKIES** . After it’s finished, simply click**OK** .  
   
 ![delete web browser cache Steam](https://images.drivereasy.com/wp-content/uploads/2020/10/delete-web-browser-cache-Steam.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now your Steam client should be running as normal. If the black screen issue persists, you should[delete the app cache](https://tools.techidaily.com/drivereasy/download/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 3: Delete app cache
 
@@ -117,7 +113,7 @@ Here’s how you can do this:
  1) On your keyboard, press the **Windows logo key** ![windows logo key](https://images.drivereasy.com/wp-content/uploads/2020/10/Windows.png) and **E**  at the same time to open File Explorer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Navigate to**Windows (C:) > Program Files (×86) > Steam** to go to the Steam directory.
@@ -139,7 +135,7 @@ To participate in the Steam Client beta, follow the instructions below:
 ![delete web browser cache Steam](https://images.drivereasy.com/wp-content/uploads/2020/10/settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Select the**Account** tab. Under the**Beta Participation** section, click the**CHANGE…** button.  
@@ -158,6 +154,10 @@ To participate in the Steam Client beta, follow the instructions below:
  1) Exit Steam. From your desktop, right-click on the Steam shortcut and select**Properties** .  
   
 ![Steam Propertites](https://images.drivereasy.com/wp-content/uploads/2020/10/Steam-Properties.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Click the**Shortcut** tab. In the**Target** section, type**\-no-cef-sandbox** at the end. Then click**Apply > OK** .  
   
@@ -182,10 +182,6 @@ Now try opening Steam client to check if it works.
 
  5) Double-click**Steam.exe** and let it reinstall.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## If your problem persists…
 
  If reinstalling Steam doesn’t do the trick, you should give**repairing your PC** a shot. Program issues such as Steam not loading can be caused by corrupted system files. While running a scan of your PC can diagnose the problem you’re having and hopefully fix it. For that job, we recommend **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  , a **100% legitimate** program that specializes in Windows repair. It automatically helps you find and fix different issues in Windows OS without losing any data.
@@ -197,6 +193,10 @@ Now try opening Steam client to check if it works.
  3) Click **Start Repair** to start the repair process and wait for Fortect to fix the problem.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -220,20 +220,22 @@ Now try opening Steam client to check if it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-expert-tips-for-developing-high-quality-fb-videos/"><u>[New] Expert Tips for Developing High-Quality FB Videos</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-achieving-soft-sound-effects-in-audacity/"><u>[New] In 2024, Achieving Soft Sound Effects in Audacity</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-win11-elite-screen-recording-software/"><u>[Updated] 2024 Approved Win11 Elite Screen Recording Software</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-easy-peasy-screen-transitions-for-filmmakers-for-2024/"><u>[Updated] Easy-Peasy Screen Transitions for Filmmakers for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/best-family-singing-machine-the-sml385btbk-delivers-colorful-fun-with-just-one-connection/"><u>Best Family Singing Machine? The SML385BTBK Delivers Colorful Fun with Just One Connection!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-solutions-when-you-cant-hear-anything-on-twitch-live/"><u>Effective Solutions When You Can't Hear Anything on Twitch Live</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/guide-for-duplicating-dvds-on-hard-drive-using-windows-operating-systems-11-10-8-and-7/"><u>Guide for Duplicating DVDs on Hard Drive Using Windows Operating Systems (11, 10, 8 & 7)</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-live-transmission-via-obs-to-instagram/"><u>In 2024, Live Transmission via OBS to Instagram</u></a></li>
-<li><a href="https://win-answers.techidaily.com/in-search-of-diablo-immortal-on-pc-why-has-its-release-been-put-on-indefinite-hold/"><u>In Search of Diablo Immortal on PC: Why Has Its Release Been Put on Indefinite Hold?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/insurgency-resolving-the-recurring-issue-of-sandstorm-game-crashes/"><u>Insurgency: Resolving the Recurring Issue of Sandstorm Game Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/maximizing-performance-resolving-lag-issues-for-a-seamless-dying-light-2-experience-on-your-desktop/"><u>Maximizing Performance: Resolving Lag Issues for a Seamless Dying Light 2 Experience on Your Desktop</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723011978657-pathfinder-wrath-of-the-righteous-not-launching-heres-how-you-can-fix-it/"><u>Pathfinder: Wrath of the Righteous Not Launching? Here's How You Can Fix It</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-crashes-in-football-manager-202er-for-a-seamless-gaming-experience/"><u>Resolving Crashes in Football Manager 202Er for a Seamless Gaming Experience</u></a></li>
-<li><a href="https://win-info.techidaily.com/secure-your-favorite-vids-from-camwhores-site-with-easy-steps/"><u>Secure Your Favorite Vids From CamWhores Site with Easy Steps</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-common-problems-when-alienware-command-center-fails-to-start/"><u>Solving Common Problems When Alienware Command Center Fails to Start</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-echoing-social-engagement-transferring-tiktok-videos-on-facebook-for-2024/"><u>[New] Echoing Social Engagement Transferring TikTok Videos on Facebook for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-stable-shooting-ultimate-iphoneandroid-tripod-hits-for-2024/"><u>[New] Stable Shooting Ultimate iPhone/Android Tripod Hits for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-beginners-blueprint-unlocking-ps-magic/"><u>[Updated] 2024 Approved Beginner's Blueprint Unlocking PS Magic</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-jestful-journeys-an-in-depth-goofy-movie-review/"><u>[Updated] In 2024, 'Jestful Journeys' An In-Depth Goofy Movie Review</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-picsart-app-insights-comprehensive-review-and-walkthrough/"><u>2024 Approved PicsArt App Insights Comprehensive Review and Walkthrough</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/digital-dimensions-metaverse-vs-omniverse-explained/"><u>Digital Dimensions Metaverse Vs. Omniverse Explained</u></a></li>
+<li><a href="https://win-answers.techidaily.com/diy-troubleshooting-repairing-black-ops-cold-wars-frustrating-ui-error-27711/"><u>DIY Troubleshooting: Repairing Black Ops Cold War's Frustrating UI Error 27711</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/easy-steps-for-tailoring-your-pcs-sound-settings-with-windows-control-panel-yl-software-solutions/"><u>Easy Steps for Tailoring Your PC's Sound Settings with Windows Control Panel - YL Software Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-overcome-launch-issues-in-mass-effect-legendary-edition-a-comprehensive-guide/"><u>How to Overcome Launch Issues in Mass Effect Legendary Edition: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-steam-from-stalling-resolving-halted-gaming-sessions/"><u>How to Stop Steam From Stalling - Resolving Halted Gaming Sessions</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-special-features-virtual-location-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Oppo Find X6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/revive-avatars-vibrant-world-fixing-the-game-on-desktop-computers/"><u>Revive Avatar's Vibrant World: Fixing the Game on Desktop Computers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/smooth-gaming-experience-awaits-fix-rage-2s-crash-glitch-efficiently-and-effectively/"><u>Smooth Gaming Experience Awaits: Fix Rage 2'S Crash Glitch Efficiently & Effectively</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-days-gone-stability-issues-for-a-smoother-playthrough-tips-and-tricks/"><u>Solving 'Days Gone' Stability Issues for a Smoother Playthrough - Tips & Tricks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-definitive-guide-to-fixing-a-frozen-firefox-browser-updated/"><u>The Definitive Guide to Fixing a Frozen Firefox Browser, Updated</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-ultimate-solution-for-preventing-microsoft-edge-from-crashes-on-your-windows-11-pc/"><u>The Ultimate Solution for Preventing Microsoft Edge From Crashes on Your Windows 11 PC</u></a></li>
+<li><a href="https://win-online.techidaily.com/ultimate-walkthrough-on-wsus-setup-configuration-and-secure-backups-for-optimal-system-management/"><u>Ultimate Walkthrough on WSUS Setup, Configuration & Secure Backups for Optimal System Management</u></a></li>
 </ul></div>
 

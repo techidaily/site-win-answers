@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Fixing Fallout 3 Game Crashes on Windows 11"
-date: 2025-01-18T17:38:05.311Z
-updated: 2025-01-24T19:03:18.863Z
+date: 2025-01-28T00:56:29.537Z
+updated: 2025-01-31T18:32:35.737Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6 Fixes for Path of Exile Crashing
 
  There you go – 6 fixes that could help you resolve PoE crashing. You can try any of them selectively, or try them one by one; just work your way down the list until you find the one that does the trick for you.
@@ -43,10 +39,6 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
 **[Fix 6: Stop overclocking](https://tools.techidaily.com/drivereasy/download/)**
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Verify if your PC meets the system requirements for PoE
 
@@ -120,19 +112,23 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-17.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Go to the **LOCAL FILES** tab and select **VERIFY INTEGRITY OF GAME FILES…** . Then wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-18.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Once complete, exit Steam and reopen it. Run PoE and wait to see if it keeps crashing.
 
 In case this fix didn’t help, please move on to Fix 4.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Run RoE as an administrator
 
@@ -146,7 +142,7 @@ In case this fix didn’t help, please move on to Fix 4.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-24.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) In the Properties window, on the **Compatibility** tab, select **Run this program as an administrator** . Then click **Apply > OK** .
@@ -159,10 +155,6 @@ Still unable to solve the problem? If yes, proceed to the next fix.
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5: Change certain in-game configurations
 
  According to many players, turning off**Engine Multithreading** and**VSync** under Graphics settings has cleared up the crashing problem for them. Here’s how to do it:
@@ -171,14 +163,22 @@ Still unable to solve the problem? If yes, proceed to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-13.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) On the**Graphics** tab, disable**Engine Multithreading** and**VSync** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-14.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-15.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Wait to see if the crashing issue reoccurs. If it does, maybe these two features should not be blamed for your trouble, and you can enable them later on.
@@ -213,20 +213,24 @@ Still unable to solve the problem? If yes, proceed to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-the-leading-edge-of-virtual-reality-technology-2023-edition/"><u>[New] The Leading Edge of Virtual Reality Technology - 2023 Edition</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723009510646-solved-origin-wont-load-quickly-and-easily/"><u>[SOLVED] Origin Won’t Load | Quickly & Easily!</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-premier-picks-essential-mp4-lists/"><u>[Updated] 2024 Approved Premier Picks Essential MP4 Lists</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-boxing-battlegrounds-live-vs-virtual-warriors/"><u>2024 Approved Boxing Battlegrounds Live VS Virtual Warriors</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/descubre-el-conversor-gratis-para-convertir-flv-a-mp3-con-facilidad-y-pasos-sencillos/"><u>Descubre El Conversor Gratis Para Convertir FLV a MP3 Con Facilidad Y Pasos Sencillos</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effortlessly-resolve-playstation-or-xbox-errors-in-madden-22-step-by-step-guide/"><u>Effortlessly Resolve PlayStation or Xbox Errors in Madden 22: Step-by-Step Guide</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/evaluating-the-compact-and-cost-effective-asus-vivobook-11-laptop/"><u>Evaluating the Compact and Cost-Effective Asus VivoBook 11 Laptop</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-steam-cannot-login-expert-solutions-and-troubleshooting-tips/"><u>Fixing 'Steam Cannot Login': Expert Solutions and Troubleshooting Tips</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/how-to-track-whatsapp-messages-on-apple-iphone-13-mini-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>How to Track WhatsApp Messages on Apple iPhone 13 mini Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/msi-afterburner-troubleshooting-successfully-detecting-your-graphics-card-in-modern-windows-os/"><u>MSI Afterburner Troubleshooting: Successfully Detecting Your Graphics Card in Modern Windows OS</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-make-memories-shine-video-editing-secrets-for-amateur-filmmakers/"><u>New 2024 Approved Make Memories Shine Video Editing Secrets for Amateur Filmmakers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/origin-not-working-heres-how-you-can-get-it-up-and-running-smoothly/"><u>Origin Not Working? Here's How You Can Get It Up and Running Smoothly</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-issue-origin-online-login-now-accessible/"><u>Resolved Issue: Origin Online Login Now Accessible</u></a></li>
-<li><a href="https://article-files.techidaily.com/the-ultimate-iphone-x-handbook-for-users-for-2024/"><u>The Ultimate iPhone X Handbook for Users for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-fixing-the-sea-of-thieves-persistent-load-screen-issue/"><u>Troubleshooting: Fixing the Sea of Thieves Persistent Load Screen Issue</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-5-effective-tricks-for-youtube-subscriber-surges/"><u>[Updated] 2024 Approved 5 Effective Tricks for YouTube Subscriber Surges</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-inexpensive-pc-playback-solutions/"><u>[Updated] In 2024, Inexpensive PC Playback Solutions</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/53246793-updated-in-2024-pick-the-best-days-to-post-on-youtube/"><u>[Updated] In 2024, Pick the Best Days to Post on YouTube</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploration-of-distinct-video-camera-kinds/"><u>2024 Approved Exploration of Distinct Video Camera Kinds</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-overcoming-instagrams-video-length-restrictions/"><u>2024 Approved Overcoming Instagram's Video Length Restrictions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/age-of-empires-4-lag-solutions-techniques-for-uninterrupted-play/"><u>Age of Empires 4 Lag Solutions: Techniques for Uninterrupted Play</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-solutions-for-preventing-stellaris-game-crashes/"><u>Effective Solutions for Preventing Stellaris Game Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723012971993-eliminating-the-lag-issues-of-deathloop-on-next-gen-consoles-and-personal-computers/"><u>Eliminating the Lag Issues of Deathloop on Next-Gen Consoles & Personal Computers.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-samsung-pin-by-drfone-android-unlock-android-unlock/"><u>How to remove Samsung PIN</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-city-planning-for-climate-action-a-comprehensive-guide/"><u>In 2024, City Planning for Climate Action A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-mirrorless-vs-dslr-in-the-realm-of-video-filmmaking/"><u>In 2024, Mirrorless vs DSLR in the Realm of Video Filmmaking</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-motorola-moto-g04-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Motorola Moto G04 FRP</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-the-steps-to-overcome-yakuza-6-nthe-song-of-life-crashing-on-windows-computers/"><u>Master the Steps to Overcome Yakuza 6 nThe Song of Life Crashing on Windows Computers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/maximize-performance-expert-advice-on-improving-frames-per-second-fps-in-valorant-the-2024-guide/"><u>Maximize Performance: Expert Advice on Improving Frames Per Second (FPS) in Valorant - The 2024 Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722999591280-pro-tips-for-attaining-rare-equipment-through-fps-drops-in-the-mass-effect-series/"><u>Pro Tips for Attaining Rare Equipment Through FPS Drops in the Mass Effect Series.</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-troubleshooting-tips-when-flight-simulator-x-refuses-to-load-on-your-computer/"><u>Resolved: Troubleshooting Tips When Flight Simulator X Refuses to Load on Your Computer</u></a></li>
+<li><a href="https://some-tips.techidaily.com/shop-smarter-with-chatgpt-and-mercaris-ai-shopping-companion-explore-the-future-of-online-retail-on-zdnet/"><u>Shop Smarter with ChatGPT and Mercari’s AI Shopping Companion - Explore the Future of Online Retail on ZDNet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-10-strategies-to-eliminate-pc-gaming-lags/"><u>Top 10 Strategies to Eliminate PC Gaming Lags</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-resolving-wallpaper-engine-stability-issues-in-windows-11-and-10/"><u>Troubleshooting Tips for Resolving Wallpaper Engine Stability Issues in Windows 11 and 10</u></a></li>
 </ul></div>
 

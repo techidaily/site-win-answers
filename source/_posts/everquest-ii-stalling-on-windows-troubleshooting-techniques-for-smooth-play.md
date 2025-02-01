@@ -1,7 +1,7 @@
 ---
 title: "EverQuest II Stalling on Windows: Troubleshooting Techniques for Smooth Play"
-date: 2024-12-30T18:47:42.509Z
-updated: 2025-01-05T21:00:10.216Z
+date: 2025-01-30T05:14:47.629Z
+updated: 2025-01-31T16:07:13.686Z
 tags:
   - win11
   - win10
@@ -30,10 +30,6 @@ Halo Infinite is available now and some gamers have noticed that the game has be
 4. [Turn off background apps](https://tools.techidaily.com/drivereasy/download/)
 5. [Change NVIDIA resolution](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Check the minimum system requirement
 
  Before trying any complicated fixes, make sure your PC meets the minimum system requirement of Halo Infinite. You’ll meet Halo Infinite stuttering issue or other problems if your hardware is not powerful enough to support the game.
@@ -49,10 +45,6 @@ Halo Infinite is available now and some gamers have noticed that the game has be
  Halo Infinite supports indicates some minimum hardware specification GPUs may crash when playing intro cinematic sequences in 4k resolution.
 
 You can fix it by uninstalling the multiplayer HD texture packs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Update your graphic driver
 
@@ -70,7 +62,7 @@ There are mainly two ways you can update the graphics driver:
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
@@ -81,6 +73,10 @@ There are mainly two ways you can update the graphics driver:
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  If updating the graphics driver doesn’t work, you can move to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Change in-game settings
 
@@ -98,17 +94,21 @@ There are mainly two ways you can update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-31-1200x580.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Set**TEXTURE FILTERING** to**Ultra** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-32.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Many people suggest turning off**ASYNC COMPUTE** but if you’re running an AMD graphics card, you’d better turn it on. Because you can get at least 10FPS extra on average with it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-34.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7) Run the game to check.
 
@@ -124,11 +124,11 @@ If it’s not working, move to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-29.png)
 
- 3) Turn off all the background apps then run Halo Infinite to check if the issue persists.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ 3) Turn off all the background apps then run Halo Infinite to check if the issue persists.
 
 ## Fix 5: Change NVIDIA resolution
 
@@ -155,22 +155,20 @@ If it’s not working, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/hannel-catalysts-affiliates-aiding-budgeted-buzzers/"><u>[New] Channel Catalysts Affiliates Aiding Budgeted Buzzers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-ordinary-to-outstanding-crafting-unique-shorts-thumbnails-for-2024/"><u>[New] From Ordinary to Outstanding Crafting Unique Shorts Thumbnails for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/a-day-by-day-guide-through-the-korean-lifecycle/"><u>A Day-By-Day Guide Through the Korean Lifecycle</u></a></li>
-<li><a href="https://win-answers.techidaily.com/create-a-gif-from-your-mkv-files-easy-conversion-tutorial/"><u>Create a GIF From Your MKV Files - Easy Conversion Tutorial</u></a></li>
-<li><a href="https://win-answers.techidaily.com/dvd-conversion-with-wonderfox/"><u>DVD Conversion with WonderFox - ディスクから抜き取るためのプログラム</u></a></li>
-<li><a href="https://win-answers.techidaily.com/easy-steps-to-mastering-screen-recording-on-a-pc-with-windows-os/"><u>Easy Steps to Mastering Screen Recording on a PC with Windows OS</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effortless-conversion-guide-switching-from-h265-to-avi-video-files-fast/"><u>Effortless Conversion Guide: Switching From H.265 To AVI Video Files Fast</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fast-conversion-techniques-transforming-flac-files-into-ac3-format/"><u>Fast Conversion Techniques: Transforming FLAC Files Into AC3 Format</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-easily-set-up-and-run-kodi-on-android-a-comprehensive-picture-guided-guide/"><u>How to Easily Set Up and Run Kodi on Android: A Comprehensive Picture-Guided Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-record-your-favorite-tiktoks-a-cross-platform-method-for-ios-android-and-pc/"><u>How to Record Your Favorite TikToks: A Cross-Platform Method for iOS, Android & PC</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-recommended-6-online-apps-to-delete-background-perfectly/"><u>In 2024, Expert-Recommended 6 Online Apps to Delete Background Perfectly</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-finding-legal-music-a-producers-manual/"><u>In 2024, Finding Legal Music A Producer's Manual</u></a></li>
-<li><a href="https://win-answers.techidaily.com/is-it-possible-to-transcode-prores-videos-using-handbrake-software/"><u>Is It Possible to Transcode ProRes Videos Using HandBrake Software?</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/menjalankan-prosedur-langsung-untuk-memindahkan-hard-disk-besar-hdd-ke-ssd-bebas-perlu-menyalin-ulang-opsi-operasi-windows-tutorial-terlengkap/"><u>Menjalankan Prosedur Langsung Untuk Memindahkan Hard Disk Besar (HDD) Ke SSD, Bebas Perlu Menyalin Ulang Opsi Operasi Windows: Tutorial Terlengkap!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/solving-the-issue-of-missing-audio-in-streamlabs-pc-broadcasts/"><u>Solving the Issue of Missing Audio in Streamlabs PC Broadcasts</u></a></li>
-<li><a href="https://win-trending.techidaily.com/trouble-free-vmware-management-strategies-for-commencing-and-resolving-vcenters-urgent-sessions/"><u>Trouble-Free VMware Management: Strategies for Commencing and Resolving vCenter’s Urgent Sessions</u></a></li>
-<li><a href="https://blog-min.techidaily.com/windowsno12/"><u>マイク録音用Windows専用ソフト:おすすめのNo.12選考リスト</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/amers-galaxy-a-thousand-stars-in-gaming/"><u>[New] Gamers' Galaxy A Thousand Stars in Gaming</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-integrating-ai-assistants-into-slides-with-s2t-for-2024/"><u>[New] Integrating AI Assistants Into Slides with S2T for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-8-best-webcam-for-live-streaming-for-2024/"><u>[Updated] 8 Best Webcam for Live Streaming for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-investigating-financial-gains-from-product-reviews/"><u>2024 Approved Investigating Financial Gains From Product Reviews</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722974057786-download-and-update-broadcom-netlink-gigabit-ethernet-driver-on-windows-10-solved/"><u>Download and Update Broadcom NetLink Gigabit Ethernet Driver on Windows 10: Solved</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-world-of-ai-chatbots-why-businesses-and-consumers-love-them/"><u>Exploring the World of AI Chatbots - Why Businesses and Consumers Love Them</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-banish-the-black-screen-glitch-from-your-star-wars-battlefront-2-gameplay-experience/"><u>How to Banish the Black Screen Glitch From Your Star Wars Battlefront 2 Gameplay Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/latest-league-of-legends-bug-patched-update/"><u>Latest League of Legends Bug Patched Update</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-portable-driver-easy-a-step-by-step-guide/"><u>Mastering Portable Driver Easy: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mordhau-crash-fix-master-the-art-of-a-smooth-uninterrupted-gameplay-journey/"><u>Mordhau Crash Fix - Master the Art of a Smooth, Uninterrupted Gameplay Journey</u></a></li>
+<li><a href="https://win-answers.techidaily.com/no-more-crashes-in-your-gaming-session-dealing-with-snowrunners-persistent-freezing-problems-on-pc/"><u>No More Crashes in Your Gaming Session: Dealing with SnowRunner's Persistent Freezing Problems on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-issues-with-launching-resident-evil-village-game/"><u>Resolved: Issues with Launching Resident Evil Village Game</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-connection-lost-issue-in-escape-from-tarkov-a-step-by-step-guide/"><u>Solving the Connection Lost Issue in Escape From Tarkov: A Step-by-Step Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-oppo-reno-10-pro-5g-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Oppo Reno 10 Pro 5G</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/understanding-the-trial-constraints-associated-with-movavi-software-solutions/"><u>Understanding the Trial Constraints Associated with Movavi Software Solutions</u></a></li>
 </ul></div>
 

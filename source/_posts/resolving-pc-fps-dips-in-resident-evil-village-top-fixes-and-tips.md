@@ -1,7 +1,7 @@
 ---
 title: Resolving PC FPS Dips in Resident Evil Village – Top Fixes and Tips
-date: 2025-01-23T18:43:06.379Z
-updated: 2025-01-24T17:49:47.602Z
+date: 2025-01-27T18:53:31.227Z
+updated: 2025-01-31T21:32:58.763Z
 tags:
   - win11
   - win10
@@ -37,6 +37,10 @@ The long awaited horror game**Resident Evil Village** (RE8) is finally out now. 
 9. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 10. **[Reinstall Resident Evil Village and Steam](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1:   **Make sure your PC meets the minimum specifications for Resident Evil Village**
 
  If your copy of**Resident Evil Village** crashes a lot on your PC, it’s worth gauging whether your PC is powerful enough to handle the game.
@@ -64,6 +68,10 @@ To check the specs of your PC:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/display-1.png)
 4. Close DirectX.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If your PC specs have been up to the mark but Resident Evil Village still crashes, please move on to **Fix 2** , below to begin troubleshooting.
 
@@ -102,14 +110,6 @@ You can disable Steam overlay with the following steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/Disable-the-Steam-Overlay-for-Resident-Evil-Village-2.jpg)
 4. Run Resident Evil Village to see if the crashing problem is fixed. If it doesn’t cut it, please try**Fix 4** , below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4: Run Steam as administrator
 
  Your game may crash if it does not have the resources required to run fully. As a fix, you can try running Steam as administrator.
@@ -120,11 +120,11 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/123-1.png)
 2. Click **Yes**  when UAC prompts for permissions to proceed.
 
- After that, launch Resident Evil Village game and see if the crashing problem still occurs. If it doesn’t, then great! If the issue persists, please try **Fix 5** , below.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ After that, launch Resident Evil Village game and see if the crashing problem still occurs. If it doesn’t, then great! If the issue persists, please try **Fix 5** , below.
 
 ### Fix 5: Verify game integrity on Steam
 
@@ -138,21 +138,13 @@ The steps are pretty easy:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/Resident-Evil-Village-steam-properties-1.png)
 4. Click **LOCAL FILES** \> **Verify integrity of game files…** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/INTEGRITY.png)
 5. Wait a few minutes for Steam to validate the files of the game. Again, any files found missing or corrupt would be automatically downloaded in the process.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Re-launch Resident Evil Village to see if it can be played properly. If yes, then congrats! If it’s still no joy, please try **Fix 6** , below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Close background apps
@@ -166,11 +158,11 @@ Here’s how to close background apps:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/123.png)
 3. Restart your computer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  RE8 still crashes? Don’t worry – there’s a couple more fixes for you to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Disable HDR in RE 8 and Windows
 
@@ -196,20 +188,20 @@ Here’s how to close background apps:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/windows-hdr-off.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you have disabled HDR, run the game in the client and see if it still crashes. If it’s still on-going, please move on to **Fix 8** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 8: Install the latest patch
 
  The game crash is likely to be a bug that comes along previous updates, which requires to be patched in the next release. To check if this is the case, you can install the latest patch, then run the game again to see if the crashing problem ceases.
 
  If there’s no new patch available, or the problem remains after installing the latest patch, head on to **Fix 9** , below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 9: Perform a clean boot
 
@@ -226,11 +218,19 @@ Here are the steps to perform a clean boot:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/service-and-hide-all-microsoft-services-1.png)
 3. Browse through the full list of services, make sure to   **check the boxes for the items that belong to your hardware manufacturers**  (such as Intel, AMD, and Qualcomm) and **uncheck the boxes for the rest** . Once finished, click **OK** to apply the changes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/esential.png)
 4. Restart your computer, then test to see if the game still crashes.  
 
    * **If Resident Evil Village stops crashing** , you can try repeating these steps, disabling half of the services each time until you pinpoint the culpable program. Once you do, do some research on the internet to find out what the program is for, then contact the vendor of this program for advice or an alternative solution.  
    * **If Resident Evil Village still crashes** , please continue to **Fix 10** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 10: **Reinstall Resident Evil Village and Steam**
 
@@ -258,24 +258,24 @@ Here are the steps to perform a clean boot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-the-ultimate-guide-to-crafting-mc-village-dwellings/"><u>[New] 2024 Approved The Ultimate Guide to Crafting MC Village Dwellings</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-the-ultimate-guide-to-live-video-comparing-obs-and-twitch-studio/"><u>[New] 2024 Approved The Ultimate Guide to Live Video Comparing OBS & Twitch Studio</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-choosing-between-podcast-and-youtube-for-content-consumption/"><u>[New] Choosing Between Podcast and YouTube for Content Consumption</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-your-step-by-step-path-to-a-top-facebook-music-video/"><u>[New] Your Step-by-Step Path to a Top Facebook Music Video</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-perfect-propeller-synergy-for-awe-inspiring-fpv-flights/"><u>[Updated] 2024 Approved Perfect Propeller Synergy for Awe-Inspiring FPV Flights</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-from-zeroes-to-heroes-amplifying-your-youtube-following-for-2024/"><u>[Updated] From Zeroes to Heroes Amplifying Your Youtube Following for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-selecting-sounds-for-success-top-microphones-for-multifacited-youtube-professionals/"><u>[Updated] Selecting Sounds for Success Top Microphones for Multifacited YouTube Professionals</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-top-ranked-cloud-stores-analysis-and-pricing-insights/"><u>[Updated] Top-Ranked Cloud Stores Analysis & Pricing Insights</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-glitches-in-phasmophobia-for-a-smoother-play-experience/"><u>Fixing Glitches in Phasmophobia for a Smoother Play Experience</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-ispoofer-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on HTC U23 Pro? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723005911014-is-the-netflix-blackout-real-check-server-status-now/"><u>Is the Netflix Blackout Real? Check Server Status Now</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-pc-performance-how-to-stop-praey-for-the-gods-from-frequently-crashing/"><u>Mastering PC Performance: How to Stop Praey for the Gods From Frequently Crashing</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-playback-problems-why-does-soveld-warno-keep-crashing/"><u>Overcoming Playback Problems: Why Does [SOVELD] Warno Keep Crashing?</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolved-troubleshooting-steps-for-playing-disco-elysium-add-ons-on-windows-and-mac/"><u>Resolved! Troubleshooting Steps for Playing Disco Elysium Add-Ons on Windows and Mac</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-stop-wwe-2k20-from-crashing-on-your-computer/"><u>Step-by-Step Guide: Stop WWE 2K20 From Crashing on Your Computer</u></a></li>
-<li><a href="https://win-answers.techidaily.com/tips-to-overcome-latency-and-networking-issues-in-cyberlandscape-adventures/"><u>Tips to Overcome Latency and Networking Issues in Cyberlandscape Adventures</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-solve-persistent-freezing-issues-in-immortals-fenyx-rising/"><u>Troubleshooting Guide: Solve Persistent Freezing Issues in Immortals Fenyx Rising</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-resolving-astro-a50-headset-unrecognized-by-command-center/"><u>Troubleshooting Steps for Resolving 'Astro A50 Headset Unrecognized by Command Center'</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-how-to-overcome-live-server-connection-failure/"><u>Troubleshooting: How to Overcome 'Live Server Connection Failure'</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-in-depth-guide-on-using-annotations-for-marketing/"><u>[New] In 2024, In-Depth Guide on Using Annotations for Marketing</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-the-new-frontier-in-recording-captureking-review/"><u>[New] In 2024, The New Frontier in Recording 'CaptureKing' Review</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-unlock-the-potential-of-youtube-videos-with-smart-tags/"><u>[New] In 2024, Unlock the Potential of YouTube Videos with Smart Tags</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-unraveling-free-filter-treasures-through-instagrams-advanced-searches/"><u>[New] Unraveling Free Filter Treasures Through Instagram’s Advanced Searches</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-art-of-edible-media-recipe-tutorials/"><u>[Updated] The Art of Edible Media Recipe Tutorials</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-does-youtube-offer-regular-viewers-money/"><u>2024 Approved Does YouTube Offer Regular Viewers Money?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/borderlands-3-freezing-problem-solved-discover-effective-remedies-to-boost-game-performance/"><u>Borderlands 3 Freezing Problem Solved? Discover Effective Remedies to Boost Game Performance!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/experiencing-issues-with-launching-division-2-in-2eightyfour-quick-fixes-and-hacks/"><u>Experiencing Issues with Launching Division 2 in 2Eightyfour - Quick Fixes and Hacks</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-analysis-of-the-zagg-pro-stylus-2-your-trusted-substitute-to-the-apple-pencil/"><u>Expert Analysis of the Zagg Pro Stylus 2: Your Trusted Substitute to the Apple Pencil</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-pc-hang-ups-resolving-wrath-of-the-righteeous-freezing-glitches-in-pathfinder-game/"><u>Fixing PC Hang-Ups: Resolving ‘Wrath of the Righteeous’ Freezing Glitches in Pathfinder Game</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/free-easy-to-use-online-editors-for-quick-postings-for-2024/"><u>Free, Easy-to-Use Online Editors for Quick Postings for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-overcome-compatibility-problems-with-new-minecraft-launchers/"><u>How to Overcome Compatibility Problems with New Minecraft Launchers?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-overcome-stalling-problems-with-qbittorrent/"><u>How To Overcome Stalling Problems with qBittorrent</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-vpns-and-streaming-a-guide-to-remote-control-of-your-samsung-smart-tv/"><u>Mastering VPNs and Streaming: A Guide to Remote Control of Your Samsung Smart TV</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-fortnite-crashes-due-to-exceeding-video-memory-capacity/"><u>Resolved: Fortnite Crashes Due to Exceeding Video Memory Capacity</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-to-prevent-sony-vegas-media-studio-from-crashing/"><u>Step-by-Step Guide to Prevent Sony Vegas Media Studio From Crashing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/tackling-torrent-troubleshooting-how-to-restore-performance-in-qbittorrent-when-it-stops-responding/"><u>Tackling Torrent Troubleshooting: How To Restore Performance in qBittorrent When It Stops Responding</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-8-troubleshooting-tips-to-stop-guardians-of-the-galaxy-from-crashing-on-your-pc/"><u>Top 8 Troubleshooting Tips to Stop 'Guardians of the Galaxy' From Crashing on Your PC</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-deal-unveiled-grab-your-8tb-samsung-t5-ssd-now-with-36-off-highlighted-by-zdnet-on-amazon/"><u>Top Deal Unveiled: Grab Your 8TB Samsung T5 SSD Now with 36% Off, Highlighted by ZDNet on Amazon!</u></a></li>
 </ul></div>
 

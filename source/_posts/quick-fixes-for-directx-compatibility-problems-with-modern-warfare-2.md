@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for DirectX Compatibility Problems with Modern Warfare 2
-date: 2025-01-23T16:46:46.224Z
-updated: 2025-01-24T18:31:08.855Z
+date: 2025-01-26T16:46:54.925Z
+updated: 2025-01-31T21:40:32.755Z
 tags:
   - win11
   - win10
@@ -32,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/71cc290356f3f99c9cda8196a719a0c6248025904
 4. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Disable your antivirus program](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Run WWE 2K20 on the dedicated graphics card](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Install the latest patch
 
@@ -71,6 +67,10 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-119.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click **the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/Steam-verify-the-game-file-2.jpg)
@@ -80,7 +80,7 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
@@ -97,6 +97,10 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-285.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to a flagged graphics river to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
@@ -106,10 +110,6 @@ Here is how to do it:
 5) Run the game again to see if the crashing issue is solved. If yes, then congrats! If it still crashes, please try**Fix 5** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Disable your antivirus program
 
@@ -124,7 +124,7 @@ WWE 2K20 still crashes? Don’t worry, you have one more fix to try.
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Run WWE 2K20 on the dedicated graphics card
@@ -139,12 +139,16 @@ WWE 2K20 still crashes? Don’t worry, you have one more fix to try.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Control-panel-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/nvidia-1024x607.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) In Nvidia Control Panel, click **Manage 3D Settings** \> **Program Settings** \> **Add** .
@@ -154,10 +158,6 @@ WWE 2K20 still crashes? Don’t worry, you have one more fix to try.
  4) In the window that opens, choose**WWE2K20\_x64** , then click**Add Selected Program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-11.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) In**Select the preferred graphics processor for this program** , select**High-performance NVIDIA processor** . Then click**Apply** .
 
@@ -186,21 +186,19 @@ WWE 2K20 still crashes? Don’t worry, you have one more fix to try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-speedy-shutterbugs-iphones-quick-time-lapse-guide/"><u>[New] 2024 Approved Speedy Shutterbugs IPhone's Quick Time-Lapse Guide</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/-symphony-of-selection-assembling-your-best-music-choices-on-youtube-for-2024/"><u>[New] A Symphony of Selection Assembling Your Best Music Choices on YouTube for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-beyond-virality-understanding-what-makes-triller-different-from-tiktok/"><u>[New] Beyond Virality Understanding What Makes Triller Different From TikTok</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-how-to-use-luts-in-premiere-pro/"><u>[Updated] How To Use LUTs In Premiere Pro</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/convert-and-download-tv-show-episodes-in-multiple-formats-mp4-wmv-mov-avi-flv/"><u>Convert and Download TV Show Episodes in Multiple Formats (MP4, WMV, MOV, AVI, FLV)</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ring-youtubes-financial-blueprint-for-short-form-video-success/"><u>Exploring YouTube's Financial Blueprint for Short-Form Video Success</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-boosting-in-game-charisma-pubg-voice-techniques/"><u>In 2024, Boosting In-Game Charisma PUBG Voice Techniques</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-extracting-music-tracks-from-fb/"><u>In 2024, Extracting Music Tracks From Fb</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722976452202-install-new-intel-wireless-ac-nacuate-driver-enhance-your-devices-wi-fi-capabilities-today/"><u>Install New Intel Wireless AC nAcuate Driver: Enhance Your Device's Wi-Fi Capabilities Today</u></a></li>
-<li><a href="https://win-answers.techidaily.com/simple-vts-file-compatibility-the-ultimate-windows-friendly-video-player/"><u>Simple VTS File Compatibility: The Ultimate Windows-Friendly Video Player</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solve-your-youtube-video-playback-issues-no-more-stutters-or-lags/"><u>Solve Your YouTube Video Playback Issues - No More Stutters or Lags</u></a></li>
-<li><a href="https://win-answers.techidaily.com/speedy-audio-editing-tips-switching-from-flac-to-ac3-in-no-time/"><u>Speedy Audio Editing Tips: Switching From FLAC to AC3 in No Time!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-recording-audio-with-a-built-in-microphone-on-windows-10/"><u>Step-by-Step Guide: Recording Audio with a Built-In Microphone on Windows 10</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-seamlessly-watching-usb-media-on-a-panasonic-tv-setup/"><u>Step-by-Step Guide: Seamlessly Watching USB Media on a Panasonic TV Setup</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-watching-videos-from-a-usb-flash-drive-on-your-philips-television/"><u>Step-by-Step Guide: Watching Videos From a USB Flash Drive on Your Philips Television</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-process-for-transforming-twitch-vods-clips-and-uploads-into-audio-format-mp3/"><u>Step-by-Step Process for Transforming Twitch VODs, Clips & Uploads Into Audio Format (MP3)</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-crafting-perfect-lines-in-digital-imagery/"><u>[New] Crafting Perfect Lines in Digital Imagery</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-adding-visuals-on-instagram-quickly/"><u>[Updated] 2024 Approved Adding Visuals on Instagram Quickly</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-video-repair-tool-to-fix-and-repair-corrupt-mp4movavi-video-files-of-nord-n30-5g-by-stellar-video-repair-mobile-video-repair/"><u>Best Video Repair tool to Fix and Repair Corrupt MP4,MOV,AVI video files of Nord N30 5G</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/connecting-to-the-airwaves-how-ios-and-android-phones-can-access-local-stations/"><u>Connecting to the Airwaves: How iOS and Android Phones Can Access Local Stations</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/conquering-social-media-with-ig-videos-planning-an-optimal-strategy-for-2024/"><u>Conquering Social Media with IG Videos Planning an Optimal Strategy for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-enhanced-sound-device-drivers-tailored-for-windows-os/"><u>Download Enhanced Sound Device Drivers Tailored for Windows OS</u></a></li>
+<li><a href="https://facebook.techidaily.com/examining-historical-social-media-feedback/"><u>Examining Historical Social Media Feedback</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-for-solving-call-of-duty-vanguard-freeze-glitches-no-costs-involved/"><u>Expert Advice for Solving 'Call of Duty: Vanguard' Freeze Glitches - No Costs Involved!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-samsung-galaxy-a15-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Samsung Galaxy A15 5G to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/solve-your-presentation-issue-how-to-enable-audio-in-powerpoint-recordings-across-pcs-and-macs/"><u>Solve Your Presentation Issue: How to Enable Audio in PowerPoint Recordings Across PCs and Macs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-resolving-the-black-screen-issue-during-discord-video-calling/"><u>Troubleshooting Steps for Resolving the 'Black Screen' Issue During Discord Video Calling</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unlocking-updates-for-rainbow-six-siege-whats-coming/"><u>Unlocking Updates for Rainbow Six Siege : What's Coming?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/what-is-the-primary-difference-between-photoautotrophs-and-heterotrophs/"><u>What Is the Primary Difference Between Photoautotrophs and Heterotrophs?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/xboxpc-fixes-for-warzone-memory-error-understanding-and-resolving-code-0-1766/"><u>Xbox/PC Fixes for 'Warzone' Memory Error: Understanding and Resolving Code 0-1766</u></a></li>
 </ul></div>
 

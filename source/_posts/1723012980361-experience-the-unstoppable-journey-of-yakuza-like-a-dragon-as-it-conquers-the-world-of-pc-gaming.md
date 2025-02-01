@@ -1,7 +1,7 @@
 ---
 title: "Experience the Unstoppable Journey of Yakuza: Like a Dragon as It Conquers the World of PC Gaming!"
-date: 2025-01-17T17:44:51.153Z
-updated: 2025-01-24T19:03:43.640Z
+date: 2025-01-26T04:03:35.032Z
+updated: 2025-02-01T04:44:33.812Z
 tags:
   - win11
   - win10
@@ -43,10 +43,6 @@ thumbnail: https://thmb.techidaily.com/da5209d316680e0ea4e317ac8778c8407afff2b57
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/modem.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 modem
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/router.png)
@@ -71,18 +67,10 @@ wireless router
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Check how Warzone works. If the driver update doesn’t give you luck, move on to the third solution.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3 – Run Warzone on DirectX 11
 
@@ -94,13 +82,17 @@ wireless router
 3. Click the**Game Settings** tab. Then tick**Additional command line arguments** and enter**\-D3D11** in the text field.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/12.jpg)
 4. Click**Done** to confirm.
 
  Restart Warzone for the changes to take effect. See if you could get rid of the 6328 error now. If the problem persists, there are a few more fixes to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4 – Increase virtual memory
 
@@ -110,18 +102,26 @@ wireless router
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-1.jpg)
 2. Click**Settings** under the Performance section.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-2.jpg)
 3. Select the**Advanced** tab and click**Change** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-3-1.jpg)
 4. Untick**Automatically manage paging file size for all drives** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-4-1.jpg)
 5. Select**C drive** and check **Custom size** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-5-1.jpg)
 6. Enter the **initial size** and **maximum size** depending on the amount of RAM your PC has, and click **OK** .  
@@ -130,7 +130,7 @@ wireless router
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-6-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5 – Delete the game cache files
@@ -142,10 +142,6 @@ wireless router
 
  Restart the Battle.net client and see whether you could play Warzone as normal. If the game is still unplayable, try the last method.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 6 – Adjust the in-game graphics settings
 
  If you’re able to get into Warzone and the error 6328 appears only in the middle of the game, tweaking certain graphics settings might help the situation. Here’s how:
@@ -154,6 +150,10 @@ wireless router
 2. Navigate to the**Graphics** tab. Then set the_Display Mode_ to**Fullscreen Borderless** , and turn_Sync Every Frame (V-Sync)_ to**On (Enabled)** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings1.jpg)
 3. Scroll down to the Details & Textures section and set_Texture Resolution_ and_Texture Filter Anisotropic_ to**Normal** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings2.jpg)
 
@@ -181,17 +181,24 @@ wireless router
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-top-10-facebook-video-players/"><u>[Updated] 2024 Approved Top 10 Facebook Video Players</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-laughter-library-selecting-witty-content-for-short-youtube-videos/"><u>[Updated] In 2024, Laughter Library Selecting Witty Content for Short YouTube Videos</u></a></li>
-<li><a href="https://extra-information.techidaily.com/affordable-lg-24lh4830-led-television-great-value-without-compromise/"><u>Affordable LG 24LH4830 LED Television - Great Value Without Compromise</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/decoding-error-0x80004005-your-ultimate-guide-to-overcoming-windows-unspecified-errors/"><u>Decoding Error 0X80004005: Your Ultimate Guide to Overcoming Windows' Unspecified Errors</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-apex-legends-solving-common-voice-chat-issues/"><u>Fixing Apex Legends: Solving Common Voice Chat Issues</u></a></li>
-<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Vivo Y28 5G? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/man-klipper-musik-mastering-music-editing-on-desktop-mobile-and-offline-platforms/"><u>Man Klipper Musik: Mastering Music Editing on Desktop, Mobile & Offline Platforms</u></a></li>
-<li><a href="https://win-answers.techidaily.com/master-the-installation-of-hyper-v-feature-on-microsofts-latest-os/"><u>Master the Installation of Hyper-V Feature on Microsoft's Latest OS</u></a></li>
-<li><a href="https://discover-best.techidaily.com/navigating-the-digital-space-efficiently-how-cookiebot-empowers-personalized-engagement/"><u>Navigating the Digital Space Efficiently: How Cookiebot Empowers Personalized Engagement</u></a></li>
-<li><a href="https://win-answers.techidaily.com/optimizing-your-pc-setup-for-smoother-siftu-performance-tips-and-solutions/"><u>Optimizing Your PC Setup for Smoother SIFTU Performance – Tips & Solutions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-issues-with-launching-football-manager-2023-a-comprehensive-fix/"><u>Resolved: Issues with Launching Football Manager 2023 – A Comprehensive Fix</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-troubleshooting-ie-browser-issues-unable-to-view-web-pages/"><u>Resolved: Troubleshooting IE Browser Issues - Unable to View Web Pages</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-unlocking-creativity-with-tiktok-symbol-mastery/"><u>[New] Unlocking Creativity with TikTok Symbol Mastery</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-revolutionizing-your-fpv-flight-with-optimal-blades/"><u>2024 Approved Revolutionizing Your FPV Flight with Optimal Blades</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-oppo-reno-10-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Oppo Reno 10 5G without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/3gppwmamovavi/"><u>無限制網路3GPP到WMA自由轉換：用Movavi範本</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/aiwindows-mac10/"><u>最佳自由開源的線上AI影像加強工具，Windows 及 Mac選項10款</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cure-your-gaming-woes-fixing-the-borderlands-3-not-launching-problem-with-these-11-tips/"><u>Cure Your Gaming Woes: Fixing the 'Borderlands 3 Not Launching' Problem with These 11 Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/hitman-amoored-by-connectivity-heres-how-to-resolve-the-connection-failed-error/"><u>Hitman Amoored by Connectivity? Here’s How to Resolve the 'Connection Failed' Error!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-persistent-crashing-issues-with-starfield-game-on-desktops-and-laptops/"><u>How to Fix Persistent Crashing Issues with Starfield Game on Desktops and Laptops</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pushing-boundaries-with-advanced-audacity-recording/"><u>In 2024, Pushing Boundaries with Advanced Audacity Recording</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-troubled-waters-how-to-prevent-cult-of-the-lamb-from-crashing-on-pc/"><u>Mastering Troubled Waters: How to Prevent Cult of the Lamb From Crashing on PC</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-take-your-designs-to-the-next-level-10-top-animated-text-tools/"><u>New Take Your Designs to the Next Level 10 Top Animated Text Tools</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-vertical-video-mastery-the-best-editing-apps-for-iphone-and-android/"><u>New Vertical Video Mastery The Best Editing Apps for iPhone and Android</u></a></li>
+<li><a href="https://win-answers.techidaily.com/red-dead-online-stability-enhancements-no-more-game-interruptions/"><u>Red Dead Online Stability Enhancements - No More Game Interruptions!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-activisions-cod-vanguard-bug-code-5573-fix-guide/"><u>Resolved: Activision's COD Vanguard Bug Code 5573 Fix Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-among-us-freezes-and-crashing-issues-tips-and-solutions/"><u>Resolving 'Among Us' Freezes and Crashing Issues – Tips & Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/smooth-launch-into-lotr-world-lol/"><u>Smooth Launch Into LOTR World (LOL)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723006344233-tired-of-titanfall-2-crashes-discover-easy-ways-to-keep-your-game-running-smoothly/"><u>Tired of Titanfall 2 Crashes? Discover Easy Ways to Keep Your Game Running Smoothly!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-overcoming-atomic-heart-crash-when-you-hit-play/"><u>Troubleshooting: Overcoming 'Atomic Heart' Crash When You Hit Play</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-expert-guide-top-6-solutions-to-boost-your-fps-in-escape-from-tarkov/"><u>Ultimate Expert Guide: Top 6 Solutions to Boost Your FPS in Escape From Tarkov</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Cortana Malfunctioning? Here Are the Solutions You Need!
-date: 2025-01-20T17:51:59.375Z
-updated: 2025-01-24T17:45:00.735Z
+date: 2025-01-26T02:30:48.064Z
+updated: 2025-01-31T19:08:02.187Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/48b04798818f256a08d1adf91e6795699ee9e8d50
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How do I fix Cortana not working?
 
  Here are 5 methods you can try to fix this glitch. Please work your way down the list until you find the that works.
@@ -39,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/48b04798818f256a08d1adf91e6795699ee9e8d50
  A simple restart can fix a lot computer woes. Once Cortana stops working on your computer, firstly try to **restart your Windows 10 PC** and try Cortana again to see if it works.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 2: Check your region and language settings
@@ -49,10 +53,6 @@ thumbnail: https://thmb.techidaily.com/48b04798818f256a08d1adf91e6795699ee9e8d50
 Check your region and language settings on your computer:
 
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)** and **I** at the same time to open the **Settings** window.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Click **Time** **& language** .
 
@@ -66,6 +66,10 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e71cb793.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5) Try Cortana again to see if it works.
 
 ## Method 3: Make sure your Windows 10 system is up-to-date
@@ -76,10 +80,6 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f33c9a31.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click **Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f7b03e67.jpg)
@@ -89,7 +89,7 @@ Check your region and language settings on your computer:
 4) Reboot your Windows 10 PC and try Cortana again to see if it works.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 4: Update your Microphone driver and audio driver
@@ -119,7 +119,7 @@ Or click  **Update All** to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb1528c6d59.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Reboot your Windows 10 and try Cortana again to see if it works.
@@ -133,7 +133,7 @@ Or click  **Update All** to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb16d80e39a.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click the button beside **On** in **Hey Cortana** to turn off it. You should then see the **Off**  status.
@@ -164,17 +164,24 @@ Or click  **Update All** to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-explore-creativity-the-top-8-iphone-drawing-apps-uncovered/"><u>[New] 2024 Approved Explore Creativity The Top 8 iPhone Drawing Apps Uncovered</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-the-search-for-prime-video-making-experts/"><u>[New] In 2024, The Search for Prime Video Making Experts</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-streamlabs-rival-tools-unveiled/"><u>[Updated] 2024 Approved Streamlabs' Rival Tools Unveiled</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-assessing-the-capabilities-of-yuneecs-typhoon-h-drone/"><u>[Updated] Assessing the Capabilities of Yuneec's Typhoon H Drone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/guia-paso-a-paso-sobre-como-convertir-facilmente-tus-archivos-m4b-en-formatos-de-video-mkv-utilizando-herramientas-online-gratuitas/"><u>Guía Paso a Paso Sobre Cómo Convertir Fácilmente Tus Archivos M4B en Formatos De Video MKV Utilizando Herramientas Online Gratuitas</u></a></li>
-<li><a href="https://win-best.techidaily.com/guide-setting-up-a-nas-mirrored-copy-for-file-synchronization-between-two-network-storage-units/"><u>Guide: Setting Up a NAS Mirrored Copy for File Synchronization Between Two Network Storage Units</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-madden-19-pc-instances-of-unexpected-shutdowns-and-glitches/"><u>How to Fix Madden 19 PC Instances of Unexpected Shutdowns and Glitches</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-connectivity-and-download-difficulties-in-utorrent-platform/"><u>Resolving Connectivity & Download Difficulties in uTorrent Platform</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723007687525-the-awaited-launch-of-immortals-fenyx-rising-problem-solved-and-game-is-live/"><u>The Awaited Launch of Immortals: Fenyx Rising – Problem Solved and Game Is Live</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-when-rainbow-six-siege-refuses-to-start/"><u>Troubleshooting Steps: When Rainbow Six Siege Refuses to Start</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-resolving-game-crashes-in-gta-v/"><u>Ultimate Guide: Resolving Game Crashes in GTA V</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-how-to-add-video-and-audio-transition-between-scenesclips/"><u>Updated How to Add Video and Audio Transition Between Scenes/Clips</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-boosting-your-igtv-influence-techniques-to-amplify-audience-size-for-2024/"><u>[New] Boosting Your IGTV Influence Techniques to Amplify Audience Size for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-boosting-your-posts-secrets-for-viral-instagram-videos/"><u>[New] In 2024, Boosting Your Posts Secrets for Viral Instagram Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-is-magic-call-voice-changer-app-working-get-alternatives-here/"><u>[New] Is Magic Call – Voice Changer App Working? Get Alternatives Here</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-ultimate-guide-to-fixing-crusader-kings-iii-pc-gameplay-interruptions/"><u>[SOLVED] Ultimate Guide to Fixing Crusader Kings III PC Gameplay Interruptions</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-ultimate-photographic-face-off-legend-sj6-vs-xiaomis-yi-kickstarter/"><u>[Updated] 2024 Approved Ultimate Photographic Face-Off Legend SJ6 Vs. Xiaomi's Yi Kickstarter</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-expert-techniques-for-transforming-vimeo-media-into-mp4s/"><u>[Updated] Expert Techniques for Transforming Vimeo Media Into MP4s</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-xiaomi-13-ultra-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Xiaomi 13 Ultra Fingerprint Lock</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bypassing-the-cant-boot-up-cs-go-dilemma-with-simple-solutions/"><u>Bypassing the 'Can't Boot Up CS: GO' Dilemma with Simple Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/call-of-duty-wwii-glitch-solved-tackling-error-code-d128-with-precision/"><u>Call of Duty WWII Glitch Solved: Tackling Error Code ^D128 with Precision</u></a></li>
+<li><a href="https://win-answers.techidaily.com/closing-the-loop-how-riot-games-addresses-league-of-legends-recent-network-issue-update/"><u>Closing the Loop: How Riot Games Addresses League of Legends' Recent Network Issue Update</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/convertir-fotos-nef-directamente-a-jpeg-sin-costo-usando-movavi-tutorial-completo/"><u>Convertir Fotos NEF Directamente a JPEG Sin Costo Usando Movavi: Tutorial Completo</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-solutions-for-overcoming-freezing-problems-in-code-vein/"><u>Expert Solutions for Overcoming Freezing Problems in Code Vein</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-xiaomi-14-ultra-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Xiaomi 14 Ultra to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-initialization-hurdles-with-pathfinder-wrath-of-the-righteous/"><u>Overcoming Initialization Hurdles with Pathfinder: Wrath of the Righteous</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/stereo-vs-home-theater-a-guide-to-audio-system-variations/"><u>Stereo Vs. Home Theater: A Guide to Audio System Variations</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-deathloop-simple-solutions-for-preventing-pc-crashes/"><u>Troubleshooting Deathloop: Simple Solutions for Preventing PC Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-resolving-loading-issues-in-madden-nfl-22/"><u>Troubleshooting Tips: Resolving 'Loading' Issues in Madden NFL 22</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-solve-constant-palworld-game-crashes-on-your-computer/"><u>Troubleshooting Tips: Solve Constant PalWorld Game Crashes on Your Computer</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/why-cant-i-install-the-ipogo-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>Why cant I install the ipogo On Apple iPhone 6s | Dr.fone</u></a></li>
 </ul></div>
 

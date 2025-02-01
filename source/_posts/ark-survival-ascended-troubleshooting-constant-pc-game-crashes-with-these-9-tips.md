@@ -1,7 +1,7 @@
 ---
 title: "ARK: Survival Ascended - Troubleshooting Constant PC Game Crashes with These 9 Tips"
-date: 2024-12-30T04:15:15.167Z
-updated: 2025-01-05T17:36:56.695Z
+date: 2025-01-30T02:50:32.964Z
+updated: 2025-02-01T05:03:42.819Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ Recently, many players have reported that**A Total War Saga: Troy keeps crashing
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Although the causes of this issue vary from player to player, here we’ve gathered the latest fixes for the crashing issue. Whether A Total War Saga: Troy crashes on startup or crashes in the middle of the game, you can find a fix to try in this article.
@@ -37,10 +33,6 @@ Recently, many players have reported that**A Total War Saga: Troy keeps crashing
 5. [Stop overclocking](https://tools.techidaily.com/drivereasy/download/)
 6. [Repair Epics Games launcher](https://tools.techidaily.com/drivereasy/download/)
 7. [Add the game folder to the exceptions list of your 3rd party antivirus software](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 1: Verify the game files
 
@@ -78,7 +70,7 @@ There’re mainly two ways you can update your graphics drivers:
 Or
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 2: Automatically (Recommended)
@@ -109,10 +101,6 @@ Or
 
  If the latest graphics driver fails to stop the crash, just read on to try the next fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 3: Install the latest game patch
 
  The game developers release regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -120,6 +108,10 @@ Or
  If a patch is available, it will be detected by Epic Games launcher, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Launch A Total War Saga: Troy to check whether the game crash issue has been resolved. If it hasn’t, or there was no new game patch available, move on to next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Install the latest DirectX files
 
@@ -134,6 +126,10 @@ Or
 
  See if A Total War Saga: Troy crashes again. If this fix didn’t work for you, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 5: Stop overclocking
 
  Many players may try overclocking the CPU or turbo boost the graphics card to gain a better FPS. However, overclocking often crashes the game.
@@ -145,7 +141,7 @@ Or
  If this issue persists after you stopped overclocking, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 6: Repair Epics Games launcher
@@ -158,12 +154,16 @@ Or
 ![Open Programs and Features window in Control Panel](https://images.drivereasy.com/wp-content/uploads/2021/03/Open-Programs-and-Features-window-in-Control-Panel.jpg)
 2. **Right-click** on**Epics Games launcher** and select**Repair** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![how to repair Epics Games launcher](https://images.drivereasy.com/wp-content/uploads/2021/03/how-to-repair-Epics-Games-launcher.jpg)
 
  After Windows repaired Epics Games launcher, launch A Total War Saga: Troy to see if it will crash. If it still crashes, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 7: Add A Total War Saga: Troy to the exceptions list of your 3rd party antivirus software
@@ -199,16 +199,19 @@ Or
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-essential-knowledge-for-recording-movies-anywhere-for-2024/"><u>[New] Essential Knowledge for Recording Movies Anywhere for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-binge-on-christmas-classics-enjoy-9-whole-film-flicks-no-charge/"><u>2024 Approved Binge on Christmas Classics Enjoy 9 Whole-Film Flicks No Charge</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-high-end-graphics-issues-optimizing-warzones-use-of-gpu-in-windows-10/"><u>Fixing High-End Graphics Issues: Optimizing Warzone's Use of GPU in Windows 10</u></a></li>
-<li><a href="https://win-answers.techidaily.com/haley-ba-et-al-nd-glyphosate-occurrence-and-potential-impacts-on-surface-water-ecosystems-a-review-retrieved-from-(httpswwwusgsgovspecial-topicwater-science467/"><u>Haley BA., Et Al (N.d.). Glyphosate Occurrence and Potential Impacts on Surface Water Ecosystems: A Review. Retrieved From <https://www.usgs.gov/special-topic/water-science-school/science/glyphosate-occurrence-and-potential-impacts-surface></u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-building-blocks-for-a-thriving-design-career/"><u>In 2024, Building Blocks for a Thriving Design Career</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/in-2024-top-mp4-editor-for-windows-8-professional-video-editing-made-easy/"><u>In 2024, Top MP4 Editor for Windows 8 Professional Video Editing Made Easy</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcome-zooms-cannot-start-video-glitch-with-these-5-proven-fixes/"><u>Overcome Zoom's 'Cannot Start Video' Glitch with These 5 Proven Fixes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/reducing-loudness-on-your-ps4-console-diagnosis-and-repair-guide/"><u>Reducing Loudness on Your PS4 Console: Diagnosis and Repair Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-pc-issues-effective-strategies-to-resolve-gray-zone-warfare-game-crashes/"><u>Solving PC Issues: Effective Strategies to Resolve Gray Zone Warfare Game Crashes</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/solving-the-mystery-of-code-43-troubleshooting-a-step-by-step-guide/"><u>Solving the Mystery of Code 43 Troubleshooting: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/warzone-gameplay-uninterrupted-eliminating-pc-read-errors-in-versions-50-and-31/"><u>Warzone Gameplay Uninterrupted: Eliminating PC Read Errors in Versions 5.0 and 3.1</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-the-ultimate-list-of-coolest-mc-homes-designed/"><u>[New] 2024 Approved The Ultimate List of Coolest MC Homes Designed</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-prime-video-to-text-technology-now/"><u>[Updated] Prime Video-to-Text Technology, Now</u></a></li>
+<li><a href="https://games-able.techidaily.com/console-to-pc-discover-the-game-changing-reasons/"><u>Console to PC: Discover the Game-Changing Reasons</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/daily-movie-storage-hours-to-gb-calculation-for-2024/"><u>Daily Movie Storage Hours to GB Calculation for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/defeat-youtube-disruptions-effective-ways-to-play-without-interruption/"><u>Defeat YouTube Disruptions: Effective Ways to Play Without Interruption</u></a></li>
+<li><a href="https://win-answers.techidaily.com/essential-fixes-overcome-issues-with-world-of-warships-on-pc-in-just-five-steps/"><u>Essential Fixes: Overcome Issues with World of Warships on PC in Just Five Steps</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-addressing-game-crash-problems-in-persona-3-portable-edition-for-pc-users/"><u>Expert Tips: Addressing Game Crash Problems in Persona 3: Portable Edition for PC Users</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/foundations-of-cinematography-15-must-know-shot-types-for-2024/"><u>Foundations of Cinematography 15 Must-Know Shot Types for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-prospective-software-for-precision-in-animated-3d-modeling/"><u>In 2024, Prospective Software for Precision in Animated 3D Modeling</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-the-numbers-game-estimating-income-from-viral-content/"><u>In 2024, The Numbers Game Estimating Income From Viral Content</u></a></li>
+<li><a href="https://win-answers.techidaily.com/maplestory-fixes-prominent-startup-errors-game-functions-perfectly/"><u>MapleStory Fixes Prominent Startup Errors – Game Functions Perfectly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-persistent-frost-in-the-new-world-scenario/"><u>Resolved: Persistent Frost in the 'New World' Scenario</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-for-nonfunctioning-lenovo-mouse-pads-in-windows-operating-systems-1187/"><u>Troubleshooting Guide for Nonfunctioning Lenovo Mouse Pads in Windows Operating Systems (11/8/7)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-resolving-football-manager-2019-sudden-shutdown-issues/"><u>Ultimate Guide: Resolving Football Manager 2019 Sudden Shutdown Issues</u></a></li>
 </ul></div>
 
