@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Uncover the Causes Behind Age of Empires IV Not Starting and How to Fix It"
-date: 2024-08-19T00:46:07.616Z
-updated: 2024-08-20T00:46:07.616Z
+date: 2025-02-11T23:31:01.902Z
+updated: 2025-02-14T17:53:53.649Z
 tags:
   - win11
   - win10
@@ -15,19 +15,12 @@ thumbnail: https://thmb.techidaily.com/04f98c03565f60c0b0ad3b1ba3f80966cc746c43e
 
 ## Size and Mass of the Colliding Objects - Larger Vehicles Can Cause Significant Damage Due to Their Size and Momentum
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-65.png)
 
  Despite some very positive reviews about Armored Core 6: Fires of Rubicon, there are, however, various gamers who reported that they’ve experienced frequent crashes on PC. Even though the devs have released an updated version that was supposed to fix the crashing problem once and for all, the new version is still crashing for some players.
 
  If you’re also seeing crashes with your Armored Core 6: Fires of Rubicon, don’t worry, we have gathered some of the proven fixes that have helped many other gamers with their game crashing problem, and you may want to give them a try as well.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Try these fixes for the Armored Core 6: Fires of Rubicon crashing issue
 
  You don’t need to try all the following methods: simply work your way down the list until you find the one that does the trick to fix the crashing problem with Armored Core 6: Fires of Rubicon for you.
@@ -63,6 +56,10 @@ Here are the requirements for your reference:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Verify game files
 
  Corrupted or damaged game files could also be the culprits to the crashing of Armored Core 6: Fires of Rubicon, and verifying game files from within Steam helped to fix the crashing problem, according to some gamers in the Steam forum. So the next thing you should do here is to repair the game files. To do so:
@@ -70,13 +67,14 @@ Here are the requirements for your reference:
 1. Launch Steam.
 2. In the**LIBRARY** , right-click on your game and select**Properties** from the drop-down menu.  
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-properties.jpg)
 3. Select the**Installed Files** tab and click on the**Verified integrity of game files** button.  
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Steam will verify the game’s files – this process may take several minutes.
 
@@ -84,9 +82,6 @@ Here are the requirements for your reference:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Run the game as admin and in compatibility mode
 
  Some gamers reported that running Armored Core 6: Fires of Rubicon as administrator (and preferably in compatibility mode as well) also helped to stop it from crashing. This is probably because giving the game administrator privileges ensures its full rights to do anything it needs on your computer. Lacking certain rights to use system files could be the reason why Armored Core 6: Fires of Rubicon crashes at some point.
@@ -98,8 +93,9 @@ Here are the requirements for your reference:
 2. Select the **Compatibility**  tab. Tick the box for **Run this program as an administrator** . Then click **Apply > OK**  to save the changes.  
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-57.png)
 3. Then tick the box for **Run this program in compatibility mode for:**  then select **Windows 8** from the dropdown list.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-58.png)
@@ -109,17 +105,15 @@ Here are the requirements for your reference:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Update graphics card driver
 
  An outdated or incorrect display card driver could also be the culprit to your Armored Core 6: Fires of Rubicon’s crashing problem, so if the above methods don’t help to fix it, it’s likely that you have a corrupted or outdated graphics driver. So you should update your drivers to see if it helps.
 
  There are mainly 2 ways you can update your graphics driver: manually or automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ### Option 1: Update your graphics driver manually
 
  If you’re a tech-savvy gamer, you can spend some time updating your GPU driver manually.
@@ -143,6 +137,11 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -152,24 +151,24 @@ To do so, first visit the website of your GPU manufacturer:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Turn off RTX (Ray Tracing)
 
  If your Armored Core 6: Fires of Rubicon usually crashes in the middle of the game, it’s probably helpful if you can**turn off Ray Tracing** , which helps to produce realistic lighting effects, adding an extra level of realism to the game. But ray tracing also takes much processing power, which could cause problems like game crashing or freezing. To see if turning of ray tracing helps:
 
 1. Launch Armored Core 6: Fires of Rubicon and go to settings. Then click SYSTEM.  
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-59.png)
 2. Select**Graphics Settings** , then**Quality Settings (Detailed)** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-60.png)
 3. Select Ray Tracing Quality at the bottom, and set it to  
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-61.png)
 4. Select**OFF** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-62.png)
@@ -199,8 +198,6 @@ If Armored Core 6: Fires of Rubicon still crashes, please move on.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -208,4 +205,24 @@ If Armored Core 6: Fires of Rubicon still crashes, please move on.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-the-finest-9-mic-recording-devices-compared-for-2024/"><u>[New] The Finest 9 Mic Recording Devices Compared for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-unveiling-the-secrets-to-profitable-brands-partnerships-on-youtube/"><u>[Updated] Unveiling the Secrets to Profitable Brands Partnerships on YouTube</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-free-frameworks-for-every-movie-epilogue-you-dream/"><u>2024 Approved Free Frameworks for Every Movie Epilogue You Dream</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-steam-vac-denial-for-gaming-sessions/"><u>Addressing Steam VAC Denial for Gaming Sessions</u></a></li>
+<li><a href="https://facebook.techidaily.com/analyzing-the-roi-of-hashtag-campaigns-within-facebook-advertising/"><u>Analyzing the ROI of HashTag Campaigns Within Facebook Advertising</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cracking-the-code-to-trouble-free-pc-gameplay-in-a-total-war-saga-troy/"><u>Cracking The Code To Trouble-Free PC Gameplay In 'A Total War Saga - Troy'</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/find-the-ideal-tablet-for-you-a-comprehensive-look-at-comparing-devices-based-on-physical-specs/"><u>Find the Ideal Tablet for You: A Comprehensive Look at Comparing Devices Based on Physical Specs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-stuck-boot-problem-expert-tips-to-get-your-hogwarts-legacy-running/"><u>Fixing the Stuck Boot Problem: Expert Tips to Get Your Hogwarts Legacy Running</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-address-unresponsiveness-in-your-mobile-pubg-gameplay/"><u>How to Address Unresponsiveness in Your Mobile PUBG Gameplay</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-analysis-unleashing-powerful-features-of-onetastic-plugin-in-ms-onenote/"><u>In-Depth Analysis: Unleashing Powerful Features of Onetastic Plugin in MS OneNote</u></a></li>
+<li><a href="https://win-answers.techidaily.com/masterclass-on-curtailing-intense-cpu-use-during-starfield-sessions-gamers-guide-to-a-smooth-experience/"><u>Masterclass on Curtailing Intense CPU Use During Starfield Sessions - Gamer's Guide to a Smooth Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-and-easy-troubleshooting-guide-for-overcoming-nba-2k20-crashes/"><u>Quick & Easy Troubleshooting Guide for Overcoming NBA 2K20 Crashes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/real-time-latest-discounts-on-vpn-services-featured-by-zdnet/"><u>Real-Time Latest Discounts on VPN Services Featured by ZDNet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-world-of-warcraft-wont-start-errors-on-windows-and-mac/"><u>Resolving 'World of Warcraft Won't Start' Errors on Windows and Mac</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-guide-why-cant-i-play-starfield-how-to-fix-launch-problems-in-steam-and-xbox/"><u>Solution Guide: Why Can't I Play Starfield? How to Fix Launch Problems in Steam and Xbox</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solve-it-once-and-for-all-eradicating-crashes-in-red-dead-online-while-gaming-on-pc/"><u>Solve It Once & For All: Eradicating Crashes in Red Dead Online While Gaming on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-fixing-low-speed-downloads-on-utorrent/"><u>Troubleshooting: Fixing Low-Speed Downloads on uTorrent</u></a></li>
+</ul></div>
 

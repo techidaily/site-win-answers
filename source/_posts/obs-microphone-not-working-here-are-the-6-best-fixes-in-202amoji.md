@@ -1,7 +1,7 @@
 ---
 title: OBS Microphone Not Working? Here Are the 6 Best Fixes in 202Amoji
-date: 2024-08-19T00:42:45.489Z
-updated: 2024-08-20T00:42:45.489Z
+date: 2025-02-11T16:53:51.878Z
+updated: 2025-02-15T06:14:28.263Z
 tags:
   - win11
   - win10
@@ -20,8 +20,9 @@ One of the most frustrating issues faced by Warzone fans is related to game text
  If your game is also unplayable due to texture glitches, don’t panic. Here’re some fixes you can try.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fixes to try
 
  You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -34,8 +35,9 @@ One of the most frustrating issues faced by Warzone fans is related to game text
 6. **[Stop overclocking your GPU](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 1: Update your graphics driver
 
  The graphics processing unit (GPU), or your graphics card, has the most impact on your gameplay experience. And your graphics driver is essential for getting top performance from your GPU. If you’re using an outdated graphics driver, it could result in rendering glitches. So try updating your graphics driver and then running the game again.
@@ -50,9 +52,6 @@ One of the most frustrating issues faced by Warzone fans is related to game text
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-57-32.jpg)
 3. Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-58-08.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -78,9 +77,6 @@ If the texture is still not loading correctly, try Fix 3 below.
 1. Launch the game.
 2. Go to**Settings > Graphics > Shadow & Lighting** .
 3. Turn off the**Cache Sun Shadow Maps** and**Cache Spot Shadow Maps** toggle.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_11-45-08.jpg)
 4. Save your change and relaunch the game to test the issue.
 
@@ -96,18 +92,26 @@ If the texture is still not loading correctly, try Fix 3 below.
 3. On your keyboard, press the**Windows logo key** and**R** at the same time.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_10-52-19.jpg)
 4. Copy**%ProgramData%** and paste it into the text box, then click**OK** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_11-06-00.jpg)
 5. Delete the**Battle.net** and**Blizzard Entertainment** folder. (This will not affect your game data.)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Relaunch Battle.net and Warzone to test your issue.
 
 If the texture issue persists, move on and try the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 5:**Switch to your dedicated GPU**
 
  Gameplay is a demanding task that requires a strong GPU. If you have more than one GPU, an integrated and a dedicated one, it could be that the game is running with the wrong GPU.
@@ -152,8 +156,6 @@ If the texture issue persists, move on and try the next solution.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -161,4 +163,22 @@ If the texture issue persists, move on and try the next solution.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-cut-the-cost-on-downloads-exclusive-access-to-this-list-of-23-affordable-extractors/"><u>[New] 2024 Approved Cut the Cost on Downloads Exclusive Access to This List of 23 Affordable Extractors</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-virtual-skirmishes-of-legends-top-7-total-war-battles/"><u>[Updated] 2024 Approved Virtual Skirmishes of Legends – Top 7 Total War Battles</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-studio-luminance-ranking-the-best-17-light-devices/"><u>[Updated] Studio Luminance Ranking the Best 17 Light Devices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-windows-high-dynamic-range-potential/"><u>2024 Approved Unlocking Windows' High Dynamic Range Potential</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/best-high-efficiency-video-coding-players-of-2023-top-picks-for-both-windows-and-macos-systems/"><u>Best High-Efficiency Video Coding Players of 2023: Top Picks for Both Windows and macOS Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-fixes-for-persistent-kodi-software-breakdowns/"><u>Effective Fixes for Persistent Kodi Software Breakdowns</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-solutions-implemented-to-fix-recurrent-crashing-in-the-revived-diablo-ii/"><u>Effective Solutions Implemented to Fix Recurrent Crashing in the Revived Diablo II</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-devotion-how-an-apple-vision-pro-pitch-revealed-deep-emotions-according-to-a-zdnet-article-love-and-technology-collide/"><u>Exploring Devotion: How an Apple Vision Pro Pitch Revealed Deep Emotions, According to a ZDNet Article | Love & Technology Collide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723013463899-far-cry-5-load-screen-troubles-here-are-your-answers/"><u>Far Cry 5 Load Screen Troubles? Here Are Your Answers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-mastering-personal-tones-androids-ringtone-and-sound-guide/"><u>In 2024, Mastering Personal Tones Android's Ringtone & Sound Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-low-cpu-playthroughs-in-god-of-war-tips-and-tricks-unveiled/"><u>Mastering Low-CPU Playthroughs in God of War: Tips and Tricks Unveiled</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-fortnite-login-glitches-with-these-simple-steps-expert-guide/"><u>Overcome Fortnite Login Glitches with These Simple Steps! | Expert Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-endless-entertainment-with-these-8-prime-free-roku-channels-of-2024/"><u>Unlock Endless Entertainment with These 8 Prime, Free Roku Channels of 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/winning-over-windows-11-gaming-glitches-with-steam-solutions/"><u>Winning Over Windows 11 Gaming Glitches with Steam Solutions</u></a></li>
+</ul></div>
 

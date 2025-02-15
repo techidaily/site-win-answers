@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Tips to Stop Assassin's Creed Odyssey From Crashing on PC Easily
-date: 2025-01-27T01:10:05.629Z
-updated: 2025-01-31T21:00:05.919Z
+date: 2025-02-08T03:21:11.134Z
+updated: 2025-02-14T19:32:51.655Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ Although[Assassin’s Creed Valhalla](https://www.epicgames.com/store/en-US/p/as
 4. [**Verify the integrity of your game files**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Reinstall Assassin’s Creed Valhalla](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1 – Check the minimum specs of Assassin’s Creed Valhalla
 
  Before playing an intensive video game like AC Valhalla, you should make sure your setup meets its minimum requirements. Otherwise, it would be impossible to launch the game.
@@ -48,10 +52,6 @@ Although[Assassin’s Creed Valhalla](https://www.epicgames.com/store/en-US/p/as
 | **Hard Drive space** | 50 GB (SSD recommended)                                                                             |
 
  If your rig is up to handling the game, please move on to some deeper fixes below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2 – Update your graphics driver
 
@@ -76,6 +76,10 @@ There are mainly two ways to update the graphics driver:
 
  Relaunch the game to check its performance with your newly-installed graphics driver. If the update doesn’t do the trick, go ahead with the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3 – Run the game as an administrator
 
  Granting Assassin’s Creed Valhalla necessary administrative permissions can make sure the game runs properly. Here’s how to enable the administrator mode for it:
@@ -90,12 +94,12 @@ There are mainly two ways to update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-4-2.jpg)
 4. Right-click the**ACValhalla.exe file** and click**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-5.jpg)
 5. Navigate to the**Compatibility** tab. Then, tick**Run this program as an administrator** and click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-6-1.jpg)
 6. Launch the ACValhalla.exe file directly from the installation folder and see how it works.
@@ -103,7 +107,7 @@ There are mainly two ways to update the graphics driver:
 If the issue persists, head to the fixes below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4 – Verify the integrity of your game files
@@ -114,24 +118,20 @@ If the issue persists, head to the fixes below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-4.jpg)
 2. Move your mouse cursor over the title of Assassin’s Creed Valhalla. Then, click the**downward triangle icon** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/3-1-3.jpg)
 3. Click**Verify files** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/3-2-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After the process completes, relaunch the game to test. If this method doesn’t work, try the next one below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5 – Reinstall Assassin’s Creed Valhalla
 
@@ -169,22 +169,18 @@ If the issue persists, head to the fixes below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-streamlining-video-editing-using-luts-with-obs-studio/"><u>[New] In 2024, Streamlining Video Editing Using LUTs with OBS Studio</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-iphones-high-dynamic-range-photography-demystified-for-2024/"><u>[New] IPhone's High-Dynamic Range Photography Demystified for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/boosting-ppt-media-rendering-velocity/"><u>Boosting PPT Media Rendering Velocity</u></a></li>
-<li><a href="https://howto.techidaily.com/bricked-your-realme-narzo-60-5g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Realme Narzo 60 5G? Heres A Full Solution | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722998448081-evil-genius-ng-wont-launch-heres-how-to-troubleshoot-and-fix-it/"><u>Evil Genius nG Won’t Launch? Here's How to Troubleshoot and Fix It!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-ark-crashes-effective-methods-for-a-smoother-user-experience/"><u>Fixing ARK Crashes: Effective Methods for a Smoother User Experience</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-unstoppable-snowrunner-pc-glitch-a-guide-to-stabilizing-your-gaming-experience/"><u>Fixing the Unstoppable SnowRunner PC Glitch: A Guide to Stabilizing Your Gaming Experience</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-overcome-the-cannot-display-webpage-hurdle-on-ie/"><u>How to Overcome the ‘Cannot Display Webpage’ Hurdle on IE</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-exclusive-farewell-to-game-costs/"><u>In 2024, Exclusive Farewell to Game Costs</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/optimize-website-performance-with-advanced-cookiebot-tools/"><u>Optimize Website Performance with Advanced Cookiebot Tools</u></a></li>
-<li><a href="https://win-answers.techidaily.com/revive-your-steelseries-gg-controller-troubleshooting-the-non-responsive-engine-issue-in-windows/"><u>Revive Your SteelSeries GG Controller: Troubleshooting the Non-Responsive Engine Issue in Windows</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-non-functional-issues-with-your-macbook-pro-keyboard-a-step-by-step-guide/"><u>Solving Non-Functional Issues with Your MacBook Pro Keyboard: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/stop-the-disruption-effective-ways-to-address-outlooks-crashing-problem/"><u>Stop the Disruption: Effective Ways to Address Outlook's Crashing Problem</u></a></li>
-<li><a href="https://article-helps.techidaily.com/the-future-of-editing-with-vita-a-complete-review-for-2024/"><u>The Future of Editing with Vita - A Complete Review for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-pc-and-xbox-solving-the-mystery-of-mass-effect-legendary-edition-crashes/"><u>Troubleshooting PC and Xbox: Solving the Mystery of Mass Effect Legendary Edition Crashes</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210342635-9781737648222-unravel-the-thread/"><u>Unravel the Thread | Free Book</u></a></li>
-<li><a href="https://win-answers.techidaily.com/valorant-pc-stability-issues-resolved-expert-tips-and-solutions/"><u>Valorant PC Stability Issues Resolved? Expert Tips & Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-device-not-migrated-on-windows-10/"><u>[Solved] Device Not Migrated on Windows 10</u></a></li>
+<li><a href="https://win-answers.techidaily.com/windows101112/"><u>「Windows」で始める！10・11対応のベストフリー音声編集ソフトウェア12選をご紹介 - 検索最適化されたタイトル</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1726027051346-windows-11/"><u>最新Windows 11で音声・音楽ファイル編集を習得する - 使えるソフトウェア一覧</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/chargetech-27000mah-battery-pack-review-large-capacity/"><u>ChargeTech 27000mAh Battery Pack Review: Large Capacity</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1726028027720-clipchamp/"><u>Clipchampでビデオ圧縮が可能か調べましょう</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1726028264960-dvd/"><u>DVD 地域コード制限解除のための効果的な手順</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-7-plus-drfone-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-essential-iphone-apps-the-cream-of-the-crop-reviewed-and-recommended/"><u>New In 2024, Essential iPhone Apps The Cream of the Crop, Reviewed and Recommended</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-say-goodbye-to-watermarks-filmora-removal-techniques/"><u>New Say Goodbye to Watermarks Filmora Removal Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-tablet-tools-best-notes-companions-in-win/"><u>Top Tablet Tools: Best Notes' Companions in Win</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/video-flexibility-unleashed-5-powerful-online-methods-to-edit-videos-on-vimeo-for-2024/"><u>Video Flexibility Unleashed 5 Powerful Online Methods to Edit Videos on Vimeo for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/windowsmac-pcmov/"><u>WindowsとMac両方用: PC上のMOVファイルを簡単にカットするコツ</u></a></li>
+<li><a href="https://win-answers.techidaily.com/wmawavwmawav/"><u>WMAとWAVでは異なる点と、WMAをWAVにどう変換するか</u></a></li>
 </ul></div>
 

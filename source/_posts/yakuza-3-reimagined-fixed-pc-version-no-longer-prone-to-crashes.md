@@ -1,7 +1,7 @@
 ---
 title: "Yakuza 3 Reimagined: Fixed PC Version No Longer Prone to Crashes"
-date: 2025-01-02T18:58:13.450Z
-updated: 2025-01-06T00:28:06.814Z
+date: 2025-02-10T21:20:16.195Z
+updated: 2025-02-15T03:05:53.227Z
 tags:
   - win11
   - win10
@@ -38,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/72f83f594e8347a65931f8cd6726d7752e9fa455e
 
 [6: Use a VPN](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Check the server status
 
  The first thing you can do is to check the server status. If there’s an outage or the game is currently under maintenance, you’ll be able to get notifications from[Halo Support Twitter](https://twitter.com/HaloSupport) . Or you can head to[Halo Infinite Steam forum](https://steamcommunity.com/app/1240440/discussions/) or[Reddit](https://www.reddit.com/r/halo/) to see if there’s any news from fellow players.
@@ -70,15 +66,11 @@ thumbnail: https://thmb.techidaily.com/72f83f594e8347a65931f8cd6726d7752e9fa455e
 3. Under the**local files** tab, click**Verify integrity of game files** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/verify-game-files-1.jpg)
 4. This process may take a while. Once the scan is complete, restart the game to see if you still get the error.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If the error returns, try the next fix.
 
@@ -97,7 +89,7 @@ If the error returns, try the next fix.
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to the flagged network adapter driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
@@ -108,10 +100,6 @@ If the error returns, try the next fix.
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your PC for the new drivers to take effect. If updating your network driver doesn’t help, try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 5: Configure DNS settings
 
@@ -130,13 +118,21 @@ If the error returns, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/run-cmd.png)
 3. Copy**ipconfig /flushdns** , and paste it in the pop-up window. Then press**Enter** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/flushdns的副本.png)
 4. Your DNS cache is successfully cleared.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2: Switch to a public DNS server
@@ -153,6 +149,10 @@ If the error returns, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
 
@@ -161,11 +161,11 @@ If the error returns, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If changing the DNS settings doesn’t solve your problem, there’s one more fix you can try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 6: Use a VPN
 
@@ -198,19 +198,22 @@ If the error returns, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-seamless-acquisition-of-everyday-online-footage-fb-status-videos-for-2024/"><u>[Updated] Seamless Acquisition of Everyday Online Footage FB Status Videos for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726028582576-and/"><u>「さまざまなビデオ&オーディオコーデック間でのフォーマット変換技術に関するガイド」</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726027654580-and/"><u>「セキュリティ確保のもとで安心してエロコンテンツダウンロード&保管術」</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-a-step-by-step-guide-through-youtubes-aspect-ratio-landscapes/"><u>2024 Approved A Step-by-Step Guide Through YouTube's Aspect Ratio Landscapes</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/groundbreaking-bitcoin-etf-hits-15b-mark-as-discount-aligns-with-surge-to-69k-btc-value-analysis-from-yl-software-solutions/"><u>Groundbreaking Bitcoin ETF Hits $1.5B Mark as 'Discount' Aligns with Surge to $69K BTC Value – Analysis From YL Software Solutions</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-infinix-note-30-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Infinix Note 30 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/official-downloads-installing-logitechs-gaming-mouse-driver-on-windows-operating-systems/"><u>Official Downloads: Installing Logitech's Gaming Mouse Driver on Windows Operating Systems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726028165521-swfmp4/"><u>SWFからMP4に変換方法・失敗した原因と解決策</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/the-essential-audio-interface-for-your-podcaster-for-2024/"><u>The Essential Audio Interface for Your Podcaster for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-rated-budget-friendly-portable-chargers-comprehensive-expert-reviews-by-zdnet/"><u>Top-Rated Budget-Friendly Portable Chargers : Comprehensive Expert Reviews by ZDNet</u></a></li>
-<li><a href="https://extra-information.techidaily.com/videoapp-insight-a-comprehensive-evaluation/"><u>VideoApp Insight A Comprehensive Evaluation</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726027231009-vlc/"><u>VLCメディアプレーヤーで効果的なスクリーン録画・キャプチャ技術：詳細ガイド</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726027840920-youtube/"><u>YouTubeで動画の背景から再生可能にするコツ</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726028992510-5/"><u>ゲームライブ撮影ソフトウェア 最新無料版5選！初心者も使いやすい編集ツールの完全ガイド</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-rise-in-popularity-top-10-must-try-instagram-hashtags/"><u>[New] Rise in Popularity Top 10 Must-Try Instagram Hashtags</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/he-visionary-viewers-verdict-your-channel-vs-contenders-content/"><u>[New] The Visionary Viewers' Verdict Your Channel Vs. Contenders’ Content</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-no-more-black-fringe-in-youtube-videos/"><u>[Updated] 2024 Approved No More Black Fringe in YouTube Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-5-outstanding-racing-simulations-for-gamers/"><u>[Updated] 5 Outstanding Racing Simulations for Gamers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/dead-by-daylight-2024-update-fixes-and-troubleshooting-guide-to-stop-game-crashes/"><u>Dead By Daylight 2024 Update: Fixes and Troubleshooting Guide to Stop Game Crashes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhance-website-analytics-using-cookiebot-technology-precise-data-collection-methods/"><u>Enhance Website Analytics Using Cookiebot Technology – Precise Data Collection Methods</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exclusive-preview-dells-latest-tech-unleashed-xps-and-inspiron-laptops-powered-by-qualcomm-snapdragon-ready-for-q3-launch/"><u>Exclusive Preview: Dell's Latest Tech Unleashed – XPS and Inspiron Laptops Powered by Qualcomm Snapdragon Ready for Q3 Launch!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-steam-cannot-login-expert-solutions-and-troubleshooting-tips/"><u>Fixing 'Steam Cannot Login': Expert Solutions and Troubleshooting Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-league-of-legends-crashing-issues-like-a-pro-effortlessly/"><u>Fixing League of Legends Crashing Issues Like a Pro, Effortlessly</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-elevating-experience-with-the-right-music-for-vids/"><u>In 2024, Elevating Experience with the Right Music for Vids</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-meizu-21-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Meizu 21 Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/origin-not-working-heres-how-you-can-get-it-up-and-running-smoothly/"><u>Origin Not Working? Here's How You Can Get It Up and Running Smoothly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-freeze-problems-with-chrome-on-windows-11-computers-easily/"><u>Overcoming Freeze Problems with Chrome on Windows 11 Computers Easily</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/perfect-system-how-to-add-and-protect-your-bios-hyperlink-on-tiktok/"><u>Perfect System How to Add and Protect Your Bio's Hyperlink on TikTok</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-issue-origin-online-login-now-accessible/"><u>Resolved Issue: Origin Online Login Now Accessible</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-steps-why-cant-internet-explorer-present-my-web-page/"><u>Solution Steps: Why Can't Internet Explorer Present My Web Page?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-resolving-battleday-5-pc-stability-issues-and-crashes/"><u>Troubleshooting Tips: Resolving Battleday 5 PC Stability Issues & Crashes</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Virtualization: A Stepwise Process to Enable Hyper-V on Your Windows 11 PC"
-date: 2025-01-30T20:55:32.263Z
-updated: 2025-01-31T21:03:23.556Z
+date: 2025-02-09T17:59:55.588Z
+updated: 2025-02-15T01:27:39.884Z
 tags:
   - win11
   - win10
@@ -35,10 +35,6 @@ Recently, we’ve seen many players reporting that**Dirt 5 keeps crashing** on t
 5. **[Set launch options on Steam](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Stop overclocking](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Update your graphics driver
 
 The outdated or broken graphics driver often crashes the game.
@@ -58,18 +54,18 @@ The outdated or broken graphics driver often crashes the game.
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click the **Update** button next to a device to automatically download the correct version of their driver, then you can manually install the driver (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 4. Restart your PC after you finished updating your graphics driver.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  See if the latest graphics driver stops the Dirt 5 from crashing. If not, don’t worry. Try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 2: Verify the game files
@@ -81,6 +77,10 @@ The outdated or broken graphics driver often crashes the game.
 2. Click **the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .  
 
 ![LOCAL FILES>VERIFY INTEGRITY OF GAME CACHE...](https://images.drivereasy.com/wp-content/uploads/2019/04/image-120.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It may take some time to finish verifying the game files. Launch the game after the verifying process completed to see if this fix works. If not, try the next fix, below.
 
@@ -100,13 +100,13 @@ The outdated or broken graphics driver often crashes the game.
 ![Steam->properties](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
 2. Uncheck**Enable Steam Overlay while in-game** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Disable Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-Steam-Overlay.jpg)
 
  Launch Dirt 5 to see if the game crashes. If the issue persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Set launch options on Steam
 
@@ -122,7 +122,7 @@ The outdated or broken graphics driver often crashes the game.
  Launch the game to see if it crashes again. If it still crashes, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 6: Stop overclocking
@@ -155,18 +155,22 @@ The outdated or broken graphics driver often crashes the game.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-shine-brightly-youtubes-17-must-have-illumination/"><u>[Updated] In 2024, Shine Brightly! YouTube's #17 Must-Have Illumination</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-preserve-your-pics-and-videos-top-15-tools-reviewed/"><u>[Updated] Preserve Your Pics & Videos Top 15 Tools Reviewed</u></a></li>
-<li><a href="https://win-answers.techidaily.com/counter-strike-2-performance-troubleshooting-overcoming-high-ping-and-latency/"><u>Counter Strike 2 Performance Troubleshooting: Overcoming High Ping and Latency</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/eight-essential-free-fb-link-extractors/"><u>Eight Essential Free FB Link Extractors</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fix-the-graphics-driver-crashed-issue-in-valorant-quick-solution/"><u>Fix the 'Graphics Driver Crashed' Issue in Valorant - Quick Solution</u></a></li>
-<li><a href="https://fox-info.techidaily.com/how-to-banish-spotifys-recommended-podcasts/"><u>How to Banish Spotify's Recommended Podcasts</u></a></li>
-<li><a href="https://facebook.techidaily.com/how-to-tag-someone-on-facebook-3-different-ways/"><u>How to Tag Someone on Facebook: 3 Different Ways</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-instagram-video-a-complete-guide-to-content-posting/"><u>In 2024, Instagram Video A Complete Guide to Content Posting</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-frame-drops-and-hitches-in-outriders-for-smooth-gaming-on-pc/"><u>Solving Frame Drops and Hitches in Outriders for Smooth Gaming on PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-the-mute-mystery-in-evil-genius-2-a-step-by-step-guide-to-get-volume-back/"><u>Solving the Mute Mystery in 'Evil Genius 2': A Step-by-Step Guide to Get Volume Back</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/sourcing-widespread-echoes-of-despair-soundscapes/"><u>Sourcing Widespread Echoes of Despair Soundscapes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-digital-debate-chatgpt-versus-bings-bot-dialogues/"><u>The Digital Debate: ChatGPT Versus Bing's Bot Dialogues</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-ultimate-guide-to-preventing-chatgpt-mishaps/"><u>The Ultimate Guide to Preventing ChatGPT Mishaps</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-a-beginners-pathway-to-innovative-snapchat-expressions/"><u>[New] 2024 Approved A Beginner's Pathway to Innovative Snapchat Expressions</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-demystifying-video-recordingediting-a-comprehensive-guide-on-adobe-connect/"><u>[New] In 2024, Demystifying Video Recording/Editing A Comprehensive Guide on Adobe Connect</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-deciphering-the-language-of-youtube-thumbnails-effectiveness-for-2024/"><u>[Updated] Deciphering the Language of YouTube Thumbnails Effectiveness for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-bite-sized-urls-essential-tools-for-youtubers-to-streamline-sharing/"><u>[Updated] In 2024, Bite-Sized URLs Essential Tools for Youtubers to Streamline Sharing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1-top-pick-flawless-conversion-of-avchd-video-files-guide-to-ensuring-seamless-compatibility-and-quality/"><u>1. Top Pick: Flawless Conversion of AVCHD Video Files - Guide to Ensuring Seamless Compatibility & Quality</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1-transform-your-mpc-files-into-wav-format-effortlessly-free-guide/"><u>1. Transform Your MPC Files Into WAV Format Effortlessly - Free Guide!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1725284634181-2024/"><u>2024 最新預測前五大熱門無價直播解析</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722975822323-effortlessly-enhance-your-pc-with-nahimic-drivers-what-you-need-to-know/"><u>Effortlessly Enhance Your PC with Nahimic Drivers – What You Need to Know!</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-infinix-note-30-vip-racing-editionwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Infinix Note 30 VIP Racing Editionwith/without a PC</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-propella-amidst-a-storm-said-mr-hawkins-his-eyes-reflecting-a-mix-of-concern-and-resilience-this-is-no-ordinary-storm-its-been-brewing126/"><u>The Ultimate Guide to Propella Amidst a Storm, Said Mr. Hawkins, His Eyes Reflecting a Mix of Concern and Resilience. This Is No Ordinary Storm; It's Been Brewing for Years, Hidden From Our Sight by the Deceptive Calm.</u></a></li>
+<li><a href="https://win-answers.techidaily.com/twittergif/"><u>Twitterで活躍するGIFガイド:作成から投稿までの手順</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-to-cctv-mp4-encoding-seamless-conversion-of-surveillance-videos-for-enhanced-viewing-experience/"><u>Ultimate Guide to CCTV MP4 Encoding: Seamless Conversion of Surveillance Videos for Enhanced Viewing Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-setting-up-the-superior-sg-wizard-in-kodi-with-top-tier-leia-configurations/"><u>Ultimate Guide: Setting Up the Superior SG Wizard in Kodi with Top-Tier Leia Configurations</u></a></li>
+<li><a href="https://win-answers.techidaily.com/understanding-the-difference-how-does-1080p-compare-to-4k-and-converting-4k-to-1080p/"><u>Understanding the Difference: How Does 1080P Compare to 4K and Converting 4K to 1080P</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-gadgets-with-tom/"><u>Unveiling Gadgets with Tom</u></a></li>
+<li><a href="https://win-answers.techidaily.com/windows-11vobmp4/"><u>Windows 11上のVOBファイルをMP4形式に効率良く変換するための最新４つの手法</u></a></li>
+<li><a href="https://win-answers.techidaily.com/youtubeyoukuchrome/"><u>フリーチェック: YouTubeやYoukuなどChromeを使ってスムーズに動画保存</u></a></li>
 </ul></div>
 

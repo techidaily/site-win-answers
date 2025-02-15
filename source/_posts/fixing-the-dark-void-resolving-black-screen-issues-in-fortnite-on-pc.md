@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Dark Void: Resolving Black Screen Issues in Fortnite on PC"
-date: 2025-01-28T03:55:53.591Z
-updated: 2025-02-01T02:57:26.729Z
+date: 2025-02-07T23:01:49.091Z
+updated: 2025-02-15T04:23:32.146Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/79f38eb573cc99e5f54bf7180a8b2f400aa646add
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here are 5 fixes that have helped other Fortnite PC players get Fortnite working again. You may not have to try them all; just work your way down the list until you find one that works for you.
@@ -46,19 +50,15 @@ thumbnail: https://thmb.techidaily.com/79f38eb573cc99e5f54bf7180a8b2f400aa646add
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bea7fe50b1fe.jpg)
 2. Scroll through and end each**NVIDIA** task.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Note: 1-3 may relaunch themselves, which is perfectly normal and fine. You’re basically restarting those programs.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bea4de7be1a0.jpg)
 3. Relaunch Fortnite and see if your Fortnite not loading problem is resolved. If not, try Fix 2, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: If you use Geforce Experience, turn off the share in-game overlay
 
@@ -68,8 +68,16 @@ thumbnail: https://thmb.techidaily.com/79f38eb573cc99e5f54bf7180a8b2f400aa646add
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bea6be4696a8.png)
 2. From the**GENERAL** panel,**toggle off** the**SHARE** feature.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bea6c4a17b8a.jpg)
 3. Run Fortnite and test if it loads properly. If not, try Fix 3, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -92,17 +100,13 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bea4c9c13ba1.jpg)
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee.)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bea4d0c0cbac.jpg)
 4. Restart your computer and check if Fortnite now runs properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Fix 4, below.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Run Fortnite as administrator
@@ -117,10 +121,6 @@ OR
 4. Test if the problem is resolved. If not, try the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Check for account issues
 
@@ -155,21 +155,21 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-boosting-customer-engagement-with-targeted-tiktok-campaigns-for-2024/"><u>[New] Boosting Customer Engagement with Targeted TikTok Campaigns for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/our-guide-to-youtubian-beginnings-establishing-a-channel-and-earning-money/"><u>[New] Your Guide to Youtubian Beginnings Establishing a Channel and Earning Money</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-banishing-bulky-buffered-broadcasts-windows-android-tips/"><u>[Updated] 2024 Approved Banishing Bulky Buffered Broadcasts Windows, Android Tips</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-transforming-your-phones-alerts-with-tailored-audio-choices-for-android/"><u>[Updated] 2024 Approved Transforming Your Phone's Alerts with Tailored Audio Choices for Android</u></a></li>
-<li><a href="https://win-answers.techidaily.com/2024-updates-for-phasmophobia-crash-issues-a-comprehensive-guide/"><u>2024 Updates for Phasmophobia Crash Issues: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/battlefront-ii-pc-issues-how-to-prevent-game-crashes/"><u>Battlefront II PC Issues - How to Prevent Game Crashes</u></a></li>
-<li><a href="https://win-premium.techidaily.com/bildintegration-fur-einfachere-datensicherung-und-wiederherstellungsprozesse/"><u>Bildintegration Für Einfachere Datensicherung Und Wiederherstellungsprozesse</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/detailed-dissection-what-makes-obs-a-top-recorder-for-2024/"><u>Detailed Dissection What Makes OBS a Top Recorder for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-latest-updates-for-canon-mg3022-printer-drivers/"><u>Download and Latest Updates for Canon MG3022 Printer Drivers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-a-malfunctioning-windows-11-taskbar-step-by-step-guide/"><u>Fixing a Malfunctioning Windows 11 Taskbar - Step-by-Step Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/guide-resolve-your-world-of-warcraft-crash-problems-swiftly-and-effectively/"><u>Guide: Resolve Your World of Warcraft Crash Problems Swiftly & Effectively</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/instagram-reels-expertise-from-a-ninja-perspective/"><u>Instagram Reels Expertise From a Ninja Perspective</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solve-game-loading-failures-by-verifying-integrity-of-game-data/"><u>Solve Game Loading Failures by Verifying Integrity of Game Data</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-new-worlds-persistent-freeze-up-problem/"><u>Troubleshooting Tips for New World's Persistent Freeze-Up Problem</u></a></li>
-<li><a href="https://win-answers.techidaily.com/understanding-and-resolving-recurrent-breakdowns-in-sovled-warno-application-for-windows-users/"><u>Understanding and Resolving Recurrent Breakdowns in SOVLED Warno Application for Windows Users</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/vr-tech-pioneers-selecting-pc-vr-headsets/"><u>VR Tech Pioneers Selecting PC VR Headsets</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-mirrored-moments-the-essence-of-flipping-videos-for-2024/"><u>[New] Mirrored Moments The Essence of Flipping Videos for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-expert-advice-creating-and-uploading-vr-videos-to-boost-fb-visibility-for-2024/"><u>[Updated] Expert Advice Creating & Uploading VR Videos to Boost FB Visibility for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/an-experts-insight-on-connectivity-and-security-with-the-linksys-wrt1900acs-the-open-source-wifi-router/"><u>An Expert's Insight on Connectivity and Security with the Linksys WRT1900ACS - The Open Source WiFi Router</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-fable-creators-circle-a-list-eight/"><u>In 2024, Fable Creators Circle - A-List Eight</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-xiaomi-14-ultra-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Xiaomi 14 Ultra Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/magical-apps-for-vocal-alteration-top-list-unveiled/"><u>Magical Apps for Vocal Alteration Top List Unveiled</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/maximizing-screen-real-estate-on-fb-media-for-2024/"><u>Maximizing Screen Real Estate on Fb Media for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-your-windows-ssd-with-ssd-fresh-tips/"><u>Optimize Your Windows' SSD with SSD Fresh Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-ultimate-guide-selecting-optimal-youtube-video-frame-rates/"><u>The Ultimate Guide: Selecting Optimal YouTube Video Frame Rates</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-12-high-quality-mp3-players-unleash-free-music-downloads/"><u>Top 12 High-Quality MP3 Players: Unleash Free Music Downloads</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-8-recommended-sites-for-streaming-dubbed-anime-online/"><u>Top 8 Recommended Sites for Streaming Dubbed Anime Online</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-rated-mp4-converters-from-dvd-compatible-with-windows-10-and-11/"><u>Top-Rated MP4 Converters From DVD : Compatible with Windows 10 & 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-unable-to-install-zip-addons-in-kodi/"><u>Troubleshooting 'Unable To Install .zip Addons in Kodi'</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-da-vinci-resolve-for-seamless-mxf-file-management-and-editing/"><u>Troubleshooting DA VINCI Resolve for Seamless MXF File Management and Editing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ts-converter-pro-review-the-fastest-way-to-switch-between-video-formats-with-ease/"><u>TS Converter Pro Review: The Fastest Way to Switch Between Video Formats with Ease!</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your ZTE Blade A73 5G | Dr.fone</u></a></li>
 </ul></div>
 

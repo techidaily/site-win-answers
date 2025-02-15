@@ -1,7 +1,7 @@
 ---
 title: "Solution Guide: Overcome Difficulties When Trying To Boot Football Manager 2023"
-date: 2025-01-26T22:17:51.294Z
-updated: 2025-01-31T21:35:24.851Z
+date: 2025-02-10T00:05:18.669Z
+updated: 2025-02-15T06:26:50.666Z
 tags:
   - win11
   - win10
@@ -31,10 +31,6 @@ Looking for Football Manager 2023 won’t launch fixes? You’ve come to the rig
 3. [Verify game files](https://tools.techidaily.com/drivereasy/download/)
 4. [Disable overlay and launch in Windowed mode](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Add an exception to your antivirus
 
  Many players have indicated their game files were blocked by antivirus software and caused the issue. Try this fix especially you’re an Avast or Avg user. They had virus definitions updated which mistakingly blocks steam/fm.exe.  
@@ -54,7 +50,7 @@ Take Avast as an example:
 5. Find your fm.exe location. Click**BROWSE** to add exception.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-20-00.jpg)
@@ -87,10 +83,18 @@ Visit the website of your GPU manufacturer and search for your GPU model.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Verify game files
 
@@ -101,18 +105,18 @@ Visit the website of your GPU manufacturer and search for your GPU model.
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Go to**LOCAL FILES** and click**Verify integrity of game files…**  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 4. When the process is finished, relaunch the game to check.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If this fix bring no luck, move to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Disable overlay and launch in Windowed mode
 
@@ -122,10 +126,6 @@ If this fix bring no luck, move to the next fix.
 2. Go to LIBRARY, right-click on Football Manager 2023 and select**Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. In the**GENERAL** tab, uncheck**Enable the Steam Overlay while in-game** and type**\-windowed** under**LAUNCH OPTIONS** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_17-39-55.jpg)
 4. Relaunch the game to check.
@@ -151,19 +151,18 @@ If this fix bring no luck, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-behind-the-scenes-crafting-a-screenplay-for-2024/"><u>[New] Behind the Scenes Crafting a Screenplay for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-elevate-your-video-aesthetics-with-obss-customizable-luts/"><u>[New] In 2024, Elevate Your Video Aesthetics with OBS's Customizable LUTs</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-live-streaming-pre-recorded-videos-the-facebook-approach/"><u>[New] Live Streaming Pre-Recorded Videos The Facebook Approach</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/all-about-iphone-7-unlock-chip-you-need-to-know-by-drfone-ios/"><u>All About iPhone 7 Unlock Chip You Need to Know</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/exclusive-picks-the-ideal-samsung-galaxy-z-fold-7-case-collection-you-cant-miss/"><u>Exclusive Picks: The Ideal Samsung Galaxy Z Fold 7 Case Collection You Can't Miss</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-15-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>How to Unlock Apple iPhone 15 Passcode without iTunes without Knowing Passcode?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/improving-dota-2-performance-overcoming-dropping-fps-on-windows-1110/"><u>Improving Dota 2 Performance: Overcoming Dropping FPS on Windows 11/10</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-samsung-galaxy-f34-5g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Samsung Galaxy F34 5G Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-bypassing-icloud-activation-lock-on-apple-iphone-12-pro-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Bypassing iCloud Activation Lock on Apple iPhone 12 Pro</u></a></li>
-<li><a href="https://win-answers.techidaily.com/master-the-art-of-fixing-fallout-76-on-your-computer-comprehensive-guide/"><u>Master the Art of Fixing Fallout 76 on Your Computer: Comprehensive Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solve-your-steam-woes-with-these-7-proven-methods-to-beat-the-black-screen-glitch/"><u>Solve Your Steam Woes with These 7 Proven Methods to Beat the Black Screen Glitch</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/strategies-for-longer-use-of-gopro-power-source-for-2024/"><u>Strategies for Longer Use of GoPro Power Source for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/valorant-troubleshooting-step-by-step-solutions-for-stuttering-and-boosting-fps/"><u>Valorant Troubleshooting: Step-by-Step Solutions for Stuttering and Boosting FPS</u></a></li>
-<li><a href="https://win-answers.techidaily.com/wsappx-explained-how-to-tackle-high-memory-and-processing-demands-on-your-pc/"><u>Wsappx Explained: How to Tackle High Memory and Processing Demands on Your PC</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-how-to-upload-without-rt-video-tweets/"><u>[New] 2024 Approved How to Upload Without RT Video Tweets</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-the-wealth-wave-of-the-philanthropic-maverick-mr-beast/"><u>[New] 2024 Approved The Wealth Wave of the Philanthropic Maverick, Mr. Beast</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-daily-digital-dynasty-ranking-the-top-10-youtube-videos/"><u>[Updated] In 2024, Daily Digital Dynasty Ranking the Top 10 YouTube Videos</u></a></li>
+<li><a href="https://driver-download.techidaily.com/find-and-install-hp-universal-print-drivers-on-your-windows-machine-easily/"><u>Find and Install HP Universal Print Drivers on Your Windows Machine Easily</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-poco-x5-pro-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Poco X5 Pro to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722994838148-master-guide-for-resolving-the-perplexing-exit-code-0-glitch-in-your-favorite-game-minecraft/"><u>Master Guide for Resolving the Perplexing Exit Code 0 Glitch in Your Favorite Game, Minecraft!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-sony-vegas-mp4-playback-problems-fixes-for-missing-videoaudio-and-common-errors/"><u>Solving Sony Vegas MP4 Playback Problems: Fixes for Missing Video/Audio & Common Errors</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-capturing-screenshots-with-sound-in-windows-11/"><u>Step-by-Step Guide: Capturing Screenshots with Sound in Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-converting-multiple-ogg-files-into-wav-format-across-windows-macos-and-online-tools/"><u>Step-by-Step Guide: Converting Multiple OGG Files Into WAV Format Across Windows, MacOS, and Online Tools</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-tutorial-for-free-online-and-pc-tools-convert-gif-images-to-avi-video/"><u>Step-by-Step Tutorial for Free Online & PC Tools - Convert GIF Images to AVI Video</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-tutorial-setting-up-windows-movie-maker-in-windows-11-environment/"><u>Step-by-Step Tutorial: Setting Up Windows Movie Maker in Windows 11 Environment</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-rated-free-dvd-ripper-tools-for-windows-11-users-ultimate-guide-and-downloads/"><u>Top Rated Free DVD Ripper Tools for Windows 11 Users: Ultimate Guide & Downloads</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transform-your-tabletop-gaming-with-these-6-chatgpt-hacks-for-gamemasters/"><u>Transform Your Tabletop Gaming with These 6 ChatGPT Hacks for Gamemasters</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fix & Guide: Overcoming Repeated Shutdowns on Your PC's Metro Exodus (Enhanced Edition)"
-date: 2024-08-19T00:47:56.154Z
-updated: 2024-08-20T00:47:56.154Z
+date: 2025-02-09T20:41:37.395Z
+updated: 2025-02-15T01:32:45.909Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/baf1b8e8a6309af3aded523f7542d48deabc8aba1
 
 ## Fixing Firefox's Unexpected Shutdowns - Solutions Inside
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2c40468912-300x266.jpg) Whether Firefox crashes at startup or in the middle of something important, it can be really frustrating. But don’t worry, it’s fixable. And in most cases, the fix is pretty fast and simple…
 
 ## Try these fixes
@@ -32,23 +29,25 @@ thumbnail: https://thmb.techidaily.com/baf1b8e8a6309af3aded523f7542d48deabc8aba1
 6. **[Check for viruses](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Reinstall Firefox](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Update Firefox
 
  Making sure Firefox on your computer is up to date can be your first step to troubleshoot the Firefox crashing problem. Here’s what you need to do:
 
 1. Click the three lines in the far right corner, and select **Help** .  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2c6959131e.jpg)
 2. Click **About Firefox** . Firefox will then check for updates and download them automatically.  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2c6fc5e68d.jpg)
 3. Restart Firefox to test. If the problem consists, try the fixes below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Clear Firefox cache
 
@@ -56,14 +55,8 @@ thumbnail: https://thmb.techidaily.com/baf1b8e8a6309af3aded523f7542d48deabc8aba1
 
 1. Click the menu button on the upper right.
 2. Select**Library** \>**History** \>**Clear Recent History** .  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2c8e0b894e.png)
 3. A small window will pop up and ask you for details about what to delete. Select**all checkboxes** and set the time range to**Everything** .  
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2c95da9bbd.jpg)
 4. Click**Clear Now** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2c9863348a.jpg)
@@ -85,11 +78,12 @@ thumbnail: https://thmb.techidaily.com/baf1b8e8a6309af3aded523f7542d48deabc8aba1
 
 1. [**Download**](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2caf6925fb.jpg)
 3. Click the**Update** button next to a flagged device to automatically download the correct version of its driver, then you can manually install it (you can do this with the**FREE** version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2cb53d38fc.jpg)  
@@ -106,13 +100,19 @@ thumbnail: https://thmb.techidaily.com/baf1b8e8a6309af3aded523f7542d48deabc8aba1
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2cbcc87200.jpg)
 2. In the Add-ons Manager tab,  
    * **To disable an extension or theme,** click**Extensions** or T**hemes** , select the add-on you want to disable, and click the**Disable** button next to it.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
    ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2cc6155c67.jpg)  
    * **To disable a plugin,** click**Plugins** , select the plugin you want to disable, and select**Never Activate** from its drop-down menu.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
    ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ccb628652.jpg)
 3. Restart Firefox to check if the problem is resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -121,16 +121,20 @@ thumbnail: https://thmb.techidaily.com/baf1b8e8a6309af3aded523f7542d48deabc8aba1
  You can manually check for Windows updates to make sure you have all of the latest security and stability fixes.
 
 1. Click the**Start** button, then the**Settings** icon.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2cd340b3ae.jpg)
 2. Click**Updater & Security** .  
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ceaa76466.jpg)
 3. Select**Windows Update** and click the**Check for updates** button.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ceba91965.jpg)
 
 ---
@@ -145,9 +149,6 @@ Then, restart your PC and see if the Firefox crashing issue is solved.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ### Fix 7: Reinstall Firefox
 
  If nothing above works for you, you can take the following steps to do a clean reinstall of Firefox:
@@ -157,15 +158,13 @@ Then, restart your PC and see if the Firefox crashing issue is solved.
 3. Type**control** and press**Enter** to open Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2cdd6b7c81.png)
 4. In the view of**category** , under**Programs** , click**Uninstall a program** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ce2e45a4a.jpg)
 5. Right-click on**Mozilla Firefox** , then click**Uninstall** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ce638a61f.jpg)
 6. Make sure the Firefox installation folder located in one of these folders is removed:  
    * **C:\\Program Files\\Mozilla Firefox**  
@@ -185,8 +184,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -194,4 +191,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-portable-picture-pixels-windows-mac-best-photo-to-cartoon-converter/"><u>[Updated] 2024 Approved Portable Picture Pixels Windows, Mac - Best Photo-to-Cartoon Converter</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-thriving-livestreams-strategies-for-beginners-with-low-followers/"><u>[Updated] Thriving Livestreams Strategies for Beginners with Low Followers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-driver-updates-for-windows-users-focusing-on-vista-7-and-beyond/"><u>AMD Driver Updates for Windows Users: Focusing on Vista, 7, and Beyond!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/avoid-youtube-previews-on-all-platforms-and-devices-for-2024/"><u>Avoid YouTube Previews on All Platforms & Devices for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-techniques-for-identifying-and-fixing-mistakes-in-excel-spreadsheets/"><u>Effective Techniques for Identifying and Fixing Mistakes in Excel Spreadsheets</u></a></li>
+<li><a href="https://win-answers.techidaily.com/efficient-methods-for-adjusting-decimal-points-using-microsoft-excel-a-guide/"><u>Efficient Methods for Adjusting Decimal Points Using Microsoft Excel: A Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/efficient-z-score-computation-techniques-with-microsoft-excel-explained/"><u>Efficient Z-Score Computation Techniques with Microsoft Excel Explained</u></a></li>
+<li><a href="https://win-answers.techidaily.com/efficiently-segment-your-data-into-various-columns-using-microsoft-excel/"><u>Efficiently Segment Your Data Into Various Columns Using Microsoft Excel</u></a></li>
+<li><a href="https://win-answers.techidaily.com/excel-tips-adjusting-headersfooters-for-unique-first-page-designs/"><u>Excel Tips: Adjusting Headers/Footers for Unique First-Page Designs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/excel-tutorials-simplifying-the-process-of-minus-operation-within-spreadsheets/"><u>Excel Tutorials: Simplifying the Process of Minus Operation Within Spreadsheets</u></a></li>
+<li><a href="https://win-answers.techidaily.com/exciting-news-microsoft-offers-office-2er-2024-at-an-unprecedented-one-off-price/"><u>Exciting News: Microsoft Offers Office 2Er 2024 at an Unprecedented One-Off Price!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-on-duplicating-and-relocating-excel-worksheets-across-different-files/"><u>Expert Tips on Duplicating and Relocating Excel Worksheets Across Different Files</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-honor-play-7t-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Honor Play 7T.</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-oppo-find-n3-flip-by-drfone-android/"><u>In 2024, How to Bypass FRP from Oppo Find N3 Flip?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-your-realme-c55-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Realme C55 Lock Screen Password</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-experience-microsofts-new-wave-surface-and-surface-pro-meets-copilotplus-tech/"><u>In-Depth Analysis: Experience Microsoft's New Wave – Surface and Surface Pro Meets Copilot+ Tech 🖥️</u></a></li>
+<li><a href="https://extra-support.techidaily.com/top-strategies-to-boost-your-fallout-76-frame-rate/"><u>Top Strategies to Boost Your Fallout 76 Frame Rate</u></a></li>
+</ul></div>
 

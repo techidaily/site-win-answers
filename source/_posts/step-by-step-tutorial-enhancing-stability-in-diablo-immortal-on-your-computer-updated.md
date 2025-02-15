@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Enhancing Stability in Diablo Immortal on Your Computer (Updated)"
-date: 2025-01-31T02:13:53.855Z
-updated: 2025-02-01T03:33:42.768Z
+date: 2025-02-11T19:00:09.178Z
+updated: 2025-02-15T01:53:45.697Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ Recently, many players have reported that**A Total War Saga: Troy keeps crashing
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Although the causes of this issue vary from player to player, here we’ve gathered the latest fixes for the crashing issue. Whether A Total War Saga: Troy crashes on startup or crashes in the middle of the game, you can find a fix to try in this article.
@@ -35,7 +39,7 @@ Recently, many players have reported that**A Total War Saga: Troy keeps crashing
 7. [Add the game folder to the exceptions list of your 3rd party antivirus software](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 1: Verify the game files
@@ -90,12 +94,12 @@ Or
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -104,10 +108,6 @@ Or
  Launch A Total War Saga: Troy to see if it crashes or not. Normally, after you updated the graphics driver, the game crashing issue will disappear.
 
  If the latest graphics driver fails to stop the crash, just read on to try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 3: Install the latest game patch
 
@@ -127,7 +127,7 @@ Or
 3. Once downloaded, double-click the downloaded**.exe** file to install it on your computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Restart your computer and launch the game.
@@ -144,6 +144,10 @@ Or
 
  If this issue persists after you stopped overclocking, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 6: Repair Epics Games launcher
 
  A Total War Saga: Troy may crash if there is something wrong with Epic Games launcher. To fix the game crashing issue due to Epics Games launcher, just try this fix.
@@ -154,14 +158,10 @@ Or
 ![Open Programs and Features window in Control Panel](https://images.drivereasy.com/wp-content/uploads/2021/03/Open-Programs-and-Features-window-in-Control-Panel.jpg)
 2. **Right-click** on**Epics Games launcher** and select**Repair** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![how to repair Epics Games launcher](https://images.drivereasy.com/wp-content/uploads/2021/03/how-to-repair-Epics-Games-launcher.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After Windows repaired Epics Games launcher, launch A Total War Saga: Troy to see if it will crash. If it still crashes, try the next fix, below.
@@ -199,20 +199,24 @@ Or
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-best-free-call-apps-on-android-ranks-them/"><u>[New] 2024 Approved Best Free Call Apps on Android, Ranks Them</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-your-daily-dose-of-ig-meme-joy-and-sorrow-the-best-groups/"><u>[New] 2024 Approved Your Daily Dose of IG Meme Joy & Sorrow The Best Groups</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-mirrored-moments-with-iphone-photography-expertise/"><u>[New] Mirrored Moments with iPhone Photography Expertise</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-from-frames-to-frequencies-transforming-instagram-videos/"><u>[Updated] 2024 Approved From Frames to Frequencies Transforming Instagram Videos</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-insiders-look-at-advanced-streamlabs-obs-techniques/"><u>[Updated] In 2024, Insider's Look at Advanced Streamlabs OBS Techniques</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-message-mastery-for-discord-users-desktopmobile/"><u>[Updated] In 2024, Message Mastery for Discord Users (Desktop/Mobile)</u></a></li>
-<li><a href="https://win-answers.techidaily.com/battle-ready-solve-your-lol-connection-woes-once-and-for-all/"><u>Battle-Ready: Solve Your LoL Connection Woes Once and For All!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/conquer-pc-instability-with-these-simple-fixes-for-rainbow-six-extraction-crashes/"><u>Conquer PC Instability with These Simple Fixes for Rainbow Six Extraction Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/elevate-your-gaming-expert-tips-to-overcome-low-fps-in-fallout-76-updated/"><u>Elevate Your Gaming: Expert Tips to Overcome Low FPS in Fallout 76 – Updated</u></a></li>
-<li><a href="https://win-answers.techidaily.com/embark-on-an-epic-adventure-with-the-pinnacle-of-samurai-games-yakuza-like-a-dragon-now-for-pc-enthusiasts/"><u>Embark on an Epic Adventure with the Pinnacle of Samurai Games – Yakuza: Like a Dragon, Now for PC Enthusiasts</u></a></li>
-<li><a href="https://win-answers.techidaily.com/get-your-discard-camera-up-and-running-a-step-by-step-guide-to-fix-connection-issues/"><u>Get Your Discard Camera Up & Running - A Step-by-Step Guide to Fix Connection Issues</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-your-cover-letter-the-chatgpt-way/"><u>Mastering Your Cover Letter: The ChatGPT Way</u></a></li>
-<li><a href="https://win-answers.techidaily.com/north-korea-dprk/"><u>North Korea (DPRK)</u></a></li>
-<li><a href="https://extra-information.techidaily.com/survey-spectrum-of-video-and-film-equipment/"><u>Survey Spectrum of Video and Film Equipment</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/k-the-secrets-capturing-apple-devices-for-engaging-videos/"><u>Unlock the Secrets Capturing Apple Devices for Engaging Videos</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-ultimate-list-15-must-watch-unboxing-channels/"><u>[New] In 2024, Ultimate List 15 Must-Watch Unboxing Channels</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-a-step-into-tomorrow-installation-guide-for-windows-11/"><u>[Updated] A Step Into Tomorrow Installation Guide for Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/lets-note/"><u>「瞬時にLet's Noteでスクリーン記録の迅速ガイド」</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-color-mastery-selecting-the-best-luts-for-lightroom-editors/"><u>2024 Approved Color Mastery Selecting the Best LUTs for LightRoom Editors</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-fraps-revolutionizing-gamers-screen-recording/"><u>2024 Approved Fraps Revolutionizing Gamer's Screen Recording</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-quickcapture-lite-basic-chromecasting-tool/"><u>2024 Approved QuickCapture Lite Basic Chromecasting Tool</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easy-video-trimming-techniques-using-the-vlc-media-player/"><u>Easy Video Trimming Techniques Using the VLC Media Player</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-strategies-for-converting-ts-video-files-to-mkv-using-top-free-tools/"><u>Effective Strategies for Converting TS Video Files to MKV Using Top Free Tools</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effortless-methods-for-transforming-high-quality-flac-tracks-into-mp3-format-with-audacity-tools/"><u>Effortless Methods for Transforming High-Quality FLAC Tracks Into MP3 Format with Audacity Tools</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-show-wi-fi-password-on-nokia-c12-plus-by-drfone-android/"><u>How to Show Wi-Fi Password on Nokia C12 Plus</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-realme-12-pro-5g-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-vivo-v27-pro-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Vivo V27 Pro Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ios-16-update-risks-for-ipads-explored-how-to-safely-upgrade-and-avoid-device-lockout-tech-insights/"><u>IOS 16 Update Risks for iPads Explored: How to Safely Upgrade & Avoid Device Lockout | Tech Insights</u></a></li>
+<li><a href="https://win-answers.techidaily.com/m4aogg/"><u>M4A形式へのOggファイル複数同時変換方法：最新ガイド</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/masterclass-dispatching-macs-kernel-emergency/"><u>Masterclass: Dispatching Mac's Kernel Emergency</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-avi-videos-in-vlc-a-guide-to-smooth-playback-and-issue-resolution/"><u>Mastering AVI Videos in VLC: A Guide to Smooth Playback and Issue Resolution</u></a></li>
+<li><a href="https://win-answers.techidaily.com/movmp4adobe-premiere-pro/"><u>MOV形式からMP4に変更:Adobe Premiere Proで効率よく行う方法</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-guide-on-converting-voice-messages-into-high-quality-mp3-audio/"><u>Quick Guide on Converting Voice Messages Into High-Quality MP3 Audio</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-dvd-decrypter-issues-methods-to-correct-failed-to-set-data-problem/"><u>Resolving DVD Decrypter Issues: Methods to Correct 'Failed to Set Data' Problem</u></a></li>
 </ul></div>
 

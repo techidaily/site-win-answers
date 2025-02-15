@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Made Easy: How to Stop Outriders From Continuously Crashing"
-date: 2025-01-24T19:30:50.681Z
-updated: 2025-02-01T02:08:49.073Z
+date: 2025-02-12T20:00:50.271Z
+updated: 2025-02-15T03:46:16.186Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ Recently, we’ve seen many players reporting that**Dirt 5 keeps crashing** on t
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -74,10 +70,14 @@ The outdated or broken graphics driver often crashes the game.
 
 ![LOCAL FILES>VERIFY INTEGRITY OF GAME CACHE...](https://images.drivereasy.com/wp-content/uploads/2019/04/image-120.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  It may take some time to finish verifying the game files. Launch the game after the verifying process completed to see if this fix works. If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 3: Install the latest game patch
@@ -97,16 +97,16 @@ The outdated or broken graphics driver often crashes the game.
 2. Uncheck**Enable Steam Overlay while in-game** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Disable Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-Steam-Overlay.jpg)
 
- Launch Dirt 5 to see if the game crashes. If the issue persists, try the next fix, below.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Launch Dirt 5 to see if the game crashes. If the issue persists, try the next fix, below.
 
 ## Fix 5: Set launch options on Steam
 
@@ -122,7 +122,7 @@ The outdated or broken graphics driver often crashes the game.
  Launch the game to see if it crashes again. If it still crashes, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 6: Stop overclocking
@@ -155,17 +155,24 @@ The outdated or broken graphics driver often crashes the game.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-photos-to-pizzazz-android-and-iphones-prime-montage-software/"><u>[Updated] 2024 Approved Photos to Pizzazz Android & iPhone's Prime Montage Software</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-comprehensive-review-and-overview-of-du-recorder-for-2024/"><u>[Updated] Comprehensive Review and Overview of Du Recorder for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-real-time-recording-made-easy-for-your-skype-sessions/"><u>[Updated] Real-Time Recording Made Easy for Your Skype Sessions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-cant-connect-to-printer-error-on-windows-11/"><u>How to Fix the Can’t Connect to Printer Error on Windows 11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-solve-recurrerent-medium-app-crashes-on-windows-a-comprehensive-guide/"><u>How to Solve Recurrerent Medium App Crashes on Windows - A Comprehensive Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-update-chromecast/"><u>How to Update Chromecast</u></a></li>
-<li><a href="https://win-answers.techidaily.com/monster-hunter-rise-not-starting-heres-how-you-can-fix-it/"><u>Monster Hunter Rise Not Starting? Here's How You Can Fix It</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigate-safe-kids-online-top-8-parental-control-solutions-you-should-know/"><u>Navigate Safe Kids Online : Top 8 Parental Control Solutions You Should Know</u></a></li>
-<li><a href="https://techidaily.com/samsung-won-t-play-mov-videos-how-to-fix-by-aiseesoft-video-converter-play-mov-on-android/"><u>Samsung won't play MOV videos, how to fix ?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/skyrocket-gaming-speeds-masterful-methods-to-improve-fps-in-roe/"><u>Skyrocket Gaming Speeds: Masterful Methods to Improve FPS in ROE</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/step-up-your-language-game-top-15-tools-to-turn-videos-into-universal-text-for-2024/"><u>Step Up Your Language Game Top 15 Tools to Turn Videos Into Universal Text for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-overcoming-discords-blackout-issue-in-screen-sharing-mode/"><u>Troubleshooting Guide: Overcoming Discord's Blackout Issue in Screen Sharing Mode</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/26139493-new-boost-production-value-with-free-sfx-libraries/"><u>[New] Boost Production Value with Free SFX Libraries</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-leveraging-social-media-trends-for-fan-growth-on-igtv-for-2024/"><u>[New] Leveraging Social Media Trends for Fan Growth on IGTV for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-quirky-quirks-your-simple-steps-for-memelore-mastery/"><u>[Updated] Quirky Quirks Your Simple Steps for Memelore Mastery</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-seeking-freedom-with-videos-which-plays-better-vlc-or-mpc/"><u>2024 Approved Seeking Freedom with Videos Which Plays Better, VLC or MPC?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/miomiomiomioguru/"><u>高効率かつセキュリティに優れたMioMio(miomio.guru)動画ダウンロードガイド</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/exploring-new-realms-of-engagement-in-facebook-ad-videos/"><u>Exploring New Realms of Engagement in Facebook Ad Videos</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862675254-get-the-16-inch-macbook-pro-with-m3-pro-for-less-dont-miss-this-500-deal-before-amazon-prime-day/"><u>Get the 16-Inch MacBook Pro With M3 Pro for Less - Don't Miss This $500 Deal Before Amazon Prime Day</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/gratuit-online-omzetten-van-webm-naar-m4a-movieblip/"><u>Gratuit Online Omzetten Van WEBM Naar M4A - MovieBlip</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-easily-and-safely-download-xhamuter-videos-with-trusted-platforms/"><u>How To Easily And Safely Download Xhamuter Videos With Trusted Platforms</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/how-to-efficiently-separate-soundtracks-from-movies-and-clips-using-windows-11-tools/"><u>How to Efficiently Separate Soundtracks From Movies and Clips Using Windows 11 Tools</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ipod-songs-free-download-convert-your-tracks-to-mp3-on-pc-or-mac/"><u>IPod Songs Free Download: Convert Your Tracks to MP3 on PC or Mac</u></a></li>
+<li><a href="https://win-answers.techidaily.com/is-owning-an-ipad-no-longer-a-trendy-choice-among-consumers/"><u>Is Owning an iPad No Longer a Trendy Choice Among Consumers?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-the-mp4-video-converter-a-step-by-step-guide-with-factory-pro/"><u>Mastering the MP4 Video Converter: A Step-by-Step Guide with Factory Pro</u></a></li>
+<li><a href="https://win-answers.techidaily.com/moi-file-explained-unraveling-the-meaning-and-methods-for-easy-access/"><u>MOI File Explained: Unraveling the Meaning & Methods for Easy Access</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimize-your-videos-proven-techniques-to-shrink-megabytes-while-preserving-clarity/"><u>Optimize Your Videos: Proven Techniques to Shrink Megabytes While Preserving Clarity</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/pumpkin-themed-autumnal-wallpapers-and-desktop-backgrounds-high-quality-graphics-from-yl-software/"><u>Pumpkin-Themed Autumnal Wallpapers & Desktop Backgrounds - High-Quality Graphics From YL Software</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-and-effective-strategies-for-converting-flv-files-into-high-quality-mp3-audio/"><u>Quick & Effective Strategies for Converting FLV Files Into High-Quality MP3 Audio</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revive-mouse-functionality-in-windows-environments/"><u>Revive Mouse Functionality in Windows Environments</u></a></li>
+<li><a href="https://win-answers.techidaily.com/seamless-integration-of-the-rogue-one-add-on-into-kodis-leia-framework/"><u>Seamless Integration of the Rogue One Add-On Into Kodi's LEIA Framework</u></a></li>
 </ul></div>
 

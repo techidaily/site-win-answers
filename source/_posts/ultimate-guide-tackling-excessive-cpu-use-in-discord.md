@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Tackling Excessive CPU Use in Discord"
-date: 2025-01-04T23:34:53.377Z
-updated: 2025-01-05T20:30:26.552Z
+date: 2025-02-12T23:03:25.704Z
+updated: 2025-02-14T18:56:19.958Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/d5809cec83da0092a50835917e7ac3c3a1061e52f
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5 Fixes for YouTube Stuttering
 
@@ -42,6 +46,10 @@ Here’s how you can do it:
 
  2) Click**Install now**  . The .exe installation file would then be downloaded automatically. ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b962aea31d8c.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Double-click the downloaded file. Then follow the on-screen instructions to complete the installation.
 
  4) Re-play the YouTube video to see if it plays smoothly.
@@ -58,21 +66,17 @@ Here’s how you can do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b962b812b921.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click**Advanced** at the very bottom. ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b962bcf12143.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Disabled **Use hardware acceleration when available** by switching the icon to grey. ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b962c009cac7.png)
 
  4) Relaunch Chrome and then re-play the YouTube video to see if it plays smoothly.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your video driver
 
@@ -92,10 +96,6 @@ You can update your video driver either manually or automatically.
 
  2) Run Driver Easy and click the**Scan Now**  button. Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b95d9711631c.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3)Click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support** and a **30-day money back**  guarantee. You’ll be prompted to upgrade when you click Update All.)
 Note: You can do it   **for free**  if you like, but it’s partly manual.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b95da089dde0.jpg)
@@ -103,10 +103,6 @@ Note: You can do it   **for free**  if you like, but it’s partly manual.
  Restart your computer and re-play the YouTube to see if it plays smoothly.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Clear your browsing data and update your browser
 
@@ -121,12 +117,12 @@ Here we take Chrome as an example to giving a step-by-step guide:
 3) Click**Clear data** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b962f3a665d9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Click the**More options**  icon on the top right of Chrome. Select **Help** , then click **About Chrome** .
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b962f8c7e584.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5) Chrome will check for updates automatically.
 
@@ -145,6 +141,10 @@ Here are some tips you can try for this case:
  Option 2:**Update your network card driver**  to boost your Internet speed. Like updating your video driver shown in Fix 3, you can also update your network card driver either manually or automatically through **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b963028e2fbb.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -167,24 +167,20 @@ Here are some tips you can try for this case:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-fast-and-free-fb-video-conversion-tools-for-mp3-files/"><u>[New] In 2024, Fast and Free FB Video Conversion Tools for MP3 Files</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-thors-mighty-saga-ragnarok-dawns-for-2024/"><u>[New] Thor's Mighty Saga Ragnarok Dawns for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1-step-by-step-guide-sharing-videos-on-snapchat-easily/"><u>1. Step-by-Step Guide: Sharing Videos on Snapchat Easily</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726030169387-mp4/"><u>効率的にMP4フォーマット変更 - ハンドブレーカ説明</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-ais-role-in-making-money-chagpts-guideposts/"><u>Exploring AI's Role in Making Money: ChaGPT’s Guideposts</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/fast-track-guide-boosting-and-speeding-up-your-internet/"><u>Fast Track Guide: Boosting and Speeding Up Your Internet</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-fix-icloud-lock-from-your-iphone-12-and-ipad-by-drfone-ios/"><u>How to fix iCloud lock from your iPhone 12 and iPad</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-infinix-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Infinix ?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-samsung-galaxy-a05s-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Samsung Galaxy A05s for Parents | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/mediamender-fixing-broken-video-files/"><u>MediaMender: Fixing Broken Video Files</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726026815604-mkv/"><u>MKVファイルのチャプターによる分割方法：保管版完全ガイド</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-fine-art-of-focusing-enhanced-zoom-on-roblox-games/"><u>The Fine Art of Focusing Enhanced Zoom on Roblox Games</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-mastering-warzone-video-capture-techniques-for-pc-top-4-methods-revealed/"><u>Ultimate Guide: Mastering Warzone Video Capture Techniques for PC – Top 4 Methods Revealed</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-tutorial-mastering-file-sharing-techniques-on-social-platforms/"><u>Ultimate Tutorial: Mastering File Sharing Techniques on Social Platforms</u></a></li>
-<li><a href="https://win-answers.techidaily.com/watching-ustvnow-on-kodi-a-step-by-step-guide-with-the-kodi-setup-wizard/"><u>Watching USTVNow on Kodi: A Step-by-Step Guide with the Kodi Setup Wizard</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726026906161-windows-10/"><u>Windows 10上のスクリーン記録技術３つ：範囲設定によるアプローチ</u></a></li>
-<li><a href="https://win-answers.techidaily.com/windows-11-mp490/"><u>Windows 11 対応: MP4などを90°折りたたむときにおすすめする最高の手法</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726028933262-iphoneandroid/"><u>ビデオ音声の活用：iPhone・Android両方で、お気に入りの動画をキャッチフレーズと共に着信音に変更するステップ</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-best-low-end-screen-recorder-options-summarized/"><u>[Updated] 2024 Approved Best Low-End Screen Recorder Options Summarized</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-perfect-blueprint-for-installing-wm6-version-60/"><u>2024 Approved Perfect Blueprint for Installing WM6 Version 6.0</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/adding-descriptive-titlestexts-via-microsoft-photos-win-11-for-2024/"><u>Adding Descriptive Titles/Texts via Microsoft Photos Win 11 for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Apple iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/choosing-the-right-ipad-pro-comparing-11-inch-and-129-inch-models-with-latest-m1m2-chips-expert-insights/"><u>Choosing the Right iPad Pro: Comparing 11-Inch & 12.9-Inch Models with Latest M1/M2 Chips - Expert Insights</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722987892550-cyberpunk-eusure-installation-woes-heres-how-to-streamline-your-steam-download-process/"><u>Cyberpunk Eusure Installation Woes? Here's How to Streamline Your Steam Download Process!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722984286696-dying-light-the-sequel-optimizing-performance-and-ending-pc-game-lag/"><u>Dying Light the Sequel: Optimizing Performance & Ending PC Game Lag</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/editing-engine-room-for-2024/"><u>Editing Engine Room for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhancing-performance-optimizing-download-speeds-for-utorrent-users/"><u>Enhancing Performance: Optimizing Download Speeds for uTorrent Users</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hack-fast-drivers-on-windows-workaround/"><u>Hack Fast: Drivers on Windows Workaround</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-overcome-unresponsiveness-when-playing-minecraft-on-your-computer/"><u>How to Overcome Unresponsiveness When Playing Minecraft on Your Computer</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/launch-any-video-projects-with-free-kits-for-2024/"><u>Launch Any Video Projects with Free Kits for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-strategies-for-dealing-with-connection-failed-to-anticheat-service-error-in-escape-from-tarkov/"><u>Solution Strategies for Dealing With 'Connection Failed to Anticheat Service' Error in Escape From Tarkov</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-the-ultimate-guide-to-converting-videos-to-live-photos-on-mobile-for-2024/"><u>Updated The Ultimate Guide to Converting Videos to Live Photos on Mobile for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/valheim-troubleshooting-guide-how-to-overcome-launch-problems-at-startup/"><u>Valheim Troubleshooting Guide - How to Overcome Launch Problems at Startup</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Beat Helldivers 2 PC Instability with These Tested Fixes
-date: 2024-12-31T01:45:15.249Z
-updated: 2025-01-06T02:48:13.760Z
+date: 2025-02-11T19:31:43.450Z
+updated: 2025-02-14T17:34:30.742Z
 tags:
   - win11
   - win10
@@ -42,12 +42,20 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. [Download the latest patch](https://tools.techidaily.com/drivereasy/download/)
 2. [Manage Virtual Memory](https://tools.techidaily.com/drivereasy/download/)
 3. [Delete specific files from the save folder](https://tools.techidaily.com/drivereasy/download/)
 4. [Underclock your clock speed](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Download the latest patch
 
@@ -62,26 +70,22 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/1-4.jpg)
 3. Under the**Advanced** tab, click**Settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2-4.jpg)
 4. Under**Virtual memory** , click**Change** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/3-2.jpg)
 5. Uncheck**Automatically manage paging file size for all drives** and make sure you’ve check**System managed size** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/4-2.jpg)
 6. Click**Set > OK** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Reboot your computer can check whether the crash will appear or not.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Delete specific files from the save folder
@@ -95,11 +99,11 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/browse-2.jpg)
 4. Navigate to the save folder, delete Data(999).sav & Data(999).bak.
 
-5. Reboot your computer and check the issue is solved or not.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+5. Reboot your computer and check the issue is solved or not.
 
 ### Fix 4: Underclock your clock speed
 
@@ -132,10 +136,6 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
  Thanks for reading. Hope this article meets your need. And you are welcome to leave comments below.
@@ -157,20 +157,22 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-from-twitter-to-snaps-a-guide-to-cross-platform-posting/"><u>[New] In 2024, From Twitter to Snaps A Guide to Cross-Platform Posting</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-crystal-clear-audiovideo-top-webcams-for-podcasting/"><u>[Updated] Crystal-Clear Audio/Video Top Webcams for Podcasting</u></a></li>
-<li><a href="https://win-answers.techidaily.com/firefox/"><u>「Firefoxでビデオストリーミングを効率よくダウンロードするコツ」</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/bypass-the-infinite-boot-cycle-fixes-for-windows-auto-repair-sequence/"><u>Bypass the Infinite Boot Cycle - Fixes for Windows Auto-Repair Sequence</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/essential-techniques-for-screen-casts-ezvide-edition/"><u>Essential Techniques for Screen Casts - EZvide Edition</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-black-display-issues-in-mov-videos-a-quick-guide/"><u>Fixing Black Display Issues in MOV Videos: A Quick Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-can-you-transform-videots-files-into-mp4-format-utilizing-the-vlc-media-player/"><u>How Can You Transform Video_TS Files Into MP4 Format Utilizing the VLC Media Player?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-change-amr-recordings-into-mp3-format-across-different-platforms/"><u>How to Change AMR Recordings Into MP3 Format Across Different Platforms</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-infinix-smart-8-plus-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Infinix Smart 8 Plus Screen Black But Still Works? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-seamlessly-convert-your-dvd-collection-for-plex-with-the-best-ripping-software/"><u>How To Seamlessly Convert Your DVD Collection for Plex with the Best Ripping Software</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/in-2024-the-stepwise-pathway-to-becoming-a-streaming-maestro-on-discord/"><u>In 2024, The Stepwise Pathway to Becoming a Streaming Maestro on Discord</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-instagram-video-quality-a-guide-to-converting-formatting-and-posting-with-ease/"><u>Mastering Instagram Video Quality: A Guide to Converting, Formatting, and Posting with Ease</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/migajas-de-informacion-samsung-transfiere-masivos-datos-de-hdd-para-adaptarse-a-ssd-pequenos-y-rapidos/"><u>Migajas De Información Samsung: Transfiere Masivos Datos De HDD Para Adaptarse a SSD Pequeños Y Rápidos.</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-how-to-remove-audio-from-mkv-2023-update/"><u>New 2024 Approved How to Remove Audio From MKV-2023 Update</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/october-prime-day-exclusive-meta-unveils-splendid-512gb-quest-3-offer-top-picks-for-virtual-reality-enthusiasts/"><u>October Prime Day Exclusive: Meta Unveils Splendid 512GB Quest 3 Offer – Top Picks for Virtual Reality Enthusiasts</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-unveiling-the-secret-acquiring-twitter-gifs-effortlessly-on-pc/"><u>[Updated] In 2024, Unveiling the Secret Acquiring Twitter GIFs Effortlessly on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/44cm44k544og44od44ox44oq44kk44k544og44od44ox44ks44kk44oj77ya5a625bqt55so44ki44ox44oq44kx44o844k344on44oz44ks5l244gj44gf44ow44or44o844os44kk5yuv55s744gu57ch510/"><u>「ステップバイステップガイド：家庭用アプリケーションを使ったブルーレイ動画の簡単な録画方法」</u></a></li>
+<li><a href="https://win-answers.techidaily.com/best-free-mov-editor-software-top-picks-for-both-windows-and-mac-users/"><u>Best Free MOV Editor Software - Top Picks for Both Windows and Mac Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/comprehensive-tutorial-for-recording-chats-across-mobile-platforms-iosandroid-and-desktop-systems-macwindows/"><u>Comprehensive Tutorial for Recording Chats Across Mobile Platforms (iOS/Android) and Desktop Systems (Mac/Windows)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/delldvd/"><u>DellノートのDVD再生手順と失敗時の解決策</u></a></li>
+<li><a href="https://win-answers.techidaily.com/discover-the-ultimate-pick-of-5-tiktok-audio-downloaders-for-your-computer-and-browser/"><u>Discover the Ultimate Pick of 5 TikTok Audio Downloaders for Your Computer and Browser</u></a></li>
+<li><a href="https://win-answers.techidaily.com/download-christian-songs-from-youtube-for-unlimited-offline-listening/"><u>Download Christian Songs From YouTube for Unlimited Offline Listening</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easy-guide-how-to-extract-create-and-clone-content-from-dvdscds/"><u>Easy Guide: How to Extract, Create & Clone Content From DVDs/CDs</u></a></li>
+<li><a href="https://facebook.techidaily.com/exploring-essential-elements-in-metas-new-privacy-rules/"><u>Exploring Essential Elements in Meta’s New Privacy Rules</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/how-do-youtube-channels-get-paid-regularly-in-2024/"><u>How Do YouTube Channels Get Paid Regularly, In 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Lava Agni 2 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-effortless-music-playlist-creation-for-youtube-anywhere-webmobile/"><u>In 2024, Effortless Music Playlist Creation for YouTube, Anywhere (Web/Mobile)</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/professional-3d-creation-software-for-video-startups-for-2024/"><u>Professional 3D Creation Software for Video Startups for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-issues-encountered-in-bios-power-on-self-test-post/"><u>Solving Issues Encountered in BIOS Power-On Self Test (POST)</u></a></li>
+<li><a href="https://driver-download.techidaily.com/troubleshooting-getting-your-mouse-drivers-working-on-windows-easy-fix/"><u>Troubleshooting: Getting Your Mouse Drivers Working on Windows Easy Fix</u></a></li>
+<li><a href="https://win-answers.techidaily.com/44gk6kal56mn44kk5pmc44gr5l2t6ait54mi44gm5yip55so44gn44gn44kl6ko95zob44gv44gc44kk44gplus44gz44gl77yf/"><u>お見積り時に体験版が利用できる製品はありますか？</u></a></li>
 </ul></div>
 

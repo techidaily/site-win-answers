@@ -1,7 +1,7 @@
 ---
 title: Persona 3 HD Troubleshooting - How to Overcome Launch Errors
-date: 2024-08-19T00:42:20.509Z
-updated: 2024-08-20T00:42:20.509Z
+date: 2025-02-09T18:36:32.648Z
+updated: 2025-02-15T07:01:02.003Z
 tags:
   - win11
   - win10
@@ -18,8 +18,9 @@ thumbnail: https://thmb.techidaily.com/609392eeb7e6d07659b5310d5497d83d3c111a4e7
 After a long wait, Cyberpunk 2077 is finally available now, but many players report numerous problems. If you’re on PC and are running into the Cyberpunk 2077 not launching issue, here’s how you can fix it.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fixes to try
 
  Due to the different hardware, software and game settings each player has, it’s not always easy to diagnose why the game isn’t running on your computer.
@@ -69,24 +70,23 @@ After a long wait, Cyberpunk 2077 is finally available now, but many players rep
 
 2) Click **LIBRARY** .
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-2.jpg)
 
  3) Right-click **Cyberpunk 2077** and select **Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES.**
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5) Relaunch your game to test your issue.
 
@@ -104,13 +104,14 @@ After a long wait, Cyberpunk 2077 is finally available now, but many players rep
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Relaunch your game to test the issue.
 
 If this doesn’t fix the issue, try the next solution below.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Temporarily disable anti-virus/overclocking software
 
  Game launching issues could also be caused by some anti-virus or overclocking software (e.g.**Riva Statistics software, MSI Afterburner** , etc.) interfering with the launch. To see if that’s the problem for you, temporarily disable the software if you have any and check if the problem persists.
@@ -133,9 +134,6 @@ If the game is still unplayable, move on to the fix below.
 
  If the game still won’t launch with admin privileges, then try the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ### Fix 4: Update the graphics driver
 
  Your graphics card driver is vital to the gaming experience. If the driver is out of date, it can cause a range of issues, even if your video hardware exceeds the game’s requirements.
@@ -152,16 +150,21 @@ If the game is still unplayable, move on to the fix below.
 
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![amd 6800xt driver driver easy](https://images.drivereasy.com/wp-content/uploads/2020/12/de-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the**Update** button next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with**full support and a 30-day money back guarantee** . You’ll be prompted to upgrade when you click Update All.)
 
 ![amd 6800 xt driver download](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-6800xt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -173,6 +176,10 @@ If the game is still unplayable, move on to the fix below.
 ### Fix 5: Update the game launcher
 
  Game issues could happen when you’re running an outdated game launcher. So if you haven’t updated the game launcher already, try updating it to see if that’s the core issue. If the issue persists, then try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Clear game cache files
 
@@ -221,21 +228,10 @@ If this didn’t resolve the issue, then try the next fix below.
 
 **1)**  On your keyboard, press the **Windows logo**  key. Then, type **windows update** and select **Windows Update settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-01_16-26-37.jpg)
 
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-01_16-26-41.jpg)
 
 **3)**  Restart your computer after the update is complete.
@@ -248,8 +244,6 @@ If this didn’t resolve the issue, then try the next fix below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -257,4 +251,23 @@ If this didn’t resolve the issue, then try the next fix below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-tips-for-constructing-motivating-daily-routine-vids/"><u>[New] In 2024, Tips for Constructing Motivating Daily Routine Vids</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-the-easiest-way-to-convert-your-youtube-videos-into-texts-for-free/"><u>2024 Approved The Easiest Way to Convert Your YouTube Videos Into Texts for FREE</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-the-quest-for-codec-perfection-is-av1-surpassing-vp9/"><u>2024 Approved The Quest for Codec Perfection Is AV1 Surpassing VP9?</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/boosting-video-quality-in-zoom-with-advanced-effects-for-2024/"><u>Boosting Video Quality in Zoom With Advanced Effects for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-for-overcoming-email-synchronization-errors-in-outlook/"><u>Expert Tips for Overcoming Email Synchronization Errors in Outlook</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/experts-rate-the-microsoft-surface-studio-2-is-it-worth-the-premium/"><u>Experts Rate the Microsoft Surface Studio 2: Is It Worth the Premium?</u></a></li>
+<li><a href="https://win-top.techidaily.com/mass-mailer-spectrum-mastering-email-campaigns-with-rainbow-techniques/"><u>Mass Mailer Spectrum: Mastering Email Campaigns with Rainbow Techniques</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-black-ops-cold-war-a-guide-to-repairing-unhandled-exception-with-code-0xc0000005/"><u>Mastering Black Ops Cold War: A Guide to Repairing 'Unhandled Exception' With Code 0xC0000005</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-stability-keeping-fallout-4-running-smoothly-on-your-computer/"><u>Mastering Stability: Keeping Fallout 4 Running Smoothly on Your Computer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722995260312-pinpointing-and-correcting-the-causes-of-excessive-latency-in-back-4-blood-fixed/"><u>Pinpointing & Correcting the Causes of Excessive Latency in 'Back 4 Blood' - Fixed</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/resolve-your-iphone-8-keeps-asking-for-outlook-password-by-drfone-ios/"><u>Resolve Your iPhone 8 Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solve-your-steam-game-lag-ultimate-faster-performance-tips/"><u>Solve Your Steam Game Lag: Ultimate Faster Performance Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-lag-issues-in-steam-games-tips-and-tricks-for-faster-play/"><u>Solving Lag Issues in Steam Games - Tips and Tricks for Faster Play</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/solving-laptop-webcam-issues-understanding-the-causes-behind-a-non-functioning-camera/"><u>Solving Laptop Webcam Issues: Understanding the Causes Behind a Non-Functioning Camera</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-6-solutions-to-stop-modern-warfare-2-from-crashing-on-your-pc/"><u>Top 6 Solutions to Stop Modern Warfare 2 From Crashing on Your PC</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/unable-to-locate-page-error-code-404/"><u>Unable to Locate Page (Error Code # 404)</u></a></li>
+</ul></div>
 

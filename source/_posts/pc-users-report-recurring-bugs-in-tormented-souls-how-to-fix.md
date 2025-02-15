@@ -1,7 +1,7 @@
 ---
 title: PC Users Report Recurring Bugs in 'Tormented Souls' – How to Fix?
-date: 2024-08-19T00:44:25.268Z
-updated: 2024-08-20T00:44:25.268Z
+date: 2025-02-08T18:54:21.646Z
+updated: 2025-02-15T02:51:02.701Z
 tags:
   - win11
   - win10
@@ -36,18 +36,15 @@ qBittorrent is a free and open-source torrent client alternative to uTorrrent. T
 5. [Check firewall settings](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Check the number of seed/peer
 
  The Stalled status usually appeared when you try to download torrents that have a low number of seed/peers. So you can check the number of speed/peer first. You can reconnect to peers by reinserting torrent in it and the speed will recover a bit. It’s just a temporary fix but worth trying.
 
  If your speed/peers were fine, you can restart the qBittorrent. Some users said after reboot the program, the qBittorrent client works like a charm.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Your ISP might be throttling
 
  If your speed/peers were fine and restarting doesn’t make a difference, check your internet connection. Your ISP might be throttling which leads to Stalled status.
@@ -57,9 +54,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 1. Test your internet speed without a VPN. Keep the number.
 2. Run your VPN service. If you don’t have VPN,[download and install NordVPN](https://tools.techidaily.com/drivereasy/download/) .
 3. Launch NordVPN and click**Connect** .  
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/nord.jpg)
 4. Test your internet speed with[NordVPN](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -67,14 +61,15 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 Then you should use NordVPN when downloading torrents with qBittorrent.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Check your hard drive space
 
  Some users have reported when your drive was full, no more data could be written to it which cause the qBittorrent to be stalled issue.
 
  You can adjust the install destination to a desirable place, or you can clean up the disc by deleting useless files.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Reinstall the application
 
@@ -83,17 +78,24 @@ Then you should use NordVPN when downloading torrents with qBittorrent.
 1. In the search bar, type control to open the Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/control-panel-0.jpg)
 2. Set Control Panel**view by Category** and click**Uninstall a program** .  
+
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/uninstall-controlpanel.jpg)
 3. Find qBittorrent and right-click on it. Click**Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/uninstall-qb.jpg)
 4. Go to[qBittorent webpage](https://www.fosshub.com/qBittorrent.html) , download, and install it in a local drive with enough space.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Check firewall settings
 
  Sometimes, your firewall and antivirus software is the culprit. You need to give the permission so that qBittorrent can work properly.
@@ -112,8 +114,6 @@ Then you should use NordVPN when downloading torrents with qBittorrent.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -121,4 +121,19 @@ Then you should use NordVPN when downloading torrents with qBittorrent.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-quick-and-effective-methods-to-save-instagram-stories/"><u>[New] Quick & Effective Methods to Save Instagram Stories</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-how-to-add-music-to-facebook-profile-iphone-and-android/"><u>[Updated] How to Add Music to Facebook Profile (iPhone & Android)？</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-extract-and-save-youtube-gallery-files/"><u>[Updated] In 2024, Extract and Save YouTube Gallery Files</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-secrets-unveiled-best-practices-in-remote-audio-capture/"><u>[Updated] In 2024, Secrets Unveiled Best Practices in Remote Audio Capture</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enshrouded-crashes-repair-guide-for-windows-pcs/"><u>Enshrouded Crashes Repair Guide for Windows PCs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-resolve-problems-when-your-camera-doesnt-work-on-discord/"><u>How to Resolve Problems When Your Camera Doesn't Work on Discord</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-discover-variety-50-complimentary-youtube-banners-available/"><u>In 2024, Discover Variety – 50 Complimentary YouTube Banners Available</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-the-battlenet-wont-open-challenge-a-comprehensive-guide/"><u>Overcoming the Battle.net Won't Open Challenge: A Comprehensive Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/sound-card-troubleshooting-effective-solutions-when-your-audio-hardware-fails-tips-from-yl-computing/"><u>Sound Card Troubleshooting: Effective Solutions When Your Audio Hardware Fails - Tips From YL Computing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-strategies-to-stop-your-pc-from-crashing-during-warzone-battles/"><u>Top Strategies to Stop Your PC From Crashing During Warzone Battles</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-slow-performance-in-splitgate-techniques-to-improve-frames-per-second-fps/"><u>Troubleshooting Slow Performance in Splitgate: Techniques to Improve Frames Per Second (FPS)</u></a></li>
+</ul></div>
 
