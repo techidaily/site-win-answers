@@ -1,7 +1,7 @@
 ---
 title: "Baldur's Gate Optimization: Curing Stutters, Eliminating Lags (6 Ways)"
-date: 2025-02-07T17:27:58.191Z
-updated: 2025-02-15T00:19:29.397Z
+date: 2025-02-26T16:05:33.861Z
+updated: 2025-03-04T16:02:38.006Z
 tags:
   - win11
   - win10
@@ -33,10 +33,6 @@ Baldur’s Gate 3, developed by Larian Studios, offers an immersive role-playing
 5. **[End unnecessary tasks](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Repair system files](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Before we begin
 
  Prior to diving into these fixes, it’s vital to ensure **your computer meets the game’s minimum system requirements** . Consult the table below to confirm your setup aligns with the game’s prerequisites:
@@ -57,10 +53,6 @@ To ascertain your computer’s specifications:
 2. Type **DxDiag**  and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/2022-10-28_17-48-41.png)
 3. Now you can check your system information under the **System**  tab.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/2022-10-28_17-46-28.png)
 4. Click the **Display**  tab to check the graphics details.  
@@ -99,23 +91,11 @@ To ascertain your computer’s specifications:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/2023-08-14_17-25-29.png)
 4. Choose the**High performance** power plan.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/2023-08-14_17-26-09.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Open the game to check for any improvement.
 
  This fix works in most cases. But some players also found that **reverting the power plan from high-performance mode to balanced mode** helped with the problem. You can also try both modes to see which brings better game performance.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 3 Set CPU affinity only use 0-3
 
@@ -130,10 +110,6 @@ Open the game to check for any improvement.
 4. Set the CPU affinity only using**0-3** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/11/cpu-0-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Note: You may need to repeat this process each time you launch the game.
 
@@ -151,17 +127,9 @@ Note: You may need to repeat this process each time you launch the game.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/2023-08-14_18-30-16.png)
 4. Select**High performance** , then click**Save** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/2023-08-14_18-30-31.png)
 
 Launch the game again to check if the problem has been fixed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 5 End unnecessary tasks
 
@@ -170,10 +138,6 @@ Launch the game again to check if the problem has been fixed.
 1. Right-click the taskbar and select **Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/task-manager-1.jpg)
 2. In the **Processes**  tab, select those apps and background processes occupying the CUP most, and click **End task** to save resources for your game.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/2022-07-13_18-31-13.jpg)
 3. Go to the **Details**  tab, right-click the executable file of your game, and set the priority level to **High** .  
@@ -195,10 +159,6 @@ Go back to your game to see if it works smoother.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click **START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
@@ -223,15 +183,24 @@ Go back to your game to see if it works smoother.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-hero5-vs-yi-evaluating-cutting-edge-cameras/"><u>[Updated] In 2024, Hero5 Vs. YI Evaluating Cutting-Edge Cameras</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-and-prevent-lags-in-your-gameplay-of-guilty-gear-strive/"><u>How to Fix and Prevent Lags in Your Gameplay of Guilty Gear Strive</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-resolve-windows-compatibility-problems-with-logitech-g-hub/"><u>How to Resolve Windows Compatibility Problems with Logitech G Hub</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-6-proven-ways-to-unlock-lava-yuva-2-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Lava Yuva 2 Phone When You Forget the Password</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Motorola Edge 40 Neo? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/pc-woes-no-more-patching-up-star-wars-jedi-fallen-order-stability-bugs/"><u>PC Woes No More: Patching Up 'Star Wars Jedi: Fallen Order' Stability Bugs</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-photos-after-realme-11-pro-has-been-deleted-by-fonelab-android-recover-photos/"><u>Recover your photos after Realme 11 Pro has been deleted.</u></a></li>
-<li><a href="https://media-tips.techidaily.com/step-by-step-video-transformation-techniques-using-handbrake/"><u>Step-by-Step Video Transformation Techniques Using Handbrake</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/the-art-of-bokeh-top-mobile-apps-for-creating-stunning-blur-effects/"><u>The Art of Bokeh Top Mobile Apps for Creating Stunning Blur Effects</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-get-lost-ark-running-smoothly-again-troubleshoot-launch-errors/"><u>Ultimate Guide: Get 'Lost Ark' Running Smoothly Again – Troubleshoot Launch Errors</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-live-streaming-and-video-editing-with-vlc/"><u>[New] 2024 Approved Live Streaming & Video Editing with VLC</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-top-20-unlimited-cloud-storage-solutions-up-to-1tb/"><u>[New] 2024 Approved Top 20 Unlimited Cloud Storage Solutions, Up To 1TB</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-unlocking-the-power-of-in-stream-ads-on-facebook-a-comprehensive-handbook-for-2024/"><u>[Updated] Unlocking the Power of In-Stream Ads on Facebook A Comprehensive Handbook for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/achieving-cinematic-quality-through-aspect-ratio-choices-for-2024/"><u>Achieving Cinematic Quality Through Aspect Ratio Choices for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/exploring-the-resilience-of-the-black-community-through-the-lens-of-eternal-return/"><u>Exploring the Resilience of the Black Community Through the Lens of 'Eternal Return'</u></a></li>
+<li><a href="https://win-answers.techidaily.com/getting-past-the-initial-hurdle-fixing-stardew-valleys-launch-challenges/"><u>Getting Past the Initial Hurdle: Fixing Stardew Valley's Launch Challenges</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-league-of-legends-black-screen-2024-tips/"><u>How to Fix League of Legends Black Screen – 2024 Tips</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-avchd-mts-files-on-samsung-galaxy-s23-fe-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to play AVCHD MTS files on Samsung Galaxy S23 FE?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-realme-10t-5g-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Realme 10T 5G Android SIM Unlock APK</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722998310968-instantly-overcome-apex-legends-loading-issues-with-our-proven-strategies/"><u>Instantly Overcome Apex Legends Loading Issues with Our Proven Strategies</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-crashing-on-windows-with-forza-horizon-4-expert-tweaks-and-advice/"><u>Overcome 'Crashing' On Windows with Forza Horizon 4 - Expert Tweaks & Advice</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-technical-hurdles-ensuring-stable-performance-of-minecraft-dungeons-on-personal-computers/"><u>Overcoming Technical Hurdles: Ensuring Stable Performance of Minecraft Dungeons on Personal Computers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-the-crossbow-function-issue-in-minecraft-a-fixers-tutorial/"><u>Overcoming the Crossbow Function Issue in Minecraft: A Fixer's Tutorial</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reinstated-default-printer-post-error-0x00000709-fix/"><u>Reinstated Default Printer Post-Error 0X00000709 Fix</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/snapchat-tricks-unleashing-yourself-with-a-cartoon-lens-for-2024/"><u>Snapchat Tricks Unleashing Yourself with a Cartoon Lens for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723011541823-troubleshooting-football-manager-2021-pc-bugs-comprehensive-solutions-to-stop-game-crashes/"><u>Troubleshooting Football Manager 2021 PC Bugs - Comprehensive Solutions to Stop Game Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723013599011-troubleshooting-guide-fixing-mlb-the-show-21-servers-play-without-interruptions/"><u>Troubleshooting Guide: Fixing MLB The Show 21 Servers - Play Without Interruptions</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-revealing-translation-methods-netflix-subtitle-software-comprehensive-guide/"><u>Updated 2024 Approved Revealing Translation Methods Netflix Subtitle Software Comprehensive Guide</u></a></li>
 </ul></div>
 

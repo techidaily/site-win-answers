@@ -1,7 +1,7 @@
 ---
 title: "Fixing Rocket League Stalls and Lags: Proven Methods to Restore Smooth Gaming Experience"
-date: 2024-08-19T00:52:40.037Z
-updated: 2024-08-20T00:52:40.037Z
+date: 2025-03-02T16:02:08.945Z
+updated: 2025-03-04T16:02:17.125Z
 tags:
   - win11
   - win10
@@ -31,9 +31,6 @@ Connection issues can happen in every online game and bother many players. The L
 6. [Disable your proxy & VPN](https://tools.techidaily.com/drivereasy/download/)
 7. [Change your DNS server](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 1: Restart your router & modem
 
  You should restart your modem and router especially if they haven’t been switched off for a long time. Just give them some time to cool off and clear up the cache. Here’s how to do it:
@@ -45,9 +42,6 @@ Connection issues can happen in every online game and bother many players. The L
 4. Plug the router back in this time. Likewise, wait until the indicator lights are back to their normal state.
 5. Now that your routers and modem have been restarted properly, you can launch LOL again to see if the connection issue goes away.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ### Method 2: Switch Wi-Fi into a wired connection
 
  If you’ve already avoided possible wireless interference that weakens your Wi-Fi signal such as cordless phones and microwave ovens or simply move your laptop to a new location with a stronger Wi-Fi signal, but you still have the connection issue, you can try switch Wi-Fi into a wired connection.
@@ -64,9 +58,6 @@ Connection issues can happen in every online game and bother many players. The L
 2. Set Control Panel view by **Large icons** then click **Windows Defender Firewall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/c2.jpg)
 3. Click **Allow an app or feature through Windows Defender Firewall** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/c3.jpg) ![](https://images.drivereasy.com/wp-content/uploads/2019/08/c3.jpg)
 4. Make sure the LOL is checked. If not, click the Change settings button then check the LOL. If you see more than one LOL entries, check all of them. Ensure the Private box and the Publick box are checked too.
 5. Run LOL to check the issue is resolved or not.
@@ -104,9 +95,6 @@ Connection issues can happen in every online game and bother many players. The L
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ### Method 6: Disable your proxy & VPN
 
  If you’re using a VPN or a proxy, make sure you disable them before getting started to play LOL. These are useful tools to protect your privacy online, but they can also be the causes of your high ping issue.
@@ -115,9 +103,6 @@ Connection issues can happen in every online game and bother many players. The L
  Please note: The screenshots shown below are under Windows 10 circumstance. If you’re using Windows 8.1/8/7 or any other editions, the steps may be a bit different.
 
 1. On your keyboard, press **the Windows logo key** + **I** at the same time to invoke the **Settings** window. Then click **Network & Internet** .  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/network.jpg)
 2. Click**Proxy** on the left pane. Turn off the toggles under**Automatically detect settings**  and **Use setup script** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/network1.jpg)
@@ -134,32 +119,17 @@ Connection issues can happen in every online game and bother many players. The L
 
 1. On your keyboard, press **the Windows logo key** \+ **R** at the same time to open the Run box.
 2. Type **control** **panel** and press **Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel1-1.jpg)
 3. Set Control Panel view by **Category** then click **View network status and tasks** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/network2.jpg)
 4. Click **Change adapter settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/network3.jpg)
 5. Right-click on your network and select **Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/network4.jpg)
 6. Double-click **Internet Protocol Version 4 (TCP/IPv4)**  to view its properties.  
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-630.png)
 7. In the pop-up window, select these two options: **Obtain an IP address automatically** and **Use the following DNS server addresses** .  
  For the Preferred DNS server, enter 8.8.8.8 to replace the primary IP address; for the **Alternate DNS server** , enter **8.8.4.4** . Then click **OK** to save the changes.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-633.png)  
 **Note** : If you want to restore your DNS server addresses, simply change **Use the following DNS server addresses** to **Obtain DNS server address automatically** and then restart your network adapter.
 8. Reboot your PC and launch LOL. Check the connection issue is resolved or not.
@@ -176,8 +146,6 @@ Connection issues can happen in every online game and bother many players. The L
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -185,4 +153,22 @@ Connection issues can happen in every online game and bother many players. The L
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-changing-frozen-moments-into-sequential-movies/"><u>[Updated] 2024 Approved Changing Frozen Moments Into Sequential Movies</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-supercharge-your-content-key-seo-elements-for-youtube/"><u>2024 Approved Supercharge Your Content Key SEO Elements for YouTube</u></a></li>
+<li><a href="https://win-top.techidaily.com/3dropbox/"><u>3つの戦略でDropboxで削除済みファイルを再生する方法</u></a></li>
+<li><a href="https://techtrends.techidaily.com/anticipated-launch-of-samsung-galaxy-s25-insights-on-pricing-release-timeline-and-features/"><u>Anticipated Launch of Samsung Galaxy S25 - Insights on Pricing, Release Timeline & Features</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/download-facebook-audio-mp3s-for-2024/"><u>Download Facebook Audio MP3s for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fortnite-troubleshooting-how-to-solve-the-unable-to-participate-in-a-party-error-error-code-84/"><u>Fortnite Troubleshooting: How To Solve The 'Unable to Participate in a Party' Error (Error Code 84)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-xiaomi-redmi-note-13-pro-5g-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Xiaomi Redmi Note 13 Pro 5G</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-repair-logitech-c920-webcam-connectivity-and-performance/"><u>How To Repair Logitech C920 Webcam Connectivity and Performance</u></a></li>
+<li><a href="https://facebook.techidaily.com/identity-infiltration-suspicious-social-sites/"><u>Identity Infiltration: Suspicious Social Sites</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigate-the-digital-world-with-tom-in-depth-reviews-of-hardware-and-software/"><u>Navigate the Digital World with Tom: In-Depth Reviews of Hardware & Software</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-gaming-hurdles-solving-pc-crashes-in-forza-horizon-4-easily/"><u>Overcome Gaming Hurdles: Solving PC Crashes in Forza Horizon 4 Easily</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-game-freezes-in-psychonauts-2-how-to-prevent-your-pc-from-crashing/"><u>Resolving Game Freezes in Psychonauts 2 - How to Prevent Your PC From Crashing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-modern-warfare-pc-start-up-difficulties-in-2e24/"><u>Solving Modern Warfare PC Start-Up Difficulties in 2E24</u></a></li>
+<li><a href="https://win-great.techidaily.com/stunning-realistic-lamborghini-huracan-wallpaper-images-for-pcs-and-mobile-devices-premium-auto-collection/"><u>Stunning Realistic Lamborghini Huracan Wallpaper Images for PCs & Mobile Devices – Premium Auto Collection</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-fixing-cod-modern-warfare-3-crashes-gameplay-interrupted/"><u>Troubleshooting Steps for Fixing COD Modern Warfare 3 Crashes - Gameplay Interrupted!</u></a></li>
+</ul></div>
 

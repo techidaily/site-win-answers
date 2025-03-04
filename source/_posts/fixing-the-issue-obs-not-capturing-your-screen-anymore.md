@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: OBS Not Capturing Your Screen Anymore"
-date: 2025-02-07T22:27:16.738Z
-updated: 2025-02-14T16:33:24.679Z
+date: 2025-03-03T16:09:37.983Z
+updated: 2025-03-04T16:11:48.006Z
 tags:
   - win11
   - win10
@@ -52,10 +52,6 @@ If you’re presented with the**Graphics Driver Crashed** error on Valorant and 
 
 **Note:** Please uninstall the graphics driver first to make sure you’re using the right driver when you update a driver manually.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Option 2 – Automatically
 
  Manual updating a driver is always time-consuming. Fortunately, though, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . You can update the driver either with the FREE or the Pro version of Driver Easy.
@@ -97,10 +93,6 @@ If you’re presented with the**Graphics Driver Crashed** error on Valorant and 
 
  To upgrade your DirectX version, you’ll need to upgrade to the highest level of Windows version. So make sure you’ve performed a full Windows Update.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 4: Reset your graphics card software
 
  NVIDIA comes with the NVIDIA Control Panel and AMD comes with the Catalyst Control Center. Both of these programs allow users to set up graphics profiles that can override application settings and sometimes interfere with VALORANT as a result.
@@ -112,10 +104,6 @@ To fix this, you can try resetting the software to default:
 * Right-click on your **Desktop** and select **NVIDIA Control Panel** .
 * Select **Manage 3D Settings** .
 * Click on **Restore Defaults** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### CATALYST Control Center
 
@@ -131,10 +119,6 @@ To fix this, you can try resetting the software to default:
 
 2) On the loading screen, press**Alt** +**Enter** to set the game to windowed mode.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 6: Stop overclocking
 
  Your device is not that sensitive to overclocking, but the game is, especially when you’re using third-party tools such as MSI Afterburner. This may not fix this error permanently, but it allows you to play the game with fewer crashes.
@@ -146,10 +130,6 @@ To fix this, you can try resetting the software to default:
  Since Valorant consumes a lot of memory and CPU usage when you’re playing a game, some antivirus will mistake it as a potential threat. You can add the Valorant executable file to its exception list, or uninstall it temporarily.
 
  Since the third-party antivirus application hooks very deep into your system, so disabling it may not always work.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 8: Turn VSync off
 
@@ -181,10 +161,6 @@ To fix this, you can try resetting the software to default:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/uninstall-app-now.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Right-click Riot Vanguard and select**Uninstall** .
 
  4) Visit[Valorant’s official website](https://playvalorant.com/en-us/) and download the game installer.
@@ -212,18 +188,22 @@ To fix this, you can try resetting the software to default:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-9-best-gif-recorders-for-for-capturing-animated-gifs-on-windows/"><u>[New] 2024 Approved 9 Best GIF Recorders for for Capturing Animated GIFs on Windows</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-essential-game-editor-tools-for-novices/"><u>[New] Essential Game Editor Tools for Novices</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-free-premiere-pro-starter-kit-with-top-templates/"><u>[New] In 2024, Free Premiere Pro Starter Kit with Top Templates</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-discord-profile-video-info-dimensions-codec-time-span/"><u>2024 Approved Discord Profile Video Info Dimensions, Codec, Time Span</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-virtual-verbal-excellence-proven-methods-for-effective-zoom-interactions/"><u>2024 Approved Virtual Verbal Excellence Proven Methods for Effective Zoom Interactions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effortless-dvd-cloning-steps-for-fast-and-easy-copies-in-windows-1011/"><u>Effortless DVD Cloning Steps for Fast and Easy Copies in Windows 10/11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effortless-guide-to-transforming-flv-files-into-high-quality-mp4/"><u>Effortless Guide to Transforming FLV Files Into High-Quality MP4</u></a></li>
-<li><a href="https://win-answers.techidaily.com/essential-solutions-overcoming-challenges-with-failed-video-imports-in-adobe-premiere/"><u>Essential Solutions: Overcoming Challenges with Failed Video Imports in Adobe Premiere</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fast-and-efficient-hd-video-editing-with-wonderfox-hd-converter-factory-pro-the-premier-professional-software-solution/"><u>Fast & Efficient HD Video Editing with WonderFox HD Converter Factory Pro - The Premier Professional Software Solution</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-snapchat-location-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Infinix GT 10 Pro | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723964487420-score-unbeatable-deal-grab-your-steelseries-arctis-nova-pro-wireless-for-just-64-top-choice-in-gaming-headsets/"><u>Score Unbeatable Deal: Grab Your SteelSeries Arctis Nova Pro Wireless for Just $64 - Top Choice in Gaming Headsets!</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-lumafusion-or-final-cut-pro-the-battle-for-video-editing-supremacy-for-2024/"><u>Updated LumaFusion or Final Cut Pro The Battle for Video Editing Supremacy for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-crafting-your-perfect-youtube-playlists-a-step-by-step-guide/"><u>[New] In 2024, Crafting Your Perfect YouTube Playlists A Step-by-Step Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-efficient-techniques-for-capturing-google-voice-calls/"><u>[Updated] Efficient Techniques for Capturing Google Voice Calls</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-free-software-for-sound-changes-amplify-and-elevate-your-vocal-impact/"><u>[Updated] Free Software For Sound Changes - Amplify and Elevate Your Vocal Impact</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-immediate-silence-sudden-deletion-fears/"><u>2024 Approved Immediate Silence Sudden Deletion Fears</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ashen-crash-fixed-swift-and-simple-solutions/"><u>Ashen Crash Fixed: Swift and Simple Solutions!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/assassins-creed-valhalla-release-date-delay-what-the-developers-had-to-say/"><u>Assassin's Creed Valhalla Release Date Delay: What the Developers Had to Say</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-chivalry-crashing-fix-your-game-experience-with-our-expert-guidance-no-more-frustrations/"><u>Beat Chivalry ˈCrashing': Fix Your Game Experience with Our Expert Guidance - No More Frustrations</u></a></li>
+<li><a href="https://win-answers.techidaily.com/error-free-gaming-experience-correcting-call-of-duty-warzones-disc-read-mistakes-with-50-31/"><u>Error-Free Gaming Experience - Correcting Call of Duty Warzone's Disc Read Mistakes with [5.0, 3.1]</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-naraka-point-blades-stutter-a-comprehensive-guide/"><u>How to Fix Naraka: Point Blades Stutter - A Comprehensive Guide</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-huawei-nova-y91-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Huawei Nova Y91 Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Infinix Hot 40? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-samsung-galaxy-s24plus-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Samsung Galaxy S24+ Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-moto-g73-5g-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Motorola Moto G73 5G Phone without Google Account?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-fixes-for-cod-black-ops-cold-war-error-code-80070057-problems/"><u>Mastering Fixes for COD: Black Ops Cold War Error Code 80070057 Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-pc-issues-for-a-seamless-destiny-2-playthrough/"><u>Resolved PC Issues for a Seamless Destiny 2 Playthrough</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-high-latency-issues-ultimate-guide-to-improve-your-ping-in-back-4-blood/"><u>Resolving High Latency Issues: Ultimate Guide to Improve Your Ping in Back 4 Blood</u></a></li>
+<li><a href="https://facebook.techidaily.com/silent-social-media-archiving-to-mask-facebook-footprints/"><u>Silent Social Media: Archiving to Mask Facebook Footprints</u></a></li>
 </ul></div>
 

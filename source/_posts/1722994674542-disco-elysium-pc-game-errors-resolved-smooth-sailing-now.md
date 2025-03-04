@@ -1,7 +1,7 @@
 ---
 title: "Disco Elysium PC Game Errors Resolved: Smooth Sailing Now"
-date: 2025-02-07T21:46:38.290Z
-updated: 2025-02-14T17:18:37.235Z
+date: 2025-02-25T16:15:52.795Z
+updated: 2025-03-04T16:14:46.488Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ When you double-click Discord but the program won’t open, it could be very fru
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -46,10 +42,6 @@ When you double-click Discord but the program won’t open, it could be very fru
  1) Press**the Windows logo key + R** together and type**cmd** on your keyboard. Then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/command-prompt-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Type**taskkill /F /IM discord.exe** and press the**Enter** key.
 
@@ -109,41 +101,21 @@ If it doesn’t work, move to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/p4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Set Control Panel**View by Category** and click**Network and Internet** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/proxy-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click**Internet Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/p1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) In the**Connections** tab, click**Lan Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/p2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Uncheck**Use a proxy server for your LAN** . Then click OK to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/p3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6) Relaunch the Discord and it should open.
 
@@ -164,15 +136,7 @@ If it doesn’t work, move to the next fix.
 
 ![ipconfig flushdns](https://images.drivereasy.com/wp-content/uploads/2018/10/ipconfig-flushdns.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5) Launch the Discord again. It should open.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 7: Reinstall the Discord
 
@@ -249,22 +213,18 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-favorite-frames-most-engaged-ig-filters/"><u>[New] 2024 Approved Favorite Frames Most Engaged IG Filters</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-the-new-wave-of-virtual-reality-finger-tech-for-2024/"><u>[New] The New Wave of Virtual Reality Finger Tech for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-the-ultimate-highlight-optimization-checklist-for-brands/"><u>[New] The Ultimate Highlight Optimization Checklist for Brands</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-harvest-hangouts-the-most-friendly-farm-gaming-experiences/"><u>[Updated] 2024 Approved Harvest Hangouts The Most Friendly Farm Gaming Experiences</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-laughing-skits-building-a-parody-film/"><u>[Updated] 2024 Approved Laughing Skits Building a Parody Film</u></a></li>
-<li><a href="https://win-answers.techidaily.com/vob-2024mp48/"><u>最新VOB フリーコンバイトアプリ：2024年版！MP4に順調な移行方法を教えます、強化された選択8つ</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-10-free-web-conferencing-software-for-online-meeting/"><u>In 2024, 10 Free Web Conferencing Software for Online Meeting</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-fake-snapchat-location-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/optimizing-igtv-videos-editing-strategies/"><u>Optimizing IGTV Videos Editing Strategies</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/ripristina-facilmente-il-profilo-utente-di-windows-11-guida-completa/"><u>Ripristina Facilmente Il Profilo Utente Di Windows 11: Guida Completa</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-rated-free-webm-video-editor-no-watermark-and-easy-steps/"><u>Top-Rated Free WebM Video Editor: No Watermark & Easy Steps!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/transforming-your-m4v-videos-into-mp4-for-free-using-windows-comprehensive-tutorial/"><u>Transforming Your M4V Videos Into MP4 for Free Using Windows - Comprehensive Tutorial</u></a></li>
-<li><a href="https://win-answers.techidaily.com/trouble-free-methods-for-working-with-h264-footage-in-adobe-premiere-pro/"><u>Trouble-Free Methods for Working with H264 Footage in Adobe Premiere Pro</u></a></li>
-<li><a href="https://win-answers.techidaily.com/two-effective-techniques-to-transform-your-youtube-videos-into-ogg-format/"><u>Two Effective Techniques to Transform Your YouTube Videos Into OGG Format</u></a></li>
-<li><a href="https://win-answers.techidaily.com/volume-maximization-tool-ultimate-guide-to-loudening-media-content-with-ease/"><u>Volume Maximization Tool - Ultimate Guide to Loudening Media Content with Ease</u></a></li>
-<li><a href="https://win-answers.techidaily.com/wma2024-google/"><u>WMAマルチメディアを超えて：2024年の再生方法とトラブルシューティング - Google</u></a></li>
-<li><a href="https://win-answers.techidaily.com/wonderfox-your-lost-pages-located-an-informative-guide/"><u>WonderFox: Your Lost Pages Located! - An Informative Guide</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/issecting-video-ranking-algorithms-on-youtube-for-2024/"><u>[New] Dissecting Video Ranking Algorithms on YouTube for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-essential-guide-to-mounting-a-tripod-for-vloggers/"><u>[Updated] In 2024, Essential Guide to Mounting a Tripod for Vloggers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-picks-unleash-creativity-with-free-text-visualizers-online/"><u>2024 Approved Top Picks Unleash Creativity with Free Text Visualizers Online</u></a></li>
+<li><a href="https://win-answers.techidaily.com/diablo-immortal-stability-hacks-for-players-no-more-pc-crashes/"><u>Diablo Immortal Stability Hacks for Players: No More PC Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-for-deathloop-game-crash-issues-no-more-freezing-frames-on-pc/"><u>Fixes for 'Deathloop' Game Crash Issues: No More Freezing Frames on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723002493208-get-back-in-control-of-the-fia-world-rally-championship-resolve-wrc-s-pc-crashing-issues-now/"><u>Get Back in Control of the FIA World Rally Championship: Resolve WRC S PC Crashing Issues Now</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/leading-websites-for-acoustic-phone-alerts/"><u>Leading Websites for Acoustic Phone Alerts</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/mastering-your-systems-audio-and-hardware-configurations-with-yl-software-expertise/"><u>Mastering Your System's Audio & Hardware Configurations with YL Software Expertise</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-the-launch-roadblock-in-the-witcher-3-wild-hunt-with-effective-solutions/"><u>Overcome the Launch Roadblock in The Witcher 3: Wild Hunt with Effective Solutions</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-media-sensation-transforming-your-online-assembly/"><u>Social Media Sensation: Transforming Your Online Assembly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-strategies-to-overcome-the-battle-royales-blackout-problem-on-warzone/"><u>Top Strategies to Overcome the Battle Royale's Blackout Problem on Warzone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-fatal-errors-in-batman-arkham-knight-for-smooth-playthrough/"><u>Troubleshooting Fatal Errors in Batman: Arkham Knight for Smooth Playthrough</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Resolving TOTAL WAR: WARHAMMER II Stability Problems - Fixes & Solutions"
-date: 2025-02-12T17:24:17.825Z
-updated: 2025-02-15T01:15:05.871Z
+date: 2025-02-25T16:11:19.020Z
+updated: 2025-03-04T16:02:32.373Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ _Total War: WARHAMMER II_ constantly crashes your PC?
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixes to try
 
@@ -63,10 +59,6 @@ _Total War: WARHAMMER II_ constantly crashes your PC?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-00-43.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**  Check your operating system, processor,**and memory** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-00-47.jpg)
@@ -94,10 +86,6 @@ _Total War: WARHAMMER II_ constantly crashes your PC?
 **2)**  Right-click the **Steam icon**  and select **Properties.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-40-03.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)** Click the**Compatibility** tab, then check**Run this program as an administrator** and click**OK** .
 
@@ -164,10 +152,6 @@ If your game crashes again, then try the next fix.
 
 If your issue persists, then move on to the next fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5: Verify the integrity of your game files
 
  Damaged or missing game files can also cause your game to fail. The good news is that you can verify the game files and do a repair if needed within the Steam client. Here is how to do it:
@@ -177,10 +161,6 @@ If your issue persists, then move on to the next fix below.
 **2)**  Click **LIBRARY** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-04-33.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)**  Right-click **Total War: WARHAMMER II** and select **Properties.**
 
@@ -220,10 +200,6 @@ If the game is still unplayable, check the next fix, below.
 
 If your game still won’t launch properly, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 7: Check for Windows Firewall
 
  The game crashing issue can happen if your game is blocked by Windows Firewall. So, you should check the Firewall settings and ensure the program is allowed in Firewall. Here is how：
@@ -244,10 +220,6 @@ If your game still won’t launch properly, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-23-02.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **5)** Click**Change settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-06-26.jpg)
@@ -255,10 +227,6 @@ If your game still won’t launch properly, move on to the next fix.
 **6)** Click each Steam entities, then click**Remove** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-17-25.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **7)** Remove all**_Total War: Warhammer_** entities from the list. Then, click OK.
 
@@ -280,10 +248,6 @@ If this method doesn’t work for you, move on to try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-05-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)**  Click the **Compatibility**  tab. Then check the box next to **Run this program in compatibility mode for** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-05-16.jpg)
@@ -291,10 +255,6 @@ If this method doesn’t work for you, move on to try the fix below.
 **3)**  Click the list box below to select **Windows 7** , then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-05-21-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)**  Relaunch your game to check if your issue had been resolved.
 
@@ -357,17 +317,22 @@ If this method doesn’t work for you, move on to try the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-unmatched-video-downloads-top-8/"><u>[New] Unmatched Video Downloads Top 8</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-quickcopy-custodians-judgment/"><u>[Updated] 2024 Approved QuickCopy Custodians' Judgment</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-tecno-spark-20-pro-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Tecno Spark 20 Pro</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/headquarters-of-virtual-reality-entertainment/"><u>Headquarters of Virtual Reality Entertainment</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-lenovo-thinkphone-by-drfone-android/"><u>How to Bypass FRP on Lenovo ThinkPhone?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-6-proven-ways-to-unlock-oppo-find-x7-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Oppo Find X7 Phone When You Forget the Password</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-apple-iphone-8-fixed-drfone-by-drfone-virtual-ios/"><u>iSpoofer is not working On Apple iPhone 8? Fixed | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-on-free-oga-to-wav-file-transformation/"><u>Step-by-Step Guide on FREE OGA to WAV File Transformation</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-cropping-videos-into-perfect-squares-in-windows-10-or-11/"><u>Step-by-Step Guide: Cropping Videos Into Perfect Squares in Windows 10 or 11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-cutting-videos-within-powerpoint-and-saving-them-on-pc/"><u>Step-by-Step Guide: Cutting Videos Within PowerPoint & Saving Them on PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-integrating-separate-tunes-using-audacity-to-create-an-elongated-soundtrack/"><u>Step-by-Step Guide: Integrating Separate Tunes Using Audacity to Create an Elongated Soundtrack</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-tutorial-for-seamlessly-changing-wrf-to-mp4-with-leading-video-conversion-tools/"><u>Step-by-Step Tutorial for Seamlessly Changing WRF to MP4 with Leading Video Conversion Tools</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-audience-retention-the-key-to-a-great-youtube-conclusion/"><u>[New] In 2024, Audience Retention The Key to a Great YouTube Conclusion</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-navigating-instagrams-updated-feed-dynamics/"><u>[New] In 2024, Navigating Instagram’s Updated Feed Dynamics</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-reimagine-your-storytelling-with-smartly-scaled-instagram-videos-for-2024/"><u>[Updated] Reimagine Your Storytelling with Smartly Scaled Instagram Videos for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/all-you-need-to-know-about-mega-greninja-for-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723014156726-assassins-creed-odyssey-on-pc-say-goodbye-to-crashes-and-hello-to-uninterrupted-epic-quests/"><u>Assassin's Creed Odyssey on PC: Say Goodbye to Crashes and Hello to Uninterrupted Epic Quests</u></a></li>
+<li><a href="https://win-answers.techidaily.com/dealing-with-dead-space-remastered-launch-issues-tips-and-tricks-for-gamers/"><u>Dealing with Dead Space Remastered Launch Issues - Tips & Tricks for Gamers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/from-pitch-black-to-bright-fun-fixing-fortnite-display-failure-on-microsoft-windows-systems/"><u>From Pitch Black to Bright Fun: Fixing Fortnite Display Failure on Microsoft Windows Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/la-noire-now-available-the-long-awaited-pc-version-is-here/"><u>L.A. Noire Now Available: The Long-Awaited PC Version Is Here!</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/mobile-video-smoothing-system-pro-for-2024/"><u>Mobile Video Smoothing System Pro for 2024</u></a></li>
+<li><a href="https://fox-making.techidaily.com/pcdj-essentials-learn-to-auto-cue-and-efficiently-set-inout-for-seamless-transitions/"><u>PCDJ Essentials - Learn to Auto-Cue & Efficiently Set In/Out for Seamless Transitions!</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/proven-techniques-for-counteracting-virtual-insults/"><u>Proven Techniques for Counteracting Virtual Insults</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-backward-image-flip-for-windows-10-users/"><u>Resolving Backward Image Flip for Windows 10 Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-baldurs-gate-overcoming-pc-game-crashes/"><u>Troubleshooting Baldur's Gate Ⅲ: Overcoming PC Game Crashes</u></a></li>
+<li><a href="https://fox-links.techidaily.com/unleashing-creative-naming-top-10-ai-podcast-names/"><u>Unleashing Creative Naming Top 10 AI Podcast Names</u></a></li>
+<li><a href="https://win-answers.techidaily.com/untangling-dead-by-daylights-error-8014-proven-fixes-and-support-tips-for-gamers/"><u>Untangling Dead by Daylight's Error 8014: Proven Fixes and Support Tips for Gamers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/update-your-graphics-driver-for-a-smooth-gameplay-on-forza-horizon-5/"><u>Update Your Graphics Driver for a Smooth Gameplay on Forza Horizon 5</u></a></li>
+<li><a href="https://win-answers.techidaily.com/warzone-players-go-to-fixes-for-epic-dev-error-6634-expert-advice/"><u>Warzone Players' Go-To Fixes for Epic Dev Error 6634 - Expert Advice</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Resolving PC FPS Dips in Resident Evil Village – Top Fixes and Tips
-date: 2025-02-10T21:08:31.633Z
-updated: 2025-02-15T02:32:00.821Z
+date: 2025-03-01T16:00:42.264Z
+updated: 2025-03-04T16:04:13.744Z
 tags:
   - win11
   - win10
@@ -67,10 +67,6 @@ To check the specs of your PC:
 
  If your PC specs have been up to the mark but Resident Evil Village still crashes, please move on to **Fix 2** , below to begin troubleshooting.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Update your device drivers
 
  Device drivers are essential to the functioning of your computer system. If your Resident Evil 8 game keeps crashing, it is likely that you have the wrong, outdated or corrupt graphics driver on your computer. So you should update your drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -87,18 +83,10 @@ To check the specs of your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/5-3.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Restart your computer for the changes to take effect.
 5. Launch Resident Evil Village and check to see if crashing issue has been resolved. If yes, then great! If the issue persists, please try **Fix 3** , below.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Disable Steam overlay
 
@@ -111,20 +99,8 @@ You can disable Steam overlay with the following steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/Resident-Evil-Village-steam-properties-1.jpg)
 3. In the **GENERAL** section, uncheck the **Enable Steam Overlay while in-game** box.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/Disable-the-Steam-Overlay-for-Resident-Evil-Village-2.jpg)
 4. Run Resident Evil Village to see if the crashing problem is fixed. If it doesn’t cut it, please try**Fix 4** , below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Run Steam as administrator
 
@@ -150,10 +126,6 @@ The steps are pretty easy:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/Resident-Evil-Village-steam-properties-1.png)
 4. Click **LOCAL FILES** \> **Verify integrity of game files…** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/INTEGRITY.png)
 5. Wait a few minutes for Steam to validate the files of the game. Again, any files found missing or corrupt would be automatically downloaded in the process.
 
@@ -171,10 +143,6 @@ Here’s how to close background apps:
 3. Restart your computer.
 
  RE8 still crashes? Don’t worry – there’s a couple more fixes for you to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 7: Disable HDR in RE 8 and Windows
 
@@ -200,10 +168,6 @@ Here’s how to close background apps:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/windows-hdr-off.png)
 
  Once you have disabled HDR, run the game in the client and see if it still crashes. If it’s still on-going, please move on to **Fix 8** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 8: Install the latest patch
 
@@ -258,24 +222,21 @@ Here are the steps to perform a clean boot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-diy-guide-screen-capture-and-sound-from-youtube/"><u>[New] In 2024, DIY Guide Screen Capture & Sound From YouTube</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-easy-win-strategy-clownfish-chatter-on-any-pc-with-windows/"><u>[Updated] In 2024, Easy-Win Strategy Clownfish Chatter on Any PC with Windows</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-mastering-youtube-audio-recordings/"><u>[Updated] Mastering YouTube Audio Recordings</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-understanding-youtubes-earnings-structure/"><u>[Updated] Understanding YouTube's Earnings Structure</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-unveiling-6-comprehensive-metaverse-scenarios/"><u>[Updated] Unveiling 6 Comprehensive Metaverse Scenarios</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2023s-elite-web-based-recording-devices-for-2024/"><u>2023'S Elite Web-Based Recording Devices for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/aromatic-hydrocarbons-primarily-undergo-electrophil-cuplation-reactions-to-maintain-their-stability/"><u>Aromatic Hydrocarbons Primarily Undergo Electrophil Cuplation Reactions to Maintain Their Stability.</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-ways-to-prevent-and-fix-pacific-drive-crashes-on-desktops/"><u>Effective Ways to Prevent and Fix Pacific Drive Crashes on Desktops</u></a></li>
-<li><a href="https://win-answers.techidaily.com/eternal-cycle-of-resurgence-the-ultimate-guide-to-black-community-endurance/"><u>Eternal Cycle of Resurgence: The Ultimate Guide to Black Community Endurance</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723006121114-experience-the-reimagined-bioshock-2-remaster-with-improved-graphics/"><u>Experience the Reimagined BioShock 2 Remaster with Improved Graphics!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fix-your-game-nightmares-dealing-with-star-wars-jedi-fallen-order-not-starting/"><u>Fix Your Game Nightmares: Dealing with Star Wars Jedi: Fallen Order Not Starting</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723003409822-fortnite-account-access-issues-fix-your-login-troubles-in-no-time/"><u>Fortnite Account Access Issues? Fix Your Login Troubles in No Time!</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-vivo-v27-pro-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Vivo V27 Pro Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-fall-guys-loading-issues-and-avoid-initial-game-crashes/"><u>How to Fix Fall Guys Loading Issues and Avoid Initial Game Crashes</u></a></li>
-<li><a href="https://blog-min.techidaily.com/july-31st-insights-unlocking-the-secrets-of-todays-new-york-times-connection-416/"><u>July 31St Insights: Unlocking the Secrets of Today's New York Times Connection #416</u></a></li>
-<li><a href="https://win-answers.techidaily.com/pc-stability-solutions-resolving-skyline-city-builder-game-crashes/"><u>PC Stability Solutions: Resolving Skyline City Builder Game Crashes</u></a></li>
-<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Samsung Galaxy F14 5G | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-resolving-the-leaf-glitch-in-apex-legends-2022-update/"><u>Troubleshooting Tips: Resolving the 'Leaf' Glitch in Apex Legends - 2022 Update</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/why-roborocks-s8-maxv-ultra-reigns-supreme-an-in-depth-review-of-the-elite-vacuum-robot-market/"><u>Why Roborock's S8 MaxV Ultra Reigns Supreme: An In-Depth Review of the Elite Vacuum Robot Market</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-affordable-subscriber-boost-buy-and-sell-youtube-views-for-2024/"><u>[Updated] Affordable Subscriber Boost Buy & Sell YouTube Views for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/10-finest-fee-free-lut-options-reviewed-and-accessible-here-for-2024/"><u>10 Finest, Fee-Free LUT Options Reviewed & Accessible Here for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/banishing-stutters-and-halts-overcoming-fallout-3s-window-woes/"><u>Banishing Stutters and Halts: Overcoming Fallout 3'S Window Woes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/common-problems-with-amazon-prime-video-and-effective-solutions/"><u>Common Problems with Amazon Prime Video and Effective Solutions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-whats-new-with-windows-service-pack-updates-a-look-at-july-2024/"><u>Discover What's New with Windows Service Pack Updates - A Look at July 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-solving-local-steam-client-process-failures-and-staying-connected/"><u>Expert Tips: Solving Local Steam Client Process Failures and Staying Connected</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/free-visuals-galore-top-10-sites-to-explore/"><u>Free Visuals Galore – Top 10 Sites to Explore</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-a-persistent-loading-issue-during-discord-live-broadcasts/"><u>How to Fix a Persistent Loading Issue During Discord Live Broadcasts</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-choosing-a-font-for-impactful-youtube-credits/"><u>In 2024, Choosing a Font for Impactful YouTube Credits</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mastering-croatian-conversations-the-most-important-phrases-for-travelers/"><u>Mastering Croatian Conversations: The Most Important Phrases for Travelers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-league-of-legends-stability-a-fast-track-fix-for-persistent-issues/"><u>Mastering League of Legends Stability: A Fast Track Fix for Persistent Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/revive-your-windows-11-taskbar-expert-tips-and-solutions-to-make-it-functional/"><u>Revive Your Windows 11 Taskbar - Expert Tips & Solutions to Make It Functional</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-solutions-getting-your-copy-of-the-witcher-n-wont-start/"><u>Step-by-Step Solutions: Getting Your Copy of The Witcher N Won't Start</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/trouble-with-aol-email-checking-if-the-service-is-down-or-if-user-experience-differs/"><u>Trouble with AOL Email? Checking if the Service Is Down or If User Experience Differs</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/unlock-your-creative-flow-sharing-hundreds-of-photos-and-vids-on-ig/"><u>Unlock Your Creative Flow Sharing Hundreds of Photos and Vids on IG</u></a></li>
+<li><a href="https://facebook.techidaily.com/unraveling-the-step-by-step-process-of-severing-spotify-and-fb-ties/"><u>Unraveling the Step-By-Step Process of Severing Spotify and FB Ties</u></a></li>
 </ul></div>
 

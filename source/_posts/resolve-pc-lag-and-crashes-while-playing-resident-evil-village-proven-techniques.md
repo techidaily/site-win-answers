@@ -1,7 +1,7 @@
 ---
 title: Resolve PC Lag and Crashes While Playing Resident Evil Village - Proven Techniques
-date: 2025-02-08T06:14:54.116Z
-updated: 2025-02-14T22:55:51.966Z
+date: 2025-02-25T16:09:25.117Z
+updated: 2025-03-04T16:08:28.059Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ The long awaited horror game**Resident Evil Village** (RE8) is finally out now. 
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to fix Resident Evil Village Crashing on PC
 
@@ -71,10 +67,6 @@ To check the specs of your PC:
 
  If your PC specs have been up to the mark but Resident Evil Village still crashes, please move on to **Fix 2** , below to begin troubleshooting.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Update your device drivers
 
  Device drivers are essential to the functioning of your computer system. If your Resident Evil 8 game keeps crashing, it is likely that you have the wrong, outdated or corrupt graphics driver on your computer. So you should update your drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -91,18 +83,10 @@ To check the specs of your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/5-3.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Restart your computer for the changes to take effect.
 5. Launch Resident Evil Village and check to see if crashing issue has been resolved. If yes, then great! If the issue persists, please try **Fix 3** , below.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Disable Steam overlay
 
@@ -158,15 +142,7 @@ Here’s how to close background apps:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/123.png)
 3. Restart your computer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  RE8 still crashes? Don’t worry – there’s a couple more fixes for you to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 7: Disable HDR in RE 8 and Windows
 
@@ -189,15 +165,7 @@ Here’s how to close background apps:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/desk.cpl_.png)
 2. Scroll to the Windows HD Color section and turn the toggle for**Play HDR games and apps** to**Of** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/windows-hdr-off.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once you have disabled HDR, run the game in the client and see if it still crashes. If it’s still on-going, please move on to **Fix 8** .
 
@@ -206,10 +174,6 @@ Here’s how to close background apps:
  The game crash is likely to be a bug that comes along previous updates, which requires to be patched in the next release. To check if this is the case, you can install the latest patch, then run the game again to see if the crashing problem ceases.
 
  If there’s no new patch available, or the problem remains after installing the latest patch, head on to **Fix 9** , below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 9: Perform a clean boot
 
@@ -258,21 +222,16 @@ Here are the steps to perform a clean boot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-cutting-edge-communication-strategies-merging-slack-with-filmoras-capabilities-for-2024/"><u>[New] Cutting-Edge Communication Strategies Merging Slack with Filmora's Capabilities for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/utting-edge-content-creation-premier-android-editors-for-2024/"><u>[New] Cutting-Edge Content Creation Premier Android Editors for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovation-at-hand-creating-3d-textures-with-photo/"><u>[Updated] Innovation at Hand Creating 3D Textures with PHOTO</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-video-earnings-explained-average-adsense-fees-per-kv/"><u>[Updated] Youtube Video Earnings Explained Average AdSense Fees per KV</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-metaverse-quest-10-innovative-sci-fi-films-worldwide-travels/"><u>2024 Approved Metaverse Quest 10 Innovative Sci-Fi Films Worldwide Travels</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-obs-rescue-cameras-are-back-up/"><u>2024 Approved OBS Rescue Cameras Are Back Up</u></a></li>
-<li><a href="https://win-forum.techidaily.com/defy-the-rules-installing-windows-11-on-disallowed-processors-step-by-step/"><u>Defy the Rules: Installing Windows 11 on Disallowed Processors Step by Step</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-can-we-unlock-our-asus-rog-phone-8-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Asus ROG Phone 8 Phone Screen?</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/mastering-driver-updates-for-an-improved-acer-nitro-5-experience/"><u>Mastering Driver Updates for an Improved Acer Nitro 5 Experience</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-guide-on-converting-youtube-footage-into-high-quality-mp4/"><u>Quick Guide on Converting YouTube Footage Into High-Quality MP4</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-guide-how-to-speedily-save-prolonged-youtube-videos-for-offline-viewing/"><u>Quick Guide: How To Speedily Save Prolonged YouTube Videos For Offline Viewing</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-playback-unavailable-issue-during-mp4-streaming-on-your-sony-bravia-set/"><u>Resolving 'Playback Unavailable' Issue During MP4 Streaming on Your Sony Bravia Set</u></a></li>
-<li><a href="https://win-answers.techidaily.com/seamlessly-embedding-youtube-content-in-powerpoint-slideshow-tips-and-techniques/"><u>Seamlessly Embedding YouTube Content in PowerPoint Slideshow - Tips & Techniques</u></a></li>
-<li><a href="https://win-answers.techidaily.com/simple-instructional-tips-for-transforming-mpc-audio-into-mp3-compatible-tracks/"><u>Simple Instructional Tips for Transforming MPC Audio Into MP3 Compatible Tracks</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-youtube-downloader-issues-discover-top-reliable-alternatives/"><u>Solving YouTube Downloader Issues - Discover Top Reliable Alternatives</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-converting-various-audio-and-video-files-with-easy-methods/"><u>Step-by-Step Guide: Converting Various Audio and Video Files with Easy Methods</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-achieving-instagrammable-proportion-the-self-clone-method-on-tiktok-for-2024/"><u>[New] Achieving Instagrammable Proportion The Self-Clone Method on TikTok for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723003650181-solved-sid-meiers-civilization-vi-crashing-issue/"><u>[Solved] Sid Meier's Civilization VI Crashing Issue</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-from-streamers-to-millionaires-the-monetization-blueprint/"><u>[Updated] From Streamers to Millionaires The Monetization Blueprint</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-mastering-image-curves-in-adobe-photoshop/"><u>[Updated] In 2024, Mastering Image Curves in Adobe Photoshop</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-visual-voyage-amds-radeon-reborn/"><u>[Updated] In 2024, Visual Voyage AMD's Radeon Reborn</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-itel-s23-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Itel S23</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-csgo-on-pc-10-frames-up/"><u>Enhance CS:GO on PC - 10 Frames Up</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enjoy-a-seamless-gaming-adventure-with-the-updated-flaw-free-yakuza-3-on-pc/"><u>Enjoy a Seamless Gaming Adventure with the Updated, Flaw-Free Yakuza 3 on PC</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-vivo-v30-pro-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Vivo V30 Pro FRP In 3 Different Ways</u></a></li>
+<li><a href="https://win-answers.techidaily.com/metal-gear-solid-v-cold-war-launch-issues-on-consoles-and-computers-a-comprehensive-guide/"><u>Metal Gear Solid V: Cold War Launch Issues on Consoles and Computers – A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-resolving-fortnite-error-84-cannot-connect-to-parties/"><u>Troubleshooting Steps for Resolving Fortnite Error 84: Cannot Connect to Parties</u></a></li>
 </ul></div>
 

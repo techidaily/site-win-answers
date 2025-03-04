@@ -1,7 +1,7 @@
 ---
 title: Master the Installation of Hyper-V Feature on Microsoft's Latest OS
-date: 2025-02-09T02:47:09.042Z
-updated: 2025-02-15T06:54:32.604Z
+date: 2025-02-26T16:01:11.736Z
+updated: 2025-03-04T16:05:57.002Z
 tags:
   - win11
   - win10
@@ -40,10 +40,6 @@ God of War
 6. **[Disable overlays](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Disable background recording and Xbox Game Bar](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Install the latest game patch
 
  The Santa Monica Studio releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -71,10 +67,6 @@ There are mainly two methods for you to update the graphics driver:
 
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
 4. Once the driver is updated, reboot your PC for the changes to take effect.
@@ -107,10 +99,6 @@ There are mainly two methods for you to update the graphics driver:
 
  See if God of War’s in-game fps improves after changing the power plan. If this fix didn’t help, just read on and try the next fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Optimize in-game graphics settings
 
  Optimizing the graphics settings is another fix that may boost the in-game FPS, especially if your PC barely meets the minimum system requirements of God of War. If you have a powerful PC, just skip this fix.
@@ -130,10 +118,6 @@ There are mainly two methods for you to update the graphics driver:
  You also set to quality preset to Original or Low to gain more performance.
 
  Re-launch God of War after you modified the in-game graphics settings and see if its FPS still drops, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Modify graphics card settings
 
@@ -158,10 +142,6 @@ There are mainly two methods for you to update the graphics driver:
 2. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Launch God of War and see if the in-game FPS increases. If not, move on to the next fix, below.
 
 ## Disable overlays
@@ -176,10 +156,6 @@ There are mainly two methods for you to update the graphics driver:
 
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you’re using other apps with overlay features, such as Discord, Nvidia GeForce Experience, Twitch, etc., make sure you’ve disabled the in-game overlay in those apps feature before you restart the game.
 
  Launch God of War again after you disabled all the in-game overlays and see if the in-game FPS improves. If this issue persists, try the next fix, below.
@@ -193,10 +169,6 @@ There are mainly two methods for you to update the graphics driver:
 1. On your keyboard, press **the Windows logo key** and **I** key at the same time to open **Windows Settings** . Click **Gaming** to open Windows 10 gaming settings.  
 ![Windows 10 settings gaming](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-10-settings-gaming.jpg)
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle under **Background recording** if it is turned on.  
@@ -227,24 +199,17 @@ Launch God of War to see if you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-how-to-size-your-videos-youtubes-best-practices-unveiled/"><u>[New] 2024 Approved How to Size Your Videos YouTube's Best Practices Unveiled</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-ultimate-audio-capture-on-screen-for-2024/"><u>[New] Ultimate Audio Capture on Screen for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-best-writing-ever-seen-across-film-genres/"><u>[Updated] Best Writing Ever Seen Across Film Genres</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-quick-guide-enhancing-youtube-clips-using-windows-movie-maker/"><u>2024 Approved Quick Guide Enhancing YouTube Clips Using Windows Movie Maker</u></a></li>
-<li><a href="https://win-answers.techidaily.com/conquer-the-pitch-black-problem-ultimate-guide-for-troubleshooting-fortnite-windows-crashes/"><u>Conquer the Pitch-Black Problem: Ultimate Guide for Troubleshooting Fortnite Windows Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/error-code-0x00001338-in-call-of-duty-vanguard-pc-troubleshooting-and-solutions-unveiled/"><u>Error Code 0X00001338 in Call of Duty: Vanguard - PC Troubleshooting and Solutions Unveiled</u></a></li>
-<li><a href="https://win-answers.techidaily.com/from-pitch-to-play-diagnosing-and-correcting-blank-screens-in-overwatch/"><u>From Pitch to Play: Diagnosing and Correcting Blank Screens in Overwatch</u></a></li>
-<li><a href="https://games-able.techidaily.com/handheld-horizon-nintendo-2024-rumor-round-up/"><u>Handheld Horizon: Nintendo 2024 Rumor Round-Up</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/1721202592901-mastering-cleanup-on-macos-with-schedule-wizard-of-stellar-file-eraser-5s-standard-package/"><u>Mastering Cleanup on macOS with Schedule Wizard of Stellar File Eraser 5'S Standard Package!</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/mobile-virtual-realms-the-best-10-headsets-ranking/"><u>Mobile Virtual Realms The Best 10 Headsets Ranking</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-performance-hitches-stable-gameplay-tips-for-pc-users-of-ghostwire-tokyo/"><u>Overcoming Performance Hitches: Stable Gameplay Tips for PC Users of Ghostwire: Tokyo</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-fixes-for-the-error-message-internet-explorer-not-responding/"><u>Quick Fixes for the 'Error Message - Internet Explorer Not Responding'</u></a></li>
-<li><a href="https://common-error.techidaily.com/restore-lenovo-mouse-pad-functionality-on-your-computer-fixes-for-win-1187-users/"><u>Restore Lenovo Mouse Pad Functionality on Your Computer - Fixes for Win 11/8/7 Users.</u></a></li>
-<li><a href="https://win-answers.techidaily.com/roller-champions-for-pc-essential-crossplay-tips-and-tricks-for-the-2024-edition/"><u>Roller Champions for PC - Essential Crossplay Tips and Tricks for the 2024 Edition</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solutions-for-when-your-logitech-devices-arent-working-correctly-on-pcs/"><u>Solutions for When Your Logitech Devices Aren't Working Correctly on PCs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-resolution-for-execution-restrictions-fixing-access-is-denied-during-setup/"><u>Step-by-Step Resolution for Execution Restrictions: Fixing ‘Access Is Denied’ During Setup</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshoot-and-overcome-world-of-warcrafts-frequent-crashes-with-these-tips/"><u>Troubleshoot & Overcome World of Warcraft's Frequent Crashes with These Tips</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-overcoming-modern-warfares-mw-deverror-6034-playstation-and-pc-strategies/"><u>Troubleshooting Tips for Overcoming Modern Warfare's MW DEV_ERROR 6034 - PlayStation & PC Strategies</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unraveling-the-artificial-mind/"><u>Unraveling the Artificial Mind</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-discover-top-10-cost-free-srt-file-conversion-tools/"><u>[New] Discover Top 10 Cost-Free Srt File Conversion Tools</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-who-are-tiktoks-most-influential-gaming-bloggers/"><u>[New] Who Are TikTok’s Most Influential Gaming Bloggers?</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-minds-on-fire-best-gk-quiz-videos-online-for-2024/"><u>[Updated] Minds on Fire Best GK Quiz Videos Online for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ovative-workout-challenges-for-dynamic-viewers-for-2024/"><u>9 Innovative Workout Challenges for Dynamic Viewers for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722856875278-all-about-samsung-unpacked-2025-when-it-happens-plus-top-gadget-reveals/"><u>All About Samsung Unpacked 2025: When It Happens + Top Gadget Reveals!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-techniques-to-overcome-lagging-in-video-games-tips/"><u>Effective Techniques to Overcome Lagging in Video Games - Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-stability-issues-with-praey-for-the-gods-on-desktop-pcs/"><u>Resolving Stability Issues With Praey: For The Gods on Desktop PCs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solve-your-launch-troubles-with-these-tips-for-pathfinder-wrath-of-the-righteous/"><u>Solve Your Launch Troubles with These Tips for Pathfinder: Wrath of the Righteous</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-getting-your-corsair-icue-to-work-in-windows-11/"><u>Step-by-Step Guide: Getting Your Corsair iCUE to Work in Windows 11</u></a></li>
+<li><a href="https://win-blog.techidaily.com/stop-ghost-recon-breakpoint-from-crashing-now-with-easy-steps/"><u>Stop Ghost Recon Breakpoint From Crashing Now with Easy Steps!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/turbocharge-your-github-download-rates-key-hacks-for-peak-performance/"><u>Turbocharge Your GitHub Download Rates: Key Hacks for Peak Performance</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-thin-tech-marvels-is-apples-new-008-inch-ipad-difference-worth-it/"><u>Unveiling Thin Tech Marvels: Is Apple's New 0.08-Inch IPad Difference Worth It?</u></a></li>
 </ul></div>
 

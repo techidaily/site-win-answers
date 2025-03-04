@@ -1,7 +1,7 @@
 ---
 title: "Fixing Silent Issues: How To Troubleshoot Lack of Audio During Your Live Broadcast"
-date: 2025-02-09T17:21:26.404Z
-updated: 2025-02-14T16:33:08.603Z
+date: 2025-02-26T16:05:57.515Z
+updated: 2025-03-04T16:06:05.626Z
 tags:
   - win11
   - win10
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/0a18a6b406ce9f21eda937adac64825b459ee3a87
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -54,10 +50,6 @@ thumbnail: https://thmb.techidaily.com/0a18a6b406ce9f21eda937adac64825b459ee3a87
 
  If your problem still persists, don’t worry. There are other solutions.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Set your graphics settings to Low
 
  If your game settings is set High, it’s possible that your Fortnite is not loading, since the graphics settings are too much to load for your computer. So you should set your Fortnite graphics settings to Low.
@@ -75,10 +67,6 @@ To do so, follow these steps:
    * **Effects** : low  
    * **Show** **FPS** : On  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be91f07309c9.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Save your game settings, and restart your computer to see if your Fortnite loads properly.
 
@@ -101,10 +89,6 @@ To do so, follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be920abeeb8a.jpg)
 3. Click the**Update** button next to your device to automatically download the latest drivers (you can do this with the**FREE** version). Then install the drivers in your computer.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click**Update All** the automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be920cf0d891.jpg)
 4. Restart your computer to take effect.
@@ -125,10 +109,6 @@ Still no luck? Okay, there’s something else to try.
 4. Then you can run your Fortnite as admin.
 
 Check if your game can load properly.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Configure your computer settings
 
@@ -165,19 +145,11 @@ Below lists out some PC settings you can configure:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be922528c0d3.jpg)
 3. Click**Advanced system settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be9228805808.jpg)
 4. The**System Properties** pane will pop up. Under the**Advanced** tab, click the**Settings** button in the**Performance** section.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be922bfef5f6.jpg)
 5. Click the**Advanced** tab, and make sure to select**Adjust for best performance of Programs** . Then click**Apply** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be9237d987ca.jpg)
 6. Click**Data Execution Prevention** , and make sure to choose **Turn on DEP for essential Windows programs and services only** . Then Click**Apply** and**OK** to save.  
@@ -209,18 +181,20 @@ Launch your Fortnite and see if it will load properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-save-space-and-time-with-fb-video-conversion-tools/"><u>[Updated] 2024 Approved Save Space & Time with FB Video Conversion Tools</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-aesir-clash-dawn-of-the-gods-for-2024/"><u>[Updated] Aesir Clash Dawn of the Gods for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-the-illustrator-way-adding-realistic-blur-to-your-pics/"><u>2024 Approved The Illustrator Way Adding Realistic Blur to Your Pics</u></a></li>
-<li><a href="https://win-answers.techidaily.com/beat-cod-black-ops-cold-war-glitch-overcome-error-80070057-with-these-steps/"><u>Beat Cod: Black Ops Cold War Glitch - Overcome Error 80070057 with These Steps</u></a></li>
-<li><a href="https://facebook.techidaily.com/digital-discipline-validity-in-banning-trump-short-term-measure/"><u>Digital Discipline: Validity in Banning Trump, Short-Term Measure</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ghostrunner-not-working-troubleshoot-and-resolve-windows-11-issues-with-ease/"><u>Ghostrunner Not Working? Troubleshoot and Resolve Windows 11 Issues with Ease</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-speedy-instagram-media-consumption-strategies/"><u>In 2024, Speedy Instagram Media Consumption Strategies</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-fixes-for-a-stalled-mobile-hotspot-in-windows-11/"><u>Quick Fixes for A Stalled Mobile Hotspot in Windows 11</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/resolved-overcome-plex-media-server-conversion-issues-with-these-proven-fixes/"><u>Resolved: Overcome Plex Media Server Conversion Issues with These Proven Fixes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722996198874-the-mystery-of-missing-la-noire-pc-version-is-solved-start-playing-today/"><u>The Mystery of Missing L.A. Noire PC Version Is Solved - Start Playing Today</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-computer-speakers-of-2024-affordable-choices-and-high-end-audio-experiences/"><u>Top Rated Computer Speakers of 2024: Affordable Choices and High-End Audio Experiences</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-resolving-roblox-startup-problems/"><u>Troubleshooting Steps for Resolving Roblox Startup Problems</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210620090-9781954920255-winks-from-above/"><u>Winks from Above | Free Book</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-chuckling-chords-and-clever-cuts-10-parody-classics/"><u>[New] In 2024, Chuckling Chords & Clever Cuts 10 Parody Classics</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-refreshed-array-of-podcast-interviews-to-attract-listeners/"><u>[Updated] 2024 Approved Refreshed Array of Podcast Interviews to Attract Listeners</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-seamlessly-step-into-a-tiktok-livestream-a-guide/"><u>[Updated] 2024 Approved Seamlessly Step Into a TikTok Livestream A Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-cutting-edge-techniques-for-youtube-video-production-with-sony-vegas/"><u>[Updated] In 2024, Cutting-Edge Techniques for YouTube Video Production with Sony Vegas</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-quickcapture-hd-software-for-2024/"><u>[Updated] QuickCapture HD Software for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pros-choice-9-premium-streaming-services/"><u>2024 Approved Pro's Choice 9 Premium Streaming Services</u></a></li>
+<li><a href="https://win-answers.techidaily.com/discord-camera-malfunction-effective-solutions-and-troubleshooting-techniques/"><u>Discord Camera Malfunction: Effective Solutions & Troubleshooting Techniques</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ensuring-a-flawless-lego-star-wars-the-skywalker-saga-gameplay-on-your-pc/"><u>Ensuring a Flawless Lego Star Wars: The Skywalker Saga Gameplay on Your PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-fixing-valorants-pc-input-lag-issues-a-step-by-step-guide/"><u>Expert Advice: Fixing Valorant's PC Input Lag Issues – A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-issue-why-your-dvd-isnt-working-on-a-windows-pc/"><u>Fixing the Issue: Why Your DVD Isn't Working on a Windows PC</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-basic-steps-to-hassle-free-high-dynamic-range-hdr/"><u>In 2024, Basic Steps to Hassle-Free High Dynamic Range (HDR)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/lost-ark-freezes-and-fails-on-windows-how-to-fix-game-stability-issues/"><u>Lost Ark Freezes & Fails on Windows: How to Fix Game Stability Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-solutions-to-fix-league-of-legends-wont-open-issue/"><u>Step-by-Step Solutions to Fix League of Legends Won't Open Issue</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-audio-issues-how-to-get-your-minecraft-sounds-working-again-on-windowspc/"><u>Troubleshooting Audio Issues: How to Get Your Minecraft Sounds Working Again on Windows/PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723005431506-windows-11-taskbar-malfunction-heres-how-you-can-repair-it/"><u>Windows 11 Taskbar Malfunction? Here's How You Can Repair It</u></a></li>
 </ul></div>
 

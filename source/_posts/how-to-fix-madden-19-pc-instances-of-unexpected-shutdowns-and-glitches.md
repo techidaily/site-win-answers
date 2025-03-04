@@ -1,7 +1,7 @@
 ---
 title: How to Fix Madden 19 PC Instances of Unexpected Shutdowns and Glitches
-date: 2025-02-11T23:14:00.856Z
-updated: 2025-02-15T02:19:15.097Z
+date: 2025-03-01T16:04:55.909Z
+updated: 2025-03-04T16:08:33.956Z
 tags:
   - win11
   - win10
@@ -34,19 +34,11 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 4. [Set game options to LOW](https://tools.techidaily.com/drivereasy/download/)
 5. [Verify Integrity of Game Files](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Disable overlays for your game
 
  If there is any overlay software running when you play Dark Souls 3, it may cause game crashing on startup or freezing. It’s normal to use overlays for Steam games, but some games could be incompatible with overlay software.
 
 **Try disabling overlays for Dark Souls 3** and see if your game stops crashing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Run in Windowed mode
 
@@ -63,10 +55,6 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
  2) Type**_%appdata%_** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-710.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Open**DarkSouls3** folder.
 
@@ -123,10 +111,6 @@ If you can’t access the in-game settings, try this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-710.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Open**DarkSouls3** folder.
 
  4) Open**GraphicsConfig.xml** with notepad.
@@ -140,10 +124,6 @@ If you can’t access the in-game settings, try this:
 Then play your game to see if it works properly.
 
  Still no luck? Don’t give up hope. There’s one more thing to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Verify Integrity of Game Files
 
@@ -162,10 +142,6 @@ Then play your game to see if it works properly.
  4) Click the**Local files** tab, and click**Verify Integrity Of Game Files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-705.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Steam will check your game files and fix any detected problems. Follow the on-screen instructions to finish the process.
 
@@ -192,21 +168,20 @@ Then play your game to see if it works properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-ideal-video-snapper-for-your-chromebook/"><u>[New] In 2024, Ideal Video Snapper For Your Chromebook</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovative-text-techniques-in-videos/"><u>[New] Innovative Text Techniques in Videos</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-perfecti-the-ultimate-guide-to-iphone-slideshows-xs-max/"><u>[New] Perfecti The Ultimate Guide to iPhone Slideshows (XS Max)</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-quantum-hdr-phenomenon-in-digital-photography/"><u>[Updated] 2024 Approved Quantum HDR Phenomenon in Digital Photography</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-channel-gain-strategies-for-youtube-aspirants/"><u>[Updated] In 2024, Channel Gain Strategies for YouTube Aspirants</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mastering-instagram-simplified-techniques-for-perfect-collages/"><u>[Updated] Mastering Instagram Simplified Techniques for Perfect Collages</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-comprehensible-guide-to-selecting-popular-youtube-openings-for-2024/"><u>[Updated] The Comprehensible Guide to Selecting Popular YouTube Openings for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/astro-a50-not-showing-up-heres-how-to-fix-your-headset-detection-problems/"><u>Astro A50 Not Showing Up? Here's How to Fix Your Headset Detection Problems!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Oppo A2 | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/dragon-age-origins-stability-issues-fixed-for-windows-11-users/"><u>Dragon Age: Origins Stability Issues Fixed for Windows 11 Users</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-tips-on-repairing-issues-with-internet-explorer-not-working/"><u>Expert Tips on Repairing Issues with Internet Explorer Not Working</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-ensuring-seamless-play-of-palworld-without-any-interruptions-or-pc-crashes/"><u>How To: Ensuring Seamless Play of Palworld Without Any Interruptions or PC Crashes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-resource-alerts-customizing-taskbar-for-resource-monitoring/"><u>Master Resource Alerts: Customizing Taskbar for Resource Monitoring</u></a></li>
-<li><a href="https://win-answers.techidaily.com/optimizing-your-experience-tips-to-address-splitgates-frame-rate-drops-and-hitches/"><u>Optimizing Your Experience: Tips to Address Splitgate's Frame Rate Drops and Hitches</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-connectivity-problems-in-the-steam-user-community-interface/"><u>Overcoming Connectivity Problems in the Steam User Community Interface</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solution-steps-for-the-resident-evil-village-not-launching-correctly/"><u>Solution Steps for the 'Resident Evil Village Not Launching Correctly'</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-your-personal-playlist-on-the-go-for-2024/"><u>[New] Your Personal Playlist On-the-Go for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-enhancing-speed-and-stability-more-ram-for-minecraft/"><u>[Updated] 2024 Approved Enhancing Speed & Stability More RAM For Minecraft</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-achieve-uniqueness-with-character-vocal-changes-in-free-fire-at-zero-price-for-2024/"><u>[Updated] Achieve Uniqueness with Character Vocal Changes in Free Fire, at Zero Price for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/conquer-the-battlefield-expert-advice-on-resolving-dota-2-latency-problems/"><u>Conquer the Battlefield: Expert Advice on Resolving Dota 2 Latency Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cyberpunk-2077s-episode-2024-glitches-unraveling-the-mystery/"><u>Cyberpunk 2077'S Episode 2024 Glitches: Unraveling the Mystery</u></a></li>
+<li><a href="https://win-answers.techidaily.com/directx-compatibility-fixes-for-a-smooth-call-of-duty-modern-warfare-eb-gameplay-experience/"><u>DirectX Compatibility Fixes for a Smooth Call of Duty: Modern Warfare Eb Gameplay Experience</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-update-lenovo-x1-carbon-drivers-compatible-with-windows-11-and-7-installed-pcs/"><u>Download and Update Lenovo X1 Carbon Drivers: Compatible with Windows 11 & 7 Installed PCs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effortless-ways-to-correct-winwordexe-application-problems/"><u>Effortless Ways to Correct WINWORD.EXE Application Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-issue-how-to-stop-battlefront-ii-from-crashing-on-your-windows-machine/"><u>Fixing the Issue: How to Stop Battlefront II From Crashing on Your Windows Machine</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-motorola-defy-2-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Motorola Defy 2 to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/husqvarnas-sky-high-adventure-with-h501s-x4-review-for-2024/"><u>Husqvarna's Sky-High Adventure with H501S X4 Review for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-engage-with-audio-world-iphones-and-podcasts/"><u>In 2024, Engage with Audio World IPhones and Podcasts</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-unlock-seamless-edits-audio-video-syncing-in-fcpx-2024-explaine/"><u>New Unlock Seamless Edits Audio-Video Syncing in FCPX 2024 Explaine</u></a></li>
+<li><a href="https://win-answers.techidaily.com/phasmophobias-latest-fault-fixes-a-comprehensive-guide-for-the-new-year/"><u>Phasmophobia's Latest Fault Fixes - A Comprehensive Guide for the New Year</u></a></li>
+<li><a href="https://win-answers.techidaily.com/slash-your-computers-memory-load-with-these-chrome-optimization-tricks/"><u>Slash Your Computer's Memory Load with These Chrome Optimization Tricks</u></a></li>
 </ul></div>
 

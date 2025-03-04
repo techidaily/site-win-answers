@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Fixing Fallout 3 Game Crashes on Windows 11"
-date: 2025-02-10T17:47:56.028Z
-updated: 2025-02-15T04:17:39.392Z
+date: 2025-03-01T16:06:25.730Z
+updated: 2025-03-04T16:11:39.033Z
 tags:
   - win11
   - win10
@@ -100,10 +100,6 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Verify the integrity of game files
 
  If you play PoE on Steam, you can verify the integrity of your game files using the following procedure:
@@ -116,10 +112,6 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-17.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Go to the **LOCAL FILES** tab and select **VERIFY INTEGRITY OF GAME FILES…** . Then wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-18.png)
@@ -129,10 +121,6 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
 In case this fix didn’t help, please move on to Fix 4.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Run RoE as an administrator
 
@@ -145,17 +133,9 @@ In case this fix didn’t help, please move on to Fix 4.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-24.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) In the Properties window, on the **Compatibility** tab, select **Run this program as an administrator** . Then click **Apply > OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-19.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now you should be able to run RoE under administrator privileges permanently. If you want to revert this configuration, simply uncheck **Run this program as an administrator** .
 
@@ -176,10 +156,6 @@ Still unable to solve the problem? If yes, proceed to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-14.png)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-15.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Wait to see if the crashing issue reoccurs. If it does, maybe these two features should not be blamed for your trouble, and you can enable them later on.
 
@@ -213,20 +189,16 @@ Still unable to solve the problem? If yes, proceed to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-paving-the-way-for-smooth-video-autoplay-on-social-media-platforms/"><u>[New] 2024 Approved Paving the Way for Smooth Video Autoplay on Social Media Platforms</u></a></li>
-<li><a href="https://win-answers.techidaily.com/align-audio-with-video-playback-on-youtube-in-firefox-and-chrome-step-by-step-fix-guide/"><u>Align Audio with Video Playback on YouTube in Firefox and Chrome: Step-by-Step Fix Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/conversion-gratuite-de-fichiers-wma-au-format-wav-avec-movavi-guide-rapide-et-facile/"><u>Conversion Gratuite De Fichiers WMA Au Format WAV Avec Movavi – Guide Rapide Et Facile</u></a></li>
-<li><a href="https://discover-best.techidaily.com/enhance-your-broadcasts-with-manycam-leading-live-video-software-for-customizable-virtual-cameras/"><u>Enhance Your Broadcasts with ManyCam: Leading Live Video Software for Customizable Virtual Cameras</u></a></li>
-<li><a href="https://win-blog.techidaily.com/expert-tips-to-solve-overwatch-pc-freezing-problems-latest-fixes-players/"><u>Expert Tips to Solve Overwatch PC Freezing Problems – Latest Fixes Players</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-genshin-impact-issue-understanding-error-4201/"><u>Fixing Genshin Impact Issue: Understanding Error 4201</u></a></li>
-<li><a href="https://win-answers.techidaily.com/guide-to-resolving-nier-replicant-revived-version-boot-problems/"><u>Guide to Resolving NieR Replicant Revived Version Boot Problems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-overcome-frame-drops-and-stutters-in-fallout-76-gaming-experience/"><u>How to Overcome Frame Drops and Stutters in Fallout 76 Gaming Experience</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-asus-rog-phone-8-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Asus ROG Phone 8 Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-revolutionizing-desktop-capturing-a-look-at-springs-features/"><u>In 2024, Revolutionizing Desktop Capturing A Look at Spring's Features</u></a></li>
-<li><a href="https://win-top.techidaily.com/latest-innovations-in-css-for-html-email-newsletters-with-massmail-tools/"><u>Latest Innovations in CSS for HTML Email Newsletters with MassMail Tools</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-pacific-drive-not-working-effective-tips-and-tricks/"><u>Overcoming Pacific Drive Not Working: Effective Tips & Tricks</u></a></li>
-<li><a href="https://win-answers.techidaily.com/rocket-league-stability-hacks-advanced-solutions-to-end-game-crashes/"><u>Rocket League Stability Hacks: Advanced Solutions to End Game Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-microsoft-edge-stability-problems-for-a-smoother-windows-10-experience/"><u>Troubleshooting Microsoft Edge Stability Problems for a Smoother Windows 10 Experience</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/why-is-ctrlplustab-responsive-in-emeditor-text-editor-and-how-can-you-speed-it-up/"><u>Why Is Ctrl+Tab Responsive in EmEditor Text Editor, and How Can You Speed It Up?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-transforming-ideas-into-engaging-captivate-content/"><u>[Updated] 2024 Approved Transforming Ideas Into Engaging Captivate Content</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/anthem-missing-sounds-on-windows-10-heres-how-you-can-restore-your-games-audio/"><u>Anthem Missing Sounds on Windows 10? Here's How You Can Restore Your Game's Audio!</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/download-free-videos-from-anywhere-with-our-ultimate-video-grabber-tool/"><u>Download Free Videos From Anywhere with Our Ultimate Video Grabber Tool</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-unresponsive-steam-titles-when-starting-them-up-in-windows-10/"><u>How to Fix Unresponsive Steam Titles When Starting Them Up in Windows 10</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-prevent-the-grounded-pc-crash-of-2024-essential-tips-and-tweaks/"><u>How to Prevent the Grounded PC Crash of 2024 - Essential Tips and Tweaks</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-vivo-x-fold-2-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Vivo X Fold 2 Is Unlocked</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-mobility-meets-entertainment-top-portable-viewers/"><u>In 2024, Mobility Meets Entertainment Top Portable Viewers</u></a></li>
+<li><a href="https://win-web3.techidaily.com/mastering-the-selection-of-ideal-mobile-dj-speaker-systems-insights-from-djntv-exclusive/"><u>Mastering the Selection of Ideal Mobile DJ Speaker Systems: Insights From #DJNTV Exclusive</u></a></li>
+<li><a href="https://win-answers.techidaily.com/nba-2k21-launch-issues-fixing-the-perpetual-black-screen-problem-for-a-smooth-game/"><u>NBA 2K21 Launch Issues: Fixing the Perpetual Black Screen Problem for a Smooth Game</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-viewing-guide-watching-x-men-films-sequentially/"><u>The Ultimate Viewing Guide: Watching X-Men Films Sequentially</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-fixing-logitech-options-issues-on-windows/"><u>Troubleshooting Guide: Fixing Logitech Options Issues on Windows</u></a></li>
 </ul></div>
 

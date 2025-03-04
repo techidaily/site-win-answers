@@ -1,7 +1,7 @@
 ---
 title: "Fix: Complete Guide to Resolving OBS Studio Issues on Windows 11 & 10 (Updated )"
-date: 2025-02-10T04:08:56.361Z
-updated: 2025-02-14T21:09:40.831Z
+date: 2025-02-26T16:09:51.588Z
+updated: 2025-03-04T16:09:48.269Z
 tags:
   - win11
   - win10
@@ -38,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/f9dfa57d80070d52083269f7e54688cbc55bc603d
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Fix 1: Delete the cache files of Origin**
 
  This issue may be caused by the cache files of Origin. Try deleting the cache files to see if you can fix this issue. Here’s how to do it:
@@ -50,17 +46,9 @@ thumbnail: https://thmb.techidaily.com/f9dfa57d80070d52083269f7e54688cbc55bc603d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-166-1024x728.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) On your keyboard, press**the Windows logo key** and **R** at the same time to open the Run dialog. Then type **%ProgramData%**  and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/005.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) In the pop-up window, double-click the**Origin**  folder to open it.
 
@@ -77,10 +65,6 @@ thumbnail: https://thmb.techidaily.com/f9dfa57d80070d52083269f7e54688cbc55bc603d
  6) In the pop-up window, delete the**Origin**  folder.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap274.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  7) Click**AppData** in the address bar.
 
@@ -155,10 +139,6 @@ Or
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/pasted-image-1-1-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) If it still doesn’t work, then run the Program Compatibility Troubleshooter again and**select the second option** **to choose compatibility settings based on problems you notice** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/pasted-image-2-1-1.png)
@@ -207,25 +187,13 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-12.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Go back to the**System Configuration** window and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap262-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  6) Click**Restart** to restart your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap263-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Run Origin and check whether the problem reappears when your PC restarts. If not, you need to open the**System Configuration** window again to enable services and applications**one by one** until you find the problematic software. After enabling each service, you need to **restart** your PC to apply the changes.
 
@@ -240,10 +208,6 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
  1) On your keyboard, press**the Windows logo key** and type **update** . In the list of results, click **Check for updates** to open **Windows Update** window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap1-1-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Click **Check for updates** to update your Windows system.
 
@@ -266,10 +230,6 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
  i. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then type **control**  and press **Enter** to open**Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap7-1-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  ii. View Control Panel by **Category** , and then click **Uninstall a program** .
 
@@ -305,16 +265,21 @@ iv. Restart your Windows system when it is completed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-unlocking-asmrs-hidden-layers/"><u>[New] Unlocking ASMR's Hidden Layers</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-iphone-album-arrangement-masterclass-achieving-systematic-order-and-cloud-sync/"><u>[Updated] IPhone Album Arrangement Masterclass Achieving Systematic Order & Cloud Sync</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/a-complete-guide-to-oem-unlocking-on-vivo-y27-4g-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Vivo Y27 4G</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-pioneers-in-post-production-top-tools-for-instagram-content-creators/"><u>In 2024, Pioneers in Post-Production Top Tools for Instagram Content Creators</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-quoras-poe-for-ai-bot-and-llm-entry/"><u>Mastering Quora's POE for AI Bot & LLM Entry</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mpegmov3/"><u>MPEGファイルをMOV形式へ転換するための3つの最適な手法</u></a></li>
-<li><a href="https://win-answers.techidaily.com/pccd/"><u>PCでCDから音楽を直接ダビングする手順</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolved-red-dead-redemption-2-fixes-for-frame-rate-drops-and-performance-lags/"><u>Resolved: Red Dead Redemption 2 - Fixes for Frame Rate Drops & Performance Lags</u></a></li>
-<li><a href="https://win-answers.techidaily.com/simple-steps-to-transform-dvd-video-into-avi-format-seamlessly/"><u>Simple Steps to Transform DVD Video Into AVI Format Seamlessly</u></a></li>
-<li><a href="https://win-answers.techidaily.com/smooth-streaming-of-mp4-videos-on-kindle-essential-troubleshooting-tips/"><u>Smooth Streaming of MP4 Videos on Kindle: Essential Troubleshooting Tips!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mxf-to-mp4/"><u>スムーズなMXF to MP4変換手順：高解像度・迅速化戦略</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-premier-9-multi-device-video-communication-tools-for-smartphones/"><u>2024 Approved Premier 9 Multi-Device Video Communication Tools for Smartphones</u></a></li>
+<li><a href="https://win-answers.techidaily.com/combat-lag-and-frame-drops-in-cyberpunk-2077-effective-solutions-to-enhance-your-gameplay/"><u>Combat Lag and Frame Drops in Cyberpunk 2077: Effective Solutions to Enhance Your Gameplay</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/comment-recuperer-des-fichiers-a-partir-dun-disque-dur-externe-non-reconnu/"><u>Comment Récupérer Des Fichiers À Partir D'un Disque Dur Externe Non Reconnu ?</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/compact-computing-redefined-meet-the-minisforum-atomman-x7-equipped-with-intel-core-i3-1850u-and-responsive-touch-interface/"><u>Compact Computing Redefined: Meet the MinisForum AtomMan X7, Equipped with Intel Core I3-1850U & Responsive Touch Interface</u></a></li>
+<li><a href="https://win-answers.techidaily.com/critical-fixes-for-team-fortress-2s-crashing-problems-game-now-running-smoothly/"><u>Critical Fixes for Team Fortress 2'S Crashing Problems – Game Now Running Smoothly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-quickly-overcome-fortnite-launching-challenges/"><u>How to Quickly Overcome Fortnite Launching Challenges</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-10-cost-free-innovative-photo-overlays-for-mobile-devices/"><u>In 2024, 10 Cost-Free, Innovative Photo Overlays for Mobile Devices</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-facebook-faults-recovering-login-credentials-quickly/"><u>In 2024, Facebook Faults? Recovering Login Credentials Quickly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/masterful-techniques-to-overcome-palworld-search-dysfunctions/"><u>Masterful Techniques to Overcome Palworld Search Dysfunctions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-task-automation-with-chatgpt-as-your-virtual-work-companion/"><u>Mastering Task Automation with ChatGPT as Your Virtual Work Companion</u></a></li>
+<li><a href="https://win-answers.techidaily.com/sharper-resolution-for-a-clearer-outriders-gaming-experience/"><u>Sharper Resolution for a Clearer Outriders Gaming Experience</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/swift-screen-preserve-audio-accompanying-for-2024/"><u>Swift Screen Preserve Audio Accompanying for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-when-ie-stops-responding-solutions-for-a-smooth-browser-experience/"><u>Troubleshooting Tips When IE Stops Responding: Solutions for a Smooth Browser Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-to-stabilizing-hitman-3-on-your-pc-expert-fixes-for-the-latest-issues-in-2er/"><u>Ultimate Guide to Stabilizing Hitman 3 on Your PC - Expert Fixes for the Latest Issues in 2Er</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-call-logs-from-infinix-zero-30-5g-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Infinix Zero 30 5G</u></a></li>
+<li><a href="https://solve-help.techidaily.com/unlocking-kindle-potential-advanced-techniques-for-ebook-navigation-and-management/"><u>Unlocking Kindle Potential: Advanced Techniques for eBook Navigation & Management</u></a></li>
 </ul></div>
 

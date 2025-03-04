@@ -1,7 +1,7 @@
 ---
 title: "Black Screen Woes Solved: Effective Troubleshooting Guide"
-date: 2024-08-19T00:53:14.762Z
-updated: 2024-08-20T00:53:14.762Z
+date: 2025-03-03T16:02:19.749Z
+updated: 2025-03-04T16:00:31.513Z
 tags:
   - win11
   - win10
@@ -31,17 +31,11 @@ thumbnail: https://thmb.techidaily.com/a8009f1be4223fad5f174852a5dbbbf732624444e
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 1: Run Fallout 4 as Compatibility mode
 
  Run Fallout 4 in compatibility mode is a way to solve many problems. This Fallout 4 black screen error may be caused by the incompatibility with the system. So change the compatibility mode may help you solve the issue.
 
 1. Right-click on Fallout 4 and click **Properties** .
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 2. In the Compatibility tab, click**Run this program in compatibility mode for** . Then choose the system in the drop-down menu.![](https://images.drivereasy.com/wp-content/uploads/2019/08/com.jpg)
 3. Click **OK** then run Fallout 4 to check.
 
@@ -63,18 +57,6 @@ thumbnail: https://thmb.techidaily.com/a8009f1be4223fad5f174852a5dbbbf732624444e
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Edit configuration files
 
  To fix the black screen issue, you can edit the files to fix it. This method has been proved by many users. Follow the steps below.
@@ -97,27 +79,13 @@ thumbnail: https://thmb.techidaily.com/a8009f1be4223fad5f174852a5dbbbf732624444e
 
 1. Click the**Play** button in the Steam to run the game.
 2. Click**Options** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/f4-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Tick the**Windowed Mode** and**Borderless** .![](https://images.drivereasy.com/wp-content/uploads/2019/08/f4.1.jpg)
 4. Click**Advanced** . Lower the settings and click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/08/f4.2.jpg)
 5. Run the game to check the problem will appear or not.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Disable antivirus software
 
  Some antivirus software may block some features in Minecraft so that you can encounter Unable to connect world issue. If you have installed antivirus software on your computer, you can disable it temporarily and check to see if the problem is resolved.
@@ -136,8 +104,6 @@ thumbnail: https://thmb.techidaily.com/a8009f1be4223fad5f174852a5dbbbf732624444e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -145,4 +111,26 @@ thumbnail: https://thmb.techidaily.com/a8009f1be4223fad5f174852a5dbbbf732624444e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-navigating-peak-hours-best-times-for-instagram-posts/"><u>[New] Navigating Peak Hours Best Times for Instagram Posts</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-optimal-choice-of-drones-for-buyers/"><u>[Updated] Optimal Choice of Drones for Buyers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-best-text-title-effect-types-in-after-effects/"><u>2024 Approved Best Text Title Effect Types in After Effects</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722994977784-assassins-creed-valhalla-solved-pc-performance-problems-for-seamless-adventures/"><u>Assassin's Creed: Valhalla - Solved PC Performance Problems for Seamless Adventures</u></a></li>
+<li><a href="https://win-answers.techidaily.com/conquering-bugs-and-glitches-stable-spellblock-playthrough-for-windows-users/"><u>Conquering Bugs & Glitches: Stable Spellblock Playthrough for Windows Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cyberpunk-2077-gpu-error-on-windows-10-heres-how-to-correctly-utilize-your-graphics-card/"><u>Cyberpunk 2077 GPU Error on Windows 10? Here's How to Correctly Utilize Your Graphics Card</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fortnite-fix-guide-eradicating-error-code-84-and-enabling-party-invitations/"><u>Fortnite Fix Guide: Eradicating Error Code 84 and Enabling Party Invitations</u></a></li>
+<li><a href="https://games-able.techidaily.com/free-range-from-realms-keep-your-realm-creations/"><u>Free-Range From Realms, Keep Your Realm Creations</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-nubia-red-magic-9-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-corrupted-game-files-on-pc-2024/"><u>How to Fix Corrupted Game Files on PC 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-master-iphone-motion-blur-effects-in-images/"><u>In 2024, Master iPhone Motion-Blur Effects in Images</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-essential-guide-to-custom-voices-how-to-alter-game-character-sounds-in-free-fire-no-cost/"><u>In 2024, The Essential Guide to Custom Voices How to Alter Game Character Sounds in Free Fire (No Cost!)</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-understanding-and-utilizing-facebooks-updated-marketing-techniques/"><u>In 2024, Understanding & Utilizing Facebook’s Updated Marketing Techniques</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Oppo Find X7 Ultra | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-star-wars-battlefront-iis-error-327-a-comprehensive-fix-guide/"><u>Resolving Star Wars Battlefront II's Error 327: A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ing-tactics-for-time-strapped-youtubers-for-2024/"><u>Trimming Tactics for Time-Strapped YouTubers for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshoot-and-resolve-chrome-hitches-in-windows-11-expert-advice-needed/"><u>Troubleshoot and Resolve Chrome Hitches in Windows 11 – Expert Advice Needed</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-persistent-pc-issues-with-tower-of-fantasy-game/"><u>Troubleshooting Persistent PC Issues with Tower of Fantasy Game</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-fix-guide-for-helldivers-2-crashing-issues-on-your-computer/"><u>Ultimate Fix Guide for Helldivers 2 Crashing Issues on Your Computer</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Solution: Stop PC Freezes and Glitches While Playing Mobile PUBG"
-date: 2025-02-11T17:17:09.499Z
-updated: 2025-02-15T02:03:20.734Z
+date: 2025-03-03T16:03:13.606Z
+updated: 2025-03-04T16:01:46.326Z
 tags:
   - win11
   - win10
@@ -25,10 +25,6 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Minimum system requirements for Fortnite
 
@@ -65,10 +61,6 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 1: Lower graphics settings
 
  It is possible that the black screen issue occurs because of your graphics card cannot capable the high settings in the game or the game and your graphics card are not compatible with the latest build that you’re using. So try to lower graphics settings in Fortnite to see whether it resolves this problem or not.
@@ -83,10 +75,6 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 2. In the Compatibility tab, click **Run this program in compatibility mode for** . Then choose the system in the drop-down menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/com.jpg)
 3. Click **OK** then run Fortnite to check.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If this method doesn’t help, don’t worry, move to the next one.
 
@@ -128,10 +116,6 @@ OR
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 4: Use your integrated graphics card
 
  If you have the latest and corrected drivers and have two graphics cards on your PC, you can try this method to fix the problem. Use your integrated graphics card to run Fortnite has reported as a useful method to deal with the Fortnite black screen problem.
@@ -139,10 +123,6 @@ OR
  If everything works fine using the integrated graphics, you might need to check your graphics processor or PSU (computer power supply unit) are faulting. The way to test your GPU is using another graphics card on your PC or try this card in another PC.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 5: Change scale and layout limit
 
@@ -155,10 +135,6 @@ OR
 3. Change the scaling limit.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/display1.jpg)
 4. Reboot Fortnite and check whether this problem is resolved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 6: Unblock the game from Windows Firewall
 
@@ -198,22 +174,22 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-building-brand-presence-a-guide-to-planning-instagram-videos/"><u>[New] In 2024, Building Brand Presence A Guide to Planning Instagram Videos</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-overwatch-gameplay-recording-made-easy/"><u>[New] Overwatch Gameplay Recording Made Easy</u></a></li>
-<li><a href="https://win-answers.techidaily.com/beat-the-bug-blitz-in-call-of-duty-warzone-troubleshooting-disc-read-errors-for-optimal-gaming-experience-versions-50-and-31/"><u>Beat the Bug Blitz in Call of Duty Warzone: Troubleshooting Disc Read Errors for Optimal Gaming Experience (Versions 5.0 and 3.1)</u></a></li>
-<li><a href="https://win-answers.techidaily.com/beyond-fates-grasp-thriving-against-endless-returns-within-the-dark-realm/"><u>Beyond Fate's Grasp: Thriving Against Endless Returns Within the Dark Realm</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1722984700354-destiny-2-compatible-with-pc-how-to-fix-the-launch-error-quickly/"><u>Destiny 2 Compatible with PC? How to Fix the Launch Error Quickly</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-guide-overcoming-the-persistent-leaf-bug-in-apex-legends/"><u>Expert Guide: Overcoming the Persistent 'Leaf' Bug in Apex Legends</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-tips-overcoming-problems-with-starting-davinci-resolve-on-windows-systems/"><u>Expert Tips: Overcoming Problems with Starting DaVinci Resolve on Windows Systems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fix-a-sluggish-chrome-browser-fast-simple-solutions/"><u>Fix a Sluggish Chrome Browser Fast: Simple Solutions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/forza-horizon-5-loading-woes-here-are-7-effective-workarounds/"><u>Forza Horizon 5 Loading Woes? Here Are 7 Effective Workarounds</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-tecno-spark-10c-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Tecno Spark 10C Phone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Infinix Smart 8? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Samsung Galaxy F15 5G? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/inside-information-sony-afeela-car-what-to-expect-from-specs-and-market-debut/"><u>Inside Information: Sony Afeela Car - What to Expect From Specs & Market Debut</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-fixing-the-security-breach-alert-in-online-games/"><u>Resolved: Fixing the 'Security Breach' Alert in Online Games</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-gamecrashes-in-windows-11-and-10-solutions-for-a-smooth-gaming-experience/"><u>Troubleshooting GameCrashes in Windows 11 and 10: Solutions for a Smooth Gaming Experience</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/uncover-the-methods-of-detecting-active-airtags-around-you-insights-from-tech-expert/"><u>Uncover the Methods of Detecting Active AirTags Around You - Insights From Tech Expert</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-unbiased-review-is-avs-video-editor-the-right-choice-for-you/"><u>Updated Unbiased Review Is AVS Video Editor the Right Choice for You?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/515-yes-please-secure-your-hp-victus-n-gaming-powerhouse-before-it-sells-out-on-best-buys-exclusive-anti-prime-deal-tips-by-zdnet/"><u>$515? Yes, Please! Secure Your HP Victus N Gaming Powerhouse Before It Sells Out on Best Buy's Exclusive Anti-Prime Deal | Tips by ZDNET</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-photos-files-on-sony-xperia-10-v-by-fonelab-android-recover-photos/"><u>Complete guide for recovering photos files on Sony Xperia 10 V.</u></a></li>
+<li><a href="https://win-answers.techidaily.com/connection-rebuilt-successfully-connected-to-hearthstones-battlegrounds-server-again/"><u>Connection Rebuilt - Successfully Connected to Hearthstone's Battlegrounds Server Again</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/enhancing-your-pcs-discovery-journey-top-6-strategies-for-a-better-windows-11-search/"><u>Enhancing Your PC's Discovery Journey: Top 6 Strategies for a Better Windows 11 Search</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-for-resolving-the-finals-not-working-challenge/"><u>Expert Advice for Resolving the 'Finals Not Working' Challenge</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-and-strategies-for-overcoming-structural-failures-during-demolitions/"><u>Expert Tips and Strategies for Overcoming Structural Failures During Demolitions</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-track-imei-number-of-samsung-galaxy-a15-4g-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Samsung Galaxy A15 4G Through Google Earth?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-honor-100-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Honor 100</u></a></li>
+<li><a href="https://games-able.techidaily.com/level-up-gaming-fun-experience-top-6-chatgpt-games/"><u>Level Up Gaming Fun: Experience Top 6 ChatGPT Games</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-mw-warzone-effective-strategies-to-fix-the-persistent-error-6068/"><u>Mastering MW Warzone: Effective Strategies to Fix the Persistent Error 6068</u></a></li>
+<li><a href="https://win-answers.techidaily.com/maximizing-download-speeds-on-origin-proven-tips-and-tricks/"><u>Maximizing Download Speeds on Origin - Proven Tips & Tricks</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/odins-vengeance-realm-awakens/"><u>Odin’s Vengeance Realm Awakens</u></a></li>
+<li><a href="https://win-answers.techidaily.com/rainbow-six-siege-connections-woes-heres-how-you-can-repair-them/"><u>Rainbow Six Siege Connections Woes? Here's How You Can Repair Them</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-messages-after-honor-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after Honor has been deleted</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-star-citrix-freezing-issues-no-longer-a-problem-for-windows-users/"><u>Resolved: Star Citrix Freezing Issues No Longer a Problem for Windows Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-issues-of-star-wars-jedi-fallen-order-crashes-resolved/"><u>Solving the Issues of Star Wars Jedi: Fallen Order – Crashes Resolved</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tactics-to-resurrect-non-responsive-windows-discord-elements/"><u>Tactics to Resurrect Non-Responsive Windows Discord Elements</u></a></li>
 </ul></div>
 

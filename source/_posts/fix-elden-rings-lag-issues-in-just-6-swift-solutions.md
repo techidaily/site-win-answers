@@ -1,7 +1,7 @@
 ---
 title: Fix Elden Ring's Lag Issues in Just 6 Swift Solutions
-date: 2025-02-09T20:19:11.847Z
-updated: 2025-02-15T01:51:40.610Z
+date: 2025-02-25T16:03:57.483Z
+updated: 2025-03-04T16:02:14.032Z
 tags:
   - win11
   - win10
@@ -70,10 +70,6 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/ifr-verify-1.jpg)
 3. From the left menu, select**Properties** . Under the**Local Files** section, click**Verify files** . Then wait for the checking to complete.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/ifr-verify-2.jpg)
 
  Once completed, launch Immortals Fenyx Rising and see if it crashes again.
@@ -104,16 +100,8 @@ If this method doesn’t help, you can take a look at the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -131,15 +119,7 @@ And here’s how you can make sure your system is the latest:
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click **Check for updates** . Then wait for Windows to download and install available updates automatically.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
@@ -164,24 +144,22 @@ And here’s how you can make sure your system is the latest:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-10-top-picks-for-no-cost-zoom-and-screenshare/"><u>[New] 10 Top Picks for No-Cost Zoom & Screenshare</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-humorhatchery-app/"><u>[New] 2024 Approved HumorHatchery App</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-a-closer-examination-of-googles-ar-stickers-and-competitors/"><u>[New] A Closer Examination of Google's AR Stickers and Competitors</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-recording-rapture-screensavers-review-march-2023/"><u>[Updated] 2024 Approved Recording Rapture ScreenSavers Review – March 2023</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/12-best-free-video-players-and-apps-for-pc-and-mobile-device/"><u>12 Best Free Video Players and Apps for PC and Mobile Device</u></a></li>
-<li><a href="https://win-answers.techidaily.com/bicycle-becomes-bicycles/"><u>Bicycle Becomes Bicycles</u></a></li>
-<li><a href="https://win-answers.techidaily.com/combat-the-code-fixing-pc-woes-with-warzone-version-50-and-31-disc-read-issues/"><u>Combat the Code: Fixing Pc Woes with Warzone Version 5.0 and 3.1 Disc Read Issues</u></a></li>
-<li><a href="https://win-updates.techidaily.com/comment-resoudre-le-probleme-decran-blanc-sur-votre-ordinateur-ou-portable-windows-10/"><u>Comment Résoudre Le Problème D'Écran Blanc Sur Votre Ordinateur Ou Portable Windows 10</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-strives-performance-lags-solutions-explored/"><u>Fixing Strive's Performance Lags: Solutions Explored</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Honor 80 Pro Straight Screen Edition? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/massive-downsizing-at-intel-over-15000-job-cuts-linked-to-meteor-lake-issues-company-halts-dividends-amid-crisis/"><u>Massive Downsizing at Intel: Over 15,000 Job Cuts Linked to Meteor Lake Issues; Company Halts Dividends Amid Crisis</u></a></li>
-<li><a href="https://win-answers.techidaily.com/re-establishing-play-fixing-lost-connections-on-blizzard-servers/"><u>Re-Establishing Play: Fixing Lost Connections on Blizzard Servers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/total-war-three-kingdoms-stability-guide-resolving-the-game-crash-dilemma/"><u>Total War: Three Kingdoms Stability Guide: Resolving the Game Crash Dilemma</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshoot-zoomed-in-photos-on-whatsapp-with-these-simple-fixes/"><u>Troubleshoot Zoomed-In Photos on WhatsApp with These Simple Fixes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-resolving-pc-crashes-in-praey-for-the-gods/"><u>Troubleshooting Guide: Resolving PC Crashes in Praey for the Gods</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-resolving-fix-mechs-vs-minions-starts-but-then-crashes/"><u>Troubleshooting Steps: Resolving Fix: Mechs vs Minions Starts but Then Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-to-finding-solutions-for-pc-instances-of-slime-rancher-ncrashes-and-stalls/"><u>Ultimate Guide to Finding Solutions for PC Instances of Slime Rancher nCrashes and Stalls</u></a></li>
-<li><a href="https://win-answers.techidaily.com/wave-goodbye-to-warzones-blank-canvas-problem-troubleshooting-steps-players/"><u>Wave Goodbye to Warzone's Blank Canvas Problem - Troubleshooting Steps Players</u></a></li>
-<li><a href="https://win-bits.techidaily.com/wrapped-ether-weth-watcher-simplify-your-crypto-journey-by-checking-weth-balances-and-history-with-yl-softwares-advanced-analytics-tools/"><u>Wrapped Ether (WETH) Watcher: Simplify Your Crypto Journey by Checking WETH Balances & History with YL Software’s Advanced Analytics Tools</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723005077392-solved-fortnite-login-failed-quickly-and-easily/"><u>[SOLVED] | Fortnite Login Failed | Quickly & Easily</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-meizu-21-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/best-practices-for-using-chatgpt-responsibly-in-psychological-support-roles/"><u>Best Practices for Using ChatGPT Responsibly in Psychological Support Roles</u></a></li>
+<li><a href="https://win-answers.techidaily.com/call-of-duty-warzone-fixes-restoring-missing-in-game-graphics-and-textures/"><u>Call of Duty Warzone Fixes: Restoring Missing In-Game Graphics and Textures</u></a></li>
+<li><a href="https://win-answers.techidaily.com/diy-repair-tips-getting-your-msi-cases-mystic-light-back-up-and-running-in-windows-environment/"><u>DIY Repair Tips: Getting Your MSI Case's Mystic Light Back Up and Running in Windows Environment</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-ways-to-introduce-bot-functionality-into-your-discord-space/"><u>Easy Ways to Introduce Bot Functionality Into Your Discord Space</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722193519626-emoji-free-tweet-space-linuss-revelations-shared-trojans-analyzed-and-chatgpt-critique/"><u>Emoji-Free Tweet Space, Linus's Revelations Shared, Trojans Analyzed, & ChatGPT Critique</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Vivo Y100t? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-technical-glitches-getting-grand-theft-auto-5-online-up-and-running-again/"><u>Overcoming Technical Glitches: Getting Grand Theft Auto 5 Online Up and Running Again</u></a></li>
+<li><a href="https://win-answers.techidaily.com/phasmophobia-update-woes-solutions-for-the-notorious-stuck-at-warty-90-screen-problem/"><u>Phasmophobia Update Woes? Solutions for the Notorious Stuck at Warty 90% Screen Problem!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-immortals-fenyx-rising-delay-clarified/"><u>Resolved: Immortals: Fenyx Rising Delay Clarified</u></a></li>
+<li><a href="https://win-answers.techidaily.com/say-goodbye-to-endless-wait-solve-robloxs-persistent-loading-screen-error/"><u>Say Goodbye to Endless Wait: Solve Roblox's Persistent Loading Screen Error</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/snapchat-intro-video-breakdown-size-format-duration/"><u>SnapChat Intro Video Breakdown Size, Format, Duration</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stop-game-crashing-issues-tips-to-stabilize-code-vein-on-windows/"><u>Stop Game-Crashing Issues - Tips to Stabilize 'Code Vein' On Windows</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-checklist-for-efficiently-uploading-tracks-on-youtube/"><u>The Ultimate Checklist for Efficiently Uploading Tracks on YouTube</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-3-remedies-to-combat-ipad-stalling-issues-and-techniques-for-future-safeguarding/"><u>Top 3 Remedies to Combat iPad Stalling Issues & Techniques for Future Safeguarding</u></a></li>
 </ul></div>
 

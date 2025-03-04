@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting PC Issues - Stop Manor Lords From Crashing Now!
-date: 2024-08-19T00:51:11.925Z
-updated: 2024-08-20T00:51:11.925Z
+date: 2025-02-27T16:00:20.388Z
+updated: 2025-03-04T16:00:21.194Z
 tags:
   - win11
   - win10
@@ -31,11 +31,6 @@ If you’re playing_Euro Truck Simulator 2 (ETS2)_ on your PC and it starts cras
 6. **[Run the game as an administrator](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Reinstall your game](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ## First thing to check
 
  The minimum system specifications to play _Euro Truck Simulator_ need to be met to run the game smoothly; otherwise, you are likely to run into crashing issues during gameplay. So, if you’re playing on an extremely old PC, the only way to fix the crashing issue would be an upgrade to your computer’s hardware.
@@ -51,9 +46,6 @@ The powerful video editing program for your Windows PC</a>
 
  Make sure your PC meets the minimum system specs to run the game, then move on to the solutions below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 1: Verify the integrity of game files
 
  Game crashing issues can be caused by a missing or corrupted game file. If you’re playing on Steam, follow the instructions below to verify the integrity of your game files:
@@ -72,27 +64,12 @@ The powerful video editing program for your Windows PC</a>
 
  This could take several minutes. Wait for the process to be complete. Steam will automatically fix corrupt files if it detects any.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_10-46-20-1.jpg)
 
 **5)** Relaunch your game to see if this has resolved your issue.
 
 If no, try the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Check for mod errors
 
  If you’ve installed a mod and it’s no longer compatible with the current version of Euro Truck Simulator 2, then it could cause your game to crash.
@@ -139,9 +116,6 @@ If your game is still unplayable, move on to the next fix.
 
 **2)** Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_15-12-22.jpg)
 
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -159,9 +133,6 @@ If your game is still unplayable, move on to the next fix.
 
  If the crashing issue continues to occur, then go ahead with the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5:**Run the game as an administrator**
 
  When you open a program, it won’t have full access to files and folders on your PC, which could cause trouble sometimes. So, you should grant your game administrator rights to see if it can function properly. Follow the instruction below:
@@ -172,9 +143,6 @@ If your game is still unplayable, move on to the next fix.
 
 **2)** Click the **Compatibility tab** , then check the box next to **Run this program as an administrator** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_14-35-13.jpg)
 
 **3)** Click **Apply > OK** .
@@ -183,9 +151,6 @@ If your game is still unplayable, move on to the next fix.
 
 **4)** Right-click **Euro Truck Simulator 2** , then select **Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_14-46-14.jpg)
 
 **5)** Click the **Compatibility tab** , then check **Run this program as an administrator** .
@@ -200,9 +165,6 @@ If your game is still unplayable, move on to the next fix.
 
  If the_ETS2_ crashing issue continues to occur, move on to the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 6: Check for software conflicts
 
  If you’re running multiple programs during gameplay, it’s possible that one or more of your software is conflicting with your game. (Some users report that turning off**MSi Afterburner** helped in fixing the game crash, so if you have the program, turn it off while gaming.)
@@ -216,25 +178,16 @@ If your game is still unplayable, move on to the next fix.
 
 **1)**  Right-click your taskbar and select **Start Task Manager** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_14-54-12.jpg)
 
 **2)** Click the **Processes** tab. Then, check your current **CPU and memory usage** to see what processes are consuming your resources most.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_14-54-21.jpg)
 
 **3)** Right-click the resource-consuming process and select **End Process Tree** .
 
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_14-54-40.jpg)
 
  Try relaunching_ETS2_ to see if this has resolved your issue. If your game crashes again, check the next fix, below.
@@ -247,9 +200,6 @@ If your game is still unplayable, move on to the next fix.
 
 **2)** Check your current **CPU and memory usage** to see what processes are consuming your resources most.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_14-56-02.jpg)
 
 **3)**  Right-click the resource-consuming process and select **End task** .
@@ -272,10 +222,6 @@ If your game is still unplayable, move on to the next fix.
 
 **3)** Click**Uninstall** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_15-36-27.jpg)
 
 **4)** Restart**your computer** .
@@ -296,8 +242,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -305,4 +249,22 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/updated-dslr-and-mirrorless-excellence-with-ideal-gimbals/"><u>[Updated] DSLR & Mirrorless Excellence with Ideal Gimbals</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-on-apple-iphone-8-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled On Apple iPhone 8? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/capturing-brilliance-the-ultimate-list-of-5-elite-hd-screen-recording-tools/"><u>Capturing Brilliance: The Ultimate List of 5 Elite HD Screen Recording Tools</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ednosuced-eating-disorder-not-otherwise-specifiedunspecified-feeding-or-eating-disorder/"><u>EDNOS/UCED = Eating Disorder Not Otherwise Specified/Unspecified Feeding or Eating Disorder;</u></a></li>
+<li><a href="https://win-answers.techidaily.com/game-crashing-issues-heres-how-to-stabilize-your-pc-games-in-2eight-twenty-four/"><u>Game Crashing Issues? Here's How to Stabilize Your PC Games in 2Eight-Twenty-Four</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-resolve-iphone-not-detected-in-itunes-error-on-windows-mkst/"><u>How to Resolve 'iPhone Not Detected in iTunes' Error on Windows ˈmɪkstɚ</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-zoom-to-elevate-your-facebook-lives-for-2024/"><u>Navigating Zoom to Elevate Your Facebook Lives for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-common-causes-and-fixes-for-forza-horizon-5-performance-lags/"><u>Resolved: Common Causes and Fixes for Forza Horizon 5 Performance Lags</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-teso-update-fixes-blackwood-performance-issues/"><u>Resolved: TESO Update Fixes Blackwood Performance Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-the-endless-loading-screen-problem-for-the-witcher-3-players/"><u>Resolving the Endless Loading Screen Problem for The Witcher 3 Players</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-best-way-to-wipe-clean-your-emails-using-the-gmail-application-on-smartphones/"><u>The Best Way to Wipe Clean Your Emails Using the Gmail Application on Smartphones</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-rated-compact-digital-cameras-a-comprehensive-guide/"><u>Top Rated Compact Digital Cameras : A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-discord-screen-share-solutions-for-no-sound-problems/"><u>Troubleshooting Discord Screen Share - Solutions for No Sound Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-star-wars-jedi-fallen-order-wont-boot-corrected/"><u>Troubleshooting Guide: Star Wars Jedi: Fallen Order Won't Boot Corrected</u></a></li>
+</ul></div>
 

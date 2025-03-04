@@ -1,7 +1,7 @@
 ---
 title: "Quick Resolve: Why Is My Google Chrome Freezing and How to Stop It?"
-date: 2025-02-14T03:01:12.984Z
-updated: 2025-02-15T02:06:04.796Z
+date: 2025-03-03T16:00:08.325Z
+updated: 2025-03-04T16:03:35.743Z
 tags:
   - win11
   - win10
@@ -55,10 +55,6 @@ thumbnail: https://thmb.techidaily.com/de3aeccba8a1988fe712bc85cebc3af3bc3a21faa
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/uninstall.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 After that, restart your computer and see if that helps.
 
 If State of Decay 2 still crashes, go ahead with the next fix below.
@@ -68,10 +64,6 @@ If State of Decay 2 still crashes, go ahead with the next fix below.
  Your antivirus software could block the normal operation of State of Decay 2 and cause the game to keep crashing. To ensure that State of Decay 2 works properly, you should add it as an exception to your antivirus software. This will vary depending on the antivirus software you’re using.
 
  See if the game crashes after you add it as an exception to your antivirus software. If it persists, move on to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -110,10 +102,6 @@ If State of Decay 2 still crashes, go ahead with the next fix below.
 
 If this method doesn’t help, check out the next solution.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5: Reset State of Decay 2
 
  With Windows 10, you can reset an app’s data without uninstalling and reinstalling the app. This will restore an app to its default settings. So, before trying anything more complicated, you can reset State of Decay 2 to see if it can fix the crashing issue. Here’s how:
@@ -125,16 +113,8 @@ If this method doesn’t help, check out the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/advanced-options.jpg)
 3. Scroll down the page, then click**Reset** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/reset-app.jpg)
 4. Click**Reset** to confirm again.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/reset.jpg)
 5. Once the process is complete, restart your computer.
@@ -142,10 +122,6 @@ If this method doesn’t help, check out the next solution.
 Launch State of Decay 2 to see if the problem is resolved.
 
 If the crashing issue occurs again, continue to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Move State of Decay 2 to a different drive
 
@@ -181,10 +157,6 @@ If this method doesn’t do the trick, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/install-language.jpg)
 5. After the language is fully installed, drag it to the first position in the list.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/set-as-default.jpg)
 
 Now restart your PC and test if State of Decay 2 still crashes.
@@ -208,10 +180,6 @@ If this solution doesn’t work for you, continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/startup.jpg)
 5. One at a time, select any programs you suspect might be interfering and click**Disable** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/disable-service.jpg)
 6. Restart your computer.
 
@@ -220,10 +188,6 @@ If this solution doesn’t work for you, continue to the next fix.
  Once you find out the problematic program that causes the game to crash, you just need to uninstall it to avoid game crashing issues in the future.
 
  If the game still crashes after you disabled all the programs and services, try the last fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 9: Reinstall State of Decay 2
 
@@ -235,10 +199,6 @@ If this solution doesn’t work for you, continue to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/uninstall-app.jpg)
 3. Click**Uninstall** again.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/uninstall.jpg)
 4. Restart your computer and reinstall the game.
@@ -264,22 +224,20 @@ If this solution doesn’t work for you, continue to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/updated-smart-guide-top-picks-for-6-fb-lite-videos-for-2024/"><u>[Updated] Smart Guide Top Picks for 6 FB Lite Videos for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/addressing-launch-errors-in-amd-catalyst-control-center-expert-tips-and-tricks/"><u>Addressing Launch Errors in AMD Catalyst Control Center: Expert Tips and Tricks</u></a></li>
-<li><a href="https://win-answers.techidaily.com/defeating-the-graphics-glitch-eliminate-errgfxstate-on-your-rdr2-adventure/"><u>Defeating the Graphics Glitch: Eliminate ERR_GFX_STATE on Your RDR2 Adventure</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fix-your-state-of-decay-2-crashes-a-step-by-step-troubleshooting-guide/"><u>Fix Your State of Decay 2 Crashes : A Step-by-Step Troubleshooting Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/hassle-free-strategies-to-fix-discord-installation-issues-smoothly/"><u>Hassle-Free Strategies to Fix Discord Installation Issues Smoothly</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-when-your-resident-evil-village-wont-open-or-start/"><u>How to Fix When Your Resident Evil Village Won't Open or Start</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-successfully-troubleshoot-and-solve-the-battlenet-wont-open-problem-guide/"><u>How to Successfully Troubleshoot and Solve the Battle.Net Won't Open Problem (Guide )</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-efficiently-managing-youtube-videos-with-the-watch-later-feature/"><u>In 2024, Efficiently Managing YouTube Videos with the Watch Later Feature</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/jokes-and-puns-iphone-edition-for-2024/"><u>Jokes and Puns IPhone Edition for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/key-information-on-windows-components-framework-admin-center/"><u>Key Information on Windows' Components Framework Admin Center</u></a></li>
-<li><a href="https://facebook.techidaily.com/premier-league-stars-quit-twitter-to-resist-social-media-toxicity/"><u>Premier League Stars Quit Twitter to Resist Social Media Toxicity</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-solutions-for-when-your-msi-mystic-light-wont-turn-on-in-windows/"><u>Step-by-Step Solutions for When Your MSI Mystic Light Won't Turn On in Windows</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-11-troubleshooting-steps-when-borderlands-e3-refuses-to-load/"><u>Top 11 Troubleshooting Steps When Borderlands E3 Refuses to Load</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-resolving-armored-core-vi-fires-of-rubicon-startup-issues/"><u>Troubleshooting Steps for Resolving 'Armored Core VI: Fires of Rubicon' Startup Issues</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-how-to-tutorial-on-using-apples-airplay-feature-with-mac-and-tv-devices/"><u>Ultimate How-To Tutorial on Using Apple's AirPlay Feature with Mac and TV Devices</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-10-upside-down-issue-resolved/"><u>Windows 10 Upside Down Issue Resolved</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/yakuza-like-a-dragon-released-why-this-jrpg-is-an-absolute-must-play/"><u>Yakuza: Like A Dragon Released! Why This JRPG Is an Absolute Must-Play</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-fallout-76-stuttering/"><u>[Solved] Fallout 76 Stuttering</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-detailed-premiere-pro-full-screen-analysis-for-2024/"><u>[Updated] Detailed Premiere Pro Full Screen Analysis for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/different-methods-to-unlock-your-iphone-xs-max-drfone-by-drfone-ios/"><u>Different Methods To Unlock Your iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-your-browser-resolving-issues-with-microsoft-internet-explorer-crashes/"><u>Fix Your Browser: Resolving Issues with Microsoft Internet Explorer Crashes</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96178136-9781612834177-fortune-telling-with-playing-cards/"><u>Fortune Telling with Playing Cards | Free Book</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-issues-when-call-of-duty-warzone-wont-start/"><u>How to Fix Issues When Call of Duty Warzone Won't Start</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-tecno-spark-go-2023-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Tecno Spark Go (2023) to PC? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-professional-filmmaking-made-simple-phones-with-advanced-ois-features/"><u>In 2024, Professional Filmmaking Made Simple Phones With Advanced OIS Features</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723013808662-key-factors-influencing-performance-including-target-pollutant-properties-droplet-size-distribution-contact-time-solubility-and-scrubber-design/"><u>Key Factors Influencing Performance, Including Target Pollutant Properties, Droplet Size Distribution, Contact Time, Solubility, and Scrubber Design.</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/r-your-youtube-thumbnail-size-and-ratio/"><u>Master Your YouTube Thumbnail Size & Ratio</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-social-media-engagement-with-facebook-twitter-instagram-and-youtube/"><u>Mastering Social Media Engagement with Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://win-answers.techidaily.com/surpassing-challenges-a-players-guide-to-acquiring-elite-weapons-in-mass-effect-trilogy-hd/"><u>Surpassing Challenges: A Player's Guide to Acquiring Elite Weapons in Mass Effect Trilogy HD</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-durable-laptop-picks-recommendations-by-zdnet/"><u>Top Durable Laptop Picks - Recommendations by ZDNet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-resolving-constant-crashes-in-r-type-final-2-on-pcs/"><u>Troubleshooting Steps for Resolving Constant Crashes in R-Type Final 2 on PCs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-solutions-for-running-avatar-the-last-airbender-frontiers-of-pandora-without-glitches-on-desktop-computers/"><u>Ultimate Solutions for Running 'Avatar: The Last Airbender - Frontiers of Pandora' Without Glitches on Desktop Computers</u></a></li>
 </ul></div>
 

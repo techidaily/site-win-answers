@@ -1,7 +1,7 @@
 ---
 title: "Wave Goodbye to Frustration: Fixes for a Smooth Run with Halo Infinite on PC (7 Tips)"
-date: 2025-02-13T18:58:43.232Z
-updated: 2025-02-14T19:11:47.101Z
+date: 2025-03-02T16:07:58.805Z
+updated: 2025-03-04T16:05:24.225Z
 tags:
   - win11
   - win10
@@ -37,10 +37,6 @@ _Diablo 3_ constantly crashes on your computer? You’re not alone! Many players
 7. [**Delete the game cache files**](https://tools.techidaily.com/drivereasy/download/)
 8. **[Run your game in compatibility mode](https://tools.techidaily.com/drivereasy/download/)**
 9. **[Reinstall your game and/or the Blizzard Battle.net app](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: **Update your graphics driver**
 
@@ -102,10 +98,6 @@ There are two ways you can get the latest correct graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-500.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)** Relaunch_Diablo 3_ from the Blizzard Battle.net app.
 
 If your game crashes again, go ahead with the fix below.
@@ -121,10 +113,6 @@ If your game crashes again, go ahead with the fix below.
 **2)** Click **Diablo 3 > Options > Scan and Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-501.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)**  Click **Begin Scan** .
 
@@ -148,10 +136,6 @@ If your game crashes again, go ahead with the fix below.
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 6: Reset your in-game settings
 
  In some cases, improper in-game settings can also trigger the crashing issue when launching_Diablo 3_ . Try running your game with default settings to see if it can works properly. Here is how to do it:
@@ -166,17 +150,9 @@ If your game crashes again, go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-514.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)**  Click **Reset** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-515.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **5)** Click **Done** .
 
@@ -195,10 +171,6 @@ If your game crashes again, go ahead with the fix below.
 **2)**  On the **Processes** tab, right-click the **Blizzard-related program** (such as**Blizzard battle.net App,** agent.exe and**Blizzard Update Agent** ), then click **End task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-701.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)** On your keyboard, press the **Windows logo Key and R**  st the same time to open the Run dialog.
 
@@ -240,10 +212,6 @@ If your game crashes again, go ahead with the fix below.
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 9: Reinstall your game and/or the Blizzard Battle.net app
 
  If none of the fixes above helped,_Diablo 3_ crashing is probably triggered by corrupted game files. In this case, reinstalling your game and/or the Blizzard Battle net app is very likely the solution to your problem. Follow the instructions below:
@@ -263,10 +231,6 @@ If your game crashes again, go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-513.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)** Restart the Blizzard Battle.net app to download and install _Diablo 3_ .
 
  Relaunch your game to check if the crashing issue has been resolved. If not, check the fix below.
@@ -280,10 +244,6 @@ If your game crashes again, go ahead with the fix below.
 **2)** Under **View by** , select **Category** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-443.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)** Click **Uninstall a program** .
 
@@ -321,24 +281,14 @@ If your game crashes again, go ahead with the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-answers.techidaily.com/the-ascent-optimization-guide-steps-to-boost-frames-per-second-and-eradicate-stuttering-issues/"><u>'The Ascent' Optimization Guide: Steps to Boost Frames per Second & Eradicate Stuttering Issues</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixed-how-to-fix-multiversus-not-launching-on-pc/"><u>[FIXED] How to Fix MultiVersus Not Launching on PC</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-mac-and-windows-compatible-srt-boosters-the-elite-list-of-10/"><u>[New] 2024 Approved Mac & Windows Compatible SRT Boosters The Elite List of 10</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-the-ultimate-lg-bp350-monitor-reviews-expert-opinions-and-ratings/"><u>[New] The Ultimate LG BP350 Monitor Reviews Expert Opinions & Ratings</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-fix-chromium-and-youtube-streams/"><u>[Updated] In 2024, Fix Chromium and YouTube Streams</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-the-ultimate-screencapture-guide-for-laptop-techies/"><u>[Updated] In 2024, The Ultimate ScreenCapture Guide for Laptop Techies</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/10-best-practices-for-boosting-srt-on-pc-and-macos-for-2024/"><u>10 Best Practices for Boosting SRT on PC & macOS for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/aging-pipes-and-corrosion/"><u>Aging Pipes And Corrosion:</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723006025598-conquering-call-of-duty-warzones-xbox-directx-error-in-just-4-steps/"><u>Conquering Call of Duty Warzone's Xbox DirectX Error in Just 4 Steps</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fix-how-to-stop-beat-saber-from-continuously-crashing/"><u>Fix: How to Stop Beat Saber From Continuously Crashing</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-issue-why-your-forza-horizon-4-isnt-starting-top-tips-for-2n4/"><u>Fixing the Issue: Why Your Forza Horizon 4 Isn't Starting - Top Tips for 2N4</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expertise-in-windows-media-player-for-streamlined-audio-conversion/"><u>In 2024, Expertise in Windows Media Player for Streamlined Audio Conversion</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/innovating-interaction-are-we-witnessing-ai-evolution/"><u>Innovating Interaction: Are We Witnessing AI Evolution?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/saints-row-wont-open-heres-how-to-get-past-the-bootup-blues-on-pc/"><u>Saints Row Won't Open? Here's How to Get Past the Bootup Blues on PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723007587059-serious-sam-npc-version-crashes-heres-how-to-enhance-stability-and-frame-rate/"><u>Serious Sam nPC Version Crashes? Here's How to Enhance Stability and Frame Rate!</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/solving-gpu-compatibility-issues-expert-tips-from-yl-computing/"><u>Solving GPU Compatibility Issues: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-persistent-appeal-of-iphone-gaming-a-deep-dive-into-my-personal-experience-and-trends-that-will-continue-to-shape-the-future/"><u>The Persistent Appeal of iPhone Gaming: A Deep Dive Into My Personal Experience and Trends That Will Continue to Shape the Future</u></a></li>
-<li><a href="https://win11.techidaily.com/tips-and-tricks-to-fix-windows-error-message-0x8007007e/"><u>Tips and Tricks to Fix Windows Error Message 0X8007007E</u></a></li>
-<li><a href="https://win-answers.techidaily.com/total-war-warhammer-iii-stability-issues-resolved-no-more-pc-freezes/"><u>TOTAL WAR: WARHAMMER III Stability Issues Resolved – No More PC Freezes!</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-experiential-business-the-vr-revolution/"><u>[New] 2024 Approved Experiential Business The VR Revolution</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-blades-high-dynamic-range-redefined-in-four-kaps/"><u>[Updated] In 2024, Blade's High Dynamic Range Redefined in Four Kaps</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhancing-performance-tips-for-smoother-gameplay-and-clear-voice-communication-in-naraka-bladepoint/"><u>Enhancing Performance: Tips for Smoother Gameplay & Clear Voice Communication in Naraka: Bladepoint</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimize-play-eliminating-forza-horizon-5s-pc-disruption-for-uninterrupted-gaming/"><u>Optimize Play: Eliminating Forza Horizon 5'S PC Disruption for Uninterrupted Gaming</u></a></li>
+<li><a href="https://techtrends.techidaily.com/pixel-watch-series-4-anticipated-costs-and-launch-timeline-latest-insights/"><u>Pixel Watch Series 4: Anticipated Costs & Launch Timeline - Latest Insights</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reactivate-dormant-slack-notifications-a-quick-fix-guide-for-win-11/"><u>Reactivate Dormant Slack Notifications: A Quick Fix Guide for Win 11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/sj-cam-s6-unboxed-a-full-evaluation-in-detail/"><u>SJ-CAM S6 Unboxed A Full Evaluation in Detail</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-to-solving-pc-issues-with-biomutant-avoiding-game-crashes/"><u>Ultimate Guide to Solving PC Issues with Biomutant - Avoiding Game Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unlocking-seamless-gameplay-expert-advice-for-addressing-persona-5-strikers-performance-errors-on-desktops/"><u>Unlocking Seamless Gameplay: Expert Advice for Addressing Persona 5 Strikers' Performance Errors on Desktops</u></a></li>
 </ul></div>
 

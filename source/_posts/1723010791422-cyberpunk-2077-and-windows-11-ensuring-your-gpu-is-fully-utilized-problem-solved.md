@@ -1,7 +1,7 @@
 ---
 title: "Cyberpunk 2077 and Windows 11: Ensuring Your GPU Is Fully Utilized - Problem Solved"
-date: 2025-02-08T17:13:12.181Z
-updated: 2025-02-15T00:33:37.060Z
+date: 2025-03-01T16:06:50.231Z
+updated: 2025-03-04T16:06:12.156Z
 tags:
   - win11
   - win10
@@ -68,26 +68,14 @@ To do so, first visit the website of your graphics card manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your PC and check if Cyberpunk 2077 now runs on your GPU.
 
  If updating the graphics driver doesn’t help you, take a look at the next method below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Change Graphics performance preference
 
@@ -99,10 +87,6 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-1.jpg)
 2. Under the **Multiple displays** section, click **Graphics settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Click **Browse**  to specify the file location of the Cyberpunk 2077 launcher.  
 
@@ -113,10 +97,6 @@ Here’s how:
 5. Select **High performance** and click **Save** . Then test the gameplay in Cyberpunk 2077.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If this trick doesn’t solve your problem, you can continue to the next one.
 
@@ -155,22 +135,24 @@ And it’s quite easy to check for updates:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-joyful-journeys-await-best-classic-summer-movies-for-2024/"><u>[New] Joyful Journeys Await Best Classic Summer Movies for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-viral-jokes-whos-winning-on-the-meme-front/"><u>[Updated] 2024 Approved Viral Jokes Who's Winning on the Meme Front?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/swfhtml52/"><u>「SWFからHTML5へ：2つの最適化されたコンバートテクニック」</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/best-tv-streaming-apps-of-2024/"><u>Best TV Streaming Apps of 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/cutthroat-commerce-simplified-an-in-depth-review-of-the-offworld-trading-company/"><u>Cutthroat Commerce Simplified: An In-Depth Review of the Offworld Trading Company</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-vivo-s18-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Vivo S18 Users</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/quick-solutions-for-when-your-tv-wont-show-dvd-subtitles-step-by-step-instructions/"><u>Quick Solutions for When Your TV Won't Show DVD Subtitles - Step-by-Step Instructions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/seamless-fitness-downloads-get-your-hands-on-exercise-tutorials-from-multiple-websites-with-ease/"><u>Seamless Fitness Downloads: Get Your Hands on Exercise Tutorials From Multiple Websites with Ease!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/seamless-mxf-to-mov-file-transformation-for-windows-mac-users-and-web-applications/"><u>Seamless MXF-to-MOV File Transformation for Windows, Mac Users & Web Applications</u></a></li>
-<li><a href="https://win-answers.techidaily.com/simple-methods-to-save-your-favorite-vevo-music-clips/"><u>Simple Methods to Save Your Favorite Vevo Music Clips</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-converting-flac-files-to-m4a-format-using-windows-tools-and-web-services/"><u>Step-by-Step Guide: Converting FLAC Files to M4A Format Using Windows Tools & Web Services</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-process-converting-dolby-truehd-soundtracks-to-dts-on-your-videos/"><u>Step-by-Step Process: Converting Dolby TrueHD Soundtracks to DTS on Your Videos</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-solution-when-vlc-cannot-adjust-video-zoom-heres-what-to-do/"><u>Step-by-Step Solution: When VLC Cannot Adjust Video Zoom, Here's What to Do!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/struggling-to-rip-full-disks-using-handbrake-discover-effective-workarounds-now/"><u>Struggling to Rip Full Disks Using HandBrake? Discover Effective Workarounds Now!</u></a></li>
-<li><a href="https://article-tips.techidaily.com/the-experts-playbook-top-techniques-for-youtube-to-mpeg/"><u>The Expert's Playbook Top Techniques for YouTube-to-MPEG</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/topo-5-melhores-aplicativos-de-captura-para-monitores-pequenos-com-foco-em-software-livre/"><u>Topo 5 Melhores Aplicativos De Captura Para Monitores Pequeños: Com Foco Em Software Livre</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/unlock-iphone-6s-plus-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>Unlock iPhone 6s Plus With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-making-mp3s-from-your-facebook-videos-with-ease/"><u>[New] Making MP3s From Your Facebook Videos with Ease</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-unraveling-youtubes-profit-from-1m-viewers/"><u>[Updated] 2024 Approved Unraveling Youtube's Profit From 1M Viewers</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-comprehensive-approach-to-integrating-whiteboards-in-zoom-sessions-for-2024/"><u>[Updated] Comprehensive Approach to Integrating Whiteboards in Zoom Sessions for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-correcting-audio-absence-in-obs-recordings-quickly-for-2024/"><u>[Updated] Correcting Audio Absence in OBS Recordings Quickly for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-avoiding-camera-induced-image-disruption/"><u>2024 Approved Avoiding Camera-Induced Image Disruption</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-the-waiting-game-quick-fixes-for-long-loading-on-fallout-4/"><u>Beat the Waiting Game - Quick Fixes for Long Loading on Fallout 4</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cod-vanguard-error-code-0x00001338-n-troubleshooting-guide-now-fixed/"><u>COD Vanguard Error Code 0X00001338 N Troubleshooting Guide – Now Fixed!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-how-to-stop-warno-application-from-frequently-crashing-in-windows/"><u>Fix: How to Stop WARNO Application From Frequently Crashing in Windows</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-realme-gt-5-240w-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Realme GT 5 (240W) | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/itunes-discontinued-top-alternatives-for-transferring-ios-data-seamlessly/"><u>ITunes Discontinued: Top Alternatives for Transferring iOS Data Seamlessly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-the-art-of-smooth-gameplay-fixing-lag-spikes-and-low-latency-in-pcs-bless-unleashed/"><u>Master the Art of Smooth Gameplay: Fixing Lag Spikes & Low Latency in PC's Bless Unleashed</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/mastering-hulu-recording-across-windows-mac-and-mobile-devices/"><u>Mastering Hulu Recording Across Windows, Mac, and Mobile Devices</u></a></li>
+<li><a href="https://win-answers.techidaily.com/msi-afterburner-not-detecting-graphics-hardware-on-windows-1011-solutions-here/"><u>MSI Afterburner Not Detecting Graphics Hardware on Windows 10/11 - Solutions Here</u></a></li>
+<li><a href="https://win-answers.techidaily.com/say-goodbye-to-crashes-troubleshooting-tips-for-a-smooth-rdr2-gaming-experience-on-windows/"><u>Say Goodbye to Crashes: Troubleshooting Tips for a Smooth RDR2 Gaming Experience on Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-latency-problems-in-naraka-bladesports-a-comprehensive-guide/"><u>Solving Latency Problems in Naraka Bladesports: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-issue-when-your-msi-k6-j-turbo-isnt-functioning-properly/"><u>Solving the Issue When Your MSI K6-J Turbo Isn't Functioning Properly</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-itel-p55t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Itel P55T | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/trouble-starting-starfield-fix-it-now-with-our-expert-guide-for-steam-and-xbox-users/"><u>Trouble Starting Starfield? Fix It Now with Our Expert Guide for Steam and Xbox Users!</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/vrchat-stability-boosted-discover-these-8-effective-methods/"><u>VRChat Stability Boosted: Discover These 8 Effective Methods</u></a></li>
 </ul></div>
 

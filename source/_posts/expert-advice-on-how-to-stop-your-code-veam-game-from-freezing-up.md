@@ -1,7 +1,7 @@
 ---
 title: Expert Advice on How to Stop Your Code Veam Game From Freezing Up
-date: 2025-02-07T23:51:28.117Z
-updated: 2025-02-15T02:18:31.819Z
+date: 2025-03-02T16:09:24.707Z
+updated: 2025-03-04T16:01:39.151Z
 tags:
   - win11
   - win10
@@ -65,10 +65,6 @@ If State of Decay 2 still crashes, go ahead with the next fix below.
 
  See if the game crashes after you add it as an exception to your antivirus software. If it persists, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Update your graphics driver
 
  If you’re using a faulty or outdated graphics driver, you will possibly encounter this crashing issue in State of Decay 2\. To fix the potential problems and ensure the game functions properly, you should install the latest graphics driver on your computer.
@@ -81,10 +77,6 @@ If State of Decay 2 still crashes, go ahead with the next fix below.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/de-scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/nvidia-geforce-gtx960m-1.jpg)
@@ -106,17 +98,9 @@ If State of Decay 2 still crashes, go ahead with the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/check-for-updates.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once you’ve installed all the updates, restart your computer and launch State of Decay 2 to see if the crashing issue remains.
 
 If this method doesn’t help, check out the next solution.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Reset State of Decay 2
 
@@ -131,10 +115,6 @@ If this method doesn’t help, check out the next solution.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/reset-app.jpg)
 4. Click**Reset** to confirm again.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/reset.jpg)
 5. Once the process is complete, restart your computer.
@@ -151,16 +131,8 @@ If the crashing issue occurs again, continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/apps-features.jpg)
 2. Under Apps & features, click**State of Decay 2** , then select**Move** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/move-app.jpg)
 3. In the pop-up window,**select a new drive** from the drop-down menu, then click**Move** again.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/move2-1.jpg)
 
@@ -191,10 +163,6 @@ Now restart your PC and test if State of Decay 2 still crashes.
 
 If this solution doesn’t work for you, continue to the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 8: Perform a clean boot
 
  Some background applications or services may cause State of Decay 2 crashes on your PC. So you can perform a clean boot to see if there are any conflicts between the game and another program. Here’s how:
@@ -208,10 +176,6 @@ If this solution doesn’t work for you, continue to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/hide2.jpg)
 4. On your keyboard, press**Ctrl** ,**Shift** and**Esc** at the same time to open**Task Manager** , then navigate to the**Startup** tab.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/startup.jpg)
 5. One at a time, select any programs you suspect might be interfering and click**Disable** .  
@@ -232,10 +196,6 @@ If this solution doesn’t work for you, continue to the next fix.
 1. On your keyboard, press the**Windows logo key** and**X** together to open the Quick Link menu. Then select**Apps and Features** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/apps-features.jpg)
 2. Under Apps & features, click**State of Decay 2** , then select**Uninstall** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/uninstall-app.jpg)
 3. Click**Uninstall** again.  
@@ -264,22 +224,22 @@ If this solution doesn’t work for you, continue to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-how-to-make-jujutsu-kaisen-tiktok-video/"><u>[New] In 2024, How to Make Jujutsu Kaisen Tiktok Video?</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-no-fee-guide-converting-skype-to-mp3/"><u>[Updated] In 2024, No-Fee Guide Converting Skype to Mp3</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-driving-virality-on-the-worlds-largest-network/"><u>2024 Approved Driving Virality on the World’s Largest Network</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723006996929-cyberpunk-2077-and-gpu-usage-issues-on-windows-11-solved/"><u>Cyberpunk 2077 and GPU Usage Issues on Windows 11 - Solved!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/dominate-your-opponents-with-expert-techniques-for-roller-champions-multiplayer-on-pc-the-234-manual/"><u>Dominate Your Opponents with Expert Techniques for Roller Champions Multiplayer on PC – The 2^34 Manual</u></a></li>
-<li><a href="https://win-answers.techidaily.com/guide-to-resolving-itunes-detected-audio-configuration-errors/"><u>Guide to Resolving iTunes' Detected Audio Configuration Errors</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/harnessing-the-power-of-gratuitous-text-animations-for-2024/"><u>Harnessing the Power of Gratuitous Text Animations for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-your-iphone-13-pro-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>How to Unlock Your iPhone 13 Pro Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-secrets-for-striking-fb-video-promos/"><u>In 2024, Secrets for Striking FB Video Promos</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-cannot-open-error-for-far-cry-6-on-windows-solution-guide/"><u>Overcoming 'Cannot Open' Error for Far Cry 6 on Windows – Solution Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/persistent-sony-vegas-freezes-heres-how-to-resolve-them-permanently/"><u>Persistent Sony Vegas Freezes? Here's How to Resolve Them Permanently</u></a></li>
-<li><a href="https://win-answers.techidaily.com/red-dead-redemption-solved-game-launch-troubles-no-longer-a-concern/"><u>Red Dead Redemption [SOLVED] Game Launch Troubles No Longer a Concern</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solution-for-call-of-duty-vanguard-glitch-decode-error-5573/"><u>Solution for Call of Duty Vanguard Glitch - Decode Error 5573</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solution-steps-for-missing-gpeditmsc-in-windows-home-edition/"><u>Solution Steps for Missing GPEDIT.MSC in Windows Home Edition</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-stuck-loading-screens-for-cold-war-gamers-across-pc-ps5-and-xbox-series-xs/"><u>Solving Stuck Loading Screens for Cold War Gamers Across PC, PS5, and Xbox Series X/S</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-comprehensive-lg-stylo-nv-examination-impressive-aesthetics-meets-precision-scribing/"><u>The Comprehensive LG Stylo Nv Examination: Impressive Aesthetics Meets Precision Scribing</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlocking-siris-capabilities-how-to-have-your-device-read-out-text-for-you/"><u>Unlocking Siri's Capabilities: How to Have Your Device Read Out Text for You</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-boosting-income-with-effective-youtube-short-strategies/"><u>2024 Approved Boosting Income with Effective Youtube Short Strategies</u></a></li>
+<li><a href="https://win-answers.techidaily.com/arma-3-crash-no-more-comprehensive-strategies-for-seamless-gaming-experience/"><u>Arma 3 Crash No More! Comprehensive Strategies for Seamless Gaming Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-the-glitch-8-proven-remedies-to-keep-vrchat-running-smoothly-on-your-desktop-computer/"><u>Beat the Glitch: 8 Proven Remedies to Keep VRChat Running Smoothly on Your Desktop Computer</u></a></li>
+<li><a href="https://extra-information.techidaily.com/comprelevant-listings-best-free-tools-to-watch-webm-videos/"><u>Comprelevant Listings Best Free Tools to Watch WebM Videos</u></a></li>
+<li><a href="https://win-answers.techidaily.com/crusader-kings-iii-stability-issues-resolved-for-optimal-gaming-experience-on-desktop/"><u>Crusader Kings III Stability Issues - Resolved for Optimal Gaming Experience on Desktop</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-mdm-from-iphone-7-plus-without-a-computer-by-drfone-ios-unlock-ios-unlock/"><u>How to Remove MDM from iPhone 7 Plus without a computer?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Realme Narzo 60x 5G | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-unlocking-an-icloud-locked-ipad-and-apple-iphone-xr-by-drfone-ios/"><u>In 2024, Unlocking an iCloud Locked iPad and Apple iPhone XR</u></a></li>
+<li><a href="https://win11.techidaily.com/instant-views-for-images-within-windows-11-explorer/"><u>Instant Views for Images Within Windows 11 Explorer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/join-forces-in-elden-ring-against-enemies-fix-guide-for-multiplayer-issues/"><u>Join Forces in Elden Ring Against Enemies - Fix Guide for Multiplayer Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/lost-ark-optimization-fixing-the-sudden-dip-in-frames-per-second-fps/"><u>Lost Ark Optimization: Fixing the Sudden Dip in Frames Per Second (FPS)</u></a></li>
+<li><a href="https://games-able.techidaily.com/quick-guide-uncover-all-gamer-badges-in-steam/"><u>Quick Guide: Uncover All Gamer Badges in Steam</u></a></li>
+<li><a href="https://win-answers.techidaily.com/restore-game-sounds-overcoming-no-audio-challenge-in-evil-genius-2/"><u>Restore Game Sounds: Overcoming 'No Audio' Challenge in Evil Genius 2</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-dragons-dogma-2-pc-crashes-a-comprehensive-guide/"><u>Solving Dragon's Dogma 2 PC Crashes: A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-the-oculus-quest-2-stellar-vr-gaming-for-a-fantastic-deal/"><u>The Ultimate Guide to the Oculus Quest 2 - Stellar VR Gaming for a Fantastic Deal!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-troubleshooting-tips-to-stop-mordhau-from-crashing-on-your-pc/"><u>Ultimate Troubleshooting Tips to Stop Mordhau From Crashing on Your PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/wma-naar-webmovie-konverteren-zonder-pijn-gratis-online-omzetter-met-movavi/"><u>WMA Naar WEBMOVIE Konverteren Zonder Pijn: Gratis Online Omzetter Met Movavi</u></a></li>
 </ul></div>
 

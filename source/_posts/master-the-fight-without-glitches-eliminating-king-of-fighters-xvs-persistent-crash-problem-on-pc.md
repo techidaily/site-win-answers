@@ -1,7 +1,7 @@
 ---
 title: "Master the Fight Without Glitches: Eliminating King of Fighters XV's Persistent Crash Problem on PC"
-date: 2025-02-12T06:00:47.939Z
-updated: 2025-02-15T06:01:50.420Z
+date: 2025-02-27T16:11:26.237Z
+updated: 2025-03-04T16:00:36.785Z
 tags:
   - win11
   - win10
@@ -73,10 +73,6 @@ Make sure that Anthem is closed and not running in the background.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-927.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) File Explorer pops up and shows you the current drive that Anthem is saved in. Then choose another drive.  
  For instance, Anthem is saved in C drive, then you can move it to any other drive except for C drive.
 
@@ -110,10 +106,6 @@ Here’s how to do it:
 
  If Anthem loads up without any issue, congrats! If not, move on to the next method.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Solution 3: Update your drivers
 
  A missing or outdated device driver in your computer can cause Anthem not loading, especially your graphics card driver and your network adapter driver. To rule it out as the cause, you should verify that the device drivers are up to date, and update those that aren’t.
@@ -134,19 +126,11 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-856.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to the flagged video card and network adapter to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it in your computer.
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**_Update All_** and get a 30-day money guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-857.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Once updated, restart your computer to take effect.
 
@@ -172,17 +156,9 @@ Now launch Anthem on your computer, and your game should be loading.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-210.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5) Restart Origin and Anthem to see how it works.
 
 Hopefully this will fix your Anthem not loading issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Solution 5: Run Anthem as an administrator
 
@@ -199,10 +175,6 @@ Here’s what you need to do:
  3) Click the**Compatibility** tab, and check the box for**Run this program as an administrator** . Then click**Apply** and**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-863.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Re-launch your game and see if how it works.
 
@@ -223,10 +195,6 @@ Here’s what you need to do:
  If the option is**Ultra** or**High** , change it to**Medium** or**Low** . If the option is**Medium** or**Low** , change it to**Ultra** or**High** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-929.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Save your changes.
 
@@ -252,22 +220,22 @@ Re-launch Anthem and see how it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-forgotten-tiktok-reload-a-quick-fix/"><u>[New] Forgotten TikTok Reload A Quick Fix?</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-cutting-edge-edits-mastering-picart-backdrop-removal/"><u>[Updated] 2024 Approved Cutting-Edge Edits Mastering PicArt Backdrop Removal</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-high-quality-screen-recording-with-tunefab-for-2024/"><u>[Updated] High-Quality Screen Recording with Tunefab for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/dota-2-performance-boosting-tips-for-seamless-gameplay/"><u>Dota 2 Performance Boosting Tips for Seamless Gameplay</u></a></li>
-<li><a href="https://win-answers.techidaily.com/error-code-327-no-more-mastering-the-star-wars-battlefront-2-patch-to-perfect-performance/"><u>Error Code 327 No More: Mastering the Star Wars Battlefront 2 Patch to Perfect Performance</u></a></li>
-<li><a href="https://win-answers.techidaily.com/essential-fixes-for-players-struggling-to-start-modern-warfare-on-desktops/"><u>Essential Fixes for Players Struggling to Start Modern Warfare on Desktops</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723005413886-how-to-check-if-you-can-connect-to-xbox-live-right-now/"><u>How to Check If You Can Connect To Xbox Live Right Now</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-oneplus-11-5g-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From OnePlus 11 5G to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/how-to-track-a-lost-apple-iphone-14-for-free-drfone-by-drfone-virtual-ios/"><u>How to Track a Lost Apple iPhone 14 for Free? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-tecno-phantom-v-fold-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Tecno Phantom V Fold Phone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-itel-p55plus-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Itel P55+ | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-game-interruptions-how-to-stop-diablo-2-resurrected-from-crashing/"><u>Resolving Game Interruptions: How To Stop Diablo 2 Resurrected From Crashing</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-loading-problems-in-the-elder-scrolls-online-a-step-by-step-guide/"><u>Resolving Loading Problems in The Elder Scrolls Online: A Step-by-Step Guide</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/e-approach-verifying-your-youtube-login-details/"><u>Secure Approach Verifying Your YouTube Login Details</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-troubleshooting-guide-stop-assassins-creed-odyssey-from-crashing-on-pc/"><u>Ultimate Troubleshooting Guide: Stop Assassin's Creed Odyssey From Crashing on PC</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/winning-the-battle-fixing-age-of-empires-ii-launch-issues-on-windows-11/"><u>Winning the Battle: Fixing Age of Empires II Launch Issues on Windows 11</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-elevate-your-video-quality-with-gopro-knowledge-for-2024/"><u>[New] Elevate Your Video Quality with GoPro Knowledge for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/age-of-wonders-planetfall-stability-issues-and-solutions-for-windows-players/"><u>Age of Wonders: Planetfall - Stability Issues and Solutions for Windows Players</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/t-insights-on-forging-youtube-sponsorship-bonds-using-famebit/"><u>Expert Insights on Forging YouTube Sponsorship Bonds Using FameBit</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-found-overcoming-team-fortress-2s-start-up-troubles/"><u>Fixes Found! Overcoming Team Fortress 2'S Start-Up Troubles</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-issue-nvidias-game-capture-overlay-malfunction/"><u>Fixing the Issue: Nvidia's Game Capture Overlay Malfunction</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-tecno-spark-go-2024-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Tecno Spark Go (2024)? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-prime-coverage-pro-iphone-plus-android-insta-covers-app/"><u>In 2024, Prime Coverage Pro IPhone + Android Insta Covers App</u></a></li>
+<li><a href="https://win-answers.techidaily.com/irregular-heartbeat-feeling-palpitations-skipped-heartbeats-a-racing-pulse-or-arrhythmia-can-also-indicate-an-acute-myocardial-infarction-this-symptom-may-n603/"><u>Irregular Heartbeat: Feeling Palpitations, Skipped Heartbeats, a Racing Pulse, or Arrhythmia Can Also Indicate an Acute Myocardial Infarction. This Symptom May Not Be Present in All Cases but Could Occur Alongside Other Signs of Cardiac Distress.</u></a></li>
+<li><a href="https://win-answers.techidaily.com/silence-not-working-in-lost-ark-discover-tips-for-bringing-back-the-games-soundscape/"><u>Silence Not Working In Lost Ark? Discover Tips For Bringing Back The Game's Soundscape.</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723005885868-snowrunner-freezes-persistently-heres-what-you-need-to-know-to-fix-it/"><u>SnowRunner Freezes Persistently? Here's What You Need to Know to Fix It</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-unreal-process-has-crashed-ue4-madness-bug-for-a-smoother-outriders-experience/"><u>Solving the 'Unreal Process Has Crashed: UE4-Madness' Bug for a Smoother Outriders Experience</u></a></li>
+<li><a href="https://fox-access.techidaily.com/top-3-ae-plugin-reviews-for-optimal-editing/"><u>Top 3 AE Plugin Reviews for Optimal Editing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-how-to-fix-swtor-wont-start-problems/"><u>Troubleshooting: How to Fix 'SWTOR Won't Start' Problems</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/ultimate-guide-find-and-restore-deleted-phone-numbers-on-your-ios-device/"><u>Ultimate Guide: Find and Restore Deleted Phone Numbers on Your iOS Device</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-optimizing-your-viewing-experience-with-expert-super-bowl-entertainment-setups/"><u>Ultimate Guide: Optimizing Your Viewing Experience with Expert Super Bowl Entertainment Setups</u></a></li>
+<li><a href="https://games-able.techidaily.com/uncovering-best-steam-deck-choices/"><u>Uncovering Best Steam Deck Choices</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-oppo-reno-11-pro-5g-by-fonelab-android-recover-music/"><u>Undelete lost music from Oppo Reno 11 Pro 5G</u></a></li>
 </ul></div>
 

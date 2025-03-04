@@ -1,7 +1,7 @@
 ---
 title: "Expert Guide: Preventing Persistent Breakdowns in the Latest Formula 1 Racing Title on Desktop Systems"
-date: 2025-02-11T17:43:41.274Z
-updated: 2025-02-15T06:51:42.959Z
+date: 2025-03-03T16:06:44.833Z
+updated: 2025-03-04T16:08:32.216Z
 tags:
   - win11
   - win10
@@ -34,10 +34,6 @@ Recently, we’ve seen many players reporting that**Dirt 5 keeps crashing** on t
 4. **[Disable Steam overlay](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Set launch options on Steam](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Stop overclocking](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 1: Update your graphics driver
 
@@ -74,10 +70,6 @@ The outdated or broken graphics driver often crashes the game.
 
 ![LOCAL FILES>VERIFY INTEGRITY OF GAME CACHE...](https://images.drivereasy.com/wp-content/uploads/2019/04/image-120.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  It may take some time to finish verifying the game files. Launch the game after the verifying process completed to see if this fix works. If not, try the next fix, below.
 
 ## Fix 3: Install the latest game patch
@@ -98,10 +90,6 @@ The outdated or broken graphics driver often crashes the game.
 
 ![Disable Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-Steam-Overlay.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Launch Dirt 5 to see if the game crashes. If the issue persists, try the next fix, below.
 
 ## Fix 5: Set launch options on Steam
@@ -113,17 +101,9 @@ The outdated or broken graphics driver often crashes the game.
 ![Steam set launch options](https://images.drivereasy.com/wp-content/uploads/2021/04/Modify-Steam-set-launch-options.jpg)
 3. Copy and paste the commands below and click **OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 `-useallavailablecores -high`
 
  Launch the game to see if it crashes again. If it still crashes, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 6: Stop overclocking
 
@@ -155,16 +135,22 @@ The outdated or broken graphics driver often crashes the game.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-breakthrough-strategies-for-peak-video-viewership-times-for-2024/"><u>[Updated] Breakthrough Strategies for Peak Video Viewership Times for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-learn-how-to-convert-audio-clips-into-written-text-with-microsoft-words-speech-recognition-features/"><u>[Updated] Learn How To Convert Audio Clips Into Written Text with Microsoft Word's Speech Recognition Features</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-the-inverted-illusion-guide-transforming-visual-content-through-angled-spins-for-2024/"><u>[Updated] The Inverted Illusion Guide Transforming Visual Content Through Angled Spins for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/cyberpunk-2e77-and-its-previously-reported-input-lag-problems-now-solved/"><u>Cyberpunk 2E77 and Its Previously Reported Input Lag Problems Now Solved</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Tecno Spark 20C? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effortless-gaming-discover-11-tips-to-overcome-borderlands-groggy-launch-issues/"><u>Effortless Gaming: Discover 11 Tips to Overcome Borderlands Groggy Launch Issues</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effortless-ways-to-fix-genshin-impacts-start-up-problems/"><u>Effortless Ways to Fix Genshin Impact's Start-Up Problems</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/essential-techniques-for-ps3-gameplay-screencasts/"><u>Essential Techniques for PS3 Gameplay Screencasts</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-pc-issues-resolved-back-4-blood-continuous-crashes/"><u>Fixing PC Issues: Resolved 'Back 4 Blood' Continuous Crashes</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-lava-yuva-2-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Lava Yuva 2 FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-motorola-moto-g24-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Motorola Moto G24</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-laughing-along-to-mimicked-melodies/"><u>[New] 2024 Approved Laughing Along to Mimicked Melodies</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-masterful-transitioning-8-leading-convertors-for-sub-and-srt/"><u>[New] In 2024, Masterful Transitioning 8 Leading Convertors for Sub and SRT</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-demystifying-the-process-of-writing-youtube-video-content-for-2024/"><u>[Updated] Demystifying the Process of Writing YouTube Video Content for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-unveiling-hidden-gems-instagrams-download-secrets/"><u>[Updated] In 2024, Unveiling Hidden Gems Instagram's Download Secrets</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-photographers-edge-innovating-with-instagrams-bokeh-features/"><u>[Updated] The Photographer's Edge Innovating with Instagram’s Bokeh Features</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-the-pathway-to-aural-brilliance-incorporating-and-fine-tuning-sounds-in-canvas/"><u>2024 Approved The Pathway to Aural Brilliance Incorporating & Fine-Tuning Sounds in Canvas</u></a></li>
+<li><a href="https://win-answers.techidaily.com/achieving-buttery-smooth-gaming-how-to-overcome-stuttering-challenges-s-high-fps-titles/"><u>Achieving Buttery-Smooth Gaming: How to Overcome Stuttering Challenges 'S High FPS Titles</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bypassing-error-6-in-warzonemodern-warfare-optimizing-pc-gameplay-performance/"><u>Bypassing Error 6 in Warzone/Modern Warfare: Optimizing PC Gameplay Performance</u></a></li>
+<li><a href="https://win-answers.techidaily.com/comprehensive-solutions-for-correcting-graphic-driver-failures/"><u>Comprehensive Solutions for Correcting Graphic Driver Failures</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-continuous-crashing-issues-in-the-discord-platform/"><u>How to Fix Continuous Crashing Issues in the Discord Platform</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-resolve-directdraw-problems-efficiently-solutions-inside/"><u>How to Resolve DirectDraw Problems Efficiently - Solutions Inside!</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-top-tools-to-upscale-video-resolution-enhance-your-footage/"><u>In 2024, Top Tools to Upscale Video Resolution Enhance Your Footage</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/incorporando-o-windows-10-ao-seu-novo-ssd-duas-tecnicas-distintas-para-a-configuracao-inicial/"><u>Incorporando O Windows 10 Ao Seu Novo SSD: Duas Técnicas Distintas Para a Configuração Inicial</u></a></li>
+<li><a href="https://win-answers.techidaily.com/metro-exodus-pc-enhanced-stability-issues-heres-your-ultimate-fix-guide/"><u>Metro Exodus (PC, Enhanced) Stability Issues? Here's Your Ultimate Fix Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimizing-performance-how-to-address-low-fps-in-new-world/"><u>Optimizing Performance: How To Address Low FPS in New World</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/syncing-your-icloud-notes-with-linux-a-comprehensive-guide/"><u>Syncing Your iCloud Notes with Linux: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unveiling-solutions-how-to-keep-palworld-game-stable-on-personal-computers/"><u>Unveiling Solutions: How To Keep PalWorld Game Stable on Personal Computers</u></a></li>
 </ul></div>
 

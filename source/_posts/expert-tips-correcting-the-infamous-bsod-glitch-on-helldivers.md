@@ -1,7 +1,7 @@
 ---
 title: "Expert Tips: Correcting the Infamous BSOD Glitch on Helldivers ➡️"
-date: 2025-02-08T16:46:38.099Z
-updated: 2025-02-15T04:46:41.483Z
+date: 2025-03-01T16:05:40.796Z
+updated: 2025-03-04T16:00:02.644Z
 tags:
   - win11
   - win10
@@ -40,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/4ef2c771bab22f6200bc44d813f92a02921f5f21b
 
  Before we dive into anything advanced, please try to restart the game and your PC to see if it’s a random one-time error.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Check Destiny 2 server status
 
  Since the Error Centipede is a general networking error, the first thing you can do is to check if the server is down. If Destiny 2 is undergoing maintenance, you won’t be able to connect to the server and thus may get the Centipede Error.
@@ -68,10 +64,6 @@ If you still get the Error Centipede, try the next fix.
  When you get the Error Centipede on Destiny 2, you’ll need to make sure your connection is not restricted and can connect to Destiny 2 servers. It’s recommended to set your NAT to Type 1/Open for a stable connection to Destiny servers.
 
  NAT is short for Network Address Translation. Put simply, it operates on your router and allows a single IP address to represent all the devices on your private network. To configure your NAT settings, you’ll either need to enable UPnP or set up Port Forwarding. It’s usually recommended to**try only one method** , unless the first one doesn’t work for you.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 1: Enable UPnP
 
@@ -104,10 +96,6 @@ You can now test a game to see if you still get the Centipede Error.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/ipconfigall.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Step 2: Assign a static IP address
 
 1. Press the**Windows logo key** and**R** to invoke the Run box.
@@ -115,16 +103,8 @@ You can now test a game to see if you still get the Centipede Error.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/run-npca.cpl-.jpg)
 3. Click on the**Ethernet icon** , right-click it then click**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/ethernet-properties-1.jpg)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/ipv4-properties.jpg)
 5. Select**Use the following IP address** and**Use the following DNS server addresses** . Fill in the information you recorded in Step 1:**IP address, Subnet mask, Default gateway, DNS servers** . Once complete, click**OK** .  
@@ -165,10 +145,6 @@ You can now test a game to see if you still get the Centipede Error.
 | Xbox 360              | 3074                                                                                          | 88, 3074                        |
 
  If setting up the NAT type doesn’t solve your problem, try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Update your network adapter driver
 
@@ -229,18 +205,22 @@ You can now test a game to see if you still get the Centipede Error.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-content-creators-preferences-vimeo-or-youtube-in-2024/"><u>[New] Content Creators' Preferences Vimeo or YouTube, In 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-how-to-fix-facebook-suggested-videos-not-showing-up/"><u>[New] In 2024, How to Fix Facebook Suggested Videos Not Showing Up?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/best-6-aac-apps-compared-optimal-solutions-for-windows-macos-and-mobile-devices/"><u>Best 6 AAC Apps Compared: Optimal Solutions for Windows, macOS & Mobile Devices</u></a></li>
-<li><a href="https://win-answers.techidaily.com/capturing-content-on-xumo-exploring-three-in-depth-strategies/"><u>Capturing Content on XUMO: Exploring Three In-Depth Strategies</u></a></li>
-<li><a href="https://win-answers.techidaily.com/convert-avi-files-to-swf-format-free-top-onlineoffline-tools/"><u>Convert AVI Files to SWF Format Free: Top Online/Offline Tools</u></a></li>
-<li><a href="https://win-answers.techidaily.com/dvd-shrink-mp4/"><u>DVD Shrink MP4への変換可能性：ご利用は可能でしょうか？</u></a></li>
-<li><a href="https://win-answers.techidaily.com/dvdiso-windows-1110-iso/"><u>DVDからISOへ: Windows 11/10用完全解説 - ISOファイル作成方法</u></a></li>
-<li><a href="https://win-answers.techidaily.com/easy-methods-for-transforming-flv-file-format-into-mp4mpeg-on-windows-systems/"><u>Easy Methods for Transforming FLV File Format Into MP4/MPEG on Windows Systems</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Nokia 105 Classic | Dr.fone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-the-blueprint-to-establishing-a-distinctive-marketing-persona/"><u>In 2024, The Blueprint to Establishing a Distinctive Marketing Persona</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/locating-unseen-or-hidden-disks-in-windows-11-a-comprehensive-guide/"><u>Locating Unseen or Hidden Disks in Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/maximize-windows-10-sound-output-for-a-loud-and-clear-experience/"><u>Maximize Windows 10 Sound Output for a Loud and Clear Experience</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/unraveling-the-mystery-of-frame-rates-in-videos/"><u>Unraveling the Mystery of Frame Rates in Videos</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-from-standard-to-spectacular-your-guide-to-selecting-a-stellar-4k-display/"><u>[New] From Standard to Spectacular Your Guide to Selecting a Stellar 4K Display</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-a-compreayers-pathway-to-efficient-screen-recording-via-zd-software/"><u>[New] In 2024, A Compreayer's Pathway to Efficient Screen Recording via ZD Software</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-pro-video-capture-solutions-on-mac-beyond-the-bandicamp-era/"><u>[New] Pro Video Capture Solutions on Mac Beyond the Bandicamp Era</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-transforming-viewers-into-fans-with-top-yt-video-reacts/"><u>[Updated] 2024 Approved Transforming Viewers Into Fans with Top YT Video Reacts</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-asus-rog-phone-8-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Asus ROG Phone 8 Fingerprint Lock</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ditching-windows-11s-highlighted-desktop-icon/"><u>Ditching Windows 11'S Highlighted Desktop Icon</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-logitechs-latest-wireless-mouse-software-for-pc/"><u>Download Logitech's Latest Wireless Mouse Software for PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-techniques-for-repairing-non-responsive-voice-chats-and-error-alerts/"><u>Effective Techniques for Repairing Non-Responsive Voice Chats and Error Alerts</u></a></li>
+<li><a href="https://win-answers.techidaily.com/get-your-discord-back-on-track-handling-app-launch-failures-effectively/"><u>Get Your Discord Back on Track: Handling App Launch Failures Effectively</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirror-on-apple-iphone-x-drfone-by-drfone-ios/"><u>How to Screen Mirror on Apple iPhone X? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mass-effect-remastered-crashes-heres-how-to-solve-the-issues-on-ps4xbox-onepc/"><u>Mass Effect Remastered Crashes? Here's How to Solve the Issues on PS4/Xbox One/PC!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-vrchat-performance-8-key-strategies-for-preventing-pc-crashes/"><u>Mastering VRChat Performance: 8 Key Strategies for Preventing PC Crashes</u></a></li>
+<li><a href="https://fox-info.techidaily.com/merge-speeches-and-music-into-slides-sequences-for-2024/"><u>Merge Speeches and Music Into Slides Sequences for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-players-rejoice-hades-performance-glitches-now-officially-fixed/"><u>PC Players Rejoice: Hades' Performance Glitches Now Officially Fixed</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-star-citizen-window-failures-optimized-gameplay-experience/"><u>Resolving Star Citizen Window Failures - Optimized Gameplay Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/restoring-access-to-netflix-entertainment-on-xbox-one-gaming-console/"><u>Restoring Access to Netflix Entertainment on Xbox One Gaming Console</u></a></li>
+<li><a href="https://win-answers.techidaily.com/warzone-20-bandwidth-boosters-cutting-edge-solutions-to-fix-lag-issues-and-enhance-your-gaming-experience-2024-edition/"><u>Warzone 2.0 Bandwidth Boosters: Cutting-Edge Solutions to Fix Lag Issues and Enhance Your Gaming Experience - 2024 Edition</u></a></li>
 </ul></div>
 

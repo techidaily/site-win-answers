@@ -1,7 +1,7 @@
 ---
 title: Fast Track Your WoW Playtime - Banish Lagging for Good
-date: 2024-08-19T00:57:26.166Z
-updated: 2024-08-20T00:57:26.166Z
+date: 2025-03-01T16:07:20.726Z
+updated: 2025-03-04T16:05:34.046Z
 tags:
   - win11
   - win10
@@ -47,18 +47,12 @@ Having latency issues with World of Warcraft (WoW)? Don’t panic – you’re n
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 2: Use “flushdns” command
 
  This command is pretty useful to solve network-related issues. When you’re having major lag spikes in games or just feel that your network connection is unstable/stops working, you should always give this fix a try.
 
  1) On your taskbar, type **command** into the search box. Then right-click on the **Command Prompt** result and select **Run as administrator** .
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-137.png)
 
  Click **Yes** if you’re prompted about permission.
@@ -124,23 +118,14 @@ ipconfig /flushdns
 
  1) On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog box. Then type in **control** **panel** and press **Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-626.png)
 
  2) Expand **View by:** and select **Category** . Then click **View network status and tasks** .
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-627.png)
 
  3) In the next window, click **Change adapter settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-628.png)
 
  4) Right-click on your network adapter and select **Properties** .
@@ -149,18 +134,12 @@ ipconfig /flushdns
 
  5) Double-click **Internet Protocol Version 4 (TCP/IPv4)**  to view its properties.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-630.png)
 
  6) In the pop-up window, select these two options: **Obtain an IP address automatically** and **Use the following DNS server addresses** .
 
  For the **Preferred DNS server** , enter **8.8.8.8**  to replace the initial IP address;for the **Alternate DNS server** , enter **8.8.4.4** . Then click **OK** to save the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-633.png)
 
 **Note:** If you want to restore your DNS server addresses, simply change “Use the following DNS server addresses” to **“** Obtain DNS server address automatically” and then restart your network adapter.
@@ -171,9 +150,6 @@ If this fix didn’t help, read on and try the next one.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 5: Close bandwidth-hogging apps
 
  Bandwidth hogging applications will slow down your network speed and trigger latency issues in WoW. Make sure you shut down all the resource-hungry programs before playing the game. Here’s how:
@@ -188,10 +164,6 @@ If this fix didn’t help, read on and try the next one.
 
  3) **Right-click** on the application that’s eating up your bandwidth and select **End Process** .
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-621.png)
 
  4) When Windows asks you to confirm, click **End process** .
@@ -220,9 +192,6 @@ If this fix didn’t help, read on and try the next one.
 
 modem
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-596.png)
 
 wireless router
@@ -261,8 +230,6 @@ wireless router
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -270,4 +237,20 @@ wireless router
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-from-basics-to-expertise-3d-lut-creation/"><u>[New] From Basics to Expertise 3D LUT Creation</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-virtual-screenscapes-for-streamers/"><u>2024 Approved Ideal Virtual Screenscapes for Streamers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/awesome-online-destinations-for-advanced-text-customization-for-2024/"><u>Awesome Online Destinations for Advanced Text Customization for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/best-websites-to-assist-you-in-your-quest-for-a-new-home/"><u>Best Websites to Assist You in Your Quest for a New Home</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/1719574085655-canon-printer-is-offline-heres-how-to-fix-it/"><u>Canon Printer Is Offline? Here’s How to Fix It!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/collaborative-playlists-is-it-possible-for-duos-to-jointly-use-spotify/"><u>Collaborative Playlists: Is It Possible for Duos to Jointly Use Spotify?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/eliminate-latency-woes-proven-techniques-for-optimal-performance-in-chivalry-2-new-age-solutions-2/"><u>Eliminate Latency Woes: Proven Techniques for Optimal Performance in Chivalry 2 (New-Age Solutions - 2</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/elite-manfrotto-befree-tripod-industry-standard/"><u>Elite Manfrotto Befree Tripod: Industry Standard</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-problems-when-your-pc-performance-tool-isnt-responding-correctly/"><u>Fixing Problems When Your PC Performance Tool Isn’t Responding Correctly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-words-troublesome-winwordexe-glitch-simple-steps-inside/"><u>Fixing WORD's Troublesome WINWORD.EXE Glitch – Simple Steps Inside</u></a></li>
+<li><a href="https://win-answers.techidaily.com/improving-fps-lag-issues-for-a-smoother-outriders-journey/"><u>Improving FPS Lag Issues for a Smoother Outriders Journey</u></a></li>
+<li><a href="https://blog-min.techidaily.com/legitimate-methods-of-converting-your-netflix-dvd-rental-into-an-online-streaming-version/"><u>Legitimate Methods of Converting Your Netflix DVD Rental Into an Online Streaming Version</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-tips-to-resolve-pc-game-crashing-problems-in-yakuza-absolutely-remastered/"><u>Top Tips to Resolve PC Game Crashing Problems in Yakuza Absolutely Remastered</u></a></li>
+</ul></div>
 

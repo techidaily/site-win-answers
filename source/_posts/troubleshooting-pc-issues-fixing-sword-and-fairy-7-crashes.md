@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting PC Issues: Fixing Sword and Fairy 7 Crashes"
-date: 2025-02-13T03:37:27.242Z
-updated: 2025-02-14T19:40:21.184Z
+date: 2025-02-28T16:05:54.496Z
+updated: 2025-03-04T16:08:24.244Z
 tags:
   - win11
   - win10
@@ -32,10 +32,6 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 4. [**Change the graphics settings**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Update your device drivers](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1 – Turn off the preview window
 
  According to many users, a simple workaround to OBS not recording screen is to disable the preview window. What you need to do is to launch OBS and untick the**Studio Mode** at the bottom right corner of the main screen. Then the preview window should be closed and you could check if the problem goes away. If the problem occurs while you’re recording a game, try to**minimize OBS** to the system tray.
@@ -43,10 +39,6 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/disable-preview-obs.jpg)
 
  Turning off OBS preview should also mitigate the FPS drops while recording. But if this doesn’t help your case, have a look at the second method below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2 – Run OBS as an administrator
 
@@ -58,10 +50,6 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/run-obs-as-administrator.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now OBS should be working with full access and recording your screen properly. If not so, there are a few more fixes to try.
 
 ### Fix 3 – Close unnecessary background programs
@@ -71,10 +59,6 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 1. Right-click any empty area of the taskbar and click**Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ta-1.jpg)
 2. Right-click a program you’d like to close and click **End task** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Don’t end any programs you’re unfamiliar with, as they may be critical for the functioning of your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ta-3.jpg)
@@ -93,10 +77,6 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-1.jpg)
 4. Choose**Desktop app** from the drop-down list and click**Browse** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-2.jpg)
 5. Locate your**OBS executable file** , which is usually located at_C:\\Program Files\\obs-studio\\bin\\64bit\\obs64.exe_ , and add this file.
 
@@ -107,10 +87,6 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-4.jpg)
 
  See if OBS works without trouble. If you’re still unable to use screen capture, there might be something wrong with your device drivers. Check out Fix 5 to solve it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5 – Update your device drivers
 
@@ -153,17 +129,15 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-streamlining-lecture-recordings-on-imac/"><u>[New] 2024 Approved Streamlining Lecture Recordings on iMac</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solved-dragon-age-inquisition-wont-launch-driver-easy/"><u>[Solved] Dragon Age Inquisition Won’t Launch? – Driver Easy</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-unveil-your-videos-secrets-of-social-sharing-success-for-2024/"><u>[Updated] Unveil Your Videos Secrets of Social Sharing Success for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/eliminate-slow-startup-issues-optimize-your-fallout-4-gaming-experience/"><u>Eliminate Slow Startup Issues – Optimize Your Fallout 4 Gaming Experience</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fix-wwe-2k22-continuously-crashes-while-playing-on-pc-solutions-inside/"><u>Fix: WWE 2K22 Continuously Crashes While Playing on PC – Solutions Inside</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/futuristic-communication-the-best-5-innovative-ai-prompt-craftors/"><u>Futuristic Communication: The Best 5 Innovative AI Prompt Craftors</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-change-itel-s23-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Itel S23 Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-nokia-c22-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Nokia C22 | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-motorola-razr-40-ultra-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Motorola Razr 40 Ultra</u></a></li>
-<li><a href="https://win-answers.techidaily.com/launch-unlocked-the-duo-behind-the-success/"><u>Launch Unlocked: The Duo Behind the Success</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722990003065-navigating-assassins-creed-valhallas-unlaunched-status-solutions-for-impatient-gamers/"><u>Navigating Assassin's Creed Valhalla's Unlaunched Status: Solutions for Impatient Gamers</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/optimal-vr-headset-choice-embracing-the-freedom-of-mobile-or-the-tethered-experience/"><u>Optimal VR Headset Choice Embracing the Freedom of Mobile Or The Tethered Experience?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-age-of-empires-4-keeps-crashing-on-pc/"><u>[SOLVED] Age of Empires 4 Keeps Crashing on PC</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-highpoint-artist-toolkit-review/"><u>[Updated] Highpoint Artist Toolkit Review</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-bridging-content-and-commerce-a-youtubers-guide-to-sponsorship/"><u>2024 Approved Bridging Content and Commerce A Youtuber's Guide to Sponsorship</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-hues-harmony-an-editors-guide-to-perfect-grading/"><u>2024 Approved Hues Harmony An Editor's Guide to Perfect Grading</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-solutions-for-preventing-ghostwire-tokyo-from-crashing-on-windows/"><u>Effective Solutions for Preventing Ghostwire: Tokyo From Crashing on Windows</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/guide-to-accessing-pdf-files-techniques-and-tools-yl-computings-comprehensive-walkthrough/"><u>Guide to Accessing PDF Files: Techniques and Tools - YL Computing's Comprehensive Walkthrough</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pathfinder-wrath-of-the-righteous-controller-issues-expert-fixes-to-restore-your-gameplay-experience/"><u>Pathfinder Wrath of the Righteous Controller Issues? Expert Fixes to Restore Your Gameplay Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-how-to-stop-sony-vegas-from-continuously-crashing/"><u>Troubleshooting: How to Stop Sony Vegas From Continuously Crashing</u></a></li>
+<li><a href="https://fox-info.techidaily.com/ultimate-guide-to-online-portals-for-text-artistry-for-2024/"><u>Ultimate Guide to Online Portals for Text Artistry for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/your-quick-path-to-multimedia-tweeting/"><u>Your Quick Path to Multimedia Tweeting</u></a></li>
 </ul></div>
 

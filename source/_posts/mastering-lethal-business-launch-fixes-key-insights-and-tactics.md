@@ -1,7 +1,7 @@
 ---
 title: "Mastering Lethal Business Launch Fixes: Key Insights and Tactics"
-date: 2025-02-13T03:27:46.684Z
-updated: 2025-02-14T18:37:39.069Z
+date: 2025-03-02T16:07:31.549Z
+updated: 2025-03-04T16:11:33.540Z
 tags:
   - win11
   - win10
@@ -46,15 +46,7 @@ thumbnail: https://thmb.techidaily.com/6befd60c173a5cd8b8d9dfcf598dea7f7e1558ad2
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-genshin-as-administrator-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After you apply the settings, launch the Genshin Impact file directly from the folder and see if it opens correctly. If not, check out the second fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2 – Update your graphics driver
 
@@ -87,10 +79,6 @@ There are mainly two ways you can update the graphics driver:
 
  Once the driver update completes, restart the computer and test the issue again. The game is still not working? Then try the next solution.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3 – Install the latest DirectX and Visual C++ redistributable files
 
  If Genshin Impact doesn’t launch and you’re receiving specific errors like 0xc000007b or MSVCP140.dll cannot be found, installing the latest DirectX files and Visual C++ files might resolve your issue.
@@ -102,10 +90,6 @@ There are mainly two ways you can update the graphics driver:
 3. Go to the[Visual C++ download page](https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-downloads-2647da03-1eea-4433-9aff-95f26a218cc0) and download the latest Visual C++ redistributable package for your Windows.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/visual-c-page.jpg)
 4. Once downloaded, run the exe.file and click**Repair** (or**Install** ) to initiate the setup.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/visual-c-file.jpg)
 
@@ -122,19 +106,11 @@ There are mainly two ways you can update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-2-3.jpg)
 3. Choose the**Startup tab** and click**Open Task Manager** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-2-2-1.jpg)
 4. Navigate to the**Startup** tab. Right-click each enabled item and click**Disable** . Then close the window.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-4.jpg)
 5. Go back to the System Configuration window and click**OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-2-3-1.jpg)
 6. Click**Restart** when prompted.  
@@ -153,10 +129,6 @@ There are mainly two ways you can update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-1-4.jpg)
 2. Under the General tab, tick**Normal startup** and click**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/normal-startup.jpg)
 3. Click**Restart** .  
 
@@ -172,10 +144,6 @@ There are mainly two ways you can update the graphics driver:
 3. Select**Repair Game Files** from the left and click**Repair Now** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/repair-game-file-genshin-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Wait for the process to finish and restart the game, which should be working as expected.
 
@@ -200,18 +168,21 @@ There are mainly two ways you can update the graphics driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-curating-the-perfect-soundtrack-youtubes-best-audio-sites-ranked/"><u>[New] In 2024, Curating the Perfect Soundtrack YouTube's Best Audio Sites Ranked</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-voice-yourself-audio-recording-on-windows-10/"><u>[Updated] 2024 Approved Voice Yourself Audio Recording on Windows 10</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-maximizing-media-flexibility-in-vlc-through-mp4-conversions/"><u>[Updated] Maximizing Media Flexibility in VLC Through MP4 Conversions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/advanced-dvd-unpacking-tool-transform-low-res-dvds-into-high-definition-format/"><u>Advanced DVD Unpacking Tool: Transform Low-Res DVDs Into High-Definition Format</u></a></li>
-<li><a href="https://win-answers.techidaily.com/best-8-compatible-audio-converters-ac3-devices-and-apps-for-all-your-os-needs/"><u>Best 8 Compatible Audio Converters (AC3) Devices & Apps for All Your OS Needs</u></a></li>
-<li><a href="https://win-answers.techidaily.com/bypassing-dvd-intros-tips-for-skipping-previews-commercials-and-alert-messages/"><u>Bypassing DVD Intros: Tips for Skipping Previews, Commercials & Alert Messages</u></a></li>
-<li><a href="https://win-answers.techidaily.com/cfrvfr2024/"><u>CFRへのVFR変換技術：最新版「2024年３方法をご案内」</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/1719579831098-commonest-focus-on-foreign-language-learning-us/"><u>Commonest Focus on Foreign Language Learning U.S</u></a></li>
-<li><a href="https://win-answers.techidaily.com/complete-walkthrough-for-installing-mad-titan-sports-extension-on-kodis-latest-version-nexus/"><u>Complete Walkthrough for Installing Mad Titan Sports Extension on Kodi's Latest Version (Nexus)</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/cosmic-ledger-restoration-tips/"><u>Cosmic Ledger Restoration Tips</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/free-quality-collage-maker-resources-online-top-picks-and-templates/"><u>Free, Quality Collage Maker Resources Online: Top Picks & Templates</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-beyond-wirecast-top-video-broadcasting-software/"><u>In 2024, Beyond WireCast Top Video Broadcasting Software</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/next-gen-vision-top-10-cameras-of-the-year-2024/"><u>Next-Gen Vision – Top 10 Cameras of the Year 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-selection-of-text-enhancers-for-adobe-ae/"><u>[New] The Ultimate Selection of Text Enhancers for Adobe AE</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-alpine-adventure-2022s-spectacular-snowboard-cross-olympic-moments/"><u>[Updated] In 2024, Alpine Adventure 2022'S Spectacular Snowboard Cross Olympic Moments</u></a></li>
+<li><a href="https://win-answers.techidaily.com/elden-rings-release-delay-clarified-everything-you-need-to-know/"><u>Elden Ring's Release Delay Clarified: Everything You Need to Know</u></a></li>
+<li><a href="https://win-answers.techidaily.com/elite-tactics-for-smoother-gameplay-in-chivalry-2-overcoming-network-lag-and-high-ping-innovative-fixes/"><u>Elite Tactics for Smoother Gameplay in Chivalry 2: Overcoming Network Lag & High Ping (Innovative Fixes)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-spatial-audio-issues-troubleshooting-tips-for-windows-11-and-10-users/"><u>Fixing Spatial Audio Issues: Troubleshooting Tips for Windows 11 and 10 Users</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210857408-9798218216061-higher-self-connection/"><u>Higher Self Connection | Free Book</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-origin-not-responding-on-windows-10-and-11/"><u>How to Fix 'Origin Not Responding' On Windows 10 and 11</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-breaking-even-on-youtube-key-view-figures-explored/"><u>In 2024, Breaking Even on YouTube Key View Figures Explored</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-realme-gt-neo-5-se-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Realme GT Neo 5 SE to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-motorola-edge-40-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Motorola Edge 40 to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/instagrams-sequential-visual-showcase/"><u>Instagram's Sequential Visual Showcase</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-discover-the-best-free-beats-and-tunes-creation-programs-for-pc-and-mac-updated/"><u>New In 2024, Discover the Best Free Beats and Tunes Creation Programs for PC & Mac, Updated</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-for-unstable-game-loops-avoid-game-crashes-on-windows-1110-systems/"><u>Solution for Unstable Game Loops: Avoid Game Crashes on Windows 11/10 Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722987569870-trouble-with-cyberpunk-2077-get-smooth-game-download-experience-on-steam-now/"><u>Trouble with Cyberpunk 2077? Get Smooth Game Download Experience on Steam Now!</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/ultimate-action-camera-selection-under-100-for-2024/"><u>Ultimate Action Camera Selection Under $100 for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-resolving-the-tfla0002-final-exam-glitch/"><u>Ultimate Guide: Resolving the TFLA0002 Final Exam Glitch</u></a></li>
 </ul></div>
 

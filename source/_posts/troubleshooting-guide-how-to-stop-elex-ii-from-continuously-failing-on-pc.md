@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: How To Stop Elex II From Continuously Failing On PC"
-date: 2024-08-19T00:55:11.693Z
-updated: 2024-08-20T00:55:11.693Z
+date: 2025-03-02T16:00:51.978Z
+updated: 2025-03-04T16:00:34.741Z
 tags:
   - win11
   - win10
@@ -15,16 +15,10 @@ thumbnail: https://thmb.techidaily.com/e37584e82cca80fba03220abdcda2f6632c85a45f
 
 ## How I Stopped My Blender From Continuously Crashing on Windows/Mac
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/Blender-keeps-crashing-on-PC.jpg)
 
 **Blender keeps crashing on your Windows PC?** If so, you’ve come to the right place. Although it’s frustrating, the good news is that you should be able to fix this issue on your own easily after reading this article.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  Although the causes of the Blender crashing issue vary, here we’ve put together some fixes that proved to work for many Windows Blender users. Whether Blender crashes on startup or crashes when it is rendering media, you can find a fix to try in this article.
@@ -51,14 +45,8 @@ thumbnail: https://thmb.techidaily.com/e37584e82cca80fba03220abdcda2f6632c85a45f
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
@@ -70,18 +58,12 @@ thumbnail: https://thmb.techidaily.com/e37584e82cca80fba03220abdcda2f6632c85a45f
 
 1. On your keyboard, press **Ctrl** , **Shift** and **Esc** at the same time to open **Task Manager** . You will be prompted for permission. Click **Yes** to open Task Manager.
 2. Select any other applications and programs that take up a large amount of **CPU** or **memory** , then click **End task** to close it.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Close CPU / memory hogging applications](https://images.drivereasy.com/wp-content/uploads/2021/05/Close-CPU-memory-hogging-applications.jpg)
 
  If Blender works well after you close those CPU / memory-hogging applications, congratulations!
 
  To prevent Blender from crashing due to insufficient memory in the future, you may need to consider upgrading the memory (RAM) on your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 3: Install the latest Windows update
 
  Microsoft constantly releases Windows updates to fix bugs and improve performance in Windows OS. If your PC is running on Windows 10 and you haven’t installed Windows update for a long time, try performing a Windows update and see if Blender crashes on the latest Windows OS.
@@ -118,8 +100,6 @@ If this issue persists, try the next fix, below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -127,4 +107,18 @@ If this issue persists, try the next fix, below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-can-you-lawfully-archive-youtube-content/"><u>[New] In 2024, Can You Lawfully Archive YouTube Content?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/mp4ogv/"><u>「MP4ファイルをOGV形式にシームレスに変換する究極ガイド」</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-perfect-video-title-generators-for-youtube/"><u>2024 Approved Perfect Video Title Generators for YouTube</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782502-9781591432203-aboriginal-secrets-of-awakening/"><u>Aboriginal Secrets of Awakening | Free Book</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guide-overcoming-freezing-and-crashes-in-persona-4-golden-for-smooth-play/"><u>Guide: Overcoming Freezing and Crashes in Persona 4 Golden for Smooth Play</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-tips-eliminating-delays-and-minimizing-ping-in-cs-2-for-seamless-play/"><u>Master Tips: Eliminating Delays and Minimizing Ping in CS 2 for Seamless Play</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/pcgmail2/"><u>PCで高速かつ簡単にGmailメールをバックアップするための2コツ</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-roblox-wont-start-errors-a-comprehensive-guide/"><u>Resolving Roblox Won't Start Errors : A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-why-is-the-mass-effect-legendary-edition-failing-to-start/"><u>Troubleshooting: Why Is the Mass Effect Legendary Edition Failing to Start?</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/ultimate-tutorial-on-capturing-your-google-meet-video-conference-with-minimal-hassle/"><u>Ultimate Tutorial on Capturing Your Google Meet Video Conference with Minimal Hassle</u></a></li>
+<li><a href="https://win-answers.techidaily.com/winning-the-battle-against-hp-security-suite-uninstall-error-1325-on-windows-7-a-comprehensive-solution/"><u>Winning the Battle Against HP Security Suite Uninstall Error 1325 on Windows 7 – A Comprehensive Solution</u></a></li>
+</ul></div>
 

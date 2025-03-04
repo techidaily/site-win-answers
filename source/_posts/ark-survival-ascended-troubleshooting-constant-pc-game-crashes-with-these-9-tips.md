@@ -1,7 +1,7 @@
 ---
 title: "ARK: Survival Ascended - Troubleshooting Constant PC Game Crashes with These 9 Tips"
-date: 2025-02-11T02:46:19.201Z
-updated: 2025-02-15T03:22:30.955Z
+date: 2025-02-27T16:07:02.816Z
+updated: 2025-03-04T16:02:48.475Z
 tags:
   - win11
   - win10
@@ -53,10 +53,6 @@ Recently, many players have reported that**A Total War Saga: Troy keeps crashing
 
 There’re mainly two ways you can update your graphics drivers:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Option 1: Manually
 
  You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
@@ -93,10 +89,6 @@ Or
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  You need to restart your PC after you finished updating your graphics driver.
@@ -113,10 +105,6 @@ Or
 
  Launch A Total War Saga: Troy to check whether the game crash issue has been resolved. If it hasn’t, or there was no new game patch available, move on to next fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 4: Install the latest DirectX files
 
  Most games require DirectX 11 to run properly, and A Total War Saga: Troy is no exception. If there’s a problem with DirectX, the game would crash on startup. If it’s the case, updating the DirectX to the latest version may help. Here is how to do it:
@@ -125,10 +113,6 @@ Or
 2. Click the Download button to start the download.  
 ![download latest DirectX](https://images.drivereasy.com/wp-content/uploads/2021/03/download-latest-DirectX.jpg)
 3. Once downloaded, double-click the downloaded**.exe** file to install it on your computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Restart your computer and launch the game.
 
@@ -144,10 +128,6 @@ Or
 
  If this issue persists after you stopped overclocking, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 6: Repair Epics Games launcher
 
  A Total War Saga: Troy may crash if there is something wrong with Epic Games launcher. To fix the game crashing issue due to Epics Games launcher, just try this fix.
@@ -159,10 +139,6 @@ Or
 2. **Right-click** on**Epics Games launcher** and select**Repair** .  
 
 ![how to repair Epics Games launcher](https://images.drivereasy.com/wp-content/uploads/2021/03/how-to-repair-Epics-Games-launcher.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After Windows repaired Epics Games launcher, launch A Total War Saga: Troy to see if it will crash. If it still crashes, try the next fix, below.
 
@@ -199,18 +175,21 @@ Or
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-elevate-your-video-popularity-essential-seo-techniques-for-success/"><u>[Updated] In 2024, Elevate Your Video Popularity Essential SEO Techniques for Success</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-update-cpu-drivers-in-windows/"><u>How To Update CPU Drivers In Windows</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-infinix-note-30-pro-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Infinix Note 30 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-poco-m6-pro-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Poco M6 Pro 5G to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-sony-xperia-1-v-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Sony Xperia 1 V PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-top-mic-lists-tailored-for-high-definition-4k-cameras/"><u>In 2024, Top Mic Lists Tailored for High-Definition 4K Cameras</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-the-art-of-video-watermarks-4-simple-methods-to-insert-images-with-ease/"><u>Mastering the Art of Video Watermarks: 4 Simple Methods to Insert Images with Ease</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mp4aviutl/"><u>MP4ファイルを正常に再生するためのAviUtlソリューション</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-guide-transforming-iso-images-into-wmv-video-with-simple-techniques/"><u>Quick Guide: Transforming ISO Images Into WMV Video with Simple Techniques</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-to-resolving-problems-with-onlinevideoconvertercom-accessibility/"><u>Step-by-Step Guide to Resolving Problems with OnlineVideoConverter.com Accessibility</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ltimate-guide-to-polishing-videos-for-youtube-via-windows-pc/"><u>The Ultimate Guide to Polishing Videos for YouTube via Windows PC</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-apps-and-online-tools-to-track-oppo-k11-5g-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Oppo K11 5G Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/windows-11-audio-settings-a-step-by-step-guide-on-turning-onoff-system-sounds-techsolutions/"><u>Windows 11 Audio Settings: A Step-by-Step Guide on Turning On/Off System Sounds - TechSolutions</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-a-comprehensive-review-of-the-latest-picsart-updates-for-2024/"><u>[New] A Comprehensive Review of the Latest PicsArt Updates for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-obs-studio-vs-bandicam-for-2024/"><u>[New] OBS Studio vs Bandicam for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-core-ethos-universal-youtube-guidelines/"><u>[Updated] In 2024, Core Ethos Universal YouTube Guidelines</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-unveiling-lgs-cutting-edge-monitor-technology-in-detail-for-2024/"><u>[Updated] Unveiling LG’s Cutting-Edge Monitor Technology in Detail for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhancing-rainbow-six-extraction-performance-fixing-low-fps-problems/"><u>Enhancing Rainbow Six Extraction Performance - Fixing Low FPS Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-issue-preventing-psychonauts-2-from-crashing-on-your-pc/"><u>Fixing the Issue: Preventing Psychonauts 2 From Crashing on Your PC</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Vivo X100? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-itel-a60s-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Itel A60s Devices | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-removing-obstacles-a-guide-to-pristine-visual-backgrounds-in-canva/"><u>In 2024, Removing Obstacles A Guide to Pristine Visual Backgrounds in Canva</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-apple-iphone-13-and-android-phones-by-drfone-ios/"><u>In 2024, Top IMEI Unlokers for Apple iPhone 13 and Android Phones</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimizing-your-gameplay-fixing-hlalyx-graphics-glitches-for-a-smoother-experience/"><u>Optimizing Your Gameplay: Fixing HL:Alyx Graphics Glitches for a Smoother Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-technical-hurdles-a-step-by-step-guide-to-stabilizing-the-witcher-3-on-your-computer/"><u>Overcoming Technical Hurdles: A Step-by-Step Guide to Stabilizing The Witcher 3 on Your Computer</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pro-photography-on-iphone-essential-apps-compilation-for-2024/"><u>Pro Photography on iPhone Essential Apps Compilation for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-escape-from-tarkov-fixes-for-anticheat-connection-breakdown/"><u>Troubleshooting Escape From Tarkov - Fixes for Anticheat Connection Breakdown</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-to-prevent-bdo-black-desert-online-pc-crashes-effectively/"><u>Troubleshooting Guide to Prevent BDO (Black Desert Online) PC Crashes Effectively</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unfreeze-your-fun-comprehensive-solutions-to-preventing-rocket-league-lag/"><u>Unfreeze Your Fun: Comprehensive Solutions to Preventing Rocket League Lag</u></a></li>
 </ul></div>
 

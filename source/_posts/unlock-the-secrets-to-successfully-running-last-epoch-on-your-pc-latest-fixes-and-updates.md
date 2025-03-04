@@ -1,7 +1,7 @@
 ---
 title: Unlock the Secrets to Successfully Running 'Last Epoch' On Your PC - Latest Fixes & Updates!
-date: 2025-02-13T23:27:56.370Z
-updated: 2025-02-15T06:12:14.591Z
+date: 2025-03-01T16:06:44.485Z
+updated: 2025-03-04T16:07:11.885Z
 tags:
   - win11
   - win10
@@ -40,17 +40,9 @@ thumbnail: https://thmb.techidaily.com/dc8c23798056f26fbb4ba042d36186a35f13e6ccd
 
  Before we dive into anything advanced, make sure you’ve installed all the game updates. The devs will be releasing patches to fix any known issues.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Check the server status
 
  Crowded servers are common on launch days. If the game is too laggy to play, you can check the server status first to see if the problem is with the server-end. You can also visit[Back 4 Blood official site](https://www.back4blood.com/en-us/news) ,[Twitter](https://twitter.com/back4blood) ,[Discord](https://discord.com/invite/turtlerockstudios) or the[Steam forum](https://steamcommunity.com/app/924970/discussions/) to see if there’s any announcement.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Test internet connection
 
@@ -100,10 +92,6 @@ thumbnail: https://thmb.techidaily.com/dc8c23798056f26fbb4ba042d36186a35f13e6ccd
 
  Restart your PC for the new drivers to take effect. Launch Back 4 Blood to see if the problem persists. If your ping is still high and experiences lags in game, no worries, there’s one more fix you can try.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 5: Check your DNS settings
 
  Crowded or broken DNS cache could cause random connection issues. To solve the high ping problem and fix the lag spikes in Back 4 Blood, there are two things you can do:
@@ -111,10 +99,6 @@ thumbnail: https://thmb.techidaily.com/dc8c23798056f26fbb4ba042d36186a35f13e6ccd
 [1: Flush your DNS](https://tools.techidaily.com/drivereasy/download/)
 
 [2: Switch to a public DNS server](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1: Flush your DNS
 
@@ -138,26 +122,14 @@ thumbnail: https://thmb.techidaily.com/dc8c23798056f26fbb4ba042d36186a35f13e6ccd
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-11_15-44-44.png)
 2. Click **Change adapter options** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click **the network you’re using** , then click **Properties** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select **Internet Protocol Version 4 (TCP/IPv4)** , then click **Properties** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select **Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click **OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
@@ -196,16 +168,15 @@ thumbnail: https://thmb.techidaily.com/dc8c23798056f26fbb4ba042d36186a35f13e6ccd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-take-your-smartphone-cinematography-to-new-heights-with-these-9-accessories/"><u>[Updated] 2024 Approved Take Your Smartphone Cinematography to New Heights with These 9 Accessories</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-grasping-the-basics-of-av1-compression/"><u>2024 Approved Grasping the Basics of AV1 Compression</u></a></li>
-<li><a href="https://win-answers.techidaily.com/beat-the-battlefield-2042-directx-hurdle-with-these-easy-fixes/"><u>Beat the Battlefield 2042 DirectX Hurdle with These Easy Fixes</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/losungen-fur-verlorene-onedrive-dokumente-schritt-fur-schritt-guide-zum-wiederherstellen-ihrer-dateien/"><u>Lösungen Für Verlorene OneDrive-Dokumente: Schritt-Für-Schritt-Guide Zum Wiederherstellen Ihrer Dateien</u></a></li>
-<li><a href="https://win-answers.techidaily.com/no-more-crashes-discover-how-to-play-pathfinder-wrath-of-the-righteamaximized-for-pc/"><u>No More Crashes! Discover How to Play Pathfinder: Wrath of the Righteamaximized for PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723003806187-optimizing-valorant-performance-clear-the-stutter-elevate-your-fps/"><u>Optimizing Valorant Performance: Clear the Stutter, Elevate Your FPS</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-fix-solve-rage-2-crash-problems-instantly-and-with-minimal-hassle/"><u>Quick Fix: Solve RAGE 2 Crash Problems Instantly and With Minimal Hassle</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/quick-fixes-to-stop-csgo-from-freezing-and-jittering/"><u>Quick Fixes to Stop CS:GO From Freezing and Jittering</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-solutions-for-playing-avatar-frontiers-of-pandora-on-your-device/"><u>Step-by-Step Solutions for Playing Avatar: Frontiers of Pandora on Your Device</u></a></li>
-<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-oneplus-nord-n30-se-frp-by-drfone-android/"><u>The Updated Method to Bypass OnePlus Nord N30 SE FRP</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultra-speed-xyz-ripper-elite-quick-transform-your-dvds-into-mp4-with-h264hevc-quality-guaranteed/"><u>Ultra-Speed XYZ Ripper Elite – Quick Transform Your DVDs Into MP4 with H.2^64/HEVC Quality (Guaranteed)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-transforming-novices-into-reddit-masterminds-for-maximum-engagement/"><u>[Updated] Transforming Novices Into Reddit Masterminds for Maximum Engagement</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-xiaomi-redmi-note-12t-pro-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Xiaomi Redmi Note 12T Pro in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-vivo-v30-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Vivo V30 Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-unlocking-the-power-of-cross-social-media-file-transfers-youtube-and-facebook/"><u>In 2024, Unlocking the Power of Cross-Social Media File Transfers (YouTube & Facebook)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/increasing-frame-rate-and-reducing-lag-optimizing-gameplay-on-the-ascent/"><u>Increasing Frame Rate & Reducing Lag: Optimizing Gameplay on 'The Ascent'</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/is-your-apple-iphone-se-2022-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>Is Your Apple iPhone SE (2022) in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722985169892-step-by-step-remedy-for-steams-secured-content-error-enjoy-unrestricted-access-now/"><u>Step-by-Step Remedy for Steam's Secured Content Error: Enjoy Unrestricted Access Now!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016020783-trouble-with-astro-a50s-mic-heres-how-you-can-fix-it/"><u>Trouble with Astro A50's Mic? Here’s How You Can Fix It!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ui-bug-fix-correcting-error-27711-on-black-ops-cold-war-interface/"><u>UI Bug Fix: Correcting Error 27711 on Black Ops Cold War Interface</u></a></li>
+<li><a href="https://win-answers.techidaily.com/xbox-live-downtime-alerts-check-now-for-active-problem-reports-and-solutions/"><u>Xbox Live Downtime Alerts - Check Now for Active Problem Reports and Solutions!</u></a></li>
 </ul></div>
 

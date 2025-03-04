@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Troubleshooting Steps for Stable Halo Infinite Gameplay on Windows"
-date: 2025-02-12T21:40:03.130Z
-updated: 2025-02-14T19:56:06.021Z
+date: 2025-02-27T16:05:39.562Z
+updated: 2025-03-04T16:03:34.426Z
 tags:
   - win11
   - win10
@@ -46,10 +46,6 @@ Recommended
 
  After confirming that your PC is powerful enough to run the game, go ahead with the following fixes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You don’t have to try them all. Simply work your way down the list until you find the one that does the trick.
@@ -70,20 +66,12 @@ Recommended
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-infinite-steam-properties.jpg)
 3. Navigate to the**LOCAL FILE** S tab and select**Verify integrity of game files…** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-infinite-steam-verify-game-files.jpg)
 4. Steam will verify the game’s files. This process may take several minutes.
 
  Once the process is completed, try launching the game again to see if you can get past the black screen.
 
 If the issue remains, check out the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -128,10 +116,6 @@ If the issue persists, take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/firewall.cpl_.jpg)
 2. In the pop-up window, click**Allow an app or feature through Windows Firewall** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/allow-an-app.jpg)
 3. Locate**HaloInfinite.exe** from the list of apps. If not listed, click**Change settings > Allow another app…** , then locate**HaloInfinite.exe** .  
 
@@ -144,10 +128,6 @@ If the issue persists, take a look at the next fix.
 
  Check if you still get a black screen when launching Halo Infinite. If the issue persists, continue with the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5: Perform a clean boot
 
  The Halo Infinite black screen issue may also be caused by software conflicts. To see if that’s the case, you can perform a clean boot. This will restart your PC with only essential services running, allowing you to figure out the potential conflicting software. Here’s how:
@@ -156,23 +136,11 @@ If the issue persists, take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/msconfig.jpg)
 2. In System Configuration, navigate to the**Services** tab and check the box next to**Hide all Microsoft services** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/hide-all-microsoft-services.jpg)
 3. **Uncheck** all the services EXCEPT those belong to your video card or sound card manufacturer, such as**Realtek** ,**AMD** ,**NVIDIA** and**Intel** . Then click**OK** to save the changes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/hide2.jpg)
 4. On your keyboard, press**Ctrl** ,**Shift** and**Esc** at the same time to open**Task Manager** , then navigate to the**Startup** tab.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-startup.jpg)
 5. One at a time,**select** any programs you suspect might be interfering and click**Disable** .  
@@ -221,24 +189,20 @@ Now you should be able to run the game without any problems.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-composing-captivating-cinematic-synopses/"><u>[New] Composing Captivating Cinematic Synopses</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-how-to-change-your-tiktok-username-an-ultimate-guide/"><u>[New] In 2024, How to Change Your TikTok Username - an Ultimate Guide</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-listenguide-examination/"><u>[New] In 2024, ListenGuide Examination</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-real-time-streaming-excellence-instagram-and-obs-unite-for-2024/"><u>[New] Real-Time Streaming Excellence Instagram and OBS Unite for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-navigating-popular-comment-pathways/"><u>[Updated] Navigating Popular Comment Pathways</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-capture-every-word-4-tips-for-fb-video-transcripts/"><u>2024 Approved Capture Every Word 4 Tips for FB Video Transcripts</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-frequent-monetization-is-it-real-on-youtube/"><u>2024 Approved Frequent Monetization Is It Real on YouTube?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/avoid-setbacks-with-vanguard-meet-the-new-minimal-specs-for-seamless-performance/"><u>Avoid Setbacks with Vanguard - Meet the New Minimal Specs for Seamless Performance</u></a></li>
-<li><a href="https://win-answers.techidaily.com/black-screen-woes-no-more-effective-fixes-for-your-display-problems/"><u>Black Screen Woes No More: Effective Fixes for Your Display Problems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-correctly-repair-a-malfunctioning-clownfish-vocal-transformer/"><u>How to Correctly Repair a Malfunctioning Clownfish Vocal Transformer</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-stop-star-citizen-from-suddenly-exiting-on-your-windows-machine/"><u>How to Stop Star Citizen From Suddenly Exiting on Your Windows Machine</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-stop-your-game-console-destiny-from-freezing-or-crashing-on-your-desktop-computer/"><u>How to Stop Your Game Console: Destiny From Freezing or Crashing on Your Desktop Computer</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-vivo-y17s-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Vivo Y17s PC | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/keep-your-logitech-m310-mouse-up-to-date-a-comprehensive-guide/"><u>Keep Your Logitech M310 Mouse Up-to-Date: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/pc-release-announcement-god-of-war-first-person-shooter-is-out-now/"><u>PC Release Announcement: 'God of War' First-Person Shooter Is Out Now</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolve-minecraft-loading-problems-expert-tips-and-tricks/"><u>Resolve Minecraft Loading Problems: Expert Tips and Tricks</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-halo-infinite-ping-not-sent-data-center-connection-issues/"><u>Resolving 'Halo Infinite: Ping Not Sent' - Data Center Connection Issues</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshoot-and-repair-when-you-encounter-the-msstdfmtdll-error-message/"><u>Troubleshoot and Repair When You Encounter the Msstdfmt.dll Error Message</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-successfully-solving-outlooks-connection-problems/"><u>Troubleshooting Successfully! Solving Outlook's Connection Problems</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-direct-to-video-best-5-online-gif-to-video-services/"><u>[New] 2024 Approved Direct to Video Best 5 Online GIF to Video Services</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-10-top-rated-digital-video-cutting-tools/"><u>[Updated] 10 Top-Rated Digital Video Cutting Tools</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-lifetime-of-photos-in-the-cloud-free-space-haven-and-charged-sanctuaries-await/"><u>[Updated] Lifetime of Photos in the Cloud Free Space Haven & Charged Sanctuaries Await</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-the-blueprint-for-on-screen-dialogues-for-2024/"><u>[Updated] The Blueprint for On-Screen Dialogues for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/advanced-techniques-to-stop-chrome-from-flickering-on-your-windows-device/"><u>Advanced Techniques to Stop Chrome From Flickering on Your Windows Device</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/mac-mp4-cutter-apps-enhance-video-editing-for-2024/"><u>Best Mac MP4 Cutter Apps Enhance Video Editing for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722980608631-cracking-the-updating-dilemma-in-microsoft-flight-simulator-202n-a-comprehensive-guide-to-fix-and-enjoy/"><u>Cracking the 'Updating' Dilemma in Microsoft Flight Simulator 202N: A Comprehensive Guide to Fix and Enjoy!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effortlessly-stop-steam-from-keeping-you-waiting-with-crashes/"><u>Effortlessly Stop Steam From Keeping You Waiting with Crashes</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebook-introduces-enhanced-community-layouts/"><u>Facebook Introduces Enhanced Community Layouts</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/farm-fantasy-a-decade-of-dirt-digging-delights-for-2024/"><u>Farm Fantasy A Decade of Dirt Digging Delights for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/forge-business-identity-no-cost-customizable-logo-templates-available/"><u>Forge Business Identity No-Cost Customizable Logo Templates Available</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-the-3-0x0001000b-hurdle-in-rainbow-six-siege-proven-solutions-inside/"><u>Overcoming the 3-0X0001000B Hurdle in Rainbow Six Siege - Proven Solutions Inside!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-incompatible-driver-error-in-rainbow-six-extraction-a-comprehensive-guide/"><u>Solving the 'Incompatible Driver' Error in Rainbow Six Extraction: A Comprehensive Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/the-joyride-collection-for-young-ones-for-2024/"><u>The Joyride Collection for Young Ones for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-persistent-freezes-in-the-latest-game-update/"><u>Troubleshooting: Persistent Freezes in the Latest Game Update</u></a></li>
 </ul></div>
 

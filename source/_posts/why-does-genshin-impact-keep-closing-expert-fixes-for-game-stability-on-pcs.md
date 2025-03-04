@@ -1,7 +1,7 @@
 ---
 title: Why Does Genshin Impact Keep Closing? Expert Fixes for Game Stability on PCs
-date: 2025-02-13T18:43:00.469Z
-updated: 2025-02-15T01:06:56.852Z
+date: 2025-02-25T16:08:58.457Z
+updated: 2025-03-04T16:09:52.717Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ The Outriders is finally out! However, many players encountered Outriders crashi
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fixes to try
 
  You may not try them all. Just work from the top down until you find the one that does the trick.
@@ -36,10 +32,6 @@ The Outriders is finally out! However, many players encountered Outriders crashi
 4. **[Enforce DX12](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Verify the integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1 – Run Outriders as an administrator
 
  When Outriders fails to obtain the necessary permissions to function properly, it will crash. In this case, you should run the game in the administrator mode. This method also works for the_Outriders-win64-shipping.exe system error_ that many players reported.
@@ -49,10 +41,6 @@ Here are the steps:
 1. Launch your Steam client and click the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/steam.jpg)
 2. In the game list, right-click**Outriders** and click**Manage** \>**Browse local files** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/fix-1.jpg)
 3. Right-click the**OUTRIDERS-Win64-Shipping.exe file** and select**Properties** .  
@@ -92,10 +80,6 @@ There are mainly two ways you can update the graphics driver:
 
  After the process finishes, restart your computer. If all the drivers are up-to-date but the gameplay is still buggy, try the next fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3 – Adjust the in-game settings
 
  According to Square Enix support, Outriders crashing occurs mostly on the -60 class GPUs, and tweaking the in-game graphics settings would make it run more smoothly. You can try this setup and see how things go.
@@ -120,10 +104,6 @@ There are mainly two ways you can update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/steam.jpg)
 2. Right-click**Outriders** in the left pane and select**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-1.jpg)
 3. Under**Launch Option** , type**\-force-dx12** in the text field.  
 
@@ -145,15 +125,7 @@ Still no luck with DX12? Then check out the next method below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-1.jpg)
 3. Select**Local Files** from the left pane and click**Verify Integrity of game files** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/steam-verify-game-files.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Once done, start Outriders and test the game.
 
@@ -180,20 +152,24 @@ Once done, start Outriders and test the game.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-answers.techidaily.com/the-ascent-performance-tips-eliminating-stutters-enhancing-fps/"><u>'The Ascent' Performance Tips: Eliminating Stutters, Enhancing FPS</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/anticipated-gadgets-of-computex-202n4-exposed-asus-rog-ally-and-snapdragon-x-laptops-but-no-gpu-news/"><u>Anticipated Gadgets of Computex 202N4 Exposed - Asus ROG Ally & Snapdragon X Laptops, but No GPU News</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/archivierung-von-e-mails-mit-microsoft-outlook-365-einfache-schritte/"><u>Archivierung Von E-Mails Mit Microsoft Outlook 365: Einfache Schritte</u></a></li>
-<li><a href="https://win-answers.techidaily.com/comprehensive-strategies-for-correcting-startup-malfunctions-in-helldivers-2/"><u>Comprehensive Strategies for Correcting Startup Malfunctions in Helldivers 2</u></a></li>
-<li><a href="https://win-answers.techidaily.com/cyberpunk-2077-startup-issues-solutions-for-successful-boot-up/"><u>Cyberpunk 2077 Startup Issues – Solutions for Successful Boot-Up</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/efficient-techniques-for-blurring-unwanted-edges/"><u>Efficient Techniques for Blurring Unwanted Edges</u></a></li>
-<li><a href="https://win-answers.techidaily.com/enhancing-gameplay-stability-troubleshooting-fps-drops-in-nioe-2/"><u>Enhancing Gameplay Stability: Troubleshooting FPS Drops in Nioe 2</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixes-for-resolving-complete-lack-of-audio-during-your-live-twitch-broadcasts/"><u>Fixes for Resolving Complete Lack of Audio During Your Live Twitch Broadcasts</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-samsung-galaxy-a23-5g-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Samsung Galaxy A23 5G | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Vivo V30 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://win-webster.techidaily.com/mastering-bios-configuration-for-maximum-efficiency-with-professional-advice-from-yl-software-experts/"><u>Mastering BIOS Configuration for Maximum Efficiency with Professional Advice From YL Software Experts</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solution-for-cod-black-ops-cold-war-error-80070057-steps-and-tips/"><u>Solution for Cod: Black Ops Cold War Error 80070057 – Steps and Tips</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-solutions-for-android-phone-call-problems/"><u>Step-by-Step Solutions for Android Phone Call Problems</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/ultimate-free-download-managers-replacing-savefromnet-on-pc-and-mac-systems/"><u>Ultimate Free Download Managers Replacing SaveFrom.net on PC & Mac Systems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/understanding-frame-rate-issues-in-farming-simulator-22-solving-pc-performance-drop/"><u>Understanding Frame Rate Issues in Farming Simulator 22: Solving PC Performance Drop</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-audacity-for-the-mac-enthusiast-advanced-recording-techniques/"><u>[New] Audacity for the Mac Enthusiast Advanced Recording Techniques</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-simplestrecorder-user-friendly-screen-capture/"><u>[Updated] 2024 Approved SimplestRecorder User-Friendly Screen Capture</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/cing-constructive-feedback-ignoring-the-rest-for-2024/"><u>Embracing Constructive Feedback, Ignoring the Rest for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-picks-best-free-software-to-update-your-drivers-in-july-2024/"><u>Expert Picks: Best Free Software to Update Your Drivers in July 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-continuous-crashes-in-resident-evil-village-on-your-pc-solutions-inside/"><u>Fixing Continuous Crashes in Resident Evil Village on Your PC - Solutions Inside!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-get-valheim-running-smoothly-at-boot-time-issues-solved/"><u>How to Get Valheim Running Smoothly at Boot Time | Issues Solved</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-infinix-zero-5g-2023-turbo-drfone-by-drfone-android/"><u>How to Screen Mirroring Infinix Zero 5G 2023 Turbo? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-samsung-galaxy-a54-5g-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Samsung Galaxy A54 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-seamless-video-production-youtube-studios-cutting-edge-editing/"><u>In 2024, Seamless Video Production YouTube Studio's Cutting-Edge Editing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-smooth-play-advanced-techniques-to-resolve-sims-4-lags-on-pc-2024-insights/"><u>Mastering Smooth Play: Advanced Techniques to Resolve Sims #4 Lags on PC (2024 Insights)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/navigating-nearby-your-personal-guide-for-on-the-go-assistance/"><u>Navigating Nearby - Your Personal Guide for On-the-Go Assistance</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-roblox-pc-error-277-top-2024-tricks-and-fixes/"><u>Solving Roblox PC Error 277: Top 2024 Tricks and Fixes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/speed-up-your-steam-experience-essential-fixes-for-slow-running-issues/"><u>Speed up Your Steam Experience – Essential Fixes for Slow Running Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/tactics-to-overcome-critical-bugs-in-tales-of-arise-unreal-engine-4-edition/"><u>Tactics to Overcome Critical Bugs in Tales of Arise Unreal Engine 4 Edition</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-fix-pc-crashes-in-escape-from-tarkov/"><u>Troubleshooting Guide: Fix PC Crashes in Escape From Tarkov</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-success-how-to-resolve-maplestory-not-loading-issues/"><u>Troubleshooting Success: How to Resolve Maplestory Not Loading Issues</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-and-solving-the-top-4-gpu-hurdles-efficiently/"><u>Understanding & Solving the Top 4 GPU Hurdles Efficiently</u></a></li>
+<li><a href="https://win-answers.techidaily.com/understanding-and-fixing-persistent-pc-issues-in-the-ascent-video-game/"><u>Understanding and Fixing Persistent PC Issues in 'The Ascent' Video Game</u></a></li>
+<li><a href="https://win-answers.techidaily.com/windows-11-hyper-v-setup-walkthrough-activate-and-install-easy-steps/"><u>Windows 11 Hyper-V Setup Walkthrough – Activate and Install Easy Steps</u></a></li>
 </ul></div>
 

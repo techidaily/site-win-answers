@@ -1,7 +1,7 @@
 ---
 title: "Battle Through Anthem's Infinite Loading Screens: A Comprehveled Guide to Smooth Playing"
-date: 2025-02-08T03:40:25.220Z
-updated: 2025-02-15T00:47:00.274Z
+date: 2025-02-27T16:03:08.048Z
+updated: 2025-03-04T16:13:39.257Z
 tags:
   - win11
   - win10
@@ -36,10 +36,6 @@ Stop blaming yourself for losing your temper when the FPS (frame per second) dro
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Check the system requirements
 
  If the frame rate hasn’t been good for you when gaming, one of the first things you should do is to make sure that your computer specs are**above** the minimum system requirements for the games. If your machine is below or just at the requirements, you may need to upgrade your hardware for some games to run smoothly, especially newer games that were released in recent years, as they usually require more advanced computer hardware devices.
@@ -61,10 +57,6 @@ Stop blaming yourself for losing your temper when the FPS (frame per second) dro
  Here is a detailed post for your reference if your computer is overheating: [**How to Know Your CPU Overheating and How to Fix It**](https://tools.techidaily.com/drivereasy/download/)
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Close CPU- and bandwidth-intensive services and applications
 
@@ -113,14 +105,6 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4.2 Switch to a public DNS server
 
  Then please use a public DNS server to see if helps to improve the FPS in games. Here we’ll use the Google DNS server as an example since it’s fast and secure:
@@ -137,10 +121,6 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
@@ -187,10 +167,6 @@ and your network card manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Note** : You can do it for free if you like, but it’s partly manual.
 
 4. Restart your PC for the changes to take effect.
@@ -200,10 +176,6 @@ and your network card manufacturer:
  Launch your game again and see if the latest graphics and network drivers help to improve the FPS. If this fix doesn’t work for you, try the next fix, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Modify the Power Mode
 
@@ -218,15 +190,7 @@ To change the power mode:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 3. Then run your game to see if the frame rate per second is higher. If the problem remains still, please move on to the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Consider hardware upgrade
 
@@ -255,22 +219,24 @@ To change the power mode:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-indoors-adopting-the-vibe-of-a-brighter-world/"><u>[New] 2024 Approved Indoors Adopting the Vibe of a Brighter World</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-real-time-viewership-counter-systems/"><u>[New] In 2024, Real-Time Viewership Counter Systems</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-quick-start-guide-to-engaging-with-ios-vr-content/"><u>[Updated] In 2024, Quick Start Guide to Engaging with iOS VR Content</u></a></li>
-<li><a href="https://win-answers.techidaily.com/boost-your-gaming-performance-solutions-to-increase-fps-on-pc/"><u>Boost Your Gaming Performance: Solutions to Increase FPS on PC</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/conversione-gratuita-da-bmp-a-tiff-online-movavi/"><u>Conversione Gratuita Da BMP a TIFF Online - Movavi</u></a></li>
-<li><a href="https://win-answers.techidaily.com/dealing-with-launch-issues-for-diablo-ii-resurrected-a-step-by-step-fix/"><u>Dealing with Launch Issues for Diablo II: Resurrected – A Step-by-Step Fix</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/empowerment-project-of-danny-from-colombian-grounds/"><u>Empowerment Project of Danny From Colombian Grounds</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixes-found-your-ultimate-guide-to-starting-red-dead-redemption-asterisksolved/"><u>Fixes Found! Your Ultimate Guide to Starting Red Dead Redemption Asterisk[SOLVED]</u></a></li>
-<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-samsung-galaxy-xcover-7-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/improving-gaming-experience-cyberpunk-2ebunnyjumping-2077-fps-enhancements-achieved/"><u>Improving Gaming Experience: Cyberpunk 2Ebunnyjumping 2077 FPS Enhancements Achieved</u></a></li>
-<li><a href="https://win-answers.techidaily.com/improving-performance-eliminating-fps-drops-in-rainbow-six-extraction/"><u>Improving Performance: Eliminating FPS Drops in Rainbow Six Extraction</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-film-color-correction-with-luts/"><u>In 2024, Mastering Film Color Correction with Luts</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-visioncapture-prox-briefing/"><u>In 2024, VisionCapture ProX Briefing</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/perfecting-the-art-of-hd-broadcasting-on-facebookshiftscreenresolution/"><u>Perfecting the Art of HD Broadcasting on Facebook'shift_screen_resolution</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-issues-star-wars-jedi-fallen-order-gaming-mishap-solved-for-pc-users/"><u>Resolved Issues: Star Wars Jedi: Fallen Order Gaming Mishap Solved for PC Users</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-stalling-loading-screens-in-fifa-manager-2021-expert-advice-and-fixes/"><u>Resolving Stalling Loading Screens in FIFA Manager 2021 - Expert Advice and Fixes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723002083399-unstick-your-minecraft-loading-screen-dilemma-with-these-proven-fixes/"><u>Unstick Your Minecraft Loading Screen Dilemma with These Proven Fixes!</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-legacy-linkup-suite-for-2024/"><u>[New] Legacy Linkup Suite for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-the-ultimate-palette-of-creative-ideas-from-6-graphic-websites/"><u>[Updated] 2024 Approved The Ultimate Palette of Creative Ideas From 6 Graphic Websites</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-funny-facades-top-quality-free-meme-files/"><u>2024 Approved Funny Facades Top-Quality, FREE Meme Files</u></a></li>
+<li><a href="https://win-answers.techidaily.com/baldurs-gate-iii-pc/"><u>Baldur's Gate III 에서 PC 문제를 해결하고, 안정적인 실행을 보장하기 위한 전시 가이드</u></a></li>
+<li><a href="https://win-answers.techidaily.com/crash-no-more-effective-strategies-to-stabilize-your-rust-applications/"><u>Crash No More: Effective Strategies to Stabilize Your Rust Applications</u></a></li>
+<li><a href="https://win-bits.techidaily.com/expert-guide-resolving-common-problems-with-the-windows-firewall-tips-by-yl-computing/"><u>Expert Guide: Resolving Common Problems with the Windows Firewall - Tips by YL Computing</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/from-darkness-to-daylight-funniest-incarcerated-facebook-friends-quotes/"><u>From Darkness to Daylight Funniest Incarcerated Facebook Friends Quotes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/improving-your-gaming-experience-by-addressing-low-fps-concerns-in-outriders/"><u>Improving Your Gaming Experience by Addressing Low FPS Concerns in Outriders</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Honor X50i+ | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-step-by-step-guide-clear-background-in-picsart/"><u>In 2024, Step-by-Step Guide Clear Background in Picsart</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-linux-nobara-offers-effortless-game-and-stream-setup-at-no-cost-with-a-minor-drawback-insights-from-zdnet/"><u>Mastering Linux: Nobara Offers Effortless Game & Stream Setup at No Cost, With a Minor Drawback – Insights From ZDNet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-issues-with-logitech-gaming-software-not-launching-successfully/"><u>Resolving Issues with Logitech Gaming Software Not Launching Successfully</u></a></li>
+<li><a href="https://win-answers.techidaily.com/roblox-loading-issues-resolved-a-step-by-step-troubleshooting-guide/"><u>Roblox Loading Issues Resolved: A Step-by-Step Troubleshooting Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-issue-amd-radeon-drivers-wont-start-properly/"><u>Solving the Issue: AMD Radeon Drivers Won't Start Properly</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/start-the-year-smart-savings-alert-on-mondly-premium-up-to-96-off/"><u>Start the Year Smart - Savings Alert on Mondly Premium, Up to 96% Off!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-overcoming-anticheat-connection-failed-in-escape-from-tarkov/"><u>Step-by-Step Guide: Overcoming 'Anticheat Connection Failed' In Escape From Tarkov</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stop-state-of-decay-2-from-freezing-2024s-comprehensive-solutions-for-gamers/"><u>Stop State of Decay 2 From Freezing: 2024'S Comprehensive Solutions for Gamers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-fixing-freezing-issues-in-halo-infinite/"><u>Troubleshooting Guide: Fixing Freezing Issues in Halo Infinite</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/unable-to-clear-recycle-bin-in-windows-11-discover-4-effective-solutions/"><u>Unable to Clear Recycle Bin in Windows 11? Discover 4 Effective Solutions!</u></a></li>
 </ul></div>
 

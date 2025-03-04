@@ -1,7 +1,7 @@
 ---
 title: "Optimizing ARK: Survival Evolved - Ultimate PC Performance Tips & Tricks"
-date: 2025-02-12T00:34:49.177Z
-updated: 2025-02-15T05:50:12.992Z
+date: 2025-03-01T16:11:46.128Z
+updated: 2025-03-04T16:09:13.678Z
 tags:
   - win11
   - win10
@@ -70,28 +70,16 @@ Here’s how you can check for updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
 Once done, restart your PC and see if Warzone is using your GPU.
 
  If updating your system doesn’t help, you can take a look at the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Change settings in your graphics control panel
 
@@ -101,10 +89,6 @@ Once done, restart your PC and see if Warzone is using your GPU.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/nvidia-control-panel.jpg)
 2. In the left pane, click**Manage 3D settings** . Click**CUDA – GPUs** and select your graphics card. Then click**OK** to save the changes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/warzone-nvidia-1.jpg)
 3. In the left pane, select**Set PhysX Configuration** . Under**Select a PhysX processor** , click to expand the drop down list and**select your GPU** .  
 
@@ -113,10 +97,6 @@ Once done, restart your PC and see if Warzone is using your GPU.
 
  If this trick doesn’t work for you, simply move on to the next one.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4: Set graphics preference to High performance
 
  In addition to the graphics control panel, you can also set the preference using Windows Settings. To do so, use these steps:
@@ -124,10 +104,6 @@ Once done, restart your PC and see if Warzone is using your GPU.
 1. At the empty area of your desktop, right-click and select **Display settings** .  
 ![how to disable hardware accelerated GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2020/10/display-settngs.jpg)
 2. Under the **Multiple displays** section, click **Graphics settings** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Click **Browse**  to specify the file location of Warzone. Choose**ModernWarfare.exe** in the game folder.  
@@ -153,10 +129,6 @@ Once done, restart your PC and see if Warzone is using your GPU.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/warzone-windowed.jpg)
 3. Now check if the game runs as expected.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
 
  Hopefully this post helps you get what you need for Warzone. If you have any questions or suggestions, just leave a comment and we’ll get back to you.
@@ -176,22 +148,21 @@ Once done, restart your PC and see if Warzone is using your GPU.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/iscovering-8-honestly-endorsed-promotional-strategies-for-2024/"><u>[New] Discovering 8 Honestly-Endorsed Promotional Strategies for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-exploring-vivacut-the-full-2024-video-editing-review/"><u>[New] Exploring VivaCut The Full 2024 Video Editing Review</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-easy-pathway-to-fish-chatter-alteration-within-win-environment/"><u>[Updated] In 2024, Easy Pathway to Fish Chatter Alteration Within Win Environment</u></a></li>
-<li><a href="https://win-answers.techidaily.com/bypass-browser-blues-solving-freezing-issues-with-chrome-in-win10-easily/"><u>Bypass Browser Blues: Solving Freezing Issues with Chrome in Win10 Easily</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ce-video-playback-with-av1-on-youtube/"><u>Enhance Video Playback with AV1 on YouTube</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-advice-on-overcoming-glitches-with-the-clownfish-speech-changer/"><u>Expert Advice on Overcoming Glitches with the Clownfish Speech Changer</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/exploring-roleplayings-boundaries-rogues-and-roguities/"><u>Exploring Roleplaying's Boundaries Rogues & Roguities</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-newest-amd-radeon-rx-6700-xt-drivers-compatible-with-windows-11-10-and-7/"><u>Get the Newest AMD Radeon RX 6700 XT Drivers - Compatible with Windows 11, 10 & 7</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-overcome-startup-difficulties-in-genshin-impact-top-5-fixes/"><u>How to Overcome Startup Difficulties in Genshin Impact: Top 5 Fixes</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-pioneers-guide-to-vr-terminology/"><u>In 2024, The Pioneer's Guide to VR Terminology</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mass-effect-legendary-edition-optimization-overcoming-performance-hiccups/"><u>Mass Effect Legendary Edition Optimization - Overcoming Performance Hiccups</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/massive-discount-on-8tb-samsung-t5-portable-ssd-up-to-36-off-post-prime-day-deals-now-at-amazon/"><u>Massive Discount on 8TB Samsung T5 Portable SSD - Up to 36% Off Post-Prime Day Deals, Now at Amazon!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722978581081-msi-b350-toms-tomahawk-driver-software-for-pcs-running-on-windows-117-download-now/"><u>MSI B350 TOM'S TOMAHAWK Driver Software for PCs Running on Windows 11/7 – Download Now!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-stutter-and-crash-issues-a-guide-to-smooth-mass-effect-legendary-ed-gaming-on-xbox-and-pc/"><u>Overcoming Stutter & Crash Issues: A Guide to Smooth Mass Effect Legendary Ed. Gaming on Xbox & PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-zooms-video-problems-5-effective-fixes-you-should-try-now/"><u>Overcoming Zoom's Video Problems: 5 Effective Fixes You Should Try Now</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solution-guide-origin-game-client-issues-on-windows-11-devices/"><u>Solution Guide: Origin Game Client Issues on Windows 11 Devices</u></a></li>
-<li><a href="https://win-answers.techidaily.com/understanding-and-resolving-frequent-game-interruptions-in-lost-ark-on-desktop-systems/"><u>Understanding and Resolving Frequent Game Interruptions in Lost Ark on Desktop Systems</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-maximizing-play-in-apex-legends-without-cross-platform-limitations/"><u>[New] 2024 Approved Maximizing Play in Apex Legends Without Cross-Platform Limitations</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-top-8-easy-to-use-subtitle-converters-from-sub-to-compliant-srt-format-in-seconds/"><u>[New] 2024 Approved Top 8 Easy-to-Use Subtitle Converters From SUB to Compliant SRT Format in Seconds</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-elevate-your-content-strategies-to-climb-youtube-ranks/"><u>[Updated] 2024 Approved Elevate Your Content Strategies to Climb YouTube Ranks</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-pixels-and-power-revisiting-magix-manager/"><u>[Updated] Pixels and Power Revisiting MAGIX Manager</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-tech-titans-triumph-best-online-tools-to-record-your-screen-for-2024/"><u>[Updated] Tech Titans Triumph Best Online Tools to Record Your Screen for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/efficient-tactics-to-solve-your-acrocefexe-malfunction-issues/"><u>Efficient Tactics to Solve Your AcroCEF.exe Malfunction Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effortless-solutions-for-players-facing-game-crashes-in-ghost-recon-breakpoint/"><u>Effortless Solutions for Players Facing Game Crashes in Ghost Recon Breakpoint</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-dragon-age-origins-troubleshooting-crashes-on-windows-11-solutions/"><u>Fixing Dragon Age: Origins - Troubleshooting Crashes on Windows 11 | Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-hurdle-of-stuck-boot-in-dota-2-a-step-by-step-guide/"><u>Fixing the Hurdle of Stuck Boot in Dota 2 – A Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-nokia-105-classic-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Nokia 105 Classic Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-nokia-c12-plus-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-streamline-and-optimize-your-guide-to-effortless-uploading-of-hd-films-to-youtube/"><u>In 2024, Streamline & Optimize Your Guide to Effortless Uploading of HD Films to YouTube</u></a></li>
+<li><a href="https://fox-where.techidaily.com/is-the-escalation-of-israel-palestine-conflict-indicative-of-golds-bullish-trend-in-futures-prices-experts-at-yl-computing-and-yl-software-weigh-in/"><u>Is the Escalation of Israel-Palestine Conflict Indicative of Gold's Bullish Trend in Futures Prices? Experts at YL Computing and YL Software Weigh In</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723003421091-optimizing-your-experience-with-total-war-warhammer-ii-eliminating-crashing-troubles-once-and-for-all/"><u>Optimizing Your Experience with Total War: WARHAMMER II - Eliminating Crashing Troubles Once & for All!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723004679950-solve-your-diablo-4-pcps5xbox-crash-issues-with-these-7-fixes/"><u>Solve Your Diablo 4 PC/PS5/Xbox Crash Issues with These 7 Fixes!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/total-war-warhammer-ii-troubleshooting-guide-to-overcome-frequent-crashes/"><u>Total War: Warhammer II Troubleshooting Guide to Overcome Frequent Crashes</u></a></li>
 </ul></div>
 

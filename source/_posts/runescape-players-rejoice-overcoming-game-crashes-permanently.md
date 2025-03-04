@@ -1,7 +1,7 @@
 ---
 title: "RuneScape Players Rejoice: Overcoming Game Crashes Permanently"
-date: 2024-08-19T00:54:09.154Z
-updated: 2024-08-20T00:54:09.154Z
+date: 2025-03-01T16:00:35.470Z
+updated: 2025-03-04T16:00:54.365Z
 tags:
   - win11
   - win10
@@ -42,9 +42,6 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 
  2) In Task Manager, select**EpicGamesLauncher** and click**End task** .
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1047-1024x543.png)
 
 3) Run Epic Games Launcher to see if you’ve resolved this issue.
@@ -53,9 +50,6 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Launch Epic Games Launcher from Start Menu
 
  If you failed to launch Epic Games Launcher by double-clicking its shortcut on your desktop, you should try launching it from the Start Menu. To do so:
@@ -74,16 +68,10 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 
  1)**Right-click** **an empty area of the desktop** and select**Display settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1053.png)
 
  2) In the**Scale and layout** section, make sure it is set to**100%** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1056.png)
 
 3) Run Epic Games Launcher again to see if this issue reappears.
@@ -102,9 +90,6 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 
  2) Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1071.png)
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.
@@ -113,9 +98,6 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 
  Alternatively, if you’re comfortable manually installing drivers, you can click**Update** next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1072.png)
 
 _You can do it for free if you like, but it’s partly manual._
@@ -129,9 +111,6 @@ _You can do it for free if you like, but it’s partly manual._
 
  1) On your desktop,**right-click** on**the shortcut of Epic Games Launcher** and select**Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-496.png)
 
  2) Under the**Shortcut** tab, locate the**Target:** field. Add_\-OpenGL_ to the end of the path filed. The contents of the Target field should look like the following:
@@ -148,9 +127,6 @@ _You can do it for free if you like, but it’s partly manual._
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Add Epic Games Launcher as an exception to your third-party antivirus application
 
  This issue may also be triggered by your third-party antivirus application. Since the third-party antivirus application hooks very deep into your system, it may interfere with Epic Games Launcher.
@@ -169,16 +145,10 @@ _You can do it for free if you like, but it’s partly manual._
 
  1) On your keyboard, press**the Windows logo key** and**R** at the same time to open the Run dialog. Type**control appwiz.cpl** and press**Enter** to open the**Programs and Features** window.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1068.png)
 
  2)**Right-click** on**Epic Games Launcher** and select**Repair** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1069.png)
 
  3) Launch Epic Games Launcher again when Windows completes the repair process.
@@ -218,8 +188,6 @@ Normally, after you reinstall Epic Games Launcher, it should open.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -227,4 +195,23 @@ Normally, after you reinstall Epic Games Launcher, it should open.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-innovative-tech-for-live-video-recording-webcam-with-vlc-for-2024/"><u>[New] Innovative Tech for Live Video Recording – Webcam with VLC for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-unveiling-impressive-hdr-photography-for-portraits-for-2024/"><u>[New] Unveiling Impressive HDR Photography for Portraits for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-unveiling-whatsapps-call-conversations/"><u>[New] Unveiling WhatsApp's Call Conversations</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-streamlining-the-process-of-ppt-recording/"><u>[Updated] 2024 Approved Streamlining the Process of PPT Recording</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-eac-launch-error-step-by-step-guide-when-easy-anti-cheat-missing/"><u>Fixing the 'EAC Launch Error' - Step by Step Guide When Easy Anti-Cheat Missing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-hitman-3-connection-lost-issue-easy-solutions/"><u>Fixing the Hitman 3 'Connection Lost' Issue: Easy Solutions</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-prevent-mount-and-blade-2-bannerlord-from-crashing-during-gameplay/"><u>How to Prevent Mount & Blade 2: Bannerlord From Crashing During Gameplay</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-the-atomic-heart-initialization-preventing-launch-failures-successfully/"><u>Mastering the Atomic Heart Initialization: Preventing Launch Failures Successfully</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-tecno-spark-go-2023-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Tecno Spark Go (2023) Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/record-phone-conversations-on-ios-18-without-third-party-software-tech-insights/"><u>Record Phone Conversations on iOS 18 Without Third-Party Software | Tech Insights</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/simple-techniques-for-building-a-stunning-iphone-collage/"><u>Simple Techniques for Building a Stunning iPhone Collage</u></a></li>
+<li><a href="https://win-answers.techidaily.com/team-fortress-2-launch-problems-resolved-and-ready-for-action/"><u>Team Fortress 2 Launch Problems – Resolved and Ready for Action</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-definitive-fix-eliminate-fifa-21s-crash-issues-on-your-desktop-with-this-complete-guide/"><u>The Definitive Fix: Eliminate FIFA 21'S Crash Issues on Your Desktop with This Complete Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/twitch-silent-stream-fixed-restore-your-live-audio-today/"><u>Twitch Silent Stream Fixed - Restore Your Live Audio Today!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-troubleshooting-guide-resolving-razer-blackshark-v2-microphone-issues/"><u>Ultimate Troubleshooting Guide: Resolving Razer Blackshark V2 Microphone Issues</u></a></li>
+</ul></div>
 

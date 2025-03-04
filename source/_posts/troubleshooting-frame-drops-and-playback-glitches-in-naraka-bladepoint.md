@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Frame Drops & Playback Glitches in Naraka: Bladepoint"
-date: 2025-02-13T02:03:03.585Z
-updated: 2025-02-14T16:16:38.707Z
+date: 2025-02-27T16:02:14.978Z
+updated: 2025-03-04T16:13:29.051Z
 tags:
   - win11
   - win10
@@ -55,10 +55,6 @@ Here’s how you can do this:
 
 ![reset screen resolution](https://images.drivereasy.com/wp-content/uploads/2020/09/display-settings-2-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Scroll down and choose**1280×768** .
 
 ![reset screen resolution](https://images.drivereasy.com/wp-content/uploads/2020/09/display-settings-3-2.png)
@@ -67,10 +63,6 @@ Here’s how you can do this:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 2: Run the launcher as an administrator
 
  Many issues can be fixed by running the program as an administrator. So for the black screen when opening Epic Games Launcher issue, you can try this too. To do this, you can:
@@ -78,10 +70,6 @@ Here’s how you can do this:
  1) Right-click on the launcher shortcut from your desktop and select**Run as administrator** .
 
 ![run Epic Games Launcher as administrator](https://images.drivereasy.com/wp-content/uploads/2020/09/run-epic-games-launcher-as-administrator.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Open the launcher to see if the screen is in black. If it is, move on to the next fix.
 
@@ -154,10 +142,6 @@ Here’s how you can do this:
 
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-2-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Click**Test the program** and you’ll be directed to the launcher.
 
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-3.png)
@@ -192,17 +176,9 @@ Here’s how you can do this:
 
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-12.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 12) Now, the issue is fixed.
 
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-13.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you’ve been troubleshooting multiple times and still didn’t fix the issue, don’t worry. There are other working fixes for you.
 
@@ -229,10 +205,6 @@ Here’s how you can do this:
  If you’ve done all of these, and still it’s a black screen when you open the launcher. Then try the next method.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 7: Change your DNS server to the Google Public DNS
 
@@ -281,10 +253,6 @@ To do this, simply follow the instructions below:
 
 ![open command prompt](https://images.drivereasy.com/wp-content/uploads/2020/09/cmd.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) When a prompt appears, simply click **Yes** .
 
  3) Type the command **ipconfig /flushdns** and hit **Enter** .
@@ -301,10 +269,6 @@ To do this, simply follow the instructions below:
 
 ![change high DPI settings Epic Games Launcher](https://images.drivereasy.com/wp-content/uploads/2020/09/adjust-the-compatability-mode-epic-games-launcher.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Select the**Compatibility** tab and click**Change high DPI settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/change-high-DPI-settings.png)
@@ -314,10 +278,6 @@ To do this, simply follow the instructions below:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/change-high-DPI-settings-2.png)
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 10: Use a VPN
 
@@ -358,16 +318,17 @@ Below is the VPN we would like to recommend:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-insta-to-tik-integration-masterclass/"><u>2024 Approved Insta-to-Tik Integration Masterclass</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-toolwiz-photosapp-overview-a-complete-analysis-and-future-prospects/"><u>2024 Approved Toolwiz PhotosApp Overview - A Complete Analysis and Future Prospects</u></a></li>
-<li><a href="https://win-answers.techidaily.com/four-effective-ways-to-bypass-blocked-torrent-sites-and-regain-access/"><u>Four Effective Ways to Bypass Blocked Torrent Sites & Regain Access</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-edit-and-reverse-your-video-clips-with-windows-movie-maker/"><u>How To Edit & Reverse Your Video Clips With Windows Movie Maker</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-masterfully-convert-videos-for-ipod-viewing-unveiling-the-ultimate-8-tools-and-techniques/"><u>How to Masterfully Convert Videos for iPod Viewing: Unveiling the Ultimate 8 Tools & Techniques</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-recover-lost-mixer-live-shows-and-vods-using-no-cost-downloader-applications/"><u>How to Recover Lost Mixer Live Shows & VODs Using No-Cost Downloader Applications</u></a></li>
-<li><a href="https://win-answers.techidaily.com/microsoft-notebook/"><u>Microsoft Notebookにて効果的な画面録画手法を学ぶ</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-perfect-listening-experience-effective-methods-for-easing-background-hum-in-recorded-sounds/"><u>New Perfect Listening Experience Effective Methods for Easing Background Hum in Recorded Sounds</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-performing-e-readers-reviewed-beyond-remarkable-and-kindle/"><u>Top Performing E-Readers Reviewed: Beyond Remarkable and Kindle</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/top-windows-10-tips-for-maximum-productivity-for-2024/"><u>Top Windows 10 Tips For Maximum Productivity for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/transform-your-online-presence-with-manycam-the-leading-tool-in-live-video-production-and-fake-cameras/"><u>Transform Your Online Presence with ManyCam – The Leading Tool in Live Video Production and Fake Cameras</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-clip-ppt-deck-to-digital-movie/"><u>[New] 2024 Approved Clip PPT Deck to Digital Movie</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlock-new-speech-potentials-on-chrome-ranked-top-voice-alteration-tools/"><u>[New] Unlock New Speech Potentials on Chrome Ranked Top Voice Alteration Tools</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-maximizing-harvest-valheims-prime-planting-choices/"><u>[Updated] 2024 Approved Maximizing Harvest Valheim's Prime Planting Choices</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-the-path-to-retrospective-facebook-content-mobile-plus-laptop/"><u>[Updated] In 2024, The Path to Retrospective Facebook Content (Mobile + Laptop)</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-proven-strategies-to-skyrocket-your-fb-search-results-rankings/"><u>2024 Approved Proven Strategies to Skyrocket Your FB Search Results Rankings</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-the-streets-of-night-city-how-cyberpunk-2077-eradicated-input-lag/"><u>Mastering the Streets of Night City - How Cyberpunk 2077 Eradicated Input Lag</u></a></li>
+<li><a href="https://win-answers.techidaily.com/microbes-decompose-organic-matter-fix-atmospheric-nitrogen-and-help-suppress-plant-diseases-contributing-to-a-cycle-of-nutrients-and-maintaining-soil-health463/"><u>Microbes Decompose Organic Matter, Fix Atmospheric Nitrogen, and Help Suppress Plant Diseases, Contributing to a Cycle of Nutrients and Maintaining Soil Health.</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-educational-waters-how-to-earn-a-discounted-tidal-membership/"><u>Navigating Educational Waters: How To Earn A Discounted Tidal Membership</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-overwatch-performance-problems-a-2024-how-to-guide/"><u>Overcoming Overwatch Performance Problems: A 2024 How-To Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/provide-efficient-and-friendly-communication-to-ensure-the-highest-level-of-client-satisfaction-when-addressing-concerns-or-resolving-issues-related-to-our-583/"><u>Provide Efficient and Friendly Communication to Ensure the Highest Level of Client Satisfaction when Addressing Concerns or Resolving Issues Related to Our Products/Services.</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-stuck-characters-a-comprehensive-guide-to-solve-code-vein-freezing-issues/"><u>Resolving Stuck Characters: A Comprehensive Guide to Solve Code Vein Freezing Issues</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-tutorial-on-how-to-excel-at-royal-match/"><u>The Ultimate Tutorial on How to Excel at Royal Match</u></a></li>
 </ul></div>
 

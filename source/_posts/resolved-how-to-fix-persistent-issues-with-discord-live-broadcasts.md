@@ -1,7 +1,7 @@
 ---
 title: "Resolved: How to Fix Persistent Issues with Discord Live Broadcasts"
-date: 2025-02-08T16:00:52.548Z
-updated: 2025-02-14T16:31:49.243Z
+date: 2025-02-25T16:05:46.394Z
+updated: 2025-03-04T16:02:34.828Z
 tags:
   - win11
   - win10
@@ -70,25 +70,13 @@ Game crashing issues might happen when your game files are corrupted.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-02_18-19-47.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Delete everything except these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-02_18-44-34.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5) Relaunch the game to test the issue.
 
 If the game still crashes, try the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -108,10 +96,6 @@ If the game still crashes, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-57-32.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it.  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
@@ -125,10 +109,6 @@ If the game still crashes, try the next fix below.
 4) Relaunch the game to test your issue.
 
 If the crash still occurs, go ahead with the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Lower your graphics settings
 
@@ -158,17 +138,9 @@ If the crash still occurs, go ahead with the next fix.
 
 If Phasmophobia crashing issues persist, try the next fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 7: Stop overlocking your GPU/CPU
 
  If you’ve manually overclocked your GPU or CPU, revert it to its default GPU/CPU clock. And if you are using overclocking software, such as MSI Afterburner, please also disable the software when running the game.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 8: Disable fullscreen optimizations
 
@@ -217,19 +189,22 @@ If the problem still exists, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-mirthful-montage-mastering-7-comical-video-vignettes/"><u>[New] Mirthful Montage Mastering 7 Comical Video Vignettes</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-how-to-quickly-craft-perfect-subtitles-and-captions-for-facebook-video-feeds-for-2024/"><u>[Updated] How To Quickly Craft Perfect Subtitles and Captions for Facebook Video Feeds for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-enhanced-window-recording-made-simple-with-spring/"><u>[Updated] In 2024, Enhanced Window Recording Made Simple with Spring</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-quash-unwanted-youtube-suggested-videos/"><u>2024 Approved Quash Unwanted YouTube Suggested Videos</u></a></li>
-<li><a href="https://win-answers.techidaily.com/corrupted-game-files-heres-how-to-repair-and-get-back-into-the-action-by-2024/"><u>Corrupted Game Files? Here's How to Repair and Get Back Into the Action by 2024!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effortless-gaming-with-halo-infinite-top-7-ways-to-resolve-pc-performance-problems/"><u>Effortless Gaming with Halo Infinite: Top 7 Ways to Resolve PC Performance Problems</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/embark-on-a-cinematic-journey-step-by-step-tutorial-for-creating-slow-motion-video-from-stills-online/"><u>Embark on a Cinematic Journey Step-by-Step Tutorial for Creating Slow-Motion Video From Stills Online</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/erfolgreiches-papierlose-verwaltung-von-finanzdokumenten-praxiserfahrungen-und-zukunftspotenziale/"><u>Erfolgreiches Papierlose Verwaltung Von Finanzdokumenten: Praxiserfahrungen Und Zukunftspotenziale</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/guide-rapide-pour-recuperer-des-textes-sectionnes-sur-votre-ordinateur/"><u>Guide Rapide Pour Récupérer Des Textes Sectionnés Sur Votre Ordinateur.</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-prevent-and-solve-mir4-issues-on-your-windows-pc/"><u>How to Prevent and Solve MIR/4 Issues on Your Windows PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/optimizing-your-gameplay-experience-addressing-lag-in-dragons-dogma-2-fps-and-stutter-fix-guide/"><u>Optimizing Your Gameplay Experience: Addressing Lag in Dragon's Dogma ˹2˺ - FPS and Stutter Fix Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/preserving-your-creations-shielding-art-from-generative-ai-with-nightshades/"><u>Preserving Your Creations: Shielding Art From Generative AI with Nightshades</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-troubleshooting-discords-screen-share-blackout-problem/"><u>Resolved: Troubleshooting Discord's Screen Share Blackout Problem</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-tarkovs-trouble-a-step-by-step-guide-to-solving-error-103003/"><u>Resolving Tarkov's Trouble: A Step-by-Step Guide to Solving Error 103003</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-discover-prime-streaming-options-for-churches-today/"><u>[Updated] In 2024, Discover Prime Streaming Options for Churches Today</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-mastering-instagrams-peak-moments-a-how-to-guide/"><u>2024 Approved Mastering Instagram's Peak Moments A How-To Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtubes-short-form-videos-10-tactics-for-dominance-in-views/"><u>2024 Approved Youtube's Short-Form Videos - 10 Tactics for Dominance in Views</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-error-code-727e66ac-in-nba-2mysql-ultimate-guide-to-enhancing-your-2024-gaming-experience/"><u>Beat Error Code 727E66AC in NBA 2MySQL: Ultimate Guide to Enhancing Your 2024 Gaming Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/diagnosing-and-fixing-pc-crashes-during-stardew-valley-gameplay/"><u>Diagnosing and Fixing PC Crashes During Stardew Valley Gameplay</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ending-the-troubles-how-to-stop-avatar-game-from-collapsing-on-windows-and-mac/"><u>Ending the Troubles - How to Stop Avatar Game From Collapsing on Windows & Mac</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guide-to-overcoming-the-famed-star-wars-battlefront-2-error-code-narrator-327-tips-and-tricks/"><u>Guide to Overcoming the Famed Star Wars Battlefront 2 Error Code Narrator 327: Tips & Tricks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/improving-frames-per-second-fps-solutions-to-fps-dips-in-resident-evil-village-on-personal-computers/"><u>Improving Frames per Second (FPS): Solutions to FPS Dips in Resident Evil Village on Personal Computers</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Oppo Reno 11 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/premium-creative-tims-laravel-dashboard-advanced-light-bootstrap-crud-panel/"><u>Premium Creative Tim's Laravel Dashboard: Advanced Light Bootstrap CRUD Panel</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-fixes-for-pc-instability-in-escape-from-tarkov-game/"><u>Resolved: Fixes for PC Instability in 'Escape From Tarkov' Game</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-not-responding-errors-in-your-pacific-drive-installation/"><u>Solving 'Not Responding' Errors in Your Pacific Drive Installation</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-guide-updating-your-audio-technica-speaker-systems-drivers/"><u>Step-by-Step Guide: Updating Your Audio Technica Speaker System's Drivers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/synergistic-computing-chatgpt-and-the-apple-ecosystem/"><u>Synergistic Computing: ChatGPT and the Apple Ecosystem</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-8-accessibility-settings-on-the-iphone-for-enhanced-vision-support/"><u>Top 8 Accessibility Settings on the iPhone for Enhanced Vision Support</u></a></li>
+<li><a href="https://win-answers.techidaily.com/understanding-wsappx-causes-of-excessive-memory-and-processor-utilization-and-solutions/"><u>Understanding WSAPPX: Causes of Excessive Memory & Processor Utilization and Solutions</u></a></li>
+<li><a href="https://change-location.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Vivo Y200? | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Apex Legends Performance Optimization: 6 Easy Ways to Increase FPS Instantly"
-date: 2025-02-11T17:20:08.315Z
-updated: 2025-02-14T23:01:20.219Z
+date: 2025-02-25T16:04:39.924Z
+updated: 2025-03-04T16:09:59.299Z
 tags:
   - win11
   - win10
@@ -40,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 
  The screenshots below have been mostly taken from a Windows 10 operating system. If you are using Windows 11, please be aware that the visual appearance of your screen may vary slightly, but the steps to perform the task remain consistent.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Verify and repair game files
 
  The first quick fix you can try is to scan and repair missing or corrupted game files. You can easily get it done via the Steam client:
@@ -54,10 +50,6 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 
 ![Steam - how to verify integrity of game files](https://www.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
 3. It may take a while for Steam to complete the scan. If any game files are found corrupted or missing, Steam will replace or add the new game files for you.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If verifying and repairing the game files doesn’t solve your problem, try the next fix.
 
@@ -94,10 +86,6 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -131,10 +119,6 @@ If this doesn’t help, move on to the next fix.
 
 If the crashing issue persists, try the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 6: Turn off overlays
 
  Some players found that overlays have caused Lost Ark to crash randomly, and the issue didn’t return when they turned off the overlays. You can give it a try as well to see if it helps with your crashing issue. Here’s how:
@@ -154,34 +138,18 @@ If the crashing issue persists, try the next fix.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/12/Steam-Disable-in-game-overlay.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Discord
 
 1. Launch Discord. On the bottom-left, click the**gear-shaped icon** to open the user settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-05_15-52-40.jpg)
 2. On the left panel, scroll down and find**Game Overlay** . Toggle off**Enable in-game overlay** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/Discord-Disable-overlay.jpg)
 3. Run Lost Ark and test the issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can also check other common overlays that gamers like to use, such as Twitch and NVIDIA GeForce, and turn them off.
 
  If disabling the overlays doesn’t solve your problem, try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 7: Perform a clean boot
 
@@ -194,10 +162,6 @@ If the crashing issue persists, try the next fix.
 1. On your keyboard, press the**Windows logo + R keys** simultaneously to open the Run dialog box. Type**msconfig** and hit Enter.  
 ![Windows 11 - System configuration](https://www.drivereasy.com/wp-content/uploads/2023/10/win11-msconfig.jpg)
 2. Under the**Services** tab, check**Hide all Microsoft services** , then click**Disable all** and**OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-40-15.jpg)
 3. Go to the**Startup** tab, click**Open Task Manager** .  
@@ -234,10 +198,6 @@ If the crashing issue persists, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-59-36.jpg)
 3. Reboot and try launching Lost Ark.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Repeat until you find the startup item that’s conflicting with Lost Ark.
 5. Disable the problem program and reboot your PC.
@@ -288,20 +248,24 @@ If the crashing issue persists, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-exploring-video-realms-significant-post-vidcon-conclaves/"><u>[New] Exploring Video Realms Significant Post-VidCon Conclaves</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-cease-non-filtered-youtube-video-trail/"><u>[New] In 2024, Cease Non-Filtered YouTube Video Trail</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-oppo-a1-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Oppo A1 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/audio-integration-into-visual-screens-via-apple/"><u>Audio Integration Into Visual Screens via Apple</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-tips-to-overcome-stuttering-and-freezing-in-outriders-on-your-computer/"><u>Effective Tips to Overcome Stuttering & Freezing in Outriders on Your Computer</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723013840537-farewell-to-frustration-hitman-3s-previous-pc-launch-issues-now-defeated/"><u>Farewell to Frustration: Hitman 3'S Previous PC Launch Issues Now Defeated</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-broken-taskbar-on-your-windows-11-pc/"><u>Fixing the Broken Taskbar on Your Windows 11 PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-successfully-tackle-rainbow-six-siege-server-connection-glitches/"><u>How to Successfully Tackle Rainbow Six Siege Server Connection Glitches</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Poco M6 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mount-and-blade-2-bannerlord-stability-issues-corrected-solutions-inside/"><u>Mount & Blade 2: Bannerlord Stability Issues Corrected - Solutions Inside</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/safeguard-personal-data-from-ai-vulnerabilities-best-practices-for-securely-engaging-with-adaptive-gpt-models/"><u>Safeguard Personal Data From AI Vulnerabilities: Best Practices for Securely Engaging with Adaptive GPT Models</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-dragons-dogma-2-performance-issues-tips-to-improve-frame-rate-and-stop-stuttering/"><u>Solving Dragon's Dogma 2 Performance Issues: Tips to Improve Frame Rate & Stop Stuttering</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-repair-for-microsoft-edges-msedgeexe-application-faults/"><u>Step-by-Step Repair for Microsoft Edge's msedge.exe Application Faults</u></a></li>
-<li><a href="https://blog-min.techidaily.com/ultimate-ts-movie-editor-expert-tools-for-editing-videos-trim-crop-rotate-in-high-quality/"><u>Ultimate TS Movie Editor - Expert Tools for Editing Videos (Trim, Crop, Rotate) in High Quality</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unveiling-usb-20-understanding-speeds-wires-and-connector-types/"><u>Unveiling USB 2.0: Understanding Speeds, Wires, and Connector Types</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-top-tips-to-mastering-the-art-of-hashtag-creation-on-youtube/"><u>[New] Top Tips to Mastering the Art of Hashtag Creation on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-graphic-portrayal-of-future-social-momentum-for-2024/"><u>[Updated] Graphic Portrayal of Future Social Momentum for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-ios-selection-showcase-premier-psp-emulators-ranked-1-5-for-2024/"><u>[Updated] IOS Selection Showcase Premier PSP Emulators Ranked #1-5 for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cracking-the-updating-dilemma-in-microsoft-flight-simulator-202n-a-comprehensive-guide-to-fix-and-enjoy/"><u>Cracking the 'Updating' Dilemma in Microsoft Flight Simulator 202N: A Comprehensive Guide to Fix and Enjoy</u></a></li>
+<li><a href="https://win-answers.techidaily.com/diablo-ii-rebirth-stuck-on-the-boot-screen-solutions-and-fixes/"><u>Diablo II Rebirth Stuck on the Boot Screen - Solutions & Fixes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-tips-for-overcoming-apex-legends-game-engine-hiccups/"><u>Effective Tips for Overcoming Apex Legends Game Engine Hiccups</u></a></li>
+<li><a href="https://win-answers.techidaily.com/end-launch-labyrinth-in-madden-nfl-22-strategies-to-get-past-the-stalled-screen/"><u>End Launch Labyrinth in Madden NFL 22: Strategies to Get Past the Stalled Screen</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-eac-launch-issue-ensure-your-easy-anti-cheat-installation-is-complete/"><u>Fixing the EAC Launch Issue: Ensure Your Easy Anti-Cheat Installation Is Complete</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-compatible-brother-hl-2240-driver-for-your-pc-with-windows-os/"><u>Get the Newest Compatible Brother HL-2240 Driver for Your PC with Windows OS</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-and-avoid-crashes-in-jurasseback-evolution-for-a-smooth-experience/"><u>How to Fix and Avoid Crashes in Jurasseback Evolution for a Smooth Experience</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-samsung-galaxy-s24plus-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Samsung Galaxy S24+ Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-odins-legacy-destiny-of-ragnarok/"><u>In 2024, Odin's Legacy Destiny of Ragnarök</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/leading-key-locator-gadgets-reviewed-2024-edition/"><u>Leading Key Locator Gadgets Reviewed: 2024 Edition</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-the-fix-overcoming-fifa-20-pc-stability-problems-comprehensive-instructions/"><u>Master the Fix: Overcoming FIFA 20 PC Stability Problems - Comprehensive Instructions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-glitches-finding-out-why-visual-search-isnt-working-on-ios/"><u>Overcoming Glitches: Finding Out Why Visual Search Isn’t Working on iOS</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solutions-for-when-your-phasmophobia-vr-stops-responding/"><u>Solutions for When Your Phasmophobia VR Stops Responding</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/taming-your-numbers-nightmare-excel-plus-chatgpt-strategies/"><u>Taming Your Numbers Nightmare: Excel + ChatGPT Strategies</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-assassins-creed-odyssey-pc-freeze-issues-a-step-by-step-guide/"><u>Troubleshooting Assassin's Creed Odyssey PC Freeze Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/understanding-and-repairing-the-clock-watchdog-timed-out-issue-to-prevent-bsods-in-windows-11/"><u>Understanding and Repairing the Clock Watchdog Timed Out Issue to Prevent BSODs in Windows 11</u></a></li>
 </ul></div>
 

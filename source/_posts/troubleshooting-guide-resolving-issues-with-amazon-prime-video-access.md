@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Resolving Issues with Amazon Prime Video Access"
-date: 2025-02-12T16:16:41.334Z
-updated: 2025-02-15T03:25:20.680Z
+date: 2025-03-03T16:09:44.221Z
+updated: 2025-03-04T16:02:57.561Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/1d6ebdf0f9be5148c3910502b3b0ab4551af7a691
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -50,17 +46,9 @@ thumbnail: https://thmb.techidaily.com/1d6ebdf0f9be5148c3910502b3b0ab4551af7a691
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-166-1024x728.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) On your keyboard, press**the Windows logo key** and **R** at the same time to open the Run dialog. Then type **%ProgramData%**  and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/005.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) In the pop-up window, double-click the**Origin**  folder to open it.
 
@@ -128,20 +116,12 @@ Or
 
 ![Driver Easy Scan Screen](https://images.drivereasy.com/wp-content/uploads/2019/12/Driver-Easy-Scan-screen.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update** next to your graphics card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Update-graphics-driver.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact Driver Easy’s support team at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Fix 3: Run the Program Compatibility Troubleshooter**
 
@@ -155,10 +135,6 @@ Or
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap11-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Try recommended settings** to test-run program using recommended compatibility settings. Follow the on-screen instructions to see whether this troubleshooting option works or not.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/pasted-image-1-1-1.png)
@@ -167,10 +143,6 @@ Or
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/pasted-image-2-1-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) If the problem persists, adjust the following settings manually and select**OK** when you’re done.
 
 * **Compatibility mode:**  If Origin won’t open on your current Windows system, click the drop-down list to select a previous version of Windows system to test-run it.
@@ -178,10 +150,6 @@ Or
 * **Run this program as an administrator:**  If Origin is not given administrator privileges, it may not run properly. Try this setting to give the program the administrator privileges.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap11-3.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If this fix works, your Origin will open when you double-click its shortcut. If not, try the next fix, below.
 
@@ -206,10 +174,6 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
  1) On your keyboard, press**the** **Windows logo key** and **R** at the same time to open the Run Dialog. Type **msconfig** and press **Enter** to open the **System Configuration** window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap266-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Select the**Services** tab, check **Hide all Microsoft services** and then click **Disable all** .
 
@@ -275,10 +239,6 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap268.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 iv. Restart your Windows system when it is completed.
 
  2) **[Download](https://www.dm.origin.com/download)**  the latest version of Origin and then double-click the file you downloaded to reinstall it.
@@ -305,22 +265,20 @@ iv. Restart your Windows system when it is completed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-in-depth-analysis-of-best-youtube-channel-design-practices/"><u>[New] In 2024, In-Depth Analysis of Best YouTube Channel Design Practices</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-makeup-trends-to-try-now/"><u>[Updated] 2024 Approved Makeup Trends to Try Now</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-rediscovering-the-past-with-your-camera-roll-on-snapchat/"><u>[Updated] 2024 Approved Rediscovering the Past with Your Camera Roll on Snapchat</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-clean-soundscape-youtube-audio-enhancement-guide-for-2024/"><u>[Updated] Clean Soundscape YouTube Audio Enhancement Guide for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-iphone-and-android-enthusiasts-guide-to-custom-whatsapp-sounds-for-2024/"><u>[Updated] IPhone & Android Enthusiast's Guide to Custom WhatsApp Sounds for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-selfie-showstoppers-adding-whimsy-with-the-cartoon-lens-for-2024/"><u>[Updated] Selfie Showstoppers Adding Whimsy with the Cartoon Lens for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/cod-black-ops-cold-war-error-fix-decode-the-meaning-of-error-80070057/"><u>Cod: Black Ops Cold War Error Fix - Decode the Meaning of Error 80070057</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/comparing-user-friendliness-is-the-claude-app-or-chatgpt-more-suited-for-regular-users/"><u>Comparing User-Friendliness: Is the Claude App or ChatGPT More Suited for Regular Users?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/end-your-frustration-now-fix-tf2-sudden-freezes-and-crashes/"><u>End Your Frustration Now: Fix TF2 Sudden Freezes & Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-tw-th-crash-problem-solutions-proven-effective/"><u>Fixing the TW: TH Crash Problem - Solutions Proven Effective</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-resolve-civilization-6-startup-problems-in-windows-11/"><u>How to Resolve Civilization 6 Startup Problems in Windows 11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722988731638-mastering-minecraft-gameplay-fix-your-crossbow-error-today/"><u>Mastering Minecraft Gameplay: Fix Your Crossbow Error Today!</u></a></li>
-<li><a href="https://extra-support.techidaily.com/seamless-integration-instagram-meets-tiktok-for-2024/"><u>Seamless Integration Instagram Meets TikTok for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-frame-drops-and-speech-lag-issues-in-naraka-bladepoint-a-comprehensive-guide/"><u>Solving Frame Drops & Speech Lag Issues in Naraka: Bladepoint – A Comprehensive Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-continuous-failures-in-thunder-tier-one-for-desktop-players/"><u>Troubleshooting Continuous Failures in Thunder Tier One for Desktop Players</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-to-resolve-rainbow-six-siege-connection-errors/"><u>Ultimate Guide to Resolve Rainbow Six Siege Connection Errors</u></a></li>
-<li><a href="https://win-answers.techidaily.com/unlock-your-game-overcoming-launch-hurdles-with-dead-space-remake-tips-for-202-grooping-the-latest-trends-in-gaming-troubleshooting/"><u>Unlock Your Game: Overcoming Launch Hurdles with Dead Space Remake, Tips for 202 Grooping the Latest Trends in Gaming Troubleshooting</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ake-paul-unveiled-charting-the-path-of-youtube-stardom/"><u>[New] Jake Paul Unveiled Charting the Path of YouTube Stardom</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-blending-primary-and-b-roll-for-smooth-transitions/"><u>[Updated] Blending Primary and B-Roll for Smooth Transitions</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-fresh-ideas-for-every-feed-top-20-original-and-viral-tiktok-caption-strategies/"><u>[Updated] In 2024, Fresh Ideas for Every Feed Top 20 Original and Viral TikTok Caption Strategies</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-visualizing-chronoscopic-imagery-in-media/"><u>[Updated] Visualizing Chronoscopic Imagery in Media</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-bringing-youtube-home-to-your-instagram-story/"><u>2024 Approved Bringing YouTube Home to Your Instagram Story</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-and-solutions-resolving-your-steam-login-issues/"><u>Fixes and Solutions: Resolving Your Steam Login Issues</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-successfully-bypass-icloud-activation-lock-on-iphone-14-plus-by-drfone-ios/"><u>How to Successfully Bypass iCloud Activation Lock on iPhone 14 Plus</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-dauntless-stutter-and-crashes-in-your-pc-adventure/"><u>Overcoming Dauntless Stutter and Crashes in Your PC Adventure</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-fixes-for-stable-gameplay-in-battlefield-1/"><u>Quick Fixes for Stable Gameplay in Battlefield 1</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-fix-for-when-your-pc-wont-cooperate-with-pubg-a-users-survival-tips/"><u>The Fix for When Your PC Won’t Cooperate with PUBG – A User's Survival Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-8-solutions-for-resolving-firefox-unresponsive-problems/"><u>Top 8 Solutions for Resolving Firefox Unresponsive Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-how-to-overcome-ark-program-crashes-successfully/"><u>Troubleshooting Guide - How to Overcome ARK Program Crashes Successfully</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unlock-your-discord-push-to-talk-effective-solutions-to-restore-functionality/"><u>Unlock Your Discord Push-to-Talk: Effective Solutions to Restore Functionality</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Motorola Razr 40 Ultra | Dr.fone</u></a></li>
 </ul></div>
 

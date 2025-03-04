@@ -1,7 +1,7 @@
 ---
 title: "Best Practices: Ensuring Smooth Play Without Crashes in Forza Horizon 5 for Personal Computers"
-date: 2025-02-10T21:55:04.548Z
-updated: 2025-02-15T03:05:30.365Z
+date: 2025-03-03T16:09:12.382Z
+updated: 2025-03-04T16:11:19.795Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/0afc969a260468b6e52b6a33d1ca7e6eed63bd07e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Here’s a list of fixes that have resolved this problem for other PC players. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -39,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/0afc969a260468b6e52b6a33d1ca7e6eed63bd07e
 5. **[Modify graphics card settings](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Disable overlays](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Disable background recording and Xbox Game Bar](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Install the latest game patch
 
@@ -81,10 +73,6 @@ There are mainly two methods for you to update the graphics driver:
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Set the Power Plan of your PC for high performance
 
  On Windows OS, a power plan is a set of system and hardware settings to manage how your computer consumes and conserves power. Generally speaking, the higher the performance, the more power your computer consumes.
@@ -99,15 +87,7 @@ There are mainly two methods for you to update the graphics driver:
 
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Launch Forza Horizon 5 and check if you get a better PFS. If this issue persists, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Optimize in-game graphics settings
 
@@ -181,10 +161,6 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
 
 Run Forza Horizon 5 to see you can play it smoothly.
@@ -211,18 +187,24 @@ Run Forza Horizon 5 to see you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-the-ultimate-image-editor-repertoire-for-text-addition/"><u>[New] 2024 Approved The Ultimate Image Editor Repertoire for Text Addition</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-post-production-pro-tailoring-video-content-to-instagram-standards-with-x/"><u>[New] In 2024, Post-Production Pro Tailoring Video Content to Instagram Standards with X</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-soundscapes-of-success-building-youtube-playlists-with-precision-for-2024/"><u>[Updated] The Soundscapes of Success Building YouTube Playlists with Precision for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/15-ways-to-enhance-your-listening-pleasure-with-podcasts/"><u>15 Ways to Enhance Your Listening Pleasure with Podcasts</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-top-10-gratis-live-streamers-on-iosandroid-devices/"><u>2024 Approved Top 10 Gratis Live Streamers on iOS/Android Devices</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-guide-finding-and-updating-toshiba-laptop-driver-software-for-windows-users/"><u>Easy Guide: Finding and Updating Toshiba Laptop Driver Software for Windows Users</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-fixes-for-when-stardew-valley-wont-boot-properly-on-your-pcmac/"><u>Effective Fixes for When Stardew Valley Won't Boot Properly on Your PC/Mac</u></a></li>
-<li><a href="https://win-answers.techidaily.com/eliminating-lags-and-stutters-optimizing-your-age-of-empires-4-experience/"><u>Eliminating Lags & Stutters – Optimizing Your Age of Empires 4 Experience</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-guide-to-resolving-apex-legends-game-engine-problems-fixed/"><u>Expert Guide to Resolving Apex Legends Game Engine Problems [FIXED]</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-on-your-apple-iphone-13-pro-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID on Your Apple iPhone 13 Pro?</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-honor-x7b-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Honor X7b | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-5-solutions-for-resolving-zoom-cant-start-video-issue/"><u>Top 5 Solutions for Resolving 'Zoom Can't Start Video' Issue</u></a></li>
-<li><a href="https://win-answers.techidaily.com/whats-new-in-rainbow-six-siege-explore-the-2024-update-features/"><u>What’s New in Rainbow Six Siege? Explore the 2024 Update Features!</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-mastering-the-art-of-logging-digital-sound-from-computers/"><u>[New] Mastering the Art of Logging Digital Sound From Computers</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/aspects-instead-of-properties-and-rephrasing-to-highlight-key-ideas-such-as-placement-attributes-and-positioning/"><u>Aspects Instead of Properties and Rephrasing to Highlight Key Ideas Such as Placement, Attributes, and Positioning.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-pictures-from-nord-n30-se-by-fonelab-android-recover-pictures/"><u>Best Android Data Recovery - Retrieve Lost Pictures from Nord N30 SE.</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/convert-webm-files-to-swf-for-free-online-easy-to-use-tool-with-movavi/"><u>Convert Webm Files to Swf for Free Online - Easy-to-Use Tool with Movavi</u></a></li>
+<li><a href="https://win-answers.techidaily.com/double-error-debugged-resolving-two-pc-collisions-successfully/"><u>Double Error Debugged: Resolving Two PC Collisions Successfully</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enhancing-iphone-call-audio-clarity-top-tips-and-tricks/"><u>Enhancing iPhone Call Audio Clarity: Top Tips and Tricks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/first-rate-soundbites-googles-best-talk-series-for-2024/"><u>First-Rate Soundbites Google's Best Talk Series for 2024</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/guide-facile-pour-restaurer-des-fichiers-effaces-sur-windows-11-les-etapes-simples-a-suivre/"><u>Guide Facile Pour Restaurer Des Fichiers Effacés Sur Windows 11 – Les Étapes Simples À Suivre</u></a></li>
+<li><a href="https://extra-information.techidaily.com/hasty-yet-stunning-the-quick-path-to-perfect-collage-pics/"><u>Hasty, Yet Stunning The Quick Path to Perfect Collage Pics</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-ensure-smooth-play-resolving-fallout-3s-crashing-on-windows-11-systems/"><u>How to Ensure Smooth Play: Resolving Fallout 3'S Crashing on Windows 11 Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-immortals-fenyx-rising-persistent-crashes-on-your-pcps4xbox/"><u>How to Fix Immortal's Fenyx Rising Persistent Crashes on Your PC/PS4/Xbox</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-hevc-h-265-video-on-motorola-moto-g14-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How to play HEVC H.265 video on Motorola Moto G14?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/league-of-legends-2024-say-goodbye-to-reconnection-loops-with-latest-fixes/"><u>League of Legends 2024: Say Goodbye to Reconnection Loops with Latest Fixes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimizing-your-gaming-experience-on-avatar-frontiers-of-pandora-fixing-stutter-and-improving-fps/"><u>Optimizing Your Gaming Experience on Avatar: Frontiers of Pandora - Fixing Stutter and Improving FPS</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-fixes-for-star-wars-battlefront-ii-error-message-327/"><u>Resolved: Fixes for 'Star Wars Battlefront II' Error Message 327</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-solution-eradicating-full-black-screen-problems-in-rainbow-six-siege-for-windows-users/"><u>Step-by-Step Solution: Eradicating Full Black Screen Problems in Rainbow Six Siege for Windows Users</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-honor-x7b-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-oculus-link-display-issues-in-minutes-with-these-6-methods/"><u>Troubleshooting Oculus Link Display Issues in Minutes with These 6 Methods</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723000075997-unlock-seamless-gaming-tackle-and-correct-apex-legends-startup-glitches-swiftly/"><u>Unlock Seamless Gaming - Tackle and Correct Apex Legends' Startup Glitches Swiftly!</u></a></li>
 </ul></div>
 

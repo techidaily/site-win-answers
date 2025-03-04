@@ -1,7 +1,7 @@
 ---
 title: "Unstick Your Football Manager 2021 Launch: Solutions for the Endless Load Screen Problem"
-date: 2025-02-12T00:14:57.043Z
-updated: 2025-02-14T16:48:54.585Z
+date: 2025-03-03T16:04:31.118Z
+updated: 2025-03-04T16:07:41.531Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ The Epic Games Launcher is such a wonderful platform that you can play your favo
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -63,10 +59,6 @@ Here’s how you can do this:
 
 ![reset screen resolution](https://images.drivereasy.com/wp-content/uploads/2020/09/display-settings-3-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After resetting the resolution, open the launcher to check if it’s loading correctly. If not, try the next fix.
 
 ---
@@ -88,10 +80,6 @@ Here’s how you can do this:
  When you have a black screen, whether on your computer or any app, your outdated or faulty graphics driver might be the culprit. If you can’t remember when was the last time you updated your graphics driver, then you should do it. And you can benefit a lot from updating the graphics driver. Because it can fix performance bottlenecks and introduce improvements that make games run significantly faster.
 
  There are mainly two ways you can update your graphics driver:[manually](https://tools.techidaily.com/drivereasy/download/) and[automatically](https://tools.techidaily.com/drivereasy/download/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 1 – Manually update your graphics driver
 
@@ -158,10 +146,6 @@ Here’s how you can do this:
 
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Go back to the**Program Compatibility Troubleshooter** window and click**Next** .
 
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-4.png)
@@ -171,10 +155,6 @@ Here’s how you can do this:
  If the problem persists, then select**No, try again using different settings** .
 
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-5.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  7) Uncheck the box **The program worked in earlier versions of Windows but won’t install or run now** . Then check the box**The program opens but doesn’t display correctly** and click**Next** .
 
@@ -188,10 +168,6 @@ Here’s how you can do this:
 
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-8.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  10) Click**Test the program…** \>**Next** .
 
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-11-1.png)
@@ -204,17 +180,9 @@ Here’s how you can do this:
 
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-13.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you’ve been troubleshooting multiple times and still didn’t fix the issue, don’t worry. There are other working fixes for you.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 6: Allow the launcher through the firewall
 
@@ -233,10 +201,6 @@ Here’s how you can do this:
  If not, click**Change settings** and follow the on-screen instructions to add**Epic Games Launch** to the list and let it through the firewall.
 
 ![allow the launcher through the firewall Epic Games Launcher](https://images.drivereasy.com/wp-content/uploads/2020/09/firewall-and-network-protection-3.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you’ve done all of these, and still it’s a black screen when you open the launcher. Then try the next method.
 
@@ -276,10 +240,6 @@ Here’s how you can do this:
  Then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/change-DNS-server.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -358,16 +318,22 @@ Below is the VPN we would like to recommend:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-the-insiders-guide-to-instagram-video-success/"><u>[Updated] In 2024, The Insider’s Guide to Instagram Video Success</u></a></li>
-<li><a href="https://win-lab.techidaily.com/choosing-your-shield-an-in-depth-look-at-hitman-pro-and-malwarebytes-security-solutions/"><u>Choosing Your Shield: An In-Depth Look at Hitman Pro and Malwarebytes Security Solutions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effortless-guide-eliminating-audio-tracks-from-your-videos-with-or-without-vocals/"><u>Effortless Guide: Eliminating Audio Tracks From Your Videos, With or Without Vocals</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effortless-wtv-to-ts-file-transformation-techniques-for-windows-users/"><u>Effortless WTV to TS File Transformation Techniques for Windows Users</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-tutorial-on-free-downloading-and-using-hd-video-converter-factory-pro-without-cracks/"><u>Expert Tutorial on Free Downloading and Using HD Video Converter Factory Pro without Cracks</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fast-track-techniques-for-turning-amv-files-into-high-quality-mp4-videos/"><u>Fast-Track Techniques for Turning AMV Files Into High-Quality MP4 Videos</u></a></li>
-<li><a href="https://win-answers.techidaily.com/flexible-media-format-transformer-effortlessly-change-videos-into-flv-and-reverse-convert-flv-formats/"><u>Flexible Media Format Transformer: Effortlessly Change Videos Into FLV & Reverse Convert FLV Formats</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-your-guide-to-smooth-browsing-select-the-top-7-android-adblockers/"><u>In 2024, Your Guide to Smooth Browsing Select the Top 7 Android AdBlockers</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/usas-best-budget-friendly-karaoke-destinations-for-unforgettable-singing-adventures-under-150/"><u>USA's Best Budget-Friendly Karaoke Destinations for Unforgettable Singing Adventures Under $150</u></a></li>
-<li><a href="https://fox-info.techidaily.com/write-with-impact-crafting-engaging-podcast-blurbs/"><u>Write with Impact Crafting Engaging Podcast Blurbs</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-unlock-social-media-success-a-comprehensive-10-step-plan/"><u>[New] Unlock Social Media Success A Comprehensive 10-Step Plan</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-virtual-realms-at-your-fingertips-the-1-list-of-immersive-vr-streamers-for-pc/"><u>[New] Virtual Realms at Your Fingertips The #1 List of Immersive VR Streamers for PC</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1747030-9781453286463-control-your-dreams/"><u>Control Your Dreams | Free Book</u></a></li>
+<li><a href="https://win-answers.techidaily.com/crash-no-more-ensuring-smooth-running-of-adobe-after-effects-on-windows-11-and-10/"><u>Crash No More: Ensuring Smooth Running of Adobe After Effects on Windows 11 & 10</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-fixes-for-preventing-your-madden-nfl-20-game-from-crashing-on-pc/"><u>Expert Fixes for Preventing Your Madden NFL 20 Game From Crashing on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-your-league-of-legends-game-crashes-fast-solutions-inside/"><u>Fix Your League of Legends Game Crashes: Fast Solutions Inside!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-tecno-spark-20c-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Tecno Spark 20C For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stabilize-linkages-in-granblue-fantasy-and-avoid-crashes-on-windowsmac/"><u>How to Stabilize Linkages in Granblue Fantasy and Avoid Crashes on Windows/Mac</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-incorporating-yt-playlists-into-web-design/"><u>In 2024, Incorporating YT Playlists Into Web Design</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/make-your-own-vr-gear-diy-guide-for-google-cardboard-viewers-for-2024/"><u>Make Your Own VR Gear DIY Guide for Google Cardboard Viewers for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-these-techniques-to-fix-minecrafts-black-screen-debacle-of-2024/"><u>Master These Techniques to Fix Minecraft's Black Screen Debacle of 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/next-gen-recording-iphoneipad-screens/"><u>Next-Gen Recording IPhone/iPad Screens</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723002953779-pc-gaming-troubles-heres-why-lost-ark-might-be-crashing-and-how-to-prevent-it/"><u>PC Gaming Troubles? Here's Why 'Lost Ark' Might Be Crashing - And How to Prevent It!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-overcoming-the-launch-error-for-crusader-kings-2/"><u>Solved: Overcoming the Launch Error for Crusader Kings 2</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-solution-overcoming-the-tfla0002-issue-in-academic-testing/"><u>Step-by-Step Solution: Overcoming the TFLA0002 Issue in Academic Testing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/tackling-stuttering-and-latency-problems-in-call-of-dutys-latest-installment/"><u>Tackling Stuttering and Latency Problems in Call of Duty's Latest Installment</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/your-personal-drone-that-never-falters-in-following/"><u>Your Personal Drone that Never Falters in Following</u></a></li>
 </ul></div>
 

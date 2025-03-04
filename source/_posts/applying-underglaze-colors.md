@@ -1,7 +1,7 @@
 ---
 title: Applying Underglaze Colors
-date: 2025-02-08T21:32:37.382Z
-updated: 2025-02-14T16:13:13.439Z
+date: 2025-02-25T16:01:09.122Z
+updated: 2025-03-04T16:08:03.023Z
 tags:
   - win11
   - win10
@@ -47,10 +47,6 @@ Mount & Blade 2: Bannerlord keeps crashing to the desktop? Don’t panic. Here�
 **2)**  Right-click**Mount & Blade II: Bannerlordand** and select **Properties.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/04/2020-04-01_14-41-15-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)**  Click the **LOCAL FILES**  tab, and then click **VERIFY INTEGRITY OF GAME FILES** .
 
@@ -101,17 +97,9 @@ If the Bannerlord is still unplayable, continue with the next solution.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-507.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Paste **C:\\Program Files (x86)\\Steam\\steamapps\\common** on the address bar.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-505.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)**  Rename the**Bannerlord folder** to**old\_Bannerlord** .
 
@@ -133,33 +121,17 @@ If the Bannerlord is still unplayable, continue with the next solution.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-884.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Click **View advanced system settings.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-882.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)** Click **Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-881.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)**  Click the **Advanced**  tab, and then click **Change** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-880.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **5)** Uncheck the box next to **Automatically manage paging file size for all drives** .
 
@@ -194,10 +166,6 @@ If the Bannerlord is still unplayable, continue with the next solution.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-576.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Restart your computer after the update is complete, then try running the game again.
 
  Hope one of the solutions above helped. If you have any questions or suggestions, please add a comment below.
@@ -217,18 +185,22 @@ If the Bannerlord is still unplayable, continue with the next solution.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-leading-gallery-archive-services/"><u>[New] In 2024, Leading Gallery Archive Services</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-quick-and-easy-extracting-hd-videos-from-vimeo-to-mp4-format/"><u>[New] In 2024, Quick & Easy Extracting HD Videos From Vimeo to MP4 Format</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-illuminate-creativity-engage-in-pcs-high-dynamic-range-vision/"><u>2024 Approved Illuminate Creativity Engage in PC's High Dynamic Range Vision</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/decoding-the-essence-of-ai-and-discovering-its-possible-hazardous-outcomes/"><u>Decoding the Essence of AI & Discovering Its Possible Hazardous Outcomes</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhancing-job-search-with-smart-chatgpt-use/"><u>Enhancing Job Search with Smart ChatGPT Use</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-navigating-the-world-of-subtitle-uploads-social-media-edition/"><u>In 2024, Navigating the World of Subtitle Uploads Social Media Edition</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/new-2024-approved-demystifying-ai-game-generators/"><u>New 2024 Approved Demystifying AI Game Generators</u></a></li>
-<li><a href="https://win-answers.techidaily.com/premier-video-transcoding-software-mp4-480p-edition-compatible-with-windows-11/"><u>Premier Video Transcoding Software: MP4 480P Edition Compatible with Windows 11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/seamless-merging-of-avi-video-clips-without-compromising-quality/"><u>Seamless Merging of AVI Video Clips Without Compromising Quality</u></a></li>
-<li><a href="https://win-answers.techidaily.com/simple-guide-to-capturing-screenshots-and-recording-audio-using-a-microphone-on-windows-8/"><u>Simple Guide to Capturing Screenshots and Recording Audio Using a Microphone on Windows 8</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-the-mystery-of-silent-videos-a-guide-to-restoring-audio/"><u>Solving the Mystery of Silent Videos: A Guide to Restoring Audio</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/system-hiccup-nvidia-driver-returns-to-operation/"><u>System Hiccup: Nvidia Driver Returns to Operation</u></a></li>
-<li><a href="https://ai-video.techidaily.com/translate-videos-like-a-pro-with-subtitle-cat-your-essential-guide/"><u>Translate Videos Like a Pro with Subtitle Cat Your Essential Guide</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-collaborative-branding-strategies-in-digital-media-for-2024/"><u>[New] Collaborative Branding Strategies in Digital Media for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-journey-to-social-media-supremacy-top-9-secrets-to-becoming-an-instagram-star/"><u>2024 Approved Journey to Social Media Supremacy Top 9 Secrets to Becoming an Instagram Star</u></a></li>
+<li><a href="https://win-answers.techidaily.com/dolby-atmos-woes-heres-how-to-get-it-running-smoothly-on-your-windows-device/"><u>Dolby Atmos Woes? Here's How to Get It Running Smoothly on Your Windows Device</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-for-diagnosing-and-repairing-pc-compatibility-with-frontier-game/"><u>Expert Tips for Diagnosing and Repairing PC Compatibility with Frontier Game</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722994994067-fixing-phasmophobia-crashes-essential-troubleshooting-guide-for-gamers-in-202/"><u>Fixing Phasmophobia Crashes: Essential Troubleshooting Guide for Gamers in 202#</u></a></li>
+<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-oneplus-open-frp-by-drfone-android/"><u>Full Guide to Bypass OnePlus Open FRP</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-your-nba-2k23-game-from-crashing-on-pc-proven-fix-1-7/"><u>How to Stop Your NBA 2K23 Game From Crashing on PC: Proven Fix #1-7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-vivo-y78-5g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Vivo Y78 5G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/immediate-solutions-to-your-fortnite-account-access-troubles/"><u>Immediate Solutions to Your Fortnite Account Access Troubles</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-zero-price-screen-recording-easy-on-pc-and-mac/"><u>In 2024, Zero Price Screen Recording - Easy on PC & Mac</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pro-tips-gain-control-of-remote-connections-in-win-11/"><u>Pro-Tips: Gain Control of Remote Connections in Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedying-pc-performance-hurdles-with-intel-graphics-updates/"><u>Remedying PC Performance Hurdles with Intel Graphics Updates</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-your-battle-royale-woes-what-to-do-if-warzone-wont-launch/"><u>Resolving Your Battle Royale Woes: What To Do If Warzone Won't Launch</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/stop-ghost-recon-breakpoint-from-freezing-and-crashing-a-comprehensive-guide-to-a-smooth-gaming-experience/"><u>Stop Ghost Recon Breakpoint From Freezing and Crashing - A Comprehensive Guide to a Smooth Gaming Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/success-story-solving-steam-connection-disruption-the-end-of-steam-client-communication-failure/"><u>Success Story: Solving Steam Connection Disruption - The End of 'Steam Client Communication Failure'</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-why-cant-i-play-call-of-duty-modern-warfare-on-my-pc/"><u>Troubleshooting Guide: Why Can't I Play Call of Duty Modern Warfare on My PC ?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723001788615-troubleshooting-your-diablo-crashes-solutions-and-advice/"><u>Troubleshooting Your Diablo Ⅲ Crashes: Solutions and Advice.</u></a></li>
 </ul></div>
 

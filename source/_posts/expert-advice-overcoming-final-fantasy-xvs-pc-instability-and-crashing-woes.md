@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice: Overcoming Final Fantasy XV's PC Instability and Crashing Woes"
-date: 2024-08-19T00:57:05.446Z
-updated: 2024-08-20T00:57:05.446Z
+date: 2025-02-25T16:03:01.304Z
+updated: 2025-03-04T16:06:32.911Z
 tags:
   - win11
   - win10
@@ -49,18 +49,12 @@ In Nioh 2 CE (Complete Edition), you are about to embark on an adventure and enj
 
  If this method doesn’t work, you can go to the **Compatibility** tab again, tick the box next to the **Disable fullscreen optimization** option, and set a Win 7 or Win 8 compatibility mode. Then click **Change high DPI settings** and uncheck the **Override high DPI scaling behavior** option.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 2: Shut down all unnecessary apps
 
  In case other apps are interfering with Nioh 2, please make sure you have shut down all non-essential programs (especially anti-virus) before starting the game.
 
  Press **Ctrl + Shift + Esc**  at the same time to open the Task Manager, and close all unnecessary apps running in the background.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/image-1.png)
 
  For antivirus software, however, simply disabling it won’t work sometimes. If that’s your case, you can either uninstall it temporarily or add Nioh 2 to its exception list.
@@ -87,9 +81,6 @@ In Nioh 2 CE (Complete Edition), you are about to embark on an adventure and enj
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 
  2) Click the **Update** button next to the flagged graphics card and all other devices to download the correct driver (you can do this with the FREE version), then manually install it.
@@ -117,9 +108,6 @@ In Nioh 2 CE (Complete Edition), you are about to embark on an adventure and enj
 
  It might take a few seconds for the process to complete. Once done, play Nioh 2 again to test the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 5: Install/repair Visual C++ files
 
  If the Nioh 2 keeps crashing even when you start it from the executable, try installing/repairing all the Visual C++ redistributable (both 86bit and 64bit).
@@ -130,18 +118,12 @@ In Nioh 2 CE (Complete Edition), you are about to embark on an adventure and enj
 
  2) Run the downloaded files, and click **Install** (if you have already installed one, click **Repair** ).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/Install.png)
 
 3) Wait for the process to complete. This may take 2-3 minutes.
 
 4) Also download the Microsoft Visual C++ 2013 (both the x86 and x64) and complete the installation/repair.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2013.png)
 
 5) Once complete, restart your PC for it to take full effect.
@@ -162,9 +144,6 @@ Play your game again and see if Nioh 2 not launching is resolved by now.
 
 Now launch your game, and see if it crashes again.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 7: Perform a clean boot
 
  To make sure no other apps is interfering with Nioh 2, you can try performing a clean boot. Here’s how:
@@ -173,23 +152,14 @@ Now launch your game, and see if it crashes again.
 
  2) Type **msconfig** and press **Enter** to open **System Configuration** .
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/msconfig.jpg)
 
  3) Go to the **Services** tab and check the **Hide all Microsoft services** box. Then click **Disable all** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/disable-all.png)
 
  4) Select the **Startup** tab and click **Open Task Manager** .
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/image-1003.png)
 
  5) Under the **Startup** tab, select **each** startup item and then click **Disable** .
@@ -198,9 +168,6 @@ Now launch your game, and see if it crashes again.
 
  6) Go back to **System Configuration** , then click **OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/image-1005.png)
 
  7) Restart your PC and launch your Nioh 2 to see if the game launches normally.
@@ -225,8 +192,6 @@ Now launch your game, and see if it crashes again.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -234,4 +199,24 @@ Now launch your game, and see if it crashes again.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-culinary-crescendo-high-impact-food-network-monikers/"><u>[New] 2024 Approved Culinary Crescendo High-Impact Food Network Monikers</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-unpacking-features-a-deep-dive-into-free2xs-tools-for-2024/"><u>[New] Unpacking Features A Deep Dive Into Free2X's Tools for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-streamlining-your-projects-with-voice-over-integration/"><u>[Updated] In 2024, Streamlining Your Projects with Voice Over Integration</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/download-mp3s-from-keepvid-a-guide-to-converting-youtube-videos-into-music-files/"><u>Download MP3s From KeepVid: A Guide to Converting YouTube Videos Into Music Files</u></a></li>
+<li><a href="https://fox-links.techidaily.com/enhancing-chromebooks-zoom-functionality/"><u>Enhancing Chromebook's Zoom Functionality</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-screen-tic-tac-chrome-flickering-solutions-exclusively-for-windows-users/"><u>Fixing the Screen Tic-Tac: Chrome Flickering Solutions Exclusively for Windows Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-get-your-stuck-rust-software-running-smoothly-again-2024-edition/"><u>How to Get Your Stuck Rust Software Running Smoothly Again – 2024 Edition</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mirthful-mastery-no-monetary-boundaries/"><u>In 2024, Mirthful Mastery, No Monetary Boundaries</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-mordhau-game-crashes-a-comprehensive-guide/"><u>Resolving Mordhau Game Crashes - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-the-problem-of-dragon-age-origins-game-crashing-on-windows-10-a-complete-guide/"><u>Resolving the Problem of Dragon Age: Origins Game Crashing on Windows 10 - A Complete Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-dormant-wsreset-utility-on-computers/"><u>Restoring Dormant WSReset Utility on Computers</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ces-symphony-strategies-for-capturing-pristine-audio/"><u>Silence's Symphony Strategies for Capturing Pristine Audio</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/step-by-step-tutorial-getting-started-with-fortnite-pc-version/"><u>Step-by-Step Tutorial: Getting Started with Fortnite PC Version</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-eliminating-resident-evil-villages-pc-performance-hiccups/"><u>Troubleshooting Guide: Eliminating Resident Evil Village's PC Performance Hiccups</u></a></li>
+<li><a href="https://win-answers.techidaily.com/twitch-streaming-sound-troubles-heres-why-it-works-perfectly-now/"><u>Twitch Streaming Sound Troubles? Here's Why It Works Perfectly Now</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-resolving-excessive-cpu-consumption-by-discord/"><u>Ultimate Guide: Resolving Excessive CPU Consumption by Discord</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722993773867-why-is-crusader-kings-ii-failing-to-launch-expert-tips-and-fixes-here/"><u>Why Is Crusader Kings II Failing to Launch? Expert Tips and Fixes Here</u></a></li>
+</ul></div>
 

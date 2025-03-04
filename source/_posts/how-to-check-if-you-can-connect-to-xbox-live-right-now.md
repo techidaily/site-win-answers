@@ -1,7 +1,7 @@
 ---
 title: How to Check If You Can Connect To Xbox Live Right Now!
-date: 2025-02-13T06:58:46.923Z
-updated: 2025-02-15T05:09:13.353Z
+date: 2025-03-02T16:05:12.352Z
+updated: 2025-03-04T16:14:12.039Z
 tags:
   - win11
   - win10
@@ -32,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/7f8f4d19272d4759318cbc88d919ca0c7c48f6200
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -88,10 +84,6 @@ If the issue remains, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/repair-mfs.jpg)
 4. Windows will begin to scan and repair your game files.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. After the process is completed, relaunch the game and test if you can get past the checking for updates screen.
 
 If this method doesn’t work for you, go ahead with the next fix.
@@ -103,10 +95,6 @@ If this method doesn’t work for you, go ahead with the next fix.
 1. On your keyboard, press the**Window logo key** . Then type**check for updates** . Click**Check for updates** from the list of results.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/win11-search-bar-check-for-updates.jpg)
 2. Under Windows Update, click**Check for updates** . Windows will automatically download and install the available updates.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Check-for-updates-button-1.jpg)
 
@@ -127,15 +115,7 @@ If this method doesn’t work for you, go ahead with the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/scan-18.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/de-wifi6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once you’ve updated your network driver, restart your PC and Microsoft Flight Simulator to see if you can get past the checking for updates screen.
 
@@ -163,10 +143,6 @@ If this method doesn’t work for you, go ahead with the next fix.
 
 If the problem persists, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 6: Check your security software
 
  The antivirus and malware checkers can close down or block the normal operation of certain applications, even if they are legitimate and safe. To ensure the Microsoft Flight Simulator works properly, you can add the game to the exclusions list. Here’s how:
@@ -189,15 +165,7 @@ on Windows 10:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/add-remove-exclusions.jpg)
 6. Click**Add an exclusion** , and then select**Microsoft Flight Simulator** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/add-an-exclusion.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 on Windows 11:
 
@@ -214,10 +182,6 @@ on Windows 11:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/win11-add-or-remove-exclusions.jpg)
 6. Click**Add an exclusion** , and then select your game’s installation folder to exclude your game from Microsoft Defender Antivirus scans.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/win11-Add-an-exclusion.jpg)
 
@@ -239,10 +203,6 @@ on Windows 11:
  Check if the game loads normally after you add it as an exception to your security software.
 
  If you still can’t get past the checking for updates screen, take a look at the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 7: Use a VPN
 
@@ -312,18 +272,19 @@ If this method doesn’t solve your problem, check out the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-dash.techidaily.com/download-rtx-2060-super-drivers-for-windows-10-11/"><u>[Download] RTX 2060 SUPER Drivers for Windows 10, 11</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-best-alternative-editors-for-youtube-creators-seeking-new-horizons-for-2024/"><u>[New] Best Alternative Editors for YouTube Creators Seeking New Horizons for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-configure-youtube-pip-on-iphone-quickly-for-2024/"><u>[New] Configure YouTube PIP on iPhone Quickly for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/balancing-main-footage-with-b-roll-to-avoid-overkill-for-2024/"><u>Balancing Main Footage with B-Roll to Avoid Overkill for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fix-how-to-resolve-msi-afterburners-failure-to-recognize-your-graphics-card-in-windows-11/"><u>Fix: How to Resolve MSI Afterburner's Failure to Recognize Your Graphics Card in Windows 11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-stop-paladins-from-crashing-on-your-pc-or-mobile-tips-for-202n/"><u>How to Stop Paladins From Crashing on Your PC or Mobile (Tips for 202N)</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-6-techniques-for-enhancing-your-fps-on-apex-legends-fast-tips-and-tricks/"><u>Top 6 Techniques for Enhancing Your FPS on Apex Legends: Fast Tips and Tricks</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-strategies-to-overcome-dota-2-slowdowns/"><u>Top Strategies to Overcome Dota 2 Slowdowns</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/forming-youtube-descriptions-leveraging-template-power/"><u>Transforming YouTube Descriptions Leveraging Template Power</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-ultimate-issues-essential-fixes-for-dev-errors-in-call-of-duty-modern-warfare-and-warzone-titles/"><u>Troubleshooting Ultimate Issues: Essential Fixes for Dev Errors in Call of Duty Modern Warfare & Warzone Titles</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/ultimate-guide-finding-the-ideal-video-shrinker-app-for-your-pc-in-windows/"><u>Ultimate Guide: Finding the Ideal Video Shrinker App for Your PC in Windows</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/understanding-and-utilizing-quasar-extension-for-an-enhanced-kodi-experience/"><u>Understanding & Utilizing Quasar Extension for an Enhanced Kodi Experience</u></a></li>
-<li><a href="https://win-answers.techidaily.com/uninterrupted-streams-on-discord-solving-the-sudden-crash-problem/"><u>Uninterrupted Streams on Discord - Solving the Sudden Crash Problem</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-innovative-methods-for-shuffling-yt-playlists/"><u>[Updated] Innovative Methods for Shuffling YT Playlists</u></a></li>
+<li><a href="https://win-answers.techidaily.com/battlefield-your-simple-2024-fix-for-the-wont-launch-problem/"><u>Battlefield ^: Your Simple 2024 Fix for the Won't Launch Problem</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/convertidor-de-audio-libre-online-para-cambiar-mp3-a-formato-m4v-con-movavi/"><u>Convertidor De Audio Libre Online Para Cambiar MP3 a Formato M4V Con Movavi</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/efficient-video-mastery-merging-windows-11-and-storyremix-technologies-for-2024/"><u>Efficient Video Mastery Merging Windows 11 and StoryRemix Technologies for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/highest-rated-mobile-video-enhancers-for-gopro-footage/"><u>Highest-Rated Mobile Video Enhancers for GoPro Footage</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-chrome-from-crashing-and-locking-up-tips-and-solutions/"><u>How to Stop Chrome From Crashing and Locking Up: Tips & Solutions</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/preventing-predictable-problems-with-generative-tech/"><u>Preventing Predictable Problems with Generative Tech</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-your-rust-mic-a-comprehensive-2024-fix-it-manual/"><u>Reviving Your Rust Mic: A Comprehensive 2024 Fix-It Manual</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-found-overcome-the-launch-hurdle-in-stardew-valley/"><u>Solution Found! Overcome the Launch Hurdle in Stardew Valley</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-and-fixing-fps-hiccups-in-modern-warfare-cuperwiz10-fixed-modern-warfare-2-windows-performance-enhancement-tips/"><u>Troubleshooting and Fixing FPS Hiccups in Modern Warfare Cuperwiz10- [Fixed] 'Modern Warfare 2' - Windows Performance Enhancement Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-latency-problems-enhancing-your-fortnite-experience-on-pc/"><u>Troubleshooting Latency Problems: Enhancing Your Fortnite Experience on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-when-armored-core-vi-wont-boot-up/"><u>Troubleshooting Steps When Armored Core VI Won't Boot Up</u></a></li>
 </ul></div>
 

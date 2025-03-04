@@ -1,7 +1,7 @@
 ---
 title: "Crack Down on Lag Spikes and Optimize Performance in Cod: Black Ops 4"
-date: 2025-02-13T22:21:56.369Z
-updated: 2025-02-15T06:44:27.025Z
+date: 2025-03-03T16:02:42.198Z
+updated: 2025-03-04T16:09:35.786Z
 tags:
   - win11
   - win10
@@ -91,17 +91,9 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-358.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 3: Change the power option
 
@@ -111,17 +103,9 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-737.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Under **View by,** click **Large icons** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-720.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)** Select **Power Options.**
 
@@ -132,10 +116,6 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-738.png)
 
  Restart your computer, and then relaunch your game to see if this worked for you.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 4: Configure your graphics settings
 
@@ -172,10 +152,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-47.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Click**Gaming** , then**Global Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-45.png)
@@ -183,14 +159,6 @@ OR
 **3)** Modify the settings following the screenshot below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-42-1024x459.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 5: Overclock your GPU
 
@@ -221,16 +189,19 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-unleashing-wit-within-walls-a-guide-to-crafting-metaverse-jokes/"><u>[New] 2024 Approved Unleashing Wit Within Walls – A Guide to Crafting Metaverse Jokes</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-solutions-for-missing-shorts-thumbnails-on-youtube/"><u>[New] Solutions for Missing Shorts Thumbnails on YouTube</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-cutting-edge-green-tools-shaping-film-for-2024/"><u>[Updated] Cutting Edge Green Tools Shaping Film for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-top-11-best-bridge-cameras-ultimate-review/"><u>[Updated] In 2024, Top 11 Best Bridge Cameras [Ultimate Review]</u></a></li>
-<li><a href="https://win-answers.techidaily.com/beat-the-battle-fixing-warzones-directx-error-with-simple-solutions/"><u>Beat the Battle: Fixing Warzone's DirectX Error with Simple Solutions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/everspace-ii-pc-stability-effective-ways-to-overcome-game-crashes-and-enjoy-uninterrupted-gaming/"><u>Everspace II PC Stability: Effective Ways to Overcome Game Crashes and Enjoy Uninterrupted Gaming</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-madden-nfl-20-pc-game-crashing-issues-solution-guide/"><u>How to Fix Madden NFL 20 PC Game Crashing Issues - Solution Guide</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-magic-6-lite-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Honor Magic 6 Lite Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolve-nba-2k24-error-code-727e66ac-2024-with-these-expert-tips-and-fixes/"><u>Resolve NBA #2K24 Error Code 727E66ac-2024 with These Expert Tips and Fixes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/total-war-saga-troy-comprehensive-fixes-to-prevent-and-manage-game-crashing-on-desktops/"><u>TOTAL WAR SAGA: TROY - Comprehensive Fixes to Prevent & Manage Game Crashing on Desktops</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-outlook-opening-just-in-safe-mode/"><u>Troubleshooting Outlook Opening Just in Safe Mode</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-optimizing-youtube-content-with-social-blade-a-stats-journey/"><u>[New] 2024 Approved Optimizing YouTube Content With Social Blade - A Stats Journey</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-focusflexzoom-7-detailed-resizing-at-a-glance/"><u>[New] FocusFlexZoom 7 Detailed Resizing at a Glance</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-how-instagram-new-algorithm-update-will-affect-you/"><u>[New] In 2024, How Instagram New Algorithm Update Will Affect You</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-obs-full-screen-fix-announced/"><u>[New] In 2024, Obs Full-Screen Fix Announced</u></a></li>
+<li><a href="https://win-answers.techidaily.com/age-of-empires-iv-performance-tuning-tips-to-prevent-stuttering/"><u>Age of Empires IV Performance Tuning: Tips to Prevent Stuttering</u></a></li>
+<li><a href="https://win-answers.techidaily.com/comprehensive-instructions-for-installing-microsofts-hyper-v-in-windows-10/"><u>Comprehensive Instructions for Installing Microsoft's Hyper-V in Windows 10</u></a></li>
+<li><a href="https://win-answers.techidaily.com/comprehensive-solutions-to-stop-your-gtfo-application-from-crashing/"><u>Comprehensive Solutions to Stop Your GTFO Application From Crashing</u></a></li>
+<li><a href="https://extra-information.techidaily.com/discovering-the-fusion-of-color-and-clarity-in-4k-blade-cameras/"><u>Discovering the Fusion of Color and Clarity in 4K Blade Cameras</u></a></li>
+<li><a href="https://fox-links.techidaily.com/elite-video-capture-our-picks-of-the-best-18-camcorders/"><u>Elite Video Capture Our Picks of the Best 18 Camcorders</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-on-iphone-15-pro-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code On iPhone 15 Pro in the Best Ways</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-7-to-samsung-galaxy-s20-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone 7 to Samsung Galaxy S20? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-pc-compatibility-optimizing-a-total-war-saga-troy-performance-issues/"><u>Mastering PC Compatibility: Optimizing A Total War Saga: Troy Performance Issues</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/score-an-unbeatable-price-on-hp-victus-15-gaming-laptop-exclusive-515-offer-during-best-buys-prime-day-sale-techradar/"><u>Score an Unbeatable Price on HP Victus 15 Gaming Laptop - Exclusive $515 Offer During Best Buy's Prime Day Sale | TechRadar</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-overcoming-issues-with-minecraft-native-launcher-updates/"><u>Troubleshooting Tips: Overcoming Issues with Minecraft Native Launcher Updates</u></a></li>
 </ul></div>
 

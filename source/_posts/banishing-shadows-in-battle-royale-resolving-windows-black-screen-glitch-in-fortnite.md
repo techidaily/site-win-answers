@@ -1,7 +1,7 @@
 ---
 title: "Banishing Shadows in Battle Royale: Resolving Windows Black Screen Glitch in Fortnite"
-date: 2024-08-19T00:51:42.720Z
-updated: 2024-08-20T00:51:42.720Z
+date: 2025-02-26T16:00:41.961Z
+updated: 2025-03-04T16:00:39.174Z
 tags:
   - win11
   - win10
@@ -40,9 +40,6 @@ When you double-click Discord but the program won’t open, it could be very fru
 
  2) Type**taskkill /F /IM discord.exe** and press the**Enter** key.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/dis.jpg)
 
 3) Launch Discord again. It should be open normally.
@@ -55,9 +52,6 @@ When you double-click Discord but the program won’t open, it could be very fru
 
  2) Then click**Time & Language** .
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/time.jpg)
 
  3) In the right pane, turn on the button under**Set time automatically** .
@@ -73,15 +67,9 @@ If it doesn’t work, move to the next fix.
 
  1) Find and right-click on the Discord icon on your Windows Taskbar. Sometimes it’s hidden, just click the “**Show hidden icons** ”. Then click **Quit Discord** .
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8ce9bd5912.png)
 
  2) On your desktop, right-click on the **Discord shortcut icon** and select **Run as administrator** .  
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8ced2e031f.png)
 
  3) Click **Yes**  when prompted by User Account Control.  
@@ -99,9 +87,6 @@ If it doesn’t work, move to the next fix.
 
 3) Restart Discord. It should open.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ### Fix 5: Disable your proxies
 
  If you’re using proxies while running Discord and have this problem, you need to disable your proxies.  
@@ -113,23 +98,14 @@ If it doesn’t work, move to the next fix.
 
  2) Set Control Panel**View by Category** and click**Network and Internet** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/proxy-1.jpg)
 
  3) Click**Internet Options** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/p1.jpg)
 
  4) In the**Connections** tab, click**Lan Settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/p2.jpg)
 
  5) Uncheck**Use a proxy server for your LAN** . Then click OK to save the changes.
@@ -153,16 +129,10 @@ If it doesn’t work, move to the next fix.
 
 **ipconfig /flushdns**
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![ipconfig flushdns](https://images.drivereasy.com/wp-content/uploads/2018/10/ipconfig-flushdns.jpg)
 
 5) Launch the Discord again. It should open.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 7: Reinstall the Discord
 
  If the above fixes don’t work, you can reinstall Discord to see whether it works. Uninstall and reinstall Discord could simply rewrite data files. The error code may be fixed by this fix.
@@ -179,9 +149,6 @@ If it doesn’t work, move to the next fix.
 
  4) Download and install[Discord](https://discordapp.com/) from the official website. Then run Discord again.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Bonus: Update your driver
 
  To prevent your computer system and the Discord from potential problems, it’s highly recommended to update your drivers regularly.
@@ -213,9 +180,6 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -234,8 +198,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -243,4 +205,24 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-fb-video-to-mp3-transform-your-shares-into-music-beats/"><u>[New] FB Video-to-MP3 Transform Your Shares Into Music Beats</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-best-budget-friendly-stopwatch-service/"><u>2024 Approved Best Budget-Friendly Stopwatch Service</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-elevating-your-contents-presence-perfecting-youtube-thumbnails-size/"><u>2024 Approved Elevating Your Content's Presence Perfecting YouTube Thumbnails Size</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-nubia-red-magic-8s-pro-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Nubia Red Magic 8S Pro? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/decode-the-mystery-behind-persistent-crashes-of-fireteam-elite-on-personal-computers/"><u>Decode the Mystery Behind Persistent Crashes of 'Fireteam Elite' On Personal Computers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guide-eliminate-football-manager-2020-system-errors-and-enhance-performance/"><u>Guide: Eliminate Football Manager 2020 System Errors & Enhance Performance</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-troubleshooters-not-working-in-windows-11-and-11/"><u>How to Fix the Troubleshooters Not Working in Windows 11 & 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723009285824-instant-relief-from-frequent-applet-freezes-and-crashes/"><u>Instant Relief From Frequent Applet Freezes and Crashes!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-the-art-of-smooth-gameplay-strategies-for-tackling-fps-drops-on-a-computer-system/"><u>Master the Art of Smooth Gameplay: Strategies for Tackling FPS Drops on a Computer System</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimizing-your-xbox-experience-overcoming-netflix-playback-interruptions/"><u>Optimizing Your Xbox Experience: Overcoming Netflix Playback Interruptions</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/quick-language-leap-with-10-minute-method/"><u>Quick Language Leap with 10-Minute Method</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-fires-of-rubicons-performance-issues-on-pc/"><u>Solving Fires of Rubicon's Performance Issues on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-end-of-the-line-for-diablo-immortal-launch-on-windows-and-mac-computers/"><u>The End of the Line for Diablo Immortal Launch on Windows and Mac Computers</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-what-to-do-when-your-computer-mouse-keeps-dropping-out/"><u>Troubleshooting: What to Do When Your Computer Mouse Keeps Dropping Out?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/warzone-guide-resolving-dev-error-6634-quickly-2022-strategies/"><u>Warzone Guide: Resolving Dev Error 6634 Quickly (2022 Strategies)</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-oneplus-11r-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For OnePlus 11R? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Vivo V27e | Dr.fone</u></a></li>
+</ul></div>
 

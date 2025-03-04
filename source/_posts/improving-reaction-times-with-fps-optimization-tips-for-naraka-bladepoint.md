@@ -1,7 +1,7 @@
 ---
 title: "Improving Reaction Times with FPS Optimization Tips for Naraka: Bladepoint"
-date: 2025-02-10T03:19:20.982Z
-updated: 2025-02-15T02:34:00.778Z
+date: 2025-03-03T16:02:31.187Z
+updated: 2025-03-04T16:05:44.072Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/1cd4d8b30d4bc3438d0d666b54184cb335ed999f5
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes…
 
@@ -71,10 +67,6 @@ thumbnail: https://thmb.techidaily.com/1cd4d8b30d4bc3438d0d666b54184cb335ed999f5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-04-25_17-41-30.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If this doesn’t solve your problem, try the next fix.
 
 ## Fix 2: Update your graphics driver
@@ -97,10 +89,6 @@ If this doesn’t solve your problem, try the next fix.
 
  Restart your PC for the new driver to take effect. If your game still crashes after you updated the graphics driver, try the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 3: Verify your game files
 
  If any of the game files of Naraka: Bladepoint on your PC are missing or corrupted, the game can crash at any point during the gameplay. You can use the game launcher to verify the integrity of your game files. Here’s how:
@@ -110,10 +98,6 @@ If this doesn’t solve your problem, try the next fix.
 1. Open your Steam library and find Naraka: Bladepoint. Right-click the game then click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/Steam-right-click-Properties-2.jpg)
 2. Under the**LOCAL FILES** tab, click**Verify integrity of game files** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/verify-game-files-1.jpg)
 3. Steam will scan your local game files and compare them with those on the servers. If anything seems to be wrong, Steam will automatically fix it for you.
@@ -139,10 +123,6 @@ If this doesn’t solve your problem, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
 ## Fix 5: Increase the virtual memory on your PC
@@ -162,10 +142,6 @@ If this doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/virtual-memory-change.jpg)
 5. Now you’ll see the paging file size on your PC.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-10_11-54-07.jpg)
 
 **To manually allocate paging file size** :
@@ -182,10 +158,6 @@ _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
 3. If you don’t know how much RAM you have, press the**Windows key** and**R** to invoke the Run box. Then type in**msinfo32** and click**OK** . You’ll find the information in the pop-up window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-msinfo32.jpg)
 4. Calculate and fill in the**Initial size and Maximum size** , click**Set** then click**OK** . For example, I have 8 GB RAM, so my initial size would be 8\*1024\*1.5=12,288 MB, and my maximum size would be 8\*1024\*3=24576 MB  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/custom-size.jpg)
 5. Restart your PC to let the changes take effect.
@@ -204,18 +176,10 @@ If your game still crashes, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/up-to-date.png)
 3. If there are available updates, Windows will automatically download them for you. Follow instructions to complete the installation if needed.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/windows-update.jpg)
 4. Restart your PC to let it take effect.
 
 If this doesn’t solve your problem, try the last fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 7: Perform a clean boot
 
@@ -238,10 +202,6 @@ If this doesn’t solve your problem, try the last fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-48-33.jpg)
 5. Restart your PC.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If Naraka: Bladepoint doesn’t crash anymore, this means at least one of the programs you disabled was causing the problem.  
   
@@ -299,18 +259,24 @@ If this doesn’t solve your problem, try the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-engaging-with-notable-figures-on-snapchat-for-2024/"><u>[New] Engaging with Notable Figures on Snapchat for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/get-your-pcs-minecraft-back-to-playing-smoothly-fix-common-freeze-problems-today/"><u>Get Your PC's Minecraft Back to Playing Smoothly - Fix Common Freeze Problems Today!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-pci-hardware-drivers-here-supports-win-111087/"><u>Get Your PCI Hardware Drivers Here - Supports Win 11/10/8/7</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/guide-integrer-google-drive-a-lexplorateur-windowsmacos/"><u>Guide : Intégrer Google Drive À L’Explorateur Windows/MacOS</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-guide-to-silent-screen-time-view-unseen-stories-on-devices/"><u>In 2024, Guide to Silent Screen Time View Unseen Stories on Devices</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/march-2024s-ultimate-headset-offers-and-savings-check-out-the-latest-deals-on-zdnet/"><u>March 2024'S Ultimate Headset Offers & Savings - Check Out the Latest Deals on ZDNet</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-nokia-c02-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Nokia C02 Phone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-apps-and-online-tools-to-track-honor-x7b-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Honor X7b Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-continuous-crashes-in-stardew-valley-for-windows-and-mac-users/"><u>Troubleshooting Continuous Crashes in Stardew Valley for Windows and Mac Users</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-crashes-in-the-division-2-simple-steps-for-smooth-gaming/"><u>Troubleshooting Crashes in The Division 2 - Simple Steps for Smooth Gaming</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-why-is-my-obs-not-recording/"><u>Troubleshooting Guide: Why Is My OBS Not Recording?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/unlocking-advanced-features-enabling-gpeditmsc-on-your-windows-home-pc/"><u>Unlocking Advanced Features: Enabling gpedit.msc on Your Windows Home PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/why-your-pcs-frame-rate-drops-by-two-fps-explained/"><u>Why Your PC's Frame Rate Drops by Two FPS - Explained</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-unique-ways-to-document-your-console-games/"><u>[New] 2024 Approved Unique Ways to Document Your Console Games</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-make-your-mark-stand-out-with-youtube-studio-editing/"><u>[Updated] 2024 Approved Make Your Mark Stand Out with YouTube Studio Editing</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-seamless-navigation-to-your-individual-playlist-library-on-youtube/"><u>[Updated] 2024 Approved Seamless Navigation to Your Individual Playlist Library on YouTube</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-copycat-to-originalist-crafting-funny-relatable-memes/"><u>[Updated] From Copycat to Originalist Crafting Funny, Relatable Memes</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-samsung-galaxy-a05-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Samsung Galaxy A05 | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/comprehensive-walkthrough-no-more-crashes-enhancing-performance-of-horizon-zero-dawn-on-windowsmac/"><u>Comprehensive Walkthrough: No More Crashes - Enhancing Performance of Horizon Zero Dawn on Windows/Mac</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cyberpunk-2077-crashing-on-pc-solved/"><u>Cyberpunk 2077 Crashing on PC [SOLVED]</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/dynamic-backdrop-customization-in-teammate-windows-prepost-calls/"><u>Dynamic Backdrop Customization in Teammate Windows, Pre/Post Calls</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-solutions-for-the-notorious-game-crashes-of-lego-star-wars-on-pc-updated-guide/"><u>Effective Solutions for the Notorious Game Crashes of Lego Star Wars on PC - Updated Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ensure-uninterrupted-fun-overcome-maplestory-crashing-issues-on-windows-10-comprehensive-guide/"><u>Ensure Uninterrupted Fun: Overcome MapleStory Crashing Issues on Windows 10 - Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-apex-legends-wont-load-issues-fast-effective-solutions/"><u>Fix Apex Legends Won't Load Issues Fast – Effective Solutions!</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-poco-c65-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Poco C65 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-infinix-smart-8-hd-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Infinix Smart 8 HD</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-everspace-npc-version-from-crashing-solution-found/"><u>How To Stop Everspace nPC Version From Crashing (Solution Found)</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-nokia-c22-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Nokia C22 FRP</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-players-rejoice-as-deathloops-freezing-issues-get-resolved/"><u>PC Players Rejoice as Deathloop's Freezing Issues Get Resolved!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-to-prevent-game-crashes-in-code-vein/"><u>Troubleshooting Steps to Prevent Game Crashes in Code Vein</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-apple-m3-macbook-air-top-3-impressive-enhancements-revealed-in-our-in-depth-review-zdnet/"><u>Unveiling the Apple M3 MacBook Air: Top 3 Impressive Enhancements Revealed in Our In-Depth Review - ZDNet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723006923829-warzone-game-crash-with-error-0-1766-on-xboxpc-heres-the-fix/"><u>Warzone Game Crash with Error 0-1766 on Xbox/PC? Here's the Fix</u></a></li>
 </ul></div>
 

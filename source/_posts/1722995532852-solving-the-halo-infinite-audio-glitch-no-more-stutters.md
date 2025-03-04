@@ -1,7 +1,7 @@
 ---
 title: "Solving the Halo Infinite Audio Glitch: No More Stutters!"
-date: 2025-02-08T05:35:18.590Z
-updated: 2025-02-15T06:11:16.156Z
+date: 2025-02-26T16:00:52.829Z
+updated: 2025-03-04T16:09:55.166Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/5497305e7ede52ac11b29b1b9923a18c5f2da5c48
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -57,10 +53,6 @@ Here’s how:
 Once done, restart Halo Infinite and check if the issue persists.
 
 If this doesn’t stop the crash, take a look at the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Disable in-game overlays
 
@@ -97,10 +89,6 @@ Now check if you can play Halo Infinite normally.
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, restart your PC and check if Halo Infinite crashes again.
@@ -112,10 +100,6 @@ Now check if you can play Halo Infinite normally.
  According to some players, Halo Infinite doesn’t get along well with some hardware-monitoring tools. So you can check if your PC is running programs like**MSI Afterburner** and**Razer Synapse** . If you do, close them and check if that fixes the problem. Also, check if the game runs better without controllers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/afterburner.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 MSI Afterburner
 
@@ -129,10 +113,6 @@ MSI Afterburner
 2. On the left, select **LOCAL FILES** . Then click **Browse…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-fullscreen-files-1.jpg)
 3. Right click the**HaloInfinite** launcher and select**Property** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-fullscreen-files-2.jpg)
 4. In the pop-up window, check the box before**Disable fullscreen optimizations** . Next click**Change high DPI settings** .  
@@ -149,10 +129,6 @@ If this trick doesn’t give you luck, simply try the next one.
 ## Fix 6: Check for system updates
 
  Windows 10/11 offers system updates regularly, which usually improves system stability and sometimes in-game performance. Normally it’s an automated process, but you can also check to make sure you have all the patches:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### On Windows 10
 
@@ -174,15 +150,7 @@ If this trick doesn’t give you luck, simply try the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once you’ve installed all the system updates, restart your computer and test the gameplay.
 
@@ -198,10 +166,6 @@ Here’s how:
 2. In the left pane, select**DLC** . Uncheck the box before**Multiplayer High-Res Textures** . Then restart your game.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/Multiplayer-High-Res-Textures.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 8: Scan and repair Windows
 
  If none of the fixes above work for you, chances are you’re looking at a**system issue** . We all use our computers differently, it’s usually hard to tell what went wrong exactly. So before you reinstall Windows for this $60 game, you can try to scan your system with a professional repair tool.
@@ -214,10 +178,6 @@ Here’s how:
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -242,18 +202,22 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-voice-memos-inspectors-handbook/"><u>[Updated] 2024 Approved Voice Memos Inspector's Handbook</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-free-pics-with-exceptional-resolution-your-ultimate-guide/"><u>[Updated] Free Pics with Exceptional Resolution Your Ultimate Guide</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-from-novice-to-virtuoso-taking-control-with-screen-recordings-in-macos-for-2024/"><u>[Updated] From Novice to Virtuoso Taking Control with Screen Recordings in macOS for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-peak-level-illustration-tweaks/"><u>[Updated] Peak Level Illustration Tweaks</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-prime-net-selections-personalized-alarm-rhythm-files/"><u>[Updated] Prime Net Selections Personalized Alarm Rhythm Files</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-revel-in-reality-an-extensive-review-of-lgs-high-fidelity-monitor-31mu97-b/"><u>[Updated] Revel in Reality - An Extensive Review of LG's High-Fidelity Monitor, 31MU97-B</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-advice-eliminating-stability-issues-with-spellbreak-on-windows-and-macs/"><u>Expert Advice: Eliminating Stability Issues with Spellbreak on Windows & Macs</u></a></li>
-<li><a href="https://win-answers.techidaily.com/grounded-system-failures-on-computers-effective-fixes-and-insights/"><u>Grounded System Failures on Computers: Effective Fixes and Insights</u></a></li>
-<li><a href="https://win-answers.techidaily.com/guide-to-repairing-launch-failures-for-fighting-game-fans-tekken-er/"><u>Guide to Repairing Launch Failures for Fighting Game Fans – 'Tekken Er</u></a></li>
-<li><a href="https://win-answers.techidaily.com/remnant-from-the-ashes-solving-recurrent-game-crash-problems/"><u>Remnant: From the Ashes – Solving Recurrent Game Crash Problems</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/seamless-iphone-to-iphone-music-transfer-discover-7-effective-techniques/"><u>Seamless iPhone-to-iPhone Music Transfer: Discover 7 Effective Techniques</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-helldivers-ii-how-to-repair-a-black-screen-at-start-up/"><u>Solving Helldivers II: How to Repair a Black Screen at Start-Up</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-essential-drone-motors-guide-for-optimal-flight/"><u>[New] 2024 Approved Essential Drone Motors Guide for Optimal Flight</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-strategic-mastery-pinpointing-top-7-total-war-battles-for-2024/"><u>[Updated] Strategic Mastery Pinpointing Top 7 Total War Battles for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-great-income-clash-dailymovement-vs-youtube-economic-strategies/"><u>[Updated] The Great Income Clash DailyMovement Vs YouTube Economic Strategies</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/accelerate-computer-speed-by-clearing-cache-and-unnecessary-files-expert-tips-from-yl-software-professionals/"><u>Accelerate Computer Speed by Clearing Cache & Unnecessary Files – Expert Tips From YL Software Professionals</u></a></li>
+<li><a href="https://win-answers.techidaily.com/addressed-problem-restoring-audio-during-your-twitch-live-session/"><u>Addressed Problem: Restoring Audio During Your Twitch Live Session</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-honor-x8b-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Honor X8b.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/home-ev-charging-essentials-a-complete-guide/"><u>Home EV Charging Essentials: A Complete Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-repair-your-camera-issues-on-google-meet-solution-provided/"><u>How to Repair Your Camera Issues on Google Meet (Solution Provided)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-the-future-of-work-and-wealth-with-ai-understanding-the-impact-of-emojis-ai-like-chatgpt-and-recent-cybersecurity-incidents-in-gaming-industry/"><u>Navigating the Future of Work and Wealth with AI: Understanding the Impact of Emojis, AI Like ChatGPT & Recent Cybersecurity Incidents in Gaming Industry</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solve-lag-and-improve-your-gameplay-in-bless-unleashed-for-pc-players/"><u>Solve Lag and Improve Your Gameplay in Bless Unleashed for PC Players</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-reverse-winerror-exit-point-failure/"><u>Steps to Reverse WinError Exit Point Failure</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-never-ending-loop-the-secret-behind-continual-success-amongst-african-americans/"><u>The Never-Ending Loop: The Secret Behind Continual Success Amongst African Americans</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-and-fixes-for-mysterious-pc-shutdowns/"><u>Troubleshooting and Fixes for Mysterious PC Shutdowns</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-connection-errors-for-granblue-fantasy-pc-players/"><u>Troubleshooting Connection Errors for Granblue Fantasy PC Players</u></a></li>
+<li><a href="https://win-answers.techidaily.com/understanding-and-resolving-the-persistent-bug-that-causes-the-ascent-app-to-fail-on-desktops/"><u>Understanding And Resolving The Persistent Bug That Causes The Ascent App to Fail on Desktops</u></a></li>
+<li><a href="https://win-answers.techidaily.com/wrc-10-pc-version-stability-fixed-now-running-smoothly/"><u>WRC 10 PC Version Stability Fixed: Now Running Smoothly!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/your-go-to-guide-for-micromobility-significant-milestnones-fresh-information-rumors-and-comprehensive-coverage/"><u>Your Go-To Guide for Micromobility: Significant Milestnones, Fresh Information, Rumors & Comprehensive Coverage</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting YouTube Videos: How to Restore Playback Sync Between Visuals and Sound on Browsers"
-date: 2025-02-13T05:18:36.343Z
-updated: 2025-02-15T00:41:46.414Z
+date: 2025-03-03T16:10:39.786Z
+updated: 2025-03-04T16:09:07.444Z
 tags:
   - win11
   - win10
@@ -63,10 +63,6 @@ Here’s how you can do this:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 2: Run the launcher as an administrator
 
  Many issues can be fixed by running the program as an administrator. So for the black screen when opening Epic Games Launcher issue, you can try this too. To do this, you can:
@@ -90,10 +86,6 @@ Here’s how you can do this:
 [NVIDIA](https://tools.techidaily.com/drivereasy/download/) ,[AMD](https://www.amd.com/en/support) , and[Intel](https://downloadcenter.intel.com/product/80939/Graphics-Drivers) keep updating drivers. To get them, you need to go to the official websites, find the drivers corresponding with your specific flavor of Windows version (for example, Windows 32-bit) and download the drivers manually.
 
  Once you’ve downloaded the correct drivers for your system, double-click on the downloaded file and follow the on-screen instructions to install the drivers.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Option 2 – Automatically update your graphics driver** (recommended)
 
@@ -168,10 +160,6 @@ Here’s how you can do this:
 
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-6-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  8) Check the box **Error message saying the problem needs to run in 256 colors or 8-bit color mode** . Then click**Next** .
 
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-10.png)
@@ -180,17 +168,9 @@ Here’s how you can do this:
 
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-8.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  10) Click**Test the program…** \>**Next** .
 
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-11-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  11) Click**Yes, save these settings for this program** .
 
@@ -212,17 +192,9 @@ Here’s how you can do this:
 
 ![allow the launcher through the firewall Epic Games Launcher](https://images.drivereasy.com/wp-content/uploads/2020/09/firewall-and-network-protection.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Scroll down and click**Allow an app through firewall** .
 
 ![allow the launcher through the firewall Epic Games Launcher](https://images.drivereasy.com/wp-content/uploads/2020/09/firewall-and-network-protection-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Go through the list and check if**Epic Games Launcher** is added to it.
 
@@ -246,10 +218,6 @@ Here’s how you can do this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/network-and-internet.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Network and Sharing Center** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/network-and-internet-2.png)
@@ -258,10 +226,6 @@ Here’s how you can do this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/network-and-internet-3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/network-and-internet-4.png)
@@ -269,10 +233,6 @@ Here’s how you can do this:
  6) Click**Internet Protocol Version 4 (TCP /IPv4)** **\> Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/network-and-internet-5.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  7) Click**Use the following DNS server addresses:** .  
  In**Preferred DNS server:** section, type**8888** .  
@@ -358,15 +318,19 @@ Below is the VPN we would like to recommend:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-maximizing-your-income-potential-on-instagram/"><u>[New] Maximizing Your Income Potential on Instagram</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/op-10-historical-youtube-hubs-essential-viewing-for-students-and-enthusiasts/"><u>[New] Top 10 Historical YouTube Hubs Essential Viewing For Students & Enthusiasts</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-unveiling-facebooks-secrets-30-insider-tricks-for-growth/"><u>2024 Approved Unveiling Facebook's Secrets 30 Insider Tricks for Growth</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/a-closer-look-at-huawei-p10s-security-measures-for-2024/"><u>A Closer Look at Huawei P10’s Security Measures for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-on-quick-and-effective-mp2-to-mp3-file-transformation/"><u>Step-by-Step Guide on Quick and Effective MP2 to MP3 File Transformation</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-playing-dv-video-files-on-pcs-and-macs/"><u>Step-by-Step Guide: Playing .DV Video Files on PCs & Macs</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-tutorial-on-how-to-extract-content-from-dvds-via-the-best-web-based-dvd-unpackers/"><u>Step-by-Step Tutorial on How to Extract Content From DVDs via the Best Web-Based DVD Unpackers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-tutorial-integrating-the-enhanced-sg-wizard-addon-into-your-kodi-for-premium-leia-setups/"><u>Step-by-Step Tutorial: Integrating the Enhanced SG Wizard Addon Into Your Kodi for Premium Leia Setups</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/the-comprehensive-handbook-for-japanese-language-study/"><u>The Comprehensive Handbook for Japanese Language Study</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-honor-magic-5-lite-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Honor Magic 5 Lite Phones</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-beatback-bungalow-recordings-downloads-and-reviews/"><u>[Updated] 2024 Approved Beatback Bungalow Recordings Downloads & Reviews</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-unlock-youtubes-monetizing-potential-with-strategic-short-videos/"><u>[Updated] 2024 Approved Unlock YouTube's Monetizing Potential with Strategic Short Videos</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-leading-windows-call-platforms-7-1-ranked/"><u>[Updated] Leading Windows Call Platforms #7-#1 Ranked</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-making-avatar-creation-a-breeze-in-the-digital-realm-for-2024/"><u>[Updated] Making Avatar Creation a Breeze in the Digital Realm for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/boosting-dota-2-playability-solving-fps-drops-across-the-latest-windows-operating-systems/"><u>Boosting Dota 2 Playability: Solving FPS Drops Across the Latest Windows Operating Systems</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-nubia-red-magic-8s-pro-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Nubia Red Magic 8S Pro Data? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-streamline-your-video-workflows-selecting-the-best-players/"><u>In 2024, Streamline Your Video Workflows Selecting the Best Players</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pictureweaver-2021-seamless-photo-video-mix/"><u>PictureWeaver 2021 Seamless Photo-Video Mix</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-pc-issues-a-comprehensive-guide-to-repairing-gray-zone-warfare-application-failures/"><u>Resolving PC Issues: A Comprehensive Guide to Repairing Gray Zone Warfare Application Failures</u></a></li>
+<li><a href="https://win-community.techidaily.com/tech-giant-microsoft-boosts-employee-collaboration-through-enhanced-teams-features-unveiled-on-zdnet/"><u>Tech Giant Microsoft Boosts Employee Collaboration Through Enhanced Teams Features, Unveiled on ZDNet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-ultimate-guide-to-debugging-rust-kernel-crashes-for-smoother-operation/"><u>The Ultimate Guide to Debugging Rust Kernel Crashes for Smoother Operation</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-and-resolving-pc-crashes-in-cyberpunk-2/"><u>Troubleshooting and Resolving PC Crashes in Cyberpunk 2</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steamvr-efficient-methods-to-restore-functionality/"><u>Troubleshooting SteamVR - Efficient Methods to Restore Functionality</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/troubleshooting-how-to-stop-your-sd-card-from-auto-deleting-files/"><u>Troubleshooting: How to Stop Your SD Card From Auto-Deleting Files</u></a></li>
 </ul></div>
 

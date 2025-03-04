@@ -1,7 +1,7 @@
 ---
 title: "Overcoming FPS Drops in Counter-Strike 2: Essential Tweaks for a Smooth PC Gaming Experience"
-date: 2025-02-10T23:34:19.177Z
-updated: 2025-02-14T22:46:11.115Z
+date: 2025-02-27T16:10:45.525Z
+updated: 2025-03-04T16:09:53.664Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/e9e9b7ca60047014bff6bb18f8c482a86a228fe45
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -54,10 +50,6 @@ modem
 wireless router
 
  Now check if the error goes away. If not, take a look at the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2 – Update your graphics driver
 
@@ -89,22 +81,10 @@ wireless router
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11.jpg)
 3. Click the**Game Settings** tab. Then tick**Additional command line arguments** and enter**\-D3D11** in the text field.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/12.jpg)
 4. Click**Done** to confirm.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Restart Warzone for the changes to take effect. See if you could get rid of the 6328 error now. If the problem persists, there are a few more fixes to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4 – Increase virtual memory
 
@@ -119,10 +99,6 @@ wireless router
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-3-1.jpg)
 4. Untick**Automatically manage paging file size for all drives** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-4-1.jpg)
 5. Select**C drive** and check **Custom size** .  
@@ -151,10 +127,6 @@ wireless router
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings1.jpg)
 3. Scroll down to the Details & Textures section and set_Texture Resolution_ and_Texture Filter Anisotropic_ to**Normal** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings2.jpg)
 
  Save the changes and restart Warzone to test. Then the game should be running perfectly without the 6328 error code.
@@ -181,24 +153,24 @@ wireless router
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-discover-the-best-6-apps-to-supercharge-your-instagram-reels-for-2024/"><u>[New] Discover the Best 6 Apps to Supercharge Your Instagram Reels for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-ideal-ps2-emulation-software-for-ios-users/"><u>[New] Ideal PS2 Emulation Software for IOS Users</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-maximize-visual-impact-on-youtube-adding-watermarks-and-logo-to-media-content/"><u>[Updated] Maximize Visual Impact on YouTube Adding Watermarks & Logo to Media Content</u></a></li>
-<li><a href="https://win-answers.techidaily.com/disco-elysium-pc-crashes-diagnosis-and-resolution-for-smooth-gaming/"><u>Disco Elysium PC Crashes – Diagnosis and Resolution for Smooth Gaming</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-best-spots-online-to-get-music-without-paying-a-dime-15-picks/"><u>Discover the Best Spots Online to Get Music Without Paying a Dime: 15 Picks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expert-techniques-for-in-depth-analysis-harnessing-the-power-of-diskusage-on-windows/"><u>Expert Techniques for In-Depth Analysis: Harnessing the Power of DiskUsage on Windows</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fallout-s-forgotten-soundtrack-how-to-troubleshoot-and-fix-no-sound-problems-on-pc/"><u>Fallout S Forgotten Soundtrack: How to Troubleshoot and Fix No Sound Problems on PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722991495163-fast-and-simple-fixes-to-solve-your-origin-app-crash-woes/"><u>Fast & Simple Fixes to Solve Your 'Origin' App Crash Woes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-startup-glitch-in-pandora-avatar-game-series/"><u>Fixing the Startup Glitch in 'Pandora - Avatar Game Series'</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723011703577-get-the-edge-in-gaming-tackle-and-fix-frame-rate-dips-stop-stuttering-for-maximum-playtime-efficiency/"><u>Get the Edge in Gaming: Tackle and Fix Frame Rate Dips, Stop Stuttering for Maximum Playtime Efficiency</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-do-evs-fare-against-severe-cold-or-scorching-heat/"><u>How Do EVs Fare Against Severe Cold or Scorching Heat?</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-resolve-realme-narzo-60-pro-5g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Realme Narzo 60 Pro 5G Screen Not Working | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Realme C33 2023? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-dism-for-win11-image-fixes/"><u>Mastering DISM for Win11 Image Fixes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/no-more-crashes-the-ultimate-solution-for-baldurs-gate-iii-on-your-pc/"><u>No More Crashes: The Ultimate Solution for Baldur's Gate III on Your PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/pc-launch-alert-get-ready-to-play-god-of-war-in-a-thrilling-fps-format/"><u>PC Launch Alert! Get Ready to Play God of War in a Thrilling FPS Format</u></a></li>
-<li><a href="https://driver-download.techidaily.com/quick-and-easy-driver-installation-guide-for-your-lenovo-t430-on-windows-11-8-or-7-systems/"><u>Quick & Easy Driver Installation Guide for Your Lenovo T430 on Windows 11, 8 or 7 Systems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-tips-and-tricks-for-preventing-alan-wake-2-crashes-this-year/"><u>Top Tips & Tricks for Preventing Alan Wake ^[2] Crashes This Year</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-fixing-the-issue-of-steamvr-error-308/"><u>Troubleshooting Guide: Fixing the Issue of SteamVR Error 308</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-hasty-habits-presentation-file-recording/"><u>[New] 2024 Approved Hasty Habits Presentation File Recording</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-unlocking-av1-encoding-insights/"><u>[New] In 2024, Unlocking AV1 Encoding Insights</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-in-depth-gopro-hero5-testing-report/"><u>[Updated] In 2024, In-Depth GoPro Hero5 Testing Report</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-harmonizing-iphone-with-the-world-of-podcasts/"><u>2024 Approved Harmonizing iPhone with the World of Podcasts</u></a></li>
+<li><a href="https://win-latest.techidaily.com/windows-10-os-3/"><u>如何在Windows 10 OS更新後回復丟失的文件 - 3道技術秘訣！</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-realme-11x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Realme 11X 5G | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-enhance-your-website-with-powerful-tracking-technology/"><u>Cookiebot: Enhance Your Website with Powerful Tracking Technology</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cyberpunk-2077-enhancements-unveiled-dramatic-increase-in-frames-per-second-achieved-with-new-patches/"><u>Cyberpunk 2077 Enhancements Unveiled: Dramatic Increase in Frames Per Second Achieved with New Patches</u></a></li>
+<li><a href="https://facebook.techidaily.com/discretion-in-digital-conceal-your-social-favors/"><u>Discretion in Digital: Conceal Your Social Favors</u></a></li>
+<li><a href="https://win-answers.techidaily.com/download-latest-logitech-gaming-mouse-software-update-installed/"><u>Download Latest Logitech Gaming Mouse Software - Update Installed</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-on-preventing-evermore-odyssey-2-from-crashing-on-your-pc/"><u>Expert Advice on Preventing Evermore Odyssey 2 From Crashing on Your PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-long-loading-issues-in-star-wars-battlefront-ii-for-pc-gamers/"><u>Fixing Long Loading Issues in Star Wars: Battlefront II for PC Gamers</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/free-guide-converting-bulk-heic-images-to-jpg-format-on-mac-and-windows/"><u>Free Guide: Converting Bulk HEIC Images to JPG Format on Mac and Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-prevent-and-repair-frequent-gray-zone-warfare-gzw-disruptions-in-pc-games/"><u>How to Prevent and Repair Frequent Gray Zone Warfare (GZW) Disruptions in PC Games</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-unleashing-media-prime-video-players-on-windows-mobile/"><u>In 2024, Unleashing Media Prime Video Players on Windows Mobile</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-fixing-the-constant-crashes-of-final-fantasy-xiv-on-pc/"><u>Troubleshooting Guide: Fixing the Constant Crashes of Final Fantasy XIV on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-fixing-star-citizens-incompatibility-with-windows-systems/"><u>Troubleshooting Tips: Fixing Star Citizen's Incompatibility with Windows Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-resolving-valorants-launch-issues-on-your-pc/"><u>Ultimate Guide: Resolving Valorant's Launch Issues on Your PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/what-are-the-three-main-types-of-soil-properties/"><u>What Are the Three Main Types of Soil Properties?</u></a></li>
 </ul></div>
 

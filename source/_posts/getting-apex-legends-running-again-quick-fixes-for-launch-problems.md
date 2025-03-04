@@ -1,7 +1,7 @@
 ---
 title: "Getting Apex Legends Running Again: Quick Fixes for Launch Problems"
-date: 2024-08-19T00:50:20.997Z
-updated: 2024-08-20T00:50:20.997Z
+date: 2025-02-24T19:28:29.985Z
+updated: 2025-03-04T12:58:30.802Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/a6435a313e4469213bebd5ae38a7530a7b0364be0
 
  The**error: connection to server timed out (code: leaf)** on Apex Legends is an old one, and it’s supposed to be fixed ages ago. But many players are still reporting getting it all the time. In this post, we’ll go through some working fixes step by step, so make sure you check them out below!
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes…
 
  You don’t have to try them all; just work your way down the list until you find the one that does the trick!
@@ -36,9 +33,6 @@ thumbnail: https://thmb.techidaily.com/a6435a313e4469213bebd5ae38a7530a7b0364be0
 
 [5: Switch to another server](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 1: Check your Internet connection
 
  The first thing you can do is to make sure your Internet connection is valid and able to connect to Apex Legends servers. A few things you can look for to check your Internet connection go as below:
@@ -50,9 +44,6 @@ thumbnail: https://thmb.techidaily.com/a6435a313e4469213bebd5ae38a7530a7b0364be0
 
  If your Internet connection is valid but you still don’t get response from the Apex Legends servers, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 2: Install all the game updates
 
  This one may seem obvious, but it did help some players to solve the error code leaf when they try to join a match on Apex Legends, so you may want to make sure your game is updated all the time.
@@ -66,19 +57,10 @@ thumbnail: https://thmb.techidaily.com/a6435a313e4469213bebd5ae38a7530a7b0364be0
  When you use your ISP’s (Internet Service Provider) default DNS server, some possible issues like crowded cache could cause the server connection failure. What you can do is switching to a public DNS server to solve the problem. We’ll use the Google DNS server as an example. Here’s how:
 
 1. On your taskbar, right-click the**network icon** , then click**Open Network & Internet settings** .  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/open-network-settings.png)
 2. Click**Change adapter options** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
@@ -87,9 +69,6 @@ thumbnail: https://thmb.techidaily.com/a6435a313e4469213bebd5ae38a7530a7b0364be0
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
  If changing to a public DNS server doesn’t connect your game to the server, try the last fix.
@@ -112,9 +91,6 @@ thumbnail: https://thmb.techidaily.com/a6435a313e4469213bebd5ae38a7530a7b0364be0
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. I’m using a graphics driver as an example here, since updating your graphics driver could solve many game issues (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
   
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
 
 ## Fix 5: Switch to another server
@@ -143,8 +119,6 @@ thumbnail: https://thmb.techidaily.com/a6435a313e4469213bebd5ae38a7530a7b0364be0
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -152,4 +126,20 @@ thumbnail: https://thmb.techidaily.com/a6435a313e4469213bebd5ae38a7530a7b0364be0
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ed-exclusive-movies-behind-the-best-chart/"><u>[Updated] Exclusive Movies Behind the Best Chart</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-highly-ranked-drone-selections-for-gopro-videos-and-shoots/"><u>[Updated] Highly Ranked Drone Selections for GoPro Videos & Shoots</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-primewave-riders-most-fancied-and-binge-watched-originals-on-twitter/"><u>[Updated] In 2024, PrimeWave Riders Most Fancied & Binge-Watched Originals on Twitter</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1-troubleshooting-mp4-playback-issues-in-windows-a-guide-with-effective-solutions/"><u>1. Troubleshooting MP4 Playback Issues in Windows: A Guide with Effective Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/addressing-the-problem-how-to-prevent-recurring-crashes-in-minecraft-dungeon-gameplay-on-windows-and-mac-systems/"><u>Addressing the Problem: How to Prevent Recurring Crashes in Minecraft Dungeon Gameplay on Windows and Mac Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/crashless-gaming-bliss-with-the-revised-bioshock-2-remaster-edition/"><u>Crashless Gaming Bliss with the Revised BioShock 2 Remaster Edition</u></a></li>
+<li><a href="https://win-web.techidaily.com/expert-strategies-for-achieving-maximum-quality-in-4k-video-compression/"><u>Expert Strategies for Achieving Maximum Quality in 4K Video Compression</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722990763562-fix-the-issue-playing-robocop-rogue-city-failed-on-windows-solutions-inside/"><u>Fix the Issue! Playing RoboCop: Rogue City Failed on Windows - Solutions Inside!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-sony-xperia-5-v-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Sony Xperia 5 V Device</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722988687827-rewrite-each-fraction-with-the-common-denominator-of-20/"><u>Rewrite Each Fraction with the Common Denominator of 20:</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-mystery-of-error-0x803f8001-a-guide-for-fixing-minecraft-launcher-on-windows-11-and-10/"><u>Solving the Mystery of Error 0X803F8001: A Guide for Fixing Minecraft Launcher on Windows 11 & 10</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stop-r-type-final-2-from-crashing-best-practices-and-hacks-for-pc-gamers/"><u>Stop R-Type Final 2 From Crashing: Best Practices and Hacks for PC Gamers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/your-guide-to-choosing-iphonedesktop-converters-ranked-by-experts-8/"><u>Your Guide to Choosing iPhone/Desktop Converters Ranked by Experts #8</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "'It Takes Two': From Development to Premier - It's Here"
-date: 2024-08-19T00:57:03.246Z
-updated: 2024-08-20T00:57:03.246Z
+date: 2025-03-03T16:01:34.661Z
+updated: 2025-03-04T16:00:52.391Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/2058f819a1d231ffe8fa3c91a4af4cfd3ee338d92
 
 Lately, many players have been complaining about War Thunder low FPS after the new update. If you’re also troubled by this annoying problem, don’t worry. Read this guide to see how you can fix it easily & quickly!
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ## Fixes to try
 
  You may not try them all; simply work your way through the list until you find the one that does the trick.
@@ -31,9 +28,6 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 5. **[Adjust the in-game graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reinstall War Thunder](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 1 – Use dedicated GPU
 
  If you get a high-end graphics card for your PC but still sees the significant FPS drops in War Thunder, chances are that the dedicated GPU is not used, and you should manually select it to tackle the computer’s graphical needs. Here’s how:
@@ -42,16 +36,10 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 
 **1)** Right-click any empty space on the desktop and click**NVIDIA Control Panel** .
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-3-1.jpg)
 
 **2)** Click**3D settings** \>**Manage 3D settings** in the left pane.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-4.jpg)
 
 **3)** Select the**Program Settings** tab and select**War Thunder** from the drop-down list. Then, select**High performance NVIDIA processor** .
@@ -64,9 +52,6 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ### Fix 2 – Update your graphics driver
 
  The War Thunder low FPS issue is possibly caused by an outdated or a faulty graphics driver. To gain a smooth and optimal gaming experience, you should update your graphics driver on a regular basis.
@@ -97,9 +82,6 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/6-2-1.jpg)
 
  You can do it for free if you like, but it’s partly manual.
@@ -129,9 +111,6 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4 – Change your computer’s power plan
 
  Windows set your computer to the Balanced power plan by default. There’s no problem with this option, but if you constantly run into the decreased gaming performance like FPS drops, you should adjust the power settings.
@@ -152,9 +131,6 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5 – Adjust the in-game graphics settings
 
  High or ultra graphics settings sometimes won’t give you the visual effect as you want, but make the game perform worse, especially if your rig is barely above the minimum requirements. If so, the very solution is to lower the settings.
@@ -171,9 +147,6 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 6 – Reinstall War Thunder
 
  If none of the methods above helps you out, you should consider reinstalling the game in case there are some in-depth stubborn issues.
@@ -192,9 +165,6 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 
 **4)** On your keyboard, press the**Windows logo key** and**E** at the same time to open File Explorer. Then, Paste**C:\\Program Files (x86)\\Steam\\steamapps\\common** on the address bar and press**Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-6.jpg)
 
 **5)** Click the**War Thunder folder** and press**Delete** .
@@ -214,8 +184,6 @@ Lately, many players have been complaining about War Thunder low FPS after the n
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -223,4 +191,24 @@ Lately, many players have been complaining about War Thunder low FPS after the n
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/updated-step-by-step-approach-to-mastery-with-iphone-x-animoji-use-for-2024/"><u>[Updated] Step-by-Step Approach to Mastery with iPhone X Animoji Use for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-ultimate-guide-windows-movie-maker-downloading-for-2024/"><u>[Updated] Ultimate Guide Windows Movie Maker Downloading for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/arise-game-guide-fixing-notorious-errors-in-unreal-engine-4/"><u>Arise Game Guide: Fixing Notorious Errors in Unreal Engine 4</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/demystifying-duckduckgo-an-in-depth-look-at-its-safety-measures/"><u>Demystifying DuckDuckGo: An In-Depth Look at Its Safety Measures</u></a></li>
+<li><a href="https://win-answers.techidaily.com/diagnosing-and-correcting-persistent-freezing-issues-with-v-rising-on-pc/"><u>Diagnosing and Correcting Persistent Freezing Issues with V Rising on PC</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/hear-the-difference-mastering-instagram-voice-customizations-for-2024/"><u>Hear the Difference Mastering Instagram Voice Customizations for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-11-to-others-ios-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 11 To Others ios devices? | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-turning-snaps-into-cashflow/"><u>In 2024, Turning Snaps Into Cashflow</u></a></li>
+<li><a href="https://win-answers.techidaily.com/leguminous-plants-and-nitrogen-fixing-bacteria-form-a-mutualistic-relationship-where-the-bacteria-convert-atmospheric-nitroebgen-into-usable-forms-for-the-p502/"><u>Leguminous Plants and Nitrogen-Fixing Bacteria Form a Mutualistic Relationship Where the Bacteria Convert Atmospheric Nitroebgen Into Usable Forms for the Plant, Benefiting Both Organisms</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/maximizing-your-prime-day-savings-should-you-invest-in-an-amazon-fire-tablet/"><u>Maximizing Your Prime Day Savings: Should You Invest in an Amazon Fire Tablet?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-game-bugs-squashed-ultimate-guide-to-resolve-constant-freezes-in-your-favorite-titles/"><u>PC Game Bugs Squashed: Ultimate Guide to Resolve Constant Freezes in Your Favorite Titles</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solutions-for-continuous-valorant-game-crashes-on-windowsmac/"><u>Solutions for Continuous Valorant Game Crashes on Windows/Mac</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-halo-infinite-audio-glitches-for-an-immersive-gaming-experience/"><u>Solving the Halo Infinite Audio Glitches for an Immersive Gaming Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/speedy-fixes-for-overcoming-lag-issues-in-assassins-creed-valhalla/"><u>Speedy Fixes for Overcoming Lag Issues in Assassin's Creed: Valhalla</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-strategies-to-fix-your-city-skylines-game-from-continuous-crashing-2024-edition/"><u>Top Strategies to Fix Your City Skylines Game From Continuous Crashing - 2024 Edition</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-mac-video-maker-effortless-slideshow-creation-in-macos/"><u>Updated In 2024, Mac Video Maker Effortless Slideshow Creation in macOS</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/webcammastery-practicalrecordingsteps/"><u>WebCamMastery PracticalRecordingSteps</u></a></li>
+</ul></div>
 

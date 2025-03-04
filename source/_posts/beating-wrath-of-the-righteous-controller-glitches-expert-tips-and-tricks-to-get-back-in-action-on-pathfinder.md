@@ -1,7 +1,7 @@
 ---
 title: "Beating Wrath of the Righteous Controller Glitches: Expert Tips and Tricks to Get Back in Action on Pathfinder"
-date: 2024-08-19T00:54:12.433Z
-updated: 2024-08-20T00:54:12.433Z
+date: 2025-02-28T16:03:46.643Z
+updated: 2025-03-04T16:01:04.042Z
 tags:
   - win11
   - win10
@@ -15,16 +15,10 @@ thumbnail: https://thmb.techidaily.com/f96105d1405f7c845f75622429456df69e9791ebe
 
 ## Beating Wrath of the Righteous Controller Glitches: Expert Tips and Tricks to Get Back in Action on Pathfinder
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/Pathfinder-Wrath-of-the-Righteous-Free-Download-1.jpg)
 
  Pathfinder: Wrath of the Righteous has been the most hyped RPG game lately. But as a new release, it’s far from error-free. Many players have been reporting their**keyboard would randomly stop working in-game** . If you’re on the same boat, we’ve got a few working fixes for you.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes…
 
  You don’t have to try them all; just work your way down until you find the one that does the trick!
@@ -37,9 +31,6 @@ thumbnail: https://thmb.techidaily.com/f96105d1405f7c845f75622429456df69e9791ebe
 
 [4: Update your keyboard driver](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 1: Check for hardware issues
 
  When your keyboard stops working in-game, the first thing you can do is to rule out the possibility of a faulty device. Here are some general troubleshooting steps you can try:
@@ -61,31 +52,13 @@ If you didn’t find any hardware issues, try the next fix.
 
  You may also like:[How to fix wireless keyboard lag?](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 3: Delete Rewired\_DirectInput.dll file
 
  This fix was originally for solving the mouse-not-working problem, but some players found that it worked for keyboard issues too. The developers are working on the keyboard bug, and they suggest users to try this fix as a workaround. Here’s how:
 
 1. Open your Steam library and find Pathfinder: Wrath of the Righteous. Right-click the game and select**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/Steam-right-click-Properties.jpg)
 2. Under the**LOCAL FILES** tab, click**Browse** . It will open the local game folder for you.  
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/browse-local-files-in-steam-client.jpg)
 3. Navigate to**Wrath\_Data\\Plugins\\x86\_64** .
 4. **Make a copy of the Rewired\_DirectInput.dll file** , and save it at somewhere safe. There shouldn’t be any risk to delete this file, but backing up can always help if anything goes wrong.
@@ -129,8 +102,6 @@ If you didn’t find any hardware issues, try the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -138,4 +109,21 @@ If you didn’t find any hardware issues, try the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-a-complete-beginners-guide-to-tiktok-on-mac/"><u>[New] 2024 Approved A Complete Beginner's Guide to TikTok on Mac</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-harvesting-high-returns-ginger-valley-farming-tips/"><u>[New] Harvesting High Returns Ginger Valley Farming Tips</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-instant-tv-viewing-of-popular-facebook-feeds/"><u>[New] Instant TV Viewing of Popular Facebook Feeds</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-maximize-gameplay-efficiency-with-top-monitor-extensions-for-2024/"><u>[New] Maximize Gameplay Efficiency With Top Monitor Extensions for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-creative-clip-enhancement-gopros-leading-15-color-grading-tools/"><u>[Updated] 2024 Approved Creative Clip Enhancement GoPro's Leading 15 Color Grading Tools</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-capturing-life-on-a-macbook-air-the-comprehensive-guide-to-screen-recording/"><u>[Updated] Capturing Life on a MacBook Air The Comprehensive Guide to Screen Recording</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/complete-guide-to-retrieving-irretrievably-erased-iphone-notes/"><u>Complete Guide to Retrieving Irretrievably Erased iPhone Notes</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-xr-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone XR Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-launch-troubleshooting-how-to-successfully-boot-valorant-pc-version-updated-tips-for-202e/"><u>Mastering Launch Troubleshooting: How to Successfully Boot Valorant PC Version (Updated Tips for 202E)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/no-more-problems-starting-cod-black-ops-cold-war-on-your-computer-tips-and-tricks/"><u>No More Problems Starting COD: Black Ops Cold War on Your Computer - Tips & Tricks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/team-fortress-2-stability-overcoming-persistent-crash-issues-with-effective-fixes/"><u>Team Fortress 2 Stability: Overcoming Persistent Crash Issues with Effective Fixes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-the-penultimate-period-not-starting-on-desktop-systems/"><u>Troubleshooting Steps for the 'Penultimate Period' Not Starting on Desktop Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/why-hasnt-elden-ring-debuted-yet-insight-into-its-delayed-arrival/"><u>Why Hasn’t Elden Ring Debuted Yet? Insight Into Its Delayed Arrival</u></a></li>
+<li><a href="https://win-forum.techidaily.com/why-my-computer-keeps-freezing-and-how-to-fix-it-revouninstaller/"><u>Why My Computer Keeps Freezing and How to Fix It - RevoUninstaller</u></a></li>
+</ul></div>
 

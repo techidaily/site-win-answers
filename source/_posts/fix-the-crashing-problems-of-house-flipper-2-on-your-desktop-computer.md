@@ -1,7 +1,7 @@
 ---
 title: Fix the Crashing Problems of House Flipper 2 on Your Desktop Computer
-date: 2025-02-11T03:52:42.291Z
-updated: 2025-02-14T16:12:45.311Z
+date: 2025-02-28T16:09:40.132Z
+updated: 2025-03-04T16:08:45.116Z
 tags:
   - win11
   - win10
@@ -62,10 +62,6 @@ There are two ways for you to update your drivers:
 
  Option 2 – **[Automatically (Recommended](https://www.drivereasy.com/knowledge/fix-vrchat-crashing/#o2)**  ) – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Option 1: Update your graphics driver manually
 
  Graphics card manufacturers like NVIDIA and AMD keep releasing new drivers to fix bugs and improve performance, so you can always get the latest driver on their official website.
@@ -74,21 +70,9 @@ There are two ways for you to update your drivers:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/NVIDIA-driver-1.jpg)
 * [AMD Driver Downloads](https://www.amd.com/en/support)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/AMD-driver-downloads-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once you’ve downloaded the correct drivers for your system, double-click the downloaded file and follow the on-screen instructions to install the driver. After that, don’t forget to restart your computer for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 2: Update your graphics driver automatically
 
@@ -109,17 +93,9 @@ There are two ways for you to update your drivers:
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 4: Allow VRChat through firewalls
 
  VRChat crashing issue can also be caused by firewall blocking, so you need to allow your VRChat through Windows Firewall and any installed third-party antivirus applications.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Step 1: Add your VRChat through the firewall
 
@@ -128,20 +104,12 @@ There are two ways for you to update your drivers:
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/image-44.png)
 3. From the left navigation pane, click **Allow an app or feature through Windows Defender Firewall** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/image-46.png)
 4. Scroll down and check if **VRChat** is on the list.
 
 5. If not, click the **Change settings** button.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/image-47.png)
 6. Click **Allow another app…** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-allow-a-program-through-Windows-Firewall-4.jpg)
 7. Click **Browse…** and go to the installation folder for**VRChat** .  
@@ -169,10 +137,6 @@ There are two ways for you to update your drivers:
 
 1. On your Windows search bar, type **cmd** . Right-click Command Prompt from the results and select **Run as administrator** .  
 ![how to open Command Prompt as an admin](https://www.drivereasy.com/wp-content/uploads/2023/10/win11-Command-Prompt-Run-as-administrator.jpg)  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You’ll be prompted for permission. Click **Yes** to open the Command Prompt.
 2. Copy this command with**Ctrl + C** , and paste it into the cmd window by right-clicking in the window.  
@@ -232,18 +196,19 @@ To merge your Steam account with your VRChat account:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-2024-approved-pinnacle-bots-of-online-communities/"><u>[New] 2024 Approved Pinnacle Bots of Online Communities</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-ideal-5-safe-platforms-for-remote-work-in-startups/"><u>[New] In 2024, Ideal 5 Safe Platforms for Remote Work in Startups</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-crafting-the-perfect-soundscape-with-googles-ringtone/"><u>2024 Approved Crafting the Perfect Soundscape with Google's Ringtone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/addressing-frame-rate-drop-out-and-system-freezes-in-serious-sam-4-for-gaming-enthusiasts/"><u>Addressing Frame Rate Drop-Out & System Freezes in Serious Sam 4 for Gaming Enthusiasts</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-uniden-r3-radar-detector-review-quality-craftsmanship-and-extended-detection-capability/"><u>Comprehensive Uniden R3 Radar Detector Review: Quality Craftsmanship and Extended Detection Capability</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/eufy-t8200-video-doorbell-top-rated-for-its-no-subscription-convenience/"><u>Eufy T8200 Video Doorbell - Top Rated for Its 'No-Subscription' Convenience!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-reviews-by-tom-top-tier-computer-gear-insight/"><u>Expert Reviews by Tom - Top-Tier Computer Gear Insight</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-graphics-glitches-overcoming-the-errgfxstate-on-red-dead-redemption-2/"><u>Fixing Graphics Glitches: Overcoming the ERR_GFX_STATE on Red Dead Redemption 2</u></a></li>
-<li><a href="https://win-answers.techidaily.com/game-stability-improved-in-latest-patch-for-left-4-dead-2/"><u>Game Stability Improved in Latest Patch for Left 4 Dead 2</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-realme-c53-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Realme C53 Phones with/without a PC</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/professional-techniques-for-webcam-integration-and-capture-for-2024/"><u>Professional Techniques for WebCam Integration & Capture for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-code-red-step-by-step-guide-to-solve-warzones-dev-error-5573-on-pc-and-consoles/"><u>Resolving Code Red: Step-by-Step Guide to Solve Warzone's Dev Error 5573 on PC and Consoles</u></a></li>
-<li><a href="https://win-answers.techidaily.com/why-youre-not-experiencing-crashes-anymore-overwatch-and-your-updated-drivers/"><u>Why You're Not Experiencing Crashes Anymore - Overwatch and Your Updated Drivers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-boost-your-movie-magic-free-text-animation-basics/"><u>[Updated] Boost Your Movie Magic Free Text Animation Basics</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/demystifying-social-engagement-instagram-stories-surveys/"><u>Demystifying Social Engagement Instagram Stories Surveys</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-enhanced-performance-of-apples-latest-macbook-air-with-m3-processor-for-13-and-15-inch-sizes-detailed-review/"><u>Discover the Enhanced Performance of Apple's Latest MacBook Air with M3 Processor for 13- and 15-Inch Sizes | Detailed Review .</u></a></li>
+<li><a href="https://win-answers.techidaily.com/google-meet-webcam-troubles-heres-how-you-can-get-it-working-again/"><u>Google Meet Webcam Troubles? Here's How You Can Get It Working Again!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/hogwarts-legacy-2024-six-effective-remedies-for-smoother-playback/"><u>Hogwarts Legacy 2024: Six Effective Remedies for Smoother Playback</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-overcome-the-dark-display-problem-in-windowss-fortnite-game/"><u>How to Overcome the Dark Display Problem in Windows's Fortnite Game</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-capture-the-moment-idevice-screenshots-and-playback/"><u>In 2024, Capture the Moment IDevice Screenshots & Playback</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-creating-chuckles-with-gifs-a-meme-masterclass/"><u>In 2024, Creating Chuckles with GIFs A Meme Masterclass</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723003575699-minecraft-troubles-conquer-the-black-screen-glitch-with-these-expert-fixes-for-2every-gamer/"><u>Minecraft Troubles? Conquer the Black Screen Glitch with These Expert Fixes for 2eveRy Gamer!</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/seek-out-sites-that-connect-you-to-youtube-revenue-models/"><u>Seek Out Sites That Connect You to YouTube Revenue Models</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/streamline-coding-workflow-codegpt-in-vs-code/"><u>Streamline Coding Workflow: CodeGPT in VS Code</u></a></li>
+<li><a href="https://win-answers.techidaily.com/tackling-hurdles-on-the-path-of-human-advancement/"><u>Tackling Hurdles on the Path of Human Advancement</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-solving-geforce-experience-closure-due-to-error-messages/"><u>Troubleshooting: Solving GeForce Experience Closure Due to Error Messages</u></a></li>
 </ul></div>
 

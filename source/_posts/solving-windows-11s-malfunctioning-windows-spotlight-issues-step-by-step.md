@@ -1,7 +1,7 @@
 ---
 title: Solving Windows 11'S Malfunctioning Windows Spotlight Issues Step by Step
-date: 2025-02-08T01:50:38.809Z
-updated: 2025-02-15T07:16:40.029Z
+date: 2025-03-03T16:04:53.754Z
+updated: 2025-03-04T16:08:44.181Z
 tags:
   - win11
   - win10
@@ -33,10 +33,6 @@ After a long wait, the[new Hitman installment](https://www.epicgames.com/store/e
 5. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Check if it’s a server issue](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Verify the integrity of your game files
 
  The game not launching problem could mean that some game files are missing or corrupted. In either cases, you can simply run an integrity check to get your game working:
@@ -47,10 +43,6 @@ After a long wait, the[new Hitman installment](https://www.epicgames.com/store/e
 3. Select**Verify** from the drop-down list. Then wait for the checking to complete.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/hitman-3-verify-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Now you can try to launch Hitman 3 using the Epic Games launcher.
 
@@ -71,10 +63,6 @@ Here’s how:
 4. Navigate to the**Compatibility** tab. Under the**Settings** section, check the box next to**Run this program as an administrator** . Click**OK** to save the changes.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-games-launcher-run-as-admin-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Launch Hitman 3 from game folder
 
@@ -111,10 +99,6 @@ To do so, first visit the website of your GPU manufacturer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 After updating your GPU driver, you can check if Hitman 3 is working now.
@@ -137,19 +121,11 @@ Here’s how you can check for updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
  After getting all the system updates, restart your gaming rig and check if Hitman 3 works now.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Check if it’s a server issue
 
@@ -174,19 +150,17 @@ Here’s how you can check for updates manually:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-unleashing-clarity-with-eizos-coloredge-cg318-4k/"><u>[New] 2024 Approved Unleashing Clarity with EIZO's ColorEdge CG318-4K</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-imaginative-imagery-the-art-of-altered-text-presentation/"><u>[New] Imaginative Imagery The Art of Altered Text Presentation</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-navigating-instagrams-repost-policy/"><u>[Updated] In 2024, Navigating Instagram's Repost Policy</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-top-5-mac-video-tools-beyond-standard-bandicam/"><u>2024 Approved Top 5 Mac Video Tools Beyond Standard Bandicam</u></a></li>
-<li><a href="https://extra-information.techidaily.com/crafting-perfect-photo-collage-in-your-iphone-app/"><u>Crafting Perfect Photo Collage in Your iPhone App</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723003620051-fps-improvements-in-red-dead-redemption-2-overcoming-stuttering-issues-now-resolved/"><u>FPS Improvements in Red Dead Redemption 2: Overcoming Stuttering Issues - Now Resolved</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Vivo S17e | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-enhancing-gopro-footage-minimizing-motion-blur/"><u>In 2024, Enhancing GoPro Footage Minimizing Motion Blur</u></a></li>
-<li><a href="https://article-tips.techidaily.com/leading-8-tools-for-subtitle-srt-format-switching/"><u>Leading 8 Tools for Subtitle-SRT Format Switching</u></a></li>
-<li><a href="https://win-answers.techidaily.com/pc-gaming-made-easy-fix-stuttering-and-lag-in-bloodhunt-today/"><u>PC Gaming Made Easy: Fix Stuttering and Lag in Bloodhunt Today!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-issues-with-compiling-shaders-in-call-of-duty-black-ops-cold-war/"><u>Resolved: Issues with Compiling Shaders in Call of Duty Black Ops Cold War</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solve-control-panel-bugs-in-pathfinder-wrath-of-the-righteune-keyboard-and-gamepad-troubleshooting-tips/"><u>Solve Control Panel Bugs in Pathfinder: Wrath of the Righteune Keyboard and Gamepad Troubleshooting Tips</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-7-solutions-for-resolving-steams-dark-interface-issue/"><u>Top 7 Solutions for Resolving Steam's Dark Interface Issue</u></a></li>
-<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-xiaomi-redmi-note-12-pro-4g-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Xiaomi Redmi Note 12 Pro 4G on Windows?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-masterful-nintendo-switch-fighting-game-collection-max-156/"><u>[New] 2024 Approved Masterful Nintendo Switch Fighting Game Collection (Max 156)</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-embedding-youtube-playlists-step-by-step-guide/"><u>[Updated] Embedding YouTube Playlists Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-recording-success-with-top-software-choices/"><u>2024 Approved Recording Success with Top Software Choices</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-hardware-utilization-in-windows-11/"><u>Decoding Hardware Utilization in Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/defeating-fortnite-crash-errors-expert-tips-for-stable-gaming/"><u>Defeating Fortnite Crash Errors: Expert Tips for Stable Gaming</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-set-up-corsair-void-pro-drivers-on-windows-simple-steps/"><u>Download and Set Up Corsair Void Pro Drivers on Windows - Simple Steps</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-solutions-for-fixing-a-stagnant-qbittorrent-downloadupload-process/"><u>Effective Solutions for Fixing a Stagnant qBittorrent Download/Upload Process</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/effortless-photo-transformations-using-instagrams-green-screen-for-2024/"><u>Effortless Photo Transformations Using Instagram's Green Screen for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/o-preserve-your-favorite-tracks-from-youtube-safely-and-for-free-for-2024/"><u>How to Preserve Your Favorite Tracks From YouTube Safely & for Free for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-starfields-intensive-processing-challenge-effective-solutions-for-gamers/"><u>Overcoming Starfield's Intensive Processing Challenge - Effective Solutions for Gamers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-game-wont-launch-issues-by-validating-your-game-installation/"><u>Solving 'Game Won't Launch' Issues by Validating Your Game Installation</u></a></li>
+<li><a href="https://win-answers.techidaily.com/team-fortress-2-stability-enhancements-stop-the-unwanted-interruptions/"><u>Team Fortress 2 Stability Enhancements - Stop the Unwanted Interruptions</u></a></li>
 </ul></div>
 

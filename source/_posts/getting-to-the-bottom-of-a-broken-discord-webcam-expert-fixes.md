@@ -1,7 +1,7 @@
 ---
 title: Getting to the Bottom of a Broken Discord Webcam - Expert Fixes
-date: 2025-02-08T00:30:16.418Z
-updated: 2025-02-14T16:08:45.416Z
+date: 2025-02-25T16:01:25.808Z
+updated: 2025-03-04T16:04:25.987Z
 tags:
   - win11
   - win10
@@ -41,10 +41,6 @@ Discord is a popular chatting platform for gamers. If you have met your device c
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_9-57-31.jpg)
 2. Click**Camera** in the left panel.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Make sure the toggle under**Allow apps to access your camera** is on.
 4. Click the**Change** button, check the**Camera access for this device** is on.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-02-43.jpg)
@@ -52,10 +48,6 @@ Discord is a popular chatting platform for gamers. If you have met your device c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-16-38.jpg)
 6. Relaunch Discord and check if the camera is working fine or not.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Rearrange your USB device (USB camera only)
 
@@ -69,10 +61,6 @@ Here’s how…
 4. Only plug your camera into the USB port and check the issue is solved or not.
 
 If it doesn’t help, please move to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Close all the background app
 
@@ -118,10 +106,6 @@ OR
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5: Update your system
 
  The outdated operating system could be the reason for the camera not working problem, the new version may have a patch to fix bugs. So update your system may help you fix the problem.
@@ -137,10 +121,6 @@ OR
 
 If your camera is still not working on Discord, move to the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 6: Reinstall Discord
 
  Reinstall Discord is a useful common fix for issues. It’s because the corrupt installation of Discord or the outdated Discord version could be the reason for many problems, camera not working issue could be one of the problems.
@@ -150,20 +130,12 @@ If your camera is still not working on Discord, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app2.jpg)
 3. Find Discord and click to expand it. Click the**Uninstall** button.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-40-47.jpg)
 4. Follow the on-screen instructions to finish the process.
 
 5. Press the**Windows logo key + R** to open the Run box and type**%appdata%** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-42-04.jpg)
 6. Find the Discord folder and delete it.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-44-01.jpg)
 7. Open the Run box and type**%LocalAppData%** .  
@@ -198,17 +170,16 @@ If your camera is still not working on Discord, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-answers.techidaily.com/1726028514717-pcmdsd/"><u>「高解像度PCMフォーマットへの変換：DSD音源を最適化するための手引き」</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-giggles-galore-an-in-depth-look-at-the-goofy-film/"><u>2024 Approved 'Giggles Galore' – An In-Depth Look at The Goofy Film</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/behind-the-scenes-of-360-degree-media/"><u>Behind the Scenes of 360-Degree Media</u></a></li>
-<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-oppo-find-x6-pro-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Oppo Find X6 Pro via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://win-latest.techidaily.com/comment-recouvrer-votre-donnees-perdus-apres-une-suppression-sous-windows-11/"><u>Comment Recouvrer Votre Données Perdus Après Une Suppression Sous Windows 11?</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210367961-9781612834764-how-to-live-a-happily-ever-afterlife/"><u>How to Live a Happily Ever Afterlife | Free Book</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-everything-from-apple-iphone-xs-max-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Everything from Apple iPhone XS Max to iPhone 8/X/11 | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-cutting-edge-tips-for-figma-background-removal/"><u>In 2024, Cutting-Edge Tips for Figma Background Removal</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726029249642-pc/"><u>PCでジャニーズのライブストリーミング動画記録・保管方法</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlock-amazing-value-with-the-iphone-14-plus-exceptional-endurance-and-reasons-to-be-charmed/"><u>Unlock Amazing Value with the iPhone 14 Plus: Exceptional Endurance & Reasons to Be Charmed!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726028937589-youtube/"><u>YouTubeアップロード時のエラー解決法:動画が公開されない理由</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726030273131-audacity/"><u>プロ級の音楽編集: Audacity使いこく！: 最新テクニックとヒント</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-address-missing-watch-playback-symbol/"><u>[Updated] 2024 Approved Address Missing Watch Playback Symbol</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-master-the-art-of-installing-vrecorder/"><u>[Updated] 2024 Approved Master the Art of Installing VRecorder</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-comprehensively-exploring-best-options-for-online-photo-edits/"><u>[Updated] Comprehensively Exploring Best Options for Online Photo Edits</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/a-game-of-two-talents-mlb-the-show-19-blends-sports-realism-with-riveting-roleplaying-dynamics-our-review/"><u>A Game of Two Talents: MLB The Show 19 Blends Sports Realism with Riveting Roleplaying Dynamics – Our Review</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-error-gfx-state-in-red-dead-redemption-nobody-can-solve/"><u>How to Fix ERROR GFX STATE in Red Dead Redemption Nobody Can Solve?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723008442056-master-the-art-of-preventing-dota-2-crashes-with-these-pro-hacks/"><u>Master the Art of Preventing Dota 2 Crashes with These Pro Hacks!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-hogwarts-legacy-in-2nd4-the-definitive-list-of-6-stutter-fixes/"><u>Mastering Hogwarts Legacy in 2nD4: The Definitive List of 6 Stutter Fixes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/star-wars-battlefront-ii-resolved-lagging-issues-and-improved-performance/"><u>Star Wars Battlefront II - Resolved Lagging Issues and Improved Performance</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723006857084-the-long-awaited-fix-for-wolcen-lords-of-mayhem-is-here/"><u>The Long-Awaited Fix for Wolcen - Lords of Mayhem Is Here!</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-the-mp3-editors-playbook-simple-steps-for-improved-audio-output/"><u>Updated 2024 Approved The MP3 Editors Playbook Simple Steps for Improved Audio Output</u></a></li>
 </ul></div>
 

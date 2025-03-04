@@ -1,7 +1,7 @@
 ---
 title: "Expert Fixes for PC Freezing While Playing Call of Duty: Warzone - Tips for Gamers"
-date: 2024-08-19T00:49:30.435Z
-updated: 2024-08-20T00:49:30.435Z
+date: 2025-03-03T14:12:34.503Z
+updated: 2025-03-04T04:03:58.635Z
 tags:
   - win11
   - win10
@@ -46,9 +46,6 @@ wireless router
 
  Now check if the error goes away. If not, take a look at the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ### Fix 2 – Update your graphics driver
 
  An outdated or faulty graphics driver will also trigger Warzone dev error 6328\. If you can’t remember the last time you updated your device drivers, definitely do it now as this could make a big difference to your gaming experience.
@@ -76,9 +73,6 @@ wireless router
 
 1. Run the Blizzard Battle.net client.
 2. Select**Call of Duty: MW** on the left pane and click**Options > Game Settings** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11.jpg)
 3. Click the**Game Settings** tab. Then tick**Additional command line arguments** and enter**\-D3D11** in the text field.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/12.jpg)
@@ -86,47 +80,22 @@ wireless router
 
  Restart Warzone for the changes to take effect. See if you could get rid of the 6328 error now. If the problem persists, there are a few more fixes to try.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ### Fix 4 – Increase virtual memory
 
  Virtual memory serves as additional RAM when your computer gets low on memory. Increasing the virtual memory could be a helpful boost when you’re running resource-demanding applications like COD Warzone.
 
 1. Click the**Start** button and type**advanced system settings** in the Windows search bar. Then click**View advanced system settings** .  
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-1.jpg)
 2. Click**Settings** under the Performance section.  
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-2.jpg)
 3. Select the**Advanced** tab and click**Change** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-3-1.jpg)
 4. Untick**Automatically manage paging file size for all drives** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-4-1.jpg)
 5. Select**C drive** and check **Custom size** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-5-1.jpg)
 6. Enter the **initial size** and **maximum size** depending on the amount of RAM your PC has, and click **OK** .  
  Microsoft recommends you set the virtual memory no less than **1.5 times** and no more than **3 times** the amount of RAM on your computer. Here is a guide on [how to check RAM on your computer](https://tools.techidaily.com/drivereasy/download/) .  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-6-1.jpg)
 
 ### Fix 5 – Delete the game cache files
@@ -144,9 +113,6 @@ No advertising on the website.
 
 1. Launch CoD Warzone and access the**Options** menu.
 2. Navigate to the**Graphics** tab. Then set the_Display Mode_ to**Fullscreen Borderless** , and turn_Sync Every Frame (V-Sync)_ to**On (Enabled)** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings1.jpg)
 3. Scroll down to the Details & Textures section and set_Texture Resolution_ and_Texture Filter Anisotropic_ to**Normal** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings2.jpg)
@@ -166,8 +132,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -175,4 +139,22 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-full-examination-hero4-black-designs/"><u>[New] In 2024, Full Examination Hero4 Black Designs</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-how-to-captivate-viewers-using-multiple-perspectives-on-fb-live/"><u>[Updated] 2024 Approved How to Captivate Viewers Using Multiple Perspectives on FB Live</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-vivo-x100-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Vivo X100 FRP</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-on-making-discords-push-to-talk-function-work-properly-again/"><u>Expert Tips on Making Discord's Push-to-Talk Function Work Properly Again</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-to-restore-functionality-of-a-malfunctioning-logitech-c920-camera/"><u>Expert Tips to Restore Functionality of a Malfunctioning Logitech C920 Camera</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fallout-eblack-screen-issue-efficient-solutions-and-fixes-to-restore-your-gameplay-smoothly/"><u>Fallout Eblack Screen Issue: Efficient Solutions and Fixes to Restore Your Gameplay Smoothly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-constant-mordhau-breakdowns-expert-tips-and-tricks-to-enhance-gaming-experience/"><u>Fixing Constant Mordhau Breakdowns: Expert Tips and Tricks to Enhance Gaming Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/football-manager-2021-pc-instability-issues-comprehensive-troubleshooting-guide/"><u>Football Manager 2021 PC Instability Issues: Comprehensive Troubleshooting Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-pixel-to-prospectus-the-top-7-generators-for-artistic-conversion/"><u>In 2024, From Pixel to Prospectus - The Top 7 Generators for Artistic Conversion</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-windows-13-strategies-for-system-recovery/"><u>Reviving Windows: 13 Strategies for System Recovery</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solutions-for-uninterrupted-starfield-gaming-experience-no-more-freezes/"><u>Solutions for Uninterrupted Starfield Gaming Experience - No More Freezes!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-solving-windows-1n-compatibility-problems-for-corsair-icue-users/"><u>Step-by-Step Guide: Solving Windows 1N Compatibility Problems for Corsair iCUE Users</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-polyglot-panorama-africas-linguistic-spectrum/"><u>The Polyglot Panorama: Africa’s Linguistic Spectrum</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-resolving-black-screen-issues-in-rainbow-six-siege-pc-edition/"><u>Ultimate Guide: Resolving Black Screen Issues in Rainbow Six Siege - PC Edition</u></a></li>
+</ul></div>
 

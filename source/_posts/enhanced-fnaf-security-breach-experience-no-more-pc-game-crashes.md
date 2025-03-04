@@ -1,7 +1,7 @@
 ---
 title: Enhanced FNAF Security Breach Experience – No More PC Game Crashes
-date: 2024-08-19T00:52:49.226Z
-updated: 2024-08-20T00:52:49.226Z
+date: 2025-02-28T16:01:01.106Z
+updated: 2025-03-04T16:02:33.849Z
 tags:
   - win11
   - win10
@@ -43,18 +43,12 @@ thumbnail: https://thmb.techidaily.com/7b8336f5215e637e754158b1429078ceab1fa3c34
 
  If you don’t know how to check your computer specs, simply follow this guide:[How to find computer specs on Windows 10](https://tools.techidaily.com/drivereasy/download/) . If your machine isn’t up for the game, considering upgrading your PC first.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ### Fix 2 – Stop overclocking
 
  By overclocking your CPU and GPU, you may see a significant boost in the game performance. However, doing this can sometimes lead to problems like instability in the system and crashes your game. So if Diablo 2 Resurrected keeps crashing after an overclock, you may want to**turn off all the overclocking utilities** such as MSI Afterburner and**reset your processor to the default** .
 
 If this method doesn’t help, check out your graphics driver.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ### Fix 3 – Update your graphics driver
 
  The graphics driver is essential to a smooth gaming experience. If your graphics driver is faulty or outdated, Diablo 2 Resurrected crashing is more likely to occur. To fix it, you should update your graphics driver to the latest.
@@ -65,16 +59,10 @@ If this method doesn’t help, check out your graphics driver.
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click the**Update** button next to a flagged graphics driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).  
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-5700-xt-1.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -88,9 +76,6 @@ If this method doesn’t help, check out your graphics driver.
 
 1. Go to the game’s installation folder.
 2. Right-click the Diablo 2 Resurrected executable (.exe) file and select**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
 3. Navigate to the**Compatibility** tab. Then tick**Run this program as an administrator** and**Disable fullscreen optimizations** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-as-administrator-diablo-2-1.jpg)
@@ -99,9 +84,6 @@ If this method doesn’t help, check out your graphics driver.
 
  Relaunch Diablo 2 Resurrected to see if it runs properly. If not, there are a few more fixes to try below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5 – Scan and repair corrupt game files
 
  It’s possible that there are corrupted or missing game files stopping your Diablo 2 Resurrected from functioning correctly, which therefore triggers the crashes. To repair the corrupt files, follow the steps below:
@@ -121,14 +103,8 @@ If this method doesn’t help, check out your graphics driver.
 **On Discord**
 
 1. Run Discord and click the**cogwheel icon** at the bottom of the left pane.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-2-1.jpg)
 2. Select the**Overlay** tab from the left and toggle off**Enable in-game overlay** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-2-2.jpg)
 
 **On GeForce Experience**
@@ -136,9 +112,6 @@ If this method doesn’t help, check out your graphics driver.
 1. Launch GeForce Experience. Then click the**cogwheel icon** at the upper right corner.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-1-1.jpg)
 2. Toggle off**In-game overlay** .  
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/0-00.jpg)
 
  After all the overlay feature is disabled, your game should return to normal.
@@ -156,8 +129,6 @@ If this method doesn’t help, check out your graphics driver.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -165,4 +136,26 @@ If this method doesn’t help, check out your graphics driver.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-googles-efficient-route-to-instantaneous-visual-masterpieces/"><u>[New] Google's Efficient Route to Instantaneous Visual Masterpieces</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-checklist-what-makes-dji-phantom-4-special/"><u>[New] The Ultimate Checklist What Makes DJI Phantom 4 Special?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-one-frame-at-a-time-your-guide-to-free-youtube-navigation/"><u>[Updated] One Frame at A Time Your Guide to Free YouTube Navigation</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/5aac5l2v5b6p5y6f6zqo6lqr56kf5lit6kkr6ygu6jol55qe6yen6kab5qqu5qgi44cq5rex5bqm5oyh5y2x44cr/"><u>如何復原隨身碟中被遮蓋的重要檔案【深度指南】</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/gif-8/"><u>最適な無料GIF生成ツールを見つけよう: オススメの8つのプログラム</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/experience-ultimate-game-sound-quality-top-rated-gaming-speakers-now-40-discounted-on-amazon-discover-how-in-our-latest-review/"><u>Experience Ultimate Game Sound Quality: Top-Rated Gaming Speakers Now 40% Discounted on Amazon - Discover How in Our Latest Review</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723005325405-fixing-the-issue-the-ascent-unable-to-launch-solutions-inside/"><u>Fixing the Issue: 'The Ascent' Unable to Launch – Solutions Inside!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-lava-agni-2-5g-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Lava Agni 2 5G</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-solve-the-minecraft-is-outdated-message-by-updating-graphics-card-driver/"><u>How to Solve the 'Minecraft Is Outdated' Message by Updating Graphics Card Driver</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-terraria-from-continuously-crashing-2024-guide/"><u>How To Stop Terraria From Continuously Crashing: 2024 Guide</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Tecno Spark 20 Pro | Dr.fone</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-best-text-to-audio-converters-of-all-times-for-2024/"><u>New Best Text-to-Audio Converters of All Times for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-quest-for-audio-restoration-in-fallout-4-a-comprehensive-guide-for-players-experiencing-noise-shortages/"><u>The Quest for Audio Restoration in Fallout 4 - A Comprehensive Guide for Players Experiencing Noise Shortages</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-why-cant-i-access-the-recently-released-diablo-ii-reboot/"><u>Troubleshooting Guide: Why Can't I Access the Recently Released Diablo II Reboot?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-steam-cloud-inconsistency-and-error-messages/"><u>Troubleshooting Steam Cloud Inconsistency and Error Messages</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-resolving-palworld-session-search-issue/"><u>Troubleshooting Steps: Resolving 'PalWorld' Session Search Issue</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723000821417-troubleshooting-tips-for-smooth-play-in-halo-infinite-no-more-stutters/"><u>Troubleshooting Tips for Smooth Play in Halo Infinite - No More Stutters</u></a></li>
+<li><a href="https://win-answers.techidaily.com/understanding-and-resolving-the-recurring-crash-problem-for-call-of-duty-black-ops-cold-war-on-pc/"><u>Understanding and Resolving the Recurring Crash Problem for Call of Duty: Black Ops Cold War on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/yakuza-3-remastered-stability-guide-for-pc-gamers/"><u>Yakuza 3 Remastered Stability Guide for PC Gamers</u></a></li>
+</ul></div>
 

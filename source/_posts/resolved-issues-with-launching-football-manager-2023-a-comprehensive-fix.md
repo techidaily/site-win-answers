@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Issues with Launching Football Manager 2023 – A Comprehensive Fix"
-date: 2025-02-13T18:58:14.844Z
-updated: 2025-02-15T05:26:06.121Z
+date: 2025-02-27T16:07:17.283Z
+updated: 2025-03-04T16:05:52.330Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/521e77f0b3c0772eff4a23cfd11435c9aec9bd0ff
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to fix Football Manager 2022 launch issues?
 
  Here are a few fixes that have helped other users resolve their Football Manager 2022 not launching problem. You may not need to try them all; just work your way down the list until you find the one that works for you.”
@@ -44,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/521e77f0b3c0772eff4a23cfd11435c9aec9bd0ff
 ### Fix 1\. Check your PC specs
 
  Make sure you’re playing Football Manager 2022 in a 64-bit processor and operating system. If you’re on a 32-bit system, it’s recommended to upgrade your system and perhaps your device.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2\. Add an exception to your antivirus
 
@@ -76,10 +68,6 @@ thumbnail: https://thmb.techidaily.com/521e77f0b3c0772eff4a23cfd11435c9aec9bd0ff
 
 ![update all drivers](https://images.drivereasy.com/wp-content/uploads/2021/10/update-all.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -93,10 +81,6 @@ After updating your drivers, restart your PC and test the gameplay.
 
 2) Go to LIBRARY, right-click on Football Manager 2022 and select **Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3) Go to **LOCAL FILES** and click **Verify integrity of game files…**
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
@@ -112,10 +96,6 @@ Once complete, launch the game to check if your game is working again.
  2) Go to**View** , and tick the**Hidden items option** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-8-1200x758.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Navigate to **C:\\Users\\\[Your Windows Username\]\\AppData\\Local\\Sports Interactive\\Football Manager 2022** and then delete the**Caches** and**Preferences** folder.
 
@@ -142,10 +122,6 @@ Once complete, launch the game to check if your game is working again.
 
  2) In the **GENERAL** tab, uncheck **Enable the Steam Overlay while in-game** and type **\-windowed** under **LAUNCH OPTIONS** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_17-39-55.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Launch your Football Manager 2022 to check if your launch issues have been resolved successfully.
 
@@ -179,10 +155,6 @@ Once complete, launch the game to check if your game is working again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Option 2 – Manually
 
  To check and restore your system file might take time and computer skills. You will need to run numerous commands, wait for the process to complete, or risk your data.
@@ -194,10 +166,6 @@ Once complete, launch the game to check if your game is working again.
  1) On your keyboard, press the Windows logo key and R at the same time to open the Run box. Type**cmd** and press**Ctrl+Shift+Enter** to run Command Prompt as administrator.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/cmd-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Click**Yes** when prompted for permission to make changes to your device.
 
@@ -266,24 +234,17 @@ Feel free to drop us a line if you have any suggestions or questions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/reaking-down-the-barriers-to-knowing-your-fans-for-2024/"><u>[New] Breaking Down the Barriers to Knowing Your Fans for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-techniques-to-ensure-uninterrupted-video-capturing/"><u>[New] In 2024, Techniques to Ensure Uninterrupted Video Capturing</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/astering-the-art-of-sports-highlight-filming/"><u>[New] Mastering the Art of Sports Highlight Filming</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-short-sensation-keywords-for-enhancing-video-shows-virality/"><u>[Updated] Short Sensation Keywords for Enhancing Video Shows' Virality</u></a></li>
-<li><a href="https://win-answers.techidaily.com/beat-the-out-of-video-memory-error-in-fortnite-effective-solutions-explored/"><u>Beat the 'Out of Video Memory' Error in Fortnite: Effective Solutions Explored</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-vivo-s17e-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Vivo S17e</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/discovering-the-secrets-of-snapchats-spotlight/"><u>Discovering the Secrets of Snapchat's Spotlight</u></a></li>
-<li><a href="https://article-files.techidaily.com/elevating-film-colors-using-luts-methods-for-2024/"><u>Elevating Film Colors Using Luts Methods for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/get-43-off-macx-dvd-ripper-pro-exclusive-discount-codes/"><u>Get 43% Off MacX DVD Ripper Pro: Exclusive Discount Codes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722994220210-how-to-fix-stuck-update-for-microsoft-flight-simulator-2020-now-resolved/"><u>How to Fix Stuck Update for Microsoft Flight Simulator 2020 – Now Resolved</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-realme-note-50-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Realme Note 50? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/optimizing-fallout-3-performance-for-a-smooth-experience-on-windows-11-devices/"><u>Optimizing Fallout 3 Performance for a Smooth Experience on Windows 11 Devices</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcome-minecraft-crashes-effortlessly-in-just-6-steps/"><u>Overcome Minecraft Crashes Effortlessly in Just 6 Steps</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solutions-for-starting-struggles-in-constructive-city-design-civilization-vi/"><u>Solutions for Starting Struggles in Constructive City Design - Civilization VI</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshoot-the-latest-war-thunder-game-crashing-issues-essential-guide-for-players/"><u>Troubleshoot the Latest War Thunder Game Crashing Issues: Essential Guide for Players</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/troubleshooting-colored-printouts-a-deep-dive-into-resolving-unintended-palette-shifts-with-yl-computing-solutions/"><u>Troubleshooting Colored Printouts: A Deep Dive Into Resolving Unintended Palette Shifts with YL Computing Solutions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-how-to-speed-up-a-slow-loading-origin/"><u>Troubleshooting Tips: How to Speed Up a Slow-Loading Origin</u></a></li>
-<li><a href="https://win-answers.techidaily.com/unlocking-victory-solutions-to-stop-madden-22-from-being-stuck-on-loading-screen/"><u>Unlocking Victory: Solutions to Stop Madden 22 From Being Stuck on Loading Screen</u></a></li>
-<li><a href="https://win-answers.techidaily.com/valheim-starts-up-woes-heres-how-you-resolved-them-in-2nnd-year-of-the-game/"><u>Valheim Starts-Up Woes? Here's How You Resolved Them in 2Nnd Year of the Game!</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-paint-your-vision-top-8-best-drawing-apps-for-iphone-enthusiasts-for-2024/"><u>[New] Paint Your Vision Top 8 Best Drawing Apps for iPhone Enthusiasts for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-tips-for-effective-ppt-sharing-via-google-meet/"><u>[New] Tips for Effective PPT Sharing via Google Meet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723008968836-cyberpunk-2077-and-steam-a-comprehensive-guide-to-resolving-download-issues/"><u>Cyberpunk 2077 and Steam: A Comprehensive Guide to Resolving Download Issues.</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhancing-game-performance-resolve-naraka-bladepoints-lag-and-stutter/"><u>Enhancing Game Performance: Resolve Naraka: Bladepoint's Lag and Stutter</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/illustrating-brilliance-the-most-trusted-vector-tools-reviewed/"><u>Illustrating Brilliance The Most Trusted Vector Tools Reviewed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/linus-torvalds-on-artificial-intelligence-embracing-rust-and-the-heartbeat-of-linux-technology/"><u>Linus Torvalds on Artificial Intelligence, Embracing Rust, and the Heartbeat of Linux Technology</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/lost-your-pc-password-find-out-what-to-do-next-with-expert-tips-from-yl-software/"><u>Lost Your PC Password? Find Out What to Do Next with Expert Tips From YL Software</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-found-how-to-fix-black-display-problems-easily/"><u>Solution Found: How To Fix Black Display Problems Easily</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175686082-stay-chill-with-the-latest-from-deepcool-high-performance-coolers-power-supplies-fans-and-rigs-now-in-vibrant-pixel-silicone-variants/"><u>Stay Chill with the Latest From DeepCool: High-Performance Coolers, Power Supplies, Fans & Rigs – Now in Vibrant Pixel Silicone Variants!</u></a></li>
+<li><a href="https://techidaily.com/tesla-electric-cars-with-the-greatest-distance-on-a-single-charge/"><u>Tesla Electric Cars with the Greatest Distance on a Single Charge</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-fixes-for-preventing-nba-2k21-from-freezing-and-crashing-on-pc-systems/"><u>Ultimate Fixes for Preventing NBA 2K21 From Freezing and Crashing on PC Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/uncovering-the-best-performance-pcs-at-toms-technology-blog/"><u>Uncovering the Best Performance PCs at Tom’s Technology Blog</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Stop Your Computer From Freezing in Counter-Strike 2 (CS2) - Latest Troubleshooting Tips
-date: 2025-02-13T17:17:45.304Z
-updated: 2025-02-15T01:21:35.483Z
+date: 2025-02-25T16:09:28.253Z
+updated: 2025-03-04T16:05:57.446Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ Serious Sam 4 is available now! But players have reported some issues like crash
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You might not need to try them all; simply work your way down the list until you find the one that works for you.
@@ -42,10 +38,6 @@ Serious Sam 4 is available now! But players have reported some issues like crash
 10. **[Set priority to realtime](https://tools.techidaily.com/drivereasy/download/)**
 11. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 12. **[Disable overclocking](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 1: Make sure your PC meets the specs
 
@@ -113,10 +105,6 @@ Here’s how to update drivers with Driver Easy:
 
 ![update drivers automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/scan-now-9-available.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
@@ -177,10 +165,6 @@ To do so, you can:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/allow-an-app-through-controlled-folder-access-2-1-1200x684.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Then navigate to the game’s installation folder and select**Sam4.exe** .
 
 ---
@@ -221,10 +205,6 @@ To do so, you can:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 8: Set launch options on Steam
 
  If your game crashes at startup, you can force DirectX or Vulkan from the launch options. To do this, follow the steps below:
@@ -238,10 +218,6 @@ To do so, you can:
  3) Select the**GENERAL** tab and click**SET LAUNCH OPTIONS…** .
 
 ![set launch options to fix Serious Sam 4 crashing and stuttering on PC](https://images.drivereasy.com/wp-content/uploads/2020/11/Steam-set-launch-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) In the text box, type**+gfx\_strAPI Vulkan** and click**OK** .
 
@@ -261,17 +237,9 @@ After you’ve done these, relaunch your game.
 
 ![adjust graphics options serious sam 4 crash stutter](https://images.drivereasy.com/wp-content/uploads/2020/09/adjust-graphics-options-1-1200x516.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Then select**GRAPHICS OPTIONS** .
 
 ![adjust graphics options serious sam 4 crash stutter](https://images.drivereasy.com/wp-content/uploads/2020/09/adjust-graphics-options-2-1200x540.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) In the**GRAPHICS API:** section, choose**VULKAN** or**DIRECT3D 12** .  
  In the**FIELD OF VIEW:** section, set it to**Maximum** which is**120.00** .  
@@ -282,10 +250,6 @@ After you’ve done these, relaunch your game.
  4) Click**YES** when you’re asked**DO YOU WANT TO KEEP THESE SETTINGS?** .
 
 ![adjust graphics options serious sam 4 crash stutter](https://images.drivereasy.com/wp-content/uploads/2020/09/adjust-graphics-options-4-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After applying the changes, close your game and launch it again to check if it fixes the issue.
 
@@ -300,10 +264,6 @@ After you’ve done these, relaunch your game.
  2) Type**taskmgr** and press**Enter** .
 
 ![set priority as realtime Serious Sam 4 crash and sutter](https://images.drivereasy.com/wp-content/uploads/2020/09/open-task-manager-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Select the tab**Details** and scroll down the list. Right-click on**Sam4.exe** and then select**Set priority > Realtime** .
 
@@ -362,18 +322,20 @@ Here’s how you can do this:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-capture-high-quality-video-using-macbooks-webcam/"><u>[New] Capture High-Quality Video Using MacBook's Webcam</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-easily-preserve-linkedin-videos-unveiling-this-years-top-6-apps/"><u>[Updated] In 2024, Easily Preserve LinkedIn Videos - Unveiling This Year's Top 6 Apps</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-step-by-step-precise-screen-recording-on-dell-laptops-for-2024/"><u>[Updated] Step-by-Step Precise Screen Recording on Dell Laptops for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-chatbot-fallacies-exposed-unraveling-top-9-common-myths/"><u>AI Chatbot Fallacies Exposed: Unraveling Top 9 Common Myths</u></a></li>
-<li><a href="https://win-answers.techidaily.com/baldurs-gate-performance-optimization-six-strategies-to-eliminate-hitching-and-halts/"><u>Baldur's Gate Performance Optimization: Six Strategies to Eliminate Hitching & Halts</u></a></li>
-<li><a href="https://windows11.techidaily.com/bluescreenview-explained-for-everyday-users/"><u>BlueScreenView Explained for Everyday Users</u></a></li>
-<li><a href="https://win-answers.techidaily.com/definitive-solutions-to-eliminate-football-manager-2020s-persistent-crash-problems/"><u>Definitive Solutions To Eliminate Football Manager 2020'S Persistent Crash Problems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/epic-games-launcher-screen-fixes-beating-the-blackout-blues-successfully/"><u>Epic Games Launcher Screen Fixes: Beating the Blackout Blues Successfully</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-can-you-tell-if-sonys-playstation-network-server-issues-affect-everyone-or-just-your-connection/"><u>How Can You Tell If Sony's PlayStation Network Server Issues Affect Everyone or Just Your Connection?</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/how-to-resolve-unrecognized-scanner-issues-with-your-pc-insights-from-yl-computing/"><u>How to Resolve Unrecognized Scanner Issues with Your PC - Insights From YL Computing</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-5-solutions-for-itel-s23-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Itel S23 Unlock Without Password</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-pc-issues-how-to-stop-elite-dangerous-from-crashing-on-your-computer/"><u>Resolving PC Issues - How to Stop Elite Dangerous From Crashing on Your Computer</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/top-5-pro-snipers-on-macos-for-2024/"><u>Top 5 Pro Snipers on macOS for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-mastering-instagram-top-borders-and-frames-for-perfect-photos/"><u>[Updated] 2024 Approved Mastering Instagram Top Borders & Frames for Perfect Photos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1-troubleshooting-guide-fixing-load-issues-and-initiation-failures-with-hulu-across-streaming-devices-apple-tv-firestick-roku-samsung/"><u>1. Troubleshooting Guide: Fixing Load Issues and Initiation Failures with Hulu Across Streaming Devices (Apple TV, Firestick, Roku, Samsung)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/detroit-become-human-pc-stability-issues-addressed-and-solved-gaming-guide/"><u>Detroit: Become Human PC Stability Issues Addressed and Solved - Gaming Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhance-system-specs-ensure-adequate-cpu-performance-for-vanguard-software/"><u>Enhance System Specs: Ensure Adequate CPU Performance for Vanguard Software</u></a></li>
+<li><a href="https://win-answers.techidaily.com/eradicate-your-wow-connection-lags-with-ease-and-speed/"><u>Eradicate Your WoW Connection Lags with Ease & Speed</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/hassle-free-guide-on-transferring-hard-drive-data-to-vm-without-booting-problems/"><u>Hassle-Free Guide on Transferring Hard Drive Data to VM Without Booting Problems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-the-nba-2k21-green-glitch-was-successfully-resolved/"><u>How the NBA 2K21 'Green' Glitch Was Successfully Resolved</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-the-fixes-for-starting-your-doom-eternal-game/"><u>Master the Fixes for Starting Your DOOM Eternal Game</u></a></li>
+<li><a href="https://program-issues.techidaily.com/obs-on-windows-1110-ultimate-guide-to-prevent-and-solve-crashes-updated/"><u>OBS on Windows 11/10: Ultimate Guide to Prevent and Solve Crashes (Updated )</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-transferring-your-icloud-photos-seamlessly-across-all-devices/"><u>Step-by-Step Guide: Transferring Your iCloud Photos Seamlessly Across All Devices</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-how-to-fix-a-non-responsive-cortana/"><u>Troubleshooting Guide: How to Fix a Non-Responsive Cortana</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-overcoming-steam-freezing-problems-for-a-seamless-gaming-experience/"><u>Troubleshooting: Overcoming Steam Freezing Problems for a Seamless Gaming Experience</u></a></li>
+<li><a href="https://change-location.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/warzone-visual-stutter-diagnosis-and-solutions/"><u>Warzone Visual Stutter: Diagnosis and Solutions</u></a></li>
 </ul></div>
 

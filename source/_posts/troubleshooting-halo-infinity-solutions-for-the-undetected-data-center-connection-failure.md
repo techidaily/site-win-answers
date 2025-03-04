@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Halo Infinity: Solutions for the Undetected Data Center Connection Failure"
-date: 2025-02-13T01:02:38.092Z
-updated: 2025-02-14T22:47:28.409Z
+date: 2025-03-01T16:06:11.081Z
+updated: 2025-03-04T16:04:05.422Z
 tags:
   - win11
   - win10
@@ -43,10 +43,6 @@ Make sure your PC meets the minimum requirement of NieR Replicant.
 4. [Update your drivers](https://tools.techidaily.com/drivereasy/download/)
 5. [Disable your antivirus software](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Edit username
 
  It may sound ridiculous, but some players have reported that their usernames are solely composed of characters in your platform’s text language can fix the NieR Replicant crash at startup.
@@ -63,10 +59,6 @@ If this fix doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/properties-1.jpg)
 2. In the**Compatibility** tab, check**Run this program as administrator** and hit**OK > Apply** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 3. Relaunch the game to check.
 
@@ -81,18 +73,10 @@ If this fix doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify-nier-1.jpg)
 3. In the left pane, select**LOCAL FILES** , then click**Verify integrity of game files….**  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify-nier-2.jpg)
 4. When the process is completed, relaunch NieR Replicant.
 
 If this fix doesn’t bring luck, take a look at the next one below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your drivers
 
@@ -132,18 +116,10 @@ Here’s how to disable Windows Security temporarily.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-2-5.jpg)
 3. Click**Manage settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-3-4.jpg)
 4. Turn off Real-time protection.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-4-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Relaunch NieR Replicant and check if it’s running properly.
 
@@ -168,19 +144,22 @@ Relaunch NieR Replicant and check if it’s running properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-jokesonscreen-pro/"><u>2024 Approved JokesOnScreen Pro</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/can-you-extend-your-mailcom-email-account-beyond-its-expiration-date-how-to-guide/"><u>Can You Extend Your mail.com Email Account Beyond Its Expiration Date? How-To Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/compatibility-check-using-airpods-with-a-nintendo-switch-system/"><u>Compatibility Check: Using AirPods with a Nintendo Switch System</u></a></li>
-<li><a href="https://win-answers.techidaily.com/everspace-2-how-to-stop-your-game-from-crashing-on-windows/"><u>Everspace 2 - How to Stop Your Game From Crashing on Windows</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-advice-how-to-get-past-the-hurdle-when-red-dead-redemption-2-wont-boot-up-correctly/"><u>Expert Advice: How to Get Past the Hurdle When Red Dead Redemption 2 Won't Boot Up Correctly</u></a></li>
-<li><a href="https://win-forum.techidaily.com/1722915377089-exploring-social-media-giants-a-guide-to-facebook-twitter-instagram-and-youtube/"><u>Exploring Social Media Giants: A Guide to Facebook, Twitter, Instagram and YouTube</u></a></li>
-<li><a href="https://os-tips.techidaily.com/exploring-why-the-iphone-reigns-supreme-in-mobile-video-experience/"><u>Exploring Why the iPhone Reigns Supreme in Mobile Video Experience</u></a></li>
-<li><a href="https://win-answers.techidaily.com/far-cry-6-troubleshooting-fixing-the-games-persistent-black-screen-problem/"><u>Far Cry 6 Troubleshooting: Fixing the Game's Persistent Black Screen Problem</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/guida-alla-sostituzione-del-disco-rigido-xbox-one-s-con-hard-disk-o-ssd-piu-grandi-tutorial/"><u>Guida Alla Sostituzione Del Disco Rigido Xbox One S Con Hard Disk O SSD Più Grandi - Tutorial</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-intensive-assessment-the-ultimate-guide-to-bublcam-360/"><u>In 2024, Intensive Assessment The Ultimate Guide to Bublcam 360</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-writing-failure-on-0x-referenced-memory-address/"><u>Resolved! Writing Failure on 0X Referenced Memory Address</u></a></li>
-<li><a href="https://win-answers.techidaily.com/simple-solutions-repairing-a-corrupted-disk-on-steam-without-hitches/"><u>Simple Solutions: Repairing a Corrupted Disk on Steam Without Hitches</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723007136932-tackling-steams-server-connection-troubles-heres-the-solution/"><u>Tackling Steam’s Server Connection Troubles? Here's the Solution!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-origin-not-starting-in-windows-10-and-11/"><u>Troubleshooting Steps for Origin Not Starting in Windows 10 and 11</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-increasing-click-rates-and-revenue-the-power-of-engaging-fb-animation-ads-for-2024/"><u>[New] Increasing Click Rates & Revenue The Power of Engaging FB Animation Ads for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-youtube-as-a-film-studio-tutorials-and-competitive-choices/"><u>[Updated] YouTube as a Film Studio Tutorials & Competitive Choices</u></a></li>
+<li><a href="https://win-answers.techidaily.com/boosting-fps-in-the-division-2-expert-tips-and-tricks-for-a-smoother-gameplay-in-2/"><u>Boosting FPS in The Division 2 - Expert Tips and Tricks for a Smoother Gameplay in 2#</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/explore-these-asterisk-amazing-free-cad-programs-for-efficient-design-workflows/"><u>Explore These Asterisk Amazing Free CAD Programs for Efficient Design Workflows</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-huawei-nova-y71-screen-sharing-drfone-by-drfone-android/"><u>How To Do Huawei Nova Y71 Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-discord-high-cpu-usage-2024-guide/"><u>How to Fix Discord High CPU Usage - 2024 Guide</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-poco-m6-pro-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Poco M6 Pro 5G</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-icloud-separation-how-to-disconnect-apple-iphone-13-mini-and-ipad-by-drfone-ios/"><u>In 2024, iCloud Separation How To Disconnect Apple iPhone 13 mini and iPad</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-your-game-how-to-get-diablo-ii-resurrected-running-smoothly/"><u>Mastering Your Game: How to Get Diablo II: Resurrected Running Smoothly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimizing-game-performance-addressing-fps-drops-in-the-2021-formula-one-racing-game/"><u>Optimizing Game Performance: Addressing FPS Drops in the 2021 Formula One Racing Game</u></a></li>
+<li><a href="https://win-answers.techidaily.com/rocket-league-no-more-crashes-expert-advice-on-stability-and-performance/"><u>Rocket League No More Crashes - Expert Advice on Stability and Performance</u></a></li>
+<li><a href="https://win-answers.techidaily.com/simple-solutions-to-resolve-stuttering-in-counter-strike-global-offensive/"><u>Simple Solutions to Resolve Stuttering in Counter-Strike: Global Offensive</u></a></li>
+<li><a href="https://win-answers.techidaily.com/smooth-your-ark-gaming-experience-on-pc-solve-crashing-with-9-effective-fixes/"><u>Smooth Your ARK Gaming Experience on PC – Solve Crashing with 9 Effective Fixes</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ning-edges-strategic-lighting-for-content-creators/"><u>Softening Edges Strategic Lighting for Content Creators</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/solar-system-storage-universe-file-saver/"><u>Solar System Storage - Universe File Saver</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-apps-and-online-tools-to-track-huawei-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Huawei Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-server-disconnects-for-smoother-gameplay-in-escape-from-tarkov/"><u>Troubleshooting Server Disconnects for Smoother Gameplay in Escape From Tarkov</u></a></li>
 </ul></div>
 

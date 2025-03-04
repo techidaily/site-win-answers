@@ -1,7 +1,7 @@
 ---
 title: "Busting the Code: Diagnosing and Repairing Armored Core 6 - The Rubicon Edition on Your Computer"
-date: 2025-02-13T02:31:49.898Z
-updated: 2025-02-15T01:28:38.382Z
+date: 2025-02-26T16:09:36.240Z
+updated: 2025-03-04T16:07:11.690Z
 tags:
   - win11
   - win10
@@ -59,10 +59,6 @@ Many players are reporting that Hitman 3 is having server issues, and they const
 ![Windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2021/01/Windows-firewall.jpg)
 2. On the left pane, click **Allow an app or feature through Windows Defender Firewall** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/allow-app.jpg)
 3. Make sure your Hitman 3 is on the list, and also make sure it’s ticked for**Private** .
 
@@ -70,26 +66,14 @@ Many players are reporting that Hitman 3 is having server issues, and they const
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/change-settings.jpg)
 5. Click**Allow another app…**  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![change settings](https://images.drivereasy.com/wp-content/uploads/2021/01/allow-another-app.jpg)
 6. Add your Hitman 3 executable file. If you’re not sure where the game is installed, please follow these steps:  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
    * Click on the game title in your library.  
    * Select _**Properties**_ from the menu on the left.  
    * In the _**Local files**_ section, press _**Open folder**_ .  
    ![open hitman 3 folder](https://images.drivereasy.com/wp-content/uploads/2021/01/Open-folders.png)
 7. Now launch your game again and test if the**Hitman 3 connection failed error** has been solved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 3: Update your network driver
 
@@ -108,10 +92,6 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to a flagged network adapter driver to automatically download and install the correct version of this driver (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/update-network-adapter-driver.jpg)  
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
@@ -128,14 +108,6 @@ OR
 2. Select the tab **Compatibility** and check the box next to **Run this program as an administrator** . Then click **Apply > OK** .  
 ![run as admin](https://images.drivereasy.com/wp-content/uploads/2021/01/run-as-admin.jpg)
 3. Next time you open your game launcher, it will launch in admin mode.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 5: Disable antivirus software
 
@@ -189,19 +161,16 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-clear-facebook-broadcast-laptops-and-phones-included/"><u>[New] 2024 Approved Clear Facebook Broadcast Laptops and Phones Included</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-prestige-pickers-top-ranked-websites-for-snapping-alert-songs/"><u>[Updated] Prestige Pickers Top-Ranked Websites for Snapping Alert Songs</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-art-of-the-daily-share-keep-your-digital-diary-top-notch-for-2024/"><u>[Updated] The Art of the Daily Share Keep Your Digital Diary Top-Notch for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-luster-leads-transformative-techniques-for-videos/"><u>2024 Approved Luster Leads Transformative Techniques for Videos</u></a></li>
-<li><a href="https://win-answers.techidaily.com/crack-the-code-to-a-smooth-playthrough-troubleshooting-tips-for-fixing-outpost-infinity-siege-crashes/"><u>Crack the Code to a Smooth Playthrough: Troubleshooting Tips for Fixing Outpost: Infinity Siege Crashes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-the-unresponsive-microphone-in-windows-11-systems/"><u>Diagnosing and Repairing the Unresponsive Microphone in Windows 11 Systems</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-track-keyword-rankings-in-bing-by-link-assistant-rank-tracker-rank-tracker/"><u>How to track keyword rankings in Bing?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/hyper-scape-comprehensive-fix-for-stability-problems-on-windows-pcs/"><u>Hyper Scape: Comprehensive Fix for Stability Problems on Windows PCs</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-vlog-to-audio-conversion-with-twitta/"><u>In 2024, Vlog-to-Audio Conversion with Twitta</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/leverage-hashtags-for-top-ranked-fb-pages/"><u>Leverage Hashtags for Top-Ranked FB Pages</u></a></li>
-<li><a href="https://win-answers.techidaily.com/modern-warfare-3-experiencing-game-lags-and-frame-rate-issues/"><u>Modern Warfare 3 Experiencing Game Lags & Frame Rate Issues</u></a></li>
-<li><a href="https://win-answers.techidaily.com/pathfinder-wrath-of-the-righteous-persistent-crash-problems-now-solved/"><u>Pathfinder: Wrath of the Righteous - Persistent Crash Problems Now Solved!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/tormented-souls-game-continuously-fails-to-load-on-windows-troubleshooting-tips/"><u>Tormented Souls Game Continuously Fails to Load on Windows - Troubleshooting Tips</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-fixing-star-citizen-windows-system-crashes-and-game-instability/"><u>Troubleshooting Guide: Fixing Star Citizen Windows System Crashes & Game Instability</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-androids-elite-selection-of-collage-apps/"><u>[Updated] Android's Elite Selection of Collage Apps</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-mastery-of-memes-how-to-download-twitters-animated-images/"><u>2024 Approved Mastery of Memes How to Download Twitter's Animated Images</u></a></li>
+<li><a href="https://win-answers.techidaily.com/battlefield-2042-directx-troubleshooting-tips-and-solutions/"><u>Battlefield 2042 DirectX Troubleshooting: Tips and Solutions</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-samsung-galaxy-z-fold-5-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Samsung Galaxy Z Fold 5</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-fixes-for-call-of-duty-vanguards-persistent-pc-crashing-issues-updated-guide/"><u>Expert Fixes for Call of Duty Vanguard's Persistent PC Crashing Issues - Updated Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-explore-the-hidden-depths-of-canvas-photo-editor/"><u>In 2024, Explore the Hidden Depths of Canva's Photo Editor</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-free-guide-perfecting-your-youtube-audio-to-text-conversion/"><u>In 2024, Free Guide Perfecting Your YouTube Audio-to-Text Conversion</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-performance-glitches-in-minecraft-dungeons-for-optimal-gaming-experience/"><u>Resolving Performance Glitches in Minecraft Dungeons for Optimal Gaming Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-guide-overcoming-qsurfaceformat-opengl-creation-failures/"><u>Solution Guide: Overcoming QSurfaceFormat OpenGL Creation Failures</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/tackling-frame-rate-glitches-in-obs-outputs/"><u>Tackling Frame Rate Glitches in OBS Outputs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-strategies-to-overcome-minecraft-frame-drops-on-desktop-updated-guide-for-202-cuckfingered-pc-players/"><u>Top Strategies to Overcome Minecraft Frame Drops on Desktop - Updated Guide for 202 Cuckfingered PC Players</u></a></li>
 </ul></div>
 

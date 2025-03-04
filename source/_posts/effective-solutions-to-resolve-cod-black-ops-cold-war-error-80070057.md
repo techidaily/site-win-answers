@@ -1,7 +1,7 @@
 ---
 title: "Effective Solutions to Resolve Cod: Black Ops Cold War Error 80070057"
-date: 2024-08-19T00:55:54.387Z
-updated: 2024-08-20T00:55:54.387Z
+date: 2025-02-27T16:02:48.122Z
+updated: 2025-03-04T16:00:31.574Z
 tags:
   - win11
   - win10
@@ -40,9 +40,6 @@ The first thing, as it suggests, is to perform a scan and repair.
 
 1. Open the Battle.net app.
 2. Go to the**GAMES** tab, select**Call of Duty: BOCW** and click**Options** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/COD.jpg)
 3. Click**Scan and Repair** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-to-new-version-1.jpg)
@@ -50,9 +47,6 @@ The first thing, as it suggests, is to perform a scan and repair.
 
  Launch the game again to test the issue. If you see this error again, don’t worry, because there’re more fixes you can try.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Install the latest patch
 
  No matter what problem you’re experiencing, be sure to install the latest patch. Game developers keep releasing new updates to fix known issues.
@@ -61,20 +55,10 @@ The first thing, as it suggests, is to perform a scan and repair.
 2. Go to the**GAMES** tab, select**Call of Duty: BOCW** and click**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/COD.jpg)
 3. Click**Check for Updates** .  
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![check for updates](https://images.drivereasy.com/wp-content/uploads/2020/12/update-to-new-version-battle.net_.jpg)
 
  If you already have the latest version of Call of Duty: Black Ops Cold War but the error code just shows up again, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ## 3\. Update the graphics driver
 
  If this error code 80070057 persists after you tried “Scan and Repair” and “Check for Updates”, it is mainly related to the video file, which can be caused by an outdated/corrupt driver or driver incompatibility.
@@ -89,33 +73,21 @@ No advertising on the website.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged video card to automatically download the correct version of their driver (you can do this with the **FREE** version), and then install it manually on your computer.  
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-driver-now.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll get full tech support and a 30-day money-back guarantee).
 4. Restart your computer and launch your game to test the issue.
 
  Usually, this will fix your Call of Duty: Black Ops Cold War error code 80070057\. But if this error code persists, don’t worry. There’re a few more fixes to try.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Run your game in DX11
 
  If you still get this error in some specific spots, but all of your device drivers are up-to-date, the culprit might be DirectX 12\. There are some problems with advanced DX12 features such as ray tracing and variable rate shading. To enjoy a crash-free game, you can run your game in DX 11 instead. Here’s how:
 
 1. Open the**Battle.net** app and locate your**Call of Duty: BOCW** under the**GAMES** tab.  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/COD.jpg)
 2. Select**Game Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/game-settings.jpg)
 3. Under**Call of Duty: Black Ops Cold War** , check the box next to**Additional command line arguments** . Then type**\-d3d11** into the box to force the game to run in DX11.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Game-settings-DX11.jpg)
 4. Click**Done** to apply the changes.
 
@@ -129,9 +101,6 @@ No advertising on the website.
 2. Press**Windows** Key+**R** to open the Run dialogue. Type**%ProgramData%** into the Run field and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/data.jpg)
 3. Delete the folder**Blizzard Entertainment** , which contains the cache directory.  
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/delete-cache.jpg)
 4. Restart the Battle.net app and relaunch the game.
 
@@ -144,9 +113,6 @@ No advertising on the website.
 2. Makes sure you set**English** (US or UK) as the**Windows display language** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/English.jpg)
 3. If you don’t see English, click**Add a language** .  
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/add.jpg)
 
 Restart your computer and relaunch your game again to test the issue.
@@ -165,8 +131,6 @@ Restart your computer and relaunch your game again to test the issue.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -174,4 +138,22 @@ Restart your computer and relaunch your game again to test the issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-blades-and-boards-olympians-on-ice/"><u>[New] 2024 Approved Blades & Boards Olympians on Ice</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-reimagining-gender-portrayal-in-social-media-images/"><u>[New] In 2024, Reimagining Gender Portrayal in Social Media Images</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-dividing-opinions-is-mirrorless-better-than-dslr-for-vids/"><u>[Updated] In 2024, Dividing Opinions Is Mirrorless Better than DSLR for Vids?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-premium-web-audio-solutions-guidebook-top-7-2023/"><u>[Updated] In 2024, Premium Web Audio Solutions Guidebook Top 7 2023</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-manage-your-default-podcast-adds-on-spotify-playlist/"><u>2024 Approved Manage Your Default Podcast Adds on Spotify Playlist</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhance-lost-ark-stability-and-performance-fixing-critical-frame-rate-dips/"><u>Enhance Lost Ark Stability & Performance - Fixing Critical Frame Rate Dips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/google-chrome-troubleshooting-guide-opening-problems-solved/"><u>Google Chrome Troubleshooting Guide: Opening Problems Solved</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722999654243-how-to-overcome-pc-crashes-in-pathfinder-wrath-of-the-righteous-solved-and-explained/"><u>How to Overcome PC Crashes in Pathfinder: Wrath of the Righteous - Solved and Explained</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95543873-9780834821149-integral-psychology/"><u>Integral Psychology | Free Book</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-fifa-21-proven-methods-to-keep-it-running-smoothly-on-windows-and-mac/"><u>Mastering FIFA 21: Proven Methods to Keep It Running Smoothly on Windows and Mac</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-successful-downloading-and-installation-of-latest-ios-enhancements/"><u>Step-by-Step Guide: Successful Downloading & Installation of Latest iOS Enhancements</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/step-by-step-strategy-retrieving-disappeared-fonts-following-the-windows-10-creators-update/"><u>Step-by-Step Strategy: Retrieving Disappeared Fonts Following the Windows 10 Creator's Update</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-diablo-ii-reviver-game-crash-issues-efficiently/"><u>Troubleshooting Diablo II Reviver Game Crash Issues Efficiently</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-recurrent-noxplayer-instability-issues-on-windowsmacos/"><u>Troubleshooting Recurrent NoxPlayer Instability Issues on Windows/MacOS</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-fixed-how-to-fix-origin-not-launching-on-windows-1011/"><u>Troubleshooting: [FIXED] How to Fix 'Origin Not Launching on Windows 10/11</u></a></li>
+</ul></div>
 

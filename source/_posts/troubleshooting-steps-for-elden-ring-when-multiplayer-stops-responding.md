@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps for Elden Ring When Multiplayer Stops Responding
-date: 2024-08-19T00:56:22.866Z
-updated: 2024-08-20T00:56:22.866Z
+date: 2025-03-03T16:02:02.287Z
+updated: 2025-03-04T16:05:46.245Z
 tags:
   - win11
   - win10
@@ -15,16 +15,10 @@ thumbnail: https://thmb.techidaily.com/e0fa8a626f9ce04b93030cf87348bad1dbf4f9d0f
 
 ## Ultimate Troubleshooting Steps for the 2022 Leaf Error in Apex Legends
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/5db3fyzhzw851-1200x471.png)
 
  The**error: connection to server timed out (code: leaf)** on Apex Legends is an old one, and it’s supposed to be fixed ages ago. But many players are still reporting getting it all the time. In this post, we’ll go through some working fixes step by step, so make sure you check them out below!
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes…
 
  You don’t have to try them all; just work your way down the list until you find the one that does the trick!
@@ -39,9 +33,6 @@ thumbnail: https://thmb.techidaily.com/e0fa8a626f9ce04b93030cf87348bad1dbf4f9d0f
 
 [5: Switch to another server](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 1: Check your Internet connection
 
  The first thing you can do is to make sure your Internet connection is valid and able to connect to Apex Legends servers. A few things you can look for to check your Internet connection go as below:
@@ -53,9 +44,6 @@ thumbnail: https://thmb.techidaily.com/e0fa8a626f9ce04b93030cf87348bad1dbf4f9d0f
 
  If your Internet connection is valid but you still don’t get response from the Apex Legends servers, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 2: Install all the game updates
 
  This one may seem obvious, but it did help some players to solve the error code leaf when they try to join a match on Apex Legends, so you may want to make sure your game is updated all the time.
@@ -69,16 +57,10 @@ thumbnail: https://thmb.techidaily.com/e0fa8a626f9ce04b93030cf87348bad1dbf4f9d0f
  When you use your ISP’s (Internet Service Provider) default DNS server, some possible issues like crowded cache could cause the server connection failure. What you can do is switching to a public DNS server to solve the problem. We’ll use the Google DNS server as an example. Here’s how:
 
 1. On your taskbar, right-click the**network icon** , then click**Open Network & Internet settings** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/open-network-settings.png)
 2. Click**Change adapter options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
@@ -87,9 +69,6 @@ thumbnail: https://thmb.techidaily.com/e0fa8a626f9ce04b93030cf87348bad1dbf4f9d0f
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
  If changing to a public DNS server doesn’t connect your game to the server, try the last fix.
@@ -112,18 +91,6 @@ thumbnail: https://thmb.techidaily.com/e0fa8a626f9ce04b93030cf87348bad1dbf4f9d0f
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. I’m using a graphics driver as an example here, since updating your graphics driver could solve many game issues (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
   
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
 
 ## Fix 5: Switch to another server
@@ -152,8 +119,6 @@ thumbnail: https://thmb.techidaily.com/e0fa8a626f9ce04b93030cf87348bad1dbf4f9d0f
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -161,4 +126,23 @@ thumbnail: https://thmb.techidaily.com/e0fa8a626f9ce04b93030cf87348bad1dbf4f9d0f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-comprehensive-list-of-non-udemy-e-learning-success-stories/"><u>[Updated] 2024 Approved Comprehensive List of Non-Udemy E-Learning Success Stories</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-from-blurry-to-crystal-clear-the-ultimate-guide-to-vce-22/"><u>[Updated] In 2024, From Blurry to Crystal Clear The Ultimate Guide to VCE 2.2</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-channel-honor-roll-play-button-and-follower-awards/"><u>2024 Approved Channel Honor Roll - Play Button & Follower Awards</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-syma-x8c-for-beginner-pilots/"><u>2024 Approved Syma X8C for Beginner Pilots</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/complete-your-bond-experience-by-watching-films-in-their-official-order/"><u>Complete Your Bond Experience by Watching Films in Their Official Order</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-compiling-shaders-issue-in-call-of-duty-black-ops-cold-war/"><u>Fixing 'Compiling Shaders' Issue in Call of Duty: Black Ops Cold War</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-ntdlldll-crash-problem-in-windows-11-and-windows-10-systems/"><u>Fixing the ntdll.dll Crash Problem in Windows 11 and Windows 10 Systems</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/how-essential-are-software-updates-and-driver-upgrades-for-enhancing-pc-speed-expert-advice-by-yl-software/"><u>How Essential Are Software Updates and Driver Upgrades for Enhancing PC Speed? Expert Advice by YL Software</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-unrecognized-usb-hardware-errors-on-your-pc-solutions-inside/"><u>How to Fix Unrecognized USB Hardware Errors on Your PC – Solutions Inside</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-prevent-xcom-2-from-crashing-on-your-pc-a-complete-guide-to-a-flawless-experience/"><u>How to Prevent XCOM 2 From Crashing on Your PC: A Complete Guide to a Flawless Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722994646884-phasmophobia-crash-troubles-heres-how-to-resolve-the-latest-issues/"><u>Phasmophobia Crash Troubles? Here's How to Resolve the Latest Issues</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/prime-time-for-podcast-debuts-for-2024/"><u>Prime Time for Podcast Debuts for 2024</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-samsung-galaxy-s23-tactical-edition-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Samsung Galaxy S23 Tactical Edition</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-resolving-hp-client-security-uninstallation-issue-error-1325-on-windows-7/"><u>Troubleshooting Guide: Resolving HP Client Security Uninstallation Issue (Error 1325) on Windows 7</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-resolving-pc-issues-with-persona-nity-in-persona-5-strikers/"><u>Troubleshooting Guide: Resolving PC Issues with Persona Nity in Persona 5 Strikers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-solutions-for-unable-to-join-a-party-glitch-fortnite-error-84/"><u>Ultimate Solutions for 'Unable to Join a Party' Glitch (Fortnite Error #84)</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Troubleshooting IE Browser Issues - Unable to View Web Pages"
-date: 2025-02-07T23:02:26.841Z
-updated: 2025-02-15T04:36:42.922Z
+date: 2025-02-26T16:02:18.793Z
+updated: 2025-03-04T16:07:18.647Z
 tags:
   - win11
   - win10
@@ -50,10 +50,6 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-properties.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Under the**Installed Files** tab, click**Verify integrity of game files** .
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
@@ -74,17 +70,9 @@ Game crashing issues might happen when your game files are corrupted.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-02_18-19-47.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Delete everything except these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-02_18-44-34.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5) Relaunch the game to test the issue.
 
@@ -146,10 +134,6 @@ If the crash still occurs, go ahead with the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-22_16-23-03.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Launch the game to see if your problem has been resolved.
 
 If Phasmophobia crashing issues persist, try the next fix below.
@@ -157,10 +141,6 @@ If Phasmophobia crashing issues persist, try the next fix below.
 ### Fix 7: Stop overlocking your GPU/CPU
 
  If you’ve manually overclocked your GPU or CPU, revert it to its default GPU/CPU clock. And if you are using overclocking software, such as MSI Afterburner, please also disable the software when running the game.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 8: Disable fullscreen optimizations
 
@@ -172,19 +152,11 @@ If Phasmophobia crashing issues persist, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-23_14-53-17.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Apply > OK** .
 
  4) Relaunch the game to test your issue.
 
 If the problem still exists, try the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 9: Try Phasmophobia beta version
 
@@ -217,24 +189,22 @@ If the problem still exists, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-unveiling-the-mystery-of-free-pictorial-video-downloads/"><u>[New] Unveiling the Mystery of Free Pictorial Video Downloads</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-embrace-classic-gaming-leading-ps3-tools-for-pcs-for-2024/"><u>[Updated] Embrace Classic Gaming Leading PS3 Tools for PCs for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/bypassing-csgos-no-user-registration-5-key-strategies/"><u>Bypassing CSGO's No User Registration - 5 Key Strategies</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/complete-tutorial-creating-and-sharing-voice-memos-with-ios-devices/"><u>Complete Tutorial: Creating and Sharing Voice Memos with iOS Devices</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722992340821-cyberpunk-2077s-freezing-issue-resolved-play-smoothly-now/"><u>Cyberpunk 2077'S Freezing Issue Resolved – Play Smoothly Now</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effortless-solutions-for-common-problems-in-madden-22-a-step-by-step-guide/"><u>Effortless Solutions for Common Problems in Madden 22: A Step-by-Step Guide</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/expert-review-of-tascams-cd-200bt-premium-wireless-studio-player/"><u>Expert Review of Tascam's CD-200BT: Premium, Wireless Studio Player</u></a></li>
-<li><a href="https://win-answers.techidaily.com/game-on-without-fear-of-freezing-effortless-methods-to-stop-titanfall-2-from-crashing/"><u>Game On Without Fear of Freezing: Effortless Methods to Stop Titanfall 2 From Crashing</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Oppo A56s 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-a-non-responsive-alienware-command-center/"><u>How to Fix a Non-Responsive Alienware Command Center</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-stop-hitman-3-from-crashing-on-your-computer-pc-latest-solutions-for-2n4/"><u>How to Stop 'Hitman 3' From Crashing on Your Computer (PC) - Latest Solutions for 2N4</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-tecno-camon-20-premier-5g-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Tecno Camon 20 Premier 5G Phone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/restoring-iphone-functionality-the-art-of-a-non-destructive-restart-process/"><u>Restoring iPhone Functionality: The Art of a Non-Destructive Restart Process</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/samsungs-elegant-tv-experience-reviewed-the-un65ru8000fxza-unites-clever-tech-with-aesthetic-appeal/"><u>Samsung's Elegant TV Experience Reviewed: The UN65RU8000FXZA Unites Clever Tech with Aesthetic Appeal</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solve-your-logitech-configuration-problems-on-pc-with-these-steps/"><u>Solve Your Logitech Configuration Problems on PC with These Steps</u></a></li>
-<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Nokia C02? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723000487764-terraria-crashes-fix-it-with-these-top-5-solutions/"><u>Terraria Crashes? Fix It with These Top 5 Solutions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-and-resolving-gray-zone-warfare-issues-in-windows/"><u>Troubleshooting and Resolving Gray Zone Warfare Issues in Windows</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/542179-9781451603583-zolars-encyclopedia-and-dictionary-of-dreams/"><u>Zolar's Encyclopedia and Dictionary of Dreams | Free Book</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-full-guide-to-vscos-camera-app/"><u>[New] Full Guide to VSCO's Camera App</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-optimal-zoom-audio-enhancing-quality-two-fold-approach/"><u>2024 Approved Optimal Zoom Audio Enhancing Quality, Two-Fold Approach</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/5-must-have-severe-weather-alert-apps-to-download/"><u>5 Must-Have Severe Weather Alert Apps to Download</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-the-spinning-cursor-quick-fixes-for-continuous-loading-issues-on-minecraft/"><u>Beat the Spinning Cursor: Quick Fixes for Continuous Loading Issues on Minecraft</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-set-up-usb-30-drivers-on-your-windows-pc/"><u>Download & Set Up USB 3.0 Drivers on Your Windows PC</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722969867677-easy-driver-download-for-wireless-network-cards-boost-speed-now/"><u>Easy Driver Download for Wireless Network Cards: Boost Speed Now!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhance-your-steam-streaming-experience-overcome-delays-with-these-fixes/"><u>Enhance Your Steam Streaming Experience: Overcome Delays with These Fixes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723000579075-how-to-fix-resident-evil-village-pc-game-crashes-complete-guide/"><u>How to Fix Resident Evil Village PC Game Crashes: Complete Guide</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-audio-annihilation-101-instructions-to-remove-unwanted-sounds-from-video-clips-on-windows-and-mac/"><u>In 2024, Audio Annihilation 101 Instructions to Remove Unwanted Sounds From Video Clips on Windows & Mac</u></a></li>
+<li><a href="https://win-answers.techidaily.com/instantly-improve-your-slow-chrome-browser-with-simple-tweaks/"><u>Instantly Improve Your Slow Chrome Browser with Simple Tweaks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/lunar-application-pc-stability-troubleshooting-and-solving-crashes/"><u>Lunar Application PC Stability: Troubleshooting and Solving Crashes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximizing-your-connectivity-understanding-metro-by-t-mobiles-unlimited-roaming-benefits/"><u>Maximizing Your Connectivity: Understanding Metro by T-Mobile's Unlimited Roaming Benefits</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ating-the-world-of-youtube-live-visual-representations-for-2024/"><u>Navigating the World of YouTube Live Visual Representations for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-far-cry-5s-perpetual-start-up-loop-with-these-solutions/"><u>Overcome Far Cry #5'S Perpetual Start-Up Loop with These Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-activating-and-setting-up-hyper-v-in-windows-10/"><u>Step-by-Step Guide: Activating and Setting Up Hyper-V in Windows 10</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-to-correct-your-pcs-warzone-game-disc-reading-error-on-versions-50-and-31/"><u>Troubleshooting Steps to Correct Your PC's Warzone Game Disc Reading Error on Versions 5.0 & 3.1</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-hacks-for-overcoming-dead-space-reboot-launch-issues/"><u>Ultimate Hacks for Overcoming Dead Space Reboot Launch Issues</u></a></li>
 </ul></div>
 

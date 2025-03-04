@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Stop 'Days Gone' From Crashing on Your PC"
-date: 2025-02-08T04:08:57.838Z
-updated: 2025-02-15T00:55:35.506Z
+date: 2025-03-02T16:12:56.687Z
+updated: 2025-03-04T16:08:26.901Z
 tags:
   - win11
   - win10
@@ -36,10 +36,6 @@ _Hearts of Iron IV (HOI4)_ keeps crashing on your PC? Don’t worry. After readi
 8. **[Check for Windows Updates](https://tools.techidaily.com/drivereasy/download/)**
 9. **[Reinstall your game and/or Steam](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: **Check your computer specs**
 
  Many players are reporting that_Hearts of Iron 4_ crashes on their PC, and sometimes this problem can be caused by your hardware. Here are the minimum system requirements to run HOI4:
@@ -60,10 +56,6 @@ _Hearts of Iron IV (HOI4)_ keeps crashing on your PC? Don’t worry. After readi
 **2)**  Type **dxdiag**  and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-222.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)**  Check your **Operating System, Processor, Memory** and **DirectX Version** .
 
@@ -99,17 +91,9 @@ _Hearts of Iron IV (HOI4)_ keeps crashing on your PC? Don’t worry. After readi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)**  Relaunch Steam and _Hearts of Irons 4_ .
 
 If your problem still exists, then move on to the fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4:**Disable fullscreen optimization**
 
@@ -121,17 +105,9 @@ If your problem still exists, then move on to the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-131.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)**  Click the **Compatibility tab** , then check the box next to **Disable fullscreen optimizations** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-130.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Relaunch_HOI4_ to see if this has resolved your issue. If not, read on and try the fix below.
 
@@ -164,10 +140,6 @@ There are two ways you can get the right graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-203.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -177,10 +149,6 @@ There are two ways you can get the right graphics driver:
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Verify the integrity of your game files
 
@@ -193,10 +161,6 @@ To fix it, try verifying the integrity of your game files on Steam:
 **2)**  Click **LIBRARY** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-321.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)**  Right-click **Hearts of Iron IV**  and select **Properties.**
 
@@ -281,10 +245,6 @@ Relaunch your game to test your issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-359.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)**  Right-click the **steamapps**  folder and select **Copy** . Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-360.png)
@@ -336,20 +296,18 @@ Relaunch your game to test your issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-decoding-facebooks-automatic-video-advancements/"><u>[Updated] 2024 Approved Decoding Facebook's Automatic Video Advancements</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726029679509-7/"><u>「ビデオの字幕編集を一段と楽に！お薦めの7つの無料アプリ・ウェブサイト用パソコン」</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-perfect-sources-for-dj-template-video-downloads/"><u>2024 Approved Perfect Sources for DJ Template Video Downloads</u></a></li>
-<li><a href="https://win-answers.techidaily.com/beat-fortnites-launch-errors-swiftly-with-these-proven-fix-techniques/"><u>Beat Fortnite's Launch Errors Swiftly with These Proven Fix Techniques</u></a></li>
-<li><a href="https://win-answers.techidaily.com/discover-reliable-and-safe-direct-download-platforms-for-your-favorite-movies-and-tv-shows/"><u>Discover Reliable and Safe Direct Download Platforms for Your Favorite Movies and TV Shows</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-deal-of-the-year-refurbished-128gb-microsoft-surface-laptop-at-just-320-featured-on-zdnet/"><u>Discover the Deal of the Year: Refurbished 128GB Microsoft Surface Laptop at Just $320 - Featured on ZDNet</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-can-infinix-smart-8mirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Infinix Smart 8Mirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-baldurs-gate-3-pc-instability-issues-successfully/"><u>How to Fix Baldur's Gate 3 PC Instability Issues Successfully</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Oppo Reno 11 5G | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/in-depth-guide-to-address-unstable-performance-and-crashes-in-world-of-tanks-blitz/"><u>In-Depth Guide to Address Unstable Performance and Crashes in World of Tanks Blitz</u></a></li>
-<li><a href="https://games-able.techidaily.com/is-it-worth-it-review-of-the-premium-priced-mophie-powerstation-ac-charger-practicality-vs-price-point/"><u>Is It Worth It? Review of the Premium-Priced Mophie Powerstation AC Charger - Practicality Vs. Price Point</u></a></li>
-<li><a href="https://win-answers.techidaily.com/optimize-your-rainbow-six-extraction-play-with-these-techniques-for-a-smoother-fps/"><u>Optimize Your Rainbow Six Extraction Play with These Techniques for a Smoother FPS</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/secure-your-iphone-with-these-top-6-malware-defense-applications/"><u>Secure Your iPhone with These Top 6 Malware Defense Applications</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/ultimate-guide-to-non-time-restricted-recorders-for-2024/"><u>Ultimate Guide to Non-Time Restricted Recorders for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723012607006-ultimate-guide-resolving-directx-issues-in-call-of-duty-modern-warfare-2/"><u>Ultimate Guide: Resolving DirectX Issues in Call of Duty Modern Warfare 2</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-female-gamers-faction-yts-10-stars/"><u>2024 Approved Female Gamers Faction YT's #10 Stars</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-solutions-for-preventing-rainbow-six-extraction-from-freezing-on-your-desktop/"><u>Effective Solutions for Preventing Rainbow Six Extraction From Freezing on Your Desktop</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/exploring-the-aftermath-how-the-opium-wars-transformed-chinas-history-and-society-insights-from-yl-computing/"><u>Exploring the Aftermath: How the Opium Wars Transformed China's History and Society - Insights From YL Computing</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-honor-100-by-fonelab-android-recover-messages/"><u>How To Restore Missing Messages Files from Honor 100</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-conquering-commercials-dodge-fb-vids/"><u>In 2024, Conquering Commercials Dodge FB Vids</u></a></li>
+<li><a href="https://fox-info.techidaily.com/insight-into-the-finest-iphone-tools-for-image-watermarks/"><u>Insight Into the Finest iPhone Tools for Image Watermarks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/japan/"><u>Japan</u></a></li>
+<li><a href="https://discover-help.techidaily.com/master-the-art-of-converting-dvds-into-divx-files-with-simple-techniques/"><u>Master the Art of Converting DVDs Into DivX Files with Simple Techniques</u></a></li>
+<li><a href="https://win-answers.techidaily.com/minecraft-pc-stutter-no-more-advanced-troubleshooting-techniques-for-a-flawless-gaming-experience/"><u>Minecraft PC Stutter No More - Advanced Troubleshooting Techniques for a Flawless Gaming Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimizing-performance-overcoming-low-fps-and-stuttering-in-splitgate/"><u>Optimizing Performance: Overcoming Low FPS & Stuttering in Splitgate</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-chromecast-connection-issues-for-perfect-media-streaming/"><u>Troubleshooting Chromecast Connection Issues for Perfect Media Streaming</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steams-remote-play-top-solutions-when-it-wont-start/"><u>Troubleshooting Steam's Remote Play: Top Solutions When It Won't Start</u></a></li>
+<li><a href="https://win-answers.techidaily.com/yakuza-3-remaster-update-resolves-previous-pc-system-errors/"><u>Yakuza 3 Remaster Update Resolves Previous PC System Errors</u></a></li>
 </ul></div>
 

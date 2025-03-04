@@ -1,7 +1,7 @@
 ---
 title: "Fixing OBS: How to Stop App Crashes in Windows 11 or 10 (Updated for 2nDQr)"
-date: 2024-08-19T00:56:03.997Z
-updated: 2024-08-20T00:56:03.997Z
+date: 2025-03-02T16:04:21.554Z
+updated: 2025-03-04T16:06:47.710Z
 tags:
   - win11
   - win10
@@ -36,9 +36,6 @@ This fast-paced game is super fun for those who love the joy of movement. Howeve
 
  Some third-party apps may be interrupting your Ghostrunner, and**Discord in-game is a known issue** . To avoid possible game crashes, you can disable Discord in-game overlay.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Update your device drivers
 
  The main reason why Ghostrunner’s fatal error happens is tied to the GPU driver. If your game crashes, won’t launch, or gives you any kinds of errors, be sure to update your graphics card driver and other drivers.
@@ -61,9 +58,6 @@ OR
 
  Click the**Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  , which comes with**Full Support** and a**30-day Money Back Guarantee** . You will be prompted to upgrade when you click Update All).
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/update-driver-now.jpg)
 
 4) Restart your PC for the changes to take full effect.
@@ -76,9 +70,6 @@ OR
 
  2) Scroll down to the download section for**Visual Studio 2013** , and click **Microsoft Visual C++ Redistributable Packages for Visual Studio 2013** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2013.png)
 
 3) Download the x64.exe in the language you prefer.
@@ -87,9 +78,6 @@ OR
 
 4) Scroll down the page and download the x86.exe.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/download-2.jpg)
 
  5) Run these two downloaded files and follow the on-screen instructions to install.
@@ -98,9 +86,6 @@ OR
 
 Play Ghostrunner again to see if this fatal error reoccurs.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Stop overclocking
 
  Another reason that you get Ghostrunner fatal error is GPU overclocking. If you overclocked your GPU with some software such as Afterburner, we recommend stopping the overclock or suspending these programs including GeForce Experience before you play the game.
@@ -109,16 +94,10 @@ Play Ghostrunner again to see if this fatal error reoccurs.
 
  1) Right-click your desktop and select**Nvidia Control Panel** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/NVIDIA.jpg)
 
  2) Navigate to the**Manage 3D Settings** \>**Program Settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/program.jpg)
 
  3) Select**Ghostrunner** and turn on the**Max FPS Limit** option.
@@ -143,10 +122,6 @@ Play Ghostrunner again to see if this fatal error reoccurs.
 
  Wait for the process and then restart the game to check whether the Ghostrunner fatal error has been fixed or not.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ### Fix 6: Lower your graphics settings
 
  Some gamers find decreasing the graphics settings helped fix this fatal error. Go to the graphics settings in the game, turn off anti-aliasing and try to lower other graphics settings.
@@ -165,8 +140,6 @@ Play Ghostrunner again to see if this fatal error reoccurs.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -174,4 +147,20 @@ Play Ghostrunner again to see if this fatal error reoccurs.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-how-to-easily-disableremove-youtube-shorts-permanently/"><u>[Updated] In 2024, How to Easily Disable/Remove YouTube Shorts Permanently?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-mastering-media-marketing-essential-ig-video-editors/"><u>2024 Approved Mastering Media Marketing Essential IG Video Editors</u></a></li>
+<li><a href="https://win-answers.techidaily.com/conquer-lag-the-definitive-discord-performance-fixes-for-gamers-in-202n4/"><u>Conquer Lag: The Definitive Discord Performance Fixes for Gamers in 202N4</u></a></li>
+<li><a href="https://win-answers.techidaily.com/crash-free-gaming-solving-the-gas-station-simulator-issue-for-pc-players/"><u>Crash-Free Gaming: Solving the Gas Station Simulator Issue for PC Players</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhance-gaming-performance-how-to-resolve-stuttering-and-improve-fps-in-avatar/"><u>Enhance Gaming Performance: How to Resolve Stuttering and Improve FPS in 'Avatar'</u></a></li>
+<li><a href="https://win11.techidaily.com/executing-system-file-checker-with-ease-in-windows/"><u>Executing System File Checker with Ease in Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-get-arcadegeddon-running-smoothly-on-your-pc-again/"><u>How To Get Arcadegeddon Running Smoothly on Your PC Again</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726026798515-mp4/"><u>MP4ビデオのボリューム設定向上ツール集＆おすすめサイトベストセレクション</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-the-chaos-a-guide-to-common-twitch-streamer-pitfalls-for-rookies/"><u>Navigating the Chaos: A Guide to Common Twitch Streamer Pitfalls for Rookies</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/original-tape-review-study-guide-for-2024/"><u>Original Tape Review Study Guide for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723008481801-rest-avoid-activities-that-may-aggrave-the-injury-or-cause-further-damage-to-the-affected-area-allowing-the-body-time-to-rest-promotes-proper-healing/"><u>Rest: Avoid Activities that May Aggrave the Injury or Cause Further Damage to the Affected Area. Allowing the Body Time to Rest Promotes Proper Healing.</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/safe-and-seamless-conversion-wonderfox-tool-for-drm-free-ipad-transfers-from-dvd/"><u>Safe & Seamless Conversion: WonderFox Tool for DRM-Free iPad Transfers From DVD</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-troubleshooting-guide-preventing-starfield-from-crashing-on-pc-and-laptop/"><u>Ultimate Troubleshooting Guide: Preventing Starfield From Crashing on PC and Laptop</u></a></li>
+</ul></div>
 

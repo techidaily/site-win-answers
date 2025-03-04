@@ -1,7 +1,7 @@
 ---
 title: Resolving Dying Light 2'S FPS Decrease – A Guide for Smooth Gaming Experience on PC
-date: 2025-02-08T17:43:28.502Z
-updated: 2025-02-14T20:58:56.009Z
+date: 2025-02-26T16:04:18.224Z
+updated: 2025-03-04T16:04:48.868Z
 tags:
   - win11
   - win10
@@ -26,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/613172768f05bc30ced4453cadcdb6862cbaab1d0
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fixes to try
 
  You may not try them all. Just work your way down the list until you find the one that solves your problem.
@@ -52,15 +48,7 @@ thumbnail: https://thmb.techidaily.com/613172768f05bc30ced4453cadcdb6862cbaab1d0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-the-game-as-an-administrator.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Restart the game to test. If the crashes reoccur, continue to the second fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2 – Use the dedicated GPU
 
@@ -70,28 +58,16 @@ thumbnail: https://thmb.techidaily.com/613172768f05bc30ced4453cadcdb6862cbaab1d0
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/use-dedicated-card-1.jpg)
 2. Click**Browse** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/use-dedicated-card-2.jpg)
 3. Navigate to the game’s installation folder and add the Deathloop.exe file.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/use-dedicated-card.jpg)
 4. Click**Options** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/use-dedicated-card-3.jpg)
 5. Select**High performance** and click**Save** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/use-dedicated-card-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3 – Update your graphics driver
 
@@ -127,10 +103,6 @@ You can also close all unnecessary apps in the background. Here is how:
 
  Now that you should only leave Deathloop and your game launcher running. Test if you’re able to play the game as expected. If not, check out two more fixes below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5 – Verify the integrity of game files
 
  Missing or corrupted games file is one of the most known reasons for game crashes. If Deathloop keeps crashing, you can do an integrity check to see if there is anything wrong with the game files.
@@ -139,16 +111,8 @@ You can also close all unnecessary apps in the background. Here is how:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. Right-click Deathloop and click**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/verify-game-files-3.jpg)
 3. Click**Local Files** on the left and click**Verify integrity of game files** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/verify-game-files-2-1.jpg)
 
@@ -197,20 +161,24 @@ You can also close all unnecessary apps in the background. Here is how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-top-audiovisual-enhancements-for-video-producers/"><u>2024 Approved Top Audiovisual Enhancements for Video Producers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/civilization-6-and-windows-11-compatibility-solving-game-not-starting-issues/"><u>Civilization 6 and Windows 11 Compatibility: Solving Game Not Starting Issues</u></a></li>
-<li><a href="https://win-answers.techidaily.com/cod-modern-warfare-solved-first-person-shooter-features-and-updates/"><u>COD: Modern Warfare - Solved First Person Shooter Features and Updates</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723005502176-ending-the-struggle-premiere-pro-instability-no-more-for-windows-users/"><u>Ending the Struggle: Premiere Pro Instability No More for Windows Users!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-repair-no-rest-for-the-wicked-freezing-problems-on-windows-machines/"><u>How to Repair 'No Rest for the Wicked' Freezing Problems on Windows Machines</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-unveiling-professional-techniques-for-aps-hdr-creation/"><u>In 2024, Unveiling Professional Techniques for APS HDR Creation</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/le-meilleur-convertisseur-hevch265-pour-mac-transformez-votre-contenu-en-une-qualite-optimale/"><u>Le Meilleur Convertisseur HEVC/H.265 Pour Mac: Transformez Votre Contenu en Une Qualité Optimale</u></a></li>
-<li><a href="https://win-answers.techidaily.com/master-the-stable-garrys-mod-experience-overcoming-persistent-crashing-issues-with-new-techniques/"><u>Master the Stable Garry's Mod Experience: Overcoming Persistent Crashing Issues with New Techniques</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-chrome-freeze-and-shutdown-in-windows/"><u>Navigating Chrome Freeze and Shutdown in Windows</u></a></li>
-<li><a href="https://games-able.techidaily.com/opera-gx-claim-your-free-disco-for-a-month/"><u>Opera GX: Claim Your FREE Disco for a Month</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-the-stutter-issue-in-deathloop-on-your-gaming-pc-tips-and-solutions/"><u>Resolving the Stutter Issue in Deathloop on Your Gaming PC - Tips & Solutions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/say-goodbye-to-star-citizen-errors-enjoy-smooth-gaming-on-windows-today/"><u>Say Goodbye to Star Citizen Errors – Enjoy Smooth Gaming on Windows Today!</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-motorola-moto-g84-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Motorola Moto G84 5G? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://driver-download.techidaily.com/troubleshooting-and-updating-hp-elitebook-8460p-driver-for-windows-comprehensive-solution/"><u>Troubleshooting & Updating HP Elitebook 8460P Driver for Windows - Comprehensive Solution</u></a></li>
-<li><a href="https://win-top.techidaily.com/understanding-forex-trading-insights-into-the-market-and-mt4copier-integration/"><u>Understanding Forex Trading: Insights Into the Market & MT4copier Integration</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-amplify-your-insta-impact-essential-5-lessons-for-influencers-and-real-life-proofs/"><u>[New] In 2024, Amplify Your Insta Impact Essential 5 Lessons for Influencers & Real-Life Proofs</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-mastering-metaverse-marketing-techniques/"><u>[New] In 2024, Mastering Metaverse Marketing Techniques</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-novices-route-to-excellent-game-editing-platforms/"><u>[Updated] 2024 Approved Novice's Route to Excellent Game Editing Platforms</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-essential-insights-into-hands-free-interaction-for-2024/"><u>[Updated] Essential Insights Into Hands-Free Interaction for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-comprehensive-guide-to-understanding-smartwatch-capabilities/"><u>A Comprehensive Guide to Understanding Smartwatch Capabilities</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bypass-the-hassle-effective-strategies-for-repairing-the-winwordexe-application-glitches/"><u>Bypass the Hassle: Effective Strategies for Repairing the WINWORD.EXE Application Glitches</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ntly-professional-masterful-thumbnails-created-fast-in-2024/"><u>Instantly Professional Masterful Thumbnails Created Fast, In 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/join-forces-and-roll-to-success-the-definitive-guide-to-playing-roller-champions-crossplayer-pc/"><u>Join Forces and Roll to Success! The Definitive Guide to Playing Roller Champions Crossplayer (PC)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/no-more-waiting-fixing-player-connection-troubles-for-faster-game-searches-in-cod-warzone/"><u>No More Waiting: Fixing Player Connection Troubles for Faster Game Searches in COD Warzone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/nvidias-revolutionary-approach-to-faster-video-rendering-using-cuda-and-nvenc-for-superior-gpu-acceleration/"><u>NVIDIA's Revolutionary Approach to Faster Video Rendering Using CUDA and NVENC for Superior GPU Acceleration</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimize-your-gaming-experience-how-to-fix-game-crashes-with-crackdown-3-for-personal-computers/"><u>Optimize Your Gaming Experience - How to Fix Game-Crashes with 'Crackdown 3' For Personal Computers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-issues-resolved-navigate-the-fia-wrc-10-without-crashes/"><u>PC Issues Resolved: Navigate the FIA WRC 10 without Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pinpointing-problems-and-finding-fixes-why-does-overwatch-2-keep-failing-on-your-computer/"><u>Pinpointing Problems & Finding Fixes: Why Does Overwatch 2 Keep Failing On Your Computer?</u></a></li>
+<li><a href="https://facebook.techidaily.com/reactivate-facebook-post-phone-loss-quick-2fa-guide/"><u>Reactivate Facebook Post-Phone Loss: Quick 2FA Guide</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/speed-learning-triple-the-cognitive-exercises-for-language-gains/"><u>Speed Learning: Triple the Cognitive Exercises for Language Gains</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-10-resources-for-efficiently-finding-an-apartment/"><u>Top 10 Resources for Efficiently Finding an Apartment</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-solving-the-issue-of-starfield-not-launching-on-steam-or-xbox/"><u>Troubleshooting Guide: Solving the Issue of Starfield Not Launching on Steam or Xbox</u></a></li>
+<li><a href="https://win-answers.techidaily.com/why-does-my-pc-keeps-causing-blender-to-fail-find-out-and-fix-the-issue-now/"><u>Why Does My PC Keeps Causing Blender to Fail? Find Out and Fix the Issue Now</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723006043926-why-your-pcs-frame-rate-drops-by-two-fps-explained/"><u>Why Your PC's Frame Rate Drops by Two FPS - Explained!</u></a></li>
 </ul></div>
 

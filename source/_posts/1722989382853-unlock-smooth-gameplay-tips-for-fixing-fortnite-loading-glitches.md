@@ -1,7 +1,7 @@
 ---
 title: Unlock Smooth Gameplay - Tips for Fixing Fortnite Loading Glitches
-date: 2024-08-19T00:56:34.948Z
-updated: 2024-08-20T00:56:34.948Z
+date: 2025-02-27T16:04:20.431Z
+updated: 2025-03-04T16:01:37.442Z
 tags:
   - win11
   - win10
@@ -61,16 +61,10 @@ To do so, follow these steps:
    * **Textures** : low  
    * **Effects** : low  
    * **Show** **FPS** : On  
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
    ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be91f07309c9.jpg)
 
  Save your game settings, and restart your computer to see if your Fortnite loads properly.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Update your graphics card driver
 
  The missing or outdated drivers in your computer can cause Fortnite won’t load, especially your graphics card driver and your network adapter driver. So you should verify that your graphics card drivers are up to date.
@@ -90,9 +84,6 @@ To do so, follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be920abeeb8a.jpg)
 3. Click the**Update** button next to your device to automatically download the latest drivers (you can do this with the**FREE** version). Then install the drivers in your computer.  
  Or click**Update All** the automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be920cf0d891.jpg)
 4. Restart your computer to take effect.
 
@@ -100,18 +91,12 @@ To do so, follow these steps:
 
 Still no luck? Okay, there’s something else to try.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Run Fortnite as administrator
 
  Runing your game as administrator can grant admin rights to run your game in your computer, and this will hopefully fix Fortnite not loading problem.
 
 1. Open File Explorer, and go to the folder where your Fortnite was installed.
 2. Right click on the**Fortnite executable** and select**Run as administrator** .  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be9213d5616f.jpg)
 3. Click**Yes** to verify the UAC. If you’re prompted to enter your admin account and password, enter the information.
 4. Then you can run your Fortnite as admin.
@@ -132,21 +117,12 @@ Below lists out some PC settings you can configure:
 2. Type**msconfig** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be921926a881.jpg)
 3. Click the**Boot** tab, select your**Windows system** , and click**Advanced options** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be921b2b791d.jpg)
 4. Check the box next to**Number of processors** , and select the**highest number** available. In my case I have the highest number of 4, so I select**4** .  
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be921cace95b.jpg)
 5. Click**OK** to save. Then click**Apply** and**OK** to finish.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be921e101920.jpg)
 6. You’ll be prompted a dialog to ask you to restart, select**Exist without restart** because you’ll have a restart after configuring the settings below.  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be921fa6ef14.png)
 
 #### 2\. Adjust settings in System Properties
@@ -155,18 +131,12 @@ Below lists out some PC settings you can configure:
 
 1. Open**Control Panel** in your computer, and sure to view by large icons or small icons.
 2. Click**System** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be922528c0d3.jpg)
 3. Click**Advanced system settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be9228805808.jpg)
 4. The**System Properties** pane will pop up. Under the**Advanced** tab, click the**Settings** button in the**Performance** section.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be922bfef5f6.jpg)
 5. Click the**Advanced** tab, and make sure to select**Adjust for best performance of Programs** . Then click**Apply** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be9237d987ca.jpg)
 6. Click**Data Execution Prevention** , and make sure to choose **Turn on DEP for essential Windows programs and services only** . Then Click**Apply** and**OK** to save.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be9234f416dc.jpg)
@@ -187,8 +157,6 @@ Launch your Fortnite and see if it will load properly.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -196,4 +164,23 @@ Launch your Fortnite and see if it will load properly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/new-essential-7-dslrs-to-elevate-virtual-presentations-and-broadcasts/"><u>[New] Essential 7 DSLRs to Elevate Virtual Presentations & Broadcasts</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-inception-filming-review-examination/"><u>[Updated] 2024 Approved Inception Filming Review Examination</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-spin-the-story-right-youtube-video-angles-demystified-guide/"><u>2024 Approved Spin the Story Right YouTube Video Angles Demystified (Guide)</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-update-lenovo-drivers-for-windows-10/"><u>Download Update Lenovo Drivers for Windows 10</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-fixes-for-resolving-pc-gameplay-disruptions-in-wolcen-lords-of-mayhem/"><u>Effective Fixes for Resolving PC Gameplay Disruptions in Wolcen: Lords of Mayhem</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-subnautica-below-zero-from-failing-at-launch-on-your-desktop-computer/"><u>How to Stop Subnautica: Below Zero From Failing at Launch on Your Desktop Computer</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-6s-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 6s to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-vivo-v27e-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/is-it-worth-it-a-deep-dive-into-the-features-and-costs-of-the-ambient-weather-wifi-sensor-ws-1002/"><u>Is It Worth It? A Deep Dive Into the Features and Costs of the Ambient Weather WiFi Sensor WS-1002</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-the-quick-solution-to-your-battlefield-n5-wont-start-dilemma/"><u>Mastering the Quick Solution to Your Battlefield N5 Won't Start Dilemma</u></a></li>
+<li><a href="https://win-answers.techidaily.com/modern-warfare-2-stability-fixes-resolve-pc-performance-hiccups/"><u>Modern Warfare 2 Stability Fixes - Resolve PC Performance Hiccups</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-vivo-y100t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-solutions-resolving-common-issues-with-winwordexe/"><u>Quick Solutions: Resolving Common Issues with Winword.exe</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/rapid-diy-techniques-that-every-indie-filmmaker-should-try-for-2024/"><u>Rapid DIY Techniques That Every Indie Filmmaker Should Try for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-troubleshooting-guide-for-dead-by-daylight-fixing-error-code-8014/"><u>Resolved: Troubleshooting Guide for 'Dead By Daylight' - Fixing Error Code 8014</u></a></li>
+<li><a href="https://win-answers.techidaily.com/smooth-gaming-experience-effective-methods-to-enhance-elden-rings-fps/"><u>Smooth Gaming Experience: Effective Methods to Enhance Elden Ring's FPS</u></a></li>
+</ul></div>
 

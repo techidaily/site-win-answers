@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Guide to Resolving Battlefield 5 Startup Problems
-date: 2025-02-08T21:57:25.175Z
-updated: 2025-02-15T01:08:20.576Z
+date: 2025-02-27T16:09:45.882Z
+updated: 2025-03-04T16:04:57.584Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ FIFA 21 is definitely an upgrade from 20 with an improvement to both career mode
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You might not need to try them all; simply work your way down the list until you find the one that works for you.
@@ -41,10 +37,6 @@ FIFA 21 is definitely an upgrade from 20 with an improvement to both career mode
 9. [Launch FIFA 21 in Windowed or Windowed borderless mode](https://tools.techidaily.com/drivereasy/download/)
 10. [Delete files from ProgramData (Origin)](https://www.drivereasy.com/knowledge/solved-fifa-21-not-launching/#fix10)
 11. [Delete files from AppData (Origin)](https://www.drivereasy.com/knowledge/solved-fifa-21-not-launching/#fix11)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Before getting started
 
@@ -72,10 +64,6 @@ To check your system information, you can:
 ![check system information](https://images.drivereasy.com/wp-content/uploads/2020/10/check-system-information.png)
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 1: Allow your game through Windows Firewall
 
@@ -127,10 +115,6 @@ OR
 
  Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Option 2 – Automatically update your drivers** (recommended)
 
  Manually updating graphics drivers does take some time and patience. Also if you encounter other issues related to driver updates while playing the game in the future, you’ll again have to bother downloading and installing the latest drivers on your own. So to save you time, we highly recommend using Driver Easy as your great pick for driver updates.
@@ -169,19 +153,11 @@ Here’s how you can update your drivers with Driver Easy:
 
 ![disable in-game overlay on Steam FIFA 21 not launching](https://images.drivereasy.com/wp-content/uploads/2020/10/select-Properties-on-Steam-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Select **GENERAL**  and uncheck the box **Enable the Steam Overlay while in-game** .
 
 ![disable in-game overlay on Steam FIFA 21 not launching](https://images.drivereasy.com/wp-content/uploads/2020/09/disable-Steam-overlay-1.png)
 
  After applying the changes, exit Steam and run your game to see if this fixed the issue. If the issue persists, try the[next fix](https://tools.techidaily.com/drivereasy/download/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Origin
 
@@ -238,10 +214,6 @@ To make sure you’ve completely quit Origin, you can:
 
 ![open task manager](https://images.drivereasy.com/wp-content/uploads/2020/10/open-task-manager.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Under the**Processes** tab, scroll down and find**Origin** . Right-click on it and select**End task** .
 
 ![end task in Task Manager](https://images.drivereasy.com/wp-content/uploads/2020/10/end-task-Origin.jpg)
@@ -249,10 +221,6 @@ To make sure you’ve completely quit Origin, you can:
  Now restart your computer and launch your game to check if it does the trick. If it doesn’t, move on to the[next fix](https://tools.techidaily.com/drivereasy/download/) .
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 5: Run the game as an administrator
 
@@ -269,10 +237,6 @@ To make sure you’ve completely quit Origin, you can:
 3) Now launch your game and check if it works.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 6: Run FIFA 21 in compatibility mode for Windows 8
 
@@ -317,10 +281,6 @@ To make sure you’ve completely quit Origin, you can:
  1) Open your game and click on**Game Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/set-the-settings-to-default-in-FIFA-21-launcher.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) When you’re guided to the**Game Settings** window, click**Restore Default** .
 
@@ -403,16 +363,24 @@ To make sure you’ve completely quit Origin, you can:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-top-tier-video-capture-tools-for-pc-users/"><u>[New] 2024 Approved Top-Tier Video Capture Tools for PC Users</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ssential-illumination-strategies-for-filming/"><u>[New] Essential Illumination Strategies for Filming</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-ultimate-guide-to-eye-catching-after-effects-texture/"><u>[New] Ultimate Guide to Eye-Catching After Effects Texture</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-discord-dating-sites-worth-exploring/"><u>[Updated] In 2024, Discord Dating Sites Worth Exploring</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fc2and/"><u>FC2動画のダウンロード&保存方法：無料ガイド</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-non-functional-mov-video-format-in-premiere-pro-on-windows-expert-tips-and-solutions/"><u>Fixing Non-Functional MOV Video Format in Premiere Pro on Windows - Expert Tips & Solutions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/free-conversion-tools-effortlessly-switching-from-mp4-to-ts-file-types-heres-how/"><u>Free Conversion Tools: Effortlessly Switching From MP4 to TS File Types, Here's How</u></a></li>
-<li><a href="https://win-answers.techidaily.com/guide-to-transferring-and-converting-dvd-movies-for-playstation-xbox-psp-ps-vita-and-zune/"><u>Guide to Transferring & Converting DVD Movies for PlayStation, Xbox, PSP, PS Vita, and Zune</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-tecno-phantom-v-fold-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Tecno Phantom V Fold Phones</u></a></li>
-<li><a href="https://article-helps.techidaily.com/the-essential-list-of-filmmaking-gear-for-newcomers-for-2024/"><u>The Essential List of Filmmaking Gear for Newcomers for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/google-seo/"><u>ビデオ容量拡大手引きマニュアル - Google SEO対応</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlocking-the-secrets-of-effective-podcast-names-plus-50plus-inspirations/"><u>[New] Unlocking the Secrets of Effective Podcast Names, Plus 50+ Inspirations</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-unveiling-the-secrets-of-stretching-seconds-creating-spectaculous-slow-mo-videos-with-photos-and-web-tools-for-2024/"><u>[New] Unveiling the Secrets of Stretching Seconds Creating Spectaculous Slow-Mo Videos with Photos & Web Tools for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-how-much-do-you-earn-when-a-million-watch-youtube-in-2024/"><u>[Updated] How Much Do You Earn When a Million Watch Youtube, In 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-top-picks-free-download-sites-for-custom-skype-tones-for-2024/"><u>[Updated] Top Picks Free Download Sites for Custom Skype Tones for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beyond-solo-efforts-unlocking-the-power-of-partnership-in-new-release-strategies/"><u>Beyond Solo Efforts: Unlocking the Power of Partnership in New Release Strategies</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-the-most-recent-drivers-for-nvidia-rtx-2060-on-windows-111087/"><u>Download the Most Recent Drivers for NVIDIA RTX 2060 on Windows 11/10/8/7</u></a></li>
+<li><a href="https://win-answers.techidaily.com/dragon-quest-xi-stuttering-errors-fixed-step-by-step-troubleshooting-tips/"><u>Dragon Quest XI Stuttering Errors Fixed: Step-by-Step Troubleshooting Tips</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-the-fixes-avoid-crashes-of-hogwarts-legacy-on-initial-pc-boot-using-this-easy-guide-8-methods/"><u>Master the Fixes: Avoid Crashes of Hogwarts Legacy on Initial PC Boot Using This Easy Guide (8 Methods)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/minecraft-dungeon-pc-performance-issues-heres-how-to-stop-the-unwanted-interruptions/"><u>Minecraft Dungeon PC Performance Issues? Here's How to Stop the Unwanted Interruptions!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-troubleshooting-guide-for-the-division-2-crash-issues/"><u>Quick Troubleshooting Guide for The Division 2 Crash Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-fixing-eac-launch-issue-ensure-easy-anti-cheat-is-properly-installed/"><u>Resolved: Fixing EAC Launch Issue - Ensure Easy Anti-Cheat Is Properly Installed</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-techniques-to-elevate-your-fps-rates-in-the-world-of-tainted-grail-conquest/"><u>Step-by-Step Techniques to Elevate Your FPS Rates in the World of Tainted Grail: Conquest</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-tutorial-how-to-prevent-intrusive-phone-calls-using-androids-call-blocking-features/"><u>Step-by-Step Tutorial: How to Prevent Intrusive Phone Calls Using Android's Call-Blocking Features</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-honor-magic-5-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Honor Magic 5</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-hack-diagnosing-and-fixing-pc-issues-when-playing-the-full-horizon-forbidden-west-game/"><u>Ultimate Hack: Diagnosing and Fixing PC Issues When Playing the Full Horizon Forbidden West Game</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723008651797-unable-to-open-nier-recomplete-version-expert-guidance-inside/"><u>Unable to Open NieR Re;Complete Version? Expert Guidance Inside.</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/1728498930278-windowspc/"><u>Windows用PC移行ツールとして最適!セキュリティが保証された代替品</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ape-m4a-s/"><u>웹 블로드에서 APE M4A 파일 자동화된 전환 - 모바비's 마법</u></a></li>
 </ul></div>
 

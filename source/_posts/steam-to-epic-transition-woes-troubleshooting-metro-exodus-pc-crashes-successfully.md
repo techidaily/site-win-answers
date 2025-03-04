@@ -1,7 +1,7 @@
 ---
 title: Steam-to-Epic Transition Woes? Troubleshooting Metro Exodus PC Crashes Successfully
-date: 2025-02-09T17:56:56.898Z
-updated: 2025-02-15T00:12:14.044Z
+date: 2025-03-01T16:15:22.887Z
+updated: 2025-03-04T16:12:55.156Z
 tags:
   - win11
   - win10
@@ -35,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
 5. **[Disable in-game overlays](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Stop overclocking
 
  Many players would like to try overclocking the CPU or turbo boost the graphics card to gain a better FPS. However, overclocking often crashes the game.
@@ -62,10 +58,6 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
 
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Note** : You can do it for free if you like, but it’s partly manual.
 4. Restart your computer for the changes to take effect.
 
@@ -74,10 +66,6 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
  Restart Metro Exodus PC Enhanced Edition to see if you fixed the crashing issue. If yes, congratulations!
 
 If the issue persists, try the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 3: Verify the integrity of game files
 
@@ -89,17 +77,9 @@ If the issue persists, try the next fix below.
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Click **LOCAL FILES** \> **Verify integrity of game files…** . Wait a few minutes for Steam to validate the files of the game.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
  Restart Metro Exodus PC Enhanced Edition to check if this fix stops the crashes. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Install the latest game patch
 
@@ -150,16 +130,8 @@ To perform a clean boot, just follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
@@ -189,16 +161,24 @@ To perform a clean boot, just follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ustainable-streaming-a-deep-dive-into-youtubes-financial-dynamics-for-2024/"><u>[New] Sustainable Streaming A Deep Dive Into YouTube's Financial Dynamics for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-top-6-respectful-android-recorder-apps-for-2024/"><u>[Updated] Top 6 Respectful Android Recorder Apps for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-innovative-visual-storytelling-applying-advanced-techniques-with-luts-in-after-effects/"><u>2024 Approved Innovative Visual Storytelling Applying Advanced Techniques with LUTs in After Effects</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ver-8-youtube-thumbnail-generators-online/"><u>Discover 8 YouTube Thumbnail Generators Online</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-harmonizing-musical-pieces-with-cross-sound-techniques/"><u>In 2024, Harmonizing Musical Pieces with Cross-Sound Techniques</u></a></li>
-<li><a href="https://win-answers.techidaily.com/seamless-media-playback-across-all-device-formats/"><u>Seamless Media Playback Across All Device Formats</u></a></li>
-<li><a href="https://win-answers.techidaily.com/seamlessly-change-your-dvd-format-a-step-by-step-guide-on-converting-pal-to-ntsc-using-handbrake/"><u>Seamlessly Change Your DVD Format: A Step-by-Step Guide on Converting PAL to NTSC Using Handbrake</u></a></li>
-<li><a href="https://win-answers.techidaily.com/speed-up-your-hd-content-rip-and-convert-dvds-using-format-factory-to-mp4-or-avi/"><u>Speed Up Your HD Content: Rip & Convert DVDs Using Format Factory to MP4 or AVI</u></a></li>
-<li><a href="https://win-answers.techidaily.com/spread-the-love-share-your-favorite-free-swf-video-converter/"><u>Spread the Love - Share Your Favorite Free SWF Video Converter!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-capturing-virtual-workshops-with-your-pc-a-simple-4-stage-approach/"><u>Step-by-Step Guide: Capturing Virtual Workshops with Your PC - A Simple 4-Stage Approach</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/upcoming-macos-version-15-sequoia-insight-scheduled-launch-revolutionary-functions-and-developments-revealed/"><u>Upcoming MacOS Version 15 (Sequoia) Insight: Scheduled Launch, Revolutionary Functions & Developments Revealed</u></a></li>
+<li><a href="https://win-answers.techidaily.com/zombie-army-4-dead-war-freezing-issues-resolved-on-your-computer/"><u>'Zombie Army 4: Dead War' Freezing Issues Resolved on Your Computer</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-excellent-apps-for-streamlined-igtv-vertical-cuts/"><u>[New] 2024 Approved Excellent Apps for Streamlined IGTV Vertical Cuts</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-beyond-the-wire-crashing/"><u>[SOLVED] Beyond The Wire Crashing</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-understanding-and-crafting-youtube-live-thumbnails/"><u>[Updated] 2024 Approved Understanding and Crafting YouTube Live Thumbnails</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-first-steps-to-enhanced-gopro-experience/"><u>[Updated] In 2024, First Steps to Enhanced GoPro Experience</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-sound-architects-guide-to-memo-mastery/"><u>[Updated] The Sound Architect's Guide to Memo Mastery</u></a></li>
+<li><a href="https://some-tips.techidaily.com/boost-traffic-with-cookiebot-essential-techniques-for-search-engine-mastery/"><u>Boost Traffic with Cookiebot: Essential Techniques for Search Engine Mastery</u></a></li>
+<li><a href="https://win11.techidaily.com/comparative-analysis-of-chkdsk-and-sfc-with-dism-functions/"><u>Comparative Analysis of CHKDSK & SFC with DISM Functions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-solutions-for-the-chronic-black-screen-glitch-when-playing-fortnite-on-pcs-with-windows-os/"><u>Effective Solutions for the Chronic Black Screen Glitch When Playing Fortnite on PCs with Windows OS</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/embrace-ai-for-the-modern-professionals-toolkit/"><u>Embrace AI for the Modern Professional's Toolkit</u></a></li>
+<li><a href="https://win-forum.techidaily.com/error-free-app-launch-overcoming-pc-compatibility-challenges-easily/"><u>Error-Free App Launch: Overcoming PC Compatibility Challenges Easily</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-crashing-problems-within-naraka-bladepoint-gaming-experience/"><u>Fixing the Crashing Problems Within Naraka: Bladepoint Gaming Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-overcome-anthems-never-ending-launch-sequence-challenge/"><u>How to Overcome Anthem's Never-Ending Launch Sequence Challenge</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-resolve-call-of-duty-black-ops-4-game-wont-open-problem/"><u>How to Resolve Call of Duty Black Ops 4 Game Won't Open Problem</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/instagram-hidden-gems-top-tips-for-savvy-users/"><u>Instagram Hidden Gems Top Tips for Savvy Users</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshoot-and-overcome-freezes-in-gta-5-playtime/"><u>Troubleshoot and Overcome Freezes in GTA 5 Playtime</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshoot-and-resolve-error-6034-on-your-pc-or-xbox-in-call-of-duty-modern-warfare-ultimate-fixes/"><u>Troubleshoot and Resolve Error 6034 on Your PC or Xbox in Call of Duty: Modern Warfare - Ultimate Fixes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-unstable-connectivity-with-blizzard-game-servers/"><u>Troubleshooting: Unstable Connectivity with Blizzard Game Servers</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Handle Unexpected Reductions in FPS on Your Gaming PC/Console
-date: 2025-02-08T23:22:39.880Z
-updated: 2025-02-15T05:08:58.967Z
+date: 2025-03-02T16:13:42.721Z
+updated: 2025-03-04T16:00:39.484Z
 tags:
   - win11
   - win10
@@ -48,10 +48,6 @@ You should also rule out the possibility of faulty cables.
 
  If you’re sure you got the right port, you can continue to the troubleshooting below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Change properties of MSI Afterburner
 
  According to some players, a possible fix of the issue lies in the**compatibility settings** of Afterburner. You can follow suit and see if it works in your case.
@@ -60,28 +56,16 @@ You should also rule out the possibility of faulty cables.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/msi-afterburner-settings-1.jpg)
 2. In the**Compatibility settings** section, uncheck the box next to**Enable low-level IO driver** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/msi-afterburner-settings-2.jpg)
 3. Restart your PC and check the results in MSI Afterburner.
 
 If this trick doesn’t help you. take a look at the next one below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Check if you have Vanguard
 
  If you’re into Valorant, you might be familiar with**Vanguard** , the anti-cheat program. Records show that Vanguard is a big time trouble maker that is responsible for many game issues. And many players reported that it has something to do with Afterburner not detecting GPU. So if you have Vanguard on your system, you can try to disable/uninstall it and see if Afterburner works properly.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/vanguard-task-manager.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If you don’t have Vanguard, simply move on to the next fix.
 
@@ -115,10 +99,6 @@ If you don’t have Vanguard, simply move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
  Once done, restart your computer and check if MSI Afterburner is running correctly.
@@ -139,19 +119,11 @@ If the issue lingers on, you can continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If Afterburner works after the clean boot, you can root out the offenders by repeating the steps and disabling only half of the services and programs.
 
@@ -182,19 +154,19 @@ If the issue persists, you can try the next solution below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-from-beginner-to-expert-the-ultimate-guide-to-hp-screen-recording/"><u>[New] 2024 Approved From Beginner to Expert The Ultimate Guide to HP Screen Recording</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/xcellence-in-editing-selecting-the-right-software-for-2024/"><u>[New] Excellence in Editing Selecting the Right Software for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-embrace-the-synergy-streaming-fb-videos-through-your-apple-device/"><u>[Updated] In 2024, Embrace the Synergy Streaming FB Videos Through Your Apple Device</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-prime-jocular-photo-artist/"><u>[Updated] Prime Jocular Photo Artist</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726029909586-wav3/"><u>「圧縮技術によるWAVファイルのサイズ削減手順トップ3」</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726029752822-mov/"><u>高品質MOV動画で静かに楽しむための音量調整テクニック</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/amoeba-discover-how-aomei-empowers-camilles-digital-restoration-services/"><u>Amoeba: Discover How AOMEI Empowers Camille's Digital Restoration Services</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726028698222-dvrmp4/"><u>DVRビデオファイルをMP4形式で簡単に変換する手順</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/enhance-your-wifi-experience-on-windows-comprehensive-tutorials-for-drivers-update-in-win10-and-win11/"><u>Enhance Your WiFi Experience on Windows: Comprehensive Tutorials for Drivers Update in Win10 & Win11</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-poco-x6-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Poco X6 Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Huawei Nova Y91 | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726029871244-mp3/"><u>MP3への変換ガイド: ニコニコ動画から高音質オーディオ素材取得</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726029591951-pc-iphone-and-android/"><u>PC, iPhone & Androidで動画画像サイズ調整手順</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726028226720-pc/"><u>PCにて効果的なボイスレコーディングテクニック</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-laughlens-engine/"><u>[Updated] 2024 Approved LaughLens Engine</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-free-top-10-best-drawing-software-for-mac/"><u>[Updated] In 2024, FREE Top 10 Best Drawing Software for Mac</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/guia-paso-a-paso-para-restablecer-las-alertas-de-tu-iphone-desde-su-respaldo-de-icloud/"><u>Guía Paso a Paso Para Restablecer Las Alertas De Tu iPhone Desde Su Respaldo De iCloud</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-microsoft-edge-frequent-crashes-on-windows-11-pcs/"><u>How to Fix Microsoft Edge Frequent Crashes on Windows 11 PCs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-quickly-resolve-palworlds-loading-problems/"><u>How to Quickly Resolve Palworld's Loading Problems</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-from-your-apple-iphone-12-mini-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID from Your Apple iPhone 12 mini?</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-realme-11-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Realme 11 5G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gratuitous-sound-solutions-years-best-lut-downloads/"><u>In 2024, Gratuitous Sound Solutions - Year's Best LUT Downloads</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-blizzard-server-connectivity-issues-for-gamers/"><u>Overcoming Blizzard Server Connectivity Issues for Gamers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-how-to-quickly-snag-a-laptop-screenshot/"><u>Step-by-Step Tutorial: How to Quickly Snag a Laptop Screenshot</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-definitive-answer-eliminating-black-screen-glitches-during-discord-screen-broadcasts/"><u>The Definitive Answer: Eliminating Black Screen Glitches During Discord Screen Broadcasts</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-solve-your-pcs-steam-black-screen-issues/"><u>Ultimate Guide: Solve Your PC's Steam Black Screen Issues</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/why-siri-needs-a-transformation-is-apple-leaning-towards-ai-innovations-like-bing/"><u>Why Siri Needs a Transformation: Is Apple Leaning Towards AI Innovations Like Bing?</u></a></li>
+<li><a href="https://fox-place.techidaily.com/1728485318373-windows-11/"><u>データセキュリティ強化:Windows 11による簡単ディスクバックアップガイド</u></a></li>
 </ul></div>
 

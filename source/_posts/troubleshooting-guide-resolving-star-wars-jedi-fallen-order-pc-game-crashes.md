@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Resolving Star Wars Jedi: Fallen Order PC Game Crashes"
-date: 2025-02-12T04:22:11.880Z
-updated: 2025-02-15T03:57:29.055Z
+date: 2025-02-27T16:09:16.775Z
+updated: 2025-03-04T16:05:06.203Z
 tags:
   - win11
   - win10
@@ -35,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/b1aabf9182a40f39eacfea832a56e2883c1058666
 7. **[Lower in-game graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Check if your system meets the specifications required for The Division 2
 
@@ -86,10 +82,6 @@ thumbnail: https://thmb.techidaily.com/b1aabf9182a40f39eacfea832a56e2883c1058666
 
  If your PC fails to meet the minimum system requirements for The Division 2, you may need to upgrade your PC hardware.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Install the latest game patch
 
  The developers of The Division 2 release regular game patches to fix bugs. It’s possible that a recent patch has triggered the game crash issue, and that a new patch is required to fix it.
@@ -128,10 +120,6 @@ thumbnail: https://thmb.techidaily.com/b1aabf9182a40f39eacfea832a56e2883c1058666
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-129.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Select**Verify files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-130.png)
@@ -145,10 +133,6 @@ thumbnail: https://thmb.techidaily.com/b1aabf9182a40f39eacfea832a56e2883c1058666
  2) Click**the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-120.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Epic Game Launcher
 
@@ -186,10 +170,6 @@ thumbnail: https://thmb.techidaily.com/b1aabf9182a40f39eacfea832a56e2883c1058666
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-127.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4)**Tick the box** next to**Disable fullscreen optimizations** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-128.png)
@@ -210,10 +190,6 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-146.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) In the search box, type**advanced** and then click**View advanced system settings** in the list of search results.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-150.png)
@@ -226,17 +202,9 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-152.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5)**Check the box** next to**Automatically manage paging file size for all drives** . Then click OK to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-153.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  **Do not disable the paging file or modify it to 0 MB or a static value** even if your PC has sufficient RAM, since if you doing that, it usually causes crashes in the game.
 
@@ -266,10 +234,6 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-158-1024x758.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  6) Set**Vegetation Quality** to**Medium** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-159-1024x759.png)
@@ -281,10 +245,6 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
  8) Set**Ambient Occlusion** to**Medium** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-161-1024x777.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  9) Set the value of**Object Detail** to**50** .
 
@@ -317,20 +277,16 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-essential-mac-streaming-apps-uncovering-the-best-5/"><u>[New] 2024 Approved Essential Mac Streaming Apps Uncovering the Best 5</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-beyond-the-norm-a-review-of-the-4kcg318-display-by-eizo/"><u>[New] Beyond the Norm A Review of the 4KCG318 Display by EIZO</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/he-business-of-blogging-and-earning-on-youtube-platform/"><u>[New] The Business of Blogging and Earning on YouTube Platform</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-maximize-screen-tv-playback-for-youtube-clips/"><u>2024 Approved Maximize Screen TV Playback for YouTube Clips</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-pro-mic-tech-review-best-9-online-recorders-uncovered/"><u>2024 Approved Pro Mic Tech Review Best 9 Online Recorders Uncovered</u></a></li>
-<li><a href="https://win-answers.techidaily.com/cod-warzone-error-code-6328-decoded-best-fixes-and-tips-for-gamers/"><u>Cod Warzone Error Code 6328 Decoded - Best Fixes and Tips for Gamers</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/effective-techniques-for-diminishing-sound-levels-in-your-videos/"><u>Effective Techniques for Diminishing Sound Levels in Your Videos</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723011045906-effortless-tricks-for-fixing-apex-legends-launch-errors-quickly/"><u>Effortless Tricks for Fixing Apex Legends Launch Errors Quickly!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-lego-star-wars-the-skywalker-saga-pc-game-freezing/"><u>Fixing Lego Star Wars: The Skywalker Saga PC Game Freezing</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-anticheat-connection-failure-issue-in-escape-from-tarkov/"><u>Fixing the 'Anticheat Connection Failure' Issue in Escape From Tarkov</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-sci-ed-hacks-top-youtube-experts-to-elevate-learning/"><u>In 2024, Sci-Ed Hacks Top YouTube Experts to Elevate Learning</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-editors-pathway-for-diminishing-sound-levels/"><u>In 2024, The Editor's Pathway for Diminishing Sound Levels</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-relinking-issues-in-granblue-fantasy-windows-pc-version/"><u>Resolving 'Relinking' Issues in Granblue Fantasy Windows PC Version</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-slow-chrome-dilemmas-quick-wins-for-browsers/"><u>Solving Slow Chrome Dilemmas – Quick Wins for Browsers!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/successful-resolution-guide-eradicating-steam-error-code-130/"><u>Successful Resolution Guide: Eradicating Steam Error Code 130</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-essential-list-of-high-quality-recorders-for-mac-users-for-2024/"><u>[New] Essential List of High-Quality Recorders for Mac Users for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-incorporating-picture-in-picture-in-browsing-with-edge/"><u>[Updated] In 2024, Incorporating Picture-In-Picture in Browsing with Edge</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-the-art-of-saving-and-enjoying-animated-gifs-on-your-iphone-for-2024/"><u>[Updated] The Art of Saving and Enjoying Animated GIFs on Your iPhone for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/amd-boosts-instinct-mi1000-revenue-forecast-targeting-4-billion-vs-nvidias-staggering-40b-estimate/"><u>AMD Boosts Instinct MI1000 Revenue Forecast: Targeting $4 Billion Vs. Nvidia's Staggering $40B Estimate</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-issue-how-to-stop-battlefield-v-from-crashing-on-pc/"><u>Fixing the Issue: How to Stop Battlefield V From Crashing on PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015771007-how-to-resolve-headphone-problems-on-a-windows-10-pc-solved/"><u>How to Resolve Headphone Problems on a Windows 10 PC - Solved!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723003867612-pc-troubles-heres-the-solution-for-dread-hunger-keep-stopping-unexpectedly/"><u>PC Troubles? Here's The Solution For 'Dread Hunger' Keep Stopping Unexpectedly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/phasmophobia-update-fix-overcome-the-persistent-90-load-barrier-solutions/"><u>Phasmophobia Update Fix: Overcome the Persistent 90% Load Barrier – Solutions</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/cle-group-of-multimedia-harmony-makers/"><u>Pinnacle Group of Multimedia Harmony Makers</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/pros-picks-top-10-spotify-recording-applications-for-2024/"><u>Pro's Picks Top 10 Spotify Recording Applications for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/yakuza-6-pc-gameplay-fixes-for-a-seamless-song-of-life-experience/"><u>Yakuza 6 PC Gameplay Fixes for a Seamless 'Song of Life' Experience</u></a></li>
 </ul></div>
 

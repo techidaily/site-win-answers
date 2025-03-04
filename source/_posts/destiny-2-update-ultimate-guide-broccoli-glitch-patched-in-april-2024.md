@@ -1,7 +1,7 @@
 ---
 title: "Destiny 2 Update: Ultimate Guide - Broccoli Glitch Patched in April 2024"
-date: 2024-08-19T00:54:36.306Z
-updated: 2024-08-20T00:54:36.306Z
+date: 2025-02-28T16:03:29.410Z
+updated: 2025-03-04T16:02:25.721Z
 tags:
   - win11
   - win10
@@ -51,16 +51,10 @@ Here’s how:
 To check the specs of your PC:
 
 1. On your keyboard, press the **Windows logo key** and **R** at the same time, then type **dxdiag** and press **Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/dxdiag-Run-box.png)
 2. Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/dxdiag-diagnostic-tool-1.png)
 3. Select the **Display** tab, and you’ll be presented with the information about your **graphics card** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/display-1.png)
 4. Close DirectX.
 
@@ -80,9 +74,6 @@ To check the specs of your PC:
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/amd-graphics.png)
 4. Restart your computer for the change to take effect.
 
@@ -110,23 +101,13 @@ The steps are pretty easy:
 
 Here’s how to do it:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ### On Windows 10
 
 1. On your keyboard, press the**Windows logo** key and type**settings** , then click on**Settings** as it pops up as a result.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/settings.png)
 2. In the pop-up window, click the**Gamings** category.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/gaming.png)
 3. In the left panel, click**Game Mode** , then switch the toggle for**Game Mode** to the opposite status.  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/game-mode.png)
 4. Run Destiny 2 and see if the Broccoli crash error is solved. If it doesn’t happen anymore, then congrats! If it still persists. try**Fix 5** , below.
 
@@ -147,14 +128,8 @@ Here are the steps:
 ### On Windows 10
 
 1. On your keyboard, press**the Windows logo key** and type**check for updates** , then click on**Check for updates** as it pops up as a matching result.  
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/12-1.png)
 2. Click**Check for updates** .  
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cc.png)
 3. Wait a while for Windows to check and automatically install the updates for you.
 4. Restart your computer.
@@ -163,32 +138,16 @@ Here are the steps:
 
 1. On your keyboard, hit the**Windows** key, then type**check for update** s, then click C**heck for updates** .  
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
 
  Destiny 2 broccoli error still occurs? Please continue with**Fix 6** , below.
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ## Fix 6: Stop overclocking
 
  Many players would overclock their CPU or GPU to crank out extra performance out of the existing system. The downside is that, high clock speed may induce stability issues and even crashes to your system.
@@ -207,8 +166,6 @@ The ultimate burning program for all your needs!</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -216,4 +173,24 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-hasty-habits-presentation-file-recording/"><u>[New] Hasty Habits Presentation File Recording</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-capture-your-screen-on-chromebook-methods-4-you/"><u>[Updated] Capture Your Screen on Chromebook Methods 4 You</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-maximizing-income-average-adsense-payouts-per-thousand-viewers/"><u>[Updated] In 2024, Maximizing Income Average AdSense Payouts Per Thousand Viewers</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-the-ultimate-bundle-6-powerful-apps-to-remove-signature-borders/"><u>[Updated] In 2024, The Ultimate Bundle – 6 Powerful Apps to Remove Signature Borders</u></a></li>
+<li><a href="https://win-answers.techidaily.com/achieve-seamless-gameplay-in-the-division-2-addressing-low-fps-and-stutter-issues-for-the-new-year/"><u>Achieve Seamless Gameplay in The Division 2 - Addressing LOW FPS & Stutter Issues for the New Year</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/detailed-steps-to-correct-d3dx940dll-not-found-errors-on-your-pc/"><u>Detailed Steps to Correct 'd3dx9_40.dll Not Found' Errors on Your PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effortless-techniques-for-correcting-the-steam-corrupted-disk-issue/"><u>Effortless Techniques for Correcting the Steam Corrupted Disk Issue</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-vivo-x-fold-2-is-unlocked-by-drfone-android/"><u>How To Check if Your Vivo X Fold 2 Is Unlocked</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-recurring-blender-program-failure-and-stability-issues-on-your-computer/"><u>How To Stop Recurring Blender Program Failure and Stability Issues On Your Computer</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-iphone-7-plus-drfone-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-gaming-problems-solved-how-to-successfully-start-valorant-amidst-2024-glitches/"><u>PC Gaming Problems Solved: How to Successfully Start Valorant Amidst 2024 Glitches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-control-a-guide-for-broken-controllers/"><u>Restoring Control: A Guide for Broken Controllers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/speeding-up-ubisoft-connect-transfers-a-step-by-step-guide/"><u>Speeding Up Ubisoft Connect Transfers: A Step-by-Step Guide</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210458239-9798985325300-spiritual-nurturing-for-intuitive-children/"><u>Spiritual Nurturing for Intuitive Children | Free Book</u></a></li>
+<li><a href="https://win-answers.techidaily.com/steam-troubleshooting-unlocking-and-accessing-blocked-game-files/"><u>Steam Troubleshooting: Unlocking and Accessing Blocked Game Files</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-fixing-total-war-warhammer-iii-game-crashes-on-windows/"><u>Troubleshooting Tips: Fixing 'Total War: Warhammer III' Game Crashes on Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unraveling-the-mystery-how-to-handle-superhero-crossovers-gone-wrong-on-your-desktop-adventure/"><u>Unraveling the Mystery: How to Handle Superhero Crossovers Gone Wrong on Your Desktop Adventure</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Resolved Issue: Century: Age of Ashes Now Runs Smoothly on Windows, Mac, & Linux"
-date: 2025-02-11T04:19:03.245Z
-updated: 2025-02-15T03:03:12.043Z
+date: 2025-02-26T16:07:36.826Z
+updated: 2025-03-04T16:12:29.868Z
 tags:
   - win11
   - win10
@@ -32,10 +32,6 @@ After a long wait, the[new Hitman installment](https://www.epicgames.com/store/e
 4. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Check if it’s a server issue](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Verify the integrity of your game files
 
@@ -68,19 +64,11 @@ Here’s how:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-games-launcher-run-as-admin-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Launch Hitman 3 from game folder
 
  The game not launching error might come from the game launcher. Some gamers reported on[reddit](https://www.reddit.com/r/HiTMAN/comments/l1qlc7/cant%5Flaunch%5Fthe%5Fgame%5Fat%5Fall%5Fon%5Fepic/) that when they failed to start Hitman 3 from Epic Games launcher, one possible workaround is to launch it using the**hitman3.exe** file in the game folder. So you can try this trick and see how things go.
 
  If you can’t launch Hitman 3 directly from the game folder, take a look at the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -109,15 +97,7 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -142,10 +122,6 @@ Here’s how you can check for updates manually:
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
@@ -174,18 +150,20 @@ Here’s how you can check for updates manually:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-streamcatcher-pro-for-facebook-videos/"><u>[New] 2024 Approved StreamCatcher Pro for Facebook Videos</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-dive-into-4k-splendor-with-nikon-1j5-videography-for-2024/"><u>[Updated] Dive Into 4K Splendor with Nikon 1J5 Videography for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-googles-revolutionary-approach-to-speech-interpretation/"><u>[Updated] Google's Revolutionary Approach to Speech Interpretation</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-the-grand-gaming-odyssey-our-list-of-best-action-adventures/"><u>[Updated] The Grand Gaming Odyssey Our List of Best Action-Adventures</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/dell-alienware-aurora-r9-unleashed-an-ultimate-review-of-its-revolutionary-design-and-performance/"><u>Dell Alienware Aurora R9 Unleashed: An Ultimate Review of Its Revolutionary Design and Performance</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/game-stability-avoiding-rtx-crashes/"><u>Game Stability: Avoiding RTX Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/simple-steps-transforming-your-mpeg-files-into-mp3-format-seamlessly/"><u>Simple Steps: Transforming Your MPEG Files Into MP3 Format Seamlessly</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-solution-for-overcoming-h265-playback-problems-in-kodi/"><u>Step-by-Step Solution for Overcoming H265 Playback Problems in Kodi</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-tutorial-on-altering-video-dimensions-within-premiere-pro-software/"><u>Step-by-Step Tutorial on Altering Video Dimensions Within Premiere Pro Software</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Poco F5 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/the-ultimate-selection-of-free-vr-media-viewing-applications-compatible-with-every-platform-including-pc-mac-iphone-and-android/"><u>The Ultimate Selection of Free VR Media Viewing Applications Compatible with Every Platform Including PC, Mac, iPhone, and Android</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-15-free-tools-for-converting-mp4-audio-files-into-mp3-format/"><u>Top 15 Free Tools for Converting MP4 Audio Files Into MP3 Format</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-methods-for-converting-aiff-audio-files-into-mp3-format-on-your-pc/"><u>Top Methods for Converting AIFF Audio Files Into MP3 Format on Your PC</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-prime-premiere-pro-blueprints-best-free-2023-for-2024/"><u>[New] Prime Premiere Pro Blueprints - Best Free 2023 for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/assessing-the-value-of-4-second-rapid-subscriptions-on-youtube/"><u>Assessing the Value of 4-Second Rapid Subscriptions on Youtube</u></a></li>
+<li><a href="https://games-able.techidaily.com/champions-choice-7-incredible-sports-games-for-iphonestablets/"><u>Champion's Choice: 7 Incredible Sports Games for iPhones/Tablets</u></a></li>
+<li><a href="https://network-issues.techidaily.com/displayerror-in-windows-ui-graphic-system-ready-for-resolution/"><u>DisplayError in WIndows UI Graphic System (Ready for Resolution)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diy-fixes-for-your-speakers-persistent-purring-problem/"><u>DIY Fixes for Your Speaker's Persistent Purring Problem</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-for-msi-afterburners-failed-gpu-recognition-in-windows-11/"><u>Fixes for MSI Afterburner's Failed GPU Recognition in Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/get-your-gta-5-online-up-and-running-fixes-for-common-errors/"><u>Get Your 'GTA 5 Online' Up and Running – Fixes for Common Errors</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Lava Blaze 2 5G? | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Apple iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-mastering-the-art-of-watermarking-on-facebook/"><u>In 2024, Mastering the Art of Watermarking on Facebook</u></a></li>
+<li><a href="https://win-answers.techidaily.com/nvidia-geforce-troubleshooting-demystifying-the-infamous-error-code-0x003-success-stories/"><u>Nvidia Geforce Troubleshooting: Demystifying the Infamous Error Code 0X00^3 Success Stories</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-trouble-heres-the-solution-for-payday-2-not-starting-correctly/"><u>PC Trouble? Here's the Solution for Payday 2 Not Starting Correctly</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722045113182-top-6-common-pitfalls-in-crafting-chatgpt-queries-and-how-to-dodge-them/"><u>Top 6 Common Pitfalls in Crafting ChatGPT Queries & How to Dodge Them</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-how-to-fix-cortana-when-it-stops-responding/"><u>Troubleshooting Tips: How To Fix Cortana When It Stops Responding</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-reducing-cs2-latency-and-ping-issues-on-your-gaming-pc/"><u>Ultimate Guide: Reducing CS2 Latency & Ping Issues on Your Gaming PC</u></a></li>
 </ul></div>
 

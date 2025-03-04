@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solution for 'Not Installed' Easy Anti-Cheat During EAC Initialization
-date: 2025-02-09T03:33:20.952Z
-updated: 2025-02-15T05:35:49.924Z
+date: 2025-02-27T16:12:25.764Z
+updated: 2025-03-04T16:03:20.532Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/e73bb44e853b64ea13a3dc6d94705befdc354ca8d
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You may not have to try them all. Just work your way down the list until you find the one that works.
@@ -38,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/e73bb44e853b64ea13a3dc6d94705befdc354ca8d
 4. **[Repair the EasyAntiCheat](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Reinstall Fortnite](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Bonus tips: Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Restart your computer
 
@@ -57,10 +49,6 @@ If Fortnite still fails, don’t worry. Try the fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-02_12-03-47.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)**  Type**C:\\Program Files\\Epic Games\\Fortnite\\FortniteGame** in the address bar and press **Enter**  on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-02_12-03-56.jpg)
@@ -68,10 +56,6 @@ If Fortnite still fails, don’t worry. Try the fix, below.
 **3)** Highlight the**Binaries folder** and press the**Del** key on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-02_12-04-06.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Relaunch Epic Games Launcher and try running your game again.
 
@@ -117,10 +101,6 @@ If you still can’t open Fortnite, move on and try the next fix.
 
  After the process is complete, relaunch your game to check if your problem has been resolved. If not, read on and try the fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5: Reinstall Fortnite
 
  If none of the above fixes resolves your problem, try reinstalling Fortnite. Follow the instructions below:
@@ -134,10 +114,6 @@ If you still can’t open Fortnite, move on and try the next fix.
 **3)**  Click **UNINSTALL.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-02_12-05-50.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4) Restart**  your computer and run the **Epic Games Launcher**  again to download and install Fortnite again.
 
@@ -157,19 +133,11 @@ OR
 
 **[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/solved-fortnite-entry-point-not-found-2019-tips/#e2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Option 1 – Download and install the driver manually**
 
  Epson keeps updating drivers. To get them, you need to go to your graphics product manufacturer’s website, find the driver corresponding with your specific flavor of Windows version (for example, Windows 32 bit) and download the driver manually.
 
  Once you’ve downloaded the correct drivers for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Option 2 – Automatically update** your graphics driver
 
@@ -213,18 +181,19 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-ai-generated-podcast-titles-that-stick-with-you/"><u>[New] 2024 Approved AI-Generated Podcast Titles That Stick With You</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solved-logitech-c920-webcam-not-working/"><u>[Solved] Logitech C920 Webcam Not Working</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-the-cutting-edge-of-vid-extraction-top-5-free-fast-pinterest-tools/"><u>[Updated] 2024 Approved The Cutting Edge of Vid Extraction Top 5 Free, Fast Pinterest Tools</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-the-ultimate-ios-movie-experience-top-8-free-plus-paid-picks/"><u>[Updated] In 2024, The Ultimate iOS Movie Experience Top 8 Free + Paid Picks</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-optimizing-youtube-videos-for-igtv-exposure/"><u>2024 Approved Optimizing YouTube Videos for IGTV Exposure</u></a></li>
-<li><a href="https://win-answers.techidaily.com/eliminating-the-black-ops-cold-war-887a0005-error-expert-fixes-and-tips/"><u>Eliminating the BLACK OPS COLD WAR 887A0005 Error – Expert Fixes & Tips</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/how-to-construct-your-own-home-made-google-cardboard-vr-device-for-2024/"><u>How to Construct Your Own Home-Made Google Cardboard VR Device for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-editors-playbook-for-social-media-stardom/"><u>In 2024, The Editor's Playbook for Social Media Stardom</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-turning-tidal-wave-of-tiktoks-into-manageable-drafts-through-editing/"><u>In 2024, Turning Tidal Wave of TikToks Into Manageable Drafts Through Editing</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/pickup-vs-the-rest-which-dominates-in-androids-photo-editing-field/"><u>PickUp Vs. The Rest Which Dominates in Android's Photo Editing Field</u></a></li>
-<li><a href="https://win-answers.techidaily.com/tactical-approach-rectifying-recurrent-pc-glitches-in-the-frontier-gaming-experience/"><u>Tactical Approach: Rectifying Recurrent PC Glitches in the Frontier Gaming Experience</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-source-for-high-performance-computer-hardware-toms-expertise/"><u>The Ultimate Source for High-Performance Computer Hardware: Tom's Expertise</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-the-game-solutions-for-minecrafts-crossbow-issue/"><u>Troubleshooting the Game: Solutions for Minecraft's Crossbow Issue</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-elevate-your-xbox-gameplay-a-comprehensive-screen-guide/"><u>[New] In 2024, Elevate Your Xbox Gameplay A Comprehensive Screen Guide</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-ensuring-smooth-streaming-how-to-avoid-fb-live-glitches-for-2024/"><u>[Updated] Ensuring Smooth Streaming How to Avoid Fb Live Glitches for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhance-game-performance-update-graphics-card-driver-for-forza-horizon-5/"><u>Enhance Game Performance: Update Graphics Card Driver for Forza Horizon 5</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/essential-screencapture-strategies-for-effective-image-capturing/"><u>Essential ScreenCapture Strategies for Effective Image Capturing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-and-solutions-resolving-constant-crashes-in-valheim-pc-edition/"><u>Fixes & Solutions: Resolving Constant Crashes in Valheim PC Edition</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-nokia-c110-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-poco-m6-pro-4g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Poco M6 Pro 4G Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-instagrams-updated-strategy-and-its-effects/"><u>In 2024, Instagram’s Updated Strategy and Its Effects</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-picture-perfect-instagram-carousel/"><u>In 2024, Picture-Perfect Instagram Carousel</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimizing-your-play-experience-with-avatar-frontiers-of-pandora-fixing-low-fps-and-bottlenecks/"><u>Optimizing Your Play Experience with 'Avatar: Frontiers of Pandora': Fixing Low FPS and Bottlenecks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-issue-of-unrecognized-controllers-for-steam-games-on-windows-systems/"><u>Solving the Issue of Unrecognized Controllers for Steam Games on Windows Systems</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-to-update-your-flipbuilder-account-with-the-newest-software/"><u>Step-by-Step Guide to Update Your FlipBuilder Account with the Newest Software</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-smooth-valheim-gaming-on-personal-computers/"><u>Troubleshooting Steps for Smooth Valheim Gaming on Personal Computers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/warzone-dev-error-5573-heres-what-you-need-to-know-for-pc-and-console-setup-correction/"><u>Warzone Dev Error #5573? Here's What You Need To Know for PC & Console Setup Correction!</u></a></li>
 </ul></div>
 

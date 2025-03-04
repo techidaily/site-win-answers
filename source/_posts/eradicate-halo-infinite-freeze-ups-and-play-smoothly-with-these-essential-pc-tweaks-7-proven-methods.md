@@ -1,7 +1,7 @@
 ---
 title: Eradicate Halo Infinite Freeze-Ups and Play Smoothly with These Essential PC Tweaks (7 Proven Methods)
-date: 2025-02-12T02:36:36.688Z
-updated: 2025-02-14T20:20:12.117Z
+date: 2025-03-02T16:08:28.295Z
+updated: 2025-03-04T16:00:08.620Z
 tags:
   - win11
   - win10
@@ -46,20 +46,12 @@ Many players are complaining about the Escape from Tarkov low FPS since the rece
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click**Update** **All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update** **All** ). Or you can click**Update** to update the graphics driver for free, but it’s partly manual.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/amd-6800xt.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Normally you should see a significant performance improvement after you update all the device drivers on your computer. But if not, take a look at the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2 – Close unnecessary background programs
 
@@ -72,15 +64,7 @@ Many players are complaining about the Escape from Tarkov low FPS since the rece
  Don’t end any programs you’re unfamiliar with, as they may be critical for the functioning of your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ta-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If no programs are consuming your CPU or GPU but FPS drops reoccur, try the third fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3 – Change the PC power plan
 
@@ -98,25 +82,13 @@ Many players are complaining about the Escape from Tarkov low FPS since the rece
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ultimate-performance-1.jpg)
 2. In the command prompt, type or paste the following command and press **Enter** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 
  When you see a prompt as shown in the picture, Ultimate Performance is enabled and please return to the steps above to set it as your preferred plan.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ultimate-performance-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Check how the game works. If the issue persists, proceed to the next method.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4 – Disable fullscreen optimizations
 
@@ -129,10 +101,6 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/disable-fullscreen-optimizations-1.jpg)
 4. Tick**Override high DPI scaling behaviour** and choose**Application** from the drop-down menu. Then, click**OK** to save the changes.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/disable-fullscreen-optimizations-2.jpg)
 
@@ -165,10 +133,6 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 1. Right-click any empty space on your desktop and select**NVIDIA Control Panel** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-1-1.jpg)
 2. Select**3D settings** \>**Manage 3D settings** from the left pane.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-2-1.jpg)
 3. Navigate to the**Program Settings** and select the**EscapeFromTarkov.exe file** from the drop-down list.  
@@ -219,21 +183,18 @@ Restart the game to test, and you should find the FPS increases now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-radiant-registering-and-unregistering-rites/"><u>[New] In 2024, Radiant Registering and Unregistering Rites</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-seamless-classic-play-on-ios-with-select-ps2-emulators-for-2024/"><u>[New] Seamless Classic Play on iOS with Select PS2 Emulators for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-from-zero-to-hero-mastering-memes-in-kinemaster/"><u>[Updated] From Zero to Hero Mastering Memes in KineMaster</u></a></li>
-<li><a href="https://win-answers.techidaily.com/veoh/"><u>容赦なく楽しめるVeohの映画、アニメ動画ダウンロードガイド</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/boost-communication-how-to-use-google-hangouts-on-mobile/"><u>Boost Communication How to Use Google Hangouts on Mobile</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/comprehensive-tutorial-on-retrieving-and-exporting-data-from-chatgpt/"><u>Comprehensive Tutorial on Retrieving and Exporting Data From ChatGPT</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Apple iPhone 6s Plus | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-say-goodbye-to-tiktok-watermarks-best-online-remover-tools/"><u>In 2024, Say Goodbye to TikTok Watermarks Best Online Remover Tools</u></a></li>
-<li><a href="https://fox-access.techidaily.com/personalized-branding-made-easy-use-free-logo-templates-and-edit-for-2024/"><u>Personalized Branding Made Easy Use Free Logo Templates and Edit for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-oppo-reno-9a-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Oppo Reno 9A Step-by-Step Solutions | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-rated-video-editing-software-for-windows-the-ultimate-guide/"><u>Top Rated Video Editing Software for Windows: The Ultimate Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-replacement-options-when-the-official-kodil-repository-is-unavailable-download-alternate-addon-packages/"><u>Top Replacement Options When the Official Kodil Repository Is Unavailable - Download Alternate Addon Packages</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-dvd-ripper-accelerate-your-video-and-dvd-conversions-with-wonderfox/"><u>Ultimate DVD Ripper: Accelerate Your Video & DVD Conversions with WonderFox</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-to-tweaking-dat-video-playback-for-enhanced-quality/"><u>Ultimate Guide to Tweaking DAT Video Playback for Enhanced Quality</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-safe-methods-to-rip-burn-and-duplicate-your-dvdcd-content/"><u>Ultimate Guide: Safe Methods to Rip, Burn & Duplicate Your DVD/CD Content</u></a></li>
-<li><a href="https://win-answers.techidaily.com/webm-to-avi-conversion-effective-techniques-both-on-and-off-the-internet/"><u>WebM to AVI Conversion: Effective Techniques Both On and Off the Internet</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-10-tricks-for-turning-youtube-watchlists-around/"><u>[New] In 2024, 10 Tricks for Turning YouTube Watchlists Around</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/he-most-effective-7-apps-for-blocking-android-web-ads-for-2024/"><u>[New] The Most Effective 7 Apps for Blocking Android Web Ads for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-outro-mastery-top-6-free-video-closers/"><u>[Updated] Outro Mastery Top 6 Free Video Closers</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-the-art-of-transferring-tunes-between-platforms/"><u>2024 Approved The Art of Transferring Tunes Between Platforms</u></a></li>
+<li><a href="https://win-answers.techidaily.com/call-of-duty-warzone-pc-issues-stop-game-crashes-with-these-solutions/"><u>Call of Duty: Warzone PC Issues - Stop Game Crashes with These Solutions!</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/clearing-the-way-for-pristine-interlaced-videos/"><u>Clearing the Way for Pristine, Interlaced Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-ai-chatbot-restrictions-and-personal-repercussions/"><u>Exploring AI Chatbot Restrictions & Personal Repercussions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guide-for-repairing-corsair-icue-connectivity-problems-on-latest-windows-operating-systems/"><u>Guide for Repairing Corsair iCUE Connectivity Problems on Latest Windows Operating Systems</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-no-8-visual-artists-choice-for-photo-assembly/"><u>In 2024, No. 8 Visual Artist's Choice for Photo Assembly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/nba-2k21-unsticking-from-the-black-loading-screen-tips-release/"><u>NBA 2K21 - Unsticking From the Black Loading Screen: Tips Release</u></a></li>
+<li><a href="https://win-answers.techidaily.com/professional-hacks-increase-frame-rate-on-escape-from-tarkov/"><u>Professional Hacks: Increase Frame Rate on 'Escape From Tarkov'</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-resolving-thaumaturge-game-crashes-on-windows/"><u>Troubleshooting Steps for Resolving Thaumaturge Game Crashes on Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-solution-resolving-playback-hiccups-of-outriders-on-your-computer-2e-edition/"><u>Ultimate Solution: Resolving Playback Hiccups of Outriders on Your Computer, 2E Edition</u></a></li>
 </ul></div>
 

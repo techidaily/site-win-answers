@@ -1,7 +1,7 @@
 ---
 title: "Resolving Freezing Problems in Total War: WARHAMMER II – A Comprehensive Guide"
-date: 2025-02-08T06:24:54.806Z
-updated: 2025-02-14T18:12:41.729Z
+date: 2025-02-25T16:09:05.119Z
+updated: 2025-03-04T16:12:04.332Z
 tags:
   - win11
   - win10
@@ -44,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/2bedac5967dc2670719be619f6173feb9adb05006
 
  Crowded servers are common on launch days. If the game is too laggy to play, you can check the server status first to see if the problem is with the server-end. You can also visit[Back 4 Blood official site](https://www.back4blood.com/en-us/news) ,[Twitter](https://twitter.com/back4blood) ,[Discord](https://discord.com/invite/turtlerockstudios) or the[Steam forum](https://steamcommunity.com/app/924970/discussions/) to see if there’s any announcement.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 2: Test internet connection
 
  If there’s nothing wrong with the server, then you can start troubleshooting from your side. Since high ping and lag issues are network-related, you should first test your internet connection. Here’s a few general steps you can do:
@@ -59,10 +55,6 @@ thumbnail: https://thmb.techidaily.com/2bedac5967dc2670719be619f6173feb9adb05006
 
  If you’ve checked your internet connection but the ping is still high, try the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 3: Close bandwidth-hogging programs
 
  You’re more likely to experience lag spikes and get a high ping in-game when other programs are hogging your bandwidth. If your browser is running with tons of tabs open or videos loading in the background, your connection will become very slow.
@@ -72,10 +64,6 @@ thumbnail: https://thmb.techidaily.com/2bedac5967dc2670719be619f6173feb9adb05006
 1. Right-click your taskbar, then click**Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-29-08.jpg)
 2. Under the**Processes** tab, look for the processes that are network-hogging. Select it then click**End task** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/close-bandwidth-hogging-program.jpg)
 
@@ -98,10 +86,6 @@ thumbnail: https://thmb.techidaily.com/2bedac5967dc2670719be619f6173feb9adb05006
  3) Click the **Update**  button next to the flagged network driver to automatically download the correct version of the drivers, then you can manually install them (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. For example, you can update both your graphics driver and network driver with just one click. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -128,10 +112,6 @@ thumbnail: https://thmb.techidaily.com/2bedac5967dc2670719be619f6173feb9adb05006
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/flushdns???.png)
 4. Your DNS cache is successfully cleared.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
 
 ### 2: Switch to a public DNS server
@@ -145,10 +125,6 @@ thumbnail: https://thmb.techidaily.com/2bedac5967dc2670719be619f6173feb9adb05006
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click **the network you’re using** , then click **Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select **Internet Protocol Version 4 (TCP/IPv4)** , then click **Properties** .  
 
@@ -159,10 +135,6 @@ thumbnail: https://thmb.techidaily.com/2bedac5967dc2670719be619f6173feb9adb05006
  **Alternate DNS server: 8.8.4.4**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Bonus tip: try with a VPN
 
@@ -196,19 +168,24 @@ thumbnail: https://thmb.techidaily.com/2bedac5967dc2670719be619f6173feb9adb05006
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-how-to-elevate-video-closure-vimeos-end-screen-essentials/"><u>[New] 2024 Approved How to Elevate Video Closure Vimeo's End Screen Essentials</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723009510646-solved-origin-wont-load-quickly-and-easily/"><u>[SOLVED] Origin Won’t Load | Quickly & Easily!</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-the-ultimate-guide-for-beyond-sharex-review-for-2024/"><u>[Updated] The Ultimate Guide for Beyond-ShareX Review for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/behind-the-scenes-of-successful-onestream-livestreams-for-2024/"><u>Behind-the-Scenes of Successful OneStream Livestreams for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effortlessly-resolve-playstation-or-xbox-errors-in-madden-22-step-by-step-guide/"><u>Effortlessly Resolve PlayStation or Xbox Errors in Madden 22: Step-by-Step Guide</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/enhance-video-to-fit-instagrams-visual-taste-for-2024/"><u>Enhance Video to Fit Instagram's Visual Taste for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-stop-recurring-load-failures-for-anthem-players/"><u>How to Stop Recurring Load Failures for Anthem Players</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-google-pixel-8-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Google Pixel 8 Devices</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-instagram-storytelling-success-planning-a-dynamic-marketing-strategy/"><u>In 2024, Instagram Storytelling Success Planning a Dynamic Marketing Strategy</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On ZTE Axon 40 Lite | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/msi-afterburner-troubleshooting-successfully-detecting-your-graphics-card-in-modern-windows-os/"><u>MSI Afterburner Troubleshooting: Successfully Detecting Your Graphics Card in Modern Windows OS</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solution-guide-why-is-my-google-meet-camera-malfunctioning/"><u>Solution Guide: Why Is My Google Meet Camera Malfunctioning?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-fixing-the-sea-of-thieves-persistent-load-screen-issue/"><u>Troubleshooting: Fixing the Sea of Thieves Persistent Load Screen Issue</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/unlock-your-potential-with-ez-grabber-installation-and-usage/"><u>Unlock Your Potential with EZ Grabber - Installation & Usage</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ecrets-to-profitability-earning-with-youtube-shorts-explored/"><u>[New] Secrets to Profitability Earning with YouTube Shorts Explored</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-controlling-who-sees-your-youtube-productions-for-2024/"><u>[Updated] Controlling Who Sees Your Youtube Productions for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-extending-the-frame-in-depth-slomo-app-assessment-2024/"><u>[Updated] Extending the Frame In-Depth SloMo App Assessment, 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-to-effortlessly-download-and-setup-movie-maker-6/"><u>[Updated] How to Effortlessly Download and Setup Movie Maker 6</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-best-budget-switch-console-clones/"><u>[Updated] In 2024, Best Budget Switch Console Clones</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easy-fix-guide-overcoming-game-crashing-in-armored-core-6-the-fires-of-rubicon-edition/"><u>Easy Fix Guide: Overcoming Game Crashing in Armored Core 6 - The Fires of Rubicon Edition</u></a></li>
+<li><a href="https://win-answers.techidaily.com/elevate-your-dayz-experience-immediate-fixes-for-framerate-drops-and-tips/"><u>Elevate Your DayZ Experience - Immediate Fixes for Framerate Drops & Tips</u></a></li>
+<li><a href="https://article-files.techidaily.com/ensuring-easy-download-of-youtubes-srt-subs-for-2024/"><u>Ensuring Easy Download of YouTube's SRT Subs for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-fixes-for-the-persistent-freezing-issue-of-fallout-3-on-windows-11/"><u>Expert Fixes for the Persistent Freezing Issue of Fallout 3 on Windows 11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/finns-funds-youtube-stars-weekly-take-home/"><u>Finn's Funds YouTube Star’s Weekly Take-Home</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-tecno-pop-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Tecno Pop 8 | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723010965137-fixing-the-issue-why-your-forza-horizon-4-isnt-starting-top-tips-for-2n4/"><u>Fixing the Issue: Why Your Forza Horizon 4 Isn't Starting - Top Tips for 2N4!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-continuous-crashes-in-the-insurgency-sandstorm-update/"><u>How to Fix Continuous Crashes in the Insurgency: Sandstorm Update</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-cadence-in-clips-the-guide-to-musical-integration-on-ig/"><u>In 2024, Cadence in Clips The Guide to Musical Integration on IG</u></a></li>
+<li><a href="https://win-answers.techidaily.com/steamvr-e-308-expert-strategies-to-overcome-the-common-virtual-reality-setback/"><u>SteamVR E-308: Expert Strategies to Overcome the Common Virtual Reality Setback</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-and-fixes-for-total-war-three-kingdoms-crash-dilemma/"><u>Troubleshooting and Fixes for Total War: Three Kingdoms Crash Dilemma</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-to-fix-gtfo-app-crashes/"><u>Troubleshooting Tips to Fix GTFO App Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-fix-stop-fifa-20-from-crashing-your-pc-complete-step-by-step-guide/"><u>Ultimate Fix: Stop FIFA 20 From Crashing Your PC - Complete Step-by-Step Guide</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/yl-software-explains-how-you-can-make-bitcoin-and-altcoins-a-part-of-your-everyday-transactions/"><u>YL Software Explains How You Can Make Bitcoin and Altcoins a Part of Your Everyday Transactions</u></a></li>
 </ul></div>
 

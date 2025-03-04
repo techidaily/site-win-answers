@@ -1,7 +1,7 @@
 ---
 title: "Fixing the 'Unexpectedly Stopped' Error on Your Cod: Modern Warfare 3 App"
-date: 2024-08-19T00:49:37.308Z
-updated: 2024-08-20T00:49:37.308Z
+date: 2025-02-25T18:31:06.842Z
+updated: 2025-03-04T04:31:32.257Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/9929e26ad232462fb3012e528ec110b36cc8e34a7
 
 ## Fixing the Dreaded Steam Error Code Amoled in No Time
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-372.png)
 
  Keep getting the**Error Code: -130 Failed to load web page (unknown error)** while running Steam? You’re not alone! Many Steam users are reporting it. But the good news is that you can fix it. Here are 3 solutions to try.
@@ -30,25 +27,16 @@ thumbnail: https://thmb.techidaily.com/9929e26ad232462fb3012e528ec110b36cc8e34a7
 2. **[Update your network adapter driver](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Reinstall Steam](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 1: Adjust your proxy settings
 
  In most cases, Error 130 happens when your browser fails to connect to the internet because of improper proxy configuration. To fix it, follow the instructions below:
 
 **1)** On your keyboard, press the**Windows logo key** and**R** at the same time.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-373.png)
 
 **2)** Type**inetcpl.cpl** , then click**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-358.png)
 
 **3)** Click the**Connections tab** , then**LAN settings** .
@@ -57,18 +45,12 @@ thumbnail: https://thmb.techidaily.com/9929e26ad232462fb3012e528ec110b36cc8e34a7
 
 **4)** If any items on this window are checked, uncheck them. Then, click**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-363.png)
 
 **5)** Restart your computer and Steam to test your issue.
 
  If none of the boxes is checked, or if you still get the error code 130, then go ahead with the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Update your network adapter driver
 
  This problem might occur when you’re using the wrong or outdated network adapter driver. It’s essential that you have the latest network adapter driver at all times.
@@ -123,9 +105,6 @@ OR
 
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control Panel** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-887.png)
 
 **4)** Under **View by** , select **Category** .
@@ -134,9 +113,6 @@ OR
 
 **5)** Select **Uninstall a program** .
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-889.png)
 
 **6)**  Right-click **Steam** , and then click **Uninstall** .
@@ -145,9 +121,6 @@ OR
 
 **7)**  Follow the on-screen instructions to uninstall Steam and wait for the process to be complete.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-891.png)
 
  **8)[Download](https://store.steampowered.com/about/)**  Steam.
@@ -160,9 +133,6 @@ OR
 
 **11)**  Move the backup **steamapps folder**  you create before to your current directory location.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-893.png)
 
 **12)**  Relaunch your Steam to test your issue.
@@ -182,8 +152,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -191,4 +159,18 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-brainy-brigade-top-11-quiz-channels/"><u>[New] 2024 Approved Brainy Brigade Top 11 Quiz Channels</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-beyond-reality-comparing-metaverse-and-multiverse/"><u>[Updated] 2024 Approved Beyond Reality Comparing Metaverse & Multiverse</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-ultimate-guide-leading-4k-uhd-blu-ray-devices/"><u>[Updated] 2024 Approved Ultimate Guide Leading 4K UHD Blu-Ray Devices</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/co-marketing-mastery-on-youtube-for-brand-growth-for-2024/"><u>Co-Marketing Mastery on YouTube for Brand Growth for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/elevate-images-with-simple-color-tweaks/"><u>Elevate Images with Simple Color Tweaks</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/estrategias-para-adaptar-el-formato-de-videos-segun-su-funcion/"><u>Estrategias Para Adaptar El Formato De Videos Según Su Función</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, All You Need To Know About Mega Greninja For Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722983992733-is-xbox-live-functional-a-quick-guide-to-assess-server-uptime/"><u>Is Xbox Live Functional? A Quick Guide to Assess Server Uptime.</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-warframe-startup-problems-expert-tips-for-gamers/"><u>Resolving Warframe Startup Problems: Expert Tips for Gamers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-high-cpu-consumption-in-god-of-war-a-step-by-step-guide/"><u>Solving High CPU Consumption in God of War: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-ultimate-fix-for-sound-glitches-in-dying-light-expert-tips-inside/"><u>The Ultimate Fix for Sound Glitches in Dying Light – Expert Tips Inside</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Expert Tips on Fixing Error 327 for Star Wars: Battlefront II Enthusiasts"
-date: 2025-02-12T06:56:28.688Z
-updated: 2025-02-14T20:39:21.662Z
+date: 2025-03-03T16:07:53.682Z
+updated: 2025-03-04T16:05:59.128Z
 tags:
   - win11
   - win10
@@ -34,10 +34,6 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 | **Graphics**  | AMD Radeon™ HD 7850 2GB NVIDIA GeForce® GTX 660 2GB | AMD Radeon™ RX 480 4GB NVIDIA GeForce® GTX 1060 3GB |
 | **DirectX**   | Version 11                                          | Version 11                                          |
 | **Storage**   | 60 GB available space                               | 60 GB available space                               |
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -73,10 +69,6 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/repair-game.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Wait for the process to complete.
 
  Restart Origin and play your game to see if the crashing issue persists. If the game keeps crashing randomly, move on to the next fix.
@@ -89,10 +81,6 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/properties.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Select**LOCAL FILES** tab and click**VERIFY INTEGRITY OF GAME FILES** … button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify.png)
@@ -100,10 +88,6 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 4) Wait for the process to complete.
 
  Restart Steam and play your Battlefront 2 again to test the issue. If the game keeps crashing randomly, you can repair the game manually.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your device drivers
 
@@ -136,10 +120,6 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 
 4) Restart your PC for the changes to take effect.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Reset Battlefront 2
 
  If you fail to stop your Battlefront 2 from crashing, you can try to reset your Battlefront 2 settings. Sometimes your game crashing can be triggered by certain settings. Here’s how to do it:
@@ -151,10 +131,6 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 3) Play Battlefront 2 again to test the issue.
 
  This fix works for most PC users, but if this doesn’t work for your case, don’t worry. There’re a few more fixes you can try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Revert back to DX11
 
@@ -219,10 +195,6 @@ If the game keeps crashing, you can try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/disable-all.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Select the **Startup** tab and click **Open Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/image-1003.png)
@@ -234,10 +206,6 @@ If the game keeps crashing, you can try the next fix.
  6) Go back to **System Configuration** , then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/image-1005.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  7) Restart your PC and launch your Battlefront 2 to see if the game launches normally.
 
@@ -297,20 +265,16 @@ If the game keeps crashing, you can try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-what-everyone-should-know-about-youtube-tv-before-you-stream/"><u>[New] 2024 Approved What Everyone Should Know About YouTube TV Before You Stream</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/djusting-youtubes-viewership-limits-for-content/"><u>[New] Adjusting YouTube's Viewership Limits for Content</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-highlighting-the-best-ways-to-convert-youtube-to-mp4/"><u>[New] Highlighting the Best Ways to Convert YouTube to MP4</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-unveiling-the-revised-sony-s3700-experience-for-2024/"><u>[New] Unveiling the Revised Sony S3700 Experience for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-unlocking-youtubes-srt-a-three-step-process/"><u>[Updated] 2024 Approved Unlocking YouTube’s SRT A Three-Step Process</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-full-guide-to-facebook-algorithm-change-are-you-ready/"><u>[Updated] Full Guide to Facebook Algorithm Change Are You Ready？</u></a></li>
-<li><a href="https://win-answers.techidaily.com/battlefield-2042-update-fixing-persistent-directx-error-messages/"><u>Battlefield 2042 Update: Fixing Persistent DirectX Error Messages</u></a></li>
-<li><a href="https://win-answers.techidaily.com/discord-overlay-not-responding-heres-how-to-get-it-working-again/"><u>Discord Overlay Not Responding? Here's How to Get It Working Again</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-strategies-to-combat-last-epoch-crashing-on-your-pc/"><u>Expert Strategies to Combat 'Last Epoch Crashing' On Your PC</u></a></li>
-<li><a href="https://techtrends.techidaily.com/explore-our-picks-the-greatest-free-picture-editors-available/"><u>Explore Our Picks: The Greatest FREE Picture Editors Available</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fix-horizon-zero-dawn-pc-crashes-with-this-simple-solution/"><u>Fix Horizon Zero Dawn PC Crashes with This Simple Solution!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-black-screen-issue-when-launching-elden-ring-troubleshooting-guide/"><u>Fixing the 'Black Screen' Issue When Launching Elden Ring: Troubleshooting Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/online-functionality-restored-for-origin-platform/"><u>Online Functionality Restored for Origin Platform</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/optimizing-your-podcasts-itunes-placement/"><u>Optimizing Your Podcast's iTunes Placement</u></a></li>
-<li><a href="https://win-answers.techidaily.com/star-wars-swtor-launch-errors-top-resolution-techniques-covered/"><u>Star Wars SWTOR Launch Errors – Top Resolution Techniques Covered</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-quick-conversion-tips-using-vlc-for-mpeg-4-and-beyond/"><u>[New] 2024 Approved Quick Conversion Tips Using VLC for MPEG-4 and Beyond</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-all-about-srt-essential-information-made-easy/"><u>[New] All About SRT Essential Information Made Easy</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-mastering-the-edit-a-comprehensive-look-at-title-and-description-for-igtv/"><u>[Updated] 2024 Approved Mastering the Edit A Comprehensive Look at Title & Description for IGTV</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-selection-of-budget-friendly-4k-projector-brands/"><u>2024 Approved Ultimate Selection of Budget-Friendly 4K Projector Brands</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723013928604-arcadegeddon-and-pc-compatibility-improved-say-goodbye-to-crashes/"><u>Arcadegeddon and PC Compatibility Improved - Say Goodbye to Crashes!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/error-free-gaming-verifying-game-assets-to-avoid-unable-to-start-issues/"><u>Error-Free Gaming: Verifying Game Assets to Avoid 'Unable to Start' Issues</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/intel-usb-30-driver-download-guide-compatible-with-windows-11/"><u>Intel USB 3.0 Driver Download Guide: Compatible with Windows 11</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-beyond-quik-exploring-the-best-pc-video-editing-software-for-gopro-users-for-2024/"><u>New Beyond Quik Exploring the Best PC Video Editing Software for GoPro Users for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-fixes-implemented-for-reducing-frame-rate-issues-in-farming-simulator-22-on-pc/"><u>Resolved: Fixes Implemented for Reducing Frame Rate Issues in Farming Simulator 22 on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-swtor-fixes-for-not-starting-problems/"><u>Troubleshooting SWTOR: Fixes for 'Not Starting' Problems</u></a></li>
+<li><a href="https://win11.techidaily.com/win-files-access-issues-quick-resolution-steps/"><u>Win Files Access Issues: Quick Resolution Steps</u></a></li>
 </ul></div>
 

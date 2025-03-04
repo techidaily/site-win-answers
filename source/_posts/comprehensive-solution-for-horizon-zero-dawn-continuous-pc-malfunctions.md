@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Solution for Horizon Zero Dawn Continuous PC Malfunctions
-date: 2025-02-10T07:13:08.054Z
-updated: 2025-02-15T02:58:59.050Z
+date: 2025-03-02T16:05:24.299Z
+updated: 2025-03-04T16:09:57.618Z
 tags:
   - win11
   - win10
@@ -51,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/9e992eeefd8e84a59a07a57a0f98ead45d9f4acef
 
  Run a game to see if your GeForce overlay shows up. If not, try the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 2: Restart your computer
 
  The GeForce overlay not working issue can sometimes be resolved by a simple reboot since this action will refresh your operating system and remove any corrupt temporary data that may cause the problem. So you should give it a shot first.
@@ -62,10 +58,6 @@ thumbnail: https://thmb.techidaily.com/9e992eeefd8e84a59a07a57a0f98ead45d9f4acef
 After restarting your computer, check if your GeForce overlay is working.
 
 If the issue remains, continue to the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 3: Update your graphics driver
 
@@ -108,10 +100,6 @@ Now you can check if your GeForce overlay is working.
 
 If the overlay is still no function, check out the next fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 5: Run GeForce Experience as an administrator
 
  To be able to access all files GeForce Experience needs to run properly, you’ll need to have administrator permissions. This might help you solve the problem of GeForce overlay not working. Here’s how:
@@ -125,17 +113,9 @@ If the overlay is still no function, check out the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/ok-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Check if the GeForce overlay not functioning issue still occurs.
 
 If the issue persists, go ahead with the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 6: Enable experimental features
 
@@ -151,10 +131,6 @@ Once done, check if your GeForce overlay is working.
 
 If not, move on to the next fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 7: Disable third-party services
 
  Sometimes the third-party services may prevent GeForce overlay from working properly. Try temporarily disabling them to see if your GeForce overlay works or not. If GeForce overlay starts working again, try to enable third-party services one at a time to figure out the problematic services. Here’s how:
@@ -164,16 +140,8 @@ If not, move on to the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/msconfig.jpg)
 3. In System Configuration, navigate to the**Services** tab, check the box of**Hide all Microsoft services** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/hide-all-microsoft-services.jpg)
 4. **Uncheck** all the services EXCEPT NVIDIA services, then click**OK** to save changes.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/uncheck-services.jpg)
 5. Restart your computer.
@@ -193,10 +161,6 @@ If this method doesn’t do the trick, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/change-microsoft-visual.jpg)
 4. In the pop-up window, click**Repair** . Then wait a few minutes for the repairing process to finish.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/repair-microsoft-visual.jpg)
 5. After finishing the process, click**Close** .  
@@ -234,10 +198,6 @@ Check to see if GeForce overlay now works on your computer.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/appwiz.cpl_-1.jpg)
 3. Right-click**GeForce Experience** and select**Uninstall/Change** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/uninstall-change-geforce-experience.jpg)
 4. In the pop-up window, click**UNINSTALL** .  
 
@@ -270,22 +230,22 @@ Now you can check to see if your GeForce overlay is working.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-exciting-auto-play-hits-for-children/"><u>[New] Exciting Auto-Play Hits for Children</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-the-art-of-high-dynamic-range-pro-photoshop-techniques-for-2024/"><u>[New] The Art of High Dynamic Range Pro Photoshop Techniques for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-urban-pursuit-without-the-need-for-gta/"><u>[Updated] 2024 Approved Urban Pursuit Without the Need for GTA</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-perfect-tripod-positioning-for-quality-vlogs/"><u>[Updated] Perfect Tripod Positioning for Quality Vlogs</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-direct-to-streamer-duel-obs-vs-shadowtoolkit/"><u>2024 Approved Direct-to-Streamer Duel OBS Vs. ShadowToolkit</u></a></li>
-<li><a href="https://win-answers.techidaily.com/6-effective-solutions-for-uninterrupted-play-on-pc-roblox-troubleshooting-20232024-update/"><u>6 Effective Solutions for Uninterrupted Play on PC – Roblox Troubleshooting (2023/2024 Update)</u></a></li>
-<li><a href="https://win-answers.techidaily.com/avoid-game-interruptions-solutions-for-stable-maplestory-play-on-windows-10-latest-guide/"><u>Avoid Game Interruptions: Solutions for Stable MapleStory Play on Windows 10 - Latest Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/beat-the-lag-essential-fixes-for-street-fighter-6-high-latency-on-your-computer/"><u>Beat the Lag: Essential Fixes for Street Fighter 6 High Latency on Your Computer</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-apex-legends-wont-load-fast-and-simple-solutions/"><u>Fixing 'Apex Legends Won't Load': Fast and Simple Solutions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-repair-non-responsive-nvidia-geforce-experience-overlay/"><u>How to Repair Non-Responsive Nvidia GeForce Experience Overlay</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-samsung-galaxy-m34-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Samsung Galaxy M34 to PC? | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-motorola-moto-g84-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Motorola Moto G84 5G | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/league-of-legends-reconnect-loop-bug-2024-fix/"><u>League of Legends Reconnect Loop Bug - 2024 Fix</u></a></li>
-<li><a href="https://win-answers.techidaily.com/lost-ark-pc-freezing-issues-discover-proven-fixes/"><u>Lost Ark PC Freezing Issues? Discover Proven Fixes!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solved-fixes-for-wrath-of-the-righteous-game-stability-issues/"><u>Solved: Fixes for 'Wrath of the Righteous' Game Stability Issues</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/starlink-vs-traditional-discover-4-pivotal-decision-factors/"><u>Starlink vs Traditional: Discover 4 Pivotal Decision Factors</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/top-ranking-cross-platform-video-grabber-apps-ideal-choice-for-windows-and-mac-enthusiasts/"><u>Top-Ranking Cross-Platform Video Grabber Apps: Ideal Choice for Windows & Mac Enthusiasts</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-cutting-edge-film-making-start-here/"><u>[New] 2024 Approved Cutting-Edge Film Making, Start Here</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-downloader-essentials-the-best-tools-for-offline-viewing/"><u>[New] 2024 Approved Downloader Essentials The Best Tools For Offline Viewing</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-professional-guide-ensuring-imovie-content-shines-on-vimeo/"><u>[New] 2024 Approved Professional Guide Ensuring iMovie Content Shines on Vimeo</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-direct-stream-from-youtube-to-facebook-without-pauses-or-holds/"><u>[Updated] 2024 Approved Direct Stream From YouTube to Facebook without Pauses or Holds</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-explore-novel-editing-techniques-the-synergy-of-storyremix-and-windows-11/"><u>[Updated] Explore Novel Editing Techniques The Synergy of StoryRemix & Windows 11</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-techs-choice-best-online-screen-capturing-tools-for-2024/"><u>[Updated] Tech's Choice Best Online Screen Capturing Tools for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723014158219-apex-legends-wont-load-heres-how-to-restart-the-game-swiftly/"><u>Apex Legends Won't Load? Here’s How to Restart the Game Swiftly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/crack-the-final-chapter-pc-launch-problem-up-to-date-solutions-for-a-seamless-2024-experience/"><u>Crack the Final Chapter PC Launch Problem - Up-to-Date Solutions for a Seamless 2024 Experience</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/discover-the-leading-free-mpeg-video-converter-applications-for-easy-editing/"><u>Discover the Leading Free MPEG Video Converter Applications for Easy Editing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effortless-solutions-to-your-apex-legends-startup-woes/"><u>Effortless Solutions to Your Apex Legends Startup Woes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-stutter-and-hitches-smooth-playthrough-tips-for-free-path-of-exile-version/"><u>Fixing Stutter & Hitches: Smooth Playthrough Tips for Free Path of Exile Version</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/future-worlds-converge-or-diverge-metaverse-vs-omniverse-debated-for-2024/"><u>Future Worlds Converge or Diverge? Metaverse Vs. Omniverse Debated for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimizing-pc-performance-to-prevent-spellbreak-from-crashing-a-comprehensive-guide/"><u>Optimizing PC Performance to Prevent Spellbreak From Crashing - A Comprehensive Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/reigniting-your-calendars-and-mailboxes-w11-edition/"><u>Reigniting Your Calendars and Mailboxes: W11 Edition</u></a></li>
+<li><a href="https://win-answers.techidaily.com/successfully-starting-elden-ring-no-more-black-screens-upon-opening/"><u>Successfully Starting Elden Ring? No More Black Screens Upon Opening</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-lag-and-ping-problems-in-cs2-ultimate-fixes/"><u>Troubleshooting Lag & Ping Problems in CS2 - Ultimate Fixes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-troubleshooting-guide-making-your-dolby-atmos-work-perfectly-on-windows-11-and-10/"><u>Ultimate Troubleshooting Guide: Making Your Dolby Atmos Work Perfectly on Windows 11 & 10</u></a></li>
 </ul></div>
 

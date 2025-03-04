@@ -1,7 +1,7 @@
 ---
 title: "Fortnite Launcher Fix: How to Get Past a Perpetual Loading Screen"
-date: 2025-02-09T06:30:29.888Z
-updated: 2025-02-14T23:49:14.492Z
+date: 2025-02-26T16:00:34.432Z
+updated: 2025-03-04T16:16:07.658Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/3bea074e02c00367c73eda64c4dc35b2b7531a175
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to fix Anthem stuck on loading screen
 
@@ -57,10 +53,6 @@ Make sure that Anthem is closed and not running in the background.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-925.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Task Manager opens. In the**Processes** tab, select the process(es) related to**Anthem** and**Origin** , and click**End task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-926.png)
@@ -76,10 +68,6 @@ Make sure that Anthem is closed and not running in the background.
 2) Click**My Game Library** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-859.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Right click**Anthem** , and click**Move game** .
 
@@ -108,17 +96,9 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-859.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Right click on**Anthem** , and click**Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-860.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Origin starts scanning and repairing. Follow the on-screen instructions to finish the process.
 
@@ -168,17 +148,9 @@ Now launch Anthem on your computer, and your game should be loading.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-208.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the**Origin In-Game** tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-209-1024x668.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Switch it to**Off** .
 
@@ -218,10 +190,6 @@ Here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-930.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Under Advanced Graphics Settings, modify the available graphics quality settings, such as**Texture Quality** ,**Lighting Quality** , and**Effects Quality** .
 
  If the option is**Ultra** or**High** , change it to**Medium** or**Low** . If the option is**Medium** or**Low** , change it to**Ultra** or**High** .
@@ -252,17 +220,22 @@ Re-launch Anthem and see how it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/aximizing-youtube-earnings-master-the-art-with-500-subscribers-for-2024/"><u>[New] Maximizing YouTube Earnings Master the Art with 500 Subscribers for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-sleepy-sequences-examining-bedtime-story-video-adaptations-for-2024/"><u>[New] Sleepy Sequences Examining Bedtime Story Video Adaptations for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-the-sharex-exploration-reviews-and-contenders/"><u>[New] The ShareX Exploration Reviews & Contenders</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-accelerate-thumbnail-designs-for-professional-valorant-portraits/"><u>[Updated] Accelerate Thumbnail Designs for Professional Valorant Portraits</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-which-screen-grab-tool-wins-insights-into-obs-vs-fraps/"><u>[Updated] Which Screen Grab Tool Wins? Insights Into OBS vs Fraps</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726029247963-clipchamp/"><u>Clipchampでビデオのスライシング手順：簡易ガイド</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726030142406-gopro/"><u>GoPro映像の解像度とアスペクト比を調整する手順</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-asus-rog-phone-7-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Asus ROG Phone 7? Fixed | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-discover-the-best-5-reaction-video-makers-to-follow/"><u>New In 2024, Discover the Best 5 Reaction Video Makers to Follow</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726028662618-windows-10mp4/"><u>Windows 10向けウィンドウズメディアビデオからMP4への高速バッチ変換方法を解説します</u></a></li>
-<li><a href="https://win-answers.techidaily.com/wmvipad2/"><u>WMVビデオ簡単にiPadで楽しめる、2つの解決法をご紹介</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726027850226-dvd/"><u>シンプルな操作でDVDコピーガードを突破してパソコンに取り込む方法</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-essential-virtual-reality-cinema-experiences/"><u>[New] 2024 Approved Essential Virtual Reality Cinema Experiences</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-mastering-quick-mac-screen-capture-with-deft-shortcuts/"><u>[New] In 2024, Mastering Quick Mac Screen Capture with Deft Shortcuts</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/haring-stories-every-day-best-practices-in-personal-videography/"><u>[New] Sharing Stories Every Day Best Practices in Personal Videography</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-apples-latest-enhancements-top-4-new-features-in-updated-airpod-models/"><u>Discover Apple's Latest Enhancements: Top 4 New Features in Updated AirPod Models</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/enhancing-audio-volume-for-a-better-listening-experience-on-windows-10-systems/"><u>Enhancing Audio Volume for a Better Listening Experience on Windows 10 Systems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/explore-apples-immersive-3d-spatial-videos-on-your-meta-quest-vr-headset-a-simple-guide/"><u>Explore Apple's Immersive 3D Spatial Videos on Your Meta Quest VR Headset – A Simple Guide</u></a></li>
+<li><a href="https://article-posts.techidaily.com/immediate-countermeasures-for-the-w10-photos-crash-dilemnas/"><u>Immediate Countermeasures for the W10 Photos Crash Dilemnas</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-earnings-via-sponsored-youtube-videos/"><u>In 2024, Mastering Earnings via Sponsored YouTube Videos</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723001830952-pathfinder-wrath-of-the-righteous-not-loading-up-try-these-fixes-first/"><u>Pathfinder: Wrath of the Righteous Not Loading Up? Try These Fixes First!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolve-your-god-of-war-game-error-tackling-low-memory-problems/"><u>Resolve Your God of War Game Error - Tackling Low Memory Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-how-to-fix-razer-synapse-app-wont-launch/"><u>Resolved: How to Fix Razer Synapse App Won't Launch</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-puzzle-of-non-working-multiplayer-on-elden-ring-for-gaming-bliss/"><u>Solving the Puzzle of Non-Working Multiplayer on Elden Ring for Gaming Bliss</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-capturing-screenshots-on-your-hp-laptop/"><u>Step-by-Step Guide: Capturing Screenshots on Your HP Laptop</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-and-enhancing-overwatchs-frames-per-second-fps/"><u>Troubleshooting and Enhancing Overwatch's Frames Per Second (FPS)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-the-persistent-dark-screen-error-when-launching-resident-evil-village-on-desktop/"><u>Troubleshooting the Persistent Dark Screen Error When Launching Resident Evil Village on Desktop</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unveiling-yakuza-like-a-dragons-greatest-features-for-gaming-enthusiasts/"><u>Unveiling Yakuza: Like a Dragon's Greatest Features for Gaming Enthusiasts</u></a></li>
+<li><a href="https://win-answers.techidaily.com/upgrade-the-quality-solutions-for-blurry-image-issues-in-call-of-duty-warzone-desktop-version/"><u>Upgrade the Quality: Solutions for Blurry Image Issues in Call of Duty: Warzone - Desktop Version</u></a></li>
 </ul></div>
 

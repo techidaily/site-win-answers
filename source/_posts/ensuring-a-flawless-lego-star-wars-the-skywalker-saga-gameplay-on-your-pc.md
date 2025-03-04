@@ -1,7 +1,7 @@
 ---
 title: "Ensuring a Flawless Lego Star Wars: The Skywalker Saga Gameplay on Your PC"
-date: 2024-08-19T00:50:45.833Z
-updated: 2024-08-20T00:50:45.833Z
+date: 2025-02-28T15:54:59.850Z
+updated: 2025-03-04T11:30:32.158Z
 tags:
   - win11
   - win10
@@ -59,9 +59,6 @@ There are mainly two methods for you to update the graphics driver:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
@@ -70,9 +67,6 @@ There are mainly two methods for you to update the graphics driver:
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Set the Power Plan of your PC for high performance
 
  On Windows OS, a power plan is a set of system and hardware settings to manage how your computer consumes and conserves power. Generally speaking, the higher the performance, the more power your computer consumes.
@@ -82,18 +76,12 @@ There are mainly two methods for you to update the graphics driver:
  If you’re experiencing peformance issues like FPS dropping, try modifying the Power Plan of your PC for Best Performance. Here is how to do it:
 
 1. On your keyboard, press **the Windows logo key**  and **R** at the same time, then type **powercfg.cpl** and press **Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
  Launch Forza Horizon 5 and check if you get a better PFS. If this issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Optimize in-game graphics settings
 
  Optimizing the graphics settings is another fix that may boost the in-game FPS, especially if your PC barely meets the minimum system requirements of Forza Horizon 5\. If you have a powerful PC, just skip this fix.
@@ -109,9 +97,6 @@ There are mainly two methods for you to update the graphics driver:
 
 If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Modify graphics card settings
 
  If you haven’t tried this fix, just tweak your graphics card settings in Nvidia or AMD control panel to see if the in-game FPS boosts. Some players fix this issue after modified theire graphics card settings.
@@ -147,24 +132,14 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
  There’re many apps that support overlay features. Here I’ll take the Steam Overlay as an example to show you how to turn the in-game overlay off in Steam:
 
 1. Launch **Steam** and go to your **LIBRARY** , then right click on Forza Horizon 5 game title and click **Properties…** .  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. In the **GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
 
  If you’re using other apps with overlay features, such as Discord, Nvidia GeForce Experience, Twitch, etc., make sure you’ve disabled the in-game overlay in those apps feature before you restart the game.
 
  Run Forza Horizon 5 again after you disabled all the in-game overlays and check if Forza Horizon 5 fps drops. If this issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## Disable background recording and Xbox Game Bar
 
  For those who love sharing game highlight videos, the background recording and Xbox Game Bar feature in Windows 10 is convenient. However, once enabled, they’ll constantly run in the background, hogging a ton of resources.
@@ -176,9 +151,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
 
 Run Forza Horizon 5 to see you can play it smoothly.
@@ -196,8 +168,6 @@ Run Forza Horizon 5 to see you can play it smoothly.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -205,4 +175,26 @@ Run Forza Horizon 5 to see you can play it smoothly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/n-2024-the-art-of-crafting-video-trailers-to-elevate-sales/"><u>[New] In 2024, The Art of Crafting Video Trailers to Elevate Sales</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-social-media-savvy-unlock-the-secrets-of-crafting-winning-bios-on-facebook-for-2024/"><u>[Updated] Social Media Savvy Unlock the Secrets of Crafting Winning Bios on Facebook for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/freshly-updated-samsung-printer-drivers-for-windows-download-now/"><u>Freshly Updated Samsung Printer Drivers for Windows - [Download Now]</u></a></li>
+<li><a href="https://win-answers.techidaily.com/get-back-into-the-game-a-guide-to-launching-multiversus-successfully-on-windowsmac/"><u>Get Back Into the Game: A Guide to Launching Multiversus Successfully on Windows/Mac</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-madden-nfl-20-pc-game-crashing-issues-solutions-and-tips/"><u>How to Fix Madden NFL 20 PC Game Crashing Issues - Solutions & Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/improving-hogwarts-legacy-performance-proven-fixes-to-combat-game-stutter/"><u>Improving Hogwarts Legacy Performance - Proven Fixes to Combat Game Stutter</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-on-your-iphone-14-plus-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card on Your iPhone 14 Plus Apple ID and Apple Pay</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-speedy-social-snooping-techniques-for-fb-users/"><u>In 2024, Speedy Social Snooping Techniques for FB Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-multitasking-learn-about-the-new-triad-of-google-chrome-features-for-superior-tab-organization-as-revealed-by-zdnet/"><u>Mastering Multitasking: Learn About the New Triad of Google Chrome Features for Superior Tab Organization, as Revealed by ZDNet</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/navigate-the-sea-of-stunning-pexels-imagery-with-ease-for-2024/"><u>Navigate the Sea of Stunning Pexels Imagery with Ease for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-apex-legends-crashes-and-errors-with-our-proven-solutions/"><u>Overcome Apex Legends Crashes and Errors with Our Proven Solutions</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/pinnacle-mac-screen-plus-audio-transcription-system/"><u>Pinnacle Mac Screen + Audio Transcription System</u></a></li>
+<li><a href="https://win-answers.techidaily.com/revamp-your-gameplay-with-these-expert-fixes-for-cities-skylines-crash-issues-latest-techniques-for-202n/"><u>Revamp Your Gameplay with These Expert Fixes for Cities: Skylines Crash Issues - Latest Techniques for 202N</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-steps-for-no-audio-issue-with-airpods-and-windows-computers/"><u>Solution Steps for No Audio Issue with AirPods and Windows Computers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-your-overwatch-game-initialization-issues-what-you-need-to-know/"><u>Solving Your Overwatch Game Initialization Issues: What You Need To Know</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stop-risk-of-rain-2-from-crashing-proven-techniques-for-a-smooth-gaming-experience/"><u>Stop Risk of Rain 2 From Crashing: Proven Techniques for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-successful-resolution-of-oculus-graphic-card-compatibility/"><u>Troubleshooting - Successful Resolution of Oculus Graphic Card Compatibility</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-palworld-search-issues-related-to-user-sessions-effectively/"><u>Troubleshooting Palworld Search Issues Related to User Sessions Effectively</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unlock-fcps-full-potential-5-expert-editing-tips-you-need-to-know/"><u>Unlock FCPs Full Potential 5 Expert Editing Tips You Need to Know</u></a></li>
+</ul></div>
 

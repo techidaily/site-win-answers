@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Stop Cod: Modern Warfare From Breaking Down"
-date: 2025-02-09T03:38:04.013Z
-updated: 2025-02-14T17:45:04.948Z
+date: 2025-03-02T16:13:49.481Z
+updated: 2025-03-04T16:12:15.168Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ A recent update of Warzone triggered a surge in reports of the**Dev Error 6034**
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fixes to try
 
  You might not need to try them all. Simply work down the list until you land on the one that fixes the issue.
@@ -34,10 +30,6 @@ A recent update of Warzone triggered a surge in reports of the**Dev Error 6034**
 2. [**Remove broken game files (PC)**](https://www.drivereasy.com/knowledge/how-to-fix-dev-error-6034-in-warzone-pc-xbox/#fix2)
 3. **[Remove Multiplayer game packs (Xbox)](https://www.drivereasy.com/knowledge/how-to-fix-dev-error-6034-in-warzone-pc-xbox/#fix3)**
 4. **[Reinstall Warzone](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver (PC)
 
@@ -91,10 +83,6 @@ To do so, first visit the website of your GPU manufacturer:
 
  If this method doesn’t do the trick, you can take a look at the next one.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Remove Multiplayer game packs
 
  Soon after the Dev Error happens, console gamers discovered that they can fix the issue by**removing specific game packs** . This would be less painful than a complete reinstallation, so you can give it a shot. If you don’t know how, here’s a quick example on Xbox:
@@ -106,16 +94,8 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-2.jpg)
 3. Scroll down and unselect**MP2 Pack** and**Multiplayer Pack 3.** Then select**Save changes** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-3.jpg)
 4. Now restart your Xbox and check if Warzone is working now.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If this trick doesn’t help you, simply check out the next one.
 
@@ -144,21 +124,21 @@ If this trick doesn’t help you, simply check out the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-commanding-voice-performance-analysis-edition-8-for-2024/"><u>[New] Commanding Voice Performance Analysis, Edition 8 for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-expert-advice-the-most-effective-ways-to-capture-your-virtual-sessions/"><u>[Updated] Expert Advice The Most Effective Ways to Capture Your Virtual Sessions</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-highlighting-the-best-ios-psp-emulators-1-5-for-2024/"><u>[Updated] Highlighting the Best iOS PSP Emulators #1-5 for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-3-best-smartphones-for-recording-video/"><u>2024 Approved 3 Best Smartphones for Recording Video</u></a></li>
-<li><a href="https://win-blog.techidaily.com/beat-the-challenge-your-ultimate-fix-for-call-of-dutys-world-war-ii-error-4128/"><u>Beat the Challenge: Your Ultimate Fix for Call of Duty's World War II Error 4128</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/discover-how-cookiebot-can-revolutionize-your-online-presence/"><u>Discover How Cookiebot Can Revolutionize Your Online Presence</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-solutions-for-reducing-excessive-processor-use-on-the-most-recent-gaming-software/"><u>Effective Solutions for Reducing Excessive Processor Use on the Most Recent Gaming Software</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Xiaomi Redmi K70E | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-gradual-volume-curve-of-audio-reduction-in-fl-studio/"><u>In 2024, The Gradual Volume Curve of Audio Reduction in FL Studio</u></a></li>
-<li><a href="https://win-answers.techidaily.com/maximize-your-fps-on-tainted-grail-conquest-with-expert-tips-and-tricks/"><u>Maximize Your FPS on Tainted Grail: Conquest with Expert Tips and Tricks</u></a></li>
-<li><a href="https://review-topics.techidaily.com/meizu-data-recovery-recover-lost-data-from-meizu-21-by-fonelab-android-recover-data/"><u>Meizu Data Recovery – recover lost data from Meizu 21</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-fixes-for-preventing-far-cry-6-from-freezing-on-your-desktop/"><u>Resolved: Fixes for Preventing Far Cry 6 From Freezing on Your Desktop</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-recurrent-crashes-in-madden-nfl-21-gameplay-on-your-computer-helpful-strategies/"><u>Resolving Recurrent Crashes in Madden NFL 21 Gameplay on Your Computer - Helpful Strategies</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-dirt-5-game-stability-issues-no-more-crashes-on-desktop/"><u>Solving Dirt 5 Game Stability Issues: No More Crashes on Desktop</u></a></li>
-<li><a href="https://win-answers.techidaily.com/the-ultimate-fix-for-couldnt-retrieve-directory-information-in-your-kodi-setup/"><u>The Ultimate Fix for 'Couldn't Retrieve Directory Information' In Your Kodi Setup</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-getting-msi-afterburner-to-acknowledge-your-gpu-under-windows-10-and-11/"><u>Troubleshooting Tips: Getting MSI Afterburner to Acknowledge Your GPU Under Windows 10 and 11</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-engaging-audiences-full-rotational-cinematography/"><u>[New] 2024 Approved Engaging Audiences Full Rotational Cinematography</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-affiliate-acquaintanceships-elevating-budget-channels-with-ease/"><u>[New] Affiliate Acquaintanceships Elevating Budget Channels with Ease</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-explore-sony-vegas-for-high-impact-video-editing-on-youtube/"><u>[New] In 2024, Explore Sony Vegas for High-Impact Video Editing on YouTube</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-top-zeoid-startups-revealed-in-panzoids/"><u>[New] In 2024, Top Zeoid Startups Revealed in Panzoids</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-eliminated-non-display-of-shorts-videos/"><u>[Updated] 2024 Approved Eliminated Non-Display of Shorts Videos</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-youtubes-golden-rule-for-profit-partnership/"><u>[Updated] YouTube's Golden Rule for Profit Partnership</u></a></li>
+<li><a href="https://win-special.techidaily.com/finde-din-nye-vidensmed-pa-windows-top-9-final-cut-pro-ersatningar/"><u>Finde Din Nye Vidensmed På Windows: Top 9 Final Cut Pro-Ersatningar</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-ensure-smooth-play-in-multiversus-discover-the-best-8-fixes/"><u>How to Ensure Smooth Play in MultiVersus - Discover the Best 8 Fixes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-stuttering-problems-in-halo-infinite-a-comprehensive-guide/"><u>How to Fix Stuttering Problems in Halo Infinite – A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-warno-from-continuously-freezing-on-your-computer-effective-solutions/"><u>How to Stop Warno From Continuously Freezing on Your Computer - Effective Solutions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-gadget-purchases-wisdom-straight-from-toms-hardware-experts/"><u>Mastering Gadget Purchases: Wisdom Straight From Tom's Hardware Experts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastery-of-color-grading-premiere-pros-lut-capabilities/"><u>Mastery of Color Grading Premiere Pro's LUT Capabilities</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mlb-the-show-21-overcoming-game-server-connectivity-glitches/"><u>MLB The Show 21: Overcoming Game Server Connectivity Glitches</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshoot-the-directx-error-in-warzone-with-these-4-straightforward-techniques/"><u>Troubleshoot the 'DirectX Error in Warzone' With These 4 Straightforward Techniques</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-for-persistent-elex-ii-pc-crashes-expert-tips/"><u>Troubleshooting Guide for Persistent Elex II PC Crashes – Expert Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723010322610-windows-11-users-rejoice-as-origin-opens-without-problems-solutions-inside/"><u>Windows 11 Users Rejoice as 'Origin' Opens Without Problems - Solutions Inside!</u></a></li>
 </ul></div>
 

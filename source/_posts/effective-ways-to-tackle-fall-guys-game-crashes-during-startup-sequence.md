@@ -1,7 +1,7 @@
 ---
 title: Effective Ways to Tackle Fall Guys Game Crashes During Startup Sequence
-date: 2025-02-12T17:53:24.029Z
-updated: 2025-02-14T19:24:57.615Z
+date: 2025-02-25T16:07:15.280Z
+updated: 2025-03-04T16:08:15.252Z
 tags:
   - win11
   - win10
@@ -35,10 +35,6 @@ Recently many players reported Star Wars Squadrons crashing on PC when they were
 
  Please first check out **[Star Wars Squadrons minimum requirements](https://www.ea.com/games/starwars/squadrons/overview/pc-system-requirements)**  to ensure your rig is able to handle the game. Otherwise, you need to upgrade the PC for enjoyable gameplay.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1 – Run Star Wars Squadrons as an administrator
 
  In some cases, Star Wars Squadrons requires elevated permissions to work as intended, or else it crashes randomly. To run the game in the administrator mode, follow the steps below:
@@ -46,10 +42,6 @@ Recently many players reported Star Wars Squadrons crashing on PC when they were
 **1)** Right-click the**Star Wars Squadrons icon** on your desktop and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-14.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **2)** Select the**Compatibility** tab. Then, tick**Run this program as an administrator** and click**OK** .
 
@@ -67,10 +59,6 @@ Check if the game runs normally now. If not, move on to the second fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Right-click**Star Wars Squadrons** from the game list and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2-2.jpg)
@@ -87,17 +75,9 @@ Check if the game runs normally now. If not, move on to the second fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Select**Star Wars Squadrons** from the list. Then, click the**settings icon** and click**Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/0.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Relaunch the game after repair finishes. If crashing remains, try the next fix below.
 
@@ -123,10 +103,6 @@ There are mainly two ways you can do the driver update:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/amd-5700-de-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -146,17 +122,9 @@ There are mainly two ways you can do the driver update:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Untick**Enable the Steam Overlay while in-game** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### On Origin
 
@@ -202,10 +170,6 @@ There are mainly two ways you can do the driver update:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/4-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)** Set Fullscreen Mode to**Windowed** or**Borderless** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/4-3.jpg)
@@ -241,24 +205,19 @@ There are mainly two ways you can do the driver update:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-tackling-windows-files-swiftly-and-smartly/"><u>[Updated] In 2024, Tackling Windows Files Swiftly and Smartly</u></a></li>
-<li><a href="https://win-answers.techidaily.com/movavi/"><u>無料のプログラムとウェブサイト：MOVからAVIへの優れた変換方法</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/creating-a-unique-identity-in-the-flood-of-live-streams-for-2024/"><u>Creating a Unique Identity in the Flood of Live Streams for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/cutting-edge-obs-use-in-android-broadcasting/"><u>Cutting-Edge OBS Use in Android Broadcasting</u></a></li>
-<li><a href="https://video-capture.techidaily.com/enhance-your-stream-the-top-5-cameras-to-stand-out-on-twitch-for-2024/"><u>Enhance Your Stream The Top 5 Cameras to Stand Out on Twitch for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/enhanced-user-experience-with-advanced-data-driven-marketing-solutions/"><u>Enhanced User Experience with Advanced Data-Driven Marketing Solutions</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-files-for-samsung-galaxy-s23plus-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD .mts files for Samsung Galaxy S23+? </u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-the-soft-bricked-oneplus-nord-3-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked OnePlus Nord 3 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-infinix-note-30-5g-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Infinix Note 30 5G for Free? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-media-mixes-in-adobe-premiere-pro-a-step-by-step-guide-on-importing-flv-videos/"><u>Mastering Media Mixes in Adobe Premiere Pro: A Step-by-Step Guide on Importing FLV Videos</u></a></li>
-<li><a href="https://win-answers.techidaily.com/movmp4and/"><u>MOVファイルをMP4形式でコンバート&最適化: スマートなサイズ圧縮手段</u></a></li>
-<li><a href="https://win-answers.techidaily.com/pc-zoom/"><u>PC Zoomミーティングで音声だけ秘密裏に記録するためのガイド</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-tutorial-transform-nicovideo-files-into-mp3-audio-with-our-top-2-strategies/"><u>Quick Tutorial: Transform Nicovideo Files Into MP3 Audio with Our Top 2 Strategies</u></a></li>
-<li><a href="https://win-answers.techidaily.com/sony-walkman/"><u>Sony Walkman動画再生不能のトラブルシューティングガイド</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-to-transforming-dvd-vob-files-into-mp3-playable-videos/"><u>Step-by-Step Guide to Transforming DVD VOB Files Into MP3 Playable Videos</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-adding-background-tunes-to-your-google-slides-deck/"><u>Step-by-Step Guide: Adding Background Tunes to Your Google Slides Deck</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-setting-up-the-adult-content-extension-in-kodi/"><u>Step-by-Step Guide: Setting Up the Adult Content Extension in Kodi</u></a></li>
-<li><a href="https://win11.techidaily.com/turbo-typing-techniques-via-powertoys/"><u>Turbo Typing Techniques via PowerToys</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unlocking-iphone-standby-top-eight-fixes-for-a-smoother-experience/"><u>Unlocking iPhone Standby: Top Eight Fixes for a Smoother Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/days-gone-top-action-packed-shooter-game-now-ready-for-windows-pc-gamers/"><u>'Days Gone': Top Action-Packed Shooter Game Now Ready for Windows PC Gamers</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/valuating-the-top-video-streaming-apps-for-phones-for-2024/"><u>[New] Evaluating the Top Video Streaming Apps for Phones for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-is-minimizing-unstable-movement-in-photoshop-beneficial/"><u>[New] In 2024, Is Minimizing Unstable Movement in Photoshop Beneficial?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-starlit-secrets-dos-and-donts-of-astrophotography/"><u>[New] In 2024, Starlit Secrets Do's & Don'ts of Astrophotography</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-enhancing-youtube-content-with-free-music-sources/"><u>[Updated] In 2024, Enhancing YouTube Content with Free Music Sources</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-the-art-of-extended-frame-videos-on-iphone/"><u>[Updated] In 2024, The Art of Extended Frame Videos on iPhone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-unleash-your-creative-spirit-from-images-to-videos-using-pixiz/"><u>[Updated] In 2024, Unleash Your Creative Spirit From Images to Videos Using Pixiz</u></a></li>
+<li><a href="https://win-answers.techidaily.com/defeat-crashes-and-glitches-expert-fixes-for-an-uninterrupted-helldivers-ii-on-pc/"><u>Defeat Crashes and Glitches: Expert Fixes for an Uninterrupted Helldivers II on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/diagnosing-and-solving-the-logitech-g-hub-issue-in-windows-os/"><u>Diagnosing and Solving the Logitech G Hub Issue in Windows OS</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-best-investment-in-streaming-comparative-evaluation/"><u>In 2024, Best Investment in Streaming Comparative Evaluation</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-lag-and-disconnection-in-gta-vs-multiplayer-feature/"><u>Overcoming Lag and Disconnection in GTA V's Multiplayer Feature</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-fixes-for-a-non-functional-steamvr-effective-solutions/"><u>Quick Fixes for a Non-Functional SteamVR: Effective Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-file-system-problems-in-windows-11-os/"><u>Tackling File System Problems in Windows 11 OS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-ultrabook-with-exceptional-display-a-comprehensive-review-on-zdnet/"><u>Top-Rated Ultrabook with Exceptional Display: A Comprehensive Review on ZDNet</u></a></li>
 </ul></div>
 

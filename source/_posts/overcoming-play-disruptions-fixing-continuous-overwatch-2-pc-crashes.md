@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Play Disruptions: Fixing Continuous Overwatch 2 PC Crashes"
-date: 2025-02-11T01:20:03.455Z
-updated: 2025-02-15T00:27:20.652Z
+date: 2025-02-25T16:15:40.253Z
+updated: 2025-03-04T16:04:49.244Z
 tags:
   - win11
   - win10
@@ -52,10 +52,6 @@ If you still have the issue, you can try the next fix.
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2 Turn off Discord Overlay and Hardware Acceleration
 
  The FIFA crashing issue can be caused by Discord settings. If you have Discord installed, you can turn off Discord Overlay and Hardware Acceleration.
@@ -66,10 +62,6 @@ If you still have the issue, you can try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-Disable-overlay-1200x685.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the**Advanced** tab and turn off**Hardware Acceleration** . Your Discord will be restarted.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-Disable-hardware-acceleration-1-1200x638.jpg)
@@ -78,10 +70,6 @@ Then you can see if the crashing issue reoccurs when playing FIFA.
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3 Allow FIFA 19 to run through the Firewall
 
  Temporarily disable your Anti-virus software or add your FIFA 19 as an exception to your third-party antivirus application. (Please consult your antivirus documentation for instructions if you don’t know how to do it.)
@@ -89,10 +77,6 @@ Then you can see if the crashing issue reoccurs when playing FIFA.
  Be extra careful about what sites you visit, what emails you open, and what files you download when your antivirus is disabled.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4 Update your device drivers
 
@@ -124,10 +108,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/driver-update.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 4) Restart your computer for the changes to take effect.
@@ -153,10 +133,6 @@ OR
 2) Right-click on your desktop and select**NVIDIA Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/NVIDIA-control-panel.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Under the**Manage 3D settings** tab, click**Program Settings** .  
   
@@ -247,10 +223,6 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The repair is available with the paid version of Fortect which comes with full technical support. If you encounter any issues when using Fortect, feel free to contact their support team.  
 
 ---
@@ -262,10 +234,6 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
  1) Type**msc** in the search box and select**System Configuration** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/system-config.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Click the**Services** tab and check the**Hide all Microsoft services** box, then click**Disable all** .
 
@@ -303,10 +271,6 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/win11-Terminal-Admin.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Copy the following command and press**Enter** .
 
 cd config\systemprofile\AppData\Local
@@ -340,16 +304,22 @@ mkdir Database
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-live-stream-to-youtube-with-obs-step-by-step-guide-for-beginners/"><u>[New] Live Stream to Youtube with OBS Step by Step Guide for Beginners</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-top-chromebook-visual-recorder/"><u>[Updated] In 2024, Top Chromebook Visual Recorder</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-vapor-3-face-off-mirage-4-dawn/"><u>[Updated] Vapor 3 Face-Off Mirage 4 Dawn</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-thumbnails-that-captivate-a-professionals-guide-to-visual-lures/"><u>2024 Approved Thumbnails That Captivate A Professional's Guide to Visual Lures</u></a></li>
-<li><a href="https://win-answers.techidaily.com/2024-geforce-experience/"><u>2024 GeForce Experienceの動画記録不能時には？エフェクト解決策</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726030054068-windows-103/"><u>美しいビデオに変える! Windows 10のクローピングテクニックベスト3</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-powered-healthful-eating-strategies-via-gpt-tips/"><u>AI-Powered Healthful Eating Strategies via GPT Tips</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-android-guide-inverting-video-playback/"><u>In 2024, Android Guide Inverting Video Playback</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726030400691-itunesyoutube/"><u>ITunes互換YouTubeビデオへの変換手順とソフトウェアツール</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/microsoft-flight-simulator-x-gold-edition-review/"><u>Microsoft Flight Simulator X: Gold Edition Review</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726030466219-pc/"><u>PC上のビデオをオーディオに変換する手順</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-exclusive-youtube-snippet-access-high-quality-free-download/"><u>[New] 2024 Approved Exclusive YouTube Snippet Access - High Quality, Free Download</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/waying-symbols-dynamic-animation-for-text-effects/"><u>[New] Swaying Symbols Dynamic Animation for Text Effects</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-youtube-music-arrangement-tips/"><u>[Updated] 2024 Approved YouTube Music Arrangement Tips</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-bringing-text-to-life-3d-creation-in-photo/"><u>[Updated] In 2024, Bringing Text to Life 3D Creation in PHOTO</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-ignite-your-networking-join-the-1k-club-on-instagram-regularly/"><u>[Updated] In 2024, Ignite Your Networking Join the 1K Club on Instagram Regularly</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-pioneering-path-for-instantaneous-srt-to-text-conversions/"><u>2024 Approved Pioneering Path for Instantaneous SRT to Text Conversions</u></a></li>
+<li><a href="https://win-able.techidaily.com/elevate-your-spreadsheets-with-top-5-unknown-excel-shortcuts-and-tricks/"><u>Elevate Your Spreadsheets with Top 5 Unknown Excel Shortcuts and Tricks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-black-screen-issue-at-elden-ring-boot-up-solutions-guide/"><u>Fixing the 'Black Screen' Issue at Elden Ring Boot Up - Solutions Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-from-rookie-to-pro-unveiling-the-secrets-of-ginger-isle/"><u>In 2024, From Rookie to Pro Unveiling the Secrets of Ginger Isle</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-windows-compatibility-problems-with-your-ds4-controller-fix-here/"><u>Overcoming Windows Compatibility Problems With Your DS4 Controller (Fix Here!)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-play-uninterrupted-fixing-the-crashes-of-arcadegeddon/"><u>PC Play Uninterrupted: Fixing the Crashes of Arcadegeddon</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-troubleshooting-tips-to-resolve-chrome-stalling-issues-in-windows-10/"><u>Quick Troubleshooting Tips to Resolve Chrome Stalling Issues in Windows 10</u></a></li>
+<li><a href="https://win-answers.techidaily.com/say-goodbye-to-rogue-pc-errors-discover-the-latest-top-6-fixes-for-stray-crash-incidents/"><u>Say Goodbye to Rogue PC Errors: Discover the Latest Top 6 Fixes for 'Stray Crash' Incidents</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723013130884-solve-your-call-of-duty-wwii-screen-glitches-on-pc-with-easy-fixes/"><u>Solve Your Call of Duty: WWII Screen Glitches on PC with Easy Fixes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-vaultron-v-freezing-issues-a-step-by-step-guide/"><u>Solving 'Vaultron V' Freezing Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-alan-wake-2-game-crash-issue-essential-troubleshooting-steps/"><u>Solving the Alan Wake 2 Game Crash Issue: Essential Troubleshooting Steps</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-lenovo-thinkspad-on-windows-11-os/"><u>Streamline Lenovo ThinksPad on Windows 11 OS</u></a></li>
 </ul></div>
 

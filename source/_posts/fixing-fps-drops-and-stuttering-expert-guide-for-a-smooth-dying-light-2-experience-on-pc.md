@@ -1,7 +1,7 @@
 ---
 title: Fixing FPS Drops and Stuttering - Expert Guide for a Smooth Dying Light 2 Experience on PC
-date: 2025-02-14T05:55:49.046Z
-updated: 2025-02-14T16:07:51.982Z
+date: 2025-03-03T16:10:16.629Z
+updated: 2025-03-04T16:12:08.320Z
 tags:
   - win11
   - win10
@@ -35,10 +35,6 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/how-to-fix-Pathfinder-Wrath-of-the-Righteous-freezing-on-PC.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Add your game as an exception to your antivirus
 
  Some gamers reported on Reddit that it turned out the antivirus application was quarantining the game every time they ran it. They solved the freezing issue by whitelisting the game. To make sure your antivirus is not blocking your game from launching properly, you should disable your antivirus or add your game as an exception. Otherwise, your antivirus might identify the game as a Trojan.
@@ -61,10 +57,6 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 
  Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Option 2 – Automatically update your graphics driver (recommended)
 
  Updating drivers manually does require a certain level of computer knowledge and can be error-prone. If you don’t feel like doing it on your own, we recommend you use **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  , an automatic driver updater. With Driver Easy, you don’t need to waste your time hunting for driver updates as it will take care of the busy work for you.
@@ -75,17 +67,9 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-now-v5_7_0.jpg)
 3. Click**Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them. )  
 
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -94,10 +78,6 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 ## 3\. Verify integrity of game files
 
  A variety of issues may be caused by corrupted game files, whether it’s glitched graphics or inability to launch the game. When the Pathfinder: Wrath of the Righteous freezing issue arise, you should check the integrity of the game files on Steam or GOG Galaxy:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Verify on Steam
 
@@ -134,10 +114,6 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 
  After applying the changes, play Pathfinder: Wrath of the Righteous and your problem should be alleviated. However, if the freezing issue still occurs, don’t worry. Below are other fixes for you to try.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Launch your game from .exe file
 
  Most of the time, we just launch a program by simply clicking on the shortcut or launch a game from the gaming platform. But there is one other way you can launch your game. That is through the .exe file. Simply go to your game’s installation directory and**double-click on the executable** . Sometimes running your game directly from the executable (suggested by some players) can work like magic. So if the above methods didn’t work for you, definitely give it a shot. Players who **can’t launch the Pathfinder along with the disk write error** can also benefit from this trick.
@@ -156,10 +132,6 @@ However, if it doesn’t give you any luck, try the next fix below.
 
 ![delete registry key](https://images.drivereasy.com/wp-content/uploads/2021/09/registry.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Once done, restart your game and test the gameplay.
 
  However, if nothing else has helped, it’s high time to check if you have**corrupted, malfunctioning, and missing Windows software files** , which will cause performance issues.
@@ -171,10 +143,6 @@ Once done, restart your game and test the gameplay.
 3. Once it’s finished, click **Start Repair** to start the repair process.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -195,18 +163,22 @@ Once done, restart your game and test the gameplay.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-8-ultimate-windows-10-video-grabber-apps-you-must-try/"><u>[New] In 2024, 8 Ultimate Windows 10 Video Grabber Apps You Must Try</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-leaders-list-of-gps-drones-with-precision-tracking/"><u>[New] Leader's List of GPS Drones with Precision Tracking</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-incorporating-borders-in-your-next-video-post-for-2024/"><u>[Updated] Incorporating Borders in Your Next Video Post for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-mastering-media-conversion-youtube-to-mp3-on-appleos/"><u>[Updated] Mastering Media Conversion YouTube to MP3 on AppleOS</u></a></li>
-<li><a href="https://win-answers.techidaily.com/efficient-media-handling-on-your-pc-tips-and-tricks-for-leveraging-utility-programs-across-diverse-functions/"><u>Efficient Media Handling on Your PC: Tips & Tricks for Leveraging Utility Programs Across Diverse Functions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effortless-guide-to-converting-vob-files-to-wmv-format-using-windows/"><u>Effortless Guide to Converting VOB Files to WMV Format Using Windows</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effortless-transformation-the-ultimate-technique-for-turning-mpeg-into-mp3-audio/"><u>Effortless Transformation: The Ultimate Technique for Turning MPEG Into MP3 Audio</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fodpc-and-mp4/"><u>FODビデオコンテンツのPCからのダウンロード手順 & MP4ファイルへの保存方法</u></a></li>
-<li><a href="https://win-answers.techidaily.com/get-in-touch-with-customer-service-today/"><u>Get in Touch With Customer Service Today</u></a></li>
-<li><a href="https://win-answers.techidaily.com/high-definition-photography-on-the-latest-ipod-touch-with-up-to-960-x/"><u>High-Definition Photography on the Latest iPod Touch with Up to 960 X 지원</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Realme GT Neo 5 | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-tips-and-tricks-for-clearing-cluttered-backdrops-in-figma/"><u>In 2024, Tips and Tricks for Clearing Cluttered Backdrops in Figma</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-yuneecs-typhoon-h-an-aerial-powerhouse-review-for-2024/"><u>Unveiling Yuneec’s Typhoon H An Aerial Powerhouse Review for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-supercharge-your-vehicles-top-10-srt-mods-for-os-x-and-windows/"><u>[New] 2024 Approved Supercharge Your Vehicles Top 10 SRT Mods for OS X & Windows</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-expert-opinions-best-browser-recording-apps-uncovered-for-2024/"><u>[New] Expert Opinions Best Browser Recording Apps Uncovered for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-designing-dynamic-openings-that-resonate-with-audience/"><u>[New] In 2024, Designing Dynamic Openings that Resonate with Audience</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-essential-skills-for-recording-private-whatsapp-talks/"><u>[Updated] 2024 Approved Essential Skills for Recording Private WhatsApp Talks</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-pc-sound-logging-simplified-install-x-recorder-app-for-2024/"><u>[Updated] Pc Sound Logging Simplified - Install X-Recorder App for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-achieving-clear-communication-on-skype/"><u>2024 Approved Achieving Clear Communication on Skype</u></a></li>
+<li><a href="https://win-answers.techidaily.com/boosting-horizon-zero-dawn-gameplay-effective-methods-to-increase-frame-rate-and-speed/"><u>Boosting Horizon Zero Dawn Gameplay - Effective Methods to Increase Frame Rate & Speed</u></a></li>
+<li><a href="https://win-answers.techidaily.com/conquer-far-cry-cu6-black-screen-glitch-steps-to-a-flawless-gameplay-experience/"><u>Conquer Far Cry Cu6 Black Screen Glitch: Steps to a Flawless Gameplay Experience</u></a></li>
+<li><a href="https://fox-links.techidaily.com/do-creators-receive-payment-for-reviews/"><u>Do Creators Receive Payment for Reviews?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723002377232-fast-fixes-how-to-speed-up-your-sluggish-chrome-browser-instantly/"><u>Fast Fixes: How to Speed Up Your Sluggish Chrome Browser Instantly</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-the-gameplay-eliminating-halo-infinites-stuttering-problem-once-and-for-all/"><u>Master the Gameplay: Eliminating Halo Infinite's Stuttering Problem Once & for All</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/star-wars-squadrons-unveiled-breaking-down-its-thrilling-spaceship-combat-mechanics/"><u>Star Wars: Squadrons Unveiled – Breaking Down Its Thrilling Spaceship Combat Mechanics</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722997587280-tower-of-fantasy-pc-issues-resolved-no-more-game-crashes/"><u>Tower of Fantasy PC Issues Resolved - No More Game Crashes!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-deathloop-simple-solutions-for-preventing-pc-crashes/"><u>Troubleshooting Deathloop: Simple Solutions for Preventing PC Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-resolving-loading-issues-in-madden-nfl-22/"><u>Troubleshooting Tips: Resolving 'Loading' Issues in Madden NFL 22</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-solve-constant-palworld-game-crashes-on-your-computer/"><u>Troubleshooting Tips: Solve Constant PalWorld Game Crashes on Your Computer</u></a></li>
 </ul></div>
 

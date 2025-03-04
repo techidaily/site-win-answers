@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Fixes for Frame Rate Dips & Stutters in Call of Duty: Modern Warfare 2 on PC"
-date: 2024-08-19T00:57:02.136Z
-updated: 2024-08-20T00:57:02.136Z
+date: 2025-03-01T16:04:18.478Z
+updated: 2025-03-04T16:04:53.715Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/a7c2cae58c74793489ce0f31c71cf2fc559db86f4
 
 A recent update of Warzone triggered a surge in reports of the**Dev Error 6034** issue, which keeps crashing the game, especially in battle royale. If you happen to be seeing the same error, worry not. According to our users, there’re already some fixes that can help you get rid of the error right away.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fixes to try
 
  You might not need to try them all. Simply work down the list until you land on the one that fixes the issue.
@@ -53,9 +50,6 @@ To do so, first visit the website of your GPU manufacturer:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
@@ -78,17 +72,11 @@ To do so, first visit the website of your GPU manufacturer:
    * **Launcher.exe (Modern Warfare)**
 2. Launch your**Battle.net** client.
 3. In the left pane, select **Call of Duty: MW** . Then click **Options**  and select **Scan and Repair** from the drop-down menu.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/warzone-verify-1.jpg)
 4. Wait for the process to complete. Then launch Warzone and check if it’s working now.
 
  If this method doesn’t do the trick, you can take a look at the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Remove Multiplayer game packs
 
  Soon after the Dev Error happens, console gamers discovered that they can fix the issue by**removing specific game packs** . This would be less painful than a complete reinstallation, so you can give it a shot. If you don’t know how, here’s a quick example on Xbox:
@@ -96,9 +84,6 @@ To do so, first visit the website of your GPU manufacturer:
 1. On your Xbox, select Call of Duty: Modern Warfare. Press the menu button and select**Manage game & add-ons** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-1.jpg)
 2. Select**Call of Duty: Modern Warfare** . (You might also need to select**Manage installation on External drive** .)  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-2.jpg)
 3. Scroll down and unselect**MP2 Pack** and**Multiplayer Pack 3.** Then select**Save changes** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-3.jpg)
@@ -106,9 +91,6 @@ To do so, first visit the website of your GPU manufacturer:
 
 If this trick doesn’t help you, simply check out the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Reinstall Warzone
 
  If none of the fixes above can solve your issue, you still have a nuclear solution to**reinstall your game** . According to some gamers, it appears to be a potential fix for the Dev Error 6034 issue.
@@ -125,8 +107,6 @@ If this trick doesn’t help you, simply check out the next one.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -134,4 +114,24 @@ If this trick doesn’t help you, simply check out the next one.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-answers.techidaily.com/tales-of-arise-diagnosing-and-addressing-game-stopping-errors-effectively/"><u>'Tales of Arise': Diagnosing & Addressing Game-Stopping Errors Effectively</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-decoding-the-modern-content-creators-dilemma/"><u>[New] 2024 Approved Decoding the Modern Content Creator's Dilemma</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-essential-guide-to-rapid-signature-removal/"><u>[New] In 2024, Essential Guide to Rapid Signature Removal</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-advice-on-optimal-hdr-camera-selection/"><u>2024 Approved Expert Advice on Optimal HDR Camera Selection</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-the-art-of-crafting-gopro-time-lapses/"><u>2024 Approved The Art of Crafting GoPro Time-Lapses</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/comprehensive-guide-to-m4v-file-restoration-on-os-xpc/"><u>Comprehensive Guide to M4V File Restoration on OS X/PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-and-solution-troubleshooting-steam-games-that-wont-open-in-windows-10/"><u>Fix & Solution: Troubleshooting Steam Games That Won't Open in Windows 10</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-error-overcoming-content-warning-in-voice-chat-communications/"><u>Fixing the Error: Overcoming 'Content Warning' In Voice Chat Communications</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-geforce-experience-error-message-and-keep-your-gpu-software-running-smoothly/"><u>How to Fix 'GeForce Experience Error' Message & Keep Your GPU Software Running Smoothly</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-explore-the-10-finest-iphone-photo-editors-and-filters/"><u>In 2024, Explore the 10 Finest iPhone Photo Editors & Filters</u></a></li>
+<li><a href="https://win-answers.techidaily.com/instant-relief-from-kernelbasedll-malfunctions-step-by-step-solution/"><u>Instant Relief From KernelBase.dll Malfunctions - Step-by-Step Solution</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/pro-tip-guide-to-integrating-photos-and-videos-into-windows-10-for-2024/"><u>Pro-Tip Guide to Integrating Photos and Videos Into Windows 10 for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stop-fall-guys-from-failing-at-startup-expert-fixes-and-advice/"><u>Stop 'Fall Guys' From Failing at Startup – Expert Fixes and Advice</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stop-playing-with-bugs-fix-constant-freezes-and-crashes-in-new-world-for-a-smoother-gaming-experience/"><u>Stop Playing with Bugs: Fix Constant Freezes and Crashes in 'New World' For a Smoother Gaming Experience</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/unlock-full-potential-guaranteeing-peak-efficiency-for-your-pc-with-yl-computing-and-ys-software-strategies/"><u>Unlock Full Potential: Guaranteeing Peak Efficiency for Your PC with YL Computing & YS Software Strategies</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-xiaomi-redmi-k70e-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Xiaomi Redmi K70E Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/why-is-my-minecraft-game-muting-solving-pc-audio-issues-for-a-sounds-filled-adventure/"><u>Why Is My Minecraft Game Muting? Solving PC Audio Issues for a Sounds-Filled Adventure</u></a></li>
+</ul></div>
 

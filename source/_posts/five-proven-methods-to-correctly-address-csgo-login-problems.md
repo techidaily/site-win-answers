@@ -1,7 +1,7 @@
 ---
 title: Five Proven Methods to Correctly Address CSGO Login Problems
-date: 2025-02-14T02:13:37.621Z
-updated: 2025-02-14T21:26:54.303Z
+date: 2025-03-02T16:13:04.486Z
+updated: 2025-03-04T16:12:05.872Z
 tags:
   - win11
   - win10
@@ -40,10 +40,6 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 
  Turning off OBS preview should also mitigate the FPS drops while recording. But if this doesn’t help your case, have a look at the second method below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2 – Run OBS as an administrator
 
  If OBS doesn’t have proper administrator privileges, it will fail to record your screen as expected, but you could run it as an administrator to fix the issue.
@@ -51,10 +47,6 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 1. Right-click the**OBS icon** on your desktop and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
 2. Select the**Compatibility** tab, tick**Run this program as an administrator** and click**OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/run-obs-as-administrator.jpg)
 
@@ -71,15 +63,7 @@ Many Windows users have been reporting the OBS not recording screen issue lately
  Don’t end any programs you’re unfamiliar with, as they may be critical for the functioning of your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ta-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once done, restart OBS to test. If the OBS not recording problem persists, continue to the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4 – Change the graphics settings
 
@@ -100,10 +84,6 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-3.jpg)
 7. If you intend to use_Display Captur_ e, select**Power saving** and click**Save** . If you’re using_Window capture_ or_Game capture_ , select**High performance** and**Save** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-4.jpg)
 
  See if OBS works without trouble. If you’re still unable to use screen capture, there might be something wrong with your device drivers. Check out Fix 5 to solve it.
@@ -122,10 +102,6 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). Or you can click**Update** next to the flagged device driver to do it for free, but it’s partly manual.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/update-all-de.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -153,21 +129,24 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-elevating-your-vlogs-a-list-of-the-top-12-professional-cameras/"><u>[Updated] 2024 Approved Elevating Your Vlogs A List of the Top 12 Professional Cameras</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-visiovista-android-and-ios-instagram-tile-artisan/"><u>[Updated] 2024 Approved VisioVista Android & iOS Instagram Tile Artisan</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-experience-the-future-of-mobile-gaming-iphone-vr-leaderboard-for-2024/"><u>[Updated] Experience the Future of Mobile Gaming IPhone VR Leaderboard for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/twitchwindowsmac3/"><u>撮影ツール: TwitchのライブストリーミングをWindows、Mac両方用に記録しましょう（3選）</u></a></li>
-<li><a href="https://driver-install.techidaily.com/efficient-driver-setup-microsoft-pro-4-on-pcs/"><u>Efficient Driver Setup: Microsoft Pro 4 on PCs</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Infinix GT 10 Pro? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-melodic-memberships-leading-online-hubs-for-got-ringtone-purchases/"><u>In 2024, Melodic Memberships Leading Online Hubs for GoT Ringtone Purchases</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-short-length-film-plot-plan/"><u>In 2024, Short-Length Film Plot Plan</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Infinix Note 30 Pro? | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/sony-ps5-social-gaming-101-how-to-set-up-a-shared-play-experience/"><u>Sony PS5 Social Gaming 101: How to Set Up a Shared Play Experience</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-transforming-your-pal-dvds-into-compatible-ntsc-format/"><u>Step-by-Step Guide: Transforming Your PAL DVDs Into Compatible NTSC Format</u></a></li>
-<li><a href="https://win-answers.techidaily.com/the-ultimate-guide-swift-and-easy-conversion-of-swf-files-to-mp3-format-online/"><u>The Ultimate Guide: Swift and Easy Conversion of SWF Files to MP3 Format Online</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-10-iconic-korean-animated-series-ever-created/"><u>Top 10 Iconic Korean Animated Series Ever Created</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-5-methods-for-taking-screenshots-on-your-hp-notebook/"><u>Top 5 Methods for Taking Screenshots on Your HP Notebook</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-8-mp4-merging-tools-with-free-alternatives-included/"><u>Top 8 MP4 Merging Tools with FREE Alternatives Included</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-mp4-playback-issues-a-guide-for-samsung-lg-and-sony-tvs/"><u>Troubleshooting MP4 Playback Issues: A Guide for Samsung, LG & Sony TVs</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-ultimate-selection-elite-iphone-call-alerts/"><u>[New] In 2024, Ultimate Selection Elite iPhone Call Alerts</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-simplifying-media-sharing-how-to-enable-autoplay-in-facebook-video-spaces/"><u>[New] Simplifying Media Sharing How to Enable Autoplay in Facebook Video Spaces</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-vimeo-recorder-tips-effective-screen-and-camera-capturing-techniques/"><u>[Updated] 2024 Approved Vimeo Recorder Tips Effective Screen & Camera Capturing Techniques</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-the-ultimate-guide-to-tv-and-fb-live-synergy/"><u>[Updated] The Ultimate Guide to TV and FB Live Synergy</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-mobile-cinema-apples-no1-8-pack-free-and-paid-film-app-guide/"><u>2024 Approved Mobile Cinema Apple's No.1, 8-Pack Free & Paid Film App Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/baldurs-gate-3-for-windows-solving-frequent-crashes-guide/"><u>Baldur's Gate 3 for Windows - Solving Frequent Crashes Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/banish-mortal-kombat-11-crash-problems-with-these-easy-steps/"><u>Banish Mortal Kombat 11 Crash Problems with These Easy Steps</u></a></li>
+<li><a href="https://extra-information.techidaily.com/dissecting-the-syma-x5c-why-its-prime-for-first-time-flyers/"><u>Dissecting the Syma X5C Why It’s Prime for First-Time Flyers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/eliminating-persistent-issues-with-thunder-tier-one-stability-improvements-for-pc-users/"><u>Eliminating Persistent Issues with Thunder TIER One - Stability Improvements for PC Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-to-resolve-your-computers-screen-turning-black-on-zoom-webinars-and-meetings-updated-2e-guide-2024/"><u>Expert Tips to Resolve Your Computer's Screen Turning Black on Zoom Webinars and Meetings (Updated 2E Guide, 2024)</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Honor 70 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-eliminate-stuttering-and-lag-in-rainbow-six-siege/"><u>How To Eliminate Stuttering and Lag in Rainbow Six Siege</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/inside-look-at-the-new-m4-mac-mini-anticipated-costs-release-timeline-and-feature-specs-revealed/"><u>Inside Look at the New M4 Mac Mini – Anticipated Costs, Release Timeline & Feature Specs Revealed</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-the-game-crashing-centipede-error-in-destiny/"><u>Overcoming the Game-Crashing Centipede Error in Destiny</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-troubleshooting-guide-for-fixing-left-4-dead-2-game-crashes/"><u>Resolved: Troubleshooting Guide for Fixing Left 4 Dead 2 Game Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-troubleshooting-steps-for-the-ubisoft-connect-issue/"><u>Resolved: Troubleshooting Steps for the 'Ubisoft Connect' Issue</u></a></li>
+<li><a href="https://win-answers.techidaily.com/surviving-the-continuum-strategies-for-overcoming-the-black-lives-matter-challenges/"><u>Surviving the Continuum: Strategies for Overcoming the 'Black Lives Matter' Challenges</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/tutoriel-mettre-a-niveau-le-sys-dun-pc-sur-de-nouveaux-composants/"><u>Tutoriel : Mettre À Niveau Le Sys D'un PC Sur De Nouveaux Composants</u></a></li>
+<li><a href="https://win-net.techidaily.com/video-grabber-pro-quick-and-easy-youtube-to-device-converter/"><u>Video Grabber Pro: Quick and Easy YouTube-to-Device Converter</u></a></li>
 </ul></div>
 

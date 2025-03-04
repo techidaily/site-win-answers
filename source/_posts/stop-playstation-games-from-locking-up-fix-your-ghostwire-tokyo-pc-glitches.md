@@ -1,7 +1,7 @@
 ---
 title: "Stop PlayStation Games From Locking Up - Fix Your Ghostwire: Tokyo PC Glitches"
-date: 2025-02-09T04:14:50.031Z
-updated: 2025-02-15T00:23:55.824Z
+date: 2025-02-27T16:04:46.514Z
+updated: 2025-03-04T16:06:51.743Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/522924ced0006a97e1c9e5d253d5bd56be4e5257c
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -87,25 +83,13 @@ If this doesn’t solve your problem, try the next fix.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  If you’re still experiencing the freezing issue after you updated the graphics driver, try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 3: Scan and repair your game files
 
@@ -140,10 +124,6 @@ If Vanguard still freezes randomly on your PC, try the next fix.
 
  If you’re still experiencing random freezes while playing Vanguard, try the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 6: Make sure your system is up-to-date
 
  As the system requirements suggest, it’s important to make sure your system is up-to-date. Windows releases updates on a regular basis which may fix known bugs and compatibility issues. Installing the latest updates may make a difference in solving the freezing issues in Vanguard.
@@ -155,19 +135,11 @@ If Vanguard still freezes randomly on your PC, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/check-for-updates.png)
 2. Windows will scan for any available updates. If there are_no_ available updates, you’ll get a**You’re up to date** sign. You could also click**View all optional updates** and install them if needed.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/up-to-date.png)
 3. If there are available updates, Windows will automatically download them for you. Follow instructions to complete the installation if needed.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/windows-update.jpg)
 4. Restart your PC to let it take effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If this doesn’t solve your problem, try the next fix.
 
@@ -189,10 +161,6 @@ If the freezing issue persists, there’s one more fix you can try.
 2. Paste **sysdm.cpl** in the box, then click OK.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-sysdm.cpl-.jpg)
 3. Go to the **Advanced** tab, under the Performance section, click **Settings** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/advanced-performance-settings.jpg)
 4. Again switch to the **Advanced** tab, under the Virtual memory section, click **Change** .  
@@ -232,22 +200,14 @@ _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-best-in-class-no-charging-switch-replicas/"><u>[New] 2024 Approved Best-in-Class, No-Charging Switch Replicas</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-comparing-digital-dimensions-metaverse-and-multiverse-for-2024/"><u>[New] Comparing Digital Dimensions Metaverse & Multiverse for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-8-best-popular-instagram-after-effects-templates/"><u>[Updated] In 2024, 8 Best Popular Instagram After Effects Templates</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-inexpensive-pc-monitoring-software/"><u>2024 Approved Inexpensive PC Monitoring Software</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726029414991-itunes/"><u>画面キャプチャをiTunesフォーマットで追加するためのガイド</u></a></li>
-<li><a href="https://win-answers.techidaily.com/best-360-degree-video-players-compatible-with-all-platforms-windows-mac-iphone-and-android/"><u>Best 360-Degree Video Players Compatible with All Platforms: Windows, Mac, iPhone & Android</u></a></li>
-<li><a href="https://win-answers.techidaily.com/best-flac-audio-players-compatible-with-windows-11-top-picks/"><u>Best FLAC Audio Players Compatible with Windows 11: Top Picks</u></a></li>
-<li><a href="https://fox-that.techidaily.com/eliminate-unwanted-echoes-in-your-airpods-a-guide-to-disabling-the-advanced-head-tracking-feature/"><u>Eliminate Unwanted Echoes in Your AirPods: A Guide to Disabling the Advanced Head-Tracking Feature</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/empty-trash-successfully-resolve-code-36/"><u>Empty Trash Successfully - Resolve Code 36</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/excellence-unleashed-the-pinnacle-fps-selections-for-2024/"><u>Excellence Unleashed The Pinnacle FPS Selections for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726027824124-mp4/"><u>MP4ファイルサイズ調整:高画質化と低画質化手順</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726027801494-musescore/"><u>MuseScoreで美しい「高解像音楽」レコーディングテクニックの紹介</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/resonant-harmony-a-comprehensive-list-of-voice-enhancing-apps-for-all-audiences-and-budgets/"><u>Resonant Harmony A Comprehensive List of Voice-Enhancing Apps for All Audiences and Budgets</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/unseen-by-your-computer-heres-how-to-reset-the-blue-yeti-microphone/"><u>Unseen by Your Computer? Here’s How to Reset the Blue Yeti Microphone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726029510043-windows-10mp4/"><u>Windows 10上のMP4ビデオカットテクニック集</u></a></li>
-<li><a href="https://win-answers.techidaily.com/44kk44oz44k544k5pig5yop5lya6kmx44gu6yyy55s744og44kv44ol44od44kv44ks5a2m44g2/"><u>インスタ映像会話の録画テクニックを学ぶ</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726028575381-tiktok/"><u>ビデオコンバート入門: TikTok用の高品質化テクニック</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-syncing-soundtracks-the-apple-way-for-2024/"><u>[New] Syncing Soundtracks The Apple Way for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-zombie-invasion-on-your-computer-a-guide-to-fixing-cold-war-gameplay-bugs/"><u>Beat Zombie Invasion on Your Computer - A Guide to Fixing Cold War Gameplay Bugs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-league-of-legends-crashes-fast-a-simple-guide/"><u>Fix League of Legends Crashes Fast: A Simple Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-oppo-reno-9a-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Oppo Reno 9A to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-infinix-zero-5g-2023-turbo-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1723808115871-immediate-remedies-for-a-lagging-hp-computer-diagnosing-the-causes/"><u>Immediate Remedies for a Lagging HP Computer - Diagnosing the Causes</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/leading-edge-applications-surpassing-traditional-fbx-file-capture-for-2024/"><u>Leading-Edge Applications Surpassing Traditional FBX File Capture for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/navigating-through-msedgeexe-hiccups-strategies-to-optimize-your-web-browser-performance/"><u>Navigating Through MsEdge.exe Hiccups: Strategies to Optimize Your Web Browser Performance</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-youtube-issues-when-sound-persists-but-video-fails-on-chrome-and-firefox/"><u>Resolving YouTube Issues: When Sound Persists but Video Fails on Chrome and Firefox</u></a></li>
 </ul></div>
 

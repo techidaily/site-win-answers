@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Steps: Resolving 'Internet Explorer Not Responding' Errors"
-date: 2025-02-09T02:04:25.603Z
-updated: 2025-02-14T20:34:25.569Z
+date: 2025-02-25T16:10:23.497Z
+updated: 2025-03-04T16:10:02.003Z
 tags:
   - win11
   - win10
@@ -65,10 +65,6 @@ thumbnail: https://thmb.techidaily.com/75e496d7d03af882c809a7273c9e1eb1d9baeae9a
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-29-08.jpg)
 2. Under the**Processes** tab, look for the processes that are CPU, memory, and network-hogging. Take Chrome here, for example, right-click it then click**End task** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-04-25_17-41-30.jpg)
 
 If this doesn’t solve your problem, try the next fix.
@@ -93,10 +89,6 @@ If this doesn’t solve your problem, try the next fix.
 
  Restart your PC for the new driver to take effect. If your game still crashes after you updated the graphics driver, try the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 3: Verify your game files
 
  If any of the game files of Naraka: Bladepoint on your PC are missing or corrupted, the game can crash at any point during the gameplay. You can use the game launcher to verify the integrity of your game files. Here’s how:
@@ -109,10 +101,6 @@ If this doesn’t solve your problem, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/verify-game-files-1.jpg)
 3. Steam will scan your local game files and compare them with those on the servers. If anything seems to be wrong, Steam will automatically fix it for you.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **On Epic Games** :
 
@@ -133,21 +121,9 @@ If this doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 5: Increase the virtual memory on your PC
 
@@ -185,10 +161,6 @@ _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/custom-size.jpg)
 5. Restart your PC to let the changes take effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If your game still crashes, try the next fix.
 
@@ -231,10 +203,6 @@ If this doesn’t solve your problem, try the last fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-48-33.jpg)
 5. Restart your PC.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If Naraka: Bladepoint doesn’t crash anymore, this means at least one of the programs you disabled was causing the problem.  
   
 **Here’s how to find out which one(s):**
@@ -257,16 +225,8 @@ If this doesn’t solve your problem, try the last fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-29-08.jpg)
 2. Switch to the**Startup** tab, and**enable the first five startup items** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-59-36.jpg)
 3. Reboot and try launching Naraka: Bladepoint to see if it still crashes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Repeat until you find the startup item that’s conflicting with the game.
 5. Disable the problem program and reboot your PC.
@@ -299,20 +259,22 @@ If this doesn’t solve your problem, try the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-becoming-a-pro-in-video-game-broadcasts-for-2024/"><u>[New] Becoming a Pro in Video Game Broadcasts for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-enhancing-images-made-simple-a-newbies-guide-to-lunapic-for-2024/"><u>[New] Enhancing Images Made Simple A Newbie’s Guide to LunaPic for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-back-track-technique-reverse-video-in-ios-devices/"><u>[New] In 2024, Back-Track Technique Reverse Video in iOS Devices</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-revolutionizing-facebook-video-cover-updates-tips-and-tricks/"><u>[New] In 2024, Revolutionizing Facebook Video Cover Updates Tips and Tricks</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-transform-your-edits-with-smart-use-of-luts-in-premiere-pro/"><u>[New] Transform Your Edits with Smart Use of LUTs in Premiere Pro</u></a></li>
-<li><a href="https://win-answers.techidaily.com/complete-tutorial-resolving-app-disintegration-issues/"><u>Complete Tutorial: Resolving App Disintegration Issues</u></a></li>
-<li><a href="https://win-answers.techidaily.com/diagnosing-and-correcting-crashes-in-thaumaturge-while-playing-on-personal-computer/"><u>Diagnosing and Correcting Crashes in Thaumaturge While Playing on Personal Computer</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fix-guide-addressing-problems-with-the-corsair-icue-interface-on-recent-windows-versions/"><u>Fix Guide: Addressing Problems with the Corsair iCUE Interface on Recent Windows Versions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-stop-microsoft-flight-simulator-202n-from-frequently-crashing-on-your-computer/"><u>How to Stop Microsoft Flight Simulator 202N From Frequently Crashing on Your Computer</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-a-critical-review-of-the-newest-vegaspro/"><u>In 2024, A Critical Review of the Newest VegasPro</u></a></li>
-<li><a href="https://win-guides.techidaily.com/mastering-file-handling-overcome-the-double-click-issue-in-windows-11-with-these-simple-steps/"><u>Mastering File Handling: Overcome the Double-Click Issue in Windows 11 with These Simple Steps</u></a></li>
-<li><a href="https://win-answers.techidaily.com/maximize-frames-per-second-in-borderlands-3-proven-optimization-techniques-for-playstation-enthusiasts/"><u>Maximize Frames per Second in Borderlands 3: Proven Optimization Techniques for PlayStation Enthusiasts</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/secrets-to-saving-and-sharing-your-roblox-experience-on-a-mac/"><u>Secrets to Saving & Sharing Your Roblox Experience on a Mac</u></a></li>
-<li><a href="https://win-answers.techidaily.com/trouble-with-final-fantasy-xivs-update-verification-process/"><u>Trouble with Final Fantasy XIV's Update Verification Process</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722999519161-valorant-performance-optimization-eliminate-stutters-and-increase-frame-rates/"><u>Valorant Performance Optimization: Eliminate Stutters & Increase Frame Rates!</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-tailor-made-viewing-pace-on-youtube-at-your-fingertips/"><u>[Updated] 2024 Approved Tailor-Made Viewing Pace on YouTube at Your Fingertips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/chivalry-ii-performance-optimized-ending-game-crashes-for-good/"><u>Chivalry II Performance Optimized: Ending Game Crashes for Good</u></a></li>
+<li><a href="https://win-answers.techidaily.com/discerning-the-root-cause-why-is-my-microphone-muted-during-discord-screen-shares/"><u>Discerning the Root Cause: Why Is My Microphone Muted During Discord Screen Shares?</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/echoes-from-ancient-persia-future-benefits-in-language/"><u>Echoes From Ancient Persia, Future Benefits in Language</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guide-to-overcoming-game-interruptions-fixing-the-resident-evil-4-remake-stalls/"><u>Guide to Overcoming Game Interruptions: Fixing the Resident Evil 4 Remake Stalls</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-successfully-obtain-and-configure-toshiba-printer-drivers-for-windows-systems/"><u>How to Successfully Obtain and Configure Toshiba Printer Drivers for Windows Systems</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-on-iphone-xs-max-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock On iPhone XS Max? How to Fix it?</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-earning-as-a-video-game-geek/"><u>In 2024, Earning as a Video Game Geek</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-on-iphone-6-plus-if-youve-tried-everything-by-drfone-ios/"><u>In 2024, How To Bypass iCloud By Checkra1n Even On iPhone 6 Plus If Youve Tried Everything</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-substitutes-for-winmovie-new-windows-editors/"><u>In 2024, Substitutes for WinMovie New Windows Editors</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-the-fix-for-age-of-wonders-planetfalls-killer-screen-glitches-on-personal-computers/"><u>Mastering the Fix for Age of Wonders: Planetfall's Killer-Screen Glitches on Personal Computers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-the-fix-for-windows-11-error-0xc19001e1-comprehensive-techniques-unveiled/"><u>Mastering the Fix for Windows 11 Error 0Xc19001e1: Comprehensive Techniques Unveiled</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-solutions-to-speed-up-load-times-for-star-wars-battlefront-ii-on-desktops-and-laptops/"><u>Quick Solutions to Speed Up Load Times for Star Wars: Battlefront II on Desktops and Laptops</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-troubleshooting-tips-for-the-graphics-driver-crashed-problem-in-valorant/"><u>Quick Troubleshooting Tips for the 'Graphics Driver Crashed' Problem in Valorant</u></a></li>
+<li><a href="https://win-best.techidaily.com/step-by-step-guide-modifying-your-pcs-control-panel-preferences-with-windows-yl-tech-solutions/"><u>Step-by-Step Guide: Modifying Your PC's Control Panel Preferences with Windows - YL Tech Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723001193793-stop-bluestacks-from-crashing-quick-fixes-within-minutes/"><u>Stop BlueStacks From Crashing: Quick Fixes Within Minutes</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/tiempo-y-segundo-guia-para-iniciarse-en-espanol/"><u>Tiempo Y Segundo: Guía Para Iniciarse en Español</u></a></li>
 </ul></div>
 

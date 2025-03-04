@@ -1,7 +1,7 @@
 ---
 title: "PC Gamers Rejoice: Fix the [SOLVED] Ascent Game From Constantly Crashing"
-date: 2025-02-09T20:30:36.947Z
-updated: 2025-02-15T05:19:42.464Z
+date: 2025-02-27T16:07:19.664Z
+updated: 2025-03-04T16:03:02.798Z
 tags:
   - win11
   - win10
@@ -67,15 +67,7 @@ Century: Age of Ashes system requirements
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . If Steam finds anything wrong with the game files, it will re-download them from its official server.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Depending on the size of the game files, it may take some time to verify all your game files.
 
@@ -95,10 +87,6 @@ Century: Age of Ashes system requirements
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
@@ -125,10 +113,6 @@ Century: Age of Ashes system requirements
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Uncheck **Enable Steam Overlay while in-game** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
 
  If you’re using other apps with overlay features (e.g. Xbox Game Bar, Nvidia GeForce Experience, Discord, etc.), make sure you’ve disabled the in-game overlay in those apps feature:
@@ -145,10 +129,6 @@ Century: Age of Ashes system requirements
 3. Restart Windows to apply changes.
 
  Launch the game and see if the it crashes again. If this fix doesn’t work, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Temporarily disable anti-virus software
 
@@ -193,23 +173,11 @@ If this fix didn’t work, try the next fix, below.
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
@@ -249,21 +217,21 @@ If this fix didn’t work, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-counterclockwise-content-youtube-replay-methods-for-2024/"><u>[Updated] Counterclockwise Content YouTube Replay Methods for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-detailed-tutorial-convert-your-shorts-to-the-best-mp4/"><u>[Updated] In 2024, Detailed Tutorial Convert Your Shorts to the Best MP4</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-vital-guide-to-cost-effective-video-and-photography-archives/"><u>2024 Approved Vital Guide to Cost-Effective Video and Photography Archives</u></a></li>
-<li><a href="https://win-dash.techidaily.com/canon-mp280-printing-software-compatible-with-windows-10-8-and-7/"><u>Canon MP280 Printing Software: Compatible with Windows 10, 8, and 7</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722958321971-get-your-corsair-mouse-ready-free-tutorial-and-downloads-available/"><u>Get Your Corsair Mouse Ready - Free Tutorial and Downloads Available</u></a></li>
-<li><a href="https://win-answers.techidaily.com/high-performance-video-quality-deciding-between-30-fps-and-60-fps-recording/"><u>High-Performance Video Quality: Deciding Between 30 FPS and 60 FPS Recording</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-enjoy-dvd-content-on-your-new-ps5-console/"><u>How to Enjoy DVD Content on Your New PS5 Console</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-properly-access-a-prx-file-identifying-suitable-programs-for-execution/"><u>How To Properly Access a PRX File: Identifying Suitable Programs for Execution</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-use-soap2day-downloader-for-movie-acquisition/"><u>How to Use Soap2day Downloader for Movie Acquisition</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-comprehensive-skype-screencasting-with-obs/"><u>In 2024, Comprehensive Skype Screencasting with OBS</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-iphone-x-passcode-easily-video-inside-by-drfone-ios/"><u>In 2024, How to Bypass iPhone X Passcode Easily Video Inside</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-precise-pathway-to-youtube-channel-profitable-management/"><u>In 2024, Precise Pathway to YouTube Channel Profitable Management</u></a></li>
-<li><a href="https://win-answers.techidaily.com/leading-no-cost-mp4-video-transcoder-applications-for-windows-users/"><u>Leading No-Cost MP4 Video Transcoder Applications for Windows Users</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-av1-with-ffmpeg-simplified-steps-for-audiovideo-conversion/"><u>Mastering AV1 with FFmpeg: Simplified Steps for Audio/Video Conversion</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-the-art-of-conversion-techniques-to-transform-visitors-into-customers/"><u>Mastering the Art of Conversion: Techniques to Transform Visitors Into Customers</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211421958--reading-the-waves/"><u>Reading the Waves | Free Book</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-spatial-realities-compared-the-meta-and-omni-experience/"><u>[New] 2024 Approved Spatial Realities Compared The Meta and Omni Experience</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-unveiling-virtual-worlds-metaverse-versus-omniverse-explained/"><u>[New] In 2024, Unveiling Virtual Worlds Metaverse Versus Omniverse Explained</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-overcoming-uneven-sound-in-fb-video-playback-for-2024/"><u>[New] Overcoming Uneven Sound in FB Video Playback for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-millions-watch-but-how-much-do-they-earn/"><u>[Updated] In 2024, Millions Watch, But How Much Do They Earn?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-syncing-images-android-iphone-file-transfer-guide/"><u>[Updated] Syncing Images Android-iPhone File Transfer Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/essential-tips-for-restoring-functionality-of-your-alienware-command-center/"><u>Essential Tips for Restoring Functionality of Your Alienware Command Center</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-on-preventing-crashes-during-gaming-on-modern-operating-systems/"><u>Expert Advice on Preventing Crashes During Gaming on Modern Operating Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-game-crashes-expert-tips-for-running-guilty-gear-strive-smoothly-on-a-computer/"><u>Fixing Game Crashes: Expert Tips for Running Guilty Gear Strive Smoothly on a Computer</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-oppo-a78-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Oppo A78 Pattern Lock Screen</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-masters-choice-10-preeminent-online-tools-for-vimeo-files/"><u>In 2024, Master's Choice 10 Preeminent Online Tools for Vimeo Files</u></a></li>
+<li><a href="https://win-answers.techidaily.com/insider-tips-for-overcoming-the-notorious-bug-55amage-5573-in-call-of-duty-vanguard/"><u>Insider Tips For Overcoming The Notorious Bug 55Amage 5573 in Call of Duty: Vanguard</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-the-stuck-loading-screen-at-90-for-phasmophobia-players/"><u>Overcoming the Stuck Loading Screen at 90% for Phasmophobia Players</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/revive-your-razer-microphone-a-step-by-step-guide-to-troubleshooting-the-mic/"><u>Revive Your Razer Microphone: A Step-by-Step Guide to Troubleshooting the Mic</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solve-your-diablo-immortal-pc-hiccups-ultimate-crash-fix-guide-for-the-modern-gamer/"><u>Solve Your Diablo Immortal PC Hiccups: Ultimate Crash Fix Guide for the Modern Gamer</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-nokia-150-2023-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Nokia 150 (2023) Phone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-a-smooth-naraka-bladepoint-gaming-experience-with-no-more-crashes/"><u>Troubleshooting Tips for a Smooth Naraka: Bladepoint Gaming Experience with No More Crashes</u></a></li>
 </ul></div>
 

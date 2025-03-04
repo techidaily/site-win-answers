@@ -1,7 +1,7 @@
 ---
 title: Banish Game Interruptions - Curing Diablo 3 Continuous Crashes
-date: 2025-02-11T02:38:48.792Z
-updated: 2025-02-15T05:25:14.218Z
+date: 2025-03-03T16:10:06.889Z
+updated: 2025-03-04T16:02:39.829Z
 tags:
   - win11
   - win10
@@ -70,10 +70,6 @@ There are two ways you can get the latest correct graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-201.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -87,10 +83,6 @@ There are two ways you can get the latest correct graphics driver:
  If your game still crashes after the reboot, read on and try fix 3, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: **Run your game as an administrator**
 
@@ -111,10 +103,6 @@ There are two ways you can get the latest correct graphics driver:
 If your game crashes again, go ahead with the fix below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Repair your game files
 
@@ -162,10 +150,6 @@ If your game crashes again, go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-514.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)**  Click **Reset** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-515.png)
@@ -174,17 +158,9 @@ If your game crashes again, go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-516.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Try launching Diablo 3 again. If the crashing issue persists, move to the next fix, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 7: **Delete the game cache files**
 
@@ -200,10 +176,6 @@ If your game crashes again, go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-705.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)**  Type **%ProgramData%** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-706.png)
@@ -211,10 +183,6 @@ If your game crashes again, go ahead with the fix below.
 **5)**  Highlight and delete the **Blizzard Entertainment** and**Battle.net folder** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-505.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Relaunch_Diablo 3_ to check if this worked for you. If the game is still unplayable, try the fix below.
 
@@ -227,10 +195,6 @@ If your game crashes again, go ahead with the fix below.
 **1)** Right-click the**Diablo III icon** , then select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-512.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **2)**  Click the **Compatibility**  tab. Then check the box next to **Run this program in compatibility mode for** .
 
@@ -277,10 +241,6 @@ If your game crashes again, go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-441.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Under **View by** , select **Category** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-443.png)
@@ -321,22 +281,24 @@ If your game crashes again, go ahead with the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-ideal-uavs-for-capturing-gopro-hd-footage/"><u>[New] Ideal UAVs for Capturing GoPro HD Footage</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-ranking-the-ultimate-10-free-online-subtitle-makers-srt/"><u>[New] In 2024, Ranking the Ultimate 10 Free Online Subtitle Makers (Srt)</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-pioneering-open-worlds-worth-your-time/"><u>[New] Pioneering Open Worlds Worth Your Time</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-infinite-frontier-the-best-sci-fi-films-that-redefine-universes/"><u>[Updated] Infinite Frontier The Best Sci-Fi Films That Redefine Universes</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-capture-clarity-the-ultimate-list-of-ois-equipped-phones/"><u>2024 Approved Capture Clarity The Ultimate List of OIS-Equipped Phones</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-how-to-share-vimeo-video-in-instagram-stories/"><u>2024 Approved How to Share Vimeo Video in Instagram Stories</u></a></li>
-<li><a href="https://win-answers.techidaily.com/baldurs-gate-3-pc-stability-problems-solutions-uncovered/"><u>Baldur's Gate 3 PC Stability Problems – Solutions Uncovered!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/definitive-steps-for-repairing-persistent-ps4-hanging-problems/"><u>Definitive Steps for Repairing Persistent PS4 Hanging Problems</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/efficient-methods-to-get-your-nvme-drivers-upgraded-for-windows-systems/"><u>Efficient Methods to Get Your NVMe Drivers Upgraded for Windows Systems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-tips-on-restoring-stability-to-your-terraria-network-link/"><u>Expert Tips on Restoring Stability To Your Terraria Network Link</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-stop-stray-impact-game-from-crashing-on-your-pc-effective-fixes-revealed/"><u>How to Stop 'Stray: Impact' Game From Crashing on Your PC – Effective Fixes Revealed!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-stop-microsoft-flight-simulator-2020-from-continuously-crashing/"><u>How to Stop Microsoft Flight Simulator 2020 From Continuously Crashing</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-stop-sony-vegas-media-studio-from-crashing-a-comprehensive-guide/"><u>How to Stop Sony Vegas Media Studio From Crashing: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-the-mechanics-of-fps-in-rainbow-six-extraction-troubleshooting-tips-and-tricks/"><u>Mastering the Mechanics of FPS in Rainbow Six Extraction - Troubleshooting Tips and Tricks</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcome-network-delays-and-optimize-connection-speed-for-back-4-blood-players/"><u>Overcome Network Delays & Optimize Connection Speed for Back 4 Blood Players</u></a></li>
-<li><a href="https://article-tips.techidaily.com/ranked-top-picks-for-free-skype-tones-for-2024/"><u>Ranked Top Picks for Free Skype Tones for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshoot-the-notorious-mw-series-bug-6068-for-gaming-victory-pro-tips-revealed/"><u>Troubleshoot the Notorious MW Series Bug 6068 for Gaming Victory - Pro Tips Revealed!</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-ultimate-game-hub-a-thousand-channels-for-gamers/"><u>[New] 2024 Approved Ultimate Game Hub A Thousand Channels for Gamers</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-instasaver-the-leading-videophoto-downloaders-round-up/"><u>[New] InstaSaver The Leading Video/Photo Downloaders Round-Up</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-must-watch-10-unique-igtv-content-formats-for-brands-for-2024/"><u>[New] Must-Watch 10 Unique IGTV Content Formats for Brands for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-spark-interest-the-art-of-youtube-intros-in-imovie/"><u>[Updated] Spark Interest The Art of YouTube Intros in iMovie</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-streamlining-the-process-of-finding-your-own-musical-compilation-on-youtube-for-2024/"><u>[Updated] Streamlining the Process of Finding Your Own Musical Compilation on Youtube for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-update-drivers-for-your-acer-predator-xb2n-hu-in-a-jiffy/"><u>Download & Update Drivers for Your Acer Predator XB2n-HU in a Jiffy!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-the-technique-resolve-titanfall-ncrashes-with-ease/"><u>Master the Technique: Resolve Titanfall nCrashes with Ease</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-cod-vanguard-hurdles-your-ultimate-guide-to-fixing-error-code-0x00001338/"><u>Overcome CoD Vanguard Hurdles: Your Ultimate Guide to Fixing Error Code 0X00001338</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/panduan-tepat-untuk-mengembalikan-file-yang-hilang-setelah-mengerahkan-lamping-komputer/"><u>Panduan Tepat Untuk Mengembalikan File Yang Hilang Setelah Mengerahkan Lamping Komputer</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/power-user-paradise-discover-the-top-duo-of-innovative-features-in-this-amazing-lenovo-laptop-insights/"><u>Power User Paradise: Discover the Top Duo of Innovative Features in This Amazing Lenovo Laptop - Insights</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-dying-light-performance-lags-tips-and-tricks/"><u>Resolving Dying Light Performance Lags: Tips and Tricks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-frame-rate-issues-in-fallout-76/"><u>Resolving Frame Rate Issues in Fallout 76</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-guide-overcoming-windows-compatibility-problems-with-the-ds4-gamepad/"><u>Solution Guide: Overcoming Windows Compatibility Problems with the DS4 Gamepad</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/step-by-step-guide-transferring-files-and-directories-on-windows-tech-solutions-by-yl/"><u>Step-by-Step Guide: Transferring Files and Directories on Windows - Tech Solutions by YL</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-bumpy-journey-begins-inside-stories-of-startups-like-atomic-heart/"><u>The Bumpy Journey Begins: Inside Stories of Startups Like 'Atomic Heart'</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-ultimate-guide-to-resolving-call-of-duty-vanguards-pc-malfunctions-in-the-2-24-release/"><u>The Ultimate Guide to Resolving Call of Duty: Vanguard's PC Malfunctions in the 2지-24 Release</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-ultimate-in-high-fidelity-gaming-why-the-nvidia-geforce-gtx-1080-ti-reigns-supreme/"><u>The Ultimate in High-Fidelity Gaming: Why the NVIDIA GeForce GTX 1080 Ti Reigns Supreme</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-absence-of-an-audio-device-error-on-windows-11-systems/"><u>Troubleshooting the Absence of an Audio Device Error on Windows 11 Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unable-to-open-nier-recomplete-version-expert-guidance-inside/"><u>Unable to Open NieR Re;Complete Version? Expert Guidance Inside</u></a></li>
 </ul></div>
 

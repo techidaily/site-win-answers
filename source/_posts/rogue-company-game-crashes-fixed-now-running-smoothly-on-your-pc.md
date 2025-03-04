@@ -1,7 +1,7 @@
 ---
 title: "Rogue Company Game Crashes Fixed: Now Running Smoothly on Your PC"
-date: 2025-02-10T18:35:31.967Z
-updated: 2025-02-14T16:22:23.222Z
+date: 2025-02-26T16:11:23.193Z
+updated: 2025-03-04T16:08:12.027Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/de76a8c110eaff7a166a09fee629e954d26d490c5
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -52,10 +48,6 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-verified-1.jpg)
 3. On the left, select **LOCAL FILES** . Then click **Verify integrity of game files** .. and wait for the process to complete.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-verified-2.jpg)
 
 Once done, restart Halo Infinite and check if the issue persists.
@@ -79,10 +71,6 @@ Now check if you can play Halo Infinite normally.
 
  If disabling overlays doesn’t do the trick for you, simply check out the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 3: Upgrade your graphics driver
 
  Game crashes tend to be graphics-related. In other words, you could be using a broken or outdated GPU driver. Gamers seemed to be the only group that’s surprised by the beta launch—the two GPU manufacturers have already rolled out the latest Halo-ready drivers. So if you don’t know if you have the latest graphics drivers, definitely check it now.
@@ -101,10 +89,6 @@ Now check if you can play Halo Infinite normally.
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, restart your PC and check if Halo Infinite crashes again.
@@ -117,17 +101,9 @@ Now check if you can play Halo Infinite normally.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/afterburner.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 MSI Afterburner
 
  If you’re sure it’s not the cause, simply continue to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 5: Disable fullscreen optimizations
 
@@ -138,19 +114,11 @@ MSI Afterburner
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-fullscreen-files-1.jpg)
 3. Right click the**HaloInfinite** launcher and select**Property** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-fullscreen-files-2.jpg)
 4. In the pop-up window, check the box before**Disable fullscreen optimizations** . Next click**Change high DPI settings** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-fullscreen-files-3.jpg)
 5. Under**High DPI scaling override** , check the box next to**Override high DPI scaling behavior** . Then click**OK** to save the changes.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-fullscreen-files-4.jpg)
 
@@ -182,15 +150,7 @@ If this trick doesn’t give you luck, simply try the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once you’ve installed all the system updates, restart your computer and test the gameplay.
 
@@ -242,19 +202,20 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-capturing-beats-studio-mac-basics/"><u>[New] 2024 Approved Capturing Beats Studio Mac Basics</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-empowering-visual-communication-integrating-s2t-into-your-powerpoint/"><u>[New] Empowering Visual Communication Integrating S2T Into Your Powerpoint</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-unattached-audio-puzzle-resolution-guide/"><u>[New] Unattached Audio Puzzle Resolution Guide</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-going-from-frame-to-note-on-instagrams-mp3-route/"><u>[Updated] Going From Frame-to-Note on Instagram's Mp3 Route</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-samsung-galaxy-f34-5g-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Samsung Galaxy F34 5G Phone Using PC | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixes-and-solutions-for-issues-with-starting-steam-games-on-windows-11/"><u>Fixes and Solutions for Issues with Starting Steam Games on Windows 11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-stop-horizon-zero-dawn-from-freezing-on-your-windows-computer/"><u>How To Stop Horizon Zero Dawn From Freezing On Your Windows Computer</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-leading-edge-webcams-insiders-choice-in-windows-11/"><u>In 2024, Leading Edge Webcams Insider's Choice in Windows 11</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-webcam-recording-made-simple-for-laptops-and-chromebooks/"><u>In 2024, Webcam Recording Made Simple for Laptops & Chromebooks</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-lag-and-lockups-a-guide-to-fixing-call-of-duty-vanguard-freezing-problems/"><u>Overcoming Lag and Lockups - A Guide to Fixing Call of Duty: Vanguard Freezing Problems</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-realme-12-5g-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Realme 12 5G Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-no-sound-problem-on-your-apple-device-proven-methods/"><u>Solving 'No Sound' Problem on Your Apple Device - Proven Methods</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-fixing-discords-screen-sharing-audio-issues/"><u>Troubleshooting Guide: Fixing Discord's Screen Sharing Audio Issues</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-stabilizing-your-dragons-dogma-2-pc-gameplay-experience/"><u>Troubleshooting Tips for Stabilizing Your Dragon's Dogma 2 PC Gameplay Experience</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-strategies-for-effective-content-promotion-on-youtube/"><u>[New] In 2024, Strategies for Effective Content Promotion on YouTube</u></a></li>
+<li><a href="https://win-dash.techidaily.com/movmpeg-12/"><u>動画MOV形式からMPEG-1/2への正しい変換プロセス</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-for-fixing-crashes-when-streaming-on-discord/"><u>Expert Tips for Fixing Crashes When Streaming on Discord</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722993873226-football-manager-2022-release-delay-explained-solved/"><u>Football Manager 2022 Release Delay Explained: Solved</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guide-to-repair-msvcr110dll-not-found-error-for-helldivers-game-enthusiasts/"><u>Guide to Repair 'MSVCR110.dll Not Found' Error for Helldivers Game Enthusiasts</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Samsung Galaxy XCover 6 Pro Tactical Edition? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-oppo-reno-10-5g-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Oppo Reno 10 5G Phone that is Locked?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723003834344-pc-gamers-rejoice-pathfinders-latest-patch-resolves-freezing-issues/"><u>PC Gamers Rejoice! Pathfinder's Latest Patch Resolves Freezing Issues</u></a></li>
+<li><a href="https://win-blog.techidaily.com/pc-troubles-solve-ark-survival-evolveds-constant-crashes-with-our-top-9-fixes/"><u>PC Troubles? Solve ARK: Survival Evolved's Constant Crashes with Our Top 9 Fixes!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/successful-strategies-for-dealing-with-red-dead-redemption-2s-unyielding-start-up-hurdle/"><u>Successful Strategies for Dealing with Red Dead Redemption 2'S Unyielding Start-Up Hurdle</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-next-revolution-in-smartphones-samsungs-upcoming-galaxy-z-fold-7-price-guide-release-info-and-rumored-features/"><u>The Next Revolution in Smartphones: Samsung's Upcoming Galaxy Z Fold 7 Price Guide, Release Info & Rumored Features</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-6-causes-of-iphone-sluggishness-and-solutions/"><u>Top 6 Causes of iPhone Sluggishness & Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/total-war-three-kingdoms-how-to-overcome-unexpected-shutdowns-and-crashes/"><u>Total War: Three Kingdoms - How to Overcome Unexpected Shutdowns and Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-to-fix-microsoft-flight-simulator-2020-no-more-pc-crashes/"><u>Ultimate Guide to Fix Microsoft Flight Simulator 2020: No More PC Crashes!</u></a></li>
 </ul></div>
 

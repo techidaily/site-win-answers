@@ -1,7 +1,7 @@
 ---
 title: "Increase FPS on ESX: Elite Techniques and 6 Optimized Fixes for Gamers"
-date: 2025-02-11T23:50:27.807Z
-updated: 2025-02-15T00:20:29.038Z
+date: 2025-02-25T16:13:55.555Z
+updated: 2025-03-04T16:03:09.811Z
 tags:
   - win11
   - win10
@@ -35,10 +35,6 @@ Battlefield 2042 is one of the most awaited games. Now players can dive into the
 
 ![how to fix Battlefield 2042 stuttering and FPS drops](https://images.drivereasy.com/wp-content/uploads/2021/10/2042-1200x675.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Enable game mode
 
  If you have the latest Windows version, you should enable the Game Mode. Windows game mode is a feature that is designed to optimize Windows 10 for gaming. It can deactivate background activities to help you boost in-game FPS. To enable this feature, follow the instructions below.
@@ -51,15 +47,7 @@ Battlefield 2042 is one of the most awaited games. Now players can dive into the
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/turn-on-game-mode.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now launch Battlefield 2042\. If your game still stutters a lot or it’s showing pretty low FPS, try the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Disable overlays
 
@@ -83,10 +71,6 @@ Below are a few common overlays and how to disable them.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/Twitch-settings.png)
 2. Click on**In-Game Overlay** on the left hand side of the screen. Then click the toggle**off** the In-Game Overlay.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/Twitch-in-game-overlay.png)
 
@@ -137,19 +121,11 @@ Below are a few common overlays and how to disable them.
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/display-settings-1.png)
 2. Scroll down. Find **Graphics settings** and click on it.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/graphics-settings-1.jpg)
 3. Toggle**On** Hardware-accelerated GPU scheduling.  
 
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/turn-on-hardware-accelerated-GPU-scheduling.png)
 4. Also make sure you’ve selected**Desktop app** . Then click on the**Browse** button.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/graphics-settings.png)
 5. Then navigate to your game’s installation directory. Click**BF2042.exe** and click**Add** .  
@@ -157,18 +133,10 @@ Below are a few common overlays and how to disable them.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/add-BF2042.png)
 6. Your game should appear on the list. Click on the**Options** button.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/options-button.png)
 7. Select**High Performance** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/high-performance.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Tips: If you’re not sure how to locate your game’s installation folder, head to Steam. Under LIBRARY, right-click your game title and select**Manage > Browse local files** .  
   
@@ -184,10 +152,6 @@ Below are a few common overlays and how to disable them.
 2. Open the**Cache** folder. Press**Ctrl + A** keys simultaneously to select all the files. Then right-click and select Delete to delete all the files.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/delete-cache.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If this doesn’t do the trick, try the next fix below.
 
@@ -221,16 +185,14 @@ If this doesn’t do the trick, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-best-collection-sites-for-quick-access-to-youtube-vids-for-2024/"><u>[New] Best Collection Sites for Quick Access to YouTube Vids for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-from-basics-to-brilliance-the-ultimate-guide-to-hdr-portraits/"><u>[Updated] From Basics to Brilliance The Ultimate Guide to HDR Portraits</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1-step-by-step-guide-sharing-videos-on-snapchat-easily/"><u>1. Step-by-Step Guide: Sharing Videos on Snapchat Easily</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/6-completely-different-places-to-get-youtube-icons-and-logos-for-2024/"><u>6 Completely Different Places to Get YouTube Icons and Logos for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/get-insightful-analysis-on-samsung-galaxy-fit-the-ideal-tech-accessory-for-active-living/"><u>Get Insightful Analysis on Samsung Galaxy Fit - The Ideal Tech Accessory For Active Living</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Honor 90 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/master-the-art-of-video-with-these-html5-platforms-for-2024/"><u>Master the Art of Video with These HTML5 Platforms for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726026815604-mkv/"><u>MKVファイルのチャプターによる分割方法：保管版完全ガイド</u></a></li>
-<li><a href="https://win-answers.techidaily.com/watching-ustvnow-on-kodi-a-step-by-step-guide-with-the-kodi-setup-wizard/"><u>Watching USTVNow on Kodi: A Step-by-Step Guide with the Kodi Setup Wizard</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726026906161-windows-10/"><u>Windows 10上のスクリーン記録技術３つ：範囲設定によるアプローチ</u></a></li>
-<li><a href="https://win-answers.techidaily.com/windows-11-mp490/"><u>Windows 11 対応: MP4などを90°折りたたむときにおすすめする最高の手法</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-expressive-faces-with-motion-blur-in-picsart/"><u>2024 Approved Expressive Faces with Motion Blur in Picsart</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-meizu-21-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Meizu 21</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-fixes-and-workarounds-for-slime-rancher-2-pc-game-crashing-problems/"><u>Effective Fixes and Workarounds for Slime Rancher 2 PC Game Crashing Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhanced-gameplay-experience-say-goodbye-to-frames-dropping-and-stuttering-in-battlefield-2042-pc-edition/"><u>Enhanced Gameplay Experience - Say Goodbye to Frames Dropping & Stuttering in Battlefield 2042 PC Edition</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722993198084-fixes-for-origin-not-working-get-back-online-now/"><u>Fixes for Origin Not Working - Get Back Online Now!</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-navigating-to-get-windows-movie-maker-6-installed/"><u>In 2024, Navigating to Get Windows Movie Maker 6 Installed</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-honor-magic-5-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Honor Magic 5 Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-causes-of-lag-spike-and-frame-rate-drop-in-call-of-duty-black-ops-4/"><u>Resolved: Causes of Lag Spike & Frame Rate Drop in Call Of Duty: Black Ops 4</u></a></li>
+<li><a href="https://windows11.techidaily.com/winning-against-windowss-notorious-pink-screens/"><u>Winning Against Windows's Notorious Pink Screens</u></a></li>
 </ul></div>
 

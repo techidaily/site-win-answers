@@ -1,7 +1,7 @@
 ---
 title: "Banish the Black: Effective Solutions for Windows-Compatible Fortnite Play"
-date: 2025-02-09T16:47:54.349Z
-updated: 2025-02-14T23:04:16.612Z
+date: 2025-02-26T16:08:25.086Z
+updated: 2025-03-04T16:04:17.680Z
 tags:
   - win11
   - win10
@@ -57,10 +57,6 @@ thumbnail: https://thmb.techidaily.com/17c25677d8b6f855960d685398c90f557dfcb8867
 
  Run Fortnite again to check if you can log into the game or not. If it not, or there was no new game patch available, move on to Fix 2, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Reboot your network
 
  By rebooting your network, your Internet connection speed may be back to normal. So maybe it will also resolve this issue. Here is how to do it:  
@@ -69,18 +65,10 @@ thumbnail: https://thmb.techidaily.com/17c25677d8b6f855960d685398c90f557dfcb8867
 ![modem](https://images.drivereasy.com/wp-content/uploads/2018/10/modem.jpg)  
 ![wireless router](https://images.drivereasy.com/wp-content/uploads/2018/10/wireless-router.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2. **Plug in** your network devices again and wait until the indicator lights are back to its normal state.
 3. Try launching Fortnite again.
 
 See if you can log in or not. if not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Test your Internet connection speed
 
@@ -114,10 +102,6 @@ See if you can log in or not. if not, try the next fix, below.
 1. On your keyboard, press**the Windows Logo Key** and **R** at the same time to open the Run dialog. Type **cmd**  and then press **Ctrl** , **Shift**  and **Enter**  on your keyboard at the same time to **run the Command Prompt as administrator** . You will be prompted for permission. Click **Yes** to run the **Command Prompt** .  
 ![Fix 5 step 1](https://images.drivereasy.com/wp-content/uploads/2018/10/Fix-5-step-1.jpg)
 2. Type the command line**ipconfig /flushdns**  and press **Enter**  on your keyboard.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![ipconfig flushdns](https://images.drivereasy.com/wp-content/uploads/2018/10/ipconfig-flushdns.jpg)
 
@@ -161,10 +145,6 @@ See if you can log in or not. if not, try the next fix, below.
  (Alternatively if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)  
 ![Update Broadcom 802.11.ac Network Adapter driver](https://images.drivereasy.com/wp-content/uploads/2018/12/Update-Broadcom-802.11.ac-Network-Adapter-driver.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 ### Fix 7: Avoid wireless interference
@@ -187,22 +167,10 @@ See if you can log in or not. if not, try the next fix, below.
 ![internet properties](https://images.drivereasy.com/wp-content/uploads/2018/10/internet-properties.jpg)
 3. **Uncheck** the box next to **Use a proxy server for your LAN** . If it is already unchecked, **check** the box next to **Automatically detect settings** . Then click **OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![LAN Settings](https://images.drivereasy.com/wp-content/uploads/2018/10/LAN-Settings.jpg)
 4. If you’re using a VPN or a third-party proxy sever,**disable** it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Launch Fortnite to see if you can log in or not. If not, try the next fix to change the DNS server.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 9: Change the DNS server
 
@@ -227,10 +195,6 @@ See if you can log in or not. if not, try the next fix, below.
 ![TCP/IPv4 Properties](https://images.drivereasy.com/wp-content/uploads/2018/10/Internet-protocol-verison-4-properties.jpg)
 7. Restart your PC and launch Fortnite.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 See if you can log in or not. If not, try the next fix.
 
 ### Fix 10: Close bandwidth hogging applications
@@ -242,10 +206,6 @@ See if you can log in or not. If not, try the next fix.
 1. On your keyboard, press**Ctrl** , **Shift** and **Esc** at the same time to open the **Task Manager** .
 2. **Right-click** the bandwidth hogging applications and then select **End task** .  
 ![Task Manager](https://images.drivereasy.com/wp-content/uploads/2018/10/Task-Manager.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Launch Fortnite to see if you can log in or not.
 
@@ -270,14 +230,24 @@ Launch Fortnite to see if you can log in or not.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-a-beginners-companion-best-software-for-gamers-recordings-and-editing/"><u>[New] A Beginner's Companion Best Software for Gamers’ Recordings & Editing</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-make-waves-in-the-social-ocean-integrate-tiktok-into-your-insta-reels/"><u>[New] Make Waves in the Social Ocean Integrate TikTok Into Your Insta Reels</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-unlock-limitless-space-20-best-free-cloud-platforms-offering-1tbplus-for-2024/"><u>[Updated] Unlock Limitless Space 20 Best Free Cloud Platforms Offering 1TB+ for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-saving-your-iphone-screen-a-step-by-step-approach/"><u>2024 Approved Saving Your iPhone Screen A Step-by-Step Approach</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/bypassing-gpt-restrictions-ethical-dilemmas/"><u>Bypassing GPT Restrictions: Ethical Dilemmas</u></a></li>
-<li><a href="https://win-answers.techidaily.com/enhancing-gameplay-speed-and-frames-per-second-fps-on-watch-dogs-legion/"><u>Enhancing Gameplay Speed & Frames Per Second (FPS) on Watch Dogs: Legion</u></a></li>
-<li><a href="https://win-answers.techidaily.com/game-stability-guide-eliminating-tribes-of-midgard-performance-problems-and-crashes/"><u>Game Stability Guide: Eliminating 'Tribes of Midgard' Performance Problems and Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/maximizing-game-performance-solutions-for-low-fps-on-war-thunder-latest-fixes/"><u>Maximizing Game Performance: Solutions for Low FPS on War Thunder - Latest Fixes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-resolution-of-directdraw-issues-in-your-software-development-projects/"><u>Step-by-Step Resolution of DirectDraw Issues in Your Software Development Projects</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-vocal-choirs-on-tiktoks-digital-stage/"><u>[New] Vocal Choirs on TikTok's Digital Stage</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-androids-path-to-virtual-reality-tips-and-tricks/"><u>[Updated] 2024 Approved Android's Path to Virtual Reality Tips and Tricks</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-adjust-cutting-room-time-for-youtube/"><u>[Updated] Adjust Cutting Room Time for YouTube</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-anonymous-footage-blurring-private-sections-in-video/"><u>[Updated] In 2024, Anonymous Footage Blurring Private Sections in Video</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-guide-lowering-latency-for-smoother-valheim-experience-on-windows-systems/"><u>Expert Guide: Lowering Latency for Smoother Valheim Experience on Windows Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-sound-problems-how-to-address-unrecognized-audio-devices-on-windows-1011/"><u>Fixing Sound Problems: How to Address Unrecognized Audio Devices on Windows 10/11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-the-anticheat-connection-aborted-error-on-eft-platforms/"><u>How to Fix the 'Anticheat Connection Aborted' Error on EFT Platforms</u></a></li>
+<li><a href="https://fox-access.techidaily.com/maximizing-your-reach-with-snapchat-highlights-for-2024/"><u>Maximizing Your Reach with Snapchat Highlights for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/permanent-solution-for-modern-warfare-3-defeating-error-12707-once-and-for-all/"><u>Permanent Solution for Modern Warfare 3 - Defeating Error 12707 Once and For All!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722997495911-rocket-league-wont-start-here-are-the-fixes-you-need-to-know/"><u>Rocket League Won't Start? Here Are the Fixes You Need to Know!</u></a></li>
+<li><a href="https://extra-support.techidaily.com/step-by-step-clearing-background-artifacts-in-figma-for-2024/"><u>Step-by-Step Clearing Background Artifacts in Figma for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stop-alan-wake-2-from-crashing-expert-advice-for-gamers-2024-edition/"><u>Stop Alan Wake 2 From Crashing: Expert Advice for Gamers, 2024 Edition</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-and-resolving-chromes-intensive-processor-drain/"><u>Troubleshooting and Resolving Chrome's Intensive Processor Drain</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-continuous-buffering-problems-in-discord-streaming-services/"><u>Troubleshooting Continuous Buffering Problems in Discord Streaming Services</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-fixing-the-king-of-fighters-xvs-persistent-pc-crashes/"><u>Troubleshooting Guide: Fixing The King of Fighters XV's Persistent PC Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722989382853-unlock-smooth-gameplay-tips-for-fixing-fortnite-loading-glitches/"><u>Unlock Smooth Gameplay - Tips for Fixing Fortnite Loading Glitches</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-sophistication-of-flexispots-theodore-standing-desk-in-our-thorough-review/"><u>Unveiling the Sophistication of Flexispot's Theodore Standing Desk in Our Thorough Review</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-free-and-easy-techniques-to-cut-out-loud-elements-from-windows-10-videos/"><u>Updated 2024 Approved Free and Easy Techniques to Cut Out Loud Elements From Windows 10 Videos</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/1726027429889-youtubemp3/"><u>キャッチーなメロディを楽しむ：YouTubeとニコニコ動画からMP3音源を取得する</u></a></li>
 </ul></div>
 

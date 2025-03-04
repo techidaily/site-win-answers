@@ -1,7 +1,7 @@
 ---
 title: "Winning the Battle Againnst Lag: Proven Strategies for Optimizing Your Chivalry 2 Connection"
-date: 2025-02-10T22:59:51.193Z
-updated: 2025-02-14T21:57:38.733Z
+date: 2025-03-03T16:06:00.303Z
+updated: 2025-03-04T16:09:38.498Z
 tags:
   - win11
   - win10
@@ -34,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/af0b3f2dd83523f585e0d44be63e4dc2ee76a71ef
 4. [**Run The Ascent on DirectX 11**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Disable Control Flow Guard](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Check for game updates
 
  The devs of The Ascent are[aware of the stuttering issue](https://steamcommunity.com/app/979690/discussions/0/3050611107169701612/#c3050611107169718682) and are looking into it. So you might want to check if there’re any hotfixes before tuning your PC settings.
@@ -45,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/af0b3f2dd83523f585e0d44be63e4dc2ee76a71ef
 1. Go to your Steam library. Right click **The Ascent** and select **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/steam-beta-1.jpg)
 2. In the left pane, select **LOCAL FILES** . Then click **Verify integrity of game files** . If there’re any new game files, Steam will download them for you.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/steam-verify-2.jpg)
 3. Wait for the checking to complete. Then start The Ascent and check if it lags again.
@@ -65,10 +57,6 @@ thumbnail: https://thmb.techidaily.com/af0b3f2dd83523f585e0d44be63e4dc2ee76a71ef
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Driver Easy Scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-2060-super-update.jpg)
 
@@ -87,10 +75,6 @@ thumbnail: https://thmb.techidaily.com/af0b3f2dd83523f585e0d44be63e4dc2ee76a71ef
 2. Click**Check for updates** . Windows will then check for available updates. (Or click Restart now if it prompts “Restart required”)  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once you’ve got your system updated, do a reboot and test the gameplay in The Ascent.
 
@@ -117,10 +101,6 @@ If you don’t know how to switch, follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/disable-cfg-1.jpg)
 2. Navigate to the Program settings tab.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/disable-cfg-2.jpg)
 3. Click**Add program to customize** and select**Add by program name** .  
 
@@ -132,10 +112,6 @@ If you don’t know how to switch, follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/disable-cfg-5.jpg)
 6. Now you can check if there’re any improvements in The Ascent. (You might also need to go to**Steam > Settings > Cloud** and disable Steam Cloud synchronization.)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -156,24 +132,20 @@ If you don’t know how to switch, follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-the-ultimate-encyclopedia-reacting-effectively-on-youtube-vids/"><u>[New] 2024 Approved The Ultimate Encyclopedia Reacting Effectively on YouTube Vids</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-building-unique-instagram-profile-thumbnails/"><u>[New] Building Unique Instagram Profile Thumbnails</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-10-tips-to-make-your-youtube-shorts-channels-stand-out/"><u>[Updated] 10 Tips to Make Your YouTube Shorts Channels Stand Out</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-top-8-webcam-filters-to-elevate-your-streaming/"><u>[Updated] In 2024, Top 8 Webcam Filters to Elevate Your Streaming</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-lut-techniques-for-enhanced-ae-visuals/"><u>[Updated] LUT Techniques for Enhanced AE Visuals</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-design-an-eye-catching-logo-for-podcasts/"><u>2024 Approved How to Design an Eye-Catching Logo for Podcasts</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-swirl-device-set/"><u>2024 Approved Swirl Device Set</u></a></li>
-<li><a href="https://win-answers.techidaily.com/wavmov5/"><u>魅力的なWAVファイル:MOVファイルを変換する最高の自由ソフト5選紹介</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/converti-file-dts-in-mp4-senza-costi-servizi-online-di-movavi/"><u>Converti File DTS in MP4 Senza Costi - Servizi Online Di Movavi</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/easy-walkthrough-for-old-facebook-stories-on-laptops-and-phones-for-2024/"><u>Easy Walkthrough for Old Facebook Stories on Laptops & Phones for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/gopro-cinema-boosted-list-of-the-best-15-luts/"><u>GoPro Cinema Boosted List of the Best 15 LUTs</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-to-adding-the-tmdb-helper-extension-to-your-kodi-setup-compatible-with-nexus-devices/"><u>Step-by-Step Guide to Adding the TMDB Helper Extension to Your Kodi Setup (Compatible with Nexus Devices)</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-setting-up-plex-media-server-on-kodi-versions-19-and-18/"><u>Step-by-Step Guide: Setting Up Plex Media Server on Kodi Versions 19 and 18</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-setting-up-the-seren-addon-in-kodi/"><u>Step-by-Step Guide: Setting up the Seren Addon in Kodi</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-transferring-youtube-content-onto-your-kindle-fire-device/"><u>Step-by-Step Guide: Transferring YouTube Content Onto Your Kindle Fire Device</u></a></li>
-<li><a href="https://win-answers.techidaily.com/superior-dvd-unlocking-tools-compatible-with-windows-1011-a-comprehensive-guide/"><u>Superior DVD Unlocking Tools Compatible with Windows 10/11: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-rated-mp4-video-encoders-of-2024-a-step-by-step-guide-to-efficient-mp4-video-compression/"><u>Top Rated MP4 Video Encoders of 2024: A Step-by-Step Guide to Efficient MP4 Video Compression</u></a></li>
-<li><a href="https://win-answers.techidaily.com/transforming-hevch265-video-files-into-high-quality-mov-format-three-effective-techniques/"><u>Transforming HEVC/H.265 Video Files Into High-Quality MOV Format: Three Effective Techniques</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-ratdvd-tutorial-mastering-high-quality-movie-compression/"><u>Ultimate RatDVD Tutorial: Mastering High-Quality Movie Compression</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-from-3d-to-immersive-understanding-virtual-realitys-evolution/"><u>[New] In 2024, From 3D to Immersive Understanding Virtual Reality's Evolution</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-original-design-potential-utilize-free-logo-templates-and-customization-tools/"><u>[New] Original Design Potential Utilize FREE Logo Templates & Customization Tools</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-unified-iptv-streaming-framework/"><u>[Updated] In 2024, Unified IPTV Streaming Framework</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-podcast-name-selection-step-by-step-guide-plus-50plus-top-ideas-list/"><u>[Updated] Mastering Podcast Name Selection Step-by-Step Guide + 50+ Top Ideas List</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-itel-a70-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Itel A70 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-windows-app-connectivity-with-top-fixes-and-troubleshooting-steps/"><u>Enhance Windows App Connectivity with Top Fixes and Troubleshooting Steps</u></a></li>
+<li><a href="https://techidaily.com/ensuring-windows-11-security-post-2025-with-a-premium-package/"><u>Ensuring Windows 11 Security Post-2025 with a Premium Package</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/explore-the-future-with-advanced-vr-finger-tech/"><u>Explore the Future with Advanced VR Finger Tech</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fallout-groovy-76-optimization-tips-eliminating-gameplay-hitches-and-hiccups/"><u>Fallout Groovy 76 Optimization Tips: Eliminating Gameplay Hitches and Hiccups</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-resolve-apex-legends-leaf-glitch-of-202-cuisines-the-ultimate-hack/"><u>How to Resolve Apex Legends Leaf Glitch of 202 Cuisines- The Ultimate Hack</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-resolve-severe-developer-bugs-in-cods-modern-warfare-and-warzone/"><u>How to Resolve Severe Developer Bugs in CoD's Modern Warfare and Warzone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-your-video-game-from-freezing-or-crashing-on-windows-11-and-10-systems/"><u>How to Stop Your Video Game From Freezing or Crashing on Windows 11 and 10 Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/improving-play-in-grand-theft-auto-v-strategies-to-fix-persistent-freezing-and-jittering-issues/"><u>Improving Play in Grand Theft Auto V - Strategies to Fix Persistent Freezing and Jittering Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-and-resolving-frame-rate-issues-within-dying-light-game/"><u>Troubleshooting and Resolving Frame Rate Issues Within Dying Light Game</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-fixing-no-output-from-camera-on-your-snap-device/"><u>Troubleshooting: Fixing 'No Output From Camera' On Your Snap Device</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshoot and Enhance Performance: Stop Chrome Freezes in Windows Pressure"
-date: 2025-02-13T03:03:26.513Z
-updated: 2025-02-14T21:04:14.137Z
+date: 2025-03-03T16:01:14.712Z
+updated: 2025-03-04T16:09:59.680Z
 tags:
   - win11
   - win10
@@ -57,27 +57,15 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/cmd-run-power-option.jpg)
 2. Select **Ultimate Performance** . If you don’t see this power plan, simply continue to the next step to unhide it.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-ultimate-performance.jpg)
 3. On your keyboard, press Win (the Windows logo key) and type **cmd** . Select **Run as Administrator** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
 4. In the command prompt, type or paste the following command and press **Enter** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61  
  If you see a prompt similar to this, **return to step 2** to enable the Ultimate Performance power plan.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After changing your power plan, launch Half Life: Alyx and test the gameplay.
 
@@ -107,10 +95,6 @@ After disabling all the overlays, check if Half Life: Alyx lags again.
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2060-super-update.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your GPU driver, restart your PC and test your gameplay.
@@ -127,10 +111,6 @@ Here’s how you can check for updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-gear-icon.jpg)
 2. Scroll down and select**Update & Security** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
 
@@ -145,10 +125,6 @@ Here’s how you can check for updates manually:
 
 If this method failed to fix the lag, you can try the next one below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 6: Set additional launch options
 
  Some players reported that they managed to fix the stuttering by adding launch parameters, so you can try the same as it could be a potential fix.
@@ -162,10 +138,6 @@ To do so, follow these steps:
 
 -novid -console -vconsole +vr_fidelity_level_auto 0 +vr_fidelity_level 3 +vr_render_scale 1.0  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/half-life-launch-options-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -186,16 +158,22 @@ To do so, follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-visual-storytelling-support-center/"><u>[New] 2024 Approved Visual Storytelling Support Center</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-capturing-audiene-with-spectacular-gadget-unboxing-vlogs-for-2024/"><u>[New] Capturing Audiene with Spectacular Gadget Unboxing Vlogs for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-unveiling-the-mysteries-of-firefoxs-pip-mode/"><u>[New] Unveiling the Mysteries of Firefox’s PIP Mode</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-transforming-mundane-text-to-captivating-animation-in-insta-stories/"><u>2024 Approved Transforming Mundane Text to Captivating Animation in Insta-Stories</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fix-and-prevention-tips-why-is-samurai-warriors-5-constantly-crashing-on-my-pc/"><u>Fix & Prevention Tips: Why Is Samurai Warriors 5 Constantly Crashing on My PC?</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-6-alternative-apps-to-periscope-for-iphoneandroid-users/"><u>In 2024, 6 Alternative Apps to Periscope for iPhone/Android Users</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-oppo-f25-pro-5g-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Oppo F25 Pro 5G Without PUK Codes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-troubleshooting-how-to-fix-the-ghostrunner-malfunction-on-your-windows-10-pc/"><u>Mastering Troubleshooting: How to Fix the Ghostrunner Malfunction on Your Windows 10 PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723000345228-mlb-the-show-2021-server-issues-fixed-expert-tips-and-solutions-for-a-smooth-experience/"><u>MLB The Show 2021 Server Issues Fixed: Expert Tips & Solutions for a Smooth Experience.</u></a></li>
-<li><a href="https://win-blog.techidaily.com/optimize-your-experience-no-more-crashes-in-dragon-age-origins-on-windows-11-expert-advice/"><u>Optimize Your Experience: No More Crashes in Dragon Age: Origins on Windows 11 – Expert Advice</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-non-responsive-nvidia-video-capture-tool-errors/"><u>Resolving Non-Responsive NVIDIA Video Capture Tool Errors</u></a></li>
+<li><a href="https://win-answers.techidaily.com/it-takes-two-from-development-to-premier-its-here/"><u>'It Takes Two': From Development to Premier - It's Here</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-srt-file-uploads-on-social-platforms-step-by-step-guide/"><u>[New] Mastering SRT File Uploads on Social Platforms Step-by-Step Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-truthful-insights-into-recordcast-functionality-for-2024/"><u>[Updated] Truthful Insights Into RecordCast Functionality for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-unlock-from-apple-iphone-12-pro-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock From Apple iPhone 12 Pro? How to Fix it?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhancements-and-patch-update-bring-zombie-army-4-dead-war-to-smooth-performance-on-pc/"><u>Enhancements and Patch Update Bring 'Zombie Army 4: Dead War' To Smooth Performance on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-on-optimizing-gameplay-say-goodbye-to-stutter-and-lag-in-fallout-76/"><u>Expert Advice on Optimizing Gameplay - Say Goodbye to Stutter and Lag in Fallout 76</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-overcoming-final-fantasy-xvs-pc-instability-and-crashing-woes/"><u>Expert Advice: Overcoming Final Fantasy XV's PC Instability and Crashing Woes</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723212263926-keyboard-navigation-downfall-restore-function-to-up-down-left-and-right-arrows-now/"><u>Keyboard Navigation Downfall: Restore Function to Up, Down, Left & Right Arrows Now</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-controller-setup-for-steam-gaming-correcting-detection-errors-on-windows-pcs/"><u>Mastering Controller Setup for Steam Gaming: Correcting Detection Errors on Windows PCs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-discord-api-a-beginners-approach-to-javascript-problems/"><u>Mastering Discord API: A Beginner's Approach to JavaScript Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/navigating-computer-lifecycle-challenges-in-202n4-expert-advice-to-fix-last-epoch-crash-on-your-device/"><u>Navigating Computer Lifecycle Challenges in 202N4: Expert Advice to Fix Last Epoch Crash on Your Device</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/navigating-facebooks-terms-of-service-for-media-sharing/"><u>Navigating Facebook's Terms of Service for Media Sharing</u></a></li>
+<li><a href="https://win-blog.techidaily.com/pc-users-nightmare-identifying-and-repairing-persistent-fuser-software-crashes/"><u>PC User's Nightmare: Identifying and Repairing Persistent Fuser Software Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-fixes-for-frame-rate-dips-and-stutters-in-call-of-duty-modern-warfare-2-on-pc/"><u>Resolved: Fixes for Frame Rate Dips & Stutters in Call of Duty: Modern Warfare 2 on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-csgo-solutions-for-the-game-wont-start/"><u>Troubleshooting CS:GO - Solutions for the Game Won't Start</u></a></li>
+<li><a href="https://win-answers.techidaily.com/world-of-warcraft-players-rejoice-put-an-end-to-that-dreaded-screen-shimmer/"><u>World of Warcraft Players Rejoice: Put an End to That Dreaded Screen Shimmer</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Resolving Detection Issues: Astro Command Center and the A50 Headset"
-date: 2025-02-12T04:05:48.545Z
-updated: 2025-02-15T02:04:29.555Z
+date: 2025-02-28T16:04:56.745Z
+updated: 2025-03-04T16:09:39.373Z
 tags:
   - win11
   - win10
@@ -50,10 +50,6 @@ thumbnail: https://thmb.techidaily.com/c9d63107d989d631581c5dbe79eb35fbfb926a1d5
 
 If the problem persists, take a look at the next fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Update your graphics driver
 
  The constant crashes might indicate a driver issue. In other words, you might be using**a faulty or outdated graphics driver** . You should always keep your driver up to date for the best in-game performance. And this is especially the case when you are dealing with new titles like New World.
@@ -66,10 +62,6 @@ If the problem persists, take a look at the next fix below.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-all-rtx-3090.jpg)
@@ -90,10 +82,6 @@ Here’s how you can check for updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-gear-icon.jpg)
 2. Scroll down and select**Update & Security** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
 
@@ -101,10 +89,6 @@ Here’s how you can check for updates manually:
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
@@ -134,10 +118,6 @@ Now you can play and check if the crash stops.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/search-advanced-system-settings.jpg)
 2. Under the **Performance**  section, click **Settings…** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/system-advanced-performance-virtual-memory.jpg)
 3. In the pop-up window, navigate to the **Advanced**  tab. Under the **Virtual memory** section, click **Change…** .  
 
@@ -147,22 +127,10 @@ Now you can play and check if the crash stops.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/vritual-memory-set.jpg)
 5. Enter **Initial size** and **Maximum size** according to the physical memory of your computer. Microsoft recommends that virtual memory should be 1.5 to 3 times the size of physical memory. In my case, the physical memory (actual RAM) of my computer is 8 GB, so the **Initial size** for me here is **8 x 1024 x 1.5 = 12288 MB** , and the **Maximum size** should be **8 x 1024 x 3 = 24576 MB** . Once you’ve entered your size of virtual memory, click **Set** , then click **OK**  to save the changes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/virtual-memory-set-02.jpg)
 6. Restart your computer and check if New World crashes again.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If this trick doesn’t do the trick for you, take a look at the next solution.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Delete specific game files
 
@@ -197,18 +165,19 @@ Now you can play and check if the crash stops.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-flawless-ppt-transitions-adding-voice-over-effectively/"><u>[Updated] In 2024, Flawless PPT Transitions Adding Voice Over Effectively</u></a></li>
-<li><a href="https://win-answers.techidaily.com/best-practices-resolving-minecrafts-stuttering-problem-on-your-computer/"><u>Best Practices: Resolving Minecraft's Stuttering Problem on Your Computer</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/easy-installation-free-download-of-epson-xp-330-printer-drivers-here/"><u>Easy Installation: Free Download of Epson XP-330 Printer Drivers Here</u></a></li>
-<li><a href="https://win-answers.techidaily.com/frostpunk-stability-improvements-addressing-and-fixing-critical-errors/"><u>Frostpunk Stability Improvements: Addressing and Fixing Critical Errors</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/google-ar-stickers-innovation-and-comparison-to-other-offerings-for-2024/"><u>Google AR Stickers Innovation and Comparison to Other Offerings for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-the-outriders-not-starting-issue-on-pc/"><u>How to Fix the 'Outriders Not Starting Issue on PC '</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-nokia-c110-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Nokia C110</u></a></li>
-<li><a href="https://extra-support.techidaily.com/samsung-ue590-unveiled-ultra-hd-4k-and-freesync-edition-for-2024/"><u>Samsung UE590 Unveiled Ultra HD 4K & FreeSync Edition for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2204891-9780008144241-switchwords-how-to-use-one-word-to-get-what-you-want/"><u>Switchwords: How to Use One Word to Get What You Want | Free Book</u></a></li>
-<li><a href="https://fox-links.techidaily.com/title-genius-a-comprehensive-guide/"><u>Title Genius A Comprehensive Guide</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-vivo-y78t-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Vivo Y78t Screen | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/wolcen-lords-of-mayhem-game-release-issues-resolved/"><u>Wolcen - Lords of Mayhem Game Release Issues Resolved?</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211147884-9798888518731-years-of-tears/"><u>Years of Tears | Free Book</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-vsdc-insight-an-in-depth-look-at-its-features-and-rivals/"><u>[New] In 2024, VSDC Insight An In-Depth Look at Its Features and Rivals</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-pinnacle-speech-to-text-applications/"><u>[Updated] 2024 Approved Pinnacle Speech-to-Text Applications</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-essential-tips-for-high-quality-audacity-recording-for-2024/"><u>[Updated] Essential Tips for High-Quality Audacity Recording for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/addressing-civilization-xvi-launch-issues-under-windows-11-steps-for-a-smooth-start/"><u>Addressing Civilization XVI Launch Issues Under Windows 11 - Steps for a Smooth Start</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-on-correcting-problems-with-your-msi-dragon-center-performance/"><u>Expert Advice on Correcting Problems with Your MSI Dragon Center Performance</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-on-iphone-14-without-password-by-drfone-ios/"><u>How to Delete iCloud Account On iPhone 14 without Password?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-unable-to-access-live-config-servers-error-message/"><u>How to Fix Unable to Access Live Config Servers Error Message</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-honor-100-pro-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Honor 100 Pro Through Google Earth?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-youtube-video-editing-tips-for-beginner-editors/"><u>In 2024, YouTube Video Editing Tips for Beginner Editors</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-steam-vr-recognition-top-6-effective-methods-explored/"><u>Resolving Steam VR Recognition: Top 6 Effective Methods Explored</u></a></li>
+<li><a href="https://win-answers.techidaily.com/sifu-fps-performance-optimized-no-more-lag-or-stutters-on-windows-machines/"><u>Sifu FPS Performance Optimized - No More Lag or Stutters on Windows Machines</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-tutorial-on-securing-quality-8k-videos-via-leading-8k-media-extractor-tools/"><u>Step-by-Step Tutorial on Securing Quality 8K Videos via Leading 8K Media Extractor Tools</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/streamline-screen-recording-with-these-windows-tools-for-2024/"><u>Streamline Screen Recording with These Windows Tools for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-14-free-branding-software-picks-for-pc-professional-logo-design-tools/"><u>Top 14 Free Branding Software Picks for PC - Professional Logo Design Tools</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Overcome the Black Screen Problem with the Epic Games Launcher (Solution)
-date: 2025-02-11T16:48:41.111Z
-updated: 2025-02-15T04:58:30.139Z
+date: 2025-02-28T16:00:48.446Z
+updated: 2025-03-04T16:09:48.172Z
 tags:
   - win11
   - win10
@@ -55,10 +55,6 @@ thumbnail: https://thmb.techidaily.com/be34f09b3263dabe58e7e8e9b611840eed5d78451
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Launch Epic Games Launcher from Start Menu
 
  If you failed to launch Epic Games Launcher by double-clicking its shortcut on your desktop, you should try launching it from the Start Menu. To do so:
@@ -66,10 +62,6 @@ thumbnail: https://thmb.techidaily.com/be34f09b3263dabe58e7e8e9b611840eed5d78451
  On your keyboard, press**the Windows logo key** and type**Epic Games Launcher** . In the list of search results, click**Epic Games Launcher** to run it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1048.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  See if you can launch the program. If so, you should delete its shortcut on your desktop and create a new one. If it still won’t launch, don’t worry. Try the next fix, below.
 
@@ -93,10 +85,6 @@ thumbnail: https://thmb.techidaily.com/be34f09b3263dabe58e7e8e9b611840eed5d78451
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4: Update your graphics driver
 
  This issue is probably caused by your outdated graphics driver. Updating your graphics driver to the latest version can make your game run smoother and prevent many issues or errors. If you don’t have the time, patience or skills to update your driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -108,10 +96,6 @@ thumbnail: https://thmb.techidaily.com/be34f09b3263dabe58e7e8e9b611840eed5d78451
  2) Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1071.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.
 
@@ -134,10 +118,6 @@ _You can do it for free if you like, but it’s partly manual._
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-496.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Under the**Shortcut** tab, locate the**Target:** field. Add_\-OpenGL_ to the end of the path filed. The contents of the Target field should look like the following:
 
 "C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe" -OpenGL
@@ -152,10 +132,6 @@ _You can do it for free if you like, but it’s partly manual._
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 6: Add Epic Games Launcher as an exception to your third-party antivirus application
 
  This issue may also be triggered by your third-party antivirus application. Since the third-party antivirus application hooks very deep into your system, it may interfere with Epic Games Launcher.
@@ -167,10 +143,6 @@ _You can do it for free if you like, but it’s partly manual._
  See if you can open Epic Games Launcher. If not, try the next fix below to repair the program in the Control Panel.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 7: Repair Epic Games Launcher
 
@@ -189,10 +161,6 @@ _You can do it for free if you like, but it’s partly manual._
  Run Epic Games Launcher to see if you can open it. If not, you may need to try the next fix to reinstall the program.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 8: Reinstall Epic Games Launcher
 
@@ -234,24 +202,22 @@ Normally, after you reinstall Epic Games Launcher, it should open.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-engaging-strategies-for-amplifying-your-youtube-fanbase/"><u>[New] Engaging Strategies for Amplifying Your YouTube Fanbase</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-detailed-guide-to-whatsapps-audio-chat-features/"><u>[New] In 2024, Detailed Guide to WhatsApp's Audio Chat Features</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-spark-interest-with-unique-channel-names/"><u>[Updated] How to Spark Interest With Unique Channel Names</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-visionaries-convergence-dissecting-virtual-reality-augmented-and-mixed-realms/"><u>[Updated] Visionaries Convergence Dissecting Virtual Reality, Augmented & Mixed Realms</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/decoding-rumors-on-teslas-autonomous-taxi-venture-cost-projections-launch-date-and-cutting-edge-features/"><u>Decoding Rumors on Tesla's Autonomous Taxi Venture - Cost Projections, Launch Date, and Cutting-Edge Features</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effortless-conversion-guide-switching-from-h265-to-avi-video-files-fast/"><u>Effortless Conversion Guide: Switching From H.265 To AVI Video Files Fast</u></a></li>
-<li><a href="https://facebook.techidaily.com/exploring-the-future-fbs-metaverse-with-six-pivotal-reasons/"><u>Exploring the Future: FB's Metaverse with Six Pivotal Reasons</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fast-conversion-techniques-transforming-flac-files-into-ac3-format/"><u>Fast Conversion Techniques: Transforming FLAC Files Into AC3 Format</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-easily-set-up-and-run-kodi-on-android-a-comprehensive-picture-guided-guide/"><u>How to Easily Set Up and Run Kodi on Android: A Comprehensive Picture-Guided Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-record-your-favorite-tiktoks-a-cross-platform-method-for-ios-android-and-pc/"><u>How to Record Your Favorite TikToks: A Cross-Platform Method for iOS, Android & PC</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-xiaomi-redmi-note-13-5g-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Xiaomi Redmi Note 13 5G</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Tecno Spark 20 Pro? | Dr.fone</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/inspiron-15-hddssd-pc/"><u>Inspiron 15 HDDからSSDへの変換ガイド - デルPCの改修方法</u></a></li>
-<li><a href="https://win-answers.techidaily.com/is-it-possible-to-transcode-prores-videos-using-handbrake-software/"><u>Is It Possible to Transcode ProRes Videos Using HandBrake Software?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/microsoft-video-editing-apps-top-recommendations-and-comprehensive-editing-guide/"><u>Microsoft Video Editing Apps: Top Recommendations & Comprehensive Editing Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mp4-avi-wmv-moviso-iso/"><u>MP4, AVI, WMV, MOVへのISO画像変換手順 - ISOファイル改変ガイド</u></a></li>
-<li><a href="https://win-answers.techidaily.com/paldvd/"><u>PAL規格を使用したDVDの再生に失敗する理由と解決策</u></a></li>
-<li><a href="https://win-answers.techidaily.com/playing-mpv-video-format-a-guide-on-handling-mp4v-file-types/"><u>Playing MPV Video Format: A Guide on Handling MP4V File Types</u></a></li>
-<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-poco-c65-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Poco C65 ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-techniques-for-ignoring-home-based-educational-media-for-2024/"><u>[New] Techniques for Ignoring Home-Based Educational Media for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-overwatch-push-to-talk-not-working/"><u>[SOLVED] Overwatch Push to Talk Not Working</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-the-ultimate-review-bandicam-versus-other-screen-recorders/"><u>2024 Approved The Ultimate Review Bandicam Versus Other Screen Recorders</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/comment-retrouver-des-documents-pdf-deletes-ou-pas-sauvegardes-sur-votre-ordinateur/"><u>Comment Retrouver Des Documents PDF Déletés Ou Pas Sauvegardés Sur Votre Ordinateur?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/comprehensive-troubleshooting-steps-ending-freeze-frames-while-playing-code-vein/"><u>Comprehensive Troubleshooting Steps: Ending Freeze Frames While Playing Code Vein</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>Fixing Foneazy MockGo Not Working On Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/getting-the-mass-effect-legendary-edition-running-smoothly-after-startup-failures/"><u>Getting The Mass Effect Legendary Edition Running Smoothly After Startup Failures</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/gtx-1650-super-graphics-card-driver-download-and-upgrade-for-windows-11/"><u>GTX 1650 Super Graphics Card Driver Download & Upgrade for Windows 11</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-essential-tips-for-game-recording-on-windows-11/"><u>In 2024, Essential Tips for Game-Recording on Windows 11</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209915084-9781794825390-kisah-hikayat-perjalanan-ruh-umat-manusia-di-alam-barzah-edisi-bahasa-inggris-standar-version/"><u>Kisah Hikayat Perjalanan Ruh Umat Manusia Di Alam Barzah Edisi Bahasa Inggris Standar Version | Free Book</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723002748543-phasmophobia-crashes-2024-fixes/"><u>Phasmophobia Crashes – 2024 Fixes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/skyrim-volume-glitches-how-to-restore-game-sounds-completebly/"><u>Skyrim Volume Glitches – How to Restore Game Sounds Completebly</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2527788-9781493043934-the-big-book-of-pennsylvania-ghost-stories/"><u>The Big Book of Pennsylvania Ghost Stories | Free Book</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-complete-2024-handbook-to-eliminating-unwanted-chrome-flickering-on-your-windows-machine/"><u>The Complete 2024 Handbook to Eliminating Unwanted Chrome Flickering on Your Windows Machine</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-common-lag-problems-in-outriders-expert-solutions-for-gaming-enthusiasts/"><u>Troubleshooting Common Lag Problems in Outriders: Expert Solutions for Gaming Enthusiasts</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-success-fix-your-baldurs-gate-3-launch-woes/"><u>Troubleshooting Success: Fix Your Baldur's Gate 3 Launch Woes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-winword-crashes-easy-fix-methods-for-winwordexe-problems/"><u>Troubleshooting WinWord Crashes - Easy Fix Methods for WINWORD.EXE Problems</u></a></li>
 </ul></div>
 

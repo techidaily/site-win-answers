@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: Overcome PC Crashes While Playing Warcraft ^[Reforged] - Top Tips and Tricks for Gamers"
-date: 2025-02-10T21:02:36.698Z
-updated: 2025-02-15T01:28:23.584Z
+date: 2025-02-25T16:07:27.662Z
+updated: 2025-03-04T16:14:17.594Z
 tags:
   - win11
   - win10
@@ -68,10 +68,6 @@ thumbnail: https://thmb.techidaily.com/fd5c5fb492328cdc04de64e70980911350de51156
 
  Some players reported that Control may crash when they’re using MSI Afterburner or Zotac Firestorm. So if you’ve enabled MSI Afterburner or Zotac Firestorm, try disabling them to see if this issue persists. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Use a reduced settings profile for graphics-related features
 
  If your PC fails to meet the recommended system requirements for Control, you should use a reduced settings profile for graphics-related features, because higher settings will increase the workload for your PC, which may even lead to the game crash issue. You can follow the screenshots below to lower the in-game graphics settings:
@@ -80,17 +76,9 @@ thumbnail: https://thmb.techidaily.com/fd5c5fb492328cdc04de64e70980911350de51156
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Control-graphics-settings-1024x613.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Here are the system requirements for Control:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Control-system-requirements.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  _The system requirements information is captured from Epic Games Launcher_
 
@@ -114,10 +102,6 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-1.jpg)
 2. View the Control Panel by **Large icons** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **NVIDIA Control Panel**  to open it.  
 
@@ -135,10 +119,6 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select your **AMD Radeon Settings** to open it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
@@ -153,10 +133,6 @@ Here are the system requirements for Control:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-Graphics-Settings.jpg)
 4. Click 3D to open the 3D settings.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings.jpg)
 5. Click Scan to add the game to the application list.  
@@ -192,10 +168,6 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/update1.jpg)
 2. Click**Check for updates** . Windows will start searching for available updates. If there are updates available, Windows will automatically download and install the updates.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Check-for-updates.png)
 
  If there are no updates related to MS Visual C++ or .NET Framework from Windows Update, you can download their installation files via the links below on your own and manually install them on your PC.
@@ -223,10 +195,6 @@ Here are the system requirements for Control:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-19_18-50-45.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Launch Control again after you verified the integrity of the game files. If this issue persists, try the next fix, below.
 
 ### Fix 9: Add Control as an exception to your 3rd party antivirus software
@@ -237,10 +205,6 @@ Here are the system requirements for Control:
 
  Please consult your antivirus documentation for instructions if you don’t know how to do it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 10: Run Program Compatibility Troubleshooter
 
  If Control often crashes on your Windows 10 PC, you can try running Windows Program Compatibility Troubleshooter to run the game in Windows 7 mode. Here’s how to do it:
@@ -248,10 +212,6 @@ Here are the system requirements for Control:
 1. On your desktop,**right-click** on the shortcut of Control, then select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-12_12-24-18.png)
 2. In the Properties Window, navigate to**the Compatibility tab** , check the box next to**Run this program in compatibility mode for:** and select**Windows 7** from the drop-down list. Check the box next to**Run as an administrator** and then click**OK** to save the changes.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-12_14-25-41.png)
 3. Double-click the shortcut of Control on your desktop to launch it. This time Control will run in the compatibility mode you set in step 2.
@@ -284,21 +244,20 @@ See if this fix works for you. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-increase-igtv-views-strategic-use-of-hashtags/"><u>[Updated] Increase IGTV Views Strategic Use of Hashtags</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/1728488756113-windows-1011/"><u>三种方法：在Windows 10和11上无松改动的用户设置备份和复制技巧</u></a></li>
-<li><a href="https://win-answers.techidaily.com/cropping-your-videos-with-windows-movie-maker-on-windows-11-a-step-by-step-guide/"><u>Cropping Your Videos with Windows Movie Maker on Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cut-out-the-wait-fasten-upstart-in-your-windows-11-pc/"><u>Cut Out the Wait: Fasten Upstart in Your Windows 11 PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/easy-installation-tutorial-for-mp3-streamer-plugin-in-your-kodi-device-leia-version/"><u>Easy Installation Tutorial for MP3 Streamer Plugin in Your Kodi Device (Leia Version)</u></a></li>
-<li><a href="https://win-answers.techidaily.com/easy-installation-tutorial-setting-up-autowidget-in-kodi-versions-20-and-19/"><u>Easy Installation Tutorial: Setting Up AutoWidget in Kodi Versions 20 and 19</u></a></li>
-<li><a href="https://win-answers.techidaily.com/easy-methods-to-transform-wav-audio-into-mp3-format-using-windows-11/"><u>Easy Methods to Transform WAV Audio Into MP3 Format Using Windows 11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/easy-steps-to-transform-your-wma-audio-to-high-quality-aac-streams-fast/"><u>Easy Steps to Transform Your WMA Audio to High-Quality AAC Streams Fast!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/easy-techniques-for-changing-video-frame-rate-to-high-speed-144p-resolution/"><u>Easy Techniques for Changing Video Frame Rate to High-Speed 144P Resolution</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-techniques-for-enhancing-your-videos-darkness-in-post-production/"><u>Effective Techniques for Enhancing Your Video's Darkness in Post-Production</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-reliable-storage-solutions-our-1-to-10-gopro-cases/"><u>In 2024, Reliable Storage Solutions Our #1 to #10 GoPro Cases</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-transferring-twitter-videos-to-whatsapp-effortlessly/"><u>In 2024, Transferring Twitter Videos to WhatsApp Effortlessly</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-your-path-to-superior-hdr-imagery/"><u>In 2024, Your Path to Superior HDR Imagery</u></a></li>
-<li><a href="https://win-studio.techidaily.com/maximize-storage-potential-with-newly-updated-kingston-ssd-firmware-for-superior-performance-gains/"><u>Maximize Storage Potential with Newly Updated Kingston SSD Firmware for Superior Performance Gains</u></a></li>
-<li><a href="https://win-net.techidaily.com/troubleshooting-guide-fixing-the-issue-of-a-scanning-device-creating-unclear-pictures-insights-from-yl-computing/"><u>Troubleshooting Guide: Fixing the Issue of a Scanning Device Creating Unclear Pictures - Insights From YL Computing</u></a></li>
-<li><a href="https://games-able.techidaily.com/uniting-ps5-and-smartphones-seamlessly/"><u>Uniting PS5 and Smartphones Seamlessly</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-comprehensive-guide-to-srgb-and-rgb/"><u>2024 Approved Comprehensive Guide to Srgb & Rgb</u></a></li>
+<li><a href="https://win-answers.techidaily.com/among-us-endless-load-discover-these-tips-to-get-back-into-action-quickly/"><u>Among Us Endless Load? Discover These Tips to Get Back Into Action Quickly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/doom-eternal-installation-woes-heres-your-ultimate-fix-guide/"><u>DOOM Eternal Installation Woes? Here's Your Ultimate Fix Guide!</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/fast-start-stellar-help-desk/"><u>Fast Start - Stellar Help Desk</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-error-messages-what-to-do-when-discord-doesnt-open/"><u>Fixing Error Messages: What To Do When Discord Doesn't Open</u></a></li>
+<li><a href="https://win-answers.techidaily.com/get-smooth-play-in-valheim-essential-tips-for-fixing-high-ping-on-pc/"><u>Get Smooth Play in Valheim: Essential Tips for Fixing High Ping on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guilty-gear-strive-on-pc-step-by-step-solutions-for-uninterrupted-play-and-avoiding-system-failures/"><u>Guilty Gear Strive on PC: Step-by-Step Solutions for Uninterrupted Play and Avoiding System Failures</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Poco F5 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-network-locked-realme-gt-5-pro-phone-by-drfone-android/"><u>How to Unlock a Network Locked Realme GT 5 Pro Phone?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-protocols-and-performance-macos-meets-mixer/"><u>In 2024, Protocols and Performance MacOS Meets Mixer</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-superior-sonic-aligner-android-version/"><u>In 2024, Superior Sonic Aligner, Android Version</u></a></li>
+<li><a href="https://fox-access.techidaily.com/precision-in-volume-decrease-lumafusions-methodology-for-2024/"><u>Precision in Volume Decrease Lumafusion's Methodology for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-doubts-definitive-edition-of-the-mafia-set-to-drop-soon/"><u>Resolving Doubts: 'Definitive Edition' Of The Mafia Set to Drop Soon</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-ultimate-fix-for-slow-response-times-lowering-ping-in-back-4-blood/"><u>The Ultimate Fix for Slow Response Times: Lowering Ping in 'Back 4 Blood'</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-top-notch-gadgets-and-pcs-with-toms-detailed-reviews/"><u>Unveiling Top-Notch Gadgets & PCs with Tom’s Detailed Reviews</u></a></li>
 </ul></div>
 

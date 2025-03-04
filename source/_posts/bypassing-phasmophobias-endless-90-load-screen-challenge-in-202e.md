@@ -1,7 +1,7 @@
 ---
 title: Bypassing Phasmophobia's Endless 90%% Load Screen Challenge in 202E
-date: 2025-02-07T23:39:00.399Z
-updated: 2025-02-15T00:00:06.925Z
+date: 2025-03-03T16:03:29.871Z
+updated: 2025-03-04T16:02:17.729Z
 tags:
   - win11
   - win10
@@ -34,10 +34,6 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 * [Fix 8: Disable fullscreen optimizations](https://tools.techidaily.com/drivereasy/download/)
 * [Fix 9: Try Phasmophobia beta version](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Restart your computer
 
  If you haven’t done this yet, give it a shot. A simple restart will reset your software and desktop environment and can often fix software glitches like this.
@@ -57,10 +53,6 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
  3) Under the**Installed Files** tab, click**Verify integrity of game files** .
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Restart the game after the process is complete.
 
@@ -130,10 +122,6 @@ If the crash still occurs, go ahead with the next fix.
 
  If you still experience crashing issues, then the issue is not with your game settings. You can change the settings back and try the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 6: Launch the game with DirectX 10
 
  Another workaround for some players is manually switching the game to DirectX 10\. Here’s how to do it:
@@ -146,10 +134,6 @@ If the crash still occurs, go ahead with the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-22_16-23-03.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Launch the game to see if your problem has been resolved.
 
 If Phasmophobia crashing issues persist, try the next fix below.
@@ -157,10 +141,6 @@ If Phasmophobia crashing issues persist, try the next fix below.
 ### Fix 7: Stop overlocking your GPU/CPU
 
  If you’ve manually overclocked your GPU or CPU, revert it to its default GPU/CPU clock. And if you are using overclocking software, such as MSI Afterburner, please also disable the software when running the game.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 8: Disable fullscreen optimizations
 
@@ -171,10 +151,6 @@ If Phasmophobia crashing issues persist, try the next fix below.
  2) Under the Compatibility tab, check the box next to**Disable fullscreen optimizations** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-23_14-53-17.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click**Apply > OK** .
 
@@ -193,10 +169,6 @@ If the problem still exists, try the next fix below.
 3) Go to the**BETAS tab** . Under**Select the beta you would like to opt into** , select a beta version if there’re any available.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-23_15-19-31.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Hopefully, this article has solved your problem! Please feel free to leave a comment if you have any questions or suggestions.
 
@@ -217,19 +189,22 @@ If the problem still exists, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-high-end-online-locations-for-metallic-3d-lettering-for-2024/"><u>[New] High-End Online Locations for Metallic 3D Lettering for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-top-tier-video-transcription-aid-automated/"><u>[New] In 2024, Top-Tier Video Transcription Aid, Automated!</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-augmenting-film-vistas-with-apple-playlist/"><u>[Updated] In 2024, Augmenting Film Vistas with Apple Playlist</u></a></li>
-<li><a href="https://win-answers.techidaily.com/double-impact-uncovering-the-secrets-behind-it-takes-twos-official-launch/"><u>Double Impact: Uncovering the Secrets Behind 'It Takes Two's' Official Launch</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-frequent-shutdown-problem-in-sony-vegas-pro-a-step-by-step-guide/"><u>Fixing the Frequent Shutdown Problem in Sony Vegas Pro: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/gears-of-war-5-issues-heres-how-to-stabilize-your-gameplay/"><u>Gears of War 5 Issues? Here's How to Stabilize Your Gameplay</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-does-youtube-offer-regular-viewers-money/"><u>In 2024, Does YouTube Offer Regular Viewers Money?</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-on-iphone-7-if-youve-tried-everything-by-drfone-ios/"><u>In 2024, How To Bypass iCloud By Checkra1n Even On iPhone 7 If Youve Tried Everything</u></a></li>
-<li><a href="https://win-answers.techidaily.com/lost-in-silence-restoring-sounds-to-your-lost-ark-adventure/"><u>Lost in Silence: Restoring Sounds to Your Lost Ark Adventure</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ranking-the-handheld-contenders-why-the-nintendo-switch-reigns-supreme/"><u>Ranking the Handheld Contenders: Why the Nintendo Switch Reigns Supreme</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-troubleshooting-steps-for-when-red-dead-redemption-2-doesnt-boot-up/"><u>Resolved: Troubleshooting Steps for When Red Dead Redemption 2 Doesn't Boot Up</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-future-of-fun-analyzing-9-benefits-and-drawbacks-in-the-game-industry/"><u>The Future of Fun: Analyzing 9 Benefits & Drawbacks in the Game Industry</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-overcoming-the-hurdles-of-windows-update-1903/"><u>Troubleshooting Guide: Overcoming the Hurdles of Windows Update 1903</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unveiling-the-secrets-of-microsofts-windows-server-update-service-a-complete-overview/"><u>Unveiling the Secrets of Microsoft's Windows Server Update Service - A Complete Overview</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-unleash-your-potential-detailed-guide-for-ps4-recordings-with-obs/"><u>[New] In 2024, Unleash Your Potential Detailed Guide for PS4 Recordings with OBS</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-exclusive-youtube-snippet-access-high-quality-free-download/"><u>[Updated] 2024 Approved Exclusive YouTube Snippet Access - High Quality, Free Download!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-heroic-showdown-gopro-writes-new-footage-rule-with-hero5-and-hero4/"><u>[Updated] HEROic Showdown GoPro' Writes New Footage Rule with Hero5 and Hero4</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-fostering-fandom-creating-jujutsu-kaisen-content-for-tiktok/"><u>[Updated] In 2024, Fostering Fandom Creating Jujutsu Kaisen Content for TikTok</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-rediscover-film-noir-creating-vintage-scenes/"><u>2024 Approved Rediscover Film Noir Creating Vintage Scenes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/accelerate-chrome-performance-with-easy-tricks/"><u>Accelerate Chrome Performance with Easy Tricks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/batman-arkham-knight-rapid-remedies-for-fatal-glitches-and-system-collapses/"><u>Batman: Arkham Knight - Rapid Remedies for Fatal Glitches and System Collapses</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-prevent-constant-crashes-while-playing-back-blood-on-your-pc/"><u>How to Prevent Constant Crashes While Playing Back ˋBlood on Your PC?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-frostpunk-from-crashing-effective-solutions-explored/"><u>How to Stop Frostpunk From Crashing - Effective Solutions Explored</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/reliable-iphone-data-retrieval-solution-available-for-purchase/"><u>Reliable iPhone Data Retrieval Solution - Available for Purchase</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-performance-issues-master-guide-to-preventing-mass-effect-legendary-edition-freezes/"><u>Resolving Performance Issues: Master Guide to Preventing Mass Effect Legendary Edition Freezes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ring-of-elysium-upgrades-a-step-by-step-guide-to-achieving-higher-fps-levels-for-smoother-gameplay/"><u>Ring of Elysium Upgrades: A Step-by-Step Guide to Achieving Higher FPS Levels for Smoother Gameplay</u></a></li>
+<li><a href="https://win-answers.techidaily.com/star-wars-jedi-fallen-order-fixing-game-crashes-on-your-windows-computer/"><u>Star Wars Jedi: Fallen Order - Fixing Game Crashes on Your Windows Computer</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/the-perfect-blend-of-style-and-functionality-in-free-macdrawers-for-2024/"><u>The Perfect Blend of Style & Functionality in Free MacDrawers for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/the-ultimate-guide-to-podcast-introduction-skills/"><u>The Ultimate Guide to Podcast Introduction Skills</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-fixes-for-errgfxstate-error-in-red-dead-redemption-2-step-by-step-guide/"><u>Ultimate Fixes for ERR_GFX_STATE Error in Red Dead Redemption 2 - Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unstuck-your-family-sharing-essential-steps-and-quick-fixes-you-must-try/"><u>Unstuck Your Family Sharing: Essential Steps & Quick Fixes You Must Try</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fast Solutions: Boost Your FPS in Elden Ring"
-date: 2024-08-19T00:54:59.901Z
-updated: 2024-08-20T00:54:59.901Z
+date: 2025-02-25T16:01:56.658Z
+updated: 2025-03-04T16:05:17.087Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ Recently, we’ve seen many players reporting that**Dirt 5 keeps crashing** on t
 
  Here we’ve gathered the latest fixes that helped other players resolve the Dirt 5 crashing issue. Whether Dirt 5 crashes on startup or crashes in the middle of the game, you can find a fix to try in this article.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You don’t have to try them all, Just work your way through the list until you find the one that does the trick for you.
@@ -53,13 +50,6 @@ The outdated or broken graphics driver often crashes the game.
 3. Click the **Update** button next to a device to automatically download the correct version of their driver, then you can manually install the driver (you can do this with the FREE version).  
 
  Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 4. Restart your PC after you finished updating your graphics driver.
 
@@ -70,23 +60,12 @@ No advertising on the website.
  The game crash issue can also be caused by the corrupted game files. To fix this issue, you need to verify the game files. Here is how to do it:
 
 1. In Steam, navigate to **the LIBRARY tab** and **right-click** on _DIRT 5_ . Then select **Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Steam->properties](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
 2. Click **the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![LOCAL FILES>VERIFY INTEGRITY OF GAME CACHE...](https://images.drivereasy.com/wp-content/uploads/2019/04/image-120.png)
 
  It may take some time to finish verifying the game files. Launch the game after the verifying process completed to see if this fix works. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ## Fix 3: Install the latest game patch
 
  The developers of Dirt 5 release regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -106,9 +85,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Launch Dirt 5 to see if the game crashes. If the issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 5: Set launch options on Steam
 
  If your PC didn’t meet the recommended system requirements for Dirt 5, and you’re suffering from the game crashing issue, you can also try using Steam launch options for Dirt 5\. If you want a full FPS boost, you can follow the steps below to Launch the game:
@@ -121,9 +97,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Launch the game to see if it crashes again. If it still crashes, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 6: Stop overclocking
 
  Many players may try overclocking the CPU or turbo boost the graphics card to gain a better FPS. However, overclocking often crashes the game.
@@ -145,8 +118,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -154,4 +125,26 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-unveiling-the-art-of-personal-branding-mastery/"><u>[New] 2024 Approved Unveiling the Art of Personal Branding Mastery</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-comprehensive-list-of-top-9-free-video-channel-branding-aids-for-2024/"><u>[New] Comprehensive List of Top 9 Free Video Channel Branding Aids for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ecode-your-youtube-preferences-with-these-6-fan-favorite-questionnaires-for-2024/"><u>[New] Decode Your YouTube Preferences with These 6 Fan-Favorite Questionnaires for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/diving-into-the-world-of-yakuza-6-with-like-a-dragon-an-in-depth-review-for-pc-gamers/"><u>Diving Into the World of Yakuza 6 with 'Like a Dragon': An In-Depth Review for PC Gamers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-techniques-to-address-minecraft-error-with-the-crossbow-feature/"><u>Effective Techniques to Address Minecraft Error with the Crossbow Feature</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effortlessly-solving-the-cannot-connect-to-minecraft-server-issue/"><u>Effortlessly Solving the 'Cannot Connect to Minecraft Server' Issue</u></a></li>
+<li><a href="https://win-answers.techidaily.com/far-cry-6-blackout-problems-troubleshooting-and-solutions/"><u>Far Cry 6 Blackout Problems: Troubleshooting & Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-grand-theft-auto-5-from-crashing-on-your-pc-or-console/"><u>How to Stop Grand Theft Auto 5 From Crashing on Your PC or Console</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-roblox-from-breaking-down-on-pcs-six-fast-fixes-you-need-to-know/"><u>How to Stop Roblox From Breaking Down on PCs - Six Fast Fixes You Need to Know</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-chuckle-crafting-tool/"><u>In 2024, Chuckle Crafting Tool</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-multi-resolution-adjustment-suite/"><u>In 2024, Multi-Resolution Adjustment Suite</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-record-gameplay-with-obs-studio/"><u>In 2024, Record Gameplay with OBS Studio</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-honor-70-lite-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Honor 70 Lite 5G Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/reestablish-network-stability-in-dell-latitude-xt2/"><u>Reestablish Network Stability in Dell Latitude XT2</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/solutions-de-controle-comment-resoudre-le-probleme-de-synchronisation-des-fichiers-icloud-sur-un-ordinateur-mac/"><u>Solutions De Contrôle: Comment Résoudre Le Problème De Synchronisation Des Fichiers iCloud Sur Un Ordinateur Mac?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/topo-5-mais-eficientes-softwares-para-combinar-imagens-em-um-unico-local/"><u>Topo 5 Mais Eficientes Softwares Para Combinar Imagens Em Um Único Local</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-no-compatible-driver-found-on-rainbow-six-extraction-expert-tips-and-tricks/"><u>Troubleshooting 'No Compatible Driver Found' On Rainbow Six Extraction: Expert Tips and Tricks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-the-sovled-warno-crashes-on-pc-issue/"><u>Troubleshooting the [SOVLED] Warno Crashes on PC Issue</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-to-turn-on-and-install-hyper-v-virtualization-in-windows-10/"><u>Ultimate Guide to Turn On and Install Hyper-V Virtualization in Windows 10</u></a></li>
+</ul></div>
 

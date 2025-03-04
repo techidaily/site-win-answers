@@ -1,7 +1,7 @@
 ---
 title: "Smooth Sailing in ARK: Survival Ascended on PC - Conquer Those Crashes with Our 9 Proven Solutions!"
-date: 2024-08-19T00:56:25.090Z
-updated: 2024-08-20T00:56:25.090Z
+date: 2025-03-03T16:04:08.100Z
+updated: 2025-03-04T16:06:10.273Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/5fff478f3be544d568418507cea4779277edfa2a7
 
 ## Dealing with Limited System Resources: Solutions to the 'Inadequate Memory' Bug in God of War
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/gow.jpg)
 
  God of War is a phenomenon-level game that attracts millions of gamers. It’s so annoying to receive the “**Not enough available memory** ” message that hindered you from playing the game. Though they claimed the issue was fixed, some of the users still encounter the problem. Don’t worry, you’re not alone. This post would help you fix the issue step-by-step.
@@ -33,10 +30,6 @@ thumbnail: https://thmb.techidaily.com/5fff478f3be544d568418507cea4779277edfa2a7
 5. [Repair system files](https://tools.techidaily.com/drivereasy/download/)
 6. [Save and restart regularly](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ### Fix 1: Check the system requirements
 
  Before any complex fixes, check if your PC meets the minimum requirements.
@@ -55,9 +48,6 @@ thumbnail: https://thmb.techidaily.com/5fff478f3be544d568418507cea4779277edfa2a7
 
 1. Press the**Windows logo key + I** (i)**key** together to open the**Settings** .
 2. In the System panel, scroll down to find**About** . Click**About** .  
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/s2.jpg)
 3. The**Installed RAM** shows how much RAM do you have.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/s1.jpg)
@@ -74,9 +64,6 @@ There are mainly two ways you can update the driver:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the Update button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
@@ -86,9 +73,6 @@ There are mainly two ways you can update the driver:
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Disable your integrated graphics
 
  Many gamers have proved it’s a working fix. So if you have an internal GPU, follow the steps below to fix the God of War “not enough available memory” issue.
@@ -99,9 +83,6 @@ There are mainly two ways you can update the driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/nvidia-control-panel.jpg)
 2. Select**Manage 3D settings** in the left panel.
 3. Under**Global Settings** , set the preferred graphics processor to your graphics card. Then click**Apply** .  
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/gow-1.jpg)
 
 **Disable integrated graphics through Device Manager** :
@@ -114,9 +95,6 @@ There are mainly two ways you can update the driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/s6.jpg)
 5. Restart the game and check if the issue persists.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Update God of War
 
  The game development team is working on this issue. Santa Monica Studios has just deployed God of War Update 1.0.1\. Although the new patch doesn’t fix the issue for everyone, the dev team may fix the memory leak issue in the future. So don’t forget to update the God of War when there are available patches.
@@ -124,9 +102,6 @@ There are mainly two ways you can update the driver:
 1. Open Steam.
 2. Go to**LIBRARY** .
 3. Right-click on God of War and click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/s3.jpg)
 4. Click**UPDATES** , choosing**Always keep this game updated** and you can update God of War automatically.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/s4.jpg)
@@ -141,15 +116,8 @@ There are mainly two ways you can update the driver:
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
@@ -171,8 +139,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -180,4 +146,26 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-taking-your-instagram-game-up-a-notch-advanced-tracking-tools-overview/"><u>[New] In 2024, Taking Your Instagram Game Up a Notch Advanced Tracking Tools Overview</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-understanding-hdr-techniques-in-modern-photoshoots/"><u>[New] In 2024, Understanding HDR Techniques in Modern Photoshoots</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-make-quick-cash-on-reddit-with-these-no-experience-techniques/"><u>[New] Make Quick Cash on Reddit with These No Experience Techniques</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-streamlabs-vs-top-embedding-platforms/"><u>[Updated] Streamlabs Vs. Top Embedding Platforms</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-secrets-to-boosting-your-income-via-youtube-shorts-monetization/"><u>[Updated] The Secrets to Boosting Your Income via YouTube Shorts Monetization</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bypass-error-messages-easy-winwordexe-corrections-for-a-smooth-microsoft-word-experience/"><u>Bypass Error Messages: Easy WINWORD.EXE Corrections for a Smooth Microsoft Word Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhance-gameplay-smoothness-overcoming-frequent-frame-drops-and-delays-in-gaming/"><u>Enhance Gameplay Smoothness: Overcoming Frequent Frame Drops & Delays in Gaming</u></a></li>
+<li><a href="https://facebook.techidaily.com/fake-friend-alerts-on-facebook/"><u>Fake Friend Alerts on Facebook</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722994337277-fixing-dayzs-performance-issues-fast-and-user-friendly-methods/"><u>Fixing DayZ's Performance Issues: Fast and User-Friendly Methods!</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/guaranteeing-smooth-videos-after-upgrading-to-win11/"><u>Guaranteeing Smooth Videos After Upgrading to Win11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723013539324-halo-infinite-blackout-blues-heres-how-you-can-fix-it/"><u>Halo Infinite Blackout Blues? Here's How You Can Fix It</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-vivo-v30-lite-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Vivo V30 Lite 5G to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-the-psychology-of-persuasion-in-subscription-growth/"><u>In 2024, The Psychology of Persuasion in Subscription Growth</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-guide-how-to-overcome-and-repair-a-stubborn-non-opening-discord-application/"><u>Master Guide: How to Overcome and Repair a Stubborn, Non-Opening Discord Application</u></a></li>
+<li><a href="https://win-answers.techidaily.com/say-goodbye-to-interruptions-detroit-become-human-running-flawlessly-on-windows-machines/"><u>Say Goodbye to Interruptions: Detroit: Become Human Running Flawlessly on Windows Machines</u></a></li>
+<li><a href="https://facebook.techidaily.com/seamlessly-integrating-sleep-mode-for-a-more-efficient-messenger-kids-use/"><u>Seamlessly Integrating Sleep Mode for a More Efficient Messenger Kids Use</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-found-how-to-restore-netflix-functionality-on-your-xbox-one-device/"><u>Solution Found: How to Restore Netflix Functionality on Your Xbox One Device</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stop-your-pc-games-from-crashing-proven-methods/"><u>Stop Your PC Games From Crashing - Proven Methods</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-step-by-step-guide-resolving-teardown-app-crashes/"><u>Ultimate Step-by-Step Guide: Resolving Teardown App Crashes</u></a></li>
+</ul></div>
 

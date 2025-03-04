@@ -1,7 +1,7 @@
 ---
 title: "Silent Streambar: Expert Fixes to Revive Audio on Your Twitch Broadcasts"
-date: 2025-02-08T00:18:52.910Z
-updated: 2025-02-15T01:29:43.503Z
+date: 2025-02-26T16:08:49.227Z
+updated: 2025-03-04T16:06:47.404Z
 tags:
   - win11
   - win10
@@ -22,17 +22,9 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why am I getting this error message?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/featured_-1200x653.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  This error occurs when you have an issue with your connection to the Call of Duty servers. Either the server is down or there’s something wrong with your Internet connection or network settings.
 
@@ -72,10 +64,6 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 2. Type in**firewall.cpl** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/firewall.jpg)
 3. From the left panel, click **Allow an app or feature through Windows Defender Firewall** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![allow app run through firewall](https://images.drivereasy.com/wp-content/uploads/2021/07/allow.jpg)
 4. Look for your game e.g. **Call of Duty: Black Ops Cold War** , and make sure the box to its left is checked, as well as the two boxes to the right i.e.**Private** &**Public** .
@@ -117,16 +105,8 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ncpa.jpg)
 3. Right-click your current network connection, and select **Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![properties of network connection](https://images.drivereasy.com/wp-content/uploads/2021/07/properties-1.png)
 4. Double-click **Internet Protocol Version 4 (TCP/IPv4)** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![ipv4](https://images.drivereasy.com/wp-content/uploads/2021/07/IPV4-2.jpg)
 5. Select **Use the following DNS server addresses** and fill in the Google DNS servers:  
@@ -136,10 +116,6 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 
 ![change DNS server](https://images.drivereasy.com/wp-content/uploads/2021/07/following-DNS.jpg)
 6. Click **OK** to apply.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4\. Update your device drivers
 
@@ -156,10 +132,6 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/03/Driver-Easy-download-needed.jpg)
 3. Click the **Update** button next to the flagged network adapter driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Or click Update All to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 
@@ -204,20 +176,20 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-channel-building-through-characters-and-plot-twists/"><u>[New] In 2024, Channel-Building Through Characters and Plot Twists</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-essential-steps-to-record-your-hp-laptop-screen-efficiently/"><u>[New] In 2024, Essential Steps to Record Your HP Laptop Screen Efficiently</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-methodically-uncovering-hidden-video-wonders-on-youtube/"><u>[New] In 2024, Methodically Uncovering Hidden Video Wonders on YouTube</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-mapping-memorable-media-metaphors/"><u>[Updated] In 2024, Mapping Memorable Media Metaphors</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-top-youtube-trends-a-curated-selection-for-2024/"><u>[Updated] Top YouTube Trends A Curated Selection for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/beat-the-crash-expert-advice-to-keep-grounded-running-smoothly-on-your-pc/"><u>Beat the Crash: Expert Advice to Keep 'Grounded' Running Smoothly on Your PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-tips-for-correcting-and-overcoming-error-0xc19001e1-on-windows-10-systems/"><u>Expert Tips for Correcting and Overcoming Error 0xC19001E1 on Windows 10 Systems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723006482521-football-manager-2020-stability-enhanced-no-more-crashing-issues/"><u>Football Manager 2020 Stability Enhanced - No More Crashing Issues</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On OnePlus Nord N30 SE | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Tecno Pova 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/inshots-counterparts-for-pc-video-editing-for-2024/"><u>Inshot's Counterparts for PC Video Editing for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-fixes-to-stop-ashen-crash-glitches-once-and-for-all/"><u>Quick Fixes to Stop Ashen Crash Glitches Once and For All!</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/runners-choice-garmin-forerunner/"><u>Runner's Choice: Garmin Forerunner</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723008392729-troubleshoot-crashing-in-lol-easily-effective-fixes-inside/"><u>Troubleshoot Crashing in LoL Easily – Effective Fixes Inside!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-starting-up-monster-hunter-rise-without-glitches-or-errors/"><u>Troubleshooting Guide: Starting Up Monster Hunter Rise Without Glitches or Errors</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-pixelpatch-artisan-online-design-symphony/"><u>[New] 2024 Approved PixelPatch Artisan Online Design Symphony</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-get-creative-and-cost-effective-with-a-stash-of-over-50-free-youtube-promo-artwork/"><u>[New] In 2024, Get Creative and Cost-Effective with a Stash of Over 50 Free YouTube Promo Artwork</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-unleashing-potential-your-guide-to-making-blockbuster-youtube-videos/"><u>[Updated] In 2024, Unleashing Potential Your Guide to Making Blockbuster Youtube Videos</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723000654067-bypass-fortnite-log-in-errors-with-these-swift-steps-now-playing/"><u>Bypass Fortnite Log-In Errors with These Swift Steps - Now Playing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/comprehensive-steps-to-stop-risk-of-rain-2-from-freezing-or-crashing-on-your-pc-and-console/"><u>Comprehensive Steps To Stop Risk of Rain 2 From Freezing or Crashing on Your PC & Console.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722989576318-destiny-2-launch-glitch-on-pc-squashed-get-into-the-game-now/"><u>Destiny 2 Launch Glitch on PC Squashed - Get Into The Game Now!</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-honor-x50iplus-s-lock-screen-pattern-pin-or-password-by-drfone-android-unlock-android-unlock/"><u>How to bypass Honor X50i+’s lock screen pattern, PIN or password</u></a></li>
+<li><a href="https://solve-info.techidaily.com/locating-and-adjusting-your-pcs-defenses-a-guide-to-windows-firewall-configuration-via-control-panel-insights-by-yl-computing/"><u>Locating and Adjusting Your PC's Defenses: A Guide to Windows Firewall Configuration via Control Panel - Insights by YL Computing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-level-up-stability-fix-crashes-for-age-of-wonders-planetfall-gameplay/"><u>Master Level-Up Stability: Fix Crashes for Age of Wonders: Planetfall Gameplay</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastery-in-gaming-3-methods-for-directory-unlock/"><u>Mastery in Gaming: 3 Methods for Directory Unlock</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-top-10-hindi-video-translators-with-step-by-step-guidance/"><u>New In 2024, Top 10 Hindi Video Translators with Step-by-Step Guidance</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-gamers-rejoice-as-disco-elysium-crashes-resolved/"><u>PC Gamers Rejoice as Disco Elysium Crashes Resolved</u></a></li>
+<li><a href="https://blog-min.techidaily.com/professional-mac-video-transcoder-effortless-avchd-mkv-mov-mp4-format-conversion/"><u>Professional Mac Video Transcoder: Effortless AVCHD, MKV, MOV, MP4 Format Conversion</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-graphics-glitches-fixing-the-rdr2-errgfxstate-mistake/"><u>Troubleshooting Graphics Glitches: Fixing the RDR2 ERR_GFX_STATE Mistake</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-fixes-for-playing-tiny-tinas-late-nite-party-in-terraria-pc-edition/"><u>Ultimate Fixes for Playing Tiny Tina's Late Nite Party in Terraria - PC Edition</u></a></li>
 </ul></div>
 

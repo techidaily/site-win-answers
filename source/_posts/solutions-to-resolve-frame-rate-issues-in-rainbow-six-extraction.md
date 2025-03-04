@@ -1,7 +1,7 @@
 ---
 title: Solutions to Resolve Frame Rate Issues in Rainbow Six Extraction
-date: 2025-02-13T22:47:22.738Z
-updated: 2025-02-14T18:33:28.404Z
+date: 2025-02-28T16:08:52.718Z
+updated: 2025-03-04T16:04:58.795Z
 tags:
   - win11
   - win10
@@ -82,19 +82,11 @@ thumbnail: https://thmb.techidaily.com/4dbf33f37ff64fa1cd0b3b86eb483d2b61e4dcfaa
 
  If your PC fails to meet the minimum system requirements for The Division 2, you may need to upgrade your PC hardware.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Install the latest game patch
 
  The developers of The Division 2 release regular game patches to fix bugs. It’s possible that a recent patch has triggered the game crash issue, and that a new patch is required to fix it.
 
  If it this issue persists after you install the latest game patch, or if there was no new game patch available, move on to Fix 3, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -150,10 +142,6 @@ thumbnail: https://thmb.techidaily.com/4dbf33f37ff64fa1cd0b3b86eb483d2b61e4dcfaa
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-119.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Verify** to start verifying the game files.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-123.png)
@@ -174,10 +162,6 @@ thumbnail: https://thmb.techidaily.com/4dbf33f37ff64fa1cd0b3b86eb483d2b61e4dcfaa
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-124.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Go to**the Compatibility tab** and click**Change high DPI settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-126.png)
@@ -186,25 +170,13 @@ thumbnail: https://thmb.techidaily.com/4dbf33f37ff64fa1cd0b3b86eb483d2b61e4dcfaa
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-127.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4)**Tick the box** next to**Disable fullscreen optimizations** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-128.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
  Run The Division 2 to see if the this fix works. If not, try the next fix to modify your page file.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Modify the paging file size
 
@@ -246,10 +218,6 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-154-1024x744.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Set**Spot Shadows** to**Low** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-155-1024x744.png)
@@ -270,10 +238,6 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-159-1024x759.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  7)**Turn off Local Reflection Quality** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-160-1024x762.png)
@@ -289,10 +253,6 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
  10) Set**Terrain Quality** to**Medium** . Then save all the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-163-1024x772.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Launch the game to see if the crash issue reappears. If not, congratulations! You’ve resolved this issue.
 
@@ -317,18 +277,24 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-crafting-impact-best-9-video-thumbnail-makers-reviewed/"><u>[New] In 2024, Crafting Impact Best 9 Video Thumbnail Makers Reviewed</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-unlock-the-full-potential-of-your-h-videos-on-instagram-tv-for-2024/"><u>[New] Unlock the Full Potential of Your H-Videos on Instagram TV for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/goproandpc/"><u>簡単GoPro動画カット&コンポーズツール：PCとスマホ向け</u></a></li>
-<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-vivo-y78plus-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Vivo Y78+ via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/comprerante-tactics-bring-alive-dormant-wsreset-utility/"><u>Comprerante Tactics: Bring Alive Dormant WSReset Utility</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/deciding-on-a-new-ipad-pro-compare-features-and-performance-for-your-perfect-pick-macworld/"><u>Deciding on a New iPad Pro? Compare Features and Performance for Your Perfect Pick | MacWorld</u></a></li>
-<li><a href="https://win-answers.techidaily.com/easy-tutorial-on-how-to-change-mp4-file-format-to-xvid-for-better-playback-compatibility/"><u>Easy Tutorial on How to Change MP4 File Format to Xvid for Better Playback Compatibility</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effortless-conversion-from-mxf-to-avi-a-step-by-step-guide/"><u>Effortless Conversion From MXF to AVI: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effortless-conversion-techniques-from-webm-video-to-animated-gifs-on-and-off-the-internet/"><u>Effortless Conversion Techniques: From WebM Video to Animated GIFs on and Off the Internet</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effortless-strategies-master-the-art-of-slicing-and-cropping-gif-images/"><u>Effortless Strategies: Master the Art of Slicing and Cropping GIF Images</u></a></li>
-<li><a href="https://games-able.techidaily.com/elite-connections-superior-choices-for-high-speed-gaming/"><u>Elite Connections: Superior Choices for High-Speed Gaming</u></a></li>
-<li><a href="https://win-answers.techidaily.com/exploring-manga-and-anime-distinguishing-their-unique-qualities/"><u>Exploring Manga & Anime: Distinguishing Their Unique Qualities</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/1725616889020-live-streaming-mastery-with-manycam-top-virtual-camera-software/"><u>Live Streaming Mastery with ManyCam - Top Virtual Camera Software</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-transformation-tips-applying-japans-favorite-on-screen-effects/"><u>[New] 2024 Approved Transformation Tips Applying Japan's Favorite On-Screen Effects</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-impassioned-orator-review-revision-hexadecimal-eight-for-2024/"><u>[New] Impassioned Orator Review - Revision Hexadecimal Eight for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-cutting-edge-cinema-teasers/"><u>[Updated] In 2024, Cutting-Edge Cinema Teasers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-the-potential-of-multi-stream-video-on-microsoft-edge/"><u>2024 Approved Unlocking the Potential of Multi-Stream Video on Microsoft Edge</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/all-you-need-to-know-about-elon-musks-robotaxi-venture-release-timeline-pricing-and-specs-revealed/"><u>All You Need to Know About Elon Musk’s Robotaxi Venture - Release Timeline, Pricing, and Specs Revealed!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/cutting-edge-podcasting-garageband-edition/"><u>Cutting Edge Podcasting GarageBand Edition</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easy-solutions-for-smoothing-out-bloodhunts-performance-glitches-on-desktop-systems/"><u>Easy Solutions for Smoothing Out Bloodhunt's Performance Glitches on Desktop Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/hitman-amoored-by-connectivity-heres-how-to-resolve-the-connection-failed-error/"><u>Hitman Amoored by Connectivity? Here’s How to Resolve the 'Connection Failed' Error!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-excellent-spots-for-tamil-ringtones-acquisition-guide/"><u>In 2024, Excellent Spots for Tamil Ringtones Acquisition Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722970518629-obtain-your-asus-pce-ac68-drivers-now-free-download-available/"><u>Obtain Your ASUS PCE-AC68 Drivers Now - Free Download Available</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-activisions-cod-vanguard-bug-code-5573-fix-guide/"><u>Resolved: Activision's COD Vanguard Bug Code 5573 Fix Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/riot-addresses-league-of-legends-reconnection-issue-patch-notes-explained/"><u>Riot Addresses League of Legends Reconnection Issue - Patch Notes Explained</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-constant-bugs-in-thunders-top-tier-level-a-users-manual/"><u>Solving the Constant Bugs in Thunder's Top-Tier Level - A User's Manual</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/subtlety-saved-master-disappearing-buttons-in-1011/"><u>Subtlety Saved: Master Disappearing Buttons in 10/11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723006344233-tired-of-titanfall-2-crashes-discover-easy-ways-to-keep-your-game-running-smoothly/"><u>Tired of Titanfall 2 Crashes? Discover Easy Ways to Keep Your Game Running Smoothly!</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/transforming-videos-for-twitter-success-expert-convertors-guide/"><u>Transforming Videos for Twitter Success Expert Convertors Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-a-failed-launch-of-granblue-fantasys-link-rebinding-option/"><u>Troubleshooting a Failed Launch of Granblue Fantasy's Link Rebinding Option</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-expert-guide-top-6-solutions-to-boost-your-fps-in-escape-from-tarkov/"><u>Ultimate Expert Guide: Top 6 Solutions to Boost Your FPS in Escape From Tarkov</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-tips-for-a-stable-war-thunder-gaming-experience-no-more-crashing/"><u>Ultimate Tips for a Stable War Thunder Gaming Experience - No More Crashing</u></a></li>
 </ul></div>
 

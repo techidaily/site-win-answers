@@ -1,7 +1,7 @@
 ---
 title: "EverQuest II Stalling on Windows: Troubleshooting Techniques for Smooth Play"
-date: 2025-02-11T22:35:39.465Z
-updated: 2025-02-15T05:22:33.264Z
+date: 2025-02-25T16:08:50.402Z
+updated: 2025-03-04T16:08:20.876Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ Halo Infinite is available now and some gamers have noticed that the game has be
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
 1. [Check the minimum system requirement](https://tools.techidaily.com/drivereasy/download/)
@@ -33,10 +29,6 @@ Halo Infinite is available now and some gamers have noticed that the game has be
 3. [Change in-game settings](https://tools.techidaily.com/drivereasy/download/)
 4. [Turn off background apps](https://tools.techidaily.com/drivereasy/download/)
 5. [Change NVIDIA resolution](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 1: Check the minimum system requirement
 
@@ -69,10 +61,6 @@ There are mainly two ways you can update the graphics driver:
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 4. Relaunch Halo Infinite and check if it fixes the stuttering issue.
@@ -81,10 +69,6 @@ There are mainly two ways you can update the graphics driver:
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  If updating the graphics driver doesn’t work, you can move to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 3: Change in-game settings
 
@@ -109,10 +93,6 @@ There are mainly two ways you can update the graphics driver:
  6) Many people suggest turning off**ASYNC COMPUTE** but if you’re running an AMD graphics card, you’d better turn it on. Because you can get at least 10FPS extra on average with it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-34.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7) Run the game to check.
 
@@ -155,15 +135,19 @@ If it’s not working, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-from-fuzzy-frames-to-sharpness-the-v22-journey/"><u>[New] 2024 Approved From Fuzzy Frames to Sharpness - The V2.2 Journey</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726029674012-5/"><u>5推しのオンラインスピーカークリアアップツール - すべて無料で利用可能</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726029954243-ffmpeg/"><u>一連ノート: アドバイスフレンドなら FFmpegで動画の選択とセーブ方法</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-opening-doors-to-collective-listening-on-youtube/"><u>In 2024, Opening Doors to Collective Listening on YouTube</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-essentials-understanding-whatsapp-calls/"><u>In 2024, The Essentials Understanding WhatsApp Calls</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-unlocking-the-full-capabilities-of-zoom-on-windows-10-pcs/"><u>In 2024, Unlocking The Full Capabilities of Zoom on Windows 10 PCs</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726029796518-mp3-dvd/"><u>MP3への変換方法: DVDオーディオトラックを取り込む手順</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726027991417-pc/"><u>PCやスマホで確実に画面を密かに記録:最強のソフトウェア選びガイド</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96466880-9781939681508-the-wizards-guide-to-energy-healing/"><u>The Wizard's Guide to Energy Healing | Free Book</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transforma-facilmente-tus-videos-avi-en-wmv-sin-costo-alguno-tutorial-paso-a-paso-rapido-metodo-recomendado-por-movavi/"><u>Transforma Fácilmente Tus Vídeos Avi en WMV Sin Costo Alguno: Tutorial Paso a Paso Rápido, Método Recomendado Por Movavi</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-maximizing-visibility-with-instagrams-highlight-system/"><u>[New] In 2024, Maximizing Visibility with Instagram's Highlight System</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamline-entertainment-incorporating-subtitles-into-wmp/"><u>2024 Approved Streamline Entertainment Incorporating Subtitles Into WMP</u></a></li>
+<li><a href="https://win-answers.techidaily.com/civil-case-civ-6-understanding-the-2024-resolution-on-access-denial-issues/"><u>Civil Case #CIV 6 - Understanding the 2024 Resolution on Access Denial Issues</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-sumind-bt7/"><u>Comprehensive Sumind BT7</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-logitech-g35-headset-drivers-compatible-with-windows-7-8-and-10/"><u>Free Logitech G35 Headset Drivers Compatible with Windows 7, 8 & 10</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-the-adonit-nest-for-only-65-top-rated-usb-hub-upgrade-for-remote-workers-spotted-on-zdnet/"><u>Get the Adonit Nest for Only $65! Top-Rated USB Hub Upgrade for Remote Workers Spotted on ZDNET</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-device-manager-to-reinstall-hardware-drivers-on-windows-1110-by-drivereasy-guide/"><u>How to use Device Manager to reinstall hardware drivers on Windows 11/10</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-itel-a60s-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Itel A60s For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/lost-ark-connection-problems-a-step-by-step-guide-for-resolution/"><u>Lost Ark Connection Problems: A Step-by-Step Guide for Resolution</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-fortnites-freezing-glitches-on-desktop-expert-solutions-inside/"><u>Overcome Fortnite's Freezing Glitches on Desktop - Expert Solutions Inside</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-troubleshooting-the-elder-scrolls-online-launching-issues/"><u>Solved: Troubleshooting 'The Elder Scrolls Online' Launching Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-solutions-for-rainbow-six-error-3-0x0001000b-in-siege-game/"><u>Step-by-Step Solutions for Rainbow Six Error 3-0X0001000B in Siege Game</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-strategies-to-resolve-low-fps-in-fallout-76/"><u>Top Strategies to Resolve Low FPS in Fallout 76</u></a></li>
 </ul></div>
 

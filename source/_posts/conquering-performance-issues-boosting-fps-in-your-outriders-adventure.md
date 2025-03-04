@@ -1,7 +1,7 @@
 ---
 title: "Conquering Performance Issues: Boosting FPS in Your Outriders Adventure"
-date: 2025-02-12T22:38:44.034Z
-updated: 2025-02-14T17:38:41.290Z
+date: 2025-03-03T16:08:28.948Z
+updated: 2025-03-04T16:09:30.205Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ These days, **[Outriders](https://www.epicgames.com/store/en-US/p/outriders?epic
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Before getting started
 
  Before taking any troubleshooting steps listed below, we recommend you switch to mouse and keyboard if you’re playing Outriders with a controller. Although it seems there’s nothing to do with your controller, many players did report on Reddit that switching to mouse and keyboard helped them mitigate their problems. So it’s worth a shot.
@@ -39,10 +35,6 @@ These days, **[Outriders](https://www.epicgames.com/store/en-US/p/outriders?epic
 5. **[Verify integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Disable Steam overlay](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Close unnecessary programs](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Install all Windows updates
 
@@ -78,10 +70,6 @@ Here’s how you can download and install Windows updates:
   
 ![how to roll back NVIDIA driver](https://images.drivereasy.com/wp-content/uploads/2021/04/roll-back-your-drivers.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Click on the**Driver** tab. Then click**Roll Back Driver** and follow the on-screen instructions to finish the process.  
   
 ![how to roll back NVIDIA driver](https://images.drivereasy.com/wp-content/uploads/2021/04/roll-back-driver.png)
@@ -113,10 +101,6 @@ Here’s how you can download and install Windows updates:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Switch to DX11
 
  DX12 was designed to bring performance boost, maximize frame rate and minimize latency by optimizing hardware utilization. Having said that, in some circumstances, some titles may not really get along well with DX12 and the truth is, for many games, DX11 is still a great option. Outriders developers also[post](https://steamcommunity.com/app/680420/discussions/2/3075370188227922699/) that switching to DX11 can fix the performance issues.
@@ -126,10 +110,6 @@ Here’s how you can do this:
  1) Open your Steam client. Under LIBRARY, right-click your game title and select **Properties** .  
   
 ![outriders properties](https://images.drivereasy.com/wp-content/uploads/2021/04/outriders-Properties.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Select the**GENERAL**  tab. Then under the**LAUNCH OPTIONS** section, type**\-force -dx11** in the text field. This command line will allow you to run your game in DX11 mode.  
   
@@ -148,10 +128,6 @@ To verify the integrity of game files, take these steps:
  1) Open your Steam client. Under LIBRARY, right-click your game title and select **Properties** .  
   
 ![outriders properties](https://images.drivereasy.com/wp-content/uploads/2021/04/outriders-Properties.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Select the **LOCAL FILES**  tab and then click on the **Verify integrity of game files…**  button.
 
@@ -179,10 +155,6 @@ Now play Outriders to see if you can get better gaming performance.
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Close unnecessary programs
 
  Performance issues such as the game freezing and stuttering can be caused by your limited system resources or an interference from a program running in the background. To solve your issues, you can close those programs such as web browsers, Adobe apps when playing Outriders. Here’s how you can do this:
@@ -196,10 +168,6 @@ Now play Outriders to see if you can get better gaming performance.
  3) Under the **Processes** tab, right-click on the programs that you don’t necessarily use when playing Outriders and select **End task** .
 
 ![disable programs running in the background Call of Duty Black Ops Cold War crashing on PC](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-programs-running-in-the-backgroundend-task.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After you’ve done these, play Outriders to check if it should look better.
 
@@ -222,19 +190,22 @@ Now play Outriders to see if you can get better gaming performance.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-cognitive-clash-ultimate-gk-video-quizzes/"><u>[New] 2024 Approved Cognitive Clash - Ultimate GK Video Quizzes</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-viewers-verdict-on-scopes/"><u>[New] 2024 Approved Viewer's Verdict on Scopes</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-infinix-note-30i-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Infinix Note 30i Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/1719151660089-facebooks-metaverse-project-seeks-global-talent-pool-of-10k/"><u>Facebook's Metaverse Project Seeks Global Talent Pool of 10K</u></a></li>
-<li><a href="https://win-answers.techidaily.com/five-easy-tricks-for-addressing-launch-delays-in-genshin-impact/"><u>Five Easy Tricks for Addressing Launch Delays in Genshin Impact</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-resolve-issues-when-tribes-of-midgard-freezes-or-crashes/"><u>How to Resolve Issues When Tribes of Midgard Freezes or Crashes</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-iphone-xr-drfone-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on iPhone XR | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723008618658-itunes-audio-issue-resolved-optimize-playback-today/"><u>ITunes Audio Issue Resolved - Optimize Playback Today</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/new-functionality-added-to-metas-ray-ban-stylish-smartglasses-at-no-extra-cost-zdnet/"><u>New Functionality Added to Meta’s Ray-Ban Stylish Smartglasses at No Extra Cost - ZDNet</u></a></li>
-<li><a href="https://review-topics.techidaily.com/online-signatures-for-xlsm-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>Online signatures for .xlsm files</u></a></li>
-<li><a href="https://win11.techidaily.com/triggering-sfc-scan-on-windows-a-step-by-step-guide/"><u>Triggering SFC Scan on Windows: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-frame-rate-issues-and-connectivity-spikes-in-cod-black-ops-iv/"><u>Troubleshooting Frame Rate Issues & Connectivity Spikes in COD: Black Ops IV</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-fix-resolving-scavengers-game-crashes-in-windows-1011/"><u>Ultimate Fix: Resolving 'Scavengers' Game Crashes in Windows 10/11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/win11-specific-solutions-for-resolving-minecraft-installation-problems/"><u>Win11 Specific Solutions for Resolving Minecraft Installation Problems</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-pro-iphone-light-techniques-for-expert-photographers/"><u>[New] Pro iPhone Light Techniques for Expert Photographers</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-how-to-use-zoom-to-stream-facebook-live/"><u>[Updated] In 2024, How to Use Zoom to Stream Facebook Live</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-assessment-of-the-amazonbasics-7-port-usb-30-connectivity-solution/"><u>Comprehensive Assessment of the AmazonBasics 7-Port USB 3.0 Connectivity Solution</u></a></li>
+<li><a href="https://win-answers.techidaily.com/crusader-kings-iii-stable-gaming-experience-on-pc-no-more-freezes/"><u>Crusader Kings III - Stable Gaming Experience on PC (No More Freezes)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/decoding-the-postponed-release-timeline-for-wolcen-lords-of-mayhem/"><u>Decoding the Postponed Release Timeline for Wolcen: Lords of Mayhem</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-microphone-glitches-while-playing-among-us-pc/"><u>Fixing the Microphone Glitches While Playing Among Us (PC)</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-oppo-a2-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Oppo A2 in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-elevate-your-content-pc-video-editing-for-effective-youtube-presentations/"><u>In 2024, Elevate Your Content PC Video Editing for Effective YouTube Presentations</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-inside-look-how-youtube-funds-are-transforming-content-creation/"><u>In 2024, Inside Look How YouTube Funds Are Transforming Content Creation</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-destiny-2-a-guide-to-fixing-error-code-centipede/"><u>Mastering Destiny 2: A Guide to Fixing Error Code Centipede</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-fixes-resolving-division-2-game-crashes-in-no-time/"><u>Quick Fixes: Resolving Division 2 Game Crashes in No Time</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-persistent-system-failures-with-the-thunder-tier-one-game/"><u>Resolved: Persistent System Failures with the Thunder Tier One Game</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/squared-success-creating-compelling-video-posts-on-facebook-for-2024/"><u>Squared Success Creating Compelling Video Posts on Facebook for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722988670341-team-fortress-2-stability-improved-say-goodbye-to-regular-disruptions/"><u>Team Fortress 2 Stability Improved - Say Goodbye to Regular Disruptions!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>The Best 8 VPN Hardware Devices Reviewed On Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/transformative-typography-in-after-effects/"><u>Transformative Typography in After Effects</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-how-to-get-your-steam-vr-recognized-again/"><u>Troubleshooting Tips: How to Get Your Steam VR Recognized Again</u></a></li>
 </ul></div>
 

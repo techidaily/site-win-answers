@@ -1,7 +1,7 @@
 ---
 title: "Optimize Your Experience: Fix High Ping Issues on PC with Bless Unleashed"
-date: 2025-02-07T22:00:40.831Z
-updated: 2025-02-15T05:16:46.447Z
+date: 2025-02-27T16:13:06.047Z
+updated: 2025-03-04T16:07:00.853Z
 tags:
   - win11
   - win10
@@ -49,10 +49,6 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
  2) Note down the**Installed memory (RAM)** . Then click**Advanced system settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/RAM-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Under the Advanced tab, click**Setting** s.
 
@@ -110,10 +106,6 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/scan-now-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to the flagged graphics card and all other devices to download the correct driver (you can do this with the FREE version), then manually install it.
 
 **OR**
@@ -121,10 +113,6 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
  Click**Update All** to automatically download and install the correct version of all the drivers that are missing or outdated on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. You’ll get**full support** and a**30-day money back guarantee** .)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/driver-easy-update-all.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -147,10 +135,6 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
  Battlefield V is very sensitive to overclocking, so do NOT overclock your GPU and CPU. Overclocking may cause your Battlefield V to crash or freeze. In that case, we suggest resetting the processor or GPU to the manufacturer’s specifications.
 
  If you don’t want to overclock the CPU at all, you should also turn**XMP (Extreme Memory Profiles)** off. To do it, you need to enter BIOS and disable Extreme Memory Profile.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Turn off DX12
 
@@ -221,10 +205,6 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/cmd.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Type the command:**sfc /scannow** and hit**Enter** . Note that there’s a space between**sfc** and**/** .
 
 sfc /scannow
@@ -232,10 +212,6 @@ sfc /scannow
  3) Wait for the verification process to finish. This may take 3-5 minutes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/sfc-scannow.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) When the verification finishes, you may receive one of the following messages:
 
@@ -246,10 +222,6 @@ sfc /scannow
 
  If you receive neither of these messages, you can click **[Microsoft Support Page](https://support.microsoft.com/en-us/help/929833/use-the-system-file-checker-tool-to-repair-missing-or-corrupted-system)**  to further fix your problem with the System File Checker tool.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 9: Perform a clean boot
 
  Battlefield V crashing can be caused by other conflicting applications. To see if that’s your problem, try performing a clean boot.
@@ -258,17 +230,9 @@ sfc /scannow
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/run-box.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click the**Services** tab and check the**Hide all Microsoft services** box, then click**Disable all** . Then click**OK** to apply.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/perform-a-clean-boot.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click the**Startup** tab and click**Open Task Manager** .
 
@@ -306,18 +270,20 @@ sfc /scannow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-channeling-success-navigating-the-new-youtube-membership-model/"><u>[Updated] 2024 Approved Channeling Success Navigating the New YouTube Membership Model</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-flying-tech-at-its-best-minuscule-uavs-ranked/"><u>2024 Approved Flying Tech at Its Best Minuscule UAVs Ranked</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/a-comprehensive-guide-to-owc-mercury-pro-drives-speed-quality-and-best-results/"><u>A Comprehensive Guide to OWC Mercury Pro Drives - Speed, Quality & Best Results</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/boost-performance-with-new-driver-updates-for-the-acer-predator-helios/"><u>Boost Performance with New Driver Updates for the Acer Predator Helios</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/die-besten-free-dvd-ripper-apps-fur-windows-11-im-jahr-2ebar-2023-umfassender-vergleich/"><u>Die Besten FREE-DVD-Ripper Apps Für Windows 11 Im Jahr 2Ebar 2023 – Umfassender Vergleich</u></a></li>
-<li><a href="https://win-answers.techidaily.com/enhancing-gaming-experience-by-fixing-frames-per-second-drops-on-pcs/"><u>Enhancing Gaming Experience by Fixing Frames Per Second Drops on PCs</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-advice-on-solving-minecrafts-failure-to-load-problems/"><u>Expert Advice on Solving Minecraft's Failure to Load Problems</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/forgot-locked-apple-iphone-8-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>Forgot Locked Apple iPhone 8 Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcome-low-frame-rate-problems-in-outriders-fixes-and-tips/"><u>Overcome Low Frame Rate Problems in Outriders – Fixes and Tips</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-steams-online-accessibility-challenges-effectively/"><u>Solving Steam's Online Accessibility Challenges Effectively</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-apps-and-online-tools-to-track-nubia-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Nubia Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/transfer-von-windows-881-betriebssystem-zu-einer-frischen-systeminstallation-einfache-anleitung-fur-benutzer/"><u>Transfer Von Windows 8/8.1 Betriebssystem Zu Einer Frischen Systeminstallation: Einfache Anleitung Für Benutzer</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unrivaled-gadget-selections-for-the-seasoned-geeks-christmas-wishlist-2021-edition/"><u>Unrivaled Gadget Selections for the Seasoned Geek's Christmas Wishlist, 2021 Edition</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-field-fusion-top-10-agrarian-adventure-titles/"><u>[Updated] 2024 Approved Field Fusion Top 10 Agrarian Adventure Titles</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-expert-tutorial-on-utilizing-googles-automatic-speech-transcription-for-2024/"><u>[Updated] Expert Tutorial on Utilizing Google's Automatic Speech Transcription for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-exploring-depth-and-shadow-in-ai-text-art-for-2024/"><u>[Updated] Exploring Depth and Shadow in AI Text Art for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-masterclass-in-instagram-story-downloads-and-creation/"><u>2024 Approved Masterclass in Instagram Story Downloads & Creation</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/are-macintosh-machines-poised-to-emerge-as-trusted-gaming-devices-for-the-hardcore-community/"><u>Are Macintosh Machines Poised to Emerge as Trusted Gaming Devices for the Hardcore Community?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/boost-your-gameplay-top-6-tips-for-resolving-elden-ring-frame-rate-problems/"><u>Boost Your Gameplay: Top 6 Tips for Resolving Elden Ring Frame Rate Problems</u></a></li>
+<li><a href="https://facebook.techidaily.com/customized-digital-access-facebooks-strategy-surpasses-apples-model/"><u>Customized Digital Access: Facebook's Strategy Surpasses Apple's Model</u></a></li>
+<li><a href="https://win-answers.techidaily.com/death-stranding-debut-drama-defeated-a-smooth-start-at-last/"><u>Death Stranding Debut Drama Defeated: A Smooth Start at Last</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-problematic-warnings-on-voice-chats-a-step-by-step-guide/"><u>Fixing Problematic Warnings on Voice Chats: A Step-by-Step Guide</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/hilariously-amusing-shooter-gaming-detailed-reviews-of-plants-vs-zombies-battle-for-neighborville/"><u>Hilariously Amusing Shooter Gaming - Detailed Reviews of 'Plants Vs. Zombies: Battle for Neighborville'</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-overcome-graphics-rendering-issues-tackling-errgfxd3dinit-in-grand-theft-auto-v/"><u>How to Overcome Graphics Rendering Issues: Tackling ERR_GFX_D3D_INIT in Grand Theft Auto V</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-subnautica-underwater-adventure-crash-problems-on-windows-machines/"><u>Overcoming Subnautica Underwater Adventure Crash Problems on Windows Machines</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723013442900-quick-solutions-overcome-battlefield-5-not-starting-problem-in-minutes/"><u>Quick Solutions: Overcome 'Battlefield 5 Not Starting' Problem in Minutes!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723000538597-resolve-ashen-bug-seamlessly-get-back-in-control-fast/"><u>Resolve Ashen Bug Seamlessly – Get Back in Control Fast!</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/sourcing-free-frame-videos-without-a-dollar-drop-for-2024/"><u>Sourcing Free Frame Videos Without a Dollar Drop for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Discord Camera Problems Solved - Tips for Getting It Working Again
-date: 2025-02-12T20:55:43.454Z
-updated: 2025-02-14T18:43:17.127Z
+date: 2025-03-01T16:06:35.389Z
+updated: 2025-03-04T16:15:25.914Z
 tags:
   - win11
   - win10
@@ -57,10 +57,6 @@ thumbnail: https://thmb.techidaily.com/19c73d13dc30898f49d32d8c5d0e6badbf2d50aea
 
  Run Fortnite again to check if you can log into the game or not. If it not, or there was no new game patch available, move on to Fix 2, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Reboot your network
 
  By rebooting your network, your Internet connection speed may be back to normal. So maybe it will also resolve this issue. Here is how to do it:  
@@ -68,10 +64,6 @@ thumbnail: https://thmb.techidaily.com/19c73d13dc30898f49d32d8c5d0e6badbf2d50aea
 1. **Unplug** your modem (and your wireless router, if it’s a separate device) from power for **60 seconds** .  
 ![modem](https://images.drivereasy.com/wp-content/uploads/2018/10/modem.jpg)  
 ![wireless router](https://images.drivereasy.com/wp-content/uploads/2018/10/wireless-router.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 2. **Plug in** your network devices again and wait until the indicator lights are back to its normal state.
 
@@ -87,15 +79,7 @@ See if you can log in or not. if not, try the next fix, below.
 2. Click**GO** to start testing your connection speed.  
 ![speedtest](https://images.drivereasy.com/wp-content/uploads/2018/10/speedtest.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If the speed test result is much slower than usual, you should turn to your Internet service provider (ISP) for further supports. If the test result is normal, then try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Reset Winsock data
 
@@ -109,10 +93,6 @@ See if you can log in or not. if not, try the next fix, below.
 3. **Restart** your PC to complete the reset.
 
  Launch Fortnite after you restart your PC to see if you can log in or not. If you fail to log in, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Flush your DNS and Renew your IP
 
@@ -132,10 +112,6 @@ See if you can log in or not. if not, try the next fix, below.
 ![Fix 5 step 1](https://images.drivereasy.com/wp-content/uploads/2018/10/Fix-5-step-1.jpg)
 2. Type the command line**ipconfig /release**  and press **Enter**  on your keyboard.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![ipconfig release](https://images.drivereasy.com/wp-content/uploads/2018/10/ipconfig-release.jpg)
 3. Type the command line**ipconfig /renew**  and press **Enter**  on your keyboard.  
 
@@ -143,10 +119,6 @@ See if you can log in or not. if not, try the next fix, below.
 4. Launch Fortnite.
 
  See if you can log in or not. If this issue persists, try updating your network driver to the latest version.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Update your network driver
 
@@ -174,15 +146,7 @@ See if you can log in or not. if not, try the next fix, below.
  (Alternatively if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)  
 ![Update Broadcom 802.11.ac Network Adapter driver](https://images.drivereasy.com/wp-content/uploads/2018/12/Update-Broadcom-802.11.ac-Network-Adapter-driver.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 7: Avoid wireless interference
 
@@ -219,10 +183,6 @@ See if you can log in or not. if not, try the next fix, below.
 
 ![Control Panel](https://images.drivereasy.com/wp-content/uploads/2018/10/Control-Panel.jpg)
 3. In the pop-up window, click**Change adapter settings** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Change adapter settings](https://images.drivereasy.com/wp-content/uploads/2018/10/Change-adapter-settings.jpg)
 4. **Right-click** your current network and then select **Properties** .  
@@ -271,22 +231,16 @@ Launch Fortnite to see if you can log in or not.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-innovative-approaches-to-monitoring-and-snapping-digital-displays/"><u>[New] In 2024, Innovative Approaches to Monitoring and Snapping Digital Displays</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1-seamless-conversion-transforming-xces-files-into-mp4-format-top-3-no-cost-methods-for-pc-users/"><u>1. Seamless Conversion: Transforming XCES Files Into MP4 Format - Top 3 No-Cost Methods for PC Users</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1-transforming-flv-videos-into-mp4-format-a-step-by-step-guide-for-windows-11-users/"><u>1. Transforming FLV Videos Into MP4 Format: A Step-by-Step Guide for Windows 11 Users</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1-ultimate-guide-extracting-videos-flawlessly-using-top-rated-youtube-downloaders/"><u>1. Ultimate Guide: Extracting Videos Flawlessly Using Top-Rated YouTube Downloaders</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-crafting-gifs-from-youtube-detailed-step-by-step-guide-for-pcmobile/"><u>2024 Approved Crafting GIFs From YouTube Detailed Step-by-Step Guide for PC/Mobile</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-insights-from-toms-technology-showdowns/"><u>Expert Insights From Tom's Technology Showdowns</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-google-pixel-7a-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Google Pixel 7a Phone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-2023-fb-video-downloader-app-windows-macos-android/"><u>In 2024, 2023 FB Video Downloader App - Windows, macOS, Android</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Samsung Galaxy A05? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/step-by-step-guide-integrating-cab-files-into-your-windows-installer-packages/"><u>Step-by-Step Guide: Integrating .CAB Files Into Your Windows Installer Packages</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-lava-yuva-2-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Lava Yuva 2? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://win-answers.techidaily.com/stream-endless-fun-enjoy-complimentary-cartoons-and-animation-episodes/"><u>Stream Endless Fun: Enjoy Complimentary Cartoons & Animation Episodes</u></a></li>
-<li><a href="https://win-superb.techidaily.com/understanding-potential-pitfalls-a-guide-to-cryptocurrency-investment-risks-by-yl-computing/"><u>Understanding Potential Pitfalls: A Guide to Cryptocurrency Investment Risks - By YL Computing</u></a></li>
-<li><a href="https://win-answers.techidaily.com/understanding-the-distinctions-between-h2t64-and-mpeg-4-codecs-and-how-to-convert-them/"><u>Understanding the Distinctions Between H.2t64 and MPEG-4 Codecs & How to Convert Them</u></a></li>
-<li><a href="https://win-answers.techidaily.com/vk-20243/"><u>VK動画ダウンロードガイド 2024年上位3つの方法</u></a></li>
-<li><a href="https://win-answers.techidaily.com/windows-10dvd-and/"><u>Windows 10で無料で簡単にDVDをコピーする最適なソフトウェア - レビュー & 推薦</u></a></li>
-<li><a href="https://win-answers.techidaily.com/youtubeyoutube-music/"><u>アップロード先：YouTubeとYouTube Music - 最善の音楽添付方法</u></a></li>
+<li><a href="https://win-answers.techidaily.com/boost-your-avatar-gaming-experience-solutions-for-low-frames-per-second/"><u>Boost Your Avatar Gaming Experience: Solutions for Low Frames per Second</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ending-early-loops-addressing-stability-issues-in-final-fantasy-xv-for-pc-gamers/"><u>Ending Early Loops: Addressing Stability Issues in Final Fantasy XV for PC Gamers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-nokia-c210-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Nokia C210 to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/improved-performance-with-the-recent-update-of-nvidia-geforce-210-drivers-for-windows-10-users/"><u>Improved Performance with the Recent Update of NVIDIA GeForce #210 Drivers for Windows 10 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/launching-printer-from-protected-windows-11-edge-mode/"><u>Launching Printer From Protected Windows 11 Edge Mode</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/logitech-4k-pro-webcam-complete-specifications-and-features-for-2024/"><u>Logitech 4K Pro Webcam Complete Specifications & Features for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-video-creation-and-editing-on-your-mac-with-av-movivid-tutorials/"><u>Mastering Video Creation and Editing on Your Mac with Av MoviVid Tutorials</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/optimal-methods-for-diagnosing-your-systems-memory-insights-from-yl-computing/"><u>Optimal Methods for Diagnosing Your System's Memory: Insights From YL Computing</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-launch-issues-in-warzone-a-comprehensive-guide/"><u>Overcoming Launch Issues in 'Warzone': A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-optimization-tips-for-smooth-serious-sam-4-gaming-experience-without-delays-or-freezes/"><u>PC Optimization Tips for Smooth Serious Sam 4 Gaming Experience Without Delays or Freezes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-and-updating-scripts-if-any-issues-arise-during-testing-or-use-check-for-errors-in-web-disco-and-adjust-as-needed-keep-updated-on-new-featur617/"><u>Troubleshooting and Updating Scripts: If Any Issues Arise During Testing or Use, Check for Errors in Web Disco and Adjust as Needed. Keep Updated on New Features From Both Google Assistant and Actions Platform for Further Customization Possibilities</u></a></li>
 </ul></div>
 

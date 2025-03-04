@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Solving Crashes in 'Horizon Forbidden West' Full Version on Windows"
-date: 2025-02-12T21:09:11.591Z
-updated: 2025-02-14T20:24:10.776Z
+date: 2025-02-25T16:11:38.627Z
+updated: 2025-03-04T16:15:38.679Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/1b3acf6f92837e9104aa399e6aa268354b94b6b82
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Here are 6 methods that have helped other players solve Diablo 2 Resurrected crashing on PC. You may not try them all. Just work your way down the list until you find the one that does the trick.
@@ -38,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/1b3acf6f92837e9104aa399e6aa268354b94b6b82
 4. **[Run the game as an administrator](https://tools.techidaily.com/drivereasy/download/)**
 5. [**Scan and repair corrupt game files**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Turn off overlays](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1 – Check the Diablo 2 Resurrected minimum system requirement
 
@@ -75,10 +67,6 @@ If this method doesn’t help, check out your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click the**Update** button next to a flagged graphics driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-5700-xt-1.jpg)
 
@@ -103,10 +91,6 @@ If this method doesn’t help, check out your graphics driver.
 
  Relaunch Diablo 2 Resurrected to see if it runs properly. If not, there are a few more fixes to try below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5 – Scan and repair corrupt game files
 
  It’s possible that there are corrupted or missing game files stopping your Diablo 2 Resurrected from functioning correctly, which therefore triggers the crashes. To repair the corrupt files, follow the steps below:
@@ -130,10 +114,6 @@ If this method doesn’t help, check out your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-2-1.jpg)
 2. Select the**Overlay** tab from the left and toggle off**Enable in-game overlay** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-2-2.jpg)
 
 **On GeForce Experience**
@@ -141,10 +121,6 @@ If this method doesn’t help, check out your graphics driver.
 1. Launch GeForce Experience. Then click the**cogwheel icon** at the upper right corner.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-1-1.jpg)
 2. Toggle off**In-game overlay** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/0-00.jpg)
 
@@ -172,21 +148,20 @@ If this method doesn’t help, check out your graphics driver.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-achieve-uniqueness-with-character-vocal-changes-in-free-fire-at-zero-price/"><u>[Updated] 2024 Approved Achieve Uniqueness with Character Vocal Changes in Free Fire, at Zero Price</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-directvid-snapper-for-video-calls-for-2024/"><u>[Updated] DirectVid Snapper for Video Calls for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-maximizing-your-reach-live-360-videos-on-facebook-for-2024/"><u>[Updated] Maximizing Your Reach Live 360 Videos on Facebook for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-top-3-beyond-youtube-innovative-videostreaming-communities/"><u>[Updated] Top 3 Beyond Youtube Innovative Videostreaming Communities</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Apple iPhone X | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/conquer-game-interruptions-7-essential-fixes-for-stable-play-in-diablo-4/"><u>Conquer Game Interruptions: 7 Essential Fixes for Stable Play in Diablo 4</u></a></li>
-<li><a href="https://win-answers.techidaily.com/discord-stutter-solved-your-complete-2024-anti-lagging-strategy-revealed/"><u>Discord Stutter Solved? Your Complete 2024 Anti-Lagging Strategy Revealed!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/easy-fixes-for-frequent-wwe-2k20-pc-game-crashes/"><u>Easy Fixes for Frequent WWE 2K20 PC Game Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/enhance-counter-strike-2-experience-a-guide-for-smooth-and-higher-fps-on-pc/"><u>Enhance Counter Strike 2 Experience: A Guide for Smooth and Higher FPS on PC</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/inside-the-core-of-xstream-studios-an-exhaustive-studio-guide/"><u>Inside the Core of XStream Studios – An Exhaustive Studio Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/maximize-fps-expert-tips-for-solving-valorants-frame-rate-challenges-202n/"><u>Maximize FPS: Expert Tips for Solving Valorant's Frame Rate Challenges (202N)</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-vivo-t2-pro-5g-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Vivo T2 Pro 5G Phone? Unlock It Now</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/reset-and-refresh-fixing-common-issues-in-final-cut-pro-x-for-2024/"><u>Reset and Refresh Fixing Common Issues in Final Cut Pro X for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/restore-missing-app-icon-on-motorola-edge-40-pro-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Motorola Edge 40 Pro Step-by-Step Solutions | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-how-to-fix-dauntless-crashes-on-your-windows-computer/"><u>Troubleshooting Tips: How to Fix 'Dauntless' Crashes on Your Windows Computer</u></a></li>
-<li><a href="https://win-answers.techidaily.com/warframe-performance-problems-solved-no-more-endless-freezing/"><u>Warframe Performance Problems Solved – No More Endless Freezing</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-free-iphones-masterclass-perfect-your-pictures-with-simple-edits/"><u>[New] 2024 Approved FREE iPhones Masterclass Perfect Your Pictures with Simple Edits</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-blueprint-for-stellar-tiktok-campaigns-and-social-media-conquests-for-2024/"><u>[New] Blueprint for Stellar TikTok Campaigns and Social Media Conquests for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/boosting-your-macs-performance-a-user-friendly-guide-to-installing-and-using-dual-monitors/"><u>Boosting Your Mac's Performance: A User-Friendly Guide to Installing and Using Dual Monitors</u></a></li>
+<li><a href="https://win-answers.techidaily.com/eliminate-lags-enhance-gaming-proven-methods-for-resolving-pc-gameframe-drop-issues/"><u>Eliminate Lags, Enhance Gaming: Proven Methods for Resolving PC Gameframe Drop Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhancements-made-in-the-latest-fix-for-football-manager-2020-reliable-performance-guaranteed/"><u>Enhancements Made in the Latest Fix for Football Manager 2020 - Reliable Performance Guaranteed</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-obs-studio-no-longer-capturing-video-feed/"><u>Fix: OBS Studio No Longer Capturing Video Feed</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-motorola-g24-power-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Motorola G24 Power Phone | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-xiaomi-redmi-note-12t-pro-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Xiaomi Redmi Note 12T Pro Phone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-motorola-edge-40-neo-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Motorola Edge 40 Neo to iPhone | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/learn-the-art-of-mac-security-in-depth-video-on-encrypting-decrypting-and-restoring-your-hard-drive/"><u>Learn the Art of Mac Security: In-Depth Video on Encrypting, Decrypting and Restoring Your Hard Drive</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solve-your-mass-effect-legendary-edition-crash-issues-on-pc-or-xbox/"><u>Solve Your Mass Effect Legendary Edition Crash Issues on PC or Xbox</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-ipad-applications-boosting-efficiency-streamline-your-task-management/"><u>Top iPad Applications Boosting Efficiency: Streamline Your Task Management</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-smooth-gameplay-for-age-of-empires-4/"><u>Troubleshooting Tips: Smooth Gameplay for Age of Empires 4</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722997820896-war-thunder-continuous-crash-problems-discover-these-fixes-made/"><u>War Thunder Continuous Crash Problems? Discover These Fixes Made</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723007766009-war-thunder-performance-optimization-ultimate-guide-to-fixing-low-fps-issues-with-latest-tips/"><u>War Thunder Performance Optimization: Ultimate Guide to Fixing Low FPS Issues with Latest Tips!</u></a></li>
 </ul></div>
 
